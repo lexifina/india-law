@@ -1,0 +1,57 @@
+# The Marriage Laws (Amendment) Act, 2003
+
+Act 50 of 2003, as enacted.
+
+# Preamble
+
+An Act further to amend the Special Marriage Act, 1954 and the Hindu _ Marriage Act, 1955.
+
+Be it enacted by Parliament in the Fifty-fourth Year of the Republic of India as follows:—
+
+# Chapter I
+
+PRELIMINARY
+
+# Chapter II
+
+AMENDMENTS TO THE SPECIAL MARRIAGE ACT, 1954
+
+# Chapter IV
+
+# Section 1. Short title
+
+1. This Act may be called the Marriage Laws (Amendment) Act, 2003.
+
+# Section 2. Amendment of section 31
+
+2. In the Special Marriage Act, 1954 (hereinafter referred to as the Special Marriage Act), in section 31, in sub-section (1), after clause (iii), the following clause shall be inserted, namely: —
+
+"(iiia) in case the wife is the petitioner, where she is residing on the date of presentation of the petition; or'.
+
+# Section 3. Amendment of section 39
+
+3. In section 39 of the Special Marriage Act, in sub-section (4), for the words
+
+"period of thirty days", the words "period of ninety days" shall be substituted. y
+
+CHAPTER fl AMENDMENTS TO THE Hinpu Marrrace Act, 1955
+
+# Section 4. Amendment of section 19
+
+4. In the Hindu Marriage Act, 1955 (hereinafter referred to as the Hindu Marriage ) Act), in section 19, in sub-section (1), after clause (iii), the following clause shall be inserted, namely:—
+
+"(iiia) in case the wife is the petitioner, where she is residing on the date of presentation of the petition, or".
+
+# Section 5. Amendmen: of section 28
+
+5. In section 28 of the Hindu Marriage Act, in sub-section (4), for the words
+
+"period of thirty days", the words "period of ninety days" shall be substituted.
+
+# Section 6. Transilory provision
+
+6. All decrees and orders made by the court in any proceedings under the Special Marriage Act or the Hindu Marriage Act shall be governed under the provisions contained in section 3 or section 5, as the case may be, as if this Act came into operation at the time of the institution of the suit:
+
+Provided that nothing in this section shall apply to a decree or order in which the time for appealing has expired under the Special Marriage Act or the Hindu Marriage Act at the commencement of this Act.
+
+T.K. VISWANATHAN, Secy. to the Govt. of India.
