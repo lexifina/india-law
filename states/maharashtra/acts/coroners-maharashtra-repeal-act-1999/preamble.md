@@ -1,0 +1,15 @@
+# Preamble
+
+An Act to repeal the Coroners Act, 1871, applicable within the local limits of the ordinary original civil jurisdiction of the High Court of Judicature at Bombay (now Brihan Mumbai), in the State of Maharashtra.
+
+WHEREAS the Governor of Maharashtra had promulgated the Coroners (Maharashtra Repeal) Ordinance, 1999 (Mah. Ord. XVII of 1999), on the 26th July 1999 (hereinafter referred to as "the said Ordinance") ;
+
+AND WHEREAS upon the re-assembly of the State Legislature on the 22nd October 1999, the said ordinance was laid before both Houses of the State Legislature, however, a Bill for converting the said Ordinance into an Act of the State Legislature could not be introduced in the Maharashtra Legislative Assembly for want of time as the session of the State Legislature prorogued on the 23rd October 1999;
+
+AND WHEREAS as provided by article 213(2)(a) of the Constitution of India, the said Ordinance would have ceased to operate after the 3rd December 1999, the date on which the period of six weeks from the date of re-assembly of the State Legislature would have expired ;
+
+AND WHEREAS it was considered expedient to ensure that the said Ordinance is converted into an Act of the State Legislature;
+
+AND WHEREAS both Houses of the State Legislature were not in session and the Governor of Maharashtra was satisfied that circumstances existed which rendered it necessary for him to take immediate action to continue the said Ordinance, for the aforesaid purposes ; and therefore, the said Ordinance was repealed by withdrawal and the Coroners (Maharashtra Repeal) (Continuance) Ordinance, 1999 (Mah. Ord. XXIX of 1999), which was promulgated with retrospective effect, that is with effect from the 26th July 1999, on the 2nd December 1999 ;
+
+AND WHEREAS it is expedient to replace the provisions of the Coroners (Maharashtra Repeal) (Continuance) Ordinance, 1999 (Mah. Ord. XXIX of 1999), by an Act of the State Legislature ; It is hereby enacted in the Fiftieth Year of the Republic of India as follows :—
