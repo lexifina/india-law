@@ -1,0 +1,17 @@
+---
+title: "The Criminal Law Amendment Act, 1961 (23 of 1961), the Central Government hereby declares the issue No. 43 dated the 26-10-1962, of the periodical entitled Peking Review, published by Peking Review Pal Wan Chuang, Peking (37), China and printed in the Peoples Republic of China,"
+ministry: "Ministry of Home Affairs"
+notification_no: "G.S.R. 1544"
+published: "1961-11-16"
+mirror: "https://archive.org/details/in.gazette.e.1962.278"
+---
+
+# The Criminal Law Amendment Act, 1961 (23 of 1961), the Central Government hereby declares the issue No. 43 dated the 26-10-1962, of the periodical entitled Peking Review, published by Peking Review Pal Wan Chuang, Peking (37), China and printed in the Peoples Republic of China,
+
+MINISTRY OF HOME AFFAIRS NOTIFICATIONS New Delhi, the 16th November 1962 G.S.R. 1544.—In exercise of the powers conferred by sub-section (1) road with sub-section (2) of section 4 of the Criminal Law Amendment Act, 1961 (23 of 1961), the Central Government hereby declares the issue No. 43 dated the 26th October, 1962, of the periodical entitled "Peking Review", published by Peking Review Pal Wan Chuang, Peking (37), China and printed in the People's Republic of China, and every copy of the said issue and all other documents containing copies, reprints and translations of, or extracts from, the said issue to be forfeited to the Government on the ground that the articles entitled "China Puts Forward Three Proposals To End Border Conflict, Re-open Negotiations and Settle SinoIndian Boundary Question Peacefully", "Statements of Chinese Ministry of National Defence" and It's Nehru Who Refuses to Negotiate And Who Orders Fighting" contained in the said issue, the publication of which Is punishable under section 2 of the said Act, question the territorial integrity and frontiers of India in a manner which is likely to be prejudicial to the interests of the safety and security of India by reason of the fabrication of data in the said articles with a view to questioning the validity of McMahon Line as the international boundary of India.
+
+[No. 4/41/02-Poll.(I).] G.S.R. 1545.—In exercise of the powers conferred by sub-section (I) read with sub-section (2) of section 4 of the Criminal Law Amendment Act, 1961 (23 of 1961), the Central Government hereby declares the Issue No. 44 dated the 2nd November 1962 of the Periodical entitled "Peking Review", published by Peking Review Pai Wan Chuang, Peking (37), China and printed in the People's Republic of China, and every copy of the said issue and all other documents containing copies, reprints and translations of, or extracts from, the said issue to be forfeited to the Government on the ground that the articles entitled "China's Fair and Reasonable Proposals", "More on Nehru's Philosophy in the Light of the Sino-Indian Boundary Question", "Indian Invasion of Chinese Territory" and "Changes in the Sino-Indian Boundary Line On Indian Maps", the publication of which is punishable under section 2 of the said Act, question the territorial Integrity and frontiers of India in a manner which is likely to be prejudicial to the Interests of the safety and security of India by reason of the fabrication of data in the said articles with a view to questioning the validity of McMahon Line as the International boundary of India.
+
+[No. 4/41(A)/62-Poll(I).] N. SAHGAL, Jt. Secy.
+
+( 6 6 3 ) PRINTED IN INDIA BY THE GENERAL MANAGER, GOVERNMENT OF INDIA PRESS, NEW DELHI AND PUBLISHED BY THE MANAGER OF PUBLICATIONS, DELHI, 1062
