@@ -1,0 +1,31 @@
+# The Customs and Central Excise Laws (Repeal) Act, 2004
+
+Act 25 of 2004, as enacted.
+
+# Preamble
+
+An Act to repeal certain Customs and Central Excise enactments.
+
+Be it enacted by Parliament in the Fifty-fifth Year of the Republic of India as follows:—-
+
+# The Schedule
+
+(See section 2) § Number Short title 1958 27 The Mineral Oils (Additional Duties of Excise and Customs) Act, 1958. 1959 58 The Sugar (Special Excise Duty) Act, 1959. 1986 45 The central Duties of Excise (Retrospective Exemption) Act, 1986. 1986 62 The Customs and Excise Revenues Appellate Tribunal Act, 1986. 1988 29 The Customs and Centrai Excises Laws (Amendment) Act, 1988.
+
+T. K. VISWANATHAN, Secy. to the Govt. of India.
+
+AND PUBLISHED BY THE CONTROLLER OF PUBLICATIONS, DELHI. 2604.
+
+# Section 1. Short title
+
+1. This Act may be called the Customs and Central Excise Laws (Repeal) Act, 2004.
+
+# Section 2. Repeal of
+
+2. The enactments specified in the Schedule are hereby repealed,
+
+# Section 3. enactments. Savings. Year
+
+3. (1) The repeal by this Act of any enactment shall not affect any other enactment in which the repealed enactment has been applied, incorporated or referred to; and this Act shall not affect the validity, invalidity, effect or consequences of anything already done or suffered, or any right, title, obligation or liability already acquired, accrued or incurred, or any remedy or proceedings in respect thereof, or any release or discharge of or from any debt, penalty, obligation, liability, claim or demand, or any indemnity already granted, or the proof of any past act or thing; nor shal! this Act affect any principle or rule of law, or established jurisdiction, form or course of pleading, practice or procedure, or existing usage, custom, privilege, restriction, exemption, office or appointment, notwithstanding that the same respectively may have been in any manner affirmed or recognised or derived by, in or from any enactment hereby repealed; nor shall the repeal by this Act of any enactment revive or restore any jurisdiction, office, custom, liability, right, title, privilege, restriction, exemption, usage, practice, procedure or other matter or thing not now existing or in force.
+
+(2) Sub-section (7) shall not be held to prejudice or affect the general application of section 6 of the Genera! Clauses Act, 1897 with regard to the effect of repeal of the Acts specified in the Schedule.
