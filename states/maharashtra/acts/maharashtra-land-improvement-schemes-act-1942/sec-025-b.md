@@ -1,0 +1,3 @@
+# Section 25B
+
+25B. Power to revoke scheme.— If upon an application made by the Board, the State Government is satisfied that it is necessary so to do, the State Government may, at any time 3[after consulting with the Company, if necessary,] by notification in the Official Gazette, revoke any scheme after it has come into force and upon such revocation the provisions of this Act, except section 15, shall cease to apply to such scheme. Such notification shall also be published in the village and at the headquarters of the 4[taluka 5* *] and of the district in which the lands included in such scheme are situate.]
