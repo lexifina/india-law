@@ -1,0 +1,17 @@
+{
+ "about": "Date corrections to the published history of india-law: every Act version found misdated and the labelled correction (Kind: correction) that gives its first day. A correction is found by its Corrects trailer (act path and range); \"misdated\" is the version it restates, unchanged. Written by runners/in-acts-fix/build_fix.py; see tools/on.py.",
+ "corrections": [
+  {
+   "act": "central/amending-acts/2002/38-patents-amendment-act-2002.md",
+   "misdated": "87556a1407dbc702d4852defdfab836e5500c495",
+   "recorded_day": "2019-06-06",
+   "in_force": "2003-05-20",
+   "corrects": "2003-05-20..2019-06-05",
+   "evidence": "S.O.561(E) of 2003-05-20 (commencement notification, Gazette Id in.gazette.central.e.2003-05-20.24588): appoints 2003-05-20 for section 3 (in part) and sections 4 to 66 (some in part)",
+   "reason": "misdated: dated by G.S.R.410(E) of 2019, which brought into force only section 2 so far as it amends section 71 of the Patents Act; most of the Act came into force on 2003-05-20 (S.O.561(E))",
+   "supersedes": "none",
+   "kind": "redate",
+   "written": "2026-11-23"
+  }
+ ]
+}
