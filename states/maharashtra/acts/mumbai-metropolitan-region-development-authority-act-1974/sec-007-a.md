@@ -1,0 +1,3 @@
+# Section 7A
+
+7A. Authentication of orders etc., of Authority 2[and Executive Committee].— All proceedings of the Authority 3* * * * and the Executive Committee shall be authenticated by the signature of the Chairman of the Authority, 4* * * * or the Executive Committee, as the case may be, or of any member thereof authorised by the Chairman in this behalf, and all other orders and instruments of the Authority shall be authenticated by the Metropolitan Commissioner or 5[the Secretary of the Executive Committee] or by any other officer of the Authority authorised by the Metropolitan Commissioner in this behalf. ]

@@ -1,0 +1,11 @@
+# Section 46A
+
+46A. Control by State Government.— (1) The Metropolitan Authority shall exercise its powers and perform its duties under this Act in accordance with the policy framed and guidelines laid down, from time to time, by the State Government for development of the areas in Metropolitan Region.
+
+(2) The Authority shall be bound to comply with such directions which may be issued, from time to time, by the State Government for efficient administration of this Act.
+
+(3) If, in connection with the exercise of the powers and the performance of the duties of the Authority under this Act, any dispute arises between the Authority and the State Government, the matter shall be decided by the State Government and its decision shall be final.
+
+Notes in the official text:
+
+- Sections 46A and 46B were inserted by Mah. 29 of 1976, s. 21.
