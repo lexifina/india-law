@@ -1,0 +1,7 @@
+# Section 22AAA
+
+22AAA. Provisions for voluntary allotment or premature retirement of employees falling under section 22AA.— If any posts, in a cadre of Class III or Class IV service of the Authority have been or are rendered surplus to the requirements of the Authority and are, therefore, required to be abolished, then the State Government may, by general or special order, direct the Authority to give an option to the concerned employees to assent to be finally allotted to the Zilla Parishads or permit them to retire prematurely from the service of the Authority from such date as may be specified in the order, by the State Government. The position in this behalf shall be conveyed by the Authority to the State Government and the State Government may, by an order in the Official Gazette, allot such surplus staff to each of the Zilla Parishads with due regard to the exigencies of services; and such Zilla Parishad shall take them over from the said date:
+
+Provided that, no person so taken over shall be entitled to be repatriated to service under the Authority:
+
+Provided further that, such employee who opt for retirement, shall be entitled to such terminal benefits as pension or gratuity as applicable to him (but not compensation), which terminal benefits shall not be less favourable than the benefits he would have been entitled to had his services ceased under the Authority on the date specified in the order.]

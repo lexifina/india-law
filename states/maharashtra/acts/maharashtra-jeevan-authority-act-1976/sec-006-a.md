@@ -1,0 +1,5 @@
+# Section 6A
+
+6A. Temporary absence of Members.— 5[(1) In the absence of the Chairman, the Minister for Urban Development being the Co-Chairman, and in the absence of the both, the Minister for Rural Development, being the other Co-Chairman, and in the absence of all the said three, the Minister of State for Water Supply and Sanitation, being the Vice-Chairman, and in his absence, the Minister of State for Urban Development, being the other Vice-Chairman, shall be competent to carry out the duties and functions of the Chairman.]
+
+(2) If any member, other than an ex-officio Member of 6[the Authority] is, by reason of illness or otherwise, rendered temporarily incapable of carrying out his duties or is granted leave of absence by the State Government, or is otherwise unable to attend to his duties, in the circumstances not involving the cessation of his membership, the State Government may appoint another person to act for him as the Member to carry out his duties and functions as are allotted by or under this Act. Such person shall vacate office on the date when the Member resumes his duties.]]
