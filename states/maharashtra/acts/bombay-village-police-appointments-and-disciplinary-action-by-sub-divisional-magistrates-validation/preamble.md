@@ -1,0 +1,7 @@
+# Preamble
+
+An Act to validate the appointment of Police-Patels, by certain Magistrates not being District Magistrates, and for matters connected therewith.
+
+WHEREAS, the High Court of judicature at Bombay has in certain cases decided that section 3 of the Bombay Village Police Act, 1867 (Bom. VIII of 1867) (which gives power to the Commissioner of control and direction of the administration of the village police exercised by the Magistrate of a district, and gives power to such Magistrate to delegate any portion of his power to another Magistrate) does not give authority to such Magistrate of the district to delegate the powers of appointment of, and disciplinary action against, Police-patels to a Magistrate subordinate to him and, therefore, the purported delegation of the power of the Magistrate of the district to Sub-Divisional Magistrates to appoint Police-patels, and to take disciplinary action against Police-patels, under section 9, is unauthorised, and of no effect;
+
+AND WHEREAS, it is necessary to give power to the Magistrate of a district to delegate to SubDivisional Magistrates the power to appoint Police-patels and to take disciplinary action against them, and to validate the appointments already made and any disciplinary action already taken by such SubDivisional Magistrates under powers which were purported to be delegated to them under section 3 as aforestated, and it is necessary also to provide for matters connected therewith; It is hereby enacted in the Eighteenth Year of the Republic of India as follows:—
