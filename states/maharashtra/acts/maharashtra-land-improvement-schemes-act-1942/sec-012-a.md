@@ -1,0 +1,3 @@
+# Section 12A
+
+12A. Penalty.— Any person who contravenes or causes any contravention of any of the provisions of a scheme which has come into force under section 10, or any of the regulations made under section 10A, or does any act which causes damage to any of the works carried out under the scheme or fails to fulfil any liability imposed upon him under section 13 21[or 13-A] or sub-section 22[(4)] of section 25 23[or of section 25A] shall, on conviction, be punishable with fine which may extend to fifty rupees or with simple imprisonment for a period which may extend to one month, or with both.]
