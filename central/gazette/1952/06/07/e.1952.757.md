@@ -1,0 +1,16 @@
+---
+title: "The following declaration containing the name of the candidate elected in the constituency referred to therein, is published for general information:DECLARATION-HOUSE OF THE PEOPLE-Gwalior Constituency"
+ministry: "Ministry of Law"
+published: "1952-06-07"
+mirror: "https://archive.org/details/in.gazette.e.1952.757"
+---
+
+# The following declaration containing the name of the candidate elected in the constituency referred to therein, is published for general information:DECLARATION-HOUSE OF THE PEOPLE-Gwalior Constituency
+
+MINISTRY OF LAW NOTIFICATION New Delhi, the 7th June, 1952 No. F.12(5)/52-C.—In pursuance of the provisions of section 67 of the Representation of the People Act, 1951 (XLIII of 1951), the following declaration containing the name of the candidate elected in the constituency referred to therein, is published for general information:—
+
+DECLARATION HOUSE OF THE PEOPLE Gwalior Constituency In pursuance of the provisions contained in Section 66 of the Representation of the People Act, 1951, read with Rule 48 of the Representation of the People (Conduct of Elections and Election Petitions) Rules 1951, I declare that Khare, Dr. Narayan S/o Bhasker, House No. 35 Ward No. 1, Dhantoli, Nagpur, Madhya Pradesh has been duly elected in the bye-election to fill the seat in the Gwallor Constituency of the House of the People.
+
+GWALIOR , T. S. PAWAR, The 4 th June 1952.
+
+Returning Officer, K. Y. BHANDARKAR, Secy ( 1581 ) PRINTED IN INDIA BY THE MANAGER, GOVT. OF INDIA PRESS , NEW DELHI AND PUBLISHED BY THE MANAGER OF PUBLICATIONS, DELHI,
