@@ -1,0 +1,3 @@
+# Section 82B
+
+82B. Casual vacancies how to be filled up.— In the event of any vacancy occurring on account of the resignation by a member of the Standing or a Subject Committee or otherwise 6[the Secretary of the Committee] shall forthwith communicate the occurrence of such vacancy to the Zilla Parishad and the vacancy shall, subject to the provisions of section 81, be filled as soon as possible by the election or co-option, as the case may be, of a person thereto who shall hold office so long as the member in whose place he is elected or co-opted would have held it if the vacancy had not occurred.]

@@ -1,0 +1,3 @@
+# Section 101A
+
+101A. Power of Panchayat Samiti to incur expenditure from block grant.— Expenditure including any grant by a Panchayat Samiti out of the block grant shall, save as otherwise provided by this Act, be made within the area subject to its authority only; but may, notwithstanding anything contained in section 101, with the sanction of the Commissioner obtained through the Zilla Parishad concerned, be made outside that area for any of the purpose of this Act; but for the purpose of maintaining any property situated outside that area which is given to it by the Zilla Parishad, no such sanction shall be necessary.] 4* * * * *
