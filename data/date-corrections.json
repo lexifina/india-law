@@ -12,6 +12,18 @@
    "supersedes": "none",
    "kind": "redate",
    "written": "2026-11-23"
+  },
+  {
+   "act": "central/amending-acts/2000/53-companies-amendment-act-2000.md",
+   "misdated": "b7bfd8e497ca132d3dc474bf6de4560f2892867a",
+   "recorded_day": "2001-03-01",
+   "in_force": "2000-12-13",
+   "corrects": "2000-12-13..2001-02-28",
+   "evidence": "s.1(2): the provisions other than sections 7 and 80 come into force at once, i.e. on 2000-12-13, the assent day printed in the Gazette (in.gazette.central.e.2000-12-14.054)",
+   "reason": "misdated: dated by S.O.176(E) of 2001, which brought into force only section 7; section 1(2) brings every other provision into force at once, on 2000-12-13",
+   "supersedes": "none",
+   "kind": "redate",
+   "written": "2026-11-23"
   }
  ]
 }
