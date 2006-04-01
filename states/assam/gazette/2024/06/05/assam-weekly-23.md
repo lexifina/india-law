@@ -1,0 +1,484 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Weekly)"
+gazette_number: "23"
+gazette_type: "Weekly"
+issuer: "Government of Assam"
+published: "2024-06-05"
+in_force: "2006-04-01"
+in_force_evidence: "text: \"with effect from 1st April 2006\""
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._23_dated_05-06-24.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_weekly.2024-06-05.23"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+NOTIFICATION
+The 15th May, 2024
+
+234 THE ASSAM GAZETTE, JUNE 5, 2024 [PART-II (A)
+RAVI SHANKAR PRASAD,
+Special Chief Secretary to the Government of Assam,
+Environment and Forest Department.
+ORDER
+The 26th May, 2024
+
+PART-II (A)] THE ASSAM GAZETTE, JUNE 5, 2024 235
+ADIL KHAN,
+Secretary to the Government of Assam,
+Environment & Forest Department.
+The 29th May, 2024
+Principal Secretary to the Govt. of Assam,
+Skill, Employment & Entrepreneurship Department.
+
+236 THE ASSAM GAZETTE, JUNE 5, 2024 [PART-II (A)
+The 15th May, 2024
+No. CGDG(A)6/2023/274.- Whereas a result enquiry/inspection conducted by Smti.
+Manisha Sharma Bonia, Junior Auditor office of the Dist. Deputy Registrar of C.S. Kamrup
+under Section 87/88, Assam Cooperatie Societies Act, 2007 (Act. IV of 2013) in to the affairs of
+Bishbhani Village Organization CS Ltd. and whereas has been found that.
+1. The Society did not Cooperated for audit purpose.
+2. Members are not willing to conduct the audit works.
+Now therefore, in exercise of powers conferred under Sub-section 2 of Section 94 of the
+Assam Cooperative Societies Act, 2007 (Act, IV of 2013), I Dr. Paresh Saha, DRCS Kamrup do
+hereby cancel the registration of Bishbhani VOCS Ltd. bearing registration No. G. 42/2016-17
+dated ...................... with immediate effect.
+Further, in exercise of powers conferred under Section 95(1) of the Act. referred above, I
+do hereby appoint Sri B.K. Majumdar, Senior Auditor as the Liquidator of Bishbhani VOCS Ltd.
+All claims against dissolved Bishbhani VOCS Ltd. must be submitted to the Liquidator
+within 2(two) months from the date of publication of this notice.
+The 15th May, 2024
+No. CGDG(A)6/2023/275.- Whereas a result enquiry/inspection conducted by Smti.
+Anjushree Das, Senior Auditor of C.S. office of the Dist. Deputy Registrar of C.S. Kamrup
+under Section 87/88, Assam Cooperative Societies Act, 2007 (Act. IV of 2013) in to the affairs
+of Urvashi Village Organization Coop. Society Ltd. and whereas has been found that.
+1. After registration no BOD, no AGM was held.
+2. No business was started by the Society.
+Now therefore, in exercise of powers conferred under Sub-section 2 of Section 94 of the
+Assam Cooperative Societies Act, 2007 (Act, IV of 2013), I Dr. Paresh Saha, DRCS Kamrup do
+hereby cancel the registration of Urvashi VOCS Ltd. bearing registration No. G. 58/2016-17
+dated ..................... with immediate effect.
+Further, in exercise of powers conferred under Section 95(1) of the Act. referred above, I
+do hereby appoint Sri B.K. Mazumdar, Senior Auditor as the Liquidator of Urvashi VOCS Ltd.
+All claims against dissolved Urvashi VOCS Ltd. must be submitted to the Liquidator within
+2(two) months from the date of publication of this notice.
+District Deputy Registrar of Cooperative
+Societies, Kamrup, Guwahati.
+
+PART-II (A)] THE ASSAM GAZETTE, JUNE 5, 2024 237
+The 15th May, 2024
+No. CGDG(A)6/2023/276.- Whereas a result enquiry/inspection conducted by Smti.
+Anjushree Das, Junior Auditor office of the Dist. Deputy Registrar of C.S. Kamrup under Section
+87/88, Assam Cooperatie Societies Act, 2007 (Act. IV of 2013) in to the affairs of Mother Teresa
+Village Organization Coop. Society.Ltd.and whereas has been found that.
+1. After registration no BOD, no AGM was held.
+2. No business was started by the Society.
+Now therefore, in exercise of powers conferred under Sub-section 2 of Section 94 of the
+Assam Cooperative Societies Act, 2007 (Act, IV of 2013), I Dr. Paresh Saha, DRCS Kamrup do
+hereby cancel the registration of Mother Teresa VOCS Ltd. bearing registration No. G. 57/2016-
+17 dated 31-03-2017 with immediate effect.
+Further, in exercise of powers conferred under Section 95(1) of the Act. referred above, I
+do hereby appoint Sri B.K. Majumdar, Senior Auditor as the Liquidator of Mother Teresa VOCS
+Ltd.
+All claims against dissolved Mother Teresa VOCS Ltd. must be submitted to the Liquidator
+within 2(two) months from the date of publication of this notice.
+The 15th May, 2024
+No. CGDG(A)6/2023/277.- Whereas a result enquiry/inspection conducted by Smti.
+Lukumani Narah, Senior Auditor of C.S. office of the Dist. Deputy Registrar of C.S. Kamrup
+under Section 87/88, Assam Cooperative Societies Act, 2007 (Act. IV of 2013) in to the affairs
+of Arunodoi Village Organization Coop. Society Ltd. and whereas has been found that.
+1. After registration no AGM and no Board meeting was held.
+Now therefore, in exercise of powers conferred under Sub-section 2 of Section 94 of the
+Assam Cooperative Societies Act, 2007 (Act, IV of 2013), I Dr. Paresh Saha, DRCS Kamrup do
+hereby cancel the registration of Arunodoi VOCS Ltd. bearing registration No.G. 70/2016-17
+dated 31-03-2017 with immediate effect.
+Further, in exercise of powers conferred under Section 95(1) of the Act. referred above, I
+do hereby appoint Sri B.K. Mazumdar, Senior Auditor as the Liquidator of Arunodoi VOCS Ltd.
+All claims against dissolved Arunodoi VOCS Ltd. must be submitted to the Liquidator
+within 2(two) months from the date of publication of this notice.
+District Deputy Registrar of Cooperative
+Societies, Kamrup, Guwahati.
+
+238 THE ASSAM GAZETTE, JUNE 5, 2024 [PART-II (A)
+The 15th May, 2024
+No. CGDG(A)6/2023/278.- Whereas a result enquiry/inspection conducted by Smti.
+Lukumani Narah, Senior Auditor of the Dist. Deputy Registrar of C.S. Kamrup under Section
+87/88, Assam Cooperative Societies Act, 2007 (Act. IV of 2013) in to the affairs of Megharanjani
+Village Organization C.S. Ltd. and whereas has been found that.
+1. The Society did not update for AGM No board meeting and No conduct Audit after
+registration.
+Now therefore, in exercise of powers conferred under Sub-section 2 of Section 94 of the
+Assam Cooperative Societies Act, 2007 (Act, IV of 2013), I Dr. Paresh Saha, DRCS Kamrup do
+hereby cancel the registration of Megharanjani VOCS Ltd. bearing registration No.G.68/2016-
+17 dated 31-03-2017 with immediate effect.
+Further, in exercise of powers conferred under Section 95(1) of the Act. referred above, I
+do hereby appoint Sri B.K. Mazumdar, Senior Auditor as the Liquidator of Megharanjani VOCS
+Ltd.
+All claims against dissolved Megharanjani VOCS Ltd. must be submitted to the Liquidator
+within 2(two) months from the date of publication of this notice.
+The 27th May, 2024
+No. CGDG(A)6/2023/288.- Whereas a result enquiry/inspection conducted by Smti.
+Lukumani Narah, Senior Auditor of C.S. office of the Dist. Deputy Registrar of C.S. Kamrup
+under Section 87/88, Assam Cooperative Societies Act, 2007 (Act. IV of 2013) in to the affairs
+of Rupali Village Organization C.S. Ltd. and whereas has been found that.
+1. The Society did not conduct any AGM and no board meeting.
+2. No conduct audit after registration.
+Now therefore, in exercise of powers conferred under Sub-section 2 of Section 94 of the
+Assam Cooperative Societies Act, 2007 (Act, IV of 2013), I Dr. Paresh Saha, DRCS Kamrup do
+hereby cancel the registration of Rupali Village Organization C.S. Ltd. bearing registration No.G.
+67/2016-17 dated 31-03-2017 with immediate effect.
+Further, in exercise of powers conferred under Section 95(1) of the Act. referred above, I
+do hereby appoint Sri B.K. Mazumdar, Senior Auditor as the Liquidator of Rupali Village
+Organization Ltd.
+All claims against dissolved Rupali VOCS Ltd. must be submitted to the Liquidator within
+2(two) months from the date of publication of this notice.
+District Deputy Registrar of Cooperative
+Societies, Kamrup, Guwahati.
+
+Registered No.-768/97
+The Assam Gazette
+PUBLISHED BY THE AUTHORITY
+23 5 2024, 15 1946 ( )
+No.23 Dispur, Wednesday, 5th June, 2024, 15th Jaistha, 1946 (S.E.)
+Separate paging is given to this Part in order that it may be filed as a separate compilation.
+PART IX
+PART IX] THE ASSAM GAZETTE, JUNE 5, 2024 233
+13. Any Other Qualification (NCC, NSS etc) :
+14. Experience : (Please give details thereof)
+Name of the Designation Period Scale of Pay
+Organisation From To
+15. Language known :
+a) Spoken
+b) Written
+16. Mother Tongue :
+17. Employment Exchange Registration No. (Provide photocopy of Registration Card)
+18. Address for correspondence :
+P I N C O D E
+19. Permanent address of Applicant :
+P I N C O D E
+20. E-mail id if any :
+21. Telephone number (s) if any :
+22. Mobile number (s) if any :
+23. Distinction/Award/Special Achievements/Extra Curricular
+Activities/Experience :
+(Attach a separate sheet if required)
+DECLARATION
+1. I declare that I fulfil all the conditions of eligibility regarding age limits, educational qualification
+etc. prescribed for the recruitment.
+2. I have enclosed self attested photocopies of certificates in support of my claim for Educational
+Qualifications, Age, Category (SC/ST/OBC/General) and Age relaxation etc.
+3. I hereby further declare that all statements made in this application are true, complete and correct to
+the best of my knowledge and belief.
+4. I understand that in the event of any information being found suppressed/false or incorrect or ineligibility
+being detected before or after the recruitment, my candidature/appointment is liable to be cancelled
+forthwith.
+Place:
+Date:
+Signature of the candidate
+
+234 THE ASSAM GAZETTE, JUNE 5, 2024 [PART IX
+Guwahati, the 12th April, 2006
+No. DPS/PTG (G.D.)/S/2006-07/4.- It is notified for general information that with effect from 1st
+April 2006, subscription for Assam Gazette has been revised as per rates given below. A subscriber may
+obtain either the complete Gazette (Main Gazette & Extra-Ordinary Gazette) or price system for per copy
+of per issues of clarified Gazettes. This has approval from Government vide Order No. PSG.10/96/Pt/277,
+dated 11th April, 2006.
+Subscribers both old and new may please note that the rate of subscription of the Gazette on
+or before 22nd March of every year.
+Revise rates of subscription in the Assam Gazette will take effect from 1st April, 2006.
+Complete Gazette containing Part I to IX and Supplement with
+postage
+Rs. P. Part I--Appointments, Postings, Transfers, Powers, Leave and
+Rs. 2000.00 other Personal Notices.
+Part II A, Resolutions, Regulation, Orders, Notifications, Rules,
+etc. issued by the Local Government and Heads of
+Department.
+Part II. B-- Orders, Notifications and Rules of the High Court
+of Assam, Nagaland, Meghalaya, Manipur, Tripura and
+Union Territories of Arunachal Pradesh and Mizoram.
+Part III--Orders, Notification and Rules of the Government of
+India and by the Election Commission, India Papers
+extracted from the Gazette of India and other State
+Gazette.
+Part IV--Acts of Legislative Assembly of Assam and
+Ordinances promulgated by the Governor of Assam.
+Part V--Bill introduced in the Legislative Assembly of Assam.
+Part VI--Proceedings in the Legislative Assembly.
+Part VII--Acts of Parliament and Ordinances promulgated by
+the President.
+Part VIII--Bill introduced in Parliament.
+Part IX--Advertisements, Notices by Government Office and
+Public Bodies.
+Autonomous District Council Supplement.
+A. D. C.
+
+PART IX] THE ASSAM GAZETTE, JUNE 5, 2024 235
+Price per copy of Assam Gazette, Extra Ordinary Gazette
+Rs. P.
+Certificate Gazette Excluding A. D. C. (Supplement)------------------------------------------ 20.00
+Extraordinary Gazette-------------------------------------------------------------------------- ---- 10.00
+2. Part IX- Advertisement and Notices sent by Offices financialy independent of Government
+and Centre and other Government Department are published on payment of charges at prescribed
+rate. Private advertisement and notices are also inserted on payment if received through the respective
+Deputy Commissioner or Sub-Divisional Officer.
+3. Application for the Gazette should be addressed to the Publisher, Assam Gazette, Guwahati
+and must be accompanied by a remittance.
+4. Applications for the free supply of the Gazette on "the Public service" should be addressed
+to the Under Secretary to the Government of Assam, General Administration (Printing and Stationery
+Department.) Dispur.
+5. Complaints regarding non-receipt of any number, part or page of the Gazette should be
+forwarded within two weeks of the date on which such number or page is due.
+6. Subscribers will please note that their Gazette will be discontinued at the date of expiry
+unless it is renewed before such expiry.
+7. Remittances by money or Postal Order or Bank draft payable at the State Bank of India,
+New Guwahati will only be accepted. Out-station Cheques may kindly be avoided.
+8. The half-yearly subscriptions will be half of the annual rate. Subscriptions are accepted
+circle annually or half-yearly commencing from 1st April to 31st March of the year and half-yearly from 1st
+April to 30th September and from 1st October to 31st March of the year.
+N. B.-Correspondence relating to the Gazette should be addressed to Publisher by designation
+and not by names.
+Publisher, Assam Gazette,
+Guwahati-21.
+[Attention of all officers ending matters for publication in the Assam Gazette is drawn to the following
+Government circular with the request that instructions contained therein may kindly be strictly adhered the
+orders to avoid delay in publication of Notification in the Assam Gazette :-]
+Lett. No. PG. 22/70/P-II/1, dated Shillong, the 2nd June, 1970 from the Chief Secretary to the
+Government of Assam to all Administrative Departments, all Head of Departments, All Deputy Commissioners
+and Sub-Divisional Officers.
+SUBJECT :- Timely publication of Government Notifications and other important matters in the
+weekly Official Gazette.
+I am directed to say that it has come to the notice of Government that important notification having
+bearing on statutes and matters of immediate public interest are sometimes published in the Official Gazette
+on date much later than prescribed. Government have decided, therefore, to introduce the following
+system with immediate effect, which must be strictly adhered to in sending notice to the Assam Government
+Press for publication in the Official Gazette.
+1. In the first instance, it has to be noted that the printing of the weekly Gazette must be completed
+by the end of every Tuesday so that it may be duly published on every Wednesday.
+
+236 THE ASSAM GAZETTE, JUNE 5, 2024 [PART IX
+2. Every notification and every other matter which is required to be printed and published in
+a particular issue of the Official Gazette must, therefore, reach the Director, Assam Government
+Press on the Monday of the week preceding the week in which it is required to be published. If this
+is not done it is infructuous requesting the Director, Assam Government Press to publish such notification or
+other matter in the next issue of the Gazette, the expression usually inserted in all endorsements made to the
+Director.
+3. Wherever it is necessary to print and publish a notification on a specified date (excluding such
+Notification or communicate as are to be published in Gazette extraordinary) clear instruction of that effect
+must be given to the Director, Assam Government Press, both on the body of such notification within the
+indication at the top in the red ink and is a separate covering.
+4. To achieve the objective in papers 2 and 3, it is essential that proper discretion should be
+exercised by the concerned officers in the Department or office and all matters for publication in the
+Gazette should scrutinised and sent to the Press after careful application.
+5. As for publication of any matters in a Gazette, Extraordinary, the existing procedure
+whereby the prior approval of the General Administration Department is to be obtained will continue.
+I am to request you to acknowledge the receipt of this letter and confirmed that the instructions
+have been duly voted. If you have suggestion on this behalf they may please be communicated.
+Chief Secretary to the Government of Assam.
+KAMARUPA ANUSANDHANA SAMITI GAUHATI
+The Kamarupa Anusandhana Samiti or the Assam Research Society, Gauhati is the main subject in
+the carrying on researches in the matter relating to History Archaeology Ethography, etc. It has a library of
+rare books. Journal/historical and antiquarian subjects. The premises of the Samiti, situated on the southern
+bank of the Dighali Tank, Gauhati, remains open from 2 p. m. to 5 p. m. on all days except Monday and
+Gazetted and local holidays or which it remains closed.
+Information which may lead to the recovery of any historical religion article including more manuscript
+will be thankfully received.
+President,
+M. C. DAS,
+Secretary,
+DHARMESWAR CHUTIA.
+NATIONAL LIBRARY BELVEDERE, CALCUTTA-27
+The Reading Room at Belvedere and the Lending Section of this Library are open on all
+working days from 9 a. m. to 8. p. m. and from 10 a. m. to 5 p. m. on Sunday and holidays notified
+by the Library and the Second Saturday of every month.
+The Reading Room at Esplanode is open on all working days from10 a. m. to 5 p. m.
+The Childrens Wing at Belvedere remains open on all working days from 3 p. m. to 6 p. m.
+and Sundays and Holidays from 10 a. m. to 5 p. m. for the children between 5 and 14 years.
+The Library is entirely closed on the Republic Day, Independence Day and Mahatma Gandhi's
+birth day on the 26th January, 15th August and 2nd October every year respectively.
+Persons not less than 18 years of age are eligible to use the Library. Both the Reading Room
+and the Lending Section are free to be used by any one residing in any part of the India Dominion.
+There is no subscription to pay but only security is each essential for borrowing books.
+P. N. GUPTA,
+Administrative Officer.
+
+PART IX] THE ASSAM GAZETTE, JUNE 5, 2024 237
+PUBLIC NOTICES
+Barpeta the 27th May, 2024
+I, Mamiran Begum wife of Tazuddin Ahmed an inhabitant of Town - Howly Town, Ward No.-10,
+P.O.- Howly, P.S.- Howly, in the District of Barpeta have changed my name from Mamiran Begum to
+Mamiran Nessa by swearing an affidavit in the Court of Notary at Barpeta on dated 20th May, 2024.
+Henceforth, I shall be known as Mamiran Nessa instead of Mamiran Begum for all purposes.
+MAMIRAN BEGUM,
+Howly Town, Barpeta.
+Cachar the 27th May, 2024
+I, Loskar Mr wife of Gulajar Ali Rajbarbhuiya an inhabitant of Village - Singerbond, P.O.- Singerbond,
+P.S.- Silchar, in the District of Cachar have changed my name from Loskar Mr to Muktarun Nessa
+Rajbarbhuiya by swearing an affidavit in the Court of Executive Magistrate at Silchar on dated 23rd February,
+2024.
+Henceforth, I shall be known as Muktarun Nessa Rajbarbhuiya instead of Loskar Mr for all purposes.
+LOSKAR MR,
+Singerbond, Silchar, Cachar.
+Hojai the 27th May, 2024
+I, Lalita Bose wife of Late Ranjit Narayan Bose, an inhabitant of Town - East Lumding School
+Road Ward No. 9, P.O.-Lumding, P.S.- Lumding, in the District of Hojai have changed my name from
+Lalita Bose to Pakhirani Bose by swearing an affidavit in the Court of Additional District Magistrate at
+Nagaon on dated 30th April, 2024.
+Henceforth, I shall be known as Pakhirani Bose instead of Lalita Bose for all purposes.
+LALITA BOSE,
+Lumding, Hojai.
+Nagaon the 27th May, 2024
+I, Promud Nath / Pramod Nath / Mr. Prmud Nath son of Late Dhireshwar Nath an inhabitant of
+Village - Sariahatali, P.O.- Bamunijan, P.S.- Raha, in the District of Nagaon have changed my name from
+Promud Nath / Pramod Nath / Mr. Prmud Nath to Pramud Nath by swearing an affidavit in the Court of
+Notary at Kamrup (M) on dated 20th May, 2024.
+Henceforth, I shall be known as Pramud Nath instead of Promud Nath / Pramod Nath / Mr. Prmud
+Nath for all purposes.
+PROMUD NATH,
+Sariahatali, Bamunijan, Nagaon.
+Nagaon the 27th May, 2024
+I, Amal Das son of Krishnaram Pathak an inhabitant of Village - Ghilani, P.O.- Ghilani, P.S.- Kampur,
+in the District of Nagaon have changed my name from Amal Das to Indrajit Pathak by swearing an affidavit
+PART IX] THE ASSAM GAZETTE, JUNE 5, 2024 239
+PUBLIC NOTICES
+Guwahati the 28th May, 2024
+I, R Namdev/Ramniwas Verma son of Late Madanlal Chhipa an inhabitant of Town - 33 A Mohan
+Market, SRCB Road, in the District of Kamrup (M) have changed my name from R Namdev/Ramniwas
+Verma to Ramniwas Chhipa by swearing an affidavit in the Court of Notary at Kamrup (M) on dated 27th
+May, 2024.
+Henceforth, I shall be known as Ramniwas Chhipa instead of R Namdev/Ramniwas Verma for all
+purposes.
+R NAMDEV,
+Mohan Market, SRCB Road, Guwahatai.
+Guwahati the 29th May, 2024
+I, Kalu Rongchon/Kalu Rongchan son of Late Ahina Rongchon an inhabitant of Town - Amsing,
+Jorabat, P.O.-Satgaon, P.S.- Satgaon, in the District of Kamrup (M) have changed my name from Kalu
+Rongchon/Kalu Rongchan to Kul Rongchon by swearing an affidavit in the Court of Notary at Kamrup (M)
+on dated 4th April, 2024.
+Henceforth, I shall be known as Kul Rongchon instead of Kalu Rongchon/Kalu Rongchan for all
+purposes.
+KALU RONGCHON,
+Amsing, Jorabat, Guwahati.
+Udalguri the 29th May, 2024
+I, Umesh Ch. Wari son of Late Bhupen Ch. Wary an inhabitant of Village - Deolguri, P.O.- Harisinga,
+P.S.- Harisinga, in the District of Udalguri have changed my name from Umesh Ch. Wari to Umesh Ch.
+Wary by swearing an affidavit in the Court of Notary at Kamrup (M) on dated 15th May, 2024.
+Henceforth, I shall be known as Umesh Ch. Wary instead of Umesh Ch. Wari for all purposes.
+UMESH CH. WARI,
+Deolguri, Harisinga, Udalguri.
+Guwahati the 29th May, 2024
+I, Sukhjeet Kaur wife of Raju Singh an inhabitant of Town - Panbazar, P.O.- Panbazar,
+P.S.- Panbazar, in the District of Kamrup (M) have changed my name from Sukhjeet Kaur to Sunita Kaur
+by swearing an affidavit in the Court of Notary at Kamrup (M) on dated 24th April, 2024.
+Henceforth, I shall be known as Sunita Kaur instead of Sukhjeet Kaur for all purposes.
+SUKHJEET KAUR,
+Panbazar, Guwahati.
+Chirang the 29th May, 2024
+I, Dhune Das wife of Late Khagen Das an inhabitant of Village - Namalpur, P.O.- Sidli,
+P.S.- Sidli, in the District of Chirang have changed my name from Dhune Das to Dhaneswari Devi by
+swearing an affidavit in the Court of Notary at Bongaigaon on dated 28th May, 2024.
+Henceforth, I shall be known as Dhaneswari Devi instead of Dhune Das for all purposes.
+DHUNE DAS,
+Namalpur, Sidli, Chirang.
+
+240 THE ASSAM GAZETTE, JUNE 5, 2024 [PART IX
+PUBLIC NOTICES
+Dibrugarh the 29th May, 2024
+I, Bikash Keshan son of Govind Prasad Keshan an inhabitant of Town - Pushpadhar Apartment,
+Flat No. 501, Central Chowkidinghee, P.O.- Dibrugarh, P.S.- Dibrugarh, in the District of Dibrugarh have
+changed my name from Bikash Keshan to Bikash Kumar Keshan by swearing an affidavit in the Court of
+Notary at Dibrugarh on dated 19th March, 2024.
+Henceforth, I shall be known as Bikash Kumar Keshan instead of Bikash Keshan for all purposes.
+BIKASH KESHAN,
+Central Chowkidinghee, Dibrugarh.
+Sonitpur the 30th May, 2024
+I, Parag Moni Baruah son of Dwijen Baruah an inhabitant of Town - Bishnu Rabha Ali, Kamarchuburi,
+P.O.- Tezpur, P.S.- Tezpur, in the District of Sonitpur have changed my wife's name from Rashmi Baruah to
+Rashmi Rekha Baruah by swearing an affidavit in the Court of Notary at Sonitpur on dated 20th May, 2024.
+Henceforth, she will be known as Rashmi Rekha Baruah instead of Rashmi Baruah for all purposes.
+PARAG MONI BARUAH,
+Kamarchuburi, Tezpur, Sonitpur.
+Kamrup the 30th May, 2024
+I, Pranjit Bezbaruah son of Late Sarat Ch. Bez, an inhabitant of Village - Bhomolahati,
+P.O.-Bhomolahati, P.S.- Baihata Chariali, in the District of Kamrup have changed my name from Pranjit
+Bezbaruah to Pranjit Bez by swearing an affidavit in the Court of Notary at Kamrup (M) on dated
+27th May, 2024.
+Henceforth, I shall be known as Pranjit Bez instead of Pranjit Bezbaruah for all purposes.
+PRANJIT BEZBARUAH,
+Bhomolahati, Kamrup.
+Guwahati the 30th May, 2024
+I, Panita Basumatary daughter of Haricharan Basumatary an inhabitant of Town - Chunsali, Gopal
+Nagar, P.S.- Noonmati, in the District of Kamrup (M) have changed my name from Panita Basumatary to
+Somaina Basumatary by swearing an affidavit in the Court of Notary at Kamrup (M) on dated 19th December,
+2023.
+Henceforth, I shall be known as Somaina Basumatary instead of Panita Basumatary for all purposes.
+PANITA BASUMATARY,
+Chunsali, Gopal Nagar, Guwahati.
+Guwahati the 31st May, 2024
+I, Rafique Ahmed son of Late Ahmed Ali an inhabitant of Town - Ananda Nagar, Byelane No. 1
+House No. 45, P.O.- Noonmati, P.S.- Noonmati, in the District of Kamrup (M) have changed my daughter's
+name from Simron Sultana to Simron Ayat Abbas by swearing an affidavit in the Court of Notary at Kamrup
+(M) on dated 30th May, 2024.
+Henceforth, she will be known as Simron Ayat Abbas instead of Simron Sultana for all purposes.
+RAFIQUE AHMED,
+Ananda Nagar, Noonmati, Guwahati.
+
+PART IX] THE ASSAM GAZETTE, JUNE 5, 2024 241
+PUBLIC NOTICES
+Barpeta the 31st May, 2024
+I, Shahera Begum wife of Joher Ali an inhabitant of Village - Bhulukabari, P.O.- Jarabari, P.S.-
+Barpeta, in the District of Barpeta have changed my name from Shahera Begum to Sahera Khatun by
+swearing an affidavit in the Court of Notary at Barpeta on dated 16th May, 2024.
+Henceforth, I shall be known as Sahera Khatun instead of Shahera Begum for all purposes.
+SHAHERA BEGUM,
+Bhulukabari, Barpeta.
+Barpeta the 31st May, 2024
+I, Dalimon Nesa wife of Late Abdul Hai an inhabitant of Village- Putlartari, P.O.-Jarabari,
+P.S.- Barpeta, in the District of Barpeta have changed my name from Dalimon Nesa to Daliman Nessa by
+swearing an affidavit in the Court of Notary at Barpeta on dated 9th May, 2024.
+Henceforth, I shall be known as Daliman Nessa instead of Dalimon Nesa for all purposes.
+DALIMON NESA,
+Putlartari, Barpeta.
+Guwahati the 31st May, 2024
+I, Md. Ahmed Ali son of Late Habibar Rahman an inhabitant of Town - Qtr. No. 223, B-Block,
+Narangi Army Cantonment, P.O.- Satgaon, in the District of Kamrup (M) have changed my son's name
+from Ariyan Ali to Md. Ariyan Ali by swearing an affidavit in the Court of Notary at Kamrup (M) on dated
+27th May, 2024.
+Henceforth, he will be known as Md. Ariyan Ali instead of Ariyan Ali for all purposes.
+MD. AHMED ALI,
+Narangi Army Cantonment, Satgaon, Guwahati.
+Guwahati the 1st June, 2024
+I, Ramen Saikia son of Late Tarun Chandra Saikia an inhabitant of Town - East Goshala,
+P.O.- Maigaon, P.S.- Jalukbari, in the District of Kamrup (M) have changed my son's name from Reshav
+Saikia to Devansh Saikia by swearing an affidavit in the Court of Notary at Kamrup (M) on dated 20th May,
+2024.
+Henceforth, he will be known as Devansh Saikia instead of Reshav Saikia for all purposes.
+RAMEN SAIKIA,
+East Goshala, Maligaon, Guwahati.
+
+242 THE ASSAM GAZETTE, JUNE 5, 2024 [PART IX
+PUBLIC NOTICES
+Guwahati the 1st June, 2024
+I, Amrit Chandra Goswami son of Late Madhab Chandra Goswami an inhabitant of Village -
+Kahikuchi, P.O.- Azara, in the District of Kamrup (M) have changed my wife's name from Nibha Goswami
+to Niva Goswami by swearing an affidavit in the Court of Notary at Kamrup (M) on dated 27th May, 2024.
+Henceforth, she will be known as Niva Goswami instead of Nibha Goswami for all purposes.
+AMRIT CHANDRA GOSWAMI,
+Kahikuchi, Azara, Guwahati.
+Guwahati the 1st June, 2024
+I, Vikash Kumar Betala son of Sri Ajit Kumar Betala an inhabitant of Town - Severa Building, 2nd
+Floor, RK. Choudhury Raod, P.O.- Bharalumukh, P.S.- Bharalumukh, in the District of Kamrup (M) have
+changed my name from Vikash Kumar Betala to Vikash Betala by swearing an affidavit in the Court of
+Notary at Kamrup (M) on dated 14th May, 2024.
+Henceforth, I shall be known as Vikash Betala instead of Vikash Kumar Betala for all purposes.
+VIKASH KUMAR BETALA,
+Bharalumukh, Guwahati.
+Biswanath the 1st June, 2024
+I, Anita Rai wife of Gunahang Rai, an inhabitant of Village - Ghimarujan, P.O.- Balijan,
+P.S.- Gohpur, in the District of Biswanath have changed my husband's name from Gunahang Rai to Rajen
+Darjee by swearing an affidavit in the Court of Notary at Kamrup (M) on dated 29th May, 2024.
+Henceforth, he will be known as Rajen Darjee instead of Gunahang Rai for all purposes.
+ANITA RAI,
+Ghimarujan, Balijan, Biswanath.
+GUWAHATI- Printed and published by the Director, Directorate of Printing & Stationery,
+Assam, Guwahati-21 (Gazette) No.45-25-05-06-2024. (visit at dpns.assam.gov.in)
