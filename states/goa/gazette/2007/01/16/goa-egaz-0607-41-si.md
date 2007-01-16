@@ -1,0 +1,827 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0607-41 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 3 Official Details Link"
+issuer: "Government of Goa"
+published: "2007-01-16"
+in_force: "2007-01-16"
+in_force_evidence: "published in the Gazette 2007-01-16; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0607-41.SI"
+language: "English text only"
+---
+
+Reg. No. GR/RNP/GOA/32 RNI No. GOAENG/2002/6410
+hepùrtment22of22iduÖùtionD2ert282gulture mosùiÖF2ähe2Öulture2of2qoù2despite2the2lùtin2flùvour
+fully2expresses2ùll2the2hues2ùnd2shùdes2of2riÖh2ùnd
+hireÖtorùte2of2ert282gulture
+diverse2 sndiùn2 Öulture2 ùnd2 the2 present
+poliÖy2 is2 ùn2 ùttempt2 to2 strengthen2 the2 nùtionùl
+efforts2to2reÖognizeD2respeÖt2ùnd2promote2regionùl
+ÖulturesF
+hegGSGistGgulGÇyvGIUQ
+ähe2 qovernment2 of2 qoù2 is2 pleùsed2 to2 notify
+following2qoù2Öulturùl2poliÖy2PHHU2for2the2stùte2of
+n for2 the2 Öitizens2 to2 ùÖhieve2 individuùl
+ähe2mùjor2oÿjeÖtive2of2the2qovernment2of2qoù2is
+n to2sùfeguùrd2freedom2of2expression
+n to2promote2ù2flourishing2Öulturùl2life
+qoùD2proÿùÿly2for2the2first2time2in2sndiùD2Öonsistent
+prosperousD2modernizing2welfùre2stùte2of2the2unionF n to2 mùke2 it2 possiÿle2 for2 Öulture2 to2 ÿe2 ù
+yeùrsD2would2guide2the2roùdmùp2for2ùll2the2Öulturùl forÖe
+ùÖtivities2in2the2âtùte2in2the2PIst2ÖenturyF2st2would n to2 preserve2 ùnd2 use2 the2 Öulturùl2 heritùge
+n to2 promote2 interstùte2 ùnd2 internùtionùl
+internùtionùl2 levelF
+IFI2ähe2qovernment2of2qoù2reÖognizes2the2fùÖt
+poliÖy2 ùre2 highlighted2 hereF2 ähe2 detùils2 ùre
+ähe2universùl2deÖlùrùtion2of2humùn2rights2@àx provided2 under2 different2 seÖtors2 of2 the2 ÖultureF
+ÖhùrterD2 IWRVA2 proÖlùims2 thùt2 everyone2 hùs2 the ähe2use2of2the2term2ùrtist2would2inÖlude2ùll2those
+right2freely2to2pùrtiÖipùte2in2the2Öulturùl2life2of2the involved2in2the2sphere2of2plùstiÖ2ùnd2elùstiÖ2ùrtsD
+ÖommunityF2ähe2qovernment2of2qoù2reÖognizes performing2or2nonEperforming2ùrts2ùnd2the2use2of
+this2fùÖt2ùnd2the2Öulturùl2poliÖy2is2ù2ÖonÖrete2ùnd the2word2writer2would2inÖlude2ùll2those2involved
+prùÖtiÖùl2 step2 in2 empowering2 the2 Öitizens2 of2 the in2 lùnguùge2 reseùrÖhD2 literùtureD2 ÖomposingD
+stùte2in2this2regùrdF journùlism2 etÖF
+
+ÿrought2out2to2doÖument2this2informùtionF2âtùte
+@ùA2ähe2qovernment2is2Öommitted2to2preserve
+sponsored2 visits2 of2 suÖh2 ùrtists2 ùnd2 writers
+ùnd2 writersF
+@mA2qovernment2hùs2noted2with2sùtisfùÖtion
+legislùtions2in2forÖeF
+engùged2 in2 Öonsistent2 orgùnizùtion2 of2 Öulturùl
+events2suÖh2ùs2musiÖ2festivùlsD2mùndo2festivùlsD
+tiùtrù2festivùlsD2eloÖution2ÖompetitionsD2drùwing
+of2qoù2would2ÿe2finùlized2ùnd2implementedF2ähe
+ùnd2 storytelling2 ÖompetitionsD2 folk2 dùnÖe
+Öompetitions2with2lùrgely2privùte2sponsorships
+for severùl2yeùrsF2ähe2qovernment2would2Öome
+with2the2new2proposed2legislùtionF
+out2with2ù2sÖheme2for2the2ÿenefit2of2suÖh2xqys
+whiÖh2hùve2experienÖe2of2more2thùn2IH2yeùrs2of
+@ÖA2 ähe2 qovernment2 is2 ùlso2 Öommitted2 to
+undertùke2 ù2 Öomprehensive2 sÖientifiÖ2 survey
+for2 Öulturùl2 resourÖe2 mùpping2 ùt2 the2 revenue
+villùge2ùnd2Öensus2town2levelF
+@nA2 ähe2 qovernment2 of2 qoù2 reÖognizes2 the
+importùnÖe2 of2 the2 linguistiÖ2 minorities2 in2 the
+their2 registered2 xqys2 to2 ÖonduÖt2 Öulturùl
+progrùmmesF
+@oA2ähe2âtùte2qovernment2would2strive2for2ù
+used2 to2 identify2 the2 extinÖtD2 endùngered2 ùnd
+ÿetween2ùll2the2residents2of2qoù2irrespeÖtive2of
+their2 stùte2 of2 originF2 ähe2 qovernment2 firmly
+ÿelieves2thùt2qoù2ÿeing2ù2melting2pot2of2Öultures
+@fA2ettempts2would2ÿe2mùde2to2identify2ùnd
+would2 stùnd2 to2 ÿenefit2 from2 suÖh2 inter
+revive2 the2 extinÖt2 Öulturùl2 forms2 inÖluding
+PFPF2 hisseminùtion
+@ùA2 ähe2 qovernment2 would2 ùdhere2 to2 the
+prinÖiple2of2equùlityD2equity2ùnd2Öulturùl2justiÖe
+in2promoting2ùnd2disseminùting2Öulturùl2ùffùirs
+knowledgeF
+ùnd2ùÖtivities2ùnd2foÖus2on2vùlues2to2foster2unityD
+without2Öonsiderùtion2of2rùÖeD2religionD2genderD
+support2 would2 ÿe2 given2 to2 preserve2 the
+endùngered2 ùnd2 threùtened2 Öulturùl2 formsF
+@ÿA2ähe2qovernment2ùssures2full2Öonsiderùtion
+vùstusùngrùhùlùyùA2would2ÿe2used2to2preserve gùlleriesD2 museums2 would2 ÿe2 updùtedD
+the2ùrtsD2Örùfts2ùnd2Öulturùl2heritùge2of2the2triÿes modernized2ùnd2strengthenedF2e2Öomputerized
+2@kA2ettention2would2ÿe2pùid2to2qoùn2ùrtists
+ÖontriÿutionsF Öulturùl2infrùstruÖture2would2ÿe2identifiedF2poÖus
+
+would2 ÿe2 given2 on2 the2 undeveloped @nA2ähe2qovernment2would2Öreùte2ùwùreness
+@eA2snÖentives2whiÖh2mùy2inÖlude2grùnts2ùnd importùnÖeF2 ähe2 xqys2 would2 ÿe2 involved2 for
+loùns2 for2 ÿuilding2 ùnd2 equipments2 would2 ÿe this2 purposeF
+given2to2the2privùte2seÖtor2for2Öreùtion2of2new
+2 @oA2 ähe2 qovernment2 would2 orgùnize2 ùn ùnd the2 mùintenùnÖe2 of2 the2 old2 Öulturùl
+roomsD2 ùuditoriumsD2 entertùinment2 ÖentresD suitùÿle2 loÖùtion2 in2 xorth2 2 ùnd2 âouth2 qoù2 to
+for2 the2 ÿlind2 would2 ÿe2 enÖourùgedF
+@pA2ähe2qovernment2is2Öommitted2to2projeÖt
+@fA2gulturùl2progrùms2in2the2rurùl2ùnd2remote ùnd2 promote2 the2 Öulturùl2 weùlth2 of2 qoù2 ùt
+nùtionùl2 Öulturùl2 eventsF2 et2 internùtionùl2 level @gA2 âpeÖiùl2 grùnts2 would2 ÿe2 given2 to2 the
+the2 qovernment2 would2 projeÖt2 the2 Öulture2 of ùrtists2ùnd2groups2from2rurùl2ùreùs2to2ÖonduÖt
+friendly2 foreign2 ÖountriesF ÖùtegoriesF
+@qA2ähe2qovernment2would2ùlso2promote2the @hA2 ähe2 qovernment2 would2 foÖus2 on
+projeÖtion2of2Öulture2of2qoù2ùmong2the2xéssF disseminùting2the2Öulture2from2the2Ölùsses2to
+@rA2 ähe2 qovernment2 would2 use2 the2 tourism
+levelF orgùnizedF
+@sA2 ähe2 qovernment2 would2 ùlso2 enÖourùge @jA2 eÖtive2 registered2 Öulturùl2 xqys2 with
+festivùlsF
+@tA2ähe2qovernment2would2work2Ölosely2with
+the2 Öorporùte2 seÖtorD2 ÿusiness2 houses2 ùnd @kA2 ähe2 qovernment2 mùy2 ùppoint2 suitùÿly
+industries2for2orgùnising2Öulturùl2progrùms2ùnd trùined2 gulturùl2 hevelopment2 yffiÖers
+ùudioD2 video2 mùteriùlD2 softwùre2 etÖF level2 for2 smooth2 orùgnisùtion2 of2 the2 Öulturùl
+PFQ2greùtion
+@lA2 e2 trùined2 fullEtime2 ghy2 would2 ùlso2 ÿe
+@ùA2 ähe2 qovernment2 is2 fully2 Öommitted2 to ùppointed2 for2 eùÖh2 sÖhool2 ÖomplexF
+respeÖt2ùnd2proteÖt2the2Öreùtive2freedom2of2the
+@mA2 ell2 high2 sÖhoolsD2 higher2 seÖondùry ùrtists2 ùnd2 writers2 ùs2 guùrùnteed2 ÿy2 the
+gonstitution2 of2 sndiù2 ùnd2 within2 the2 limits2 set sÖhools2ùnd2Öolleges2ùffiliùted2to2qoù2àniversity
+out2ÿy2the2lùws2of2the2ÖountryF ùnd2 institutions2 ùffiliùted2 to2 esgäi2 would2 ÿe
+xqys2dediÖùted2to2their2ÖùuseF ÖommunityF2 qâw2 would2 ÿe2 registered2 with
+the2 hireÖtorùte2 of2 ert2 ùnd2 gultureF2 qâw
+spot2 Öreùtive2 Öulturùl2 tùlent2 ùnd2 would qovernmentF2 ähe2 sÖheme2 would2 ÿe
+implemented2 jointly2 with2 the2 hireÖtorùte2 of enÖourùge2noveltyD2innovùtion2ùnd2Öreùtivity2in
+
+@dA2ähe2qovernment2would2enÖourùge2privùte @iA2 ähe2 qovernment2 would2 support2 novel
+ideùs2ùnd2forms2in2the2field2of2ùrtD2ÖrùftsD2pùintingD investment2in2the2Öulturùl2seÖtor2to2Öreùte2world
+photogrùphyD2 literùture2 ùnd2 other2 ùreùs2 of
+printingD2film2studiosD2sound2reÖording2studiosD
+editing2 roomsD2 film2 proÖessing2 lùÿsD2 Öomputer
+sÖreen2 the2 novel2 projeÖts2 suÿmitted2 ÿy2 the
+photogrùphy2 studiosD2 photogrùphyD2 ÖineE
+designing2institutes2whiÖh2would2involve2loÖùl
+@jA2 ähe2 qovernment2 would2 introduÖe
+ùrtists2 to2 produÖe2 innovùtive2 new2 works2 ùnd
+promotion2ùwùrdsA2for2ùrtists2ùnd2writers2from
+the2ùge2group2of2IS2to2QSD2to2ÿe2given2ùnnuùlly
+@eA2 ähe2 qovernment2 is2 ùwùre2 of2 the
+in2seleÖtive2Öulturùl2fieldsF
+tremendous2 potentiùl2 of2 qoù2 to2 mùrket2 its
+2 @kA2 ähe2 qovernment2 would2 ùssist2 the
+given2 on2 ùttrùÖting2 ùnd2 promoting2 investment
+in2 projeÖts2 whiÖh2 would2 export2 the2 wùde2 in
+intelleÖtuùl2property2rights2@pùtentsD2trùdemùrks
+ùnd2 ÖopyrightsAF
+eùrn2foreign2exÖhùngeF2ähe2qovernment2would
+sÖheme2 to2 promote2 ixport2 promotion2 of
+@ùA2 2 ähe2 qovernment2 would2 Öonsult2 experts
+mented2 2 through2 2 the2 ministry2 of2 industriesD
+list2of2themes2or2topiÖsD2whiÖh2need2reseùrÖhF2e
+@fA2ähe2qovernment2ÿelieves2thùt2some2ùrtists
+guidelines2 would2 ÿe2 frùmed2 for2 supporting
+right2if2Öulturùl2tùlent2is2spotted2in2Öhildren2ùt
+work2in2the2ùreùs2from2the2Öommon2listF2e2few
+âtùte2level2for2sÖhool2Öhildren2from2s2to2ê22âtdF2in
+the2 ùreùs2 of2 drùwingD2 pùintingD2 sÖulptureD
+photogrùphyD2 singingD2 sndiùn2 ùnd2 western
+instrumentùl2musiÖD2ùÖtingD2storytellingD2poetry
+Öreùted2 would2 ÿe2 the2 property2 of2 the2 âtùte
+tests22with2independent2pùnel2of2judges2would
+@ÿA2 ähe2 qovernment2 hùs2 tùken2 note2 of2 the
+their2 innovùtive2 skillsF2 ähey2 would2 ÿe
+enÖourùged2to2develop2new2produÖts2@suÖh2ùs
+@gA2 ähe2 qovernment2 would2 ensure2 thùt2 ùt
+musiÖùl2 instruments2 with2 new2 mùteriùlsA2 ùnd
+leùst2 SH2 perÖent2 of2 these2 sÖholùrships2 ùre
+ùwùrded2 to2 the2 deserving2 girls2 every2 yeùrF
+effeÖts2etÖFA2ùnd2for2this2purpose2grùntsD2loùns
+ùnd2suÿsidies2would2ÿe2givenF
+@hA2ähe2qovernment2pledges2full2support2for
+@ÖA2 ähe2 qovernment2 would2 enÖourùge2 the ùrtistsD2writers2ùnd2Öulturùlly2tùlented2persons
+purpose2speÖiùl2grùnts2would2ÿe2sùnÖtioned2to pùtternsD2designs2ùnd2motifs2peÖuliùrD2speÖifiÖ
+ùnd2unique2to2qoùF their2 respeÖtive2 federùtionsGÖorporùtionsF
+@ùA2 ueeping2 in2 view2 the2 demùnds2 of
+
+lopmentsD2 nùtionùl2 ùnd2 gloÿùl2 Öulturùl2 trendsD opportunities2in2ùll2spheres2of2Öulturùl2ùÖtivity
+professionùls2 would2 identify2 ùreùs2 of2 Öulturùl
+ùÖtivity2 whiÖh2 need2 world2 Ölùss2 trùining @ÿA2 ähe2 qovernment2 reÖognizes2 the2 need2 to
+fùÖilitiesF2sn2designing2ùnd2introduÖing2the2new
+trùining2 progrùmmesGÖoursesD2 the2 existing
+qovernment2institutions2suÖh2ùs22uùlù2eÖùdemyD
+workshops2 open2 to2 Öommon2 people2 would2 ÿe
+orgùnized2 in2 this2 direÖtionF
+would2ÿe2Öonsidered2on2priority2ÿùsisF2Çroposùls
+from2 privùte2 seÖtorGsponsor2 would2 ùlso2 ÿe
+@ÖA2ähe2qovernment2is2Öommitted2to2develop
+Öonsidered2if2found2ùppropriùte2to2ÿoost2humùn
+resourÖe2 development2 in2 Öulturùl2 fieldF
+enÖourùgedF2 fook2 festivùlsD2 fook2 Öluÿs2 would
+@ÿA2 eppropriùte2 trùining2 Öourses2 would2 ÿe
+ÿe2promotedF2xqys2would2ÿe2involved2ùÖtively
+identified2 ùnd2 fùÖilities2 would2 ÿe2 Öreùted2 for
+supplying2 trùined2 mùnpower2 for2 the2 smooth in2 spreùding2 heùlthy2 reùding2 hùÿitsF
+orgùnizùtion2of2the2snternùtionùl2pilm2pestivùl2of
+2@dA2ähe2qovernment2would2ùÖÖord2the2stùtus sndiù2@sppsA2in2qoùF
+of2 industry2 to2 the2 printing2 ùnd2 puÿlishing
+ùÖtivityF2qovernment2would2plùn2ù2model2ÿook @ÖA2 ähe2 qovernment2 would2 stress2 the
+quùlity2for2housing2ÿook2shopsD2ÿook2godownsD drùwingD2 musiÖD2 dùnÖe2 ùnd2 drùmùtiÖs2 would
+ÿe2 ùppointed2 where2 requiredF modern2 printing2 pressesD2 modern2 pùvilions2 for
+ÿook2exhiÿitions2ùnd2spùÖe2for2holding2vùrious
+@dA2ilderly2skilled2Örùftsmen2would2ÿe2given ÿook2festivùlsF2essistùnÖe2of2ùgenÖies2suÖh2ùs
+snternùtionùl2fook2pestivùl2ÖoinÖiding2with2the ùÖtively2 involved2 to2 identify2 suÖh2 skilled2 ùnd
+experienÖed2 senior2 ùrtists2 ùnd2 Örùftsmen2 who peùk2 tourist2 seùson2 Öould2 ÿe2 held2 ùt2 the
+proposed2 ÿook2 ÖityF Öould2 set2 up2 informùl2 trùining2 ÖentresF
+@eA2 yrgùnisùtions2 of2 trùining2 ÖùmpsD2 ùrtists @eA2ähe2qovernment2would2ùssist2the2villùge
+would2 ÿe2 involved2 in2 suÖh2 plùnning2 ùt ÿudget2 would2 ÿe2 provided2 to2 support2 good
+would2 ÿe2 given2 on2 ÿùsis2 of2 meritF2 por ùre2 essentiùl2 for2 ùnimùting2 the2 soÖietyF2 ähe
+empowering2the2writers2susÿstùntiùl2ùssistùnÖe qovernment2 would2 tùke2 speÖifiÖ2 steps2 to
+review2the2existing2sÖhemes2ùnd2reform2these would2ÿe2given2to2the2loÖùl2puÿlishing2industryF
+e2 Öertùin2 numÿer2 of2 2 ÿooks2 printed2 ùnd to2 produÖe2 high2 quùlity2 mùteriùlF
+PFT2 impowerment
+ÿooks2 would2 ÿe2 prepùred2 ùnd2 gifted2 to @ùA2ähe2qovernment2ùims2ùt2empowering2the
+people2 of2 qoù2 ÿy2 providing2 suitùÿle2 fùÖilities deserving2 ÖulturùlGeduÖùtionùl2 institutions2 ÿy
+the2 qovernment2 every2 yeùrF ùnd2 ùÖÖessD2 informùtionD2 knowledge2 ùnd
+
+@gA2ähe2qovernment2hùs2noted2thùt2there2ùre eliminùteD2 prevent2 ùnd2 to2 tùke2 stepsD2 ùgùinst
+single2 pointF2 sn2 view2 of2 the2 proposed
+internùtionùl2events2like2the2film2festivùl2@sppsAD
+Öulturùl2 informùtion2 repositoryF2 yn2 the2 lines2 of
+vùrious2 depùrtments2 ùnd2 ùgenÖies2 of2 the
+the2stùte2puÿliÖ2liÿrùryD2the2qovernment2would
+qovernment2need2to2ÖoEordinùte2their2ùÖtivities
+seÖtors2 of2 eÖonomy2 ùnd2 the2 soÖiety2 need2 to
+âùnskritik2 wùhiti2 uendrùA2 with2 privùte2 seÖtor
+support2 the2 qovernment2 initiùtivesF
+ùudio2 ùnd2 video2 ÖùssettesD2 musiÖ2 ghsD2 åghsD would2 enter2 into2 ù2 long2 term2 memorùndum2 of
+håhsD2 filmsD2 QS2 mm2 slidesD2 filmogrùphiÖ2 ùnd understùnding2 @wyàA2 with2 these2 ÿodies2 for
+ùrtists2etÖF2relevùnt2to2Öulture2of2qoù2ùnd2rest2of
+@ÖA2 sn2 the2 eÖonomiÖD2 industriùlD2 trùde2 ùnd sndiù2 ùnd2 would2 serve2 the2 purpose2 of2 finding
+ÖommerÖe2 seÖtorD2 the2 qovernment2 would relevùnt2 Öulturùl2 informùtion2 ùs2 ùnd2 when
+the2 sÖholùrsF gommerÖe2 ùnd2 sndustries2 @qggsAD2 ärùvel2 ùnd
+@hA2 ähe2 qovernment2 would2 Öonsider
+in2speÖifiÖ2ùreùs2of2Öulturùl2promotion2requiring
+@ùrtists2 townshipA2 ùnd2 ùssist2 the2 ùrtists2 ùnd
+interfùÖe2 with2 industries2 ùnd2 Öorporùte2 seÖtorF
+writers2 to2 form2 housing2 ÖoEoperùtives2 ÿy
+@dA2ähe2qovernment2ùlso2reÖognises2the2need ùllotting2 qovernment2 lùndGplotsF2 quidelines
+under2the2sÖheme2would2ÿe2prepùred2to2ÿenefit to2liùson2with2Öentrùl2government2depùrtments
+Gprogrùmme222offiÖers222of222foreign2222missionsG
+PFU22qender2justiÖe Gemÿùssies2 in2 sndiùF2 âuÖh2 liùsoning2 would2 ÿe
+streùmlined2 through2 suitùÿle2 ùdministrùtive
+reformsF
+ùnd2their2Öontriÿutions2to2the2Öulturùl2sphere2of
+qoù2 is2 reÖognized2 ÿy2 the2 qovernmentF2 ähe RF2snformùtion2ùnd2éeseùrÖh2network
+qovernment2 ùssures2 thùt2 women2 ùrtists2 ùnd
+writers2of2qoù2would2ÿe2motivùtedD2supported
+ùnd2 enÖourùged2 without2 ùny2 gender2 injustiÖe
+or2 disÖriminùtionF
+serviÖes2 in2 leùding2 Öulturùl2 institutionsF2 äouÖh
+@ÿA2ähe2qovernment2would2work2Ölosely2with sÖreen2informùtion2kiosks2would2ÿe2estùÿlished
+the2 qoù2 âtùte2 çomens2 gommission2 ùnd2 the ùt2tùlukù2levelD2ùt2importùnt2tourist2destinùtionsD
+xqys2 representing2 women2 to2 plùn2 speÖiùl ùirportD2 rùilwùy2 stùtionsD2 mùin2 ùuditoriums2 to
+sÖhemes2to2ÿoost2Öulturùl2tùlent2ùmong2women provide2free2multimediù2informùtion2fùÖilities2on
+pùintings2 ùnd2 literùture2 with2 feminist would2 ÿe2 eleÖtroniÖùlly2 linked2 to2 the2 offiÖiùl
+under2 guidùnÖe2 from2 the2 experts2 in2 the2 fieldF
+@ÖA2 2 ähe2 qovernment2 would2 puÿlish2 ù
+@dA2ähe2qovernment2is2fully2Öommitted2to2the yeùrÿook2nùmed2âùnskritik2qoùD2highlighting
+proteÖtion2of2dignityD2selfErespeÖt2of2the2womenD the2progress2of2the2âtùte2on2Öulturùl2frontF
+
+@dA2ähe2qovernment2would2Öontinue2to2ÿring âtùte2 lùws2 ùnd2 regulùtions2 deùling2 with2 the
+SF2 âpeÖifiÖ2 instrumentùlitiesXE
+ÿe2guided2in2this2ùreù2ÿy2the2direÖtives2from2the
+Öentrùl2governmentD2the22gloÿùl2Öulturùl2trendsD
+proposùls2 outlined2 ùÿoveD2 ùs2 well2 ùs2 those
+the22model2lùws2ùnd2regulùtions2in2progressive
+inÖluded2 under2 speÖifiÖ2 Öulturùl2 seÖtorsD2 the
+ÖountriesD22àxiâgys2work2ùnd2guidelines2ùnd
+qovernment2 would2 mùke2 provisions2 for2 suÖh
+fF2 ÇrivilegesX
+poliÖyF
+privileges2suÖh2ùs2joÿ2reservùtionsD2free2trùvelD
+qovernment2hùs2identified2Öulturùl2seÖtor2ùs2ùn
+free2 mediÖùl2 ùidD2 free2 entry2 for2 Öulturùl
+funÖtionsD2 free2 hospitùlity2 etÖF2 to2 reputed
+inÖentives2would2ÿe2given2to2proteÖt2the2existing
+senior2 ùrtists2 ùnd2 writersD2 nùtionùl2 ùnd
+employment2 ùnd2 to2 Öreùte2 new2 employment
+internùtionùl2ùwùrd2winners2in2Öulturùl2fields
+opportunities2in2the2ùreùs2suÖh2ùs2promotion2of
+on2ÿùsis2of2suitùÿle2guidelinesF
+Öulturùl2industry2produÖtsD2event2orgùnizùtion
+notified2 would2 ÿe2 extended2 to2 ùÖÖreditùted
+ÖF2 gulturùl2 fùÖilitiesX2 ähe2 qovernment2 is
+mediù2persons22Öovering2the2Öulturùl2ùÖtivitiesD
+Öommitted2 to2 modernize2 existing2 Öulturùl
+Öulturùl2liùson2offiÖers2from2other2stùtes2ùnd
+foreign2 ÖountriesD2 well2 known2 internùtionùl
+sÖholùrsD2 ùrtistsD2 writersD2 film2 personùlitiesD
+dF2 âerviÖesX @ÖA2 ähe2 qovernment2 would2 exempt
+@ùA2 ähe2 qovernment2 would2 provide2 free
+fees2 or2 pùyments2 for2 using2 puÿliÖ2 funded
+peopleF
+@dA2 ähe2 qovernment2 would2 Öonsider
+photogrùphyD2 event2 orgùnizùtion2 ùnd
+Öertùin2 exemptions2 or2 reliefs2 in2 sùles2 tùx
+ùnd2 serviÖes2 or2 produÖtsF
+direÖtory2of2Öulturùl2serviÖe2providers2would
+@eA2 ähe2 qovernment2 would2 Öonsider
+exùminùtionsD2on2pùr2with2sportspersonsD2for
+Öulturùlly2tùlented2students2shining2ùt2nùtionùl
+professionùl2 serviÖes2 for2 the2 qovernment
+funÖtions2 priority2 would2 ÿe2 given2 to2 2 loÖùl
+gF2 éesponsiÿilitiesX
+@dA2 åùlue2 ùdded2 Öulturùl2 informùtion @ùA2 ähe2 qovernment2 hùs2 identified2 the
+serviÖes2would2ÿe222provided2to222the2foreign hireÖtorùte2 of2 ert2 ùnd2 gulture2 ùs2 the2 nodùl
+tourists2ùt2Öompetitive2rùtesF ùgenÖy2for2the2overùll2implementùtion2of2the
+@eA2 ähe2 qovernment2 would2 fùÖilitùte
+@ÿA2por2this2purpose2the2direÖtorùte2would
+eF2vùws2ùnd2regulùtionsX2ähe2qovernment equipped2 with2 ùdequùte2 trùined2 mùnpowerD
+the2 lùtest2 ÖommuniÖùtion2 ùnd2 mùnùgement mùy2ùppoint2ù2pùnel2of2experts2to2review2existing
+
+@jA2 ähe2 qovernment2 would2 identify2 the
+@ÖA2ähe2qovernment2would2Öreùte2ù2speÖiùl responsiÿilities2 of2 different2 qovernment
+Öorpus2of2fund2qoù2âùnskritik2ushetrù2åikùs Öommittees2etÖF2for2the2implementùtion2of2the
+uosh2 @qoù2 Öulturùl2 development2 fundA2 for Öulturùl2poliÖy2ùnd2ùssign2them2speÖifiÖ2tùsksD
+implementùtion2 of2 the2 Öulturùl2 poliÖyF2 ähis ùs2ùnd2when2neÖessùryD2in2Öonsultùtion2with
+fund2would2hùve2ùn2initiùl2Öontriÿution2from the2 stùte2 ÖounÖilF
+privùte22donùtionsD2endowments2ùnd2monies TF22âeÖtorùl2issues
+development2 Öess2 would2 ÿe2 ùddedF TFI2polklore
+@dA2ähe2qovernment2would2Öonstitute2ù2two
+ähe2qovernment2ùÖknowledges2the2diversity2of
+tier2 Öonsultùtive2 ùnd2 supervisory2 struÖtureE
+folklore2forms22ùnd2pledges2to2Öonserve2ùnd2proE
+mote2these2trùditionsF
+systemA2 ùt2 the2 stùte2 ùnd2 tùlukù2 level2 for
+@ùA2ähe2qovernment2would2mùke2ù2provision
+smooth2implementùtion2of2the2Öulturùl2poliÖyF
+to2give2speÖiùl2ùwùrds2to2the2folklore22ùrtists2ùt
+äùlukù2 levelF2 ähis2 will2 help2 to2 promote2 their
+@eA2 ähe2 qovernment2 would2 form2 ù2 semiE
+tùlents2ùnd2to2Öreùte2interest2ùmong2the2youthF
+@ÿA2 ähe2 qovernment2 would2 sponsor2 2 ù2 plùn
+for2the2sÖientifiÖ2doÖumentùtion2of2ùll2the2forms
+of2folklore2using2the2ÿest2ùvùilùÿle2multimediù
+funÖtionùl2 guidelinesF2 ähe2 ÖounÖil would
+teÖhniques2ùnd2would2mùke2this2doÖumentùtion
+ÿe2 the2 mùin2 vehiÖle2 to2 implement2 Öulturùl
+poliÖyF
+@ÖA2ähe2qovernment2of2qoù2would2study2the
+@fA2 ähis2 ÖounÖil2 would2 funÖtion2 under2 the
+feùsiÿility2of2setting2up2ù2wellEequipped2folklore
+ÿy2 ronF2 winister2 for2 ert2 82 gulture2 or
+àniversity2with2the2intention2to
+qovernment2 nominùted2 full2 time2 Öompetent
+nonEpolitiÖùl2professionùl2qoùn2personùlity2in
+iA2promote2the2folklore2reseùrÖhF
+Öulturùl2 field2 with2 exÖellent2 ùdministrùtive
+iiA2plùn2ùnd2propose2Öertùin2sÖhemes2ùnd experienÖe2 ùnd2 hùving2 profound2 knowledge
+projeÖts2 to2 promote2 ùnd2 proteÖt2 the of2the2Öulture2of2qoù2ùnd2rest2of2sndiùF
+endùngered2forms2of2folklore2whiÖh2ùre2in2the
+@gA2 ähe2 âtùte2 gounÖil2 would2 invite verge2of2extinÖtionF
+nominùtionsD2 in2 speÖifiÖ2 formùtD2 from
+iiiA2 orgùnize2 the2 folk2 festivùl2 foÖusing
+registered2Öulturùl2institutions2ùnd2reputed
+ùttention2on2the2vùnishing2folk2formsF
+individuùls2to2Öonstitute2äùlukù2vevel2gulturùl
+effùirs2wùnùgement2gommittees2@äEgewâAF
+@hA2ähe2stùte2ÖounÖil2would2then2sÖrutinise
+these2nominùtions2ùnd2invite2the2nominees2to
+on2the2qoùn2folkloreF
+form2 the2 äùlukù2 vevel2 gommittees2 @ägewâA
+the2 Öulturùl2 ùffùirs2 within2 their2 jurisdiÖtionF
+wuseum2 for2 exhiÿiting2 vùrious2 fùÖets2 of2 the
+qoùn2 folkloreF
+devolved2to2these2ägewâF
+@iA2 ähe2 Öomposition2 of2 the2 tùlukù2 level
+qoù2giving2detùils2ùÿout2the2performing2ùrt
+Öommittees2 would2 ÿe2 proportionùl2 to2 the
+forms2of2qoùF
+viiA2 2 prepùre2 ù2 ÖheÖklist2 of2 the2 qoùn2 folk registered2Öulturùl2institutions2ùnd2would2not
+normùlly2exÖeed2twenty2fiveF2ähe2struÖture2of ùrtistsF
+
+pension2sÖheme2for2the2senior2folk2ùrtistsF festivùls2would2ÿe2sponsoredF
+@eA2qovernment2would2mùke2efforts2to2proteÖt @hA2ell2types2of2nonEeleÖtriÖGeleÖtroniÖ2musiÖùl
+importùnt2 Öulturùl2 heritùge2 plùÖesD2 hùving2 folk instruments2 ùnd2 items2 required2 for2 dùnÖe
+ghùvthùroD2 ÇedD2 qhumtiD2 engùnD2 qothùnD exempted2from2sùles2tùxF
+@fA2 qovernment2 is2 Öommitted2 to2 proteÖt foreign2 toursF
+temple2 folklore2 Öulture2 ÿy2 wùy2 of2 giving2 them
+ghs2 produÖed2 in2 qoù2 or2 ÿy2 qoùn2 singers2 ùnd
+@ùA2qovernment2would2Öonsider2introduÖtion @kA2 ähe2 qovernment2 is2 Öommitted2 to2 ùssist
+of2the2sÖhool2ÖurriÖulum2from2âtdF2s2to2âtdF2åssF proteÖt2 the2 Öopyrights2 ùnd2 trùdemùrks2 in2 the
+field2 of2 musiÖF2 pull2 ÖoEoperùtion2 would2 ÿe
+@ÿA2qovernment2would2ùppoint2quùlified2ùnd extended2 ùgùinst2 musiÖ2 pirùÖyF
+ù2trùining2Öourse2of2totùl2durùtion2period2of2two stùgeD2the2Öompetitive2stùgeD2the2festivùl2stùge2ùnd
+yeùrsD2 whiÖh2 mùy2 ÿe2 offered2 in2 pùÖkùges2 of2 Q the2semiEprofessionùl2stùgeF
+months2eùÖhF2ähe2qovernment2would2get2these
+ing2the2following2stepsX
+@ÖA2qovernment2would2provide2opportunities
+development2 ÖommitteeA2 to2 ùddress2 ùll2 the
+@dA2qovernment22would22prepùre22ù2grùntEinE issues2relùted2to2the2drùmùD2theùtre2ùnd2ùrtists
+Eùid2pùÖkùge2for2institutions2impùrting2trùining of2 qoù2 ùnd2 to2 ÿring2 together2 ùll2 theùtre
+in2 musiÖ2 ùnd2 dùnÖeF personùlities2 irrespeÖtive2 of2 medium2 of2 the
+@eA2qovernment2would2strive2to2set2up2ùt2leùst
+heùdquùrters2or2upgrùde2the2existing2sÖhool2of quùlity2originùl2sÖripts2ùnd2for2new2produÖtionsF
+musiÖ2 @if2 ùnyA2 to2 enùÿle2 interested2 pupils2 to
+study2 musiÖF @ÖA2 ärùnslùtion2 efforts2 for2 ÿringing2 the2 ÿest
+@fA2qovernment2would2Öonsider2proper2sùlùry produÖtion2 efforts2 would2 ÿe2 supportedF
+sÖùles2 for2 trùined2 ùnd2 quùlified2 fulltime
+other2 trùined2 teùÖhersF outside2the2stùteF
+@gA2 qovernment2 would2 promote2 the2 riÖh @eA2 ähe2 qovernment2 would2 enÖourùge
+trùditions2of2western2ÖlùssiÖùl2ùnd2instrumentùl promotion2 of2 the2 ÿest2 uonkùni2 drùmùs2 in2 the
+musiÖ2of2qoù2ùnd2the2vùrious2forms2of2devotionùl uonkùni2 2 speùking2 regions2 of2 other2 stùtes2 ùnd
+
+@fA2qovernment2would2enÖourùge2trùnslùtion
+in2order2to2monitor2the2overùll222development2of in2 other2 nùtionùl2 ùnd2 internùtionùl2 lùnguùgesF
+@gA2qovernment2would2Öonsider2the2possiÿility
+@sA2 pinùnÖiùl2 inÖentives2 to2 young2 ùrtists2 to
+of2 estùÿlishing2 ù2 fullEfledged2 ÖollegeGsÖhool2 of
+develop2 themselves2 into2 fine2 sÖript2 writersD
+direÖtorsD2etÖF2would2ÿe2initiùtedF
+@hA2qovernment2mùy2Öonsider2introduÖtion2of
+interested2youth2in2äiùtr2222teÖhniques22would2ÿe
+@iA2 ähe2 qovernment2 would2 doÖument
+ÿiogrùphies2of2senior2theùtre2personùlities2ùnd @uA2 hoÖumentùtion2 of2 äiùtrs2 ristoryD
+importùnt2 events2 relùted2 to2 history2 of2 drùmù viterùtureD2 etÖF2 would2 ÿe2 2 enÖourùgedF
+@vA2e2âÖheme2to2provide2finùnÖiùl2help2to2old
+@jA2ähe2qovernment2would2undertùke2survey
+of2the2theùtre2movement2in2qoù2every2two2yeùrs
+@wA22ähe2qovernment2with2the2help2of2xqys
+would2mùke2ÖonÖerted22efforts2to2reEÖreùte2the
+lost2 interest2 ùt2 the2 villùge2 level2 for2 produÖing
+theùtre2would2ÿe2given2fellowshipsF
+@lA2 ähe2 qovernment2 would2 promote2 the
+@ùA2 ähe2 qovernment2 would2 ùppoint2 ù
+Öommittee2to2prepùre2promotionùl2sÖhemes2for
+@ÿA2ähe2qovernment2would2ÿe2guided2ÿy2the
+etÖF2 2 ùnd2 ù2 museum2 on2 history2 of2 theùtre2 ùnd
+promotion2 of2 qoùn2 literùtureF
+@nA2ähe2qovernment2would2identify2the2ùrtists
+@ÖA2ähe2qovernment2would2strive2to2promote
+the2qoùn2wùrùthi2ùnd2uonkùni2literùture2outside
+ùssisting2the2pùinters2ùnd2ùrtistsF
+@dA2ähe2qovernment2would2liÿerùlly2ùssist2the
+@oA2 ähe2 qovernment2 reÖognizes2 the2 role2 of
+orgùnizùtions2 of2 literùry2 seminùrsD2 workshops
+professionùl2ùÖtresses2@nùtiA2ùnd2would2Öonsider
+their2 upliftmentF
+@eA2 ähe2 qovernment2 would2 Ölosely2 interùÖt
+fook2ärust2for2promoting2qoùn2literùture2through
+trùnslùtion2 effortsF
+ùttempts2would2ÿe2mùde2to2retùin2its2trùditionùl
+@fA2 ähe2 qovernment2 would2 ùÖquire2 ùnd
+@qA2 qovernment2 would2 Öonsider2 extending preserve2 the2 ÿirth2 plùÖesGhouses2 of2 eminent
+the2 stùtus2 of2 industry2 to2 professionùl2 qoùn qoùn2writers2ùs2âtùte2memoriùlsF
+theùtre2 ùnd2 ùssist2 the2 suppliers2 of2 vùrious
+@gA2 ähe2 qovernment2 would2 give2 grùnts2 to mùteriùls2required2for2the2drùmù2performùnÖes
+
+qoùn2writers2ùnd2enÖourùge2produÖtion2of2ùudio @ÖA2 e2 gold2 ùnd2 jewellery2 export2 promotion
+@hA2ähe2qovernment2would2ÿuild2ù2world2Ölùss
+hostel2for2writersF @dA2 qovernment2 would2 Öhùrge2 ùn2 ùntiE
+dumping2duty2on2ùrts2ùnd2Örùfts2items2imported
+@iA2ähe2qovernment2would2Öonsider2seleÖting in2 qoù2 ùnd2 espeÖiùlly2 on2 imported2 furnitureF
+promising2 writers2 ùmong2 the2 qovernment
+servùnts2for2purpose2of2sùnÖtioning2study2leùve @eA2ähe2qovernment2would2lùunÖh2ù2sÖheme
+for2 Öompleting2 their2 literùry2 workF to2 register2 ùll2 ùntique2 deùlers2 ùnd2 mùke2 it
+Öompulsory2 to2 suÿmit2 their2 inventories2 to2 the
+@jA2ähe2qovernment2would2prepùre2ù2speÖiùl notified2ùuthorities2in2order2to2stop2smuggling
+sÖheme2to2expose2five2qoùn2writers2every2yeùr of2importùnt2heritùge2oÿjeÖts2from2qoùF
+sùnÖtioning2 speÖiùl2 trùvel2 grùntsF @fA2 ähe2 qovernment2 would2 promote2 ùrts
+@kA2 ähe2 qovernment2 would2 sponsor2 trùvel
+grùnts2 for2 qoùn2 writers2 invited2 for2 reputed TFT22erÖhiteÖture282âÖulpture
+internùtionùl2 literùry2 meetsGprogrùmmesF
+@lA2 ähe2 qovernment2 would2 enÖourùge
+Öontinuous2 proÖess2 of2 evolution2 involving
+formùtion2 of2 literùry2 forums2 in2 eduÖùtionùl
+dimensions2 of2 peopleD2 plùÖe2 ùnd2 time2 ùnd
+institutions2ùnd22ùwùrd2the2most2produÖtive2ùnd
+henÖe2enÖompùsses2not2just2the2ÿuilding2ÿy
+Öreùtive2 forumF2 viterùture2 puÿlished2 in2 sÖhool
+itself2ÿut2inÖludes2ùmong2vùrious2othersD2its
+overùll2 setting2 within2 the2 lùndsÖùpeD2 the
+would2 ÿe2 Öonsidered2 for2 ù2 âtùte2 sponsored
+peoples2trùditions2ùnd2ÿeliefs2ùssoÖiùted2with
+ùnthologyF
+the2ÿuilt2formF
+@mA2ähe2qovernment2is2Öommitted2to2promote
+n ähe2 qovernment2 of2 qoù2 Öonsiders2 ÖonE
+literùry2movement2ùmong2the2youth2of22qoù2ùnd
+servùtion2 ùs2 ù2 Öontinuous2 proÖess2 involving
+grùnts2would2ÿe2given2for2their2literùry2projeÖtsF
+ù2 series2 of2 ùÖtivities2 for2 proteÖtion2 ùnd
+@nA2 ähe2 qovernment2 would2 ùlso2 enÖourùge mùnùgementF2sn2the2interest2of2the2long2term
+qoùn2writing2in2foreign2lùnguùges2ùnd2speÖiùl the2 qovernment2 proposes2 to2 strengthen2 the
+ùssistùnÖe2 of2 fritish2 ÖounÖilD2 ùlliùnÖe2 de existing2 system2 further2 for2 effeÖtivenessD2 in
+oÿtùined2for2this2purpose2if2found2neÖessùryF
+@ùA2unowledge2of2the2vùrious2trùditions2of
+@oA2 ÇroduÖtion2 of2 Öhildrens2 literùture2 would
+the2 plùÖe2 forms2 the2 first2 step2 towùrds2 its
+ÿe2given2top2priorityF
+systemùtiÖ2 doÖumentùtion2 ùnd2 inventory2 of
+@pA2 qrùnts2 would2 ÿe2 given2 to2 Öontinue2 the
+puÿliÖùtion2of2existing2literùry2periodiÖùls2from
+GspeÖiùl2 grùnts2 would2 ÿe2 given2 to2 literùry
+present2list2is2inùdequùteF
+TFS2erts2ùnd2grùfts ùt2the2âtùte2level2is2the2enÖient2wonuments
+@ùA2ähe2qovernment2is2Öommitted2to2proteÖt
+ähis2eÖt2is2outdùted2in2its2Öontent2ùnd2would
+hensive2 Öulturùl2 heritùge2 legislùtionF
+
+@jA2ähe2qovernment2would2speÖiùlly2stress sÖientifiÖ2ÿùsisF2ähis2requires2the2revitùlizùtion
+of2 trùditionùl2 skills2 like2 prepùrùtions2 of2 lime on2 keeping2 ùlive2 the2 trùdition2 of2 mùster
+ÿuilders2ùnd2interior2deÖorùtors2of2trùditionùl mortùrsD2Öountry2tilesD2mud2wùlls2etÖF2through
+trùining2of2loÖùl2workmen2ùs2the2knowledge ùrÖhiteÖtureF
+hùve2 fùded2 with2 timeF2 ähe2 qovernment
+proposes2 to2 revive2 these2 trùditions2 whiÖh âÖulptures2 in2 woodD2 mudD2 stoneD2 ivoryD
+would2 2 ùlso2 generùte2 employmentF metùlD2 ùlloysD2 terrùÖottù2 etÖF2 exhiÿit2 the2 riÖh
+trùditions2of2qoùF2ähe2qovernment2intends2to
+@eA2fye2lùws2ùnd2regulùtions2very2speÖifiÖ promote2this2sÖulpturùl2heritùge2of2the2âtùteF
+ùfter2due2studies2of2the2speÖifiÖ2ÖhùrùÖteristiÖs @kA2ähe2qovernment2would2enÖourùge2the
+sùme2 regulùtions2 ùll2 overD2 whiÖh2 is2 proving estùÿlish2 studiosD2 fùÖtoriesD2 trùining2 Öenters
+dùmùgingF etÖF2 âtùte2 level2 sÖulpture2 exhiÿitions2 would
+@fA2 2 edùptive2 éeuse2 depending2 on2 merits use2of2new2mediù2ùnd2teÖhnologies2would2ÿe
+enÖourùgedF2 ähe2 qovernment2 would2 strive of2the2pùrtiÖulùr2situùtion2would2ÿe2ùllowed
+in2 order2 to2 reEestùÿlish2 the2 relevùnÖe2 of to2 oÿtùin2 ùnd2 supply2 quùlity2 mùteriùl2 for
+ùÿùndoned2 ÿuildingsGÖomplexesF sÖulptures2ùt2suÿsidized2rùtes2to2support2smùll
+villùge2 sÖulptorsF
+@gA2 snÖentives2 pùrtiÖulùrly2 to2 owners2 of
+@lA2 pull2 doÖumentùtion2 of2 preEÇortuguese
+notified2privùte2ÿuildings2for2mùintenùnÖe2ùre
+sÖulptures2ùnd2the2ghristiùn2sÖulpturùl2items
+lùÖkingF2 2 ähe2 qovernment2 would2 Öonsider
+Öreùted2during2the2Çortuguese2period2would
+these2in2the2ùreùs2of2the2äùx2ixemptionsD2eùsy
+@mA2 e2 sÖulpture2 gùllery2 would2 ÿe2 opened
+exhiÿitsF
+@ùA2 ähe2 qovernment2 would2 prepùre2 ù2 detùil development2proÖess2integrùting2the2vùrious
+disÖiplines2 involved2 within2 the2 existing ùlmùnùÖ2of2ùll2the2trùditionùl2fùirsD2festivùls2ùnd
+frùmework2 ÿy2 redefining2 roles2 of2 vùrious villùge2mùrkets2of2qoùF
+ùgenÖies2 involvedF2 ähe2 qovernment2 mùy
+@ÿA2 ähese2 would2 ÿe2 fully2 doÖumented2 in
+Öonstitute2 ù2 reritùge2 Öell2 with2 ù2 single
+multimediù2 formùtF
+window2system2for2providing2ÖonsultùnÖy2ùnd
+support2in2terms2of2heritùge2Öonservùtion2for
+@ÖA2 ähe2 qovernment2 would2 populùrize2these
+people2living2in2heritùge2houses2etÖF
+for2 the2 purpose2 of2 promoting2 Öulturùl2 ùnd
+more2 effeÖtive2 in2 implementùtion2 ùnd @dA2ähe2qovernment2would2seek2puÿliÖ2views
+ùmendments2 of2 the2 gonstitution2 for2 suÖh2 ù ùnd2ghristmùs2ùs2âtùte2pestivùlsF
+would2ÿe2ÿrought2on2the2tourist2mùpF
+ù2pride2in2the2Öhildren2ùÿout2the2trùditions2of
+TFV2pood282feverùges
+ones2 plùÖe2 ùnd2 develop2 ù2 positive2 ùttitude
+ùmong2 the2 future2 guùrdiùnsF2 pield2 trips2 ùnd @ùA2 ähe2 qovernment2 would2 enÖourùge
+ethos2 ùnd2 Öulinùry2 ùrt2 of2 qoù2 ùnd2 its2 Öulturùl develop2 ù2 more2 Ölose2 relùtionship2 with2 the
+
+@ÿA2 ähe2 qovernment2 would2 promote @eA2 2 ähe2 qovernment2 mùy2 deÖlùre2 ù2 speÖiùl
+ghsD2films2on2qoùs2food2ethos2ùnd2enÖourùge fùshion2 designers2 ùnd2 dressmùking2 industryF
+@ÖA2 ähe2 qovernment2 would2 promote
+trùditionùl2 food2 proÖessing2 industries2 ùnd n ähe2 wediùD2 ùs2 per2 the2 yxford2 definitionD
+mùking2 industries2 ùnd2 the2 trùditionùl2 villùge
+newspùpers2 regùrded2 ÖolleÖtivelyF2 fesides
+festivùl2ùnd2fùirs2linked2sweetmeùts2industriesF
+different2kinds2of2mediùD2the2poliÖy2doÖument
+@dA2 ähe2 qovernment2 would2 orgùnize
+trùditionùlD2themùtiÖ2qoùn2food2festivùls2outside
+ÿeen2Öonsidered2under2this2poliÖy2ùnd2not2for
+@eA2ähe2qovernment2would2invite2puÿliÖ2ideùs
+ÿeverùge2 itemsGreÖipesGproduÖts2 for2 ÿrùnding
+ÖùsteD2 ÖreedD2 religion2 or2 ÖommunityD2 will2 ÿe
+Öonsidered2 ùs2 wediù2 for2 the2 purpose2of2this
+poliÖyF
+2@fA2ähe2qovernment2would2reÖogniseD2seleÖt
+n vùnguùges2is2Öonsidered2to2ÿe2the2prime2tool
+ùnd2writersGÖompilers2of22ÿooks2on2gookery22ùnd
+of2the2wediù2to2ÖommuniÖùte2to2the2mùssesD qoùs2food2ethosF
+people2of2qoùF2roweverD2speÖiùl2emphùsis2is @gA2 ähe2 qovernment2 would2 strive2 to
+ÿeing2 given2 on2 the2 use2 of2 the2 âtùte2 yffiÖiùl populùrize2the2trùditionùlD2nutritionùl2reÖipes2for
+TFW2gostumesD2hress2ùnd2pùshions n ähe2 poliÖy2 ùims2 ùt2 imÿiÿing2 the2 Öulture2 of
+journùlism2ùmong2ùll2those2who2work2in2the
+@ùA2ähe2qovernment2would2ùppoint2ùn2expert
+field2of2wediùD2exploring2wùys2ùnd2meùns2to
+pùnel2to2surveyD2study2ùnd2suggest2plùn2for2the
+revivùl2 of2 the2 stitÖhingD2 weùvingD2 hùndloomD
+needleÖrùftD2 emÿroideryD2 Öostume2 ùnd2 dressE
+hevelopment2 for2 the2 wediùF
+mùking2trùditions2of2qoùF
+n ähe2 poliÖy2 reÖommends2 fund2 ùlloÖùtion2 for @ÿA2 ähe2 qovernment2 would2 strive2 to2 renew
+the2forgotten2Öostume2ùnd2dress2styles2of2qoù the2proteÖtion2ùnd2promotion2of2mediù2sÖene
+stylesF
+@ÖA2 ähe2 qovernment2 would2 promote2 fùshion
+designingD2fùshion2showsD2textile2ùnd2gùrment
+exhiÿitions2 ùnd2 would2 lùy2 speÖiùl2 stress2 on ähe2qovernment22reÖognizes2two2Öùtegories2of
+mediùX efforts2 mùde2 ÿy2 2 the2 loÖùl2 fùshion2 designersD
+dressmùkersD2 tùilors2 ùnd2 gùrment2 produÖersF
+of2 world2 Ölùss2 textileD2 gùrment2 exhiÿition iiA ileÖtroniÖ2wediù
+EÖùtegoriesX showsF
+
+X hùily2 xewspùpers
+seÖtion2 of2 qoùnsD2 ÿut2 with2 ù2 Öompulsion2 to
+yffiÖiùl2 vùnguùgeF wonthlyD2 fiEwonthlyD2 etÖFA
+@ÖA2ähe2proposed2hsw2would2set2up2ù2serviÖe
+intertùinmentD2âportsD2pùmilyD2ärùvelD2etÖFA
+to2Öontinuously2monitor2the2projeÖtion2of2qoù2in
+Öonsidering2thùt2qoù2is2ùn2internùtionùl2tourist âtudentD2 ghildren2 etÖFA
+destinùtionD2in2order2to2immediùtely2respond2to
+ùnd2reÖtify2ùny2distortion2or2misrepresentùtion
+of2the2âtùte2ùnd2its2ethosF
+institutions2 ùnd2 soÖioEÖulturùl2 xqys2 etÖF
+@dA2ähe2qovernment2would2press2the2ànion
+with2ùt2leùst2UH2perÖent2thoughtEprovoking
+X äelevisionX2 hoordùrshùnD2 privùte2 äå @eA2ähe2qovernment2would2Öonsider2setting
+like2 hisäs2 of2 qoù2 àniversityD2 meùnt2 for àniversityD2keeping2Öurrent2trends2ùnd2future
+eduÖùtion2 82 Öommunity2 development possiÿilities2of2developments2in2the2mediù2in
+progrùmmesF mindD2in2order2to2provide2opportunities2for2qoùn
+youth2 within2 qoù2 ùnd2 outsideF2 eÖÖordinglyD
+X snternetX2 çeÿonly2 news2 weÿsites
+degree2ùnd2shortEterm2diplomù2Öourses2would
+@funÖtioning2exÖlusively2for2the2snternet2ùnd
+ÿe2plùnnedF2ähe2Öourses2would2deùl2withX
+not2 eleÖtroniÖ2 versions2 of2 the2 Öontents2 of
+the2 Çrint2 or2 eudioåisuùl2 mediùAF
+X Çhoto2tournùlismâtill2ùnd2wovieF
+for2the2internetF tournùlismF
+X säX2 yther2 snfo2 äeÖh2 tools2 like2 äelephonesD X vùyoutsD2pùge2mùkingD2illustrùtionsD2grùphiÖ
+gellulùr2 phonesD2 etÖFD2 used2 for2 mediù designD2mùkeEupD2lightingD2Öùrtoons2etÖF
+purposeF
+X ennounÖingD2 enÖhoringD2 ÇroduÖtionD
+@ùA2 ähe2 qovernment2 proposes2 to2 widen2 the iditingD2âÖriptEwritingD2story2ÿoùrdD2etÖF2for
+sÖope2 of2 the2 hireÖtorùte2 of2 snformùtion2 8 the2ùudiovisuùl2mediùF
+snformùtion282wediù2@hswAD2whiÖh2will2ùlso2work @fA2 ähe2 qovernment2 would2 formulùte2 ù
+for2the2overùll2development2of2the2mediù2sÖene Öomprehensive2 ùÖÖreditùtions2 poliÖy2 for2 the
+qovernment2 depùrtmentsD2 nonEÖonfidentiùl
+qovernment2reÖords2ùnd2relùted2qovernment
+ÇuÿliÖùtion2unit2would2ÿe2set2up2in2the2hsw2toX
+ùÖtivitiesF2st2would2primùrily2Öùter2to2the2xewsE
+gùthering2tournùlists2of2newsErelùted2print28
+X äùke2 up2 2 projeÖts2 of2 ristory2 of2 wediù2 in
+qoùD2 reÖruiting2 quùlified2 unemployed
+mùnpowerF
+works2of2historiÖùl22signifiÖùnÖeD2inÖluding ähe2following2exerÖise2would2to2ÿe2tùken2up2on
+
+X àndergo2 Örùsh2 Öourses2 on2 tournùlistiÖ @mA22ähe2qovernment2would2fix2ùlloÖùtion2of
+historyD2 trùditions2 ùnd2 trendsF qovernment2 ùdvertisements2 for2 the2 speÖified
+X éefresher2 Öourses2 to2 get2 ùttuned2 without
+inÖluding2 weÿEonly2 news2 ùnd2 speÖiùlized
+weÿsitesF2 ähe2 qovernment2 would2 mùke
+renewing2 ùÖÖreditùtion2 every2 five2 yeùrsF
+ùspeÖtD2 ÿesides2 Öonsidering2 hisGher pùÖulty2of2qoù2àniversityF
+professionùl2 Öontriÿution2 ùnd2 ù2 minimum
+of2IS2yeùrs2of2experienÖeF @nA2ähe2qovernment2would2mùke2ÿudgetùry
+develop2 trùvel2 writingD2 keeping2 in2 mind2 qoùs of2the2viÿrùry2punds2for2eduÖùtionùl2institutions
+ùnd2 other2 qovernment2 liÿrùries2 to2 purÖhùse stùtus2 ùs2 one2 of2 2 sndiùs2 leùding2 tourist
+destinùtionsF puÿliÖùtionsGghs2relùted2to2mediùF
+@oA22ähe2qovernment2would2provide2ùdditionùl @hA2 ähe2 qovernment2 would2 formulùte2 ùn
+edvertising2ÇoliÖy2for2xewspùpersD2periodiÖùls funds2to2eduÖùtionùl2institutions2exÖlusively2for
+@pA2ähe2qovernment2would2mùke2speÖiùl2fund
+@iA2 ähe2 qovernment2 would2 formulùte2 ù provision2 for2 honorùrium2 to2 visiting2 leÖturers
+ùnd2 resourÖe2 persons2 to2 deliver2 leÖtures2 on punding2ÇoliÖy2on2ù2mùtÖhing2grùnt2ÿùsis2forX
+mediùErelùted2wùllpùper2lùyoutsD2feùture2writing
+opportunities2 ùvùilùÿle2 in2 the2 print2 ùnd ùnd2 hùndwritten2 wùllpùpersF
+X fooks2 ùndGor2 ghs2 of2 Öompilùtion2 of
+puÿlished2 mediù2 ÖolumnsF
+@qA2 ähe2 qovernment2 mùy2 Öonsider2 funding
+the22qoù22àniversity22to2set2up2ùnd2run2ù2wellE X eudio2 ùnd2 åideo2 ghs2 of2 Öompilùtion2 of
+Eequipped2fùÖulty2of2mediùF mediù2feùtures2on2qoùF
+X fooks2 ùndGor2 ghs2 ÿy2 veterùn2 qoùn @rA2ähe22qovernment22would22provide2fundsG
+mediù2personùlitiesD2relùted2to2mediùF Gùdvertisements2to2Öùÿle2operùtors2for2running
+@jA2 ähe2 qovernment2 would2 Öonsider2 tùx
+Öulture2 ùnd2 2 Öommunity2 developmentD2 whiÖh
+equipment2for2Çrint2ùnd2ileÖtroniÖ2mediù2in2the
+not2mere2entertùinment2or2ÖommerÖiùl22eventsF
+@sA2 2 ähe2 qovernment2 would2 provide2 tùx
+@kA2 ähe2 qovernment2 would2 provide2 support ÿenefits2 ùnd2 wùiving2 of2 Öustom2 dutiesD2 etÖF2 to
+serviÖe2for2registrùtion2of2puÿliÖùtions2with2the the2 print2 ùnd2 eleÖtroniÖ2 mediù2 to2 purÖhùse
+éxsD2xew2helhi2through2the2offiÖe2of2the2éesident eleÖtroniÖ2equipmentD2to2promote2mediù2in2the
+purpose2of2monitoring2ùnd2pursuing2registrùtion
+TFII2 gulturùl2 industryD2 ÇhotogrùphyD2 pilms2 ùnd of2puÿliÖùtions2from2qoùF
+@lA2 ähe2 qovernment2 would2 mùke2 ùdditionùl 2åisuùl2enthropology2Öùn2provide2ù2plùtform2from
+ÿudgetùry2 provision2 2 2 for2 the2 proposed2 hswD whiÖh2the2Öulture2of2qoù2Öould2gùin2ÿoth2voiÖe
+providing2IS2per2Öent2of2its2ÿudget22entirely2for ùnd2 representùtionF2 åisuùl2 enthropology2 is2 the
+
+mùin2 toolsF2 st2 Öreùtes2 visuùl2 textsfilms2 ùnd @kA2ähe2qovernment2would2exempt2loÖùl2filmE
+institutions2suÖh2ùs2lùwD2mùrriùgeD2rituùlD2liÿerùtionD @lA22ähe2qovernment22would2set2up2ù2modern
+movement2 ùnd2 oÖÖùsionùlly2 plùys2 the2 role2 of ùrÖhives2for2preserving2video2tùpes282Öelluloid
+@ùA2 ähe2 qovernment2 would2 estùÿlish2 ù @mA2 ähe2 qovernment2 would2 ùssist2 in
+gommunity2 2 ertist2 âtudio2 gomplex2 with improving2 the2 Öondition2 of2 the2 Öinemù2 houses
+ÇùintingD2 rùndiÖrùftsD2 âÖulpture2 where2 the promoters2 to2 set2 up2 video2 theùtres2 ùnd
+experts2 would2 give2 the2 teÖhniÖùl2 guidùnÖeF multiplexesF
+@ÿA2 ähe2 qovernment2 would2 orgùnize2 pilm
+to2provide2opportunity2to2enjoy2ùnd2ùppreÖiùte
+the2ÿest2in2world2ginemùF
+TFIP2sä2ùnd2gulture
+@ÖA2 ähe2 qovernment2 would2 work2 towùrds
+role2to2plùy2in2promoting2Öulture2due2to2the2wide ùnd2sndiùn2Çùnorùmù2to2ÿe2held2in2qoùF
+preservùtion2of2the2ùrt282Öulture2through2ù2vùst @dA2 ähe2 qovernment2 would2 promote2 ù
+the2ginemù2ùnd2wusiÖ2vovers2ùnd2the2âtudents
+developed2exÖlusively2devoted2to2highlight2the
+@eA2 ähe2 qovernment2 would2 exùmine2 the Öulture2 of2 qoùF2 ähe2 weÿ2 site2 would2 provide
+feùsiÿility2 of2 ù2 semi2 qovernment2 ÿody2 on2 the multiElinguùl2 ùÖÖessiÿility2 options2 ùnd2 give
+lines2of2xphgGwphg2to2ÿe2inÖorporùted2for2the detùils2 of2 the2 Öulture2 life2 of2 pùst2 ùnd2 present
+development2of2qoùn2filmsF qoùF2ähe2portùl2would2hùve2links2to2ùll2the2other
+relùted2 sites2 providing2 Öulture2 relùted2 Öontent
+@fA2 ähe2 qovernment2 would2 seek2 puÿliÖ of2qoù2inÖluding2sites2from2Öulturùl2institutionsD
+opinion2 ùnd2 oÿtùin2 the2 guidùnÖe2 from2 film museumsD2 eduÖùtionùl2 institutesD2 Öulture
+industry2 regùrding2 the2 ideù2 of2 estùÿlishing2 ù showsD2 home2 pùges2 of2 persons2 who2 hùve
+film2Öity2in2qoù2in2privùte2or2puÿliÖ2or2joint2seÖtorF Öontriÿuted2 signifiÖùntly2 to2 qoùn2 ÖultureD
+@gA2 ähe2 qovernment2 would2 Öommission2 ùn
+expert2study2on2promotion2of2Öulturùl2industry
+@ÿA2ivery2mùjor2institute2working2in2the2field
+of2promotingD2preservingD2doÖumenting2Öulturùl
+ÿenefits2 for2 the2 loÖùl2 people2 from2 the
+history2of2qoù2would2ÿe2provided2with2funds2or
+orgùnizùtion2of2snternùtionùl2pilm2pestivùlF
+enÖourùged2to2design2its2own2weÿ2siteF
+@hA2 ähe2 qovernment2 would2 deÖlùre2 film
+@ÖA2 e2 online2 site2 depiÖting2 the2 importùnt
+produÖtion2ùs2ùn2industry2ùnd22exempt2ùll2film
+produÖtions2 mùde2 in2 qoù2 2 from2 entertùinment
+@iA2 ähe2 qovernment2 would2 give2 VH72 finùnÖe
+to2interested2qoùn2pùrties2willing2to2estùÿlish
+@dA2 e2 projeÖt2 to2 showÖùse2 qoù2 ährough reÖordingD2editingD2duÿÿing2studios2with2ù2good
+morùtorium2 periodF eges2 thùt2 will2 show2 the2 historiÖùl2 82 Öulturùl
+Öhùnges2 through2 the2 vùrious2 dynùstiesGrulers
+qoù2would2ÿe2designedF2ähis2will2eleÖtroniÖùlly @jA2ähe2qovernment2would2deÖide2ù2poliÖy2for
+ÿoth2the2formùts2of2film22produÖtion2iFeF2gelluloid reÖreùte2 the2 pùst2 ùnd2 will2 provide2 interùÖtive
+
+@eA2 ell2 the2 importùnt2 ùnd2 rùre2 doÖuments @fA2ähe2qovernment2would2explore2new2ideùs
+would2 ÿe2 ùrÖhived2 immediùtely2 on2 eleÖtroniÖ religious2festivùlsD2events2ÿùsed2on2Öommunity
+formF festivùls2like2qùudù2pestivùlD2uunÿi2pestivùl2ùnd
+@fA2ähe2qovernment2would2ùrrùnge2to2mùrket events2 would2 2 ÿe2 orgùnized2 on2 the2 ÿùsis2 of
+@gA2ähe2presenÖe2of2ù2good2weÿsite2ùnd2other TFIR2gulturùl2reritùge2äourism2ùnd2wuseology
+sä2 infrùstruÖture2 would2 ÿe2 Öonsidered2 to2 give
+@ùA2 ähe2 qovernment2 reÖognizes2 the2 riÖh
+institutes2from2ù2speÖifiÖ2dùteF
+potentiùl2 for2 tourismF2 ähe2 former2 would2 ÿe
+projeÖted2properly2in2different2wùys2in22order2to
+events2 like2 âhigmoD2 gùrnivùl2 etÖF2 would2 ÿe
+mùde2 through2 the2 weÿF
+@ÿA2 ähe2 qovernment2 would2 orgùnize2 speÖiùl
+heritùge2tours2for2the2tourists2to2inÖlude2the2visits
+to2 the2 historiÖùl2 monumentsD2 sitesD2 ùs2 well2 ùs
+events2 pertùining2 to2 eùÖh2 villùge2 would2 ÿe
+Öulturùlly2 importùnt2 plùÖes2 ùnd2 institutionsF
+doÖumented2 in2 multimediù2 formF2 por2 eF2 gF
+@ÖA2 ähe2 qovernment2 would2 produÖe
+TFIQ2ivent2orgùnizùtion doÖumentùries2 on2 different2 ùspeÖts2 of2 Öulturùl
+festivùls2ùnd2rituùls2in2gh2formùtF2ähese2would
+@ùA2 ähe2 qovernment2 would2 ensure2 thùt2 the ÿe2 regulùrly2 sÖreened2 for2 the2 touristsF
+nùture2of2event2orgùnizùtion2progrùmmes2should
+ÿe2 in2 ÖonsonùnÖe2 ùnd2 in2 tune2 with2 the2 mùin @dA2 ähe2 qovernment2 would2 give2 more
+stùtementF would2 ÿe2 Öreùted2 for2 preservùtion2 of2 Öulturùl
+heritùgeF2 ifforts2 would2 ÿe2 mùde2 to2 develop
+@ÿA2 sn2 frùming2 guidelines2 for2 event
+gùlleries2in2the2âtùte2wuseum2to2depiÖt2different
+orgùnizùtion2the2qovernment2would2ensure2thùt
+ÖultureD2while2detùiling2ùnd2presenting2the2loÖùl
+itemsF2 éegionùl2 perspeÖtive2 should2 ÿe2 duly
+Öonsidered2ÿut2ùt2the2sùme2time2it2should2not
+ÿe2totùlly2isolùted2from2the2mùin2streùmF
+doÖumented2 ùnd2 new2 ùrtists2 would2 ÿe
+enÖourùged2to2follow2the2qoùn2mùstersF
+@ÖA2 ähe2 qovernment2 would2 ensure2 the2 nonE
+@ÿA2ähe2qovernment2would2support2revivùl2of
+would2ÿe2tùken2regùrding2those2Öulturùl2events
+trùditionùl2pùintingsD2fresÖoesD2temple2grùfitisF
+whiÖh2ùre2the2regulùr2feùtures2of2other2xFqFysF
+ähese2 would2 not2 ÿe2 hùndled2 ÿy2 qovernment
+@ÖA2 ähe2 qovernment2 would2 proÖure2 the
+hepùrtmentsF2 qovernment2 would2 enÖourùge
+pùintings2 of2 the2 promising2 loÖùl2 ùrtists2 for2 its
+ùttention2to2innovùtive2ideùsF
+offiÖesF
+@dA2 qovernment2 would2 either2 ùssoÖiùte2 or
+@dA2ähe2qovernment2would2support2pùinting indireÖtly2help2suÖh2xFqFys2in2orgùnizing2ùnd
+promoting2 progrùmmesF2 ähis2 will2 help2 in studiosD2 indoor2 ùnd2 outdoor2 workshops2 ùnd
+estùÿlishing2rùpport2with2the2rurùl2Öenters2ùnd exhiÿitionsF
+Öreùting2 ù2 heùlthy2 2 ùtmosphereF2 ypportunity
+ùnd2efforts2would2ÿe2mùde2to2ùssimilùte2them2in pùintings2ùnd2forms2suÖh2ùs2ùzulejos2ùnd2stùined
+@eA2e2Öomprehensive2inventory2ùnd2direÖtory @fA2ähe2qovernment2would2ùssist2the2drùwing
+teùÖhers2in2eduÖùtionùl2institutionsD2ùmùteur2ùnd of2xFqFyFs2ùnd2ùrtistes2would2ÿe2prepùredF
+
+professionùl2pùinters2to2estùÿlish2ù2qoùn2sÖhool for2Öhildren2ùnd2workshops2to2promote2hoÿÿies
+@iA2 ähe2 qovernment2 would2 fully2 tùp2 the
+employment2of2loÖùl2ùrtists2in2ÿusiness2of2ùpplied giving2them2grùnts2for2speÖifiÖ2Öulturùl2ùÖtivitiesF
+hoùrdingsD2 ÿùnners2 etÖF @jA2 ähe2 qovernment2 would2 identify2 the
+underprivileged2seÖtions2of2the2soÖiety2suÖh2ùs
+@hA2ähe2qovernment2would2enÖourùge2ùrt2of slum2dwellersD2street2Öhildren2etÖF2ùnd2promote
+@kA2ähe2qovernment2would2work2Ölosely2with
+@iA2 ähe2 qovernment2 would2 exempt2 drùwing orgùnisùtions2 suÖh2 ùs2 hrùwing2 äeùÖhers
+goods2ùre2mùrketed2through2ÖoEoperùtive2stores empowermentF
+or2retùiling2shops2set2under2the2qovernments
+selfEemployment2 sÖhemesF UF2 snterstùte2 Öulturùl2 relùtionsX
+TFIT2 gulturùl2 iduÖùtionX @ùA2ähe2qovernment2would2enter2into2suitùÿle
+Öulturùl2 long2 term ùgreements2 with2 ùll2 the
+@ùA2 ähe2 qovernment2 would2 promote2 hoÿÿy
+âtùtes2 in2 sndiù2 ùnd2 the2 ànion2 territories2 for
+@ÿA2 ähe2 qovernment2 would2 mùke2 it
+mùndùtory2 for2 the2 sÖhool2 teùÖhers2 to2 undergo
+@ÿA2gulturùl2liùison2offiÖers2or2ùgenÖies2would
+ÿe2ùppointed2in2importùnt2stùtes2to2promote2the
+visitorsF
+@ÖA2ähe2qovernment2would2orgùnize2ghildrens
+pilm2 pestivùls2 ùnd2 ùrrùnge2 sÖreening2 of
+@ùA2ähe2qovernment22would2ùim2ùt2mùrketing
+the2 Öulture2 of2 qoù2 to2 destinùtions2 whiÖh2 ùre
+where2there2is2suÿstùntiùl2presenÖe2of22xéssF
+@ÿA2ähe2qovernment2would2enÖourùgeD2under
+@eA2ell2the2eduÖùtionùl2institutions2would2ÿe
+the2guidùnÖe2from2gentrùl2qovernment2ùnd2its
+well2 equipped2 with2 ÿooks2 on2 ÖultureD2 puÿliÖ
+ùddress2systemD2ùnd2ùudio2visuùl2equipmentsF
+progrùmmes2 ùnd2 joint2 orgùnisùtion2 of2 Öulturùl
+@fA2 ähe2 qovernment2 would2 issue2 suitùÿle
+guidelines2 ùnd2 ethiÖùl2 Öode2 for2 plùnning2 the @ÖA2ähe2qovernment2would2enter2into2finùnÖiùl
+ùgreements2 with2 Öountries2 ùpproved2 ÿy2 the ùnnuùl2 soÖiùl2 gùtherings2 of2 the2 ùided
+institutionsF qovernment2of2sndiù2to2fund2Öulturùl2projeÖts2in
+@gA2 viÿerùl2 grùnts2 would2 ÿe2 given2 to2 the
+sÖhools2to2orgùnise2study2tours2within2the2âtùte WF2Çriority2tùrget2groups
+for2 visiting2 heritùge2 monuments2 ùnd2 Öulturùl
+ùtive2populùtion2residing22in2qoù2ùnd2the2pùtrons
+of2Öulture2@PA2the2visitors2to2the2âtùte2@QA2the2nonE
+@hA2ähe2qovernment2is2Öommitted2to2promote Eresident2 qoùns2 @RA2 potentiùl2 Öonsumers2 of2 qoùn
+
+IHF2 smplementùtion2 meÖhùnism provision2 of2 the2 grùnts2 etÖF2 whiÖh2 would2 ÿe
+Öonsidered2 ÿefore2 implementùtionF
+ähe2 poliÖy2 would2 ÿe2 implemented2 ÿy2 the
+IIF2 éeview
+qovernment2 of2 qoù2 through2 the2 existing
+ähe2 present2 poliÖy2 mùy2 ÿe2 reviewed2 not2 less meÖhùnism2of2the2hireÖtorùte2of2ert2ùnd2gultureD
+other2 supporting2 qovernment2 hepùrtmentsD2 the
+proposed2âtùte2gounÖil2ùnd2new2Öommittees2to2ÿe fy2 order2 ùnd2 in2 the2 nùme2 of2 the2 qovernor
+Öonstituted2for2vùrious2poliÖy2oÿjeÖtives2under2the of2qoùF
+overùll2 guidùnÖe2 of2 the2 ronÿle2 winister2 of2 ert
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+Çexets2E2qyeF
