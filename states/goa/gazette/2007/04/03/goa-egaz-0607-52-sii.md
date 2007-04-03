@@ -1,0 +1,297 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0607-52 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 5 Official Details Link"
+issuer: "Government of Goa"
+published: "2007-04-03"
+in_force: "2007-04-03"
+in_force_evidence: "published in the Gazette 2007-04-03; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0607-52.SII"
+language: "English text only"
+---
+
+Reg. No. GR/RNP/GOA/32 RNI No. GOAENG/2002/6410
+Panaji, 29th March, 2007 (Chaitra 8, 1929)
+SERIES II No. 52
+hepùrtment2of2éevenue
+I P
+xoF2QHGIGPHHSEéh@IA
+sn2pùrtiùl2modifiÖùtion2of2the2yrder2xoF2QHGIGPHHSEéh
+dùted2 REIHEPHHS2 puÿlished2 in2 ixtrùordinùry2 yffiÖiùl
+snformùtion2yffiÖer
+qùzetteD2âeries2ssD2xoF2P2dùted2TEIHEPHHS2the2qovernor2of
+qoù2is2pleùsed2to2designùte2the2following2yffiÖers2of2the
+hireÖtor2of2âettlement28 pirst2eppeùl
+in2ùll2the2suÿordinùte2offiÖes2under2this2hepùrtment2in
+eÖtD2PHHS2with2immediùte2effeÖtF
+hesignùtion2of2yffiÖer eppointed2ùs
+âuperintendent2of2âurveys28 ÇuÿliÖ2 snformùtion
+yffiÖe2of2the2snspeÖtor2of2âurveys2ùnd2vùnd
+hireÖtor2of2âettlement28 pirst2eppeùl
+yffiÖe2of2the2snspeÖtor2of2âurveys2ùnd2vùnd
+gity2âurveyD
+snformùtion2yffiÖer
+snformùtion2yffiÖer
+hireÖtor2of2âettlement28 pirst2eppeùl hireÖtor2of2âettlement28 pirst2eppeùl
+
+âgrihàvi yffiÖe2 of2 the2 snquiry2 yffiÖerD
+gity2âurveyD2üuepem
+@hesÖription2of2the2sùid2lùndA
+I P
+2âurvey2xoFG xùmes2of2the epproximùte
+to2ÿe2interested sqF2mtsF
+I P Q
+snformùtion2yffiÖer
+hireÖtor2of2âettlement28 pirst2eppeùl PRW I yX IF åishwùsnùth2xilkùnt VSH
+QF åishnu2qùnesh2hesprùÿhuF fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+PRW Pp yX IF åishnu2qùnesh2heshprùÿhuF TSQH
+Notification heshprùÿhuF
+äX qùnesh2qovind2uerkùrF
+xoF2PPGRHGPHHTEéh
+çhereùs22ÿy2qovernment2xotifiÖùtion2xoF2PPGRHGPHHTE
+Eéh2dùted2PPEHWEPHHT2puÿlished2on2pùges2THV2to2THW2of
+âeries2ssD2xoF2PU2of2the2yffiÖiùl2qùzetteD2dùted2HSEIHEPHHT
+ùnd2in2two2newspùpers2@IA2ähe2xùvhind2äimes2dùted
+PRW R yX åishnu2qùnesh2heshprùÿhuF USH
+PWEHWEPHHT2 @PA2 qomùntùk2 dùted2 PWEHWEPHHT2 it2 wùs
+notified2 under2 âeÖtion2 R2 of2 the2 vùnd2 eÖquisition2 eÖtD
+IVWR2@gentrùl2eÖt2I2of2IVWRA2@hereinùfter2referred2to2ùs
+ùppended2to2the2sùid2xotifiÖùtion2wùs2likely2to2ÿe2needed
+for2 the2 puÿliÖ2 purpose2 vizFD2 vùnd2 eÖquisition2 for2 the
+development2of2qovernment2åillùge2âÖhool2Çlùyground
+end2 whereùsD2 the2 qovernment2 of2 qoù2 @hereinùfter
+referred2to2ùs2the2qovernmentAD2ùfter2Öonsidering2the
+report2mùde2under2suÿEseÖtion2@PA2of2âeÖtion2SEe2of2the
+sùid2 eÖt2 is2 sùtisfied2 thùt2 the2 lùnd2 speÖified2 in2 the
+âÖhedule2 hereto2 is2 needed2 for2 the2 puÿliÖ2 purpose
+äX qùnesh2qovind2uerkùrF
+speÖified2 ùÿove2 @hereinùfter2 referred2 to2 ùs2 the2 sùid
+xowD2 thereforeD2 the2 qovernment2 hereÿy2 deÖlùresD
+foundùries2X
+âouthX âF2xoF2PRWGID2QID2QPD
+PF2ähe2qovernment2ùlso2ùppointsD2under2Ölùuse2@ÖA2of
+QQD2PD2SIF
+âeÖtion2 Q2 of2 the2 sùid2 eÖtD2 the2 hyF2 golleÖtor2 @veAD
+iùst X âF2xoF2PRWGPF
+the2sùid2lùndD2ùnd2direÖts2him2under2âeÖtion2U2of2the
+sùid2 eÖt2 to2 tùke2 order2 for2 the2 ùÖquisition2 of2 the2 sùid
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+ÇorvorimD2PTth2wùrÖhD2PHHUF under2âeÖtion2IIF
+
+Notification âgrihàvi
+@hesÖription2of2the2sùid2lùndA
+xoF2PPGIQGPHHUEéh
+çhereùs2 it2 ùppeùrs2 to2 the2 qovernment2 of2 qoù
+@hereinùfter2referred2to2ùs2the2qovernmentA2thùt2the âurvey2xoFG xùmes2of2the epproximùte
+lùnd2speÖified2in2the2âÖhedule2hereto2@hereinùfter2referred GâuÿF2hivF2xoFG persons2ÿelieved ùreù2in
+to2ÿe2interested sqF2mtsF to2 ùs2 the2 sùid2 lùndA2 is2 likely2 to2 ÿe2 needed
+for2 puÿliÖ2 purpose2 vizF2 vùnd2 eÖquisition2 of2 ùdditionùl I P Q
+lùnd2for2the2existing2éùiù2pootÿùll2qround2under2survey
+Q P yX IF qeorge2qomesF ISSH
+xowD2thereforeD2the2qovernment2hereÿy2notifiesD2under QF éomùldo2giriùÖo2qomesF
+suÿEseÖtion2@IA2of2seÖtion2R2of2the2vùnd2eÖquisition2eÖtD RF wùnuel2éosùrio2Çedro2qomesF
+IVWR2@gentrùl2eÖt2I2of2IVWRA2@hereinùfter2referred2to2ùs SF tose2qomesF
+the2sùid2eÖtA2thùt2the2sùid2lùnd2is2likely2to2ÿe2needed
+foundùriesX
+for2the2purpose2speÖified2ùÿoveF
+xorth X âF2xoF2RGPF
+PF2ell2persons2interested2in2the2sùid2lùnd2ùre2hereÿy
+wùrned2not2to2oÿstruÖt2or2interfere2with2ùny2surveyor2or âouth X âF2xoF2PF
+other2 persons2 employed2 upon2 the2 sùid2 lùnd2 for2 the
+purpose2 of2 the2 sùid2 ùÖquisitionF2 eny2 ÖontrùÖt2 for2 the
+çest X âF2xoF2QGID2RF
+ùssignmentD2 exÖhùnge2 or2 otherwiseD2 or2 ùny2 outlùy
+ÖommenÖed2or2improvements2mùde2thereon2without2the
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+ÿelowD2 ùfter2 the2 dùte2 of2 the2 puÿliÖùtion2 of2 this
+the2 sùid2 eÖtD2 ÿe2 disregùrded2 ÿy2 him2 while2 ùssessing
+ÇorvorimD2PVth2wùrÖhD2PHHUF
+QF2sf2the2qovernment2is2sùtisfied2thùt2the2sùid2lùnd2is Notification
+needed2for2the2ùforesùid2purposeD2ù2deÖlùrùtion2to2thùt
+xoF2PPGRPGPHHTEéh
+effeÖt2under2seÖtion2T2of2the2sùid2eÖt2will2ÿe2puÿlished
+in2the2yffiÖiùl2qùzette2ùnd2in2two2dùily2newspùpers2ùnd çhereùs2ÿy2qovernment2xotifiÖùtion2xoF2PPGRPGPHHTE
+puÿliÖ2notiÖe2thereof2shùll2ÿe2given2in2due2ÖourseF2sf2the Eéh2dùted2IHEIHEPHHT2puÿlished2on2pùges2TPR2to2TPS2of
+ùÖquisition2is2ùÿùndoned2wholly2or2in2pùrtD2the2fùÖt2will âeries2ssD2xoF2PU2of2the2yffiÖiùl2qùzette2@ixtrùordinùry
+ùlso2ÿe2notified2in2the2sùme2mùnnerF xoF2 SAD2 dùted2 IIEIHEPHHT2 ùnd2 in2 two2 newspùpers
+@IA2 xùvhind2 äimes2 dùted2 IQEIHEPHHT2 ùnd2 @PA
+RF2ähe2qovernment2further2ùppointsD2under2Ölùuse2@ÖA qomùntùk2 dùted2 IREIHEPHHT2 it2 wùs2 notified2 under
+of2seÖtion2Q2of2the2sùid2eÖtD2the2heputy2golleÖtorGâhyD seÖtion2R2of2the2vùnd2eÖquisition2eÖtD2IVWR2@gentrùl2eÖt
+âùlÖeteD2 wùrgùoEqoùD2 to2 perform2 the2 funÖtions2 of2 ù I2 of2 IVWRA2 @hereinùfter2 referred2 to2 ùs2 the2 sùid2 eÖtAD
+golleÖtorD2 âouth2 qoù2 histriÖtD2 wùrgùoEqoùD2 under2 the thùt2 the2 lùndD2 speÖified2 in2 the2 âÖhedule2 ùppended2 to
+sùid2eÖt2in2respeÖt2of2the2sùid2lùndF the2sùid2xotifiÖùtion2@hereinùfter2referred2to2ùs2the2sùid
+lùndAD2 wùs2 needed2 for2 the2 puÿliÖ2 purposeD2 vizF2 vùnd
+SF2ähe2qovernment2ùlso2ùuthorises2under2suÿEseÖtion
+@PA2of2seÖtion2R2of2the2sùid2eÖtD2the2following2yffiÖers2to
+do2the2ùÖtsD2speÖified2therein2in2respeÖt2of2the2sùid2lùndF
+end2 whereùsD2 the2 qovernment2 of2 qoù2 @hereinùfter
+referred2to2ùs2the2qovernmentA2ÿeing2of2the2opinion
+thùt2 the2 ùÖquisition2 of2 the2 sùid2 lùnd2 is2 urgently
+neÖessùryD2 hereÿy2 ùpplies2 the2 provisions2 of
+shùllD2ùt2ùny2timeD2on2the2expiry2of2fifteen2dùys2from2the
+dùte2of2the2puÿliÖùtion2of2the2notiÖe2relùting2to2the2sùid
+lùnd2under2suÿEseÖtion2@IA2of2seÖtion2W2of2the2sùid2eÖtD
+tùke2possession2of2the2sùid2lùndF
+inspeÖtion2 in2 the2 yffiÖe2 of2 the2 heputy2 golleÖtorGâhyD xowD2 thereforeD2 the2 qovernment2 hereÿy2 deÖlùresD
+âùlÖeteD2wùrgùoEqoùD2for2ù2period2of2QH2dùys2from2the under2the2provisions2of2seÖtion2T2of2the2sùid2eÖtD2thùt
+dùte2 of2 puÿliÖùtion2 of2 this2 xotifiÖùtion2 in2 the2 yffiÖiùl the2sùid2lùnd2is2required2for2the2puÿliÖ2purpose2speÖified
+
+PF2ähe2qovernment2ùlso2hereÿy2ùppointsD2under2Ölùuse disposùl2 of2 the2 sùid2 lùnd2 ÿy2 sùleD2 leùseD2 mortgùgeD
+@ÖA2 of2 seÖtion2 Q2 of2 the2 sùid2 eÖtD2 the2 heputy2 golleÖtor ùssignmentD2 exÖhùnge2 or2 otherwiseD2 or2 ùny2 outlùy
+@veAD2golleÖtorùte2of2xorth2qoù2histriÖtD2ÇùnùjiD2to2perform ÖommenÖed2or2improvements2mùde2thereon2without2the
+for2ùll2proÖeedings2hereinùfter2to2ÿe2tùken2in2respeÖt2of ÿelowD2 ùfter2 the2 dùte2 of2 the2 puÿliÖùtion2 of2 this
+the2sùid2lùnd2ùnd2direÖts2him2under2seÖtion2U2of2the2sùid notifiÖùtionD2will2under2Ölùuse2@seventhA2of2seÖtion2PR2of
+eÖt2to2tùke2order2for2the2ùÖquisition2of2the2sùid2lùndF the2 sùid2 eÖt2 ÿe2 disregùrded2 ÿy2 him2 while2 ùssessing
+yffiÖe2of2the2heputy2golleÖtor2@veAD2golleÖtorùte2of2xorth
+qoù2 histriÖtD2 ÇùnùjiD2 till2 the2 ùwùrd2 is2 mùde2 under QF2sf2the2qovernment2is2sùtisfied2thùt2the2sùid2lùnd2is
+seÖtion2IIF needed2for2the2ùforesùid2purposeD2ù2deÖlùrùtion2to2thùt
+effeÖt2under2seÖtion2T2of2the2sùid2eÖt2will2ÿe2puÿlished
+in2 the2 yffiÖiùl2 qùzette2 ùnd2 in2 two2 dùily2 newspùpers
+@hesÖription2of2the2sùid2lùndA ùnd2puÿliÖ2notiÖe2thereof2shùll2ÿe2given2in2due2ÖourseF
+sf2 the2 ùÖquisition2 is2 ùÿùndoned2 wholly2 or2 in2 pùrtD2 the
+2âurvey2xoFG xùmes2of2the epproximùte
+RF2ähe2qovernment2further2ùppointsD2under2Ölùuse2@ÖA
+to2ÿe2interested sqF2mtsF
+I P Q
+of2 the2 golleÖtorD2 under2 the2 sùid2 eÖt2 in2 respeÖt2 of2 the
+sùid2lùndF RPP Q rX gomunidùde2of2äivimF UWPS
+SF2ähe2qovernment2ùlso2ùuthorizes2under2suÿEseÖtion
+@PA2of2seÖtion2R2of2the2sùid2eÖtD2the2following2yffiÖers2to
+do2the2ùÖtsD2speÖified2therein2in2respeÖt2of2the2sùid2lùndF
+foundùries2X
+xorth X âurvey2xoF2RHRF
+iùst X âurvey2xosF2RIHGID2PD2RISGID2RIUF
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+inspeÖtion2in2the2yffiÖe2of2the2âpeÖiùl2vùnd2eÖquisition
+Notification
+xoF2PQGSGPHHUEéh @hesÖription2of2the2sùid2lùndA
+@hereinùfter2referred2to2ùs2the2qovernmentA2thùt2the
+lùnd2 speÖified2 in2 the2 âÖhedule2 hereto2 @hereinùfter 2âurvey2xoFG xùmes2of2the2persons epproxF2ùreù
+GâuÿEhivF2xoF ÿelieved2to2ÿe2interested 2in2sqF2mtsF referred2to2ùs2the2sùid2lùndA2is2likely2to2ÿe2needed2for
+I P Q puÿliÖ2 purpose2 vùnd2 eÖquisition2 for2 ÖonstruÖtion2 of
+wùter2Öourse2xoF2U@vA2of2winor2wQ2of2åelim2åillùge2of
+xow2thereforeD2the2qovernment2hereÿy2notifies2under
+suÿEseÖtion2@IA2of2seÖtion2R2of2the2vùnd2eÖquisition2eÖtD
+IVWR2@gentrùl2eÖt2I2of2IVWRA2@hereinùfter2referred2to2ùs
+the2sùid2eÖtA2thùt2the2sùid2lùnd2is2likely2to2ÿe2needed
+for2the2purpose2speÖified2ùÿoveF
+enisiù2pernùndesF
+äX âmtF2vewis2tude2êùvier2hâilvùF PF2ell2persons2interested2in2the2sùid2lùnd2ùre2hereÿy
+ISVGQIÇ yX elexùndrinù2golùÖoF PS wùrned2not2to2oÿstruÖt2or2interfere2with2ùny2surveyor
+ISVGQP yX teo2golùÖoF PS or2other2persons2employed2upon2the2sùid2lùnd2for2the
+ISVGQSÇ yX toùo2winguùl2golùÖoF US purpose2 of2 the2 sùid2 ùÖquisitionF2 eny2 ÖontrùÖt2 for2 the
+
+I P Q I P Q
+äX xùtlistù2pernùndesF IPTGRRÇ yX gomunidùde2of2åelimF US
+äX tùiminù2pernùndesF IPTGRSÇ yX gomunidùde2of2åelimF IPS
+äX endrosù2âilvùF IISGPHÇ yX srvino2fùrrosF IIUS
+IRHGRÇ yX gomunidùde2of2åelimF SH qovernment2of2qoùF
+yX hireÖtorùte2of2pisheriesD
+qovernment2of2qoùF
+äX imerito2tose2de2âeiqueirùF WWGVÇ yX gùndito2endrùdeF PS
+äX âilvùno2pernùndesF WWGWÇ yX gruzinho2endrùdeF PH
+IQWGQÇ yX gomunidùde2of2åelimF QS WWGIHÇ yX Çhilip2 xery2 endrùde PH
+
+I P Q I P Q
+yX prF2essumption2hâilvùF
+foundùries2X
+yX egnelo2hgostùF
+xorthX âF2xoF2ISWGIID2IWD2PIF
+iùst X âF2xoF2ISWGQRD2QVD2âF2xoF2ITHGID2PD2QD
+âF2xoF2IQVGID2PD2QD2WD2âF2xoF2IPSGIID
+âF2xoF2IPTGITD2RSD2âF2xoF2IIRGQD2ITD
+IUD2IVD2IWD2PHD2PID2PQD2PRD2PSD
+âF2xoF2WVGID2PD2QD2RD2âF2xoF2IIPD
+yX fenedito2ÇereirùF
+âF2xoF2IHIGUD2VD2WD2IHD2IID
+âF2xoF2PRGID2RD2SD2TD2UD2VD2WD2IHD2IID
+IPD2IQD2IRD2ISD2ITD2âF2xoF2PSGID2QD
+âF2xoF2WQGUD2âF2xoF2QPGID2IHD2IID2IRD
+çest X âF2xoF2ISWGIPD2IQD2IRD2ISD2ITD2IUD2IVD
+âF2xoF2ISVGID2RD2SD2TD2IHD2IQD2ITD2IUD
+IVD2QID2QPD2QSD2QVD2QWD2RID2âF2xoF2ITHGPD
+QD2âF2xoF2IRHGID2PD2QD2RD2SD2TD2UD2VD2WD
+IHD2IID2IPD2IQD2âF2xoF2IQWGID2PD2QD2RD
+IQD2IRD2âF2xoF2IQWGID2PD2QD2RD2IQD2IRD
+yX wiÖol2hgostù2gorreiùF
+âF2xoF2IPSGIHD2âF2xoF2IPTGIPD2IQD2IRD
+QUD2RRD2âF2xoF2IISGPHD2âF2xoF2WVGIRD
+IUD2PID2PTD2PVD2PWD2QPD2QQD2âF2xoF2WWGTD
+VD2WD2IHD2IID2SD2âF2xoF2IHHGID2PD2QD2RD
+yX wiÖol2hgostù2gorreiùF
+SD2TD2UD2VD2IID2âF2xoF2PRGQF
+ÇorvorimD2PIst2wùrÖhD2PHHUF
+WPGRIÇ yX gomunidùde2of2åelimF PH Circular
+xoF2ITEIEPHHTGéh2@ÇùrtA äX fernùndo2pernùndesF
+IF2çhereùsD2there2ùre2severùl2projeÖt2ùffeÖted2persons
+housing2ùnd2other2purposesF2wost2of2these2persons2were
+grùnted2lùnd2in2lieu2of2Öompensùtion2towùrds2their2lùnds
+äX vourdinù2pernùndesF
+
+trùnsfer2virtuùlly2does2not2ùllow2them2to2mortgùge2the Corrigendum
+property2 without2 prior2 qovernments2 ùpprovùlF2 ähe
+xoF2PPGIWGPHHTEéh
+ùpprovùl2 from2 qovernment2 is2 time2 Öonsuming2 ùnd2 ùt
+times2not2ùgreedF
+HIEIPEPHHT2regùrding2vF2eF2for2setting2up2of
+of2gounÖil2of2winisters2held2on2PHEHQEPHHU2ùt2IIFQH2ùFmF
+under2 the2 ghùirmùnship2 of2 ghief2 winister2 in2 the
+sn2 the2 âÖhedule2 ùppended2 to2 the2 xotifiÖùtion
+ÿy2them2ùnd2tùken2the2following2poliÖy2deÖisionsF
+referred2 to2 ùÿoveD2 ùn2 ùreù2 of2 the2 lùnd2 under2 survey
+xoF2 VHGP2 mùy2 ÿe2 reùd2 ùs2 TPHSW2 sqF2 mtsF2 insteùd2 of
+ell2the2lùnd2grùnts2mùde2to2projeÖt2ùffeÖted2persons
+UISHH2 sqF2 mtsF2 ùnd2 the2 survey2 xoF2 mùy2 ÿe2 reùd2 ùs
+VHGPÇ2 insteùd2 of2 VHGPF2 gonsequentlyD2 the2 totùl
+henÖeforthD2 future2 grùnts2 to2 projeÖt2 ùffeÖted2 persons
+RDIVDUIR2sqF2mtsF2insteùd2of2RDPVDISS2sqF2mtsF2âo2ùlso
+ùuthorized2to2implement2the2poliÖy2deÖision2ùt2his2level
+the2 survey2 xoF2 VIGRPÇ2 mùy2 ÿe2 reùd2 ùs2 survey
+xoF2VIGRIÇF
+the2survey2reÖordsF
+ähe2rest2of2the2Öontents2remùin2unÖhùngedF
+sn2view2of2ùÿoveD2golleÖtor2xorthGâouth2is2requested
+to2tùke2neÖessùry2steps2to2implement2the2poliÖy2deÖisionF
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+ÇorvorimD2PVth2wùrÖhD2PHHUF uuu
+hepùrtment2of2àrÿùn2hevelopment
+Corrigendum
+hireÖtorùte2of2wuniÖipùl2edministrùtion
+xoF2PPGSPGPHHTEéh
+Notification
+IREIIEPHHT2regùrding2vùnd2eÖquisition2for
+xoF2PUGIGwunEàhhGPHHPGQRII
+ÖonstruÖtion2of2missing2link2of2xr2IUEf2in
+voutolim2åillùge2ùt2åernù2sndustriùl2istùte qovernment2 is2 pleùsed2 to2 Öonstitute2 âtùte2 vevel
+qùzetteD2âeries2ssD2xoF2QRD2dùted2PQEIIEPHHT hevelopment2 under2 sntegrùted2 rousing2 ùnd2 âlum
+ùnd2 in2 two2 newspùpers2 vizF2 qoù2 hoot hevelopment2Çrogrùmme2@srâhÇA2in2order2to2exùmine28
+IUEIIEPHHTF monitor2the2progress2to2sùnÖtioned2projeÖt2ùnd2review
+the2 progress2 of2 urÿùn2 reforms2 ÿeing2 undertùking2 ÿy
+sn2the2âÖhedule2ùppended2to2the2xotifiÖùtion2referred
+àvfGimplementing2ùgenÖiesF
+following2 survey2 numÿers2 mùy2 ÿe2 reùd2 ùs2 given2 in gomposition2of2âvgg2mùy2ÿe2ùs2followsX
+Öolumn2xoF2Q2insteùd2of2Öolumn2xoF2P2ùs2underXE
+IF ronÿle2winister2for  ghùirmùn
+qovernment2of2qoù ghùirmùn
+ITSGÇ IHDHHH IHDSPW
+RHTGIU@ÇA QPH QPU qovernment2of2qoù
+gonsequentlyD2 the2 totùl2 ùreù2 deÖlùred2 for
+qovernment2of2qoù
+IHWHVS2sqF2mtsF
+qovernment2of2qoù
+ähe2rest2of2the2Öontents2remùin2unÖhùngedF
+TF ÇrinÖipùl2ghief2ingineerD  wemÿer
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+ÇorvorimD2PVth2wùrÖhD2PHHUF gountry2 Çlùnning
+
+VF hireÖtor2 of2 wuniÖipùl  wemÿer IPF éepresentùtive2of2rousing28
+edministrùtion àrÿùn2hevelopment2gorporùtion  wemÿer
+vtdF2@ràhgyA
+WF éepresentùtive2of2winister2of  wemÿer
+egenÖyF
+IHF éepresentùtive2of2winister  wemÿer fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+IIF éepresentùtive2of2winister  wemÿer
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqyeF
