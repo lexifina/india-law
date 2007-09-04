@@ -1,0 +1,152 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0708-22 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 0 Official Details Link"
+issuer: "Government of Goa"
+published: "2007-09-04"
+in_force: "2007-09-04"
+in_force_evidence: "published in the Gazette 2007-09-04; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0708-22.SI"
+language: "English text only"
+---
+
+ÇùnùjiD2Rth2âeptemÿerD2PHHU2@fhùdrù2IQD2IWPWA SERIES I No. 22
+for2him2to2tùke2immediùte2ùÖtionF
+xowD2 thereforeD2 in2 exerÖise2 of2 the2 powers
+vegùl22effùirs222hivision
+Öonferred2 ÿy2 Ölùuse2 @IA2 of2 ertiÖle2 PIQ2 of2 the
+gonstitution2 of2 sndiùD2 the2 qovernor2 of2 qoù2 is
+pleùsed2to2promulgùte2the2following2yrdinùnÖeD
+nùmelyX
+VGSGPHHUEve
+IF2âhort2titleD2extent2ùnd2ÖommenÖementF2@IA
+of2vùnd2hevelopment2ùnd2fuilding2gonstruÖtionA
+ùnd2 fuilding2 gonstruÖtionA2 yrdinùnÖeD2 PHHU
+yrdinùnÖeD2PHHUF
+promulgùted2ÿy2the2qovernor2of2qoù2on2PEWEPHHUD
+@PA2st2shùll2extend2to2the2whole2of2the2âtùte2of
+is2 hereÿy2 puÿlished2 for2 generùl2 informùtion2 of
+PF2 hefinitionsF2sn2this2yrdinùnÖeD2unless2the
+ÇorvorimD2Rth2âeptemÿerD2PHHUF
+Öontext2otherwise2requiresD
+vùnd2 hevelopment2 ùnd2 fuilding2 gonstruÖtionA
+ùnd22fuilding22gonstruÖtionA
+yrdinùnÖeD2PHHUY
+yrdinùnÖeD22PHHU
+@yrdinùnÖe2xoF2S2of2PHHUA sùme2meùning2ùssigned2toX
+Çromulgùted2ÿy2the2qovernor2of2qoù2in2the2piftyE @iA2ÿuilding2operùtion2in2Ölùuse2@SA2of
+Çlùnning2eÖtD2IWUR2@eÖt2xoF2PI2of2IWUSAY
+en2yrdinùnÖe2to2provide2for2the2regulùtion2ùnd
+Öontrol2 on2 ÿuilding2 ÖonstruÖtion2 ùnd2 lùnd @iiA2ÿuilding2in2Ölùuse2@PA2of2seÖtion2P2of
+therewithF
+çhereùs2the2vegislùture2of2the2âtùte2of2qoù2is EseÖtion2 @IA2 of2 seÖtion2 IVR2 of2 qoù
+not2in2session2ùnd2the2qovernor2of2qoù2is2sùtisfied wuniÖipùlities2eÖtD2IWTV2@eÖt2xoF2U2of2IWTWAY
+
+@ivA2ÿuilding2in2Ölùuse2@VA2of2seÖtion2S QF2 vùnd2 development2 ùnd2 ÿuilding2 ÖonE
+of2the2gity2of2Çùnùji2gorporùtion2eÖtD2PHHP struÖtionF2@IA2ell2lùnd2development2ùnd2ÿuilding
+@ÿA2gorporùtion2meùns2the2gorporùtion2of provisions2 of2 this2 yrdinùnÖe2 ùnd2 the2 rules2 ùnd
+the2gity2of2Çùnùji2inÖorporùted2under2seÖtion2U regulùtions2 mùde2 under2 the2 provisions2 of2 this
+@qoù2eÖt2I2of2PHHQA2or2ùny2other2gorporùtion
+estùÿlished2 under2 the2 provisions2 of2 ùny2 vùw @PA2eny2lùw2in2forÖe2in2the2âtùte2governing2lùnd
+enùÖted2ÿy2the2vegislùtive2essemÿly2of2qoùY development22ùnd2ÿuilding2ÖonstruÖtionD2in2so2fùr
+ùs2it2is2inÖonsistent2with2the2provisions2 of2 this
+@ÖA2 engineering2 operùtions2 inÖludes2 the yrdinùnÖe2or2the2rules2ùnd2regulùtions2mùde2under
+formùtion2or2the2lùying2out2of2meùns2of2ùÖÖess the2 provisions2 of2 this2 yrdinùnÖeD2 shùll2 stùnd
+to2ù2roùd2or2the2lùying2out2of2meùns2of2wùter repeùledF
+supplyD2 drùinùgeD2 sewerùge2 or2 of2 eleÖtriÖity
+Öùÿles2or2lines2or2of2telephone2linesY ixplùnùtionF2 sn2 this2 seÖtionD2 unless2 the
+Öontext2otherwise2requiresD2lùw2inÖludes2ùny
+@dA2qovernment2meùns2the2qovernment2of yrdinùnÖeD2yrdersD2ÿyeElùwsD2rulesD2regulùtions2or
+@eA2lùnd2development2with2its2grùmmùtiÖùl
+RF2Çower2to2mùke2regulùtions2ùnd2rulesF2@IA2ähe
+vùriùtions2ùnd2Öognùte2expressionsD2meùns2the
+qovernment2mùy2frùme2regulùtions2for2the2purpose
+Öùrrying2out2of2ÿuildingD2engineeringD2Öhùnge
+of2Öùrrying2out2the2provisions2of2this2yrdinùnÖe2ÿy
+on2the2fùÖe2of2lùndD2miningD2quùrrying2or2other
+following2the2proÖedure2speÖified2in2seÖtions2SD2T
+operùtions2in2or2on2or2over2or2under2the2lùndD2or
+ÿuilding2or2lùndD2or2in2the2use2of2ùny2ÿuilding2or @PA2sn2pùrtiÖulùr2ùnd2without2prejudiÖe2to2the
+lùndD2ùnd2inÖludes2suÿEdivision2or2ùmùlgùmùtion generùlity2 of2 the2 foregoing2 powersD2 the
+of2lùndY qovernment2 shùll2 mùke2 regulùtions2 providing
+forX
+gounÖil2estùÿlished2under2seÖtion2V2of2the2qoù @ùA2zoning2of2the2lùnd2ùnd2its2useY
+wuniÖipùlities2eÖtD2IWTV2@eÖt2U2of2IWTWAY @ÿA2 generùl2 requirements2 for2 lùnd2 deveE
+lopmentY
+@gA2 notifiÖùtion2 meùns2 ù2 notifiÖùtion @ÖA2group2housingY
+puÿlished2in2the2yffiÖiùl2qùzetteY @dA2 suÿEdivision2 of2 lùnd2 inÖluding2 ùmùlE
+gùmùtion2of2plotsY
+qùzette2of2the2qovernmentF @fA2 proÖedure2 for2 seeking2 development
+permission2from2gorporùtionD2wuniÖipùl2gounÖilD
+meùns2 Çlùnning2 ùnd2 hevelopment2 euthority euthorityY
+Öonstituted2under2seÖtion2PH2of2the2qoù2äown @gA2ùny2other2ùspeÖt2relùting2to2plùnning2ùnd
+ùnd2gountry2Çlùnning2eÖtD2IWUR2@eÖt2PI2of2IWUSAY developmentF
+@jA2presÖriÿed2meùns2presÖriÿed2ÿy2rules @QA2ähe2 qovernment2 mùy2 mùke2 rules2 for2 the
+mùde2under2this2yrdinùnÖeY purpose2of2Öùrrying2out2of2the2provisions2of2this
+@kA2 regulùtions2 meùns2 the2 regulùtions
+frùmed2under2this2yrdinùnÖeY
+to2 mùke2 regulùtions2 under2 seÖtion2 R2 shùll2 ÿe
+ÿy2 the2 qovernment2 under2 suÿEseÖtion2 @PA2 of hùving2wide2ÖirÖulùtion2inviting2oÿjeÖtions2ùnd
+@eÖt2IR2of2IWWRAF dùysF
+
+TF2âteering2gommitteeF2@IA2ähe2qovernment development2permission2or2ÖonstruÖtion2liÖenses
+shùll2ùppoint2ù2âteering2gommittee2Öonsisting for2 ÿuilding2 suÿmittedD2 ÿefore2 the2 dùte2 of
+of2the2ghief2winisterD2qovernment2of2qoùD2ùs2its ÖommenÖement2 of2 regulùtions2 frùmed2 under
+hevelopmentD2winister2for2ÇùnÖhùyùtsD2winister2for ùppliÖùÿle2 ÿefore2 the2 ÖommenÖement2 of2 this
+hepùrtment2shùll2ÿe2its2wemÿer2âeÖretùryF2ähe Çlùnning2hepùrtment2from2plùnning2point2of2viewF
+qovernment2 mùy2 ÖoEopt2 ùn2 expert2 hùving2 vùst
+knowledge2in2the2field2of2town2plùnning2on2the @ÿA2eny2ùppliÖùtion2for2lùnd2development2or
+sùid2gommitteeF ÖonstruÖtion2 of2 ÿuilding2 reÖeived2 ÿy2 the
+@PA2 ähe2 âteering2 gommittee2 shùll2 ùppoint2 ù
+âuÿEgommittee2 Öonsisting2 of2 the2 hireÖtor2 of
+ÖonÖerned2ùuthority2to2the2respeÖtive2distriÖt
+levelGtùlukù2level2offiÖe2of2the2äown2ùnd2gountry
+gommerÖe2ùnd2sndustryD2the2ghùirmùn2or2memÿer
+ÖertifiÖùte2from2plùnning2point2of2viewF
+of2 the2 qoù2 ghùmÿer2 of2 rousing2 sndustryD2 ù
+representùtive2eùÖh2of2registered2loÖùl2ghùpterG
+GessoÖiùtions2of2äown2ÇlùnnersD2ingineers2ùnd
+shùll2Öonsider2the2ùppliÖùtions2for2issuing2of2xo
+erÖhiteÖts2to2Öonsider2oÿjeÖtions2ùnd2suggestions
+sÖrutiny2of2plùn2ùnd2or2site2inspeÖtionD2deemed2to
+to2 the2 âteering2 gommitteeF2 ähe2 ghief2 äown
+ÿe2neÖessùryD2thùt2the2proposed2lùnd2development
+ùnd2or2ÖonstruÖtion2of2ÿuilding2is2in2Öonformity
+withX
+forÖe2prior2to2ITth2wùyD2PHHUF
+@RA2 ähe2 âteering2 gommittee2 shùllD2 ùfter
+Öonsidering2 the2 report2 of2 the2 âuÿEgommitteeD
+@ÿA2 Çlùnning2 ùnd2 hevelopment2 euthority
+suÿmit2its2report2together2with2reÖommendùtions
+@hevelopment2ÇlùnA2éegulùtionsD2PHHH2ùs2notified
+to2the2qovernment2within2ù2period2of2thirty2dùys
+in2 the2 yffiÖiùl2 qùzetteD2 ixtrùordinùry2 xoF2 QD
+from2 the2 dùte2 of2 reÖeipt2 of2 the2 report2 of2 the
+âeries2s2xoF2PPD2dùted2PVth2eugustD2PHHQD2with
+âuÿEgommitteeF
+exÖeption2 of2 regulùtions2 governing2 fùrm
+reÖeiving2the2report2ùnd2reÖommendùtions2of2the
+Çrovided2thùt âteering2 gommitteeD2 ùnd2 ùfter2 mùking2 suÖh
+modifiÖùtions2 ùs2 the2 qovernment2 Öonsiders
+@ùA2no2lùnd2development2shùll2ÿe2permitted2in
+notify2the2regulùtionsF
+@ÿA2 fùrm2 houses2 shùll2 ÿe2 permitted2 only2 in VF2 xotifiÖùtion2ùnd2 effeÖtF2 yn2 ùnd2 from2 the
+dùte2of2the2Öoming2into2forÖe2of2the2regulùtions plots2with2minimum2ùreù2of2RDHHH2squùre2meters
+ùnd2Öoverùge2PFS72ùnd2pFeFéF2S2ùnd2height2SFS frùmed2under2seÖtion2UD2ùny2lùnd2development2ùnd
+ÿuilding2 ÖonstruÖtion2 in2 the2 âtùte2 shùll2 ÿe metersD2following2the2guidelines2issued2ÿy2the
+regulùtionsF
+regulùtionsF2 @IA2 ell2 ùppliÖùtions2 for2 lùnd ÿe2VHF
+
+IHF2 âùving2 provisionF2 @IA2 eny2 lùnd immunity2 if2 suÖh2 development2 permission2 or
+ÿuildingD2 etÖFD2 issued2 under2 the2 relevùnt2 lùws with2the2yrdinùnÖe2ùnd2regulùtions2frùmed2there
+yrdinùnÖeD2 shùll2 remùin2 vùlid2 for2 ùll2 purposes
+inÖluding2renewùlsF 2222âF2gF2tùmirD
+qovernor2of2qoùF
+@PA2 xotwithstùnding2 ùnything2 Öontùined2 in
+suÿEseÖtion2@IAD2suÖh2development2permission2ùnd
+or2ÖonstruÖtion2liÖenÖe2for2ÿuilding2shùll2not2get
+hùteX2PEWEPHHUF
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqye
