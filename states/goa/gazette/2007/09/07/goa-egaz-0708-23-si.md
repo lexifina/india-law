@@ -1,0 +1,69 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0708-23 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 1 Official Details Link"
+issuer: "Government of Goa"
+published: "2007-09-07"
+in_force: "2007-09-07"
+in_force_evidence: "published in the Gazette 2007-09-07; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0708-23.SI"
+language: "English text only"
+---
+
+ÇùnùjiD2Uth2âeptemÿerD2PHHU2@fhùdrù2ITD2IWPWA SERIES I No. 23
+qovernment2to2the2extent2of2the2lùst2finùnÖiùl2yeùrs qyåiéxwixä22yp22qye
+ÖolleÖtion2of2tùxesD2for2ù2period2of2five2yeùrs2in2terms
+hepùrtment22of22sndustries
+@IA2of2seÖtion2QU2e2of2the2sùid2eÖtY
+end2 whereùs2 the2 qovernment2 of2 qoù2 ùlso
+proposes2 to2 ùppoint2 the2 qoù2 sndustriùl
+ISGRSGPHHSEsxhG@Çùrt2pileA
+hevelopment2gorporùtion2@hereinùfter2Öùlled2the
+sùid2 gorporùtionA2 for2 the2 purpose2 of2 the
+éeùdX xotifiÖùtion2 2 xoF2 ISGIRGWPEsxh2 2 dùted
+PHth22peÿruùryD22PHHID222puÿlished222in222the
+provisions2of2lùw2ùs2in2forÖe2ùnd2to2ùuthorize2the
+sùid2gorporùtion2for2the2purpose2of2exerÖising2ùll
+xoF2RUD2dùted2PPEPEPHHIF
+the2powersD2suÖh2ùsD2Öontrol2or2ereÖtion2of2ÿuildingD
+levy2ùnd2ÖolleÖtion2of2tùxesD2fees2ùnd2other2dues2in
+çhereùs2 vide2 xotifiÖùtion2 xoF2 ISGIRGWPEsxh
+dùted2PHEPEPHHID2puÿlished2in2the2yffiÖiùl2qùzetteD
+ixtrùordinùryD2 âeries2 s2 xoF2 RUD2 dùted2 PPEPEPHHI
+respeÖtivelyD2of2suÿEseÖtion2@IA2of2seÖtion2QU2e2of
+@hereinùfter2 Öùlled2 the2 sùid2 xotifiÖùtionAD2 the
+qovernment2of2qoù2hùs2deÖlùredD2interEùliùD2the
+sùid2proposùlsAF2rouse22tùxD2other2tùxesD2fees2ùnd
+ùll2other2types2of2dues2so2ÖolleÖted2ÿy2the2sùid
+sùid2xotifiÖùtion2to2ÿe2notified2ùreùs2under2the
+deposited2with2the2qovernment2immediùtely2ÿy
+of2seÖtion2QU2e2of2the2qoù2sndustriùl2hevelopment
+the2sùid2gorporùtion2ùfter2suÖh2ÖolleÖtion2under
+eÖtD2IWTS2@eÖt2PP2of2IWTSA2@hereinùfter2Öùlled2the
+fudget2reùdX
+end2 whereùs2 the2 qovernment2 of2 qoù2 now
+22IHIsndustriùl2istùteF
+22222HPgolleÖtion2of2house2tùx2from2the2oÖÖupùnt
+222of2the2sndustriùl22istùteF
+xowD2thereforeD2in2pursuùnÖe2of2suÿEseÖtion2@PA
+relùting2to2loÖùl2ùuthorities2providing2for2Öontrol
+of2seÖtion2QU2e2of2the2sùid2eÖtD2the2qovernment2of
+or2 ereÖtion2 of2 ÿuildingsD2 levy2 ùnd2 ÖolleÖtion2 of qoù2hereÿy2invites2ùll2persons2who2entertùin2ùny
+tùxesD2fees2ùnd2other2dues2to2the2loÖùl2ùuthorities oÿjeÖtions2to2the2sùid2proposùls2to2suÿmit2the2sùme
+whiÖh2ùre2in2forÖe2in2the2sùid2ùreù2shùll2Öeùse2to in2writing2with2reùsons2therefor2to2the2hireÖtor2of
+ùpply2thereof2ùnd2thùt2the2wuniÖipùlities2ùnd2the sndustriesD2ärùde2ùnd2gommerÖeD2qovernment2of
+
+âgrihàvi @eA2foundùriesX
+@dA22âurvey2xosX22UVGID2UVGPD2UVGQD2UVGRD2UVGSD2UVGTD2UVGUD
+UVGVD2UVGW@ÇùrtAD2UVGIR@ÇùrtAD2UVGIUD2UVGIVD2UVGPQD2UVGPSD
+fy2 order2 ùnd2 in2 the2 nùme2 of2 the2 qovernor
+UVGPUD2UVGQHD2UVGQPD2UVGQSD2UVGQVD2UVGRI@ÇùrtAD2UVGRP@ÇùrtAD
+UVGRQ@ÇùrtAD2UVGRRD2UWGÇùrtD2VHGID2VHGPD2VHGQD2VIGID2VIGPD
+VIGQD2VIGRD2VIGSD2VIGTD2VIGUD2VIGVD2VIGWD2VIGIHD2VIGIID2VIGIPD
+VIGIQD2VIGIRD2VIGISD2VIGITD2VIGIUD2VIGIVD2VIGIWD2VIGPHD @sndustriesAF
+VIGPID2VIGPPD2VIGPQD2VIGPRD2VIGPSD2VIGPTD2VIGPUD2VIGPVD
+VIGPWD2VIGQH2@ÇùrtAD2VIGQID2VIGQPD2VIGQR2ùnd22VIGRP@ÇùrtAF ÇorvorimD2Tth2âeptemÿerD2PHHUF
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqye
