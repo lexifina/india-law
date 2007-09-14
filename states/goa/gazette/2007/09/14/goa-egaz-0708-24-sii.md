@@ -1,0 +1,154 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0708-24 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 2 Official Details Link"
+issuer: "Government of Goa"
+published: "2007-09-14"
+in_force: "2007-09-14"
+in_force_evidence: "published in the Gazette 2007-09-14; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0708-24.SII"
+language: "English text only"
+---
+
+éegF2xoF2qéGéxÇGqyeGQP éxs2xoF2qyeixqGPHHPGTRIH
+qyåiéxwixä2 yp2 qye ÿe2disregùrded2ÿy2him2while2ùssessing2Öompensùtion2for
+hepùrtment2of2éevenue
+QF2sf2the2qovernment2is2sùtisfied2thùt2the2sùid2lùnd2is
+
+needed2for2the2ùforesùid2purposeD2ù2deÖlùrùtion2to2thùt
+xoF2PQGIWGPHHUEéh
+puÿliÖ2notiÖe2thereof2shùll2ÿe2given2in2due2ÖourseF2sf2the
+@hereinùfter2referred2to2ùs2the2qovernmentA2thùt2the ùlso2ÿe2notified2in2the2sùme2mùnnerF
+lùnd2speÖified2in2the2âÖhedule2hereto2@hereinùfter2referred
+to2ùs2the2sùid2lùndA2is2needed2for2puÿliÖ2purposeD2vizF RF2ähe2qovernment2further2ùppoints2under2Ölùuse2@ÖA
+yffiÖer2 @xAD2 qoù2 äillùri2 srrigùtion2 hevelopment off2ùt2ghFPWVH2w2of2åùdùvùl2histriÿutory2vfwg2of2äillùri
+under2the2sùid2eÖt2in2respeÖt2of2the2sùid2lùndF
+end2whereùs2in2the2opinion2of2the2qovernment2the
+provisions2of2suÿEseÖtion2@IA2of2âeÖtion2IU2of2the2vùnd SF2ähe2qovernment2ùlso2ùuthorizes2under2suÿEseÖtion
+eÖquisition2eÖtD2IVWR2@gentrùl2eÖt2I2of2IVWRA2@hereinùfter @PA2of2âeÖtion2R2of2the2sùid2eÖtD2the2following2yffiÖers2to
+xow2thereforeD2the2qovernment2hereÿy2notifies2under
+srrigùtion2 hevelopment2 gorporùtionD2 âùrvùnùD
+ähe2qovernment2further2direÖts2under2suÿEseÖtion2@RA
+of2âeÖtion2IU2of2the2sùid2eÖt2thùt2the2provisions2of2seÖtion
+Se2of2the2sùid2eÖt2shùll2not2ùpply2in2respeÖt2of2the2sùid QA ähe2 ixeÖutive2 ingineerD2 hivEåsD2 qoù2 äillùri
+PF2ell2persons2interested2in2the2sùid2lùnd2ùre2hereÿy
+wùrned2not2to2oÿstruÖt2or2interfere2with2ùny2surveyor2or
+other2 persons2 employed2 upon2 the2 sùid2 lùnd2 for2 the
+purpose2of2the2sùid2ùÖquisitionF2eny2ÖontrùÖt2for2the
+ùssignmentD2 exÖhùnge2 or2 otherwise2 or2 ùny2 outlùy inspeÖtion2in2the2yffiÖe2of2the2âpeÖiùl2vùnd2eÖquisition
+ÖommenÖed2or2improvements2mùde2thereon2without2the yffiÖer2 @xAD2 qoù2 äillùri2 srrigùtion2 hevelopment
+ÿelowD2ùfter2the2dùte2of2the2puÿliÖùtion2of2this2notifiÖùtionD from2the2dùte2of2puÿliÖùtion2of2this2xotifiÖùtion2in2the
+will2under2Ölùuse2@seventhA2of2âeÖtion2PR2of2the2sùid2eÖt yffiÖiùl2qùzetteF
+
+âurvey2xoFG xùme2of2the epproximùte
+foundùriesX I P Q
+xorthX âF2xoF2PITGID2âF2xoF2PIVF
+iùstX âF2xoF2PITGPD2QD2RD2SD2âF2xoF
+PITGTD2UD2VD2âF2xoF2PPIGID2PD2QD
+RD2âF2xoF2PPHD2âF2xoF2PIVF
+çestX âF2xoF2PIVD2âF2xoF2PPHD2âF2xoF
+foundùriesX PPPGUD2âF2xoF2PPIGRD2âF2xoF
+PITGPD2QD2RD2SD2TD2UD2VF
+äotùlX IHSRRFHH
+âouthX âF2xoF2IQIGIEeF
+iùstX âF2xoF2IPTD2âF2xoF2IQQF
+çestX âF2xoF2IQIGIF
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+ÇorvorimD2Uth2âeptemÿerD2PHHUF
+PITGRÇ yX rùri2ghùndrù2éùutF RTSFHH Notification
+xoF2PPGIVGPHHTEéh
+ghinderkùrF
+äX xilF éeùdXE yrder2 of2 righ2 gourt2 in2 çrit2 Çetition
+PITGSÇ yX heu2erjun2éùutF QHSFHH xoF2IIP2of2PHHUF
+PITGTÇ yX urishnù2pùti2éùutF QURFHH GPHHTEéh2dùted2HTEHPEPHHU2under2âeÖtion2T2notified2hùd
+âumitrù2urishnù2éùutF2@fothIGPA shown2in2the2sÖhedule2ùppended2to2the2sùid2notifiÖùtion
+vùdu2uuso2éùutF Öhùllenged2in2çrit2Çetition2xoF2IIP2of2PHHU2ÿefore2the
+äX xilF sn2 pursuùnÖe2 of2 yrder2 of2 ronF2 righ2 gourt2 in2 çrit
+äX xilF Ereferred2 notifiÖùtion2 under2 âeÖtion2 T2 of2 the2 vùnd
+äX xilF çhereùs2 it2 ùppeùrs2 to2 the2 qovernment2 of2 qoù
+
+end2whereùsD2the2qovernment2of2qoù2@hereinùfter iùstX âF2xoF2IVSGIQD2PPÇD2âF2xoF2IUWG
+referred2to2ùs2the2qovernmentA2ÿeing2of2the2opinion GUÇD2IRÇD2IVÇ2ùnd2âF2xoF2IUU
+thùt2the2ùÖquisition2of2the2sùid2lùnd2is2urgently2neÖessùryD pùrtF
+hereÿy2ùpplies2the2provisions2of2suÿEseÖtion2@IA2of2âeÖtion
+çestX âF2xoF2IVSGPSD2âF2xoF2IUWGSD
+IU2of2the2sùid2eÖt2ùnd2direÖts2thùt2the2golleÖtor2ùppointed
+WD2IRD2IUD2PRD2PUD2QS2ùnd2âF
+under2pùrùgrùph2P2ÿelowD2shùllD2ùt2ùny2timeD2on2the2expiry
+xoF2IUU2pùrtF
+of2fifteen2dùys2from2the2dùte2of2the2puÿliÖùtion2of2the
+notiÖe2relùting2to2the2sùid2lùnd2under2suÿEseÖtion2@IA2of
+âeÖtion2W2of2the2sùid2eÖtD2tùke2possession2of2the2sùid2lùndF UQ T2@pùrtA yX sfùnto2pernùndesF IRQ
+UQ W2@pùrtA yX gùitùno2woris2pernùndesF VU
+xowD2thereforeD2the2qovernment2hereÿy2deÖlùres2under
+UQ IH2@pùrtA yX toùnes2pernùndesF PV
+the2provisions2of2âeÖtion2T2of2the2sùid2eÖt2thùt2the2sùid
+vtdF
+PF2 ähe2 qovernment2 ùlso2 hereÿy2 ùppoints2 under
+UR T2@pùrtA yX êùvier2pernùndesF QTP
+in2respeÖt2of2the2sùid2lùnd2ùnd2direÖts2him2under2âeÖtion UR IV2@pùrtA yX entonio2istevùo RI
+wùrgùo2E2qoùD2till2the2ùwùrd2is2mùde2under2seÖtion2IIF idwin2pernùndesF
+entonio2tose2fielinoF
+@hesÖription2of2sùid2lùndA
+gùrdozoF
+âurvey2xoFG xùme2of2the epproximùte
+sqF2mtsF UR PQ2@pùrtA yX pilomenù2pernùndesF IQP
+I P Q foundùriesX
+IUW U2@pùrtA yX äeoton2forgesF RS 2PHÇF
+heodùde2forgesF
+IUW PR2@pùrtA yX srenù2forgesF PQ
+UT PH2@pùrtA yX gommunidùde2of2âùrzorùF SRH IUW PU2@pùrtA yX prùnÖisÖo2forgesF RR
+D
+IUW QS2@pùrtA yX tuliùnù2grùstoF PH
+foundùriesX
+IVS U2@pùrtA yX äeodosio2hionisis2äùvùresF RW
+IVS IW2@pùrtA yX welquitù2qùmùF QS
+IVS PI2@pùrtA yX åiolù2éodriguesF U
+IVS PP2@pùrtA yX pùtimù2forgesF TP QP P2@pùrtA yX plùrio2egostinho2wenezesF ISV
+QP IH2@pùrtA yX prùnÖisÖo2entonio QH
+foundùriesX QP II2@pùrtA yX vurdes2wùsÖùrenhùsF IP
+QP IQ2@pùrtA yX teronimo2wùrÖùrenhùsF IPR
+QQ IP2@pùrtA yX teorginù2wenezesF UV
+
+hepùrtment2of2äown2ùnd2gountry2Çlùnning I P Q
+frigido2wenino2tesus
+
+QQ IT2@pùrtA yX entonio2istevùo IVP Order
+QQ V2@pùrtA yX Çedro2fùrtelemùo PW
+xoF2PUGISEQGägÇGggGHUGQITR
+QQ IR2@pùrtA yX frigido2wenino2tesusF QU éeùdXE yrder2 xoF2 PUGISEQGägÇGHSGIVWW2 dùted
+grispino2gùssiùno QHETEPHHSF
+QQ PW2@pùrtA yX vopoÖiùno2åùzF IHI sn2supersession2of2the2eùrlier2order2mentioned2ùÿoveD
+äiÿussio2wenezesF
+the2 qovernment2 is2 pleùsed2 to2 reÖonstitute2 the
+gonservùtion2gommittee2Öomprising2of2the2following wùsÖùrenhùsF
+QW P2@pùrtA yX winguel2hiùsF QWS memÿersF
+QW Q2@pùrtA yX toùquim2wùnuel2wenezesF RRP
+egostinho2wenezesF
+IF winister2@äown2ùnd2gountry  ghùirmùn
+foundùriesX ÇlùnningA
+xorthX âF2xoF2QWGPÇD2QÇD2âF2xoF2QQG
+âouthX âF2xoF2QUGPD2QWGPÇD2QÇD2QQG
+SF hyF2âupdtF2of2erÖhùeology  wemÿer
+TF hireÖtor2of2erÖhives28  wemÿer
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF erÖhùeologyD2ÇùnùjiEqoù
+hF2wF2éedkùrD2ànder2âeÖretùry2@éevenueEsAF UF xominee2of2sndiùn2snstitute2of  wemÿer
+erÖhiteÖts2@qoù2ghùpterA ÇorvorimD2Uth2âeptemÿerD2PHHUF
+¿¿¿
+VF xominee2of2snstitute2of  wemÿer
+
+WF xominee2of2snstitute2of2äown  wemÿer
+xoF2IQGIRGWHEâçhG@ssAGQSIU ghùpterA2ÇorvorimEqoù
+éeùdXE qovernment2 xotifiÖùtion2 xoF2 IQGIRGWHE IHF xominee2of2qoù2ghùmÿer2of  wemÿer
+EâçhG@åolF2ssAGQHRW2dùted2PREIPEPHHRF
+rousing2sndustry
+IWEVEPHHQF IIF âhri2xilesh2âùlkùr  wemÿer
+ähe2qovernment2of2qoù2is2pleùsed2to2reserve2IP72of
+ähis2 supersedes2 the2 qovernment2 xotifiÖùtion
+xoF2 IQGIRGWHEâçhG@ssAGQQRR2 dùted2 QHEVEPHHUD2 issued fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+eùrlier2in2this2regùrdF
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF worùd2ehmùdD2ghief2äown2Çlùnner282ex2offiÖio2ttF
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqye
