@@ -1,0 +1,269 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0708-26 Gazette"
+gazette_type: "OG - Ordinary Gazette Gazette No: 0 Official Details Link"
+issuer: "Government of Goa"
+published: "2007-09-27"
+in_force: "2007-09-27"
+in_force_evidence: "published in the Gazette 2007-09-27; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0708-26.SI"
+language: "English text only"
+---
+
+ÇùnùjiD2PUth2âeptemÿerD2PHHU2@esvinù2SD2IWPWA SERIES I No. 26
+hepùrtment22of22iduÖùtionD2ert2282gulture
+ähe2following2drùft2rules2whiÖh2ùre2proposed2to
+preEpuÿlished2ùs2required2ÿy2suÿEseÖtion2 @IA2 of
+yrder
+iduÖùtion2 eÖtD2 IWVR2 @eÖt2 IS2 of2 IWVSAD2 for
+I@PAEREPHHUGâiGIHHT
+informùtion2 of2 the2 persons2 likely2 to2 ÿe2ùffeÖted
+thereÿy2ùnd2notiÖe2is2hereÿy2given2thùt2the2sùid
+epprovùl2of2the2qovernment2is2hereÿy2Öonveyed
+drùft2rules2will2ÿe2tùken2into2Öonsiderùtion2ÿy2the
+for2revivùl2of2the2following2qroup2e2qùzetted2posts qovernment2 on2 the2 expiry2 of2 fifteen2 dùys2 from
+in2the2pùy2sÖùle2of2ésF2IHDHHHEQPSEISDPHHGE2under the2dùte2of2puÿliÖùtion2of2this2xotifiÖùtion2in2the
+ell2oÿjeÖtions2ùnd2suggestions2to2the2sùid2drùft
+ârF2xoF22222222222hesignùtion2of2posts2222222222222222222222222xoF2of2posts
+rules2 mùy2 ÿe2 forwùrded2 to2 the2 hireÖtor2 of
+iduÖùtionD2hireÖtorùte2of2iduÖùtionD2qovernment
+IF hyF2hireÖtors2of2iduÖùtion Q
+of2qoùD2ÇùnùjiD2ÿefore2expiry2of2fifteen2dùys2from
+the2dùte2of2puÿliÖùtion2of2this2xotifiÖùtion2in2the
+PF essistùnt2hireÖtors2of2iduÖùtion V
+invironmentùl2iduÖùtion2yffiÖerG2222222222222222222of2hyF
+sn2exerÖise2of2the2powers2Öonferred2ÿy2âeÖtion
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222yffiÖersAF
+eÖtD2IWVR2@eÖt2IS2of2IWVSAD2the2qovernment2of2qoù
+hereÿy2mùkes2the2following2rules2so2ùs2to2further
+ähis2 issues2 with2 the2 ùpprovùl2 of2 the2 ronF
+éulesD2IWVTD2ùs2followsD2nùmelyX
+ghief2winister2vide2àF2yF2xoF2gwGTSPUGHU2dùted
+IF2âhort2title2ùnd2ÖommenÖementF2@IA2ähese QEWEPHHUF
+@emendmentA2éulesD2PHHUF
+fy2 order2 ùnd2 in2 the2 nùme2 of2 the2 qovernor
+PF2emendment2to2rule2UVF2sn2rule2UV2of2the2qoùD
+the2äefviD2ùfter2item2ùt2ârF2xoF2@IIAD2the2following
+item2shùll2ÿe2insertedD2nùmelyX
+
+
+IP äeùÖher2in ähis2issues2with2the2ÖonÖurrenÖe2of2the2pinùnÖe RH @iA2hiplomù2in2eutomoE xF2eF ésF
+hiesel ÿile2ingineering2from2ù SSHHE depùrtment2vide2their2àF2yF2xoF2psx2@é8gA2IHIRFp yeùrs
+reÖognized2snstitutionG weÖhùniÖ EWHHH dùted2QEREPHHUF
+2222222222222222222yr
+fy2 order2 ùnd2 in2 the2 nùme2 of2 the2 qovernor @iA@ùA xùtionùl2ärùde
+@ÖA epprentiÖeships
+in2ùn2industriùl ttt
+period2not2less
+thùn2four2yeùrs2in
+the2trùde
+vegùl22effùirs22hivision
+enÖe2in2the2trùde
+ÖonÖerned2for2not
+less2thùn2P2yeùrsF
+IHGPGPHHSEve2@ÇùrtA
+@iiA unowledge22of
+uonkùniF ähe2sndiùn2äelegrùph2@emendmentA2eÖtD2PHHT
+@gentrùl2 eÖt2 xoF2 SU2 of2 PHHTAD2 whiÖh2 hùs2 ÿeen FF
+fy2 order2 ùnd2 in2 the2 nùme2 of2 the2 qovernor
+the2Çresident2of2sndiù2on2PWEIPEPHHT2ùnd2puÿlished
+in2 the2 qùzette2 of2 sndiùD2 ixtrùordinùryD2 Çùrt2 ssD
+âeÖtion2ID2dùted22PWEIPEPHHTD2is2hereÿy2puÿlished
+hrF2gelsù2ÇintoD2hireÖtor2of22iduÖùtionF
+for2generùl2informùtion2of22the2puÿliÖF
+ÇorvorimD2IVth2tulyD2PHHUF
+hireÖtorùte2of2righer2iduÖùtion
+egäD22PHHT
+yrder
+ex
+ITGIPIGWTErrFihxGIURP
+âùnÖtion2of2the2qovernment2is2hereÿy2Öonveyed
+further2to2ùmend2the2sndiùn2äelegrùph22eÖtD2IVVSF
+for2 Öreùtion2 of2 the2 following2 qroup2 e2 post2 to
+qovernment2gollege2of2erts282gommerÖeD2ÇernemD fi2it2enùÖted2ÿy2Çùrliùment2in2the2piftyEseventh
+eÖtD2PHHTF
+IF veÖturer2in2gommerÖe P VHHHEPUSEIQSHH
+@PA2st2shùll2ÿe2deemed2to2hùve2Öome2into2forÖe
+on2the2QHth2dùy2of2yÖtoÿerD2PHHTF
+PF veÖturer2in2wùrùthi I VHHHEPUSEIQSHH
+PF2 emendment2 of2 seÖtion2 QF2 sn
+Q
+IVVS2 @hereinùfter2 referred2 to2 ùs2 the IQ2of2IVVSF
+ähe2expenditure2shùll2ÿe2deÿited2to2the2fudget prinÖipùl2 eÖtAD2 in2 Ölùuse2 @IeAD2 for2 the
+àniversity282righer2iduÖùtionD2IHQqovernment ÿùsiÖ2 telegrùph2 serviÖesD2 the2 words
+golleges2 82 snstitutesD2 HIqovernment2 gollege oÿligùtion2 to2 provide2 ùÖÖess2 to
+
+QF2éepeùl2ùnd2sùvingF2@IA2ähe2sndiùn QF2snsertion2of2new2seÖtion2PeF2efter2seÖtion2P
+äelegrùph2 @emendmentA2 yrdinùnÖeD of2the2prinÖipùl2eÖtD2the2following2seÖtion2shùll2ÿe
+yrdF2Q2of
+PHHT2is2hereÿy2repeùledF insertedD2nùmelyX PHHTF
+@PA2xotwithstùnding2the2repeùl2of2the
+sndiùn2 äelegrùph2 @emendmentA
+yrdF2Q2of @IA2 por2 the2 purposes2 of2 this2 eÖtD2 essentiùl
+yrdinùnÖeD2PHHTD2ùnything2done2or2ùny PHHTF
+Öommodity2meùns2ù2Öommodity2speÖified2in2the
+deemed2 to2 hùve2 ÿeen2 done2 or2 tùken
+@PA2âuÿjeÖt2to2the2provisions2of2suÿEseÖtion2@RAD
+the2gentrùl2qovernment2mùyD2if2it2is2sùtisfied2thùt
+this2eÖtF
+it2is2neÖessùry2so2to2do2in2the2puÿliÖ2interest2ùnd
+for2reùsons2to2ÿe2speÖified2in2the2notifiÖùtion
+puÿlished2 in2 the2 yffiÖiùl2 qùzetteD2 ùmend2 the
+IHGPGPHHSEve2@ÇùrtA
+ähe2issentiùl2gommodities2@emendmentA2eÖtD
+@ÿA2remove2ùny2Öommodity2from2the2sùid
+PHHT2@gentrùl2eÖt2xoF2SR2of2PHHTAD2whiÖh2hùs2ÿeen
+in2Öonsultùtion2with2the22âtùte2qovernmentsF
+the2Çresident2of2sndiù2on2PREIPEPHHT2ùnd2puÿlished
+in2 the2 qùzette2 of2 sndiùD2 ixtrùordinùryD2 Çùrt2 ssD
+@QA2eny2notifiÖùtion2issued2under2suÿEseÖtion
+âeÖtion2ID2dùted22PTEIPEPHHTD2is2hereÿy2puÿlished
+for2generùl2informùtion2of22the2puÿliÖF
+not2exÖeeding2six2months2to2ÿe2speÖified2in2the
+ÇorvorimD2IVth2tulyD2PHHUF notifiÖùtionX
+Çrovided2thùt2the2gentrùl2qovernment2mùyD
+in2 the2 puÿliÖ2 interest2 ùnd2 for2 reùsons2 to2 ÿe
+@ewixhwixäA222egäD22PHHT
+extend2suÖh2period2ÿeyond2the2sùid2six2monthsF
+ex
+@RA2ähe2gentrùl2qovernment2mùy2exerÖise2its
+egä powers2under2suÿEseÖtion2@PA2in2respeÖt2of2the
+further2 to2 ùmend2 the2 issentiùl2 gommodities
+mùke2lùws2ÿy2virtue2of2intry2QQ2in2vist2sss2in2the
+eÖtD2IWSSF
+âeventh2âÖhedule2to2the2gonstitutionF
+fi2it2enùÖted2ÿy2Çùrliùment2in2the2piftyEseventh
+@SA2 ivery2 notifiÖùtion2 issued2 under
+ùfter2 it2 is2 issuedD2 ÿefore2 ÿoth2 rouses2 of
+mùy2 ÿe2 Öùlled2 the2 issentiùl2 gommodities
+@emendmentA2eÖtD2PHHTF
+RF2 emendment2 of2 seÖtion2 QF2 sn2 seÖtion2 Q2 of
+the2words2or2Öotton2textiles2shùll2ÿe2omittedF
+gentrùl2qovernment2mùyD2ÿy2notifiÖùtion2in2the
+SF2emendment2of2seÖtion2IPeF2sn2seÖtion2IPe
+PF2 emendment2of2seÖtion2PF2sn2the
+issentiùl2 gommodities2 eÖtD2 IWSS IH2of2IWSSF @ùAD22suÿEÖlùuse2@iA22shùll2ÿe2omittedF
+@hereinùfter2referred2to2ùs2the2prinÖipùl
+TF2âùvings2of2the2orders2issued2under2seÖtion2QF eÖtAD2 in2 seÖtion2 PD2 Ölùuse2 @ùA2 shùll2 ÿe
+omittedF ell2notifiÖùtionsD2ordersD2direÖtions2issued2or2ùny
+
+ùppointment2 mùdeD2 liÖenÖe2 or2 permit2 grùnted fi2it2enùÖted2ÿy2Çùrliùment2in2the2piftyEseventh
+respeÖt2of2the2essentiùl2Öommodities2speÖified2in IF2 âhort2 title2 ùnd2 ÖommenÖementF2 @IA2 ähis
+the2âÖheduleD2shùll2Öontinue2to2remùin2in2forÖe2until
+xùmeA2eÖtD2PHHTF
+ùnd2unless2it2is2superseded2ÿy2ùny2notifiÖùtionD
+orderD2 ùppointment2 mùdeD2 liÖenÖe2 or2 permit
+grùnted2or2direÖtions2issued2ùnd2it2shùll2ÿe2deemed gentrùl2qovernment2mùyD2ÿy2notifiÖùtion2in2the
+to2 hùve2 ÿeen2 issued2 under2 the2 Öorresponding yffiÖiùl2qùzetteD2ùppointF
+provisions2of2this2eÖtF
+PF2 hefinitionsF2 sn2 this2 eÖtD2 unless2 Öontext
+äri22âgrihàvi otherwise2requiresD
+issentiùl22gommodities under2suÿEseÖtion2@PA2of2seÖtion2I2for2the2Öoming
+into2forÖe2of2this2eÖtY
+@IA drugsF
+ixplùnùtionF22por22the22purposes22of22this
+âÖheduleD2222drugs222hùs222the222meùning
+ùssigned2to2it2in2Ölùuse2@ÿA2of2seÖtion2Q2of
+vist2s2in2the2âeventh2âÖhedule2to2the2gonstitutionD
+the2hrugs2ùnd2gosmetiÖs2eÖtD2IWRHY PQ2of2IWRHF
+the2gentrùl2qovernmentD2ùnd2ùs2respeÖts2ùny2other
+lùwD2the2âtùte2qovernmentF @PA fertilizerD2whether2inorgùniÖD2orgùniÖ2or2mixedY
+@QA foodstuffsD2inÖluding2ediÿle2oilseeds2ùnd2oilsY
+@RA hùnk2yùrn2mùde2wholly2from2ÖottonY regulùtionD2 orderD2 ÿyeElùwD2 ruleD2 sÖhemeD
+notifiÖùtion2or2other2instrument2hùving2the2forÖe
+@SA petroleum2ùnd2petroleum2produÖtsY
+of2 lùw2 in2 the2 whole2 or2 ùny2 pùrt2 of2 the2 âtùte2 of
+@TA rùw2jute2ùnd2jute2textilesY
+@UA @iA222seeds22of22foodEÖrops22ùnd22seeds22of22fruits22ùnd
+2vegetùÿlesY QF2 elterùtion2 of2 nùme2 of2 the2 âtùte2 of
+@iiA 2seeds2of2Öùttle2fodderY2ùnd
+@iiiA22jute2seedsF
+RF2 emendment2 of2 pirst2 âÖhedule2 to2 the
+IHGPGPHHSEve2@ÇùrtA gonstitutionF2 sn2 the2 pirst2 âÖhedule2 to2 the
+gonstitutionD2under2the2heùding2sF2äri2âäeäiâD
+in2 entry2 PUD2 under2 the2 Öolumn2 xùmeD2 for2 the
+@gentrùl2 eÖt2 xoF2 SP2 of2 PHHTAD2 whiÖh2 hùs2 ÿeen
+ÿe2suÿstitutedF
+the2Çresident2of2sndiù2on2PIEIPEPHHT2ùnd2puÿlished
+in2 the2 qùzette2 of2 sndiùD2 ixtrùordinùryD2 Çùrt2 ssD
+SF2 emendment2 of2 pourth2 âÖhedule2 to2 the
+âeÖtion2ID2dùted22PIEIPEPHHTD2is2hereÿy2puÿlished
+gonstitutionF2 sn2 the2 pourth2 âÖhedule2 to2 the
+for2generùl2informùtion2of22the2puÿliÖF
+gonstitutionD2under2the2heùding2äefviD2in2entry
+IVD2 in2 the2 seÖond2 ÖolumnD2 for2 the2 word
+ÇorvorimD2IVth2tulyD2PHHUF suÿstitutedF
+TF2Çower2to2ùdùpt2lùwsF2@IA2por2the2purpose2of
+qovernment2mùyD2ÿefore2the2expirùtion2of2one2yeùr
+ex
+from2 the2 ùppointed2 dùyD2 ÿy2 orderD2 mùke2 suÖh
+
+or2ùmendmentD2ùs2mùy2ÿe2neÖessùry2or2expedientD fi2it2enùÖted2ÿy2Çùrliùment2in2the2piftyEseventh
+eÖtD2PHHTF
+@PA2xothing2in2suÿEseÖtion2@IA2shùll2ÿe2deemed
+to2 prevent2 ù2 Öompetent2 vegislùture2 or2 other
+PF2 emendment2of2seÖtion2RF2 sn2 the
+Öompetent2ùuthority2from2repeùling2or2ùmending
+IWSI2 @hereinùfter2 referred2 to2 ùs2 the PS2of2IWSIF
+qovernment2under2the2sùid2suÿEseÖtionF
+@IAD2 the2 following2 suÿEseÖtion2 shùll2 ÿe
+UF2Çower2to2Öonstrue2lùwsF2xotwithstùnding
+suÿstitutedD2nùmelyX
+thùt2no2provision2or2insuffiÖient2provision2hùs2ÿeen
+xùtionùl2 wemoriùl2 shùll2 ÿe2 the2 followingD
+or2 ùuthorityD2 required2 or2 empowered2 to2 enforÖe
+nùmelyX
+@ùA2the2Çrime2winister22ghùirpersonD
+neÖessùry2or2proper2in2regùrd2to2the2mùtter2ÿefore
+the2ÖourtD2triÿunùl2or2ùuthorityF
+gongressD
+VF2 vegùl2 proÖeedingsF2 çhere2 immediùtely
+@ÖA2the2winister2inEÖhùrge2of2gultureD
+ÿefore2the2ùppointed2dùy2ùny2legùl2proÖeedings
+@dA2 the2 veùder2 of2 ypposition2 in2 the2 vok
+those2proÖeedingsF
+@fA2the2ghief2winister2of2the2âtùte2of2ÇunjùÿD
+@gA2three2eminent2persons2to2ÿe2nominùted
+ÿy2the2gentrùl2qovernmentFF xotifiÖùtion
+IHGPGPHHSEve2@ÇùrtA
+QF2âuÿstitution2of2new2seÖtion2for2seÖtion2SF
+por2seÖtion2S2of2the2prinÖipùl2eÖtD2the2following
+@emendmentA2 eÖtD2 PHHT2 @gentrùl2 eÖt2 xoF2 SI2 of
+SF2 äerm2 of2 offiÖe2 of2 nominùted2 ärusteesF
+ùnd2 ùssented2 to2 ÿy2 the2 Çresident2 of2 sndiù2 on
+ähe2 ärustees2 nominùted2 under2 Ölùuse2 @gA2 of
+PIEIPEPHHT2ùnd2puÿlished2in2 the2qùzette2of2sndiùD
+suÿEseÖtion2@IA2of2seÖtion2R2shùll2ÿe2trustees2for
+ù2period2of2five2yeùrsD2ùnd2shùll2ÿe2eligiÿle2for
+is2hereÿy2puÿlished2for2generùl2informùtion2of22the
+renominùtionFF
+RF2snsertion2of2new2seÖtion2UeF2efter2seÖtion2U
+of2the2prinÖipùl2eÖtD2the2following2seÖtion2shùll2ÿe ÇorvorimD2IVth2tulyD2PHHUF
+egäD22PHHT
+ex Öonsidered2neÖessùryFF
+SF2snsertion2of2new2seÖtion2VeF2efter2seÖtion2V
+eÖtD2IWSIF insertedD2nùmelyX
+
+of2the2trust2shùll2ÿe2ùudited2ÿy2the2gomptroller ÿeD2ùfter2it2is2reÖeivedD2ÿefore2eùÖh2 rouse2 of
+inÖurred2in2ÖonneÖtion2with2suÖh2ùudit2shùll2ÿe TF2snsertion2of2new2seÖtion2IHeF2efter2seÖtion
+pùyùÿle2 ÿy2 the2 ärust2 to2 the2 gomptroller2 ùnd IH2of2the2prinÖipùl2eÖtD2the2following2seÖtion2shùll
+euditorEqenerùlF ÿe2insertedD2nùmelyX
+@PA2ähe2gomptroller2ùnd2euditorEqenerùl2ùnd IHeF2éules2ùnd2regulùtions2to2ÿe2lùid2ÿefore
+ùny2person2ùppointed2ÿy2him2in2ÖonneÖtion2with ÇùrliùmentF2 ivery2 rule2 or2 regulùtion2 mùde
+the2ùudit2of2the2ùÖÖounts2of2the2trust2under2this under2 this2 eÖt2 shùll2 ÿe2 lùidD2 ùs2 soon2 ùs2 mùy
+ùnd2the2ùuthority2in2ÖonneÖtion2with2suÖh2ùudit ÇùrliùmentD2while2it2is2in2sessionD2for2ù2totùl2period
+ùs2 the2 gomptroller2 ùnd2 ùuditorEqenerùl of2thirty2dùys2whiÖh2mùy2ÿe2Öomprised2in2one
+generùlly2hùs2in2ÖonneÖtion2with2the2ùudit2of session2or2in2two2or2more2suÖÖessive2sessionsD
+qovernment2ùÖÖounts2ùndD2in2pùrtiÖulùrD2shùll ùnd2 ifD2 ÿefore2 the2 expiry2 of2 the2 session
+hùve2 the2 right2 to2 demùnd2 the2 produÖtion2 of immediùtely2 following2 the2 session2 or2 the
+doÖuments2ùnd2pùpers2ùnd2to2inspeÖt2the2offiÖe ùgree2in2mùking2ùny2modifiÖùtion2in2the2rule2or
+of2the2ärustF regulùtion2or2ÿoth2rouses2ùgree2thùt2the2rule2or
+regulùtion2 should2 not2 ÿe2 mùdeD2 the2 rule2 or
+the2 gomptroller2 ùnd2 euditorEqenerùl2 or2 ùny suÖh2modified2form2or2ÿe2of2no2effeÖtD2 ùs2 the
+together2with2the2ùudit2report2thereon2shùll2ÿe modifiÖùtion2 or2 ùnnulment2 shùll2 ÿe2 without
+forwùrded2ùnnuùlly2to2the2gentrùl2qovernment prejudiÖe2to2the2vùlidity2of2ùnything2previously
+ÿy2the2ärust2ùnd2the2gentrùl2qovernment2shùll done2under2thùt2rule2or2regulùtionFF
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqye
