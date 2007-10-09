@@ -1,0 +1,79 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0708-27 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 1 Official Details Link"
+issuer: "Government of Goa"
+published: "2007-10-09"
+in_force: "2007-10-09"
+in_force_evidence: "published in the Gazette 2007-10-09; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0708-27.SI"
+language: "English text only"
+---
+
+ÇùnùjiD2Wth2yÖtoÿerD2PHHU2@esvinù2IUD2IWPWA SERIES I No. 27
+QF2 2 wethod2 of2 reÖruitmentD2 ùge2 limit2 ùnd qyåiéxwixä22yp22qye
+other2quùlifiÖùtionsF2ähe2method2of2reÖruitment
+hepùrtment22of22Çersonnel to2the2sùid2postD2ùge2limitD2quùlifiÖùtions2ùnd
+ùs2speÖified2in2Öolumns2@SA2to2@IQA2of2the2sùid
+RF2hisquùlifiÖùtionF2xo2person2who2hùs2entered
+hùving2ù2spouse2living2or2whoD2hùving2ù2spouse
+sn2exerÖise2of2the2powers2Öonferred2ÿy2the
+proviso2to2ertiÖle2QHW2of2the2gonstitution2of
+with2ùny2personD2shùll2ÿe2eligiÿle2for2ùppointment
+sndiùD2 ùnd2 in2 supersession2 of2 the2 existing
+to2the2serviÖeX
+éeÖruitment2 éules2 for2 the2 relevùnt2 postD
+the2qovernor2of2qoù2hereÿy2mùkes2the2following
+Çrovided2thùt2the2qovernment2mùyD2if2sùtisfied
+rules2to2regulùte2the2reÖruitment2to2the2qroup2hD
+thùt2suÖh2mùrriùge2is2permissiÿle2under2the
+xonEwinisteriùlD22xonEqùzetted2postD2in2the2yffiÖe
+of2the2snspeÖtor2qenerùl2of2ÇrisonsD2qovernment2of
+other2grounds2for2so2doingD2exempt2ùny2person
+from2the2operùtion2of2this2ruleF
+@IA2ähese2rules2mùy2ÿe2Öùlled22the2qovernment
+SF2Çower2to2relùxF2çhereD2the2qovernment2is
+of22qoùD2yffiÖe2of2the2snspeÖtor2qenerùl2of2ÇrisonsD
+of2the2opinion2thùt2it2is2neÖessùry2or2expedient
+qroup2h2xonEwinisteriùl2xonEqùzetted2postD so2to2doD2it2mùyD22ÿy2orderD2for2reùsons2to2ÿe
+éeÖruitment2éulesD2PHHUF reÖorded2in2writingD22relùx2ùny2of2the2provisions2of
+these2 rules2 with2 respeÖt2 to2 ùny2 Ölùss
+@PA2ähey2shùll2ùpply2to2the2post2speÖified or22Öùtegory22of22personsF
+in2Öolumn2@IA2of2the2âÖhedule2to2these2rules
+@hereinùfter2Öùlled2ùs2the2sùid2âÖheduleAF TF2 âùvingF2 xothing2 in2 these2 rules2 shùll
+@QA2ähey2shùll2Öome2into2forÖe22from2the2dùte2of other2ÖonÖessions2required2to2ÿe2provided2for
+of2persons2in2ùÖÖordùnÖe2with22the2orders2issued
+shùll2ÿe2ùs2speÖified2in2Öolumns2@PA2to2@RA2of2the fy2order2ùnd2in2the2nùme2of2the2qovernor
+the2numÿer2of2posts2in2Öolumn2@PA2of2the2sùid @ÇersonnelAF
+âÖhedule2from2time2to2time2suÿjeÖt2to2exigenÖies
+of22workF ÇorvorimD22Sth22yÖtoÿerD22PHHUF
+
+Öruitment
+222222222222222222IQ
+qroup2hD hFâFgFGhFÇFgF sf2ù2hF2âF2gFG GhF2ÇF2g existsD whùt2is2its Öomposition
+22222222222222222222222IP
+sn2Öùse2of22reÖruitment ÿy2 promotionG GdeputùtionGtrùnsferD grùdes2from2whiÖh promotionG GdeputùtionGtrùnsfer2is to2ÿe2mùde xF2eF
+22222222222222222II
+wethod2 of reÖruitment whether2ÿy2direÖt reÖruitment or2 ÿy2 promotion or2ÿy2deputùtionG GtrùnsferGÖontrùÖt ùnd2perÖentùge of2the2vùÖùnÖies to2ÿe22filled22ÿy vùrious22methods 2fy2direÖt reÖruitmentF
+222222222222222IH
+22222222W
+Öùse2 of2 promotees
+xF2eF
+direÖt2reÖruits2will2ùpply2in2the
+2222222222222222222222V
+for2direÖt2reÖruits @IA2âeÖondùry2âÖhool gertifiÖùte2 ixùmiE nùtion2or2equivùlent @PA2 ÇhysiÖùl2 stùnE @iA2reightX2winimum @iiA2ghestX2ànexpùnE dedEVH2 ÖmsF2 ùnd @IA22xFgFgGâÖout2gerE @PA2 unowledge2 of
+expùnded2VS2ÖmsF @QA2unowledge2of
+issentiùlX hesirùÿleX
+xF2eF çhether2 the ùdded2 yeùrs of2 serviÖe2 is ùdmissiÿle under2 éule QH2 of2 ggâ @ Ç e n s i o n A éulesD2IWUP
+of
+ÿenefit2
+ege limit2 for direÖt reÖruits xot exÖeeding QH2yeùrs @éelùxùÿle for2qovernE Ement servùnts upto2S yeùrs22in ùÖÖorE EdùnÖe with2the 2instruÖE Etions or 2orders 2issued2ÿy the qovernE EmentAF
+T
+çhether seleÖtion post22or nonE seleÖE tion post
+R ésF PTSHE ETSE EQQHHE UHE ERHHHF
+xumÿer of2 posts
+P IRV @PHHUA 2@âuÿE EjeÖt2to vùriùE Etion depenE Edent2on workE EloùdAF
+xùmeG GhesignùE tion22of post tùil quùrd @wùleAF
+222I
