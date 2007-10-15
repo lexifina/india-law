@@ -1,0 +1,83 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0708-28 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 2 Official Details Link"
+issuer: "Government of Goa"
+published: "2007-10-15"
+in_force: "2007-10-15"
+in_force_evidence: "published in the Gazette 2007-10-15; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0708-28.SI"
+language: "English text only"
+---
+
+ÇùnùjiD2ISth2yÖtoÿerD2PHHU2@esvinù2PQD2IWPWA SERIES I No. 28
+xoF2P
+ùs2speÖified2in2Öolumns2@SA2to2@IQA2of2the2sùid
+hepùrtment22of22Çersonnel âÖheduleF
+RF2hisquùlifiÖùtionF2xo2person2who2hùs2entered
+hùving2ù2spouse2living2or2whoD2hùving2ù2spouse
+with2ùny2personD2shùll2ÿe2eligiÿle2for2ùppointment
+sn2exerÖise2of2the2powers2Öonferred2ÿy2the to2the2serviÖeX
+proviso2to2ertiÖle2QHW2of2the2gonstitution2of
+Çrovided2thùt2the2qovernment2mùyD2if2sùtisfied
+sndiùD2the2qovernor2of2qoù2hereÿy2mùkes2the
+thùt2suÖh2mùrriùge2is2permissiÿle2under2the
+following2rules2to2regulùte2the2reÖruitment2to
+the2qoù2qenerùl2âerviÖeD2qroup2eD2qùzetted2postD
+in2the2ÇuÿliÖ2çorks2hepùrtmentD2qovernment
+other2grounds2for2so2doingD2exempt2ùny2person
+from2the2operùtion2of2this2ruleF
+SF2Çower2to2relùxF2çhereD2the2qovernment2is
+@IA2ähese2rules2mùy2ÿe2Öùlled22the2qovernment of2the2opinion2thùt2it2is2neÖessùry2or2expedient
+of22qoùD2ÇuÿliÖ2çorks2hepùrtmentD2qroup2e so2to2doD2it2mùyD22ÿy2orderD2for2reùsons2to2ÿe
+qùzetted2postD2éeÖruitment2éulesD2PHHUF reÖorded2in2writingD22ùnd2in2Öonsultùtion2with
+@PA2ähey2shùll2ùpply2to2the2post2speÖified the2provisions2of2these2rules2with2respeÖt2to2ùny
+in2Öolumn2@IA2of2the2âÖhedule2to2these2rules Ölùss2or22Öùtegory22of22personsF
+TF2 âùvingF2 xothing2 in2 these2 rules2 shùll
+their2puÿliÖùtion2in2the2yffiÖiùl2qùzetteF other2ÖonÖessions2required2to2ÿe2provided2for
+ähe2numÿer2of2postsD2ÖlùssifiÖùtion2of2the2sùid ÿy2the2qovernment2from2time2to2time2in2thùt
+shùll2ÿe2ùs2speÖified2in2Öolumns2@PA2to2@RA2of2the
+ähese2rules2ùre2issued2in2Öonsultùtion2with2the
+its2letter2xoF2gywGsGIQGQT@IAGPHHUGIPSQ2dùted
+Çrovided2 thùt2 the2 qovernment2 mùy2 vùry
+PWEVEPHHUF
+the2numÿer2of2posts2in2Öolumn2@PA2of2the2sùid
+âÖhedule2from2time2to2time2suÿjeÖt2to2exigenÖies
+fy2order2ùnd2in2the2nùme2of2the2qovernor
+of22workF
+QF2 2 wethod2 of2 reÖruitmentD2 ùge2 limit2 ùnd
+@ÇersonnelAF other2quùlifiÖùtionsF2ähe2method2of2reÖruitment
+to2the2sùid2postD2ùge2limitD2quùlifiÖùtions2ùnd ÇorvorimD22Rth22yÖtoÿerD22PHHUF
+
+girÖumstùnÖes in2 whiÖh2 qoù ÇuÿliÖ2 âerviÖe gommission2 is to2ÿe2Öonsulted in2 mùking2 reE gonsultùtion with2the2qoù ÇuÿliÖ2âerviÖe gommission is2 neÖessùry while2mùking promotionD Öonfirmùtion ùmendingG Grelùxing2ùny of2 the2 proviE sions2of2these
+for
+Öruitment
+222222222222222222IQ
+ùnd2 rulesF
+sf2ù22hF2ÇF2g existsD whùt2is2its Öomposition qroup2e hepùrtmentùl Çromotion gommittee Öonsisting2ofX @IA2ghùirmùnG GwemÿerD2the qoù2ÇuÿliÖ âerviÖe gommission 2222ghùirmùnF @PA2ghief2âeÖreE tùry2or2his nominee 22222wemÿerF @QA2edministrùE tive2âeÖretùryG Greùd2of hepùrtment 22222wemÿerF @for2promotion ùnd ÖonfirmùtionAF
+22222222222222222222222IP
+sn2Öùse2of22reÖruitment ÿy2 promotionG GdeputùtionGtrùnsferD grùdes2from2whiÖh promotionG GdeputùtionGtrùnsfer2is to2ÿe2mùde ÇromotionX2ÇromoE tion2 of2 suitùÿle person2on2the2ÿùsis of2 merit2 with2 due regùrd2to2seniority from2 ùmong2 the persons2possessing ù2 degree2 in2 givil ingineering2 ùnd holding2the2posts2of ghief2ingineer2on regulùr2ÿùsisD2under the2 ÇuÿliÖ2 çorks
+hepùrtmentF
+22222222222222222II
+wethod2 of reÖruitment whether2ÿy2direÖt reÖruitment or2 ÿy2 promotion or2ÿy2deputùtionG GtrùnsferGÖontrùÖt ùnd2perÖentùge of2the2vùÖùnÖies to2ÿe22filled22ÿy vùrious22methods 2fy2promotionF
+222222222222222IH
+22222222W
+Öùse2 of2 promotees
+xF2eF
+direÖt2reÖruits2will2ùpply2in2the
+2222222222222222222222V
+for2direÖt2reÖruits xF2eF
+xF2eF çhether2 the ùdded2 yeùrs of2 serviÖe2 is ùdmissiÿle under2 éule QH2 of2 ggâ @ Ç e n s i o n A éulesD2IWUP
+of
+ÿenefit2
+ege limit2 for direÖt reÖruits xF2eF
+22T
+çhether seleÖtion post22or nonE seleÖE tion post
+ésF IVDRHHE ESHHE EPPDRHH C speÖiùl pùy2of ésF PHHHGE per monthF R
+2qoù qenerùl âerviÖeD qroup e qùzeE ttedF Q
+xumÿer of2 posts
+P I @PHHUA 2@âuÿE EjeÖt2to vùriùE Etion depenE Edent2on workE EloùdAF
+xùmeG GhesignùE tion22of post ÇrinÖiE pùl ghief ingiE neer @ÇçhAF
+222I
