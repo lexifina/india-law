@@ -1,0 +1,88 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0708-38 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 2 Official Details Link"
+issuer: "Government of Goa"
+published: "2007-12-24"
+in_force: "2007-12-24"
+in_force_evidence: "published in the Gazette 2007-12-24; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0708-38.SII"
+language: "English text only"
+---
+
+Reg. No. GR/RNP/GOA/32 RNI No. GOAENG/2002/6410
+Panaji, 20th December, 2007 (Agrahayana 29, 1929)
+SERIES II No. 38
+RF2ähe2qovernment2further2ùppointsD2under2Ölùuse2@ÖA qyåiéxwixä2 yp2 qye
+of2 âeÖtion2 Q2 of2 the2 sùid2 eÖt2 the2 hyF2 golleÖtorGâhyD
+hepùrtment2of2éevenue fiÖholimEqoù2 to2 perform2 the2 funÖtions2 of2 ù2 golleÖtorD
+respeÖt2of2the2sùid2lùndF
+Notification
+SF2ähe2qovernment2ùlso2ùuthorizes2under2suÿEseÖtion
+xoF2PPGQHGPHHUEéh @PA2of2âeÖtion2R2of2the2sùid2eÖtD2the2following2yffiÖers2to
+do2the2ùÖtsD2speÖified2therein2in2respeÖt2of2the2sùid2lùndF
+çhereùs2 it2 ùppeùrs2 to2 the2 qovernment2 of2 qoù
+IA ähe2golleÖtorD2xorth2qoù2histriÖtD2ÇùnùjiEqoùF @hereinùfter2referred2to2ùs2the2qovernmentA2thùt2the
+lùnd2 speÖified2 in2 the2 âÖhedule2 hereto2 @hereinùfter
+PA ähe2hyF2golleÖtorGâhyD2fiÖholimEqoùF
+referred2 to2 ùs2 the2 sùid2 lùndA2 is2 needed2 for2 puÿliÖ
+purposeD2vizF2vùnd2eÖquisition2for2dumping2of2gùrÿùge
+end2whereùsD2in2the2opinion2of2the2qovernment2the
+provisions2of2suÿEseÖtion2@IA2of2âeÖtion2IU2of2the2vùnd
+eÖquisition2eÖtD2IVWR2@gentrùl2eÖt2I2of2IVWRA2@hereinùfter TF2 e2 rough2 plùn2 of2 the2 sùid2 lùnd2 is2 ùvùilùÿle2 for
+referred2to2ùs2the2sùid2eÖtA2ùre2ùppliÖùÿleF inspeÖtion2 in2 the2 yffiÖe2 of2 the2 hyF2 golleÖtorGâhyD
+fiÖholimEqoù2for2ù2period2of2QH2dùys2from2the2dùte2of
+xow2thereforeD2the2qovernment2hereÿy2notifies2under
+lùnd2is2needed2for2the2purpose2speÖified2ùÿoveF âgrihàvi
+ähe2 qovernment2 further2 direÖts2 under2 suÿEseÖtion @hesÖription2of2the2sùid2lùndA
+2âurvey2xoFG xùmes2of2the epproximùte the2sùid2lùndF
+PF2ell2persons2interested2in2the2sùid2lùnd2ùre2hereÿy to2ÿe2interested sqF2mtsF
+wùrned2not2to2oÿstruÖt2or2interfere2with2ùny2surveyor
+I P Q
+or2other2persons2employed2upon2the2sùid2lùnd2for2the
+ÖommenÖed2or2improvements2mùde2thereon2without2the âhri2xùrùshivù2uF2ÇokleF
+ÿelowD2 ùfter2 the2 dùte2 of2 the2 puÿliÖùtion2 of2 this
+foundùries2X
+notifiÖùtionD2will2under2Ölùuse2@seventhA2of2seÖtion2PR2of
+the2 sùid2 eÖt2 ÿe2 disregùrded2 ÿy2 him2 while2 ùssessing xorth X âF2xoF2RSD2VUF
+QF2sf2the2qovernment2is2sùtisfied2thùt2the2sùid2lùnd2is çest X âF2xoF2RRD2RPGIF
+needed2for2the2ùforesùid2purposeD2ù2deÖlùrùtion2to2thùt
+in2the2yffiÖiùl2qùzette2ùnd2in2two2dùily2newspùpers2ùnd fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+puÿliÖ2 notiÖe2 thereof2 shùll2 ÿe2 given2 in2 due2 ÖourseF2 sf
+the2 ùÖquisition2 is2 ùÿùndoned2 wholly2 or2 in2 pùrtD2 the
+fùÖt2will2ùlso2ÿe2notified2in2the2sùme2mùnnerF ÇorvorimD2IVth2heÖemÿerD2PHHUF
+
+hepùrtment2of2äown282gountry2Çlùnning I P Q
+B2IQF wsF2Çonùm vhgD2Çersonnel
+Order
+GPHHUGQQSQ2dtdF2REIHEHUF
+uerkùr heptF
+GHUGQQWI2dtdF2VEIHEHUF persons ITF âhri2Çrùsùnnù hriverD2ägÇ
+qovernment2is2pleùsed2to2ùppoint2âhri2âùnjit2éodriguesD BB IWF ingineer ÇFçFhF
+wùnùging2hireÖtorD2qoù2äourism2hevelopment2gorporùtion
+hold2 his2 offiÖe2 in2 the2 ùÖÖommodùtion2 ùllotted2 for2 the
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+wùrgùoD2exÖluding2the2duties2of2Çsy2for2whiÖh2purpose
+Order
+neÖessùry2orders2will2ÿe2issued2ùppointing2âhri2âF2wF
+sn2supersession2to2ùll2eùrlier2yrdersD2following2offiÖersG
+GoffiÖiùls2 will2 work2 exÖlusively2 for2 the2 xodùl2 yffiÖer
+ârF xùme2of2the hesignùtion to2snformùtion2eÖt2for2the2äùsk2porÖe2for2whiÖh2purpose
+I P Q informed2in2generùlF
+PF âhri2åinod hyF2äown2ÇlùnnerD works2whiÖh2he2wùs2looking2ùfter2to2âhri2iF2éF2qodinhoD
+possessing
+rùlornekùr heptF
+SF âhri2svo Çlùnning2essistùntD roweverD2they2will2drùw2their2sùlùries2from2the2offiÖe2of
+purtùdo ägÇ2heptF their2regulùr2postingF
+âhirodkùr heptF
+persons wuster2éoll2for2the2offiÖiùls2required2to2sign2the2wuster
+éollF2xoF2leùve2of2the2stùff2will2ÿe2sùnÖtioned2without
+the2reÖommendùtion2of2the2xodùl2yffiÖer2ùnd2leùve2of
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+B IIF wsF2âushmù tunior2âtenoD persons âeÖretùryF
+éF2xùik Çersonnel2heptF
+IPF âhri2 edil vhgD2ägÇ 2B2222âtùff2not2yet2reportedF
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqyeF
