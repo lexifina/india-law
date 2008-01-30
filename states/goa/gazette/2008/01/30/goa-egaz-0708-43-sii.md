@@ -1,0 +1,47 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0708-43 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 4 Official Details Link"
+issuer: "Government of Goa"
+published: "2008-01-30"
+in_force: "2008-01-30"
+in_force_evidence: "published in the Gazette 2008-01-30; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0708-43.SII"
+language: "English text only"
+---
+
+Reg. No. GR/RNP/GOA/32 RNI No. GOAENG/2002/6410
+Panaji, 24th January, 2008 (Magha 4, 1929)
+SERIES II No. 43
+hepùrtment2of2iduÖùtionD2ert282gulture
+hireÖtorùte2of2righer2iduÖùtion
+Order
+xoF2QTIIGPHHTGriGPPQ
+éeùdX22IA qovernment2of2sndiùs2hF2yF2letter2xoF2VEUGPHHTExâEss2dùted2IIEHUEPHHUF
+PA qovernment2of2sndiùs2letter2xoF2IVERGPHHRExâEss2dùted2IREHWEPHHSF
+çhereùsD2vide2yrder2xoF2QTIIGPHHTGriGIVQR2dùted2PVEHWEPHHT2issued2ÿy2the2qovernment2of2qoùD2the2following
+ùuthorities2were2deÖlùred2ùs2the2gompetent2euthorities2to2ùuthentiÖùte2the2eduÖùtionùl2ÖertifiÖùtes2of2the2Öourses
+of2 study2 of2 the2 iduÖùtionùl2 snstitutions2 Öoming2 within2 their2 purview2 in2 respeÖt2 of2 the2 studentsG
+Gùspirùnts2who2ùre2going2ùÿroùd2for2employment2or2higher2studiesX
+end2whereùsD2it2wùs2ÿrought2to2the2notiÖe2of2the2qovernment2thùt2Öoverùge2of2snstitutions2providing2for2studies
+xow2 thereforeD2 ùfter2 due2 Öonsiderùtion2 the2 qovernment2 is2 pleùsed2 to2 deÖide2 thùt2 the2 hireÖtor2 of2 äeÖhniÖùl
+iduÖùtionD2ÇorvorimD2qoù2in2ùdditionùl2to2the2teÖhniÖùl2institutions2providing2for2studies2in2ingineeringD2erÖhiteÖtureD
+of2students2in2respeÖt2of2institutions2providing2for2studies2in2wediÖine2ùnd2ùllied2disÖiplinesD2ùnd2more2speÖifiÖùlly
+the2eduÖùtionùl2ÖertifiÖùtes2of2students2pùssing2out2of2the2following2institutionsX
+QA2snstitute2of2xursing2iduÖùtionD2eltinhoD2ÇùnùjiEqoùY
+ähe2ùÿove2stùted2institutions2ùre2direÖted2to2provide2ùll2neÖessùry2informùtion2ùs2expeditiously2ùs2possiÿleD2ùs
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+
+hetùils2of2originùl2ÖertifiÖùte2of2hiplomùGhegree2sought2to2ÿe2ùuthentiÖùtedF
+xoF GÇrogrùmme pùssing snstitution GéegF2xoF
+IF
+PF
+QF
+RF
+SF
+ähe2undersigned2hùs2verified2the2originùl2reÖords2suÿmitted2ÿy2the2ùppliÖùnt2ùnd2found2ÖorreÖtF
+xùme2of2snstitutionX
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqyeF
