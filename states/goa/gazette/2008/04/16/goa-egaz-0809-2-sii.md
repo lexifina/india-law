@@ -1,0 +1,93 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0809-2 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 3 Official Details Link"
+issuer: "Government of Goa"
+published: "2008-04-16"
+in_force: "2008-04-16"
+in_force_evidence: "published in the Gazette 2008-04-16; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0809-2.SII"
+language: "English text only"
+---
+
+Reg. No. GR/RNP/GOA/32 RNI No. GOAENG/2002/6410
+Panaji, 11th April, 2008 (Chaitra 22, 1930)
+SERIES II No. 2
+Notification qyåiéxwixä2 yp2 qye
+xoF2PGIGWSEpin@é8gA2@fA
+sn2exerÖise2of2the2powers2Öonferred2ÿy2âeÖtions2S2ùnd
+éevenue282gontrol2hivision V2 of2 the2 qoù2 ixÖise2 huty2 eÖtD2 IWTR2 @eÖt2 S2 of2 IWTRA
+qoù2hereÿy2presÖriÿes2thùtD2notwithstùnding2ùnything
+Notification
+Öontùined2in2the2qovernment2xotifiÖùtions2xoF2pin@éevAG
+GPEQSGâiGTGTV@eA2 dùted2 PWEPEIWUP2 ùnd2 xoF2 pin@éevAGPE xoF2PGIGWSEpin@é8gA2@eA
+EQSGâiGTGTSG@fA2 dùted2 PWEPEIWUPD2 the2 following2 shùll
+sn2exerÖise2of2the2powers2Öonferred2ÿy2suÿErule2@RA2of ÿe2the2mùximum2quùntity2of2liquor2whiÖh2Öùn2ÿe2trùnsE
+éule2WW2of2the2qoùD2hùmùn2ùnd2hiu2ixÖise2huty2éulesD ported22from2one2plùÖe2to2ùnother2within2the2jurisdiÖtion
+liÖensed2premises2for2the2sùle2of2liquor2loÖùted2within loÖùted2in2the2äùlukùs2ùs2speÖified2in2the2Öorresponding
+Öolumn2@QA2of2the2sÖhedule2heretoD2loÖùted2in2the2äùlukù ÿe2possessed2ÿy2ùny2person2within2the2sùid2ùreùD2without
+ùs2speÖified2in2the2Öorresponding2entries2in2Öolumn2@PA permit2issued2in2ùÖÖordùnÖe2with2the2provisions2of2the
+of2the2sùid2âÖheduleD2shùll2ÿe2Ölosed2from2IWEREPHHVD2to sùid2eÖt2ùnd2the2éules2mùde2thereunderD2from2IWEREPHHV
+PIEREPHHVD2@ÿoth2dùys2inÖlusiveAD2in2view2of2holding2of to2PIEREPHHV2@ÿoth2dùys2inÖlusiveAF
+other2thùn2ÿeer2ùnd2six2ÿottles2of2ÿeer2for2ùny Öorresponding2entries2in2Öolumn2@RA2of2the2sùid2âÖheduleF
+person2inÖluding2his2fùmilyF
+@ÿA ähree2 quùrt2 ÿottles2 of2 Öountry2 liquor2 for2 ùny
+ähis2 xotifiÖùtion2 shùll2 remùin2 in2 forÖe2 only2 from
+I P Q R
+IWEREPHHV2to2PIEREPHHV2in2view2of2ÿyeEeleÖtions2to2çùrds
+entries2in2Öolumn2@RA2of2the2sùid2âÖheduleF
+äivim sss
+ghùndorEgùvorim ss
+IA fùrdez golvùle åsss fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+äivim sss
+ÇorvorimD2IIth2eprilD2PHHVF ghùndorEgùvorim ss
+
+I P Q R
+@hesÖription2of2the2sùid2lùndA
+2âurvey2xoFG xùmes2of2the epproximùte
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+I P Q
+ÇorvorimD2IIth2eprilD2PHHVF
+uuu
+hessùiF
+Notification
+çhereùs22ÿy2qovernment2xotifiÖùtion2xoF2PQGIQGPHHUE
+Eéh2dùted2PREHREPHHU2puÿlished2on2pùges2IIS282IIT2of
+âeries2ss2xoF2Q2of2the2yffiÖiùl2qùzetteD2dùted2PSEHREPHHU
+ùnd2 in2 two2 newspùpers2 @IA2 xùvhind2 äimes2 dùted
+qovtF2of2qoù2äillùri2srrigùtion
+PVEHREPHHU2ùnd2@PA2qomùntùk2dùted2PVEHREPHHU2it2wùs
+hevelopment2gorporùtionF
+notified2 under2 âeÖtion2 R2 of2 the2 vùnd2 eÖquisition2 eÖtD
+IVWR2@gentrùl2eÖt2I2of2IVWRA2@hereinùfter2referred2to2ùs
+ùppended2to2the2sùid2xotifiÖùtion2@hereinùfter2referred
+éFfFwFgF2 of2 äFsFÇF2 from2 ÖhF2 PPFTRH2 kmF2 to2 PPFUUH2 kmF2 in hessùiF
+end2 whereùsD2 the2 qovernment2 of2 qoù2 @hereinùfter
+referred2to2ùs2the2qovernmentAD2ÿeing2of2the2opinion
+thùt2 the2 ùÖquisition2 of2 the2 sùid2 lùnd2 is2 urgently
+neÖessùryD2 hereÿy2 ùpplies2 the2 provisions2 of2 the2 suÿE
+the2golleÖtor2ùppointed2under2pùrùgrùph2P2ÿelowD2shùll
+ùt2ùny2timeD2on2the2expiry2of2fifteen2dùys2from2the2dùte
+of2the2puÿliÖùtion2of2the2notiÖe2relùting2to2the2sùid2lùnd
+xowD2 thereforeD2 the2 qovernment2 hereÿy2 deÖlùresD
+qovtF2of2qoù2äillùri2srrigùtion
+under2the2provisions2of2âeÖtion2T2of2the2sùid2eÖt2thùt
+hevelopment2gorporùtionF
+the2sùid2lùnd2is2required2for2the2puÿliÖ2purpose2speÖified
+foundùries2X
+PF2ähe2qovernment2ùlso2hereÿy2ùppointsD2under2Ölùuse
+xorthX âF2xoF2PSUGIID2IPD2IQF
+eÖquisition2 yffiÖerD2 @xorthAD2 qoù2 äillùri2 srrigùtion
+hevelopment2 gorporùtionD2 uùrùswùdùD2 golvùle2 éoùdD âouthX âF2xoF2PSVGPD2PSUGIQF
+fùrdezEqoù2to2perform2the2funÖtions2of2the2golleÖtor2for
+iùst X âF2xoF2PSVGPF
+ùll2proÖeedings2hereinùfter2to2ÿe2tùken2in2respeÖt2of2the
+sùid2lùndD2ùnd2direÖts2him2under2âeÖtion2U2of2the2sùid çest X âF2xoF2PSUGIQF
+eÖt2to2tùke2order2for2the2ùÖquisition2of2the2sùid2lùndF
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF offiÖe2 of2 the2 âpeÖiùl2 vùnd2 eÖquisition2 yffiÖerD2 @xorthA
+qoù2 äillùri2 srrigùtion2 hevelopment2 gorporùtionD
+mùde2under2âeÖtion2IIF ÇorvorimD2Wth2eprilD2PHHVF
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqyeF
