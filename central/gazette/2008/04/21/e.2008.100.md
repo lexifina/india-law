@@ -1,0 +1,61 @@
+---
+title: "Amendment in the notification of the Min. of Finance (Deptt. of Revenue) No. 147/2003-Customs dt. 07/10/2003."
+ministry: "Ministry of Finance"
+notification_no: "G.S.R.296(E)"
+published: "2008-04-21"
+mirror: "https://archive.org/details/in.gazette.e.2008.100"
+---
+
+# Amendment in the notification of the Min. of Finance (Deptt. of Revenue) No. 147/2003-Customs dt. 07/10/2003.
+
+MINISTRY OF FINANCE (Department or Revenue) NOTIFICATION New Delhi, the 21st April, 2008 No. 50/2008-Customs G.S.R.296(E).-Whereas , the designated authority vide notification No. 15/2/2008DGAD, dated the 3151 March, 2008 , published in Part I , Section 1 of the Gazette of India, of section 9A of the Customs Tariff Act, 1975 (51 of 1975) and in pursuance of rule 23 of the Customs Tariff ( Identification , Assessment and Collection of Anti-dumping Duty on Dumped Articles and for Determination of Injury) Rules, 1995 (hereinafter referred to as the said rules), in the matter of continuation of anti-dumping duty on steel and fibre glass tapes and their parts and components (hereinafter referred to as the subject goods ), falling under tariff items 9017 80 10 and 9017 90 00 of the First Schedule to the Customs Tariff Act, 1975 (51 of 1975), originating in, or exported from, the People ' s Republic of China (hereinafter referred to as the subject country), imposed vide notification of the Government of India in the Ministry of Finance (Department of Revenue), No. 147/2003-Customs, dated the 7`h October , 2003 , published in the Gazette of India vide number G.S.R. 793(E), dated the 7th October, 2003, and has requested for extension of anti-dumping duty for a period of six months from the date of its expiry , in terms of subsection (5) of section 9A of the said Act, pending the completion of the review;
+
+Now, therefore , in exercise of the powers conferred by sub-sections ( 1) and (5) of section 9A of the said Act and in pursuance of rule 23 of the said rules , the Central Government hereby makes the following amendment in the notification of the Government of India, in the Ministry of Finance (Department of Revenue), No. 147/2003-Customs, dated the 7`h October, 2003, published in the Gazette of India vide number G.S.R. 793(E), dated the 7`t' October , 2003 , namely: - In the said notification, after paragraph 2, the following paragraph shall be inserted, namely:-
+
+"3. This notification shall remain in force till the 3rd day of October, 2008 , unless revoked earlier".
+
+[F. No. 354/ 15/2003-TRUI S. BAJAJ. Under Secy. 113MII- 3(i)] s1R V;M: wpm Ar^ 91 fk1,213T c,2008 Z , t. 51/2008-4m am w. tik 297(aT)•-" ^, q, 1962 (1962 f 52) qM 25 t 3VF1 r
+
+(1) ^rz u t T%Zt r uFzm W\t 71 7K z a ^1 Tlf^ 7z f2r - cqY WTTT 3l g7ga f^ zii uU * f f :^! dTc c cTi , f TFci ZTTZt *i M (2) 4 ftff^ Toefi 3T 'AZT - i 1TTri 1 F} 7F f cil if YITi i ^f 3T2If :(^) off 1 rr T per it so 7+r 3t ur^rlr^ f z11^ &t I (() amt a g xl w -CVr urn1 ,1r^ ^rau ^ru a^ ffft^ ^3 ft I vzy 3Ttirrl f tlT^ C, WUW 31Tc 4T uq zf1 Wrr9u, r ^? wz err F45 49 are 1 T 3i -,WT arf4 Tar a ur (tea f^ Tr r) ^R 3rt T9T to 75/2006 ^rzr u "a?zrc * ftw" (oTo), M^M 30, 2006 3Trr^ ^f3rdr mf [f3ar (^Trv zr) a^^rr^sr VrTuff sTm To 13p r , sfl -#o ur X33 moo, 6101 90 6102 10 00 610329 6103 31 00 9 1 6103 32 00 10 1 6103 33 00 11 j 6103 39 6103 41 00 6103 42 00 6103 43 00 6104 19 18 6104 22 00 19 6104 23 00
+
+PART 11-SEC. 3W1 4 T11 '.GAZETTE OF I -ThIA : EXTRAORDINARY im•ff mq-T r ?f^ ^i" 1M. ?i0 T, i T0, c?t^ 1 00 { ——1 — - —- ——— r7fi s`'i ci 2{J 9 F i+ _ J—— b "43 6104 32 00 ZVT1 ^iic^ 10+ 313 00 et+. 1 I a^•P InM 1 6104 39 r 6104 42 00 ^;^ 610 '.s ,00 -61 4 52 00 -gig 6104 5" 00 -
+
+610.6100 7r ,Ca 6104 62 00 6104 63 00 Tilt, z r ^- - 6104 69 33^——6iO5 10 3 -^ - 6105 20 -t - _ - - ^ 6105 90 3 TIrF Tl 6106 1 00 — — r €; Tr i7 6106 20 —610696 ^ q 6107 I R =r —__ 610712 - - 61071{ - - - 4^ 6 107 21 00 a3 `^ 6107 22 ^f'71 =frC^ r 610 i 29 q _ 6107 91 _ F 4t> 1^^ - ^ 6107 99 .— ^^ft a — are ?^ — - - Y _ 6108 11 - — —- #1 - — 6108 19 —— - 6103 21 00 —-^ I 108 22 - 610829 ^ - —^#1T— — —' - -^ j2 -.6108 31 00 ^ - ^'^ are _ - 6i ()832 —-^ —
+
+W.
+
+Fl 19T" - - —4 -1610839 - 6108 91 00 I-= 6108 92 6108 99 J8 ^ 6109 10 00 ^'" —_— ^ __ —
+
+L%II+fII-Zn3(i)] %M TT 7A,431 awwm T ^0 ^a'^zIRI, 3^$ 7i0 UT U7 7i0, ffrcf CFT r1M 59 6109 90 60 1 6110 20 00 61 6130 62 611'0 '9o 00 63 6111 20 00 6111 30 00 7r+#T Fri flm wt mqT 6111 90 6112 11 00 6112 12 00 6112 19 Wift ITV 6112 20 MF 6112 31 00 611239 1 ur&r 6112410 : f4 are 611249 wt 6113 00 ^rft are 6114 2000 611 4 30 W 611 4 90 7r # %rn 61 15 6116 10 00 Trt wr& sl 6116 91 00 7n%ft IT ro 61169200 61169300 'zft ITr6 6116 99 6117 10 ^%ftarc 6117 80 wt 7.F,7r 6202 99 6117 90 00 > 6201 19 z3%ft are 6201 99 Frcg, 6202 13 00 zt ft 6202 19 ^%ft an 6202 93 - 6203 19 6203 29 00 6203 32 00 mcq 6203 33 00 6203 39 ^%ft are 3T,Via` Rio in ausfl fo 2T ZT tdVUl 6203 41 00 are 99 6203 42 00 6203 49 a'+ft aT7 -\it ara W^#1 are ail ata i o l ^ 6204 12 00 102 I _ 6204 13 00 103 6204 19 Ut ara 104 6204 21 00 aft a1 all a> <a -it a>crf —-6204 22 106_- 6204 23 00 l ll7 ^- 6204 29 6204 33 00 a-4#1 a> <a wt ;:rte I09 aM Trc aft arr ar^#1 arar aR#1 TOF 6204 39 6204 42 111 6204 43 1 1 6204 44 00 -113 6204 52 00 *t are ar41 ara 6204 53 00 115 6204 59 116 6204 62 00 6204 63 00 118 6204 69 ate W41 Tim 6205 20 00 10— 6205 30 00 :_ II — ^ aT<a 1211 -t- __ - 6205 90 - L — wt are 122 620610 i3 6206 30 00 6206 40 00 1 24^—— — - 6206 90 00 ar4#1 are - a^1T are _ _ + a a LrL 2 6207 11 00 6207 21 10 i a rr Tift, -
+
+1. 28 6207 21 90 L 6207 22 00 t 6207 29 00 - R 6207 91 t— —6207 99 i3 ^^^ I aT sr7, z urn ^" #1 : t rr ft * aft pia i ' a ^ a 62081100 7,a#1 ara azft are 6208 21 00 a=ft a1 6208 22 00
+
+[w1II-rU3(i)] +1E T TPM : 3ia1w m Plat i to wmm, 3M to 4T 3 o im, tRT 6208 29 6208 92 6208 99 T 6209 20 00 R4ft T 6209 30 00 Zit wi 6209 90 wt T 6210 10 00 Zit Tim 6210 20 ji^ 6210 40 Z^#T T 6210 50 00 'm 6211 11 00 Tm 6211 12 00 6211 20 00 6211 32 00 6211 33 00 Zi?ft T 6211 39 00 ^it T 6211 41 00 ZTt q17 6211 49 00 ZTt T 6212 10 00 ZTt Tif 6212 20 00 TIM 62123000 ^Tm 6212 90 T 62132000 wt ^Tm 6213 90 ZT+ 6214 30 00 wt 6214 40 00 wt 917 6216 00 ZT+ft M 6217 10 tpft TTM 6217 90 _t Fm
+
+[Q+T. -4. 354/154/2007-t371t 1w. W, -\q a NOTIFICATION New Delhi, the 21st April, 2008 No. 51/2008-Customs G.S.R. 297( E).-In exercise of the powers conferred by sub-section ( 1) of Section 25 of the Customs Act, 1962 (52 of 1962), the Central Government, on being satisfied that it is necessary in the public interest so to do , hereby exempts the goods of the description specified in column (3) of the Table hereto annexed and falling under the Heading, Sub-heading, or Tariff item of the First Schedule to the Customs Tariff Act, 1975 (51 of 1915), and specified in the corresponding entry in column (2) of the said Table, When imported into India from the whole of the duty of customs leviable thereon under the said First Schedule, subject to the following conditions , namely:—
+
+(a) In respect of articles of apparel and clothing accessories specified in the said Table, the exemption shall apply to a quantity of imports, not exceeding 8 million pieces, computed from the 1st day of January, in a calendar year;
+
+(b) the importer follows the procedure as may be specified by the Government of India from time to time.
+
+Provided that the importer proves to the satisfaction of the Deputy Commissioner of Customs or Assistant Commissioner of Customs, as the case may be, that the goods in respect of which the benefit of this exemption is claimed are of the origin of Bangladesh, in accordance with the Rules of Determination of Origin of Goods under the Agreement on South Asian Free Trade Area (SAFTA), published in the notification of the Government of India in the Ministry of Finance ( Department Revenue) No. 75/2006-Customs, (NT) dated the 30th June,2006.
+
+TABLE s.ivo. Chapte r , Heading No, or Sub- 1 Description of goods heading No ., Tariff item rt 6101 90 All goods other tha n of wool 6102 10 00 - All goods 6102 90 ^ —
+
+All goods — - -^ 6103 10 All goods ,. 6103 22 00 All goods J 6 103 23 00 All goods _ 6103 32 00 7610329 All goods —1 L-8 6103 3100 -_-_-__-^-_ All goods ! —-_AII goods 6103 33 00 All goods 6103 39 All goods — — 6103 41 00 - - - — - All goods —61034200 — — - - -_ All goods Al! goods 6103 43 00 goods t6 6103 49 61041300 T All goods
+
+[ IPT II-1 " 3 4IR7 7FT TV95 : 3TtIW7 9 Description of goods S.No.
+
+Chapter, Heading No . or Subheading No ., Tariff item 6104 19 Suits of wool or fine animal hair or cotton 6104 22 00 All goods 6104 23 00 All goods 6104 29 All goods 6104 31 00 All goods 6104 32 00 All goods 6104 33 00 All goods 6104 39 All goods 6104 42 00 All goods 6104 43 00 All goods 6104 52 00 All goods 6104 53 00 All goods 6104 61 00 All goods 6104 62 00 All goods 6104 63 00 All goods 6104 69 All goods 6105 10 All goods 6105 20 All goods 6105 90 All goods 6106 10 00 All goods 6106 20 All goods 6106 90 All goods 6107 11 00 All goods 6107 12 All goods 6107 19 All goods 6107 2100 All goods 6107 22 All goods 6107 29 All goods 6107 91 All goods 6107 99 All goods 6108 11 All goods 6108 19 All goods 6108 2100 All goods 6108 22 All goods 6108 29 All goods 6108 3100 All goods 6108 32 All goods 6108 39 All goods 6108 91 00 All goods ME GA7ETTE Or INDIA : EXTRAORDINARY flnxr Ih-5sc 3 i) S.No. Chapter, Heading No. or SubDescription of goods heading No.., Tariff item -(3)-All goods Al! geous Ali goods 57 6108 99 A cc 6".09io00 `i9 ^ 1U99Ci F+' goods - — A:igoods — - ! f.r10200( 51 X110 30 '52 6110 9000 Al'goods -_—_ l goods E21120 30—A!; goods 611130 00 All L^oors ti5 6111 90 T All goods 1`21100 - - —- Ail goods t7 61171200 All goads 6112 19 - - r ——All- - - I ! goods -bi 611220 f — — - ——- All goods6112 31 00 All nod =— 71 611) iQ I I 71 6112 41 00 I All goods All goods z - - { - - 6112 49 All 74 goods 6115 00 —- - - - Ali goods __—7y 61742000 Ali goods 76 6114 30- 6114 90 -l - —- All goods 7 - - - - — —- All goods 7 115 All goods 611E 10 00 ————- , 61169100 All goods be` A!! —-.- +- goods 31 6:!169200 — - All goods 8_' 61169300 —6116 99 A!! goods Ail goods—
+
+All goods 6117 10 d5 6 ^, 80 86___,_____.- -61179000 -t All goods Ail goods-_—
+
+All goods __ _$7 6201 19 —— —— - - — - B 6201 99 —r j 8C 6202 13 00 All goods - —-All goods —6202 19 204 93 ,, 19 ^—- G^—- ` - —— 620 All goods 620,2 99 - — All goods — - - All goods —- All goods Sq 6203 29 00 All goods 6203 32 00 All goods
+
+['P111-1 3(9 1 T MP I 3TAi}IRT 11 S.No. Chapter, Heading No . or SubDescription of goods heading No ., Tariff item
+
+(2) — 6203 33 00 All goods 6203 39 All goods fi 6203 4100 All goods 98-} - 6203 42 00 All goods 6203 49 All goods 6204 12 00 ^ All goods 6204 13 00 All goods 6204 19 All goods 6204 2100 All goods 6204 22 All goods 6204 23 00 All goods rl 107 6204 29 All goods 5204 33 00 All goods 6204 39 _-^ All goods 6204 42 All goods 6204 43 All goods 6204 44 00 All goods ^3 I^ 6204 52 00 All goods t 6204 53 00 All goods 115ttt— 6204 59 All goods 6204 62 00 All goods 6204 63 00 All goods 6204 69 6205 20 00 All goods All goods - 6205 30 00 FFF 6205 90 - All goods - All goods 6206 10 All goods 6206 30 00 All goods _ 6206 40 00 All goods 6206 90 00 All goods 6207 11 00 All goods 6207 21 10 All goods 6207 21 90 All goods 6207 22 00 All goods 6207 29 00 All goods 6207 91 All goods - 6207 99 All goods of manmade fibres other than underpants, brief, night-shirts and pyjamas 6208 1100 All goods 6208 21 00 All goods S.No.
+
+Chapter, Heading No . or SubDescription of goods heading No ., Tariff item 6208 22 00 All d 6208 29 goo s All goods 6208 92 All goods X138 620899 All d 6209 20 00 goo s All goods 6209 30 00 All d 6209 90 goo s All d 6210 10 00 goo s All goods 6210 20 All goods 6210 40 All goods 6210 50 00 All goods 6211 11 00 All goods 6211 12 00 I All goods 6211 20 00 All goods 6211 32 00 All goods 6211 33 00 All goods 6211 39 00 All goods 6211 41 00 All goods 6211 49 00 All goods 6212 10 00 All goods 6212 20 00 All goods 6212 30 00 All goods 6212 90 All goods 1 S58 6213 20 00 All goods 6213 90 All goods 6214 30 00 r All goods 6214 40 00 All goods 6216 00 __ All goods 6217 10 All goods 621790 All goods
+
+[F. No. 354/1542007-TRU] S. BAJAJ, Under Secy. and Published by the Controller of Publications, Delhi-110054.
