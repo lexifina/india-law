@@ -1,0 +1,16 @@
+---
+title: "Amendment in Appendix 17 of theHandbook of Procedure (Vol. 1)"
+ministry: "Ministry of Commerce and Industry"
+published: "2008-04-23"
+mirror: "https://archive.org/details/in.gazette.e.2008.117"
+---
+
+# Amendment in Appendix 17 of theHandbook of Procedure (Vol. 1)
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department of Commerce) PUBLIC NOTICE New Delhi, the 23rd April, 2008 No. 08 (RE-2008)/2004-2009 F. No. 01/93/180/080/AM08/PC-1(B).-In exercise of power conferred under Paragraph 2.4 of the Foreign Trade Policy, 2004-2009, the Director General of Foreign Trade hereby makes the following amendment in Appendix 17 of the Handbook of Procedure (Vol. 1):
+
+1. The existing entry made under Serial No. 16 of Appendix- 17 is amended as under :Sr.No. Ministry/Department Name and Address Tel.No./Fax/E-Mail Shri V.K. Srivastava, Addl. DGFT, 23063801 Room No. 1, Udyog Bhawan, New Delhi. vk.srivastava@nic.in Directorate General of Foreign Trade This issues in public interest.
+
+R. S. GUJRAL, Director General of Foreign Trade & ex-officio Addl. Secy.
+
+(31/2008 and Published by the Controller of Publications , Delhi-110054.
