@@ -1,0 +1,193 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0809-4 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 3 Official Details Link"
+issuer: "Government of Goa"
+published: "2008-04-30"
+in_force: "2008-04-30"
+in_force_evidence: "published in the Gazette 2008-04-30; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0809-4.SI"
+language: "English text only"
+---
+
+éegF2xoF2qéGéxÇGqyeGQP éxs2xoF2qyeixqGPHHPGTRIH
+xoF2P
+qyåiéxwixä22yp22qye PF2e2horse2rùÖe2either2live2or QH72of2the2ùmount
+displùyed2for2viewing2through pùid2for2ùdmission
+ed22with22the222help222of222server ùmount2Öhùrged
+éevenue282gontrol22hivision
+ùppliÖùtion22or22otherwiseD22to for2ÿettingF
+whiÖh22persons22ùre2ùdmitted
+xotifiÖùtion on2pùymentF
+QGPGPHHTEpin@é8gA@SA
+QF eny2ùmusement2or2exhiE
+sn2 exerÖise2 of2 the2 powers2 Öonferred2 ÿy ÿition2222or2222performùnÖe222or
+Ölùuses2@iA2ùnd2@iiA2of2suÿEseÖtion2@SA2of2seÖtion22Q2of pùgeùntD22whether22held222inE
+the2 qoù2 intertùinment2 äùx2 eÖtD2 IWTR2 @eÖt2 P2 of door22or22outdoorD222to22whiÖh
+IWTRA2@hereinùfter2Öùlled2ùs2the2sùid2eÖtAD2ùnd the222persons222ùre222ùdmitted
+ùll2 other2 powers2 enùÿling2 it2 in2 this2 ÿehùlfD2 the on2pùymentX
+qovernment2of2qoù2hereÿy2ùmends2âÖhedules2eD
+@ùA yn2pùyment2for2ùdmission 222xilF fD2gD2h2ùnd2i2ùppended2to2the2sùid2eÖtD2ùs
+followsD2nùmelyX not2exÖeeding2ésF2IHHGEF
+@sA2sn2âÖhedule2e2ùppended2to2the2sùid2eÖtD2for
+@ÿA yn2pùyment2for2ùdmission IH72of2the2ùmount
+existing2entries2ùgùinst2ârF2xosF2ID2PD2Q2ùnd2R2the
+exÖeeding22ésF22IHHGE222ÿut pùid2for2ùdmissionF
+following2entries2shùll2ÿe2suÿstitutedD2nùmelyX
+not2exÖeeding2ésF2SHHGEF
+or2theùtres2hùving2vùlid2liÖenÖe2for2exhiÿition2under @ÖA yn2pùyment2for2ùdmission IS72of2the2ùmount
+the2ginemùtogrùph2eÖtD2IWSP2@gentrùl2eÖt2QU2of exÖeeding2ésF2SHHGEF pùid2for2ùdmissionF
+ginemùtogrùph2éulesD2IWTSX
+performùnÖes2inÖluding2ÖultuE not2exÖeeding2ésF2SHGEF
+@ÿA yn2pùyment2for2ùdmission PH72of2the2ùmount
+exÖeeding2ésF2SHGE2ÿut2not pùid2for2ùdmissionF
+ùdmitted22on2pùymentX
+exÖeeding2ésF2IHHGEF
+exÖeeding2ésF2IHHGEF pùid2for2ùdmissionF musiÖùl2performùnÖesX
+xoteXE por2tiÖkets2exÖeeding2denominùtion2of2ésF2SHGED
+@iA yn2pùyment2for2ùdmission IH72of2the2ùmount the2 entertùinment2 tùx2 should2 ÿe2 Öhùrged
+sepùrùtely2in2the2tiÖketF not2exÖeeding2ésF2SHHGEF pùid2for2ùdmissionF
+
+@iiA yn2pùyment2for2ùdmission IS72of2the2ùmount âÖhedule2h
+exÖeeding2ésF2SHHGEF pùid2for2ùdmissionF
+I P Q
+IF Çroviding2entertùinment ésF22PHHGE22per222person
+@iA yn2pùyment2for2ùdmission 2222xilF
+disÖo2puÿsGÖluÿsGinstitutionsD Öùsino22plus2IH72of2the
+exÖeeding2ésF2IHHGEF orgùnizùtionsGproprietorsF sùle2of22ÖhipsGÖoins22or
+the22reÖeipts22reÖeived
+@iiA yn2pùyment2for2ùdmission IH72of2the2ùmount
+exÖeeding2ésF2IHHGE2ÿut pùid2for2ùdmissionF
+registered2under2the2qoù gùmes222either22on22slot
+@eÖt2IU2of2IWVVAF or222ùny222other222gùmes
+provided2in2the2ÖùsinoF
+@iiiA yn2pùyment2for2ùdmission IS72of2the2ùmount
+gùmes2provided2on2the visiting22the22plùÖe222of
+offshore22222or2222floùting Öùsino2plus2IH72of2the
+vesselsF sùle2of22ÖhipsGÖoins22or
+the22reÖeipts22reÖeived
+SF2qùme2or2sports2@other2thùn xilFY ÿy2the2proprietorGopeE
+those22speÖified22in22ùny22of222the
+gùmes22either22on22slot
+âÖhedules2ùppended2to2this2eÖtAD
+whether2held2indoor2or2outdoorD or222ùny222other222gùmes
+provided2in2the2ÖùsinoF to22whiÖh2persons2ùre2ùdmitted
+on2pùymentF
+GinstitutionsGorgùnizùE for2ùdmissionF
+tionsGproprietorsGindiE @ssA2sn2âÖhedule2f2ùppended2to2the2sùid2eÖtD2for
+viduùlsF
+entries2ùgùinst2âeriùl2xoF2I2ùnd2PD2the2following
+entries2shùll2ÿe2suÿstitutedD2nùmelyX
+xoteXE IA ähe2 Öoupons2 for2 pùyment2 of2 entry2 fee2 of
+@IA éiverGÿoùt2Öruise IS72of2the2ùmount ésF2 PHHGE2 per2 personD2 ùs2 provided2 in2 Öolumn2 @QA
+pùid2for2ùdmissionF
+22@PA çùter2sports2or2jet2skiing IH72of2the2ùmount
+upon2 vùlid2 ùuthorizùtion2 ÿy2 the2 yffiÖe2 of2 the
+or2motor2Öùrt2rides2or2ùny sionFY
+PA gùsino2 yperùtors2 shùll2 sell2 the2 Öoupons2 to2 the
+other2similùr2ùÖtivities2of
+entertùinmentF register2of2suÖh2visits2thereÿy2indiÖùting2the2seriùl
+visitorsF
+@sssA2sn2âÖhedule2g2ùppended2to2the2sùid2eÖtD
+ùgùinst2âeriùl2xoF2@åAD2for2the2expression2ésF2PHGE QA ähe2 Öounterfoils2 of2 the2 Öoupons2 sold2 shùll2 ÿe
+returned2ÿy2the2Öùsino2operùtor2to2the2yffiÖe2of2the
+per2 ÖonneÖtionD2 the2 expression2 ésF2 PSGE2 per
+gommissioner2 of2 gommerÖiùl2 äùxes2 with2 the
+ÖonneÖtion2shùll2ÿe2suÿstitutedY stùtement2ÿy2IHth2of2every2suÖÖeeding2month2or2ùt
+the2time2of2purÖhùse2of2new2ÖouponsD2whiÖhever2is
+eùrlierF
+RA ähe2gommissioner2shùll2hùve2powers2to2inspeÖt for2the2existing2entriesD2the2following2entries2shùll
+the2Öùsinos2ùnd2ùny2person2found2entered2in2the
+ÿe2suÿstitutedX
+Öùsino2without2purÖhùse2of2Öoupon2ùs2provided2in
+
+Öolumn2@QA2ùÿoveD2then2the2proprietor2or2the2person @PA2 ähey2 shùll2 ùpply2 to2 the2 post2 speÖified2 in
+running2suÖh2Öùsinos2shùll2ÿe2penùlized2in2terms
+Öolumn2 @IA2 of2 the2 âÖhedule2 to2 these2 rules
+of2suÿEseÖtion2@RA2of2seÖtion2Ve2of2the2eÖtFY
+@QA2ähey2shùll2Öome2into2forÖe2from2the2dùte2of
+Öolumn2@PA2for2entries2ùgùinst2ârF2xosF2@vA2ùnd2@viAD2the
+following2entries2shùll2ÿe2suÿstitutedD2nùmelyX
+hotels22registered2under2the2qoù numÿer2of2postsD2ÖlùssifiÖùtion2of2the2sùid2post2ùnd
+IU2of2IWVVAF speÖified2in2Öolumns2@PA2to2@RA2of2the2sùid2âÖheduleX
+@viA gùsinoGÖùsino22gùmes22on22the ésF2IHDHHHGE
+Çrovided2 thùt2 the2 qovernment2 mùy2 vùry2 the
+floùting2or2offshore2vesselF
+numÿer2of2posts2speÖified2in2Öolumn2@PA2of2the2sùid
+âÖhedule2from2time2to2time2suÿjeÖt2to2exigenÖies
+ähis2notifiÖùtion2shùll2Öome2into2forÖe2from2the
+of2workF
+QF2 wethod2 of2 reÖuitmentD2 ùge2 limit2 ùnd2 other
+fy2 order2 ùnd2 in2 the2 nùme2 of2 the2 qovernor
+quùlifiÖùtionsF2ähe2method2of2reÖruitment2to2the
+sùid2postD2ùge2limitD2quùlifiÖùtions2ùnd2other2mùtters
+Öolumns2@SA2to2@IQA2of2the2sùid2âÖheduleF
+pinF@é8gAF
+RF2hisquùlifiÖùtionF2xo2person2who2hùs2entered
+ÇorvorimD2PVth2eprilD2PHHVF
+ù2spouse2living2or2whoD2hùving2ù2spouse2livingD2hùs
+ttt
+personD2shùll2ÿe2eligiÿle2for2ùppointment2to2the
+Department of Personnel serviÖeX
+Çrovided2thùt2the2qovernment2mùyD2if2sùtisfied
+thùt2 suÖh2 mùrriùge2 is2 permissiÿle2 under2 the xotifiÖùtion
+IGPSGVTEÇié2@ÇtF2fileA other2pùrty2to2the2mùrriùge2ùnd2thùt2there2ùre2other
+grounds2for2so2doingD2exempt2ùny2person2from2the
+operùtion2of2this2ruleF sn2 exerÖise2 of2 the2 powers2 Öonferred2 ÿy2 the
+proviso2to2ertiÖle2QHW2of2the2gonstitution2of2sndiùD
+SF2Çower2to2relùxF2çhereD2the2qovernment2is
+ùnd2in2supersession2of2the2existing2éeÖruitment
+of2the2opinion2thùt2it2is2neÖessùry2or2expedient2so
+éules2 for2 the2 relevùnt2 postD2 puÿlished2 vide to2doD2it2mùyD2ÿy2orderD2for2reùsons2to2ÿe2reÖorded
+in2writingD2relùx2ùny2of2the2provisions2of2these2rules xotifiÖùtion2xoF2IGPSGVTEÇié2@ÇtF2fileA2dùted2IUth
+with2respeÖt2to2ùny2Ölùss2or2Öùtegory2of2personsF
+yÖtoÿerD2 PHHT2 in2 the2 yffiÖiùl2 qùzetteD2 âeries2 s
+xoF2QH2dùted2PTth2yÖtoÿerD2PHHTD2the2qovernor2of
+TF2âùvingF2xothing2in2these2rules2shùll2ùffeÖt
+qoù2hereÿy2mùkes2the2following2rules2to2regulùte reservùtionsD2 relùxùtion2 of2 ùge2 limit2 ùnd2 other
+the2reÖuitment2to2the2qroup2gD2xonEwinisteriùlD ÖonÖessions2required2to2ÿe2provided2for2âÖheduled
+gùstesD2ùnd2other2speÖiùl2Öùtegories2of2persons2in
+xonEqùzetted2postD2in2the2yffiÖe2of2gommissioner
+of2ixÖiseD2qovernment2of2qoùD2nùmelyX
+qovernment2from2time2to2time2in2thùt2regùrdF
+IF2âhort2titleD2ùppliÖùtion2ùnd2ÖommenÖementF fy2 order2 ùnd2 in2 the2 nùme2 of2 the2 qovernor
+@IA2ähese2rules2mùy2ÿe2Öùlled2the2qovernment2of of2qoùF
+qoùD2yffiÖe2of2gommissioner2of2ixÖiseD2qroup2gD
+xonEwinisteriùlD2xonEqùzetted2postD2éeÖuitment
+@ÇersonnelAF
+éulesD2PHHVF
+ÇorvorimD2PVth2eprilD2PHHVF
+
+xF2eF
+2222222222222222IQ
+qroup2gD hFÇFgFGhFâFgF sf2ù2hFÇFgF existsD whùt2is2its Öomposition
+222222222222222222222222IP
+sn2Öùse2of22reÖruitE ment2 ÿy2 promotionG GdeputùtionGtrùnsferD grùdes2from2whiÖh promotionG GdeputùtionGtrùnsfer is2to2ÿe2mùde
+ÇromotionX2 ixÖise hepùrtment2with2Q yeùrs2regulùr2serviÖe
+the
+of2
+22222222222222222222222II in2the2grùdeF
+wethod2 of reÖruitmentD whether2ÿy2direÖt reÖruitment or2 ÿy2 promotion or2ÿy2deputùtionG GtrùnsferGÖontrùÖt ùnd2perÖentùge of2the2vùÖùnÖies to2ÿe22filled22ÿy vùrious22methods
+2SH72ÿy22promoE tionD2fùiling whiÖhD22ÿy2direÖt reÖruitment2ùnd SH72ÿy2direÖt reÖruitmentF
+222222222222222IH
+222222222222222222222222222V 2222222222W
+the2Öùse2of2promotees
+the2direÖt2reÖruits2will2ùpply2in
+@PA ÇhysiÖùl2requirementX winimum2heightXE @QA unowledge2of2uonkùniF
+222unowledge2of2wùrùthiF
+direÖt2reÖruits
+222222222222222222222222U
+@IA righer2
+issentiùlX hesirùÿleX
+çhether2 the ÿenefit2of ùdded2yeùrs of2serviÖe2is ùdmissiÿle under2éule QH2of2ggâ @ÇensionA éulesD2IWUP
+ege2limit for2direÖt reÖruits xot exÖeeding RH2yeùrs @éelùxùÿle for qovernE ment servùnts upto2S yeùrs2in ùÖÖorE dùnÖe2with the2instruE Ötions2or orders issued2ÿy the qovernE mentAF
+22222T
+çhether seleÖtion post22or nonE seleÖE tion post
+2222R
+222222Q
+xumÿer of2 posts T @PHHVA @âuÿE jeÖt2to vùriùE tion depenE dent2on workE loùdAF
+222222P
+xùmeG GhesignùE tion22of post âuÿE EsnspeÖE tor2of ixÖiseF
+222222I
