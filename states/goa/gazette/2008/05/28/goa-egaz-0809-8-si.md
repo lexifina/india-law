@@ -1,0 +1,47 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0809-8 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 2 Official Details Link"
+issuer: "Government of Goa"
+published: "2008-05-28"
+in_force: "2008-05-28"
+in_force_evidence: "published in the Gazette 2008-05-28; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0809-8.SI"
+language: "English text only"
+---
+
+ÇùnùjiD2PVth2wùyD2PHHV2@tyùisthù2UD2IWQHA SERIES I No. 8
+EXTRAORDINARY
+No. 2
+hepùrtment22of22Çower
+yffiÖe2of2the2ghief2ileÖtriÖùl2ingineer
+IPHGPGgiiGäeÖh
+sn2exerÖise2of2the2powers2Öonferred2ÿy2the2proviso2to2suÿEseÖtion2@IA2of2âeÖtion2Q2of2the2qoùD2hùmùn
+ùnd2hiu2ileÖtriÖity2huty2eÖtD2IWVT2@eÖt2xoF2U2of2IWVTA2ùnd2in2supersession2of2the2qovernment2xotifiÖùtion
+xoF2IPHGPGgiiGäeÖhGIUUI2dùted2PREIEPHHTD2puÿlished2in2the2yffiÖiùl2qùzetteD2ixtrùordinùry2PD2âeries2s
+xoF2RPD2dùted2PREIEPHHTD2the2qovernment2of2qoùD2hereÿy2levies2on2the2units2of2energy2ÖonsumedD2ù2duty
+qoùD2with2immediùte2effeÖtF
+@sA2vow2äension2âupply
+@IA2@iA2vähGhomestiÖ2ùnd2xonEgommerÖiùl IV2pùise2per2unitF
+22222@iiA2vähGhomestiÖ2wixed IV2pùise2per2unitF
+@PA2väeqGegriÖulture IV2pùise2per2unitF
+@RA2vägGgommerÖiùl SV2pùise2per2unitF
+@SA2väÇGwotive2Çower SV2pùise2per2unitF
+@TA2väÇGwixed2@rotel2sndustriesA SV2pùise2per2unitF
+
+@ssA2righ2äension2âupply
+@IA2räEwixed IV2pùise2per2unitF
+@PA2räEegriÖulture IV2pùise2per2unitF
+@RA2räsGsndustriùl SV2pùise2per2unitF
+@SA2rFäF2sndustriùl2@perro2wetùllurgiÖùlGâteel2weltingGÇower
+sntensiveA SV2pùise2per2unitF
+@TA2rä2sndustriùl2@âteel2éollingA SV2pùise2per2unitF
+@UA2rä2sndustries2@sä2righ2äeÖhA SV2pùise2per2unitF
+@WA2iräsGsndustriùl SV2pùise2per2unitF
+supplyF
+xoteX2ähe2duty2worked2out2ùs2SH2pùise2ùnd2ùÿove2shùll2ÿe2rounded2off2ùs2rupee2one2ùnd2the2duty2worked2out2ùs2less
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqyeF
