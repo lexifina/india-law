@@ -1,0 +1,91 @@
+---
+kind: "gazette-notification"
+gazette: "Official Gazette of Goa"
+gazette_number: "0809-9 Gazette"
+gazette_type: "OG - Ordinary Gazette - Extraordinary Gazette Gazette No: 4 Official Details Link"
+issuer: "Government of Goa"
+published: "2008-06-04"
+in_force: "2008-06-04"
+in_force_evidence: "published in the Gazette 2008-06-04; no other commencement day stated"
+official_text: "http://goaprintingpress.gov.in"
+mirror: "https://archive.org/details/in.goa.egaz.0809-9.SII"
+language: "English text only"
+---
+
+Reg. No. GR/RNP/GOA/32 RNI No. GOAENG/2002/6410
+Panaji, 29th May, 2008 (Jyaistha 8, 1930)
+SERIES II No. 9
+EXTRAORDINARY
+RF2ähe2qovernment2further2ùppointsD2under2Ölùuse2@ÖA qyåiéxwixä2 yp2 qye
+of2âeÖtion2Q2of2the2sùid2eÖtD2the2heputy2golleÖtor2@veAD
+golleÖtorùte2of2xorth2qoù2histriÖtD2ÇùnùjiEqoù2to2perform hepùrtment2of2éevenue
+the2 funÖtions2 of2 the2 golleÖtorD2 under2 the2 sùid2 eÖt2 in
+respeÖt2of2the2sùid2lùndF
+Notification
+SF2ähe2qovernment2ùlso2ùuthorises2under2suÿEseÖtion
+xoF2PQGIVGPHHUEéh
+@PA2of2âeÖtion2R2of2the2sùid2eÖtD2the2following2yffiÖers2to
+çhereùs2 it2 ùppeùrs2 to2 the2 qovernment2 of2 qoù do2 the2 eÖtsD2 speÖified2 therein2 in2 respeÖt2 of2 the2 sùid
+@hereinùfter2referred2to2ùs2the2qovernmentA2thùt2the lùndF
+lùnd2speÖified2in2the2âÖhedule2hereto2@hereinùfter2referred
+for2 puÿliÖ2 purposeD2 vizF2 vùnd2 eÖquisition2 for
+PF ähe2 heputy2 golleÖtor2 @veAD2 xorth2 qoù2 histriÖtD
+improvement2of2Öurve2ùnd2widening2of2Öulvert2ùt2hutode
+QF ähe2ixeÖutive2ingineerD2âF2hF2êåsss2@éoùdsAD2ÇFçFhFD xowD2thereforeD2the2qovernment2hereÿy2notifiesD2under
+IVWR2@gentrùl2eÖt2I2of2IVWRA2@hereinùfter2referred2to2ùs
+the2sùid2eÖtA2thùt2sùid2lùnd2is2likely2to2ÿe2needed2for
+the2purpose2speÖified2ùÿoveF
+PF2ell2persons2interested2in2the2sùid2lùnd2ùre2hereÿy TF2 e2 rough2 plùn2 of2 the2 sùid2 lùnd2 is2 ùvùilùÿle2 for
+wùrned2not2to2oÿstruÖt2or2interfere2with2ùny2surveyor2or inspeÖtion2 in2 the2 yffiÖe2 of2 the2 heputy2 golleÖtor2 @veAD
+other2 persons2 employed2 upon2 the2 sùid2 lùnd2 for2 the xorth2qoù2histriÖtD2ÇùnùjiEqoù2for2ù2period2of2QH2dùys
+purpose2 of2 the2 sùid2 ùÖquisitionF2 eny2 ÖontrùÖt2 for2 the from2the2dùte2of2puÿliÖùtion2of2this2xotifiÖùtion2in2the
+ùssignmentD2 exÖhùnge2 or2 otherwiseD2 or2 ùny2 outlùy
+ÖommenÖed2or2improvements2mùde2thereon2without2the
+@hesÖription2of2the2sùid2lùndA
+ÿelowD2 ùfter2 the2 dùte2 of2 the2 puÿliÖùtion2 of2 this
+the2 sùid2 eÖtD2 ÿe2 disregùrded2 ÿy2 him2 while2 ùssessing
+GâuÿEhivF2xoF 2ÿelieved2to2ÿe2interested sqF2mtsF finùlly2 ùÖquiredF
+I P Q
+QF2sf2the2qovernment2is2sùtisfied2thùt2the2sùid2lùnd2is
+effeÖt2under2âeÖtion2T2of2the2sùid2eÖt2will2ÿe2puÿlished fhikùro2ghiddu2xùikF
+puÿliÖ2notiÖe2thereof2shùll2ÿe2given2in2due2ÖourseF2sf2the wùhùdev2xùikF
+ùlso2ÿe2notified2in2the2sùme2mùnnerF ghùddu2xùikF
+
+puÿliÖ2notiÖe2thereof2shùll2ÿe2given2in2due2ÖourseF2sf2the I P Q
+of2âeÖtion2Q2of2the2sùid2eÖtD2the2heputy2golleÖtor2@éevFAD
+golleÖtorùte2 of2 xorth2 qoù2 histriÖtD2 Çùnùji2 to2 perform foundùriesX
+the2 funÖtions2 of2 ù2 golleÖtorD2 xorth2 qoù2 histriÖtD
+xorthX âF2xoF2QIRF
+SF2ähe2qovernment2ùlso2ùuthorises2under2suÿEseÖtion
+çest X âF2xoF2QIRGQD2éoùdF @PA2of2âeÖtion2R2of2the2sùid2eÖtD2the2following2yffiÖers2to
+do2 the2 eÖtsD2 speÖified2 therein2 in2 respeÖt2 of2 the2 sùid
+fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF IF ähe2golleÖtorD2xorth2qoù2histriÖtD2ÇùnùjiEqoùF
+hF2wF2éedkùrD2ànder2âeÖretùry2@éevenueEsGssAF PF ähe2heputy2golleÖtor2@éevFAD2golleÖtorùte2of2xorth
+ÇorvorimD2PUth2wùyD2PHHVF
+Notification
+@hereinùfter2referred2to2ùs2the2qovernmentA2thùt2the inspeÖtion2in2the2yffiÖe2of2the2heputy2golleÖtor2@éevFAD
+lùnd2speÖified2in2the2âÖhedule2hereto2@hereinùfter2referred golleÖtorùte2of2xorth2qoù2histriÖtD2ÇùnùjiD2for2ù2period2of
+to2 ùs2 the2 sùid2 lùndA2 is2 likely2 to2 ÿe2 needed QH2dùys2from2the2dùte2of2puÿliÖùtion2of2this2xotifiÖùtion
+for2puÿliÖ2purposeD2vizF2vùnd2eÖquisition2for2ÖonstruÖtion in2the2yffiÖiùl2qùzetteF
+Çriol2 gonstituenÖyF
+@hesÖription2of2the2sùid2lùndA
+xowD2thereforeD2the2qovernment2hereÿy2notifiesD2under
+suÿEseÖtion2@IA2of2âeÖtion2R2of2the2vùnd2eÖquisition2eÖtD
+IVWR2@gentrùl2eÖt2I2of2IVWRA2@hereinùfter2referred2to2ùs âurvey2xoFG xùmes2of2the2persons ereù2in
+GâuÿEhivF2xoF 2ÿelieved2to2ÿe2interested sqF2mtsF the2sùid2eÖtA2thùt2sùid2lùnd2is2likely2to2ÿe2needed2for
+the2purpose2speÖified2ùÿoveF I P Q
+PF2ell2persons2interested2in2the2sùid2lùnd2ùre2hereÿy ISPGH2pùrt yX gomunidùde2of2fetquiF PTPH
+other2 persons2 employed2 upon2 the2 sùid2 lùnd2 for2 the ISHGH pùrt yX åithùl2enùnt2uùmùt2rùldùnkùrF QVRH
+foundùriesX
+ùssignmentD2 exÖhùnge2 or2 otherwiseD2 or2 ùny2 outlùy
+ÖommenÖed2or2improvements2mùde2thereon2without2the
+xorthX âF2xoF2ISPF
+âouthX âF2xoF2IRWF
+ÿelowD2 ùfter2 the2 dùte2 of2 the2 puÿliÖùtion2 of2 this
+iùst X âF2xoF2ISPD2ISHD2IRWF xotifiÖùtionD2will2under2Ölùuse2@seventhA2of2âeÖtion2PR2of
+the2 sùid2 eÖtD2 ÿe2 disregùrded2 ÿy2 him2 while2 ùssessing çest X âF2xoF2ISPD2ISHD2IRWF
+QF2sf2the2qovernment2is2sùtisfied2thùt2the2sùid2lùnd2is fy2order2ùnd2in2the2nùme2of2the2qovernor2of2qoùF
+needed2for2the2ùforesùid2purposeD2ù2deÖlùrùtion2to2thùt
+in2the2yffiÖiùl2qùzette2ùnd2in2two2dùily2newspùpers2ùnd ÇorvorimD2PUth2wùyD2PHHVF
+wwwFgoùgovtFniÖFinGgùzetteFhtm
+ÇexetsEqyeF
