@@ -1,0 +1,3 @@
+# Section 28A
+
+28A. Determination of tax liability as per fair market price.— During the course of any proceedings under the Act, if the Commissioner is of the opinion that any transaction entered into by any dealer for sales, price, which is below the prescribed fair market price for commodity for a prescribed class of dealers, so as to be liable, to pay tax less than the tax, which would have been otherwise become payable on such sales or purchases, then the Commissioner shall determine the tax liability as per the fair market price of such transaction while passing an order in the said proceedings.]
