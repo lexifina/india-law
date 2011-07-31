@@ -1,0 +1,7 @@
+# Section 42A. Declaration of development area
+
+42A. (1) The State Government may, for the purpose of securing planned development of areas within the State, declare by notification in the Official Gazette, any area in the State to be a development area.
+
+(2) Every notification issued under sub-section (1) shall define the limits of the area to which it relates.
+
+(3) The State Government may, by notification in the Official Gazette, amalgamate two or more development areas into one development area, sub-divide any development area into different development areas and include such sub-divided areas in any other development area.

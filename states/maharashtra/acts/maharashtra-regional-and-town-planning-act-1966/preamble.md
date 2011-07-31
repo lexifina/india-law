@@ -1,0 +1,3 @@
+# Preamble
+
+for the constitution of Regional Planning Boards thereof; to make better provision for the preparation of Development plans with a view to ensuring that town planning schemes are made in a proper manner and their executions is made effective; to provide for the creation of new towns by means of Development Authorities; to make provision for the compulsory acquisition of land required for public purposes in respect of the plans; and for purposes connected with the matters aforesaid. It is hereby enacted in the Seventeenth Year of the Republic of India as follows :—
