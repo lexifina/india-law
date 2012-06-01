@@ -1,0 +1,7 @@
+# Section 6C. Discontinuance of supply of energy to consumer for failure to pay fees for services of Electric Inspector or his assistants
+
+6C. (1) If any consumer fails to pay any fees leviable for inspection, examination or test made or any other service rendered by an Electric Inspector or any other officer appointed to assist the Electric Inspector under the provisions of the Indian Electricity Act, 1910, or any rules made thereunderr, within ten days from date of the presentation of the bill for such inspection, examination, test or rendering of service, the 3[State] Government or any other officer authorised by the 3[State] Government in that behalf may, notwithstanding anything contained in the Indian Electricity Act, 1910 or the terms of any licence or sanction granted thereunder or any agreement for the supply of electrical energy by order in writing direct the licensee without prejudice to any other right to recover such fees to discontinue the supply of electrical energy to such consumer and the licensee shall thereupon discontinue the supply of electrical energy to such consumer.
+
+(2) On payment of such fees by the consumer, the 3[State] Government or the authorised officer may by order in writing direct the licensee to reconnect and recommence the supply of electrical energy and the licensee shall thereupon reconnect and recommence the supply to the consumer as soon as practicable :
+
+Provided that the licensee shall not be bound to reconnect the supply until the consumer pays to the licensee the charges for reconnecting the supply.]
