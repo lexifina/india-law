@@ -1,10 +1,8 @@
-# Section 6A
+# Section 6A. Obligation of Management to pay to Government expenditure on remuneration of Administrator and allowances of Advisory Committee and share of other expenditure of the institution
 
-6A. Obligation of Management to pay to Government expenditure on remuneration of Administrator and allowances of Advisory Committee and share of other expenditure of the institution.—
+6A. (1) Where the management of any institution is taken over under section 3,—
 
-(1) Where the management of any institution is taken over under section 3,—
-
-(a) the expenditure on the remuneration of the Administrator and on the allowances to the members of the Advisory Committee shall be paid monthly by the Management from the funds of the institution.
+(a) the expenditure on the remuneration of the Administrator and on the allowances to the members of the Advisory Committee shall be paid monthly by the Management from the funds of the institution,
 
 (b) the proportionate share of the expenditure of the institution, which the Management would have had to meet in any year, if the management of the institution had not been taken over, shall initially be borne and paid to the Administrator by the State Government, but the Management shall, on demand made by the Administrator, pay from the funds of the institution annually to the State Government the share of the expenditure so borne and paid by the State Government :
 
