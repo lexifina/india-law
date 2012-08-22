@@ -1,0 +1,3 @@
+# Section 8B
+
+8B. Appointment of competent authority.— The State Government may, by notification in the Official Gazette, appoint an officer, who is holding or has held an office, which in its opinion is not lower in rank than that of 4[Section officer] to Government or Tahsildar, to be the competent authority for the purposes of this Act, in such area, or in respect of such lands or premises or class of lands or premises in any area, as may be specified in the notification; and more than one officer may be appointed as the competent authority in the same area in respect of different lands or premises or different classes of lands and premises.
