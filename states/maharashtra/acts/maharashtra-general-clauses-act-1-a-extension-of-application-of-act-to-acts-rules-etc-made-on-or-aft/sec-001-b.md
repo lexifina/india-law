@@ -1,0 +1,5 @@
+# Section 1B
+
+1B. Extension of application of Act to Acts, rules, etc., of State of Maharashtra.— The provisions of this Act which relate to Bombay Acts, Regulations and Ordinances shall apply also in relation to Acts, Regulations and Ordinances of the State of Maharashtra passed, made or promulgated on or after the 1st day of May 1960 and such provisions of this Act as relate to any notification, order, scheme, rule, by-law or form shall apply also in relation to any notification, order, scheme, rule, bylaw, or form issued or made under any Act, Regulation or Ordinance passed, made or promulgated on or after that date :
+
+Provided that where any such Act, Regulation, Ordinance, notification, order, scheme, rule, bylaw or form passed, made or promulgated on or after that date amends any Act, Regulation, Ordinance, notification, order, scheme, rule, by-law or form passed, made or promulgated in relation to any territory of the State of Maharashtra, not being the Bombay area of that State, the law in force in those territories in the interpretation of the law so amended shall apply to the amending law, and not the provisions hereinafter of this Act.]
