@@ -1,6 +1,6 @@
-# Section 6A
+# Section 6A. Taking over management of undertaking by State Government
 
-6A. Taking over management of undertaking by State Government.— (1) Nothing in subsection (2) of section 3 or section 4 or in any other provision of this Act shall be deemed to prevent the State Government from taking over the management of the undertaking, the right, title and interest in which vests absolutely in the State Government by virtue of the provisions of sub-section (1) of section 3, or from transferring the management again to any Corporation or new Government company.
+6A. (1) Nothing in sub-section (2) of section 3 or section 4 or in any other provision of this Act shall be deemed to prevent the State Government from taking over the management of the undertaking, the right, title and interest in which vests absolutely in the State Government by virtue of the provisions of sub-section (1) of section 3, or from transferring the management again to any Corporation or new Government company.
 
 (2) On and with effect from such date as the State Government may, by notification in the Official Gazette, direct, the State Government shall take over from the Corporation, the management of the undertaking for management by itself as the owner thereof.
 
