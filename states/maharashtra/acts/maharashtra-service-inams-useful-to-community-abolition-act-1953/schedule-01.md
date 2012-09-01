@@ -1,19 +1,26 @@
 # The Schedule
 
-Year No.
+(iv) Maharashtra Debt Relief Act, 1975 Maharashtra Government Publication
 
-Short Title Extent of cessation of application XI The Bombay Rent-free Estates Act, 1852.
+Notes in the official text:
 
-The whole Act shall cease to apply.
-
-II The Exemptions from Land Revenue (No. 1) Act, 1863.
-
-Do. Do.
-
-XXIII The Pensions Act, 1871.
-
-Do. Do.
-
-Sections 5 and 6.
-
-XI The Invalidation of Hindu Ceremonial Emoluments Act, 1926.
+- Year
+- No.
+- Short Title
+- XI
+- The Bombay Rent-free Estates
+- Act, 1852.
+- . .
+- II
+- The Exemptions from Land
+- Revenue (No. 1) Act, 1863
+- . .
+- XXIII
+- The Pensions Act, 1871
+- . .
+- XI
+- The Invalidation of Hindu
+- . .
+- Ceremonial Emoluments
+- Act, 1926.
+- PRINTED AT THE GOVERNMENT CENTRAL PRESS, MUMBAI
