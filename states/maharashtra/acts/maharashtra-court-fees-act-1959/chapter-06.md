@@ -1,0 +1,3 @@
+# Chapter VI
+
+OF THE MODE OF LEVYING FEES.
