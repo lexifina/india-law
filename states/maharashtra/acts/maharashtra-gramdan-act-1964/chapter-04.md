@@ -1,3 +1,3 @@
 # Chapter IV
 
-ESTABLISHMENT OF MAHARASHTRA Gramdan Board AND Gram Samitis
+ESTABLISHMENT OF MAHARASHTRA Gramdan Board and Gram Samitis.

@@ -1,6 +1,6 @@
-# Section 35A
+# Section 35A. Liability of member for loss, waste or misapplication
 
-35A. Liability of members for loss, waste or mis-application.— (1) Every member of a Gram Mandal shall be personally liable for the loss, waste or mis-application of any money or other property of the Gram Mandal to which he has been a party or which has been caused or facilitated by his misconduct or gross neglect of his duty as a member.
+35A. (1) Every member of a Gram Mandal shall be personally liable for the loss, waste or mis-application of any money or other property of the Gram Mandal to which he has been a party or which has been caused or facilitated by his misconduct or gross neglect of his duty as a member.
 
 (2) If after giving the member concerned a reasonable opportunity for showing cause to the contrary, the Collector is satisfied that the loss, waste or mis-application of any money or other property of the Gram Mandal is a direct consequence of misconduct or gross neglect on his part, the Collector shall by order in writing direct such member to pay the Gram Mandal before a fixed date, the amount required to reimburse for such loss, waste or mis-application. If the amount is not so paid, the Collector shall recover it as an arrear of land revenue and credit it to the Gram Nidhi.
 
