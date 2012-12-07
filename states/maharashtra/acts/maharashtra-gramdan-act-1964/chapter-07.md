@@ -1,3 +1,3 @@
 # Chapter VII
 
-GRAM NIDHI
+MISCELLANEOUS.
