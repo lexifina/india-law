@@ -1,55 +1,44 @@
 # Schedule
 
-[See section 1(4)].
+[See section 1(4)] Bom. XXIII of 1945 . .
 
-No. and year Short title Extent of repeal Bom. XXIII of 1945. . .
+Bombay Beggars Act, 1945 . . The whole.
 
-Bombay Beggars Act, 1945. . .
+Bom. XXII of 1951 . .
 
-The whole.
+Bombay Police Act, 1951 . . Section 114.
 
-Bom. XXII of 1951. . .
+Hyd. Act XX of 1350-F.
 
-Bombay Police Act, 1951. . .
+Prevention of Beggary Act, 1350 The whole.
 
-Section 114. . .
+Fasli.
 
-Prevention of Beggary Act, 1350 Fasli. . .
+C. P. and Berar Act II City of Nagpur Corporation Act, Chapter XXXI. of 1950.
 
-The whole.
+1948.
 
-Hyd. Act XX of 1350 F. . .
+C. P. and Berar Act II Central Provinces and Berar MuniSection 206. of 1922. cipilaties Act, 1922.
 
-City of Nagpur Corporation Act, 1948. . .
+C. P. and Berar Act Central Provinces and Berar Local Section 129.
 
-Chapter XXXI.
+XXXVIII of 1948.
 
-C. P. and Berar Act II of 1950. . .
+Government Act, 1948.
 
-Section 206.
+Sau. Act XVIII of 1954.
 
-C. P. and Berar Act II of 1922. . .
+Saurashtra Police Act, 1954. . . Section 104.
 
-Central Provinces and Berar Municipalities Act, 1922. . .
+Bom. IV of 1890 . .
 
-Section 129.
+Bombay District Police Act, 1890 as Clause (2) of applied to the Kutch Area of the section 61.
 
-C. P. and Berar Act XXXVIII of 1948. . .
+State of Bombay by the Kutch (Application of Laws) Order, 1949.
 
-Central Provinces and Berar Local Government Act, 1948. . .
+Notes in the official text:
 
-Saurashtra Police Act, 1954. . .
-
-Section 104.
-
-Sau. Act XVIII of
-
-1954. . .
-
-Clause (2) of section 61.
-
-Bom. IV of 1890. . .
-
-Bombay District Police Act, 1890 as applied to the Kutch Area of the State of Bombay by the Kutch (Application of Laws) Order,
-
-1949.
+- No. and year
+- Short title
+- GPK.–H 158-4,760 Bks.-11.2013
+- PRINTED AT THE GOVERNMENT PRESS, KOLHAPUR.
