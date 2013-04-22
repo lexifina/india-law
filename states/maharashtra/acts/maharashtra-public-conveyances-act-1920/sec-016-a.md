@@ -1,0 +1,3 @@
+# Section 16A. Licensee to report name of person left in charge of conveyance during his absence
+
+16A. Whenever the licensee of a public conveyance shall be absent from the 2[Greater Bombay] for a period exceeding fifteen days he shall, if the public conveyance is used for the purpose of plying for hire, give, previous to his departure, notice thereof in writing signed by himself to the Commissoner of Police. Such notice shall state the name of the person left in charge of the public conveyance. Such person shall, until the return of the licensee, perform all the duties of a licensee of a public conveyance and be liable to all the penalties to which such licensee is liable under this Act.]
