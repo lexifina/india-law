@@ -1,0 +1,11 @@
+# Preamble
+
+WHEREAS the administration of the public trust of Shri Shirdi Sai Baba Sansthan registered under the †Bombay Public Trusts Act, 1950, under the name "Shirdi Sansthan of Shri Sai Baba" at Shirdi, District Ahmednagar, popularly known as
+
+"Shree Shirdi Sai Baba Sansthan Trust of Shirdi", vests in the Board of Management, under a scheme framed by the City Civil Court, Bombay, in Charity Suit No. 3457 of 1960 under its order dated the 18th October 1982, confirmed by the High Court of Judicature at Bombay in First Appeal No. 320 of 1983, decided on the 23rd July 1984 ;
+
+AND WHEREAS on expiration of the term of five years of the previous Board of Management of Shirdi Sansthan of Shri Sai Baba Trust, the Charity Commissioner has, under his order dated the 31st August 1999, re-constituted the Board of Management of the said Trust ;
+
+AND WHEREAS being aggrieved by the said order dated the 31st August 1999 of the Charity Commissioner in the matter of appointment of Trustees, two Writ Petitions No. 2866 and 2867 of 1999 were filed in the High Court of Judicature at Bombay, and the appointment of one of the Trustees has been quashed and set aside by the Hon'ble High Court ;
+
+AND WHEREAS the said Trust has large properties and is very popular and is highly revered and has very large number of devotees all over India ; * Mah. Ord. XXVII of 2004 was repealed by Mah. IV of 2005, s. 10. ** Mah. Ord. XIV of 2011 was repealed by Mah. XXX of 2011, s. 3. † This short title has been amended as ''the Maharashtra Public Trusts Act" by Mah. 24 of 2012, s. 2, AND WHEREAS the Government of Maharashtra considers it expendient that the development and management of this important and popular Trust should not be hampered or in way suffer by avoidable litigation, and that there should be a separate law to re-constitute the said Trust and to provide for the efficient management of the same by a Committee directly under the supervision and control of the State Government to enable the Trust to carry out its charitable activities more effectively and efficiently and to be able to give more facilities for its devotees and to undertake wider welfare activities from its surplus funds for the general public ; it is hereby enacted in the Fifty-fifth Year of the Republic of India as follows :—
