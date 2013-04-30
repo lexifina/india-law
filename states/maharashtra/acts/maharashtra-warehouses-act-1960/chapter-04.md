@@ -1,3 +1,3 @@
 # Chapter IV
 
-INSPECTION AND GRADING OF GOODS
+Inspection and Grading of Goods.

@@ -1,3 +1,3 @@
 # Chapter V
 
-WAREHOUSE RECEIPTS
+Warehouse Receipts.

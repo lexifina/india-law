@@ -1,27 +1,49 @@
 # Schedule
 
-[See section 2(c).] I. Fibres—
+[See Section 2 (c).] I.
+
+Fibres—
 
 (1) Cotton (ginned and unginned).
 
 (2) Raw jute.
 
-II. Food-stuffs including edible oils.
+II.
 
-III. Oil-seeds.
+Food-stuffs including edible oils. ifi.
 
-IV. Tobacco.
+Oil-seeds.
 
-V. Gul.
+1V.
 
-VI. Vegetable oils.
+Tobacco.
 
-VII. Cattle-fodder including oil-cakes and other concentrates.
+V.
 
-VIII. Seeds.
+Gul.
 
-IX. Manures.
+VI.
 
-X. Fertilisers.
+Vegetable oils.
 
-XI. Agricultural implements.
+VII.
+
+Cattle-fodder including oil-cakes and other concentrates.
+
+Vifi.
+
+Seeds.
+
+IX..
+
+Manures.
+
+X..
+
+Fertilisers.
+
+XI.
+
+Agricultural implements.
+
+Printed At the Government Photozinco Press, Pune-1.

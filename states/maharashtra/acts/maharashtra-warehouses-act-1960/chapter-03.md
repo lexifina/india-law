@@ -1,3 +1,3 @@
 # Chapter III
 
-DUTIES OF WAREHOUSEMAN
+Duties of Warchouseman.
