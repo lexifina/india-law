@@ -1,0 +1,9 @@
+# Section 7J. Recovery of charges and rents due to company
+
+7J. (1) Where a consumer neglects to pay any charge due from him to the company for the supply of gas or the testing of meter or the calorific value, pressure or purity of gas or any rent due for any meter or fitting let for hire by the company, the company may after giving not less than seven clear day's notice in writing and without prejudice to its right to recover such charge or rent by suit, stop the gas from entering the premises of such consumer by cutting off the service-pipes or the such means as the company shall think fit.
+
+(2) When the company stops the gas from entering the premises of any consumer under sub-section (1), the company, their agents or workmen after giving twenty four hours' previous notice to the occupiers may enter into such premises between the hours of nine in the forenoon and four in the afternoon, and recover and carry away any pipe meter, fittings or other works, being the property of the company.
+
+(3) When any dispute has been referred under this Act to the Inspector, the company shall not exercise the powers conferred by this section until the Inspector has given his decision or until the expiry of one month from the date on which the dispute was referred to the Inspector, whichever is earlier.
+
+(4) When the supply of gas has been stopped by the company under this Section the company shall not be bound to restore the supply of gas, until the consumer has paid to the company such re-connection charges, if any, as may be prescribed.
