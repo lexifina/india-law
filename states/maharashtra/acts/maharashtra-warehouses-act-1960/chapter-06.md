@@ -1,3 +1,3 @@
 # Chapter VI
 
-MISCELLANEOUS
+Miscelianeons.

@@ -1,3 +1,3 @@
 # Chapter II
 
-LICENSING OF BUSINESS OF WAREHOUSING
+Licensing of Business of Warehousing.
