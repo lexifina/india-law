@@ -1,107 +1,65 @@
 # Schedule I
 
-(See Section 17) Serial Name of College/ No.
-
-School Degree/ Diploma
-
-(1)
-
-(2) Name of University
-
-(3)
-
-(4) B.O.Th.
-
-Seth G. S. Medical College, Department of Occupational Therapy, Parel, Mumbai 400 012.
-
-(1) Maharashtra University of Health Sciences, Nasik.
-
-B. Sc.(O.T)
-
-(2) Mumbai University, Mumbai.
-
-B.O.Th.
-
-(1) Maharashtra University of Health Sciences, Nasik.
-
-T. N. Medical College, Department of Occupational Therapy, Mumbai Central, Mumbai 400 008.
-
-B. Sc.(O.T)
-
-(2) Mumbai University, Mumbai.
-
-(1)
-
-(2) Occupational Therapy School and Centre, L.T.M. Medical College, Sion, Mumbai 400 012.
-
-Dr. D. Y. Patil Pratishthan's College of Physiotherapy and Occupational Therapy, Kasba Bawda, Kolhapur.
-
-Government Medical College, Department of Occupational Therapy, Nagpur 440 001.
-
-Physiotherapy and Occupational Therapy, College, Aurangabad.
-
-Navalbhau Pratishthan's College of Physiotherapy and Occupational Therapy, Dhule.
-
-Serial Name of College/ No.
+(See section 17) Serial Name of College/ No.
 
 School
 
 (1)
 
-(2) Seth G. S. Medical College, Parel, Mumbai 400 012.
+(2)
 
-Topiwalas National Medical College, Mumbai Central, Byculla, Mumbai 400 008.
+(3) 1 Seth G. S. Medical College,
 
-(3)
+(1) Parel, Mumbai-400 012.
 
-(4)
+(2) 2 Topiwala National Medical
 
-(1) Maharashtra B.O.Th.
+(1) College, Mumbai Central, Byculla, Mumbai-400 008.
 
-University of Health Sciences, Nasik.
+(2) 3 Physiotherapy Teaching
 
-B. Sc.(O.T)
+(1) and Treatment Centre, L.T.M. Medical College, Vir Laxmibai Kelkar Marg,
 
-(2) Mumbai University, Mumbai.
+(2) Sion, Mumbai-400 022. 4 Physiotherapy School
 
-(1) Maharashtra B.O.Th.
+(1) and Centre, Government Medical College, Nagpur.
 
-University of Health Sciences, Nasik.
+(2) 5 V.S.P.M.'s College of
 
-(1) Maharashtra B.O.Th.
+(1) Physiotherapy, Hingna Road, Nagpur.
 
-University of Health Sciences, Nasik.
+(2) 6 Sancheti College of
 
-(2) Nagpur University, B. Sc.(O.T) Nagpur.
+(1) Physiotherapy, Shivaji nagar, Pune.
 
-(1) Maharashtra B.O.Th.
+(2) 7 College of Physiotherapy
 
-University of Health Sciences, Nasik.
+(1) Nigadi, Pune.
 
-(1) Maharashtra B.O.Th.
+(2) Name of Degree/ University Diploma
 
-University of Health Sciences, Nasik.
+(4) Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-Name of Degree/ University Diploma
+Mumbai B.Sc. (P.T.) University, Mumbai.
 
-(3)
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-(4)
+Mumbai B.Sc. (P.T.) University, Mumbai.
 
-(1) Maharashtra B.P.Th.
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-University of Health Sciences, Nasik.
+Mumbai B.Sc. (P.T.) University, Mumbai.
 
-B. Sc.(P.T)
+Maharashtra University B.P.Th. of Health Sciences, Nasik, Nagpur B.Sc. (P.T.) University, Nagpur.
 
-(2) Mumbai University, Mumbai.
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-(1) Maharashtra B.P.Th.
+Nagpur B.Sc (P.T.) University, Nagpur.
 
-University of Health Sciences, Nasik.
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-B. Sc.(P.T)
+Pune University, B.Sc. (P.T.) Pune.
 
-(2) Mumbai University, Mumbai
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-SCHEDULE I–contd.
+Pune University, B.Sc. (P.T.) Pune.

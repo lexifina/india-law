@@ -1,101 +1,45 @@
 # Schedule Ii
 
-(See Section 17)
+(See section 17) Serial Name of College/ No.
+
+School
 
 (1)
 
-(2) Physiotherapy Teaching and Treatment Centre, L.T.M. Medical College, Vir Laxmibai Kelkar Marg, Sion, Mumbai 400 022.
+(2) 8 Dr. D. Y. Patil's
 
-Physiotherapy School and Centre, Government Medical College, Nagpur.
+(1) Chaitanya College of Physiotherapy, Pimpri, Pune.
 
-V.S.P.M.'s College of Physiotherapy, Hingna Road, Nagpur.
+(2) 9 Pravara College of
 
-Sancheti College of Physiotherapy, Shiwaji Nagar, Pune.
+(1) Physiotherapy, Loni (B.K.)., Ahmednagar.
 
-College of Physiotherapy, Nigadi, Pune.
+(2) 10 Ravi Nair Physiotherapy
 
-Dr. D. Y. Patil's Chaitanya College of Physiotherapy, Pimpari, Pune.
+(1) College, Sawangi (Meghe), Wardha. 11 DYPES'S Medical College,
 
-Pravara College of Physiotherapy, Loni (BK), Ahamednagar.
+(1) Kasba Bawda, Kolhapur. 12 Physiotherapy and
 
-Ravi Nair Physiotherapy College, Sawangi
+(1) Occupation Therapy College, Aurangabad. 13 Ramrao Adik Education
 
-(Meghe), Wardha.
+(1) Society's Dr. D. Y. Patil College of Physiotherapy, New Mumbai.
 
-(3)
-
-(4)
-
-(1) Maharashtra B.P.Th.
-
-University of Health Sciences, Nasik.
-
-(2) Mumbai University, B. Sc.(P.T) Mumbai.
-
-(1) Maharashtra B.P.Th.
-
-University of Health Sciences, Nasik.
-
-(2) Nagpur University, B. Sc.(P.T) Nagpur.
-
-(1) Maharashtra B.P.Th.
-
-University of Health Sciences, Nasik.
-
-(2) Nagpur University, B. Sc.(P.T) Nagpur.
-
-(1) Maharashtra B.P.Th.
-
-University of Health Sciences, Nasik.
-
-(2) Pune University, B. Sc.(P.T) Pune.
-
-(1) Maharashtra B.P.Th.
-
-University of Health Sciences, Nasik.
-
-(2) Pune University, B. Sc.(P.T) Pune.
-
-(1) Maharashtra B.P.Th.
-
-University of Health Sciences, Nasik.
-
-(2) Pune University, B. Sc.(P.T) Pune.
-
-(1) Maharashtra B.P.Th.
-
-University of Health Sciences, Nasik.
-
-(2) Pune University, B. Sc.(P.T) Pune.
-
-(1) Maharashtra B.P.Th.
-
-University of Health Sciences, Nasik.
-
-SCHEDULE II–contd.
-
-SCHEDULE II–contd.
-
-(1)
-
-(2)
+Name of Degree/ University Diploma
 
 (3)
 
-(4) B.P.Th.
+(4) Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-DYPES'S Medical College, Kasba Bawda, Kolhapur.
+Pune University, B.Sc. (P.T.) Pune.
 
-(1) Maharashtra University of Health Sciences, Nasik.
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-B.P.Th.
+Pune University, B.Sc. (P.T.) Pune.
 
-Physiotherapy and Occupational Therapy College, Aurangabad.
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-(1) Maharashtra University of Health Sciences, Nasik.
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-B.P.Th.
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
 
-(1) Maharashtra University of Health Sciences, Nasik.
-
-Ramrao Adik Education Society's Dr. D. Y. Patil College of Physiotherapy, New Mumbai.
+Maharashtra University B.P.Th. of Health Sciences, Nasik.
