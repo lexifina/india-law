@@ -1,3 +1,0 @@
-# Chapter III
-
-FUNCTIONS OF THE COUNCIL
