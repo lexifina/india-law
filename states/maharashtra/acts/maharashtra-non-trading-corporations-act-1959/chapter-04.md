@@ -1,3 +1,5 @@
 # Chapter IV
 
-ARBITRATION AND WINDING UP Arbitration.
+ARBITRATION AND WINDING UP.
+
+Arbitration.
