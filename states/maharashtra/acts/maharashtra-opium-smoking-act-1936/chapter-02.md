@@ -1,3 +1,13 @@
 # Chapter II
 
-8[PROHIBITIONS]
+1[PROHIBITIONS] 2[3.
+
+Subject to the provisions of this section, no person shall—
+
+(a) smoke opium, or
+
+(b) possess, for the purpose of smoking opium, any instrument of smoking, or
+
+(c) keep any apparatus or instrument for the purpose of preparing opium for smoking :
+
+Provided that the aforesaid provisions shall not apply to a person who before the commencement of the Bombay Opium Smoking (Extension and Amendment) Act, 1959, was duly permitted to possess opium (other than prepared opium) for the purpose of smoking by or under the provisions of any law in force in any part of the 3[State of Bombay] so long as such permission has not expired, is not withdrawn or is otherwise in force.]
