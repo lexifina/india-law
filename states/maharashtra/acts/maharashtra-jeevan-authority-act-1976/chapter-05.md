@@ -1,3 +1,3 @@
 # Chapter V
 
-FEES AND CHARGES
+FEES AND CHARGES.
