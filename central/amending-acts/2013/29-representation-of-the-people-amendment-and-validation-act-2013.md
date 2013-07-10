@@ -1,0 +1,31 @@
+# The Representation of the People (Amendment and Validation) Act, 2013
+
+Act 29 of 2013, as enacted.
+
+# Preamble
+
+An Act further to amend the Representation of the People Act, 1951.
+
+BE it enacted by Parliament in the Sixty-fourth Year of the Republic of India as follows:—
+
+# Section 1. Short title and commencement
+
+1. (1) This Act may be called the Representation of the People (Amendment and Validation) Act, 2013.
+
+(2) It shall be deemed to have come into force on the 10th day of July, 2013.
+
+# Section 2. Amendment of section 7
+
+2. In the Representation of the People Act, 1951 (hereinafter referred to as the principal Act), in section 7, in clause (b), after the words "or Legislative Council of a State", the words
+
+"under the provisions of this Chapter, and on no other ground" shall be inserted.
+
+# Section 3. Amendment of section 62
+
+3. In section 62 of the principal Act, after the proviso to sub-section (5), the following proviso shall be inserted, namely:—
+
+"Provided further that by reason of the prohibition to vote under this sub-section, a person whose name has been entered in the electoral roll shall not cease to be an elector.".
+
+# Section 4. Validation
+
+4. Notwithstanding anything contained in any judgment, decree or order of any court, tribunal or other authority, the provisions of the Representation of the People Act, 1951, as amended by this Act, shall have and shall be deemed always to have effect for all purposes as if the provisions of this Act had been in force at all material times.
