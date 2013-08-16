@@ -1,3 +1,7 @@
 # Chapter III
 
-MISCELLANEOUS
+
+
+Notes in the official text:
+
+- MISCELLANEOUS
