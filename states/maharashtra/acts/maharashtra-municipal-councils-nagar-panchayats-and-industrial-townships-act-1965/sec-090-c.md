@@ -1,6 +1,6 @@
-# Section 90C
+# Section 90C. Powers of Council to borrow money
 
-90C. Powers of Council to Borrow money.— (1) The Council may, from time to time, borrow or re-borrow and take up at interest from the State Government or from any financial institution with the previous sanction of the State Government, by the issue of debentures or otherwise on the security of any immovable property vested in the Council or proposed to be acquired by it under this Act or of all the taxes or of any tax which it is authorised to levy for the purposes of this Act or of all or any of those securities, any sum necessary for the purpose of,—
+90C. (1) The Council may, from time to time, borrow or re-borrow and take up at interest from the State Government or from any financial institution with the previous sanction of the State Government, by the issue of debentures or otherwise on the security of any immovable property vested in the Council or proposed to be acquired by it under this Act or of all the taxes or of any tax which it is authorised to levy for the purposes of this Act or of all or any of those securities, any sum necessary for the purpose of,—
 
 (a) defraying any costs, charges or expenses, incurred or to be incurred by it, in the execution of this Act,
 
@@ -8,7 +8,7 @@
 
 (c) making good any deficit in budget estimate,
 
-(d) generally, carrying out the purposes of this Act, including the advance of loans authorized thereunder:
+(d) generally, carrying out the purposes of this Act, including the advance of loans authorized thereunder :
 
 Provided that,—
 
@@ -18,7 +18,7 @@ Provided that,—
 
 (iii) the period within which the loan is to be repaid shall in no case exceed sixty years and, where a loan is raised for the repayment of a previous loan, the period within which the subsequent loan is to be repaid shall not extend beyond the unexpired portion of the period fixed for the repayment of the original loan, unless the State Government so directs, and shall in no case extend beyond the period of sixty years from the date on which the original loan was raised.
 
-(2) When any sum of money has been borrowed or re-borrowed under sub-section (1),—
+(2) When any sum of money has been borrowed or re-borrowed under subsection (1),—
 
 (a) no portion thereof shall, without the previous sanction of the State Government, be applied to any purpose other than that for which it was borrowed; and
 

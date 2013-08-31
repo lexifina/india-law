@@ -1,6 +1,6 @@
 # Schedule Viii
 
-[See sub-section (1) of section 281] Articles which shall not be kept in or upon any premises without a licence.
+[See sub-section (1) of section 281] Articles which shall not he kept in or upon any premises without a licence.
 
 (1) dynamite,
 

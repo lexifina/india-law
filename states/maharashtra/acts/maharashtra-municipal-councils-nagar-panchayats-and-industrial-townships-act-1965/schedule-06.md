@@ -1,4 +1,4 @@
-# Schedule Vii
+# Schedule Vii.
 
 (See section 280) Purposes for which any premises shall not be used without a licence.
 
@@ -34,4 +34,8 @@
 
 (16) as a manufactory or place of business of any other kind, from which offensive of unwholesome smells arise or which may involve the risk of fire and is or is likely to become by reasons of such use and of its situation a nuisance to the neighbourhood.
 
-Explanation.— For the purpose of item (16), nuisance shall include any contamination of the atmosphere whereby a deposit of soot is caused or any mechanical noise.
+Explanation.—For the purpose of item (16), nuisance shall include any contamination of the atmosphere whereby a deposit of soot is caused or any mechanical noise.
+
+Notes in the official text:
+
+- The words "of demand" were deleted by Mah. 10 of 2010 s. 112.

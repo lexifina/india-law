@@ -1,3 +1,3 @@
 # Chapter XXIII
 
-CONTROL
+CONTROL.
