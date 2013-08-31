@@ -1,5 +1,5 @@
 # Chapter VI
 
-CONDUCT OF BUSINESS
+CONDUCT OF BUSINESS.
 
 (1) Meetings.

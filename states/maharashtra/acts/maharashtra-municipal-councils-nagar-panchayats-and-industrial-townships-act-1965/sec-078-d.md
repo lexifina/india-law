@@ -1,6 +1,6 @@
-# Section 78D
+# Section 78D. Nonapplication of provisions of section 78C in certain circumstances
 
-78D. Non-application of provisions of section 78C in certain circumstances.— Nothing in section 78C shall apply to,—
+78D. Nothing in section 78C shall apply to,—
 
 (i) sub-judice matters;
 
@@ -10,6 +10,11 @@
 
 (iv) cases related to the Central or other State Governments;
 
-(v) cases related to Legislation; and
+(v) cases related to Legislation ; and
 
 (vi) cases involving major policy decisions.]
+
+Notes in the official text:
+
+- Punishment
+- of officers and

@@ -1,5 +1,5 @@
 # Chapter II
 
-MUNICIPAL COUNCILS
+MUNICIPAL COUNCILS.
 
 (1) Municipal areas and their classification.
