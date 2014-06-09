@@ -1,0 +1,13 @@
+# Section 397A. Penalty for failure to comply with notice under section 260, 261, 264,
+
+397A. (1) Any person to whom the notice under section 260, 261, 264, 267 or 478 has been served, shall on his failure to comply with such notice,—
+
+(a) for restoration of the foundation, plinth, floor or structural members or load bearing wall, thereby endangering the life and property of any person occupying, resorting to or passing by such building or any other building or place in the neighbourhood thereof, be punished with imprisonment for a term which shall not be less than three months but which may extend upto three years and with a fine which shall not be less than ten thousand rupees but which may extend to fifty thousand rupees; and where the contravention is a continuing one, with a further fine which may extend to one thousand rupees for each day during which such contravention continues after conviction for the first such contravention; or
+
+(b) for removing, pulling down the unauthorised work, be punished with imprisonment for a term which shall not be less than one month but which may extend to one year and with a fine which shall not be less than five thousand rupees but which may extend to twentyfive thousand rupees; and where the contravention is a continuing one, with a further fine which may extend to five hundred rupees for each day during which such contravention continues after conviction for the first such contravention.
+
+(2) Where it has been brought to the notice of the Designated Officer that erection of any building or execution of any such work as is described in section 254 is commenced or carried out contrary to the provisions of the Act, rules or bye-laws and if such Designated Officer has failed, without sufficient reasons, to take action as provided under section 260, 264, 267 or 478, he shall, on conviction, be punished with imprisonment for a term which may extend to three months, or with fine which may extend to twenty thousand rupees, or with both.
+
+Notes in the official text:
+
+- 267 or 478.
