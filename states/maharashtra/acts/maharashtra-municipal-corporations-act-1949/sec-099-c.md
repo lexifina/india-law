@@ -1,0 +1,7 @@
+# Section 99C. Provisions of section 99B not to apply to Local Body Tax to be first levied
+
+99C. In the event it is decided first time to levy Local Body Tax specified in clause (aaa) of sub-section (2) of section 127, if the Local Body Tax cannot, by following the provisions of section 99B and the other relevant provisions of this Act, be brought into force on the 1st day of April of any year, then in that case, notwithstanding anything contained in section 99B, the State Government may, by notification in the Official Gazette, subject to the limitations and conditions laid down in Chapter XIB and the rules, determine the rates at and the extent to which and the date from which, the Local Body Tax shall be levied; and thereupon, the Local Body Tax shall be levied at the rates, extent and from the date so notified, and all the relevant provisons of this Act shall, so far as may be, apply to the Local Body Tax as if the procedure laid down by section 99B and the other provisions of this Act had been followed.] 2[99D.
+
+(1) Notwithstanding anything contained in section 99B or 99C, the State Government may at any time, by notifiation in the Official Gazette and for reasons to be specified in such notification revise the rates and extent of the Local Body Tax determined under section 99B, or, as the case may be, under section 99C.
+
+(2) Every notification issued under sub-section (1) shall be laid, as soon as may be, after it is issued, before each House of the State Legislature.]

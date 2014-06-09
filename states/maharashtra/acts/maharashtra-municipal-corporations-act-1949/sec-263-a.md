@@ -1,0 +1,7 @@
+# Section 263A. Power to require demolition or alteration of lawfully constructed huts or sheds infringing rules or bye-laws
+
+263A. (1) If any hut or shed erected or constructed before the appointed day is contrary to the provisions of any rules or bye-laws relating to the erection or construction of huts or sheds, and it appears to the Commissioner that it is necessary in the public interest that such hut or shed or any part thereof be demolished or altered, the Commissioner may by written notice require the owner thereof to demolish or alter such hut or shed or any part thereof, or on or before such date, as may be specified in such notice, by writing subscribed by the owner or an agent duly authorised in that behalf and addressed to the Commissioner, show a sufficient cause why such hut or shed should not be demolished or so altered.
+
+(2) If such person fails to show sufficient cause to the satisfaction of the Commisssiner why such hut or shed or any part thereof should not be demolished or so altered, he shall demolish or alter the hut or shed within such time as he is required so to do by the Commissioner ; and if he fails to do so, the Commissioner may demolish or alter the hut or shed.
+
+(3) The Commissioner shall pay compensation to every person who sustains loss or damage by the demolition or alteration as aforesaid of any hut or shed (including any cost of demolition or alteration).] Dangerous Structures.
