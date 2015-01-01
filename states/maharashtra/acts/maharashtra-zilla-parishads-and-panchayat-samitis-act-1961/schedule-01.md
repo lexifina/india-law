@@ -1,8 +1,8 @@
-# First Schedule
+# First Schedule.
 
 (See section 100).
 
-SUBJECTS OFACTIVITIES (INCLUDING DEVELOPMENTACTIVITIES) Agriculture. 1* * * * * *
+SUBJECTS OFACTIVITIES (INCLUDING DEVELOPMENTACTIVITIES) Agriculture. 1[1* * * * * *]
 
 2. Crop competitions.
 
@@ -26,15 +26,15 @@ SUBJECTS OFACTIVITIES (INCLUDING DEVELOPMENTACTIVITIES) Agriculture. 1* * * * * 
 
 12. Air compressors.
 
-13. Khar land development.] 3[Animal Husbandry and Dairy Development.]
+13. Khar land development]. 3[Animal Husbandry and Dairy Development.]
 
 14. Veterinary aid (excluding District Veterinary Hospitals but including veterinary dispensaries, veterinary aid centres and village veterinary chests).
 
 15. Improvement of breed of cattle, horses and other livestock (including artificial insemination sub-centres, key village centres, premium bull centres, fodder development plots, silo pits, formation of taluka and district livestock improvement associations and the like, and distribution of improved breed of sheep).
 
-16. Distribution of improved poultry.
+16. Distribution of improved poulty.
 
-17. Organisation of cattle shows and rallies. 4[17-a. Intensive piggery development. 17-b. Intensive poultry development. 17-c. Intensive cattle development.] 5[17-d. Dairy Development.] Forests.
+17. Organisation of cattle shows and rallies. 4[17-a. Intensive piggery development. 17-b. intensive poultry development. 17-c. Intensive cattle development.] 5[17-d. Dairy Development.] Forests.
 
 18. Village forests and grazing lands (including measures for development of village woodlands for purposes of pasture and fuel).
 
@@ -48,11 +48,11 @@ Social Welfare.
 
 20. Economic development of backward classes, including—
 
-(1) giving of financial assistance to individual cultivators in the form of loans and subsidies for the purpose of purchasing agricultural requisities; 1* * * * * *
+(1) giving of financial assistance to individual cultivators in the form of loans and subsidies for the purpose of purchasing agricultural requisities ; 1[ * * * * * *]
 
 (3) supply of spining wheels to Vimukta Jatis;
 
-(4) development of communications in backward areas; 2* * * * * *
+(4) development of communications in backward areas ; 1[ * * * * * *]
 
 (6) establishment of handicrafts centres; and
 
@@ -62,7 +62,7 @@ Social Welfare.
 
 (1) Celebration of Harijan weeks;
 
-(2) Zunka-bhakar programme;
+(2) Zunka-bhakar programme ;
 
 (3) encouragement of inter-caste marriages between caste—Hindus and Harijans; and
 
@@ -78,11 +78,11 @@ Social Welfare.
 
 (4) organisation of entertainment programmes for backward classes;
 
-(5) holding social melas;
+(5) holding social melas ;
 
-(6) Sanskar Kendras, community-cum-recreation centres and community halls for backward classes;
+(6) Sanskar Kendras, community-cum-recreation centres and community halls for backward classes ;
 
-(7) supply of clothes to Vimukta Jatis;
+(7) supply of clothes to Vimukta Jatis ;
 
 (8) financial assistance to individuals for purchase of medicines, and giving of grants to voluntary agencies for administering medical relief;
 
@@ -98,7 +98,7 @@ Social Welfare.
 
 Education.
 
-24. Establishment, management, maintenance, inspection and visiting of primary schools and basic schools including grants to aided schools but excluding items relating to—
+24. Establishment, management, maintenance, inspection and visiting of , primary schools and basic schools including grants to aided schools but excluding items relating to—
 
 (i) laying down of syllabus;
 
@@ -106,9 +106,9 @@ Education.
 
 (iii) conducting scholarship examinations;
 
-(iv) conducting primary school certificate examination and standard IV examination in Vidarbha; and
+(iv) conducting primary school certificate examination and standard IV examination in Vidarbha ; and
 
-(v) such other powers as are vested in the State Government under the 1Bombay Primary Education Act, 1947.
+(v) such other powers as are vested in the State Government under the *Bombay Primary Education Act, 1947.
 
 25. Establishment, management, maintenance, inspection and visiting of secondary schools excluding items relating to—
 
@@ -150,13 +150,11 @@ Medical.
 
 34. Grant of financial assistance to institutions giving anti-rabic treatment to indigent persons.
 
-35. Grant-in-aid to private charitable hospitals, dispensaries, maternity homes and other such institutions.
+35. Grant-in-aid to private charitable hospitals, dispensaries, maternity homes, and other such institutions.
 
 Ayurveda.
 
-36. Ayurvedic, Unani and Homoeopathic Dispensaries (including the giving of grants to such dispensaries).]
-
-37. Replenishing stock of Ayurvedic, Unani and Homoeopathic medicine chests in villages.] Public Health.
+36. Ayurvedic, Unani and Homoeopathic Dispensaries (including the giving of grants to such dispensaries).] 2[(37. Replenishing stock of Ayurvedic, Unani and Homoeopathic medicine chests in villages.] Public Health.
 
 38. Primary Health Centres.
 
@@ -168,7 +166,7 @@ Ayurveda.
 
 42. School Health Service.
 
-43. Measures for treatment of Anti-yaws. 4* * * * * *
+43. Measures for treatment of Anti-yaws. 4[* * ].
 
 45. Maintenance of medicine boxes in villages.
 
@@ -186,7 +184,7 @@ Buildings and Communications.
 
 (i) Village roads;
 
-(ii) Other District Roads;
+(ii) Other District Roads ;
 
 (iii) Major District Roads; and
 
@@ -194,31 +192,29 @@ Buildings and Communications.
 
 51. Rural Parks and Gardens (excluding National Parks and Gardens).
 
-52. Construction of administrative and other buildings in connection with Zilla Parishad's requirements.
+52. Construction of administrative and other buildings in connection withZilla Parishad's requirements.
 
 53. Means of communications other than roads.
 
 54. Public ferries.
 
-55. Maintenance of trees in the vicinity of roads. 5* * * * * * 1[Public Health Engineering.
+55. Maintenance of trees in the vicinity of roads. 5[* * ]. 1[Public Health Engineering
 
 58. Rural Water Supply ..
 
+59. Protected Water Supply for .. fairs in rural areas.
+
+60. Rural drainage. ..
+
 (i) Construction, maintenance and repairs of schemes with a net capital cost of less than rupees 2[five lakhs] in each case.
 
-59. Protected Water Supply for fairs in rural areas.
+(ii) Construction of schemes with a net capital cost of more than rupees 2[five lakhs but less than rupees ten lakhs] as the State Government may allow to be undertaken in any individual case.
 
-60. Rural drainage. .. ..
+(iii) Maintenance of and repairs to schemes
 
-(ii) Construction of schemes with a net capital cost of more than rupees 3[five lakhs but less than rupees ten lakhs] as the State Government may allow to be undertaken in any individual case.
+61. Works for preservation from pollution of water for drinking, bathing and cooking. with a net capital cost of more than rupees 2[five lakhs] in each case.] Irrigation.
 
-61.
-
-Works for preservation from pollution of water for drinking, bathing and cooking.
-
-(iii) Maintenance of and repairs to schemes with a net capital cost of more than rupees 4[five lakhs] in each case.] Irrigation.
-
-62. Minor Irigation works (only those works which irrigate 250 hectares or less each, 6[and those lift irrigation works which irrigate upto 100 hectares]]. 7* * * * * 8* * * * * Publicity.
+62. Minor Irigation works (only those works which irrigate 250 hectares or less each, 4[and those lift irrigation works which irrigate upto 100 hectares]]. 5[* *] 6[* *] Publicity.
 
 84. Mobile Publicity Vans.
 
@@ -244,7 +240,7 @@ Social Education.
 
 93. Kisan Melas.
 
-94. Conducted tours within the State, and with the previous permission of State Government, outside the State.]
+94. Conducted tours within the State, and with the previous permission of State Government, outside the State].
 
 95. Dissemination of information.
 
@@ -268,7 +264,7 @@ Miscellaneous.
 
 103. Village uplift.
 
-104. Building model villages (including grants and loans for the purpose).
+104. Building model villages (including grants and loans for the prupose).
 
 105. Economic welfare of villages.
 
@@ -276,21 +272,27 @@ Miscellaneous.
 
 107. Markets.
 
-108. Dharmashalas, rest-houses, travellers' bungalows, sarais and the like.
+108. Dharmashalas, real-houses, travellers' bunglows, sarais and the like.
 
-109. Chawdis.
+109.
+
+Chawdis.
 
 110. Other public institutions.
 
-111. Local unemployment other than industrial unemployment.
+111.
 
-112. Improvement and extension of village sites (including grants and loans for the purpose).
+Local unemployment other than industrial unemployment.
+
+112.
+
+Improvement and extension of village sites (including grants and loans for the purpose).
 
 113. Laying new village sites (including grants and loans for the purpose).
 
 114. Well-being of employees of Zilla Parishads.
 
-115. Provisions of 2[house sites or houses] for employees of Zilla Parishads.
+115. Provisions of 1[house sites or houses] for employees of Zilla Parishads.
 
 116. Planting and preservation of trees on public grounds and gardens.
 
@@ -308,58 +310,53 @@ Miscellaneous.
 
 123. Maintenance of poor-houses.
 
-124. Securing 2[or continuing] postal facilities of experimental post offices in the villages within the District, where the village panchayats are not, for good and sufficient reason, able to do so by providing for payment of non-refundable contribution to the Posts and Telegraphs Department, wherever necessary].
+124. Securing 3[or continuing] postal facilities of experimental post offices in the villages within the District, where the village panchayats are not, for good and sufficient reason, able to do so by providing for payment of non-refundable contribution to the Posts and Telegraphs Department, wherever necessary].
 
 125. Propagation of gramdan and bhoodan movements.]
 
-126. Panchayat Raj Training Centre (only to the extent of securing proper selection of trainees and satisfactory attendance at the Training Centre and of making provision for the travelling and daily allowances to the numbers of the Managing Committee of the Centre).]
+126. Panchayat Raj Training Centre (only to the extent of securing proper selection of trainees and satisfactory attendance at the Training Centre and of making provision for the travelling and daily allowances to the numbers of the Managing Committee of the Centre)].
 
 127. Monetary grants to members of a family of a deceased member of the armed forces of the Union.
 
-Explanation.— The expression "members of a family" in relation to a deceased member of the armed forces of the Union means his widow, son, son's son, unmarried daughter, father or mother.]
+Explanation.—The expression "members of a family", in relation to a deceased member of the armed forces of the Union, means his widow, son, son's son, unmarried daughter, father or mother.]
 
 128. Monetary grant for freedom-fighter or members of the family of the deceased freedom-fighter residing in rural areas who do not get any financial assistance from the State Government.]
 
-129. Construction, maintenance and renting of buildings for housing the branches of the Banks nationalised by the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970) and the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1980 (40 of 1980) and other Commercial Banks which are promoting rural development by providing credit to rural people especially for agricultural purpose.]
+129. Construction, maintenance and renting of buildings for housing the branches of the Banks nationalised by the Banking Companies (Acquisition and Transfer of Undertakings)Act, 1970 (5 of 1970) and the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1980 (40 of 1980) and other Commercial Banks which are promoting rural development by providing credit to rural people especially for agricultural purpose.]
 
 Notes in the official text:
 
-- Entry 1 was deleted by Mah. 6 of 1975, s. 48 (a)(i).
-- These entries were substituted for the original entries 12 and 13 by Mah. 6 of 1975, s. 48(a)(ii).
-- This heading was substituted for the heading "Animal Husbandry", vide G. N., R. D. D., No. ZPA/ 1277/
-- 4513/(802)(i)/XII, dated the 18th July 1980.
-- These entries were inserted by Mah. 6 of 1975, s. 48(b).
-- Entry 17-d was added vide G. N., R. D. D., No. ZPA 1277/4513/(802)(i)/XII, dated the 18th July 1980.
-- Clauses (2) and (5) of entry 20 were deleted by G. N., R. D. D., No. ZPA 1072/52193-(l) N, dated the
+- 1 Entry 1 was deleted by Mah. 6 of 1975, s. 48 (a)(i).
+- 2 These entries were substituted for the original entries 12 and 13 by Mah. 6 of 1975, s. 48(a)(ii).
+- 3 This heading was substituted for the heading "Animal Husbandry", vide G. N., R. D. D., No. ZPA/
+- 1277/ 4513/(802)(i)/XII, dated the 18th July 1980.
+- 4 These entries were inserted by Mah. 6 of 1975, s. 48(b).
+- 5 Entry 17-d was added, vide G. N., R. D. D., No. ZPA 1277/4513/(802)(i)/XII, dated the 18th July 1980.
+- 1 Clauses (2) and (5) of entry 20 were deleted by G. N., R. D. D., No. ZPA 1072/52193-(l) N, dated the
 - 1st October 1973.
-- Clauses (2) and (5) of entry 20 were deleted by G. N., R. D. D., No. ZPA 1072/52193-(l) N, dated the
-- 1st October 1973.
-- Now, the short title of the Act has been amended as "the Maharashtra Primary Education Act (LXI of 1947) by Mah. 24
-- of 2012, ss. 2 and 3, Schedule, entry 28, with effect from the 1st May 1960.
-- Entry 36 was substituted by G. N., R. D. D., No. ZPA1068/35855-N, dated the 11th March 1969.
-- Entry 37 was substituted by G N., R. D. D., No. ZPA 1070/2252-N, dated the 2nd June 1970.
-- These words were substituted for the words "Combined Medical and Public Health Unit" by G. N., U. D. P. H. and H.
-- D., No. PHC 3170/50377-S, dated the 25th November 1971.
-- Entry 44 was deleted by Mah. 6 of 1975, s. 48(c).
-- Entries 56 and 57 were deleted by Mah. 6 of 1975, s. 48(d).
-- The heading and entries 58 to 61 were substituted by G. N., R. D. D., No. ZPA 1070/11581-N, dated the
-- This was substituted by G. N.. R. D. D., No. GRAPAPU-1092/CR-378/39A, dated the 20th May 1992.
-- This was substituted by G. N.. R. D. D., No. GRAPAPU-1092/CR-378/39A, dated the 20th May 1992.
-- This was substituted by G. N.. R. D. D., No. GRAPAPU-1092/CR-378/39A, dated the 20th May 1992.
-- Entry 62 was substituted by G. N., R. D. D., No. ZPE-1192/475/CR-(369)/04, dated the 2nd June 1992.
-- These words and figures were substituted for the words, letters and figure "and those lift irrigation works which cost
-- less than Rs. 5 lakhs each" by G. N., R. D. and W. C. D., No. ZPE 1093/CR-718/05, dated the 4th May 1995.
-- The heading "Industries and Cottage Industries" and entries "63 to 74" were deteted by G. N., R. D. D., No. ZPA
-- 1072/52193(i)-N, dated the 1st October 1973.
-- The heading "Co-operation" and entries "75 to 83" thereunder were deleted by G. N., R. D. D., No. ZPA
-- 1072/52193(i)-N, dated the 1st October 1973.
-- Entry 94 was substituted for the original by Mah. 6 of 1975, s. 48(f).
-- These words were substituted for the word "houses" by Mah. 6 of 1975, s. 48(g)(i).
-- Entry 124 was added by G. N., R. D. D., No. ZPA 1068/6274-N, dated the 20th February 1969.
-- These words were inserted by G. N. R. D. D., No. ZPA 1062/6274-N, dated the 24th November 1970.
-- Entry 125 was added by G. N., R. D. D., No. ZPA 1069/33176-N, dated the 15th January 1971.
-- Entry 126 was added by G. N., R. D. D., No. PAR 1171/13140-A (iii), dated the 21st May 1973, read with Corrigendum
-- No. PRT-117/13140/A-III, dated the 4th June 1973 published in the M. G. G. Extraordinary, dated the 4th June 1973, at
-- Entry 127 was added by Mah. 6 of 1975, s. 46(g)(ii).
-- Entry 128 was added by G. N., R. D. D., No. ZPA 1077/3870/(880) XII, dated the 8th June 1978.
-- Entry 129 was added by G. N., R. D. D., No. ACD 1081/2915/XXIX, dated the 2nd January 1982.
+- * Now, the short title of the Act has been amended as "the Maharashtra Primary Education Act (LXI
+- of 1947) by Mah. 25 of 2012, Ss. 2 and 3, Schedule, entry 28, with effect from the 1st May 1960.
+- 1 Entry 36 was substituted by G. N., R. D. D., No. ZPA1068/35855-N, dated the 11th March 1969.
+- 2 Entry 37 was substituted by G N., R. D. D., No. ZPA 1070/2252-N, dated the 2nd June 1970.
+- 3 These words were substituted for the words "Combined Medical and Public Health Unit" by G. N.,
+- U. D. P. H. and H. D., No. PHC 3170/50377-S, dated the 25th November 1971.
+- 4 Entry 44 was deleted by Mah. 6 of 1975, s. 48(c).
+- 5 Entries 56 and 57 were deleted, ibid., s. 48(d).
+- H 504-21
+- 1 The heading and entries 58 to 61 were substituted by G. N., R. D. D., No. ZPA 1070/11581-N, dated
+- the 9th December 1970.
+- 2 This was substituted by G. N.. R. D. D., No. GRAPAPU-1092/CR-378/39A, dated the 20th May 1992.
+- 3 Entry 62 was substituted by G. N., R. D. D., No. ZPE-1192/475/CR-(369)/04, dated the 2nd June
+- 4 These words and figures were substituted for the words, letters and figure "and those lift irrigation works
+- which cost less than Rs. 5 lakhs each" by G. N., R. D. and W. C. D., No. ZPE 1093/CR-718/05, dated
+- the 4th May 1995.
+- 5 The heading "Industries and Cottage Industries" and entries "63 to 74" were deteted by G. N., R.
+- D. D., No. ZPA 1072/52193(i)-N, dated the 1st October 1973.
+- 6 The heading "Co-operation" and entries "75 to 83" thereunder were deleted by G. N.,
+- , R. D. D.,
+- No. ZPA 1072/52193(i)-N, dated the 1st October 1973.
+- 7 Entry 94 was substituted for the original by Mah. 6 of 1975, s. 48(f).
+- 1 These words were substituted for the word "houses" by Mah. 6 of 1975, s. 48(g)(i).
+- 2 Entry 124 was added by G. N., R. D. D., No. ZPA 1068/6274-N, dated the 20th February 1969.
+- 3 These words were inserted by G. N. R. D. D., No. ZPA 1062/6274-N, dated the 24th November 1970.
+- H 504-22

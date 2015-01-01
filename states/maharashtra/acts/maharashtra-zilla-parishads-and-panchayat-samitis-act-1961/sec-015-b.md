@@ -1,6 +1,6 @@
-# Section 15B
+# Section 15B. Disqualification by State Election Commission
 
-15B. Disqualification by State Election Commission.— (1) If the State Election Commission is satisfied that a person—
+15B. (1) If the State Election Commission is satisfied that a person—
 
 (a) has failed to lodge an account of election expenses within the time and in the manner required by the State Election Commission, and
 
