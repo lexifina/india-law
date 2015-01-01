@@ -1,3 +1,3 @@
 # Chapter IV
 
-COMMITTEES
+COMMITTEES.
