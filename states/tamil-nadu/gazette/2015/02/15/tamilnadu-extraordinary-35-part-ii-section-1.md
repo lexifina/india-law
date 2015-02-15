@@ -1,0 +1,48 @@
+---
+kind: "gazette-notification"
+gazette: "Tamil Nadu Government Gazette"
+gazette_number: "35"
+gazette_type: "Extraordinary"
+part: "Part II—Section 1 Extraordinary"
+issuer: "Government of Tamil Nadu"
+subject: "LEGISLATIVE ASSEMBLY SECRETARIAT - SUMMONING OF TAMIL NADU LEGISLATIVE ASSEMBLY URL: Original Source"
+published: "2015-02-15"
+in_force: "2015-02-15"
+in_force_evidence: "published in the Gazette 2015-02-15; no other commencement day stated"
+official_text: "http://www.stationeryprinting.tn.gov.in/extraordinary/2015/35-Ex-II-2.pdf"
+mirror: "https://archive.org/details/in.gazette.tamilnadu.2015-02-15.Extraordinary_35_Part-II_Section-1"
+language: "English text only"
+---
+
+© [Regd. No. TN/CCN/467/2012-14.
+[R. Dis. No. 197/2009. GOVERNMENT OF TAMIL NADU
+2015 [Price : Re. 0.80 Paise.
+TAMIL NADU
+GOVERNMENT GAZETTE
+EXTRAORDINARY PUBLISHED BY AUTHORITY
+No.35] CHENNAI, SUNDAY, FEBRUARY 15, 2015
+Maasi 3, Jaya, Thiruvalluvar Aandu–2046
+Part II—Section 1
+Notifications or Orders of specific character or of particular interest to the public
+issued by Secretariat Departments.
+NOTIFICATIONS BY THE LEGISLATIVE ASSEMBLY SECRETARIAT
+LEGISLATIVE ASSEMBLY SECRETARIAT
+SUMMONING OF TAMIL NADU LEGISLATIVE ASSEMBLY
+[S.O. Ms. No. 11, Legislative Assembly Secretariat, 15th February 2015,
+Maasi 3, Jaya, Thiruvalluvar Aandu-2046.]
+No. II(1)/LAS/6(c)/2015.
+“In exercise of the powers conferred upon me by clause (1) of Article 174 of the Constitution
+of India, and in supersession of the notification issued in S.O.Ms.No. 8, Legislative Assembly Secretariat, dated the
+6th February, 2015 and published in an extraordinary issue of the Tamil Nadu Government Gazette dated the
+6th February, 2015, I, Dr. K. ROSAIAH, Governor of Tamil Nadu, hereby summon the Tamil Nadu Legislative
+Assembly to meet at 11.15 A.M. on Tuesday, the 17th February, 2015 in the Assembly Chamber, Secretariat,
+Chennai-600 009 instead of 10.45 A.M. on 17th February, 2015, as already notified.
+Raj Bhavan, K. ROSAIAH,
+Guindy, Governor of Tamil Nadu.
+Chennai-600 022,
+Dated: 14th February, 2015.
+A.M.P. JAMALUDEEN,
+Secretary.”
+PRINTED AND PUBLISHED BY THE DIRECTOR OF STATIONERY AND PRINTING, CHENNAI
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU
+DTP—II-1 Ex. (35)
