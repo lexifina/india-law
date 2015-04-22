@@ -1,0 +1,82 @@
+---
+kind: "gazette-notification"
+gazette: "Tamil Nadu Government Gazette"
+gazette_number: "16"
+gazette_type: "Ordinary"
+part: "Part VI—Section 2 Notifications: COLLECTORS AND LOCAL AUTHORITIES - STATE ELECTION OFFICER AND DIRECTOR OF MUNICIPAL ADMINISTRATION CHENNAI.- Names of successful candidates of casual election to the post of Municipal Chairman / Municipal Councillors held on 18th September 2014 GOVERNMENT EXAMINATIONS / EDUCATIONAL OFFICERS - Loss of Certificates"
+issuer: "Government of Tamil Nadu"
+subject: "Notifications of interest to a section of the public issued by Heads of Departments, etc. URL: Original Source"
+published: "2015-04-22"
+in_force: "2015-04-22"
+in_force_evidence: "published in the Gazette 2015-04-22; no other commencement day stated"
+official_text: "http://www.stationeryprinting.tn.gov.in/gazette/2015/16-VI-2.pdf"
+mirror: "https://archive.org/details/in.gazette.tamilnadu.2015-04-22.Ordinary_16_Part-VI_Section-2"
+language: "English text only"
+---
+
+© [Regd. No. TN/CCN/467/2012-14.
+GOVERNMENT OF TAMIL NADU [R. Dis. No. 197/2009.
+2015 [Price : Rs. 1.60 Paise.
+TAMIL NADU
+GOVERNMENT GAZETTE
+PUBLISHED BY AUTHORITY
+No. 16] CHENNAI, WEDNESDAY, APRIL 22, 2015
+Chithirai 9, Manmadha, Thiruvalluvar Aandu-2046
+Part VI—Section 2
+Notifications of interest to a section of the public
+issued by Heads of Departments, etc.
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, ETC.
+CONTENTS
+Pages.
+COLLECTORS AND LOCAL AUTHORITIES
+STATE ELECTION OFFICER AND DIRECTOR OF MUNICIPAL ADMINISTRATION
+CHENNAI.
+Names of successful candidates of casual election to the post of
+Municipal Chairman / Municipal Councillors held on 18th September 2014. .. 126-127
+GOVERNMENT EXAMINATIONS / EDUCATIONAL OFFICERS
+Loss of Certificates .. .. .. .. .. 128
+DTP—VI-2 (16)—1 [ 125 ]
+
+126 TAMIL NADU GOVERNMENT GAZETTE [Part VI—Sec. 2
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, ETC.
+COLLECTORS AND LOCAL AUTHORITIES
+STATE ELECTION OFFICER AND DIRECTOR OF MUNICIPAL ADMINISTRATION, CHENNAI
+Names of successful candidates of casual election to the post of Municipal Chairman / Municipal
+Councillors held on 18th September 2014.
+(Roc. No. 38414/2013/M3)
+No. VI(2)/75/2015.
+In exercise of the power conferred under Rule 91 of the Tamil Nadu Town Panchayats, Third Grade Municipalities,
+Municipalities and Corporations (Election) Rule 2006, the Director of Municipal Administration and the State Election Officer
+of Municipalities publish the names of successful candidates of casual election to the post Municipal Chairman/Municipal
+Councillors held on 18th September 2014.
+Schedule - I and Schedule - II below
+Schedule - I
+Names of the successful candidates of casual election for the post of Municipal Chairpersons conducted
+on 18th September 2014.
+(1) (2) (3) (4) (5)
+Schedule - II
+Names of the successful candidates of casual election for the post of Municipal Councillors conducted
+on 18th September 2014.
+(1) (2) (3) (4) (5) (6)
+
+April 22, 2015] TAMIL NADU GOVERNMENT GAZETTE 127
+(1) (2) (3) (4) (5)
+G. PRAKASH,
+Chepauk, Chennai-600 005. State Election Officer and
+30th March 2015. Director of Municipal Administration.
+
+128 TAMIL NADU GOVERNMENT GAZETTE [Part VI—Sec. 2
+GOVERNMENT EXAMINATIONS / EDUCATIONAL OFFICERS
+LOSS OF CERTIFICATES
+It is hereby notified that the Original Higher Secondary Certificates / Matriculation Certificates / Diploma Certificates/
+School Certificates of the following pupils are reported to have been lost beyond recovery. Necessary steps are
+being taken to issue the duplicate of the said Certificates. If the Originals were to be found by anybody, they should
+be treated as invalid and sent to the Secretary, Board of Higher Secondary Examination / Directorate of Government
+Examinations, Chennai-6 / Director of Technical Education, Chennai-25 / Inspector / Inspectress of Matriculation
+and Anglo-Indian Schools as the case may be for cancellation:—
+(1) (2) (3) (4) (5) (6)
+No. VI(2)/76/2015.
+DIET Manjur.
+No. VI(2)/77/2015.
+PRINTED AND PUBLISHED BY THE DIRECTOR OF STATIONERY AND PRINTING, CHENNAI
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU
