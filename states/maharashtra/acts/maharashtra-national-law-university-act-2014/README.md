@@ -5,3 +5,4 @@ Maharashtra Act 6 of 2014, as published by the Law and Judiciary Department, Gov
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | as enacted | 2014-02-18 (s.1(2): comes into force on 2014-02-18) | Maharashtra Act 6 of 2014 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah.%20Act%206%20of%202014%20Maharashtra%20National%20Law%20University%20Act,%202014..pdf |
+| text as on 2024-10-01 | 2015-11-10 (official reprint (text as on 2024-10-01; List of Amendment Acts: last Amended by Mah. 45 of 2015, commencement 2015-11-10; the reprint: 'the date mentioned in the bracket indicates the date of commenc) | Maharashtra Act 45 of 2015 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah_Act_No_6_OF_2014.pdf |
