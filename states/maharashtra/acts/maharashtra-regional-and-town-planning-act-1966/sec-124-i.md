@@ -5,3 +5,7 @@
 (a) in the case of amount to be so recovered, from the date of the notice of original assessment till the date of recovery thereof; and
 
 (b) in the case of amount to be so refunded, from the date on which the amount was paid under clause (b) of section 124H till the date of refund thereof.
+
+Notes in the official text:
+
+- Sub-section (3) was inserted by Mah. 6 of 2004, s. 2.
