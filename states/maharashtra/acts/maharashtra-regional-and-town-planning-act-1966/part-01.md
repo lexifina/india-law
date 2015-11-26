@@ -6,88 +6,71 @@ Notes in the official text:
 
 - Areas
 - Nature and particulars
-- of development
-- development charge
-- square metres)
+- of
+- development
 - (2)
 - (3)
 - Areas under the
 - (a) Development of land
-- 0.5 per cent. of the rates
 - jurisdiction of the
 - for residential or institu-
-- of developed land men-
 - Municipal Corpora-
 - tional use, not involving
-- tioned in the Annual
 - tions constituted or
 - any building or construc-
-- Statement of Rates
-- deemed to have been tion operations.
-- prepared under the
+- deemed to have been
+- tion operations.
 - constituted under the
-- Bombay Stamp (Deter-
 - Mumbai Municipal
-- mination of True Market
 - Corporation Act, the
-- Value of Property) Rules,
-- Bombay Provincial
-- 1995 made under the
+- *Bombay Provincial
 - Municipal Corpora-
-- Bombay Stamp Act, 1958
 - tions Act, 1949 and
-- (hereinafter, in this
 - the City of Nagpur
-- Schedule, referred to as
 - Corporation Act, 1948,
-- "the Stamp Duty Ready
 - the Municipal Councils
-- Reckoner").
-- constituted under the (b) Development of land
-- Maharashtra Municipal for residential or institu-
-- Councils, Nagar
+- constituted under the
+- (b) Development of land
+- Maharashtra
+- for residential or institu-
+- Municipal Councils,
 - tional use, involving only
-- Panchayats and
+- Nagar Panchayats
 - building or construction
-- Industrial Townships operations,—
+- and Industrial
+- operations,—
+- Townships
 - Act, 1965; and Special
-- (i)
-- where development 2.00 per cent. of the
+- (i) where development
 - Planning Authorities
-- charge under clause rates of developed land
+- charge under clause
 - and New Town
 - (a) has been paid;
-- mentioned in the Stamp
 - Development
-- Duty Ready Reckoner.
 - Authorities constitu-
-- (ii) where development 2.00 per cent. of the
+- (ii) where development
 - ted under this Act.
-- charge under clause rates of developed land
-- (a) is not required to mentioned in the Stamp
-- be paid as the land has Duty Ready Reckoner.
-- 1 This Schedule was substituted by Mah. 34 of 2010, s. 3.
-- (2)
-- (3)
-- been developed before
-- the commencement
-- of the Maharashtra
-- Regional and Town
-- Planning (Amend-
-- ment) Act, 1992.
+- charge under clause
+- (a) is not required to
+- be paid as the land
+- has been developed
+- before the
+- commencement of the
+- Maharashtra Regional
+- and Town Planning
+- (Amendment) Act, 1992.
 - (c) Developement of land
 - for residential or institu-
 - tional use, also involving
 - building or construction
 - operations,—
-- (i)
-- for development;
-- 0.5 per cent. of the rates
-- of developed land
-- mentioned in the Stamp
+- (i) for development;
 - Duty Ready Reckoner;
 - (ii) for construction.
 - 2.00 per cent. of the
 - rates of developed land
 - mentioned in the Stamp
 - Duty Ready Reckoner.
+- This Schedule was substituted by Mah. 34 of 2010, s. 3.
+- Now, see the Maharashtra Municipal Corporation Act (LIX of 1949).
+- ** Now, see the Maharashtra Stamp Act (LX of 1958).

@@ -16,7 +16,9 @@
 
 (vii) to execute works in connection with supply of water, disposal of sewerage and provision of other services and amenities ;
 
-(viii) to levy and collect such fees, for the execution of work referred to in clause (vii) and for provision of other services and amenities, as may be specified by the regulations ;
+(viii) to levy and collect such fees, for the execution of work referred to in clause
+
+(vii) and for provision of other services and amenities, as may be specified by the regulations ;
 
 (ix) to exercise such other powers and perform such other functions as are supplemental, incidental or consequential to any of the forgoing powers and functions or as may be directed by the State Government.
 
@@ -33,7 +35,3 @@
 (4) The Area Development Authority, may, with the approval of the State Government, delegate any of its powers and functions to any authority or auhtorities functioning within its jurisdiction.
 
 (5) The Area Development Authority, shall have its office at such place as the State Government may, by order, specify.
-
-Notes in the official text:
-
-- H 4078—6a

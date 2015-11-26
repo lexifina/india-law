@@ -1,4 +1,4 @@
-# Section 124D
+# Section 124D. Local publication of notification relating to development charge with notice
 
 124D. (1) The regulations referred to in sections 124B and 124C, as sanctioned and published in the Official Gazette, shall be displayed by the Authority on notice board in its office. The Authority shall also publish a notice in a local newspaper, informing the inhabitants of the area within its jurisdiction, of the subject matter of the regulations so displayed and the date on which they shall come into force.
 

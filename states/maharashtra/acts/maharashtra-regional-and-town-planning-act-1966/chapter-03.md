@@ -1,5 +1,3 @@
 # Chapter III
 
-DEVELOPMENT PLAN.
-
-(a) Preparation, submission and sanction to Development plan.
+DEVELOPMENT PLAN 3[(a) Declaration of intention, preparation, submission and sanction to Development plan.]

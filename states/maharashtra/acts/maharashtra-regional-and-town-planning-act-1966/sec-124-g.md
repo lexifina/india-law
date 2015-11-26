@@ -7,7 +7,3 @@
 (3) Where the assessment is annulled or set aside in an appeal, the State Government or such officer deciding the appeal may direct the Authority to make a fresh assessment after such further enquiry as may be directed.
 
 (4) Every order passed in appeal under this section shall be final and shall not be questioned in any suit or other legal proceedings.
-
-Notes in the official text:
-
-- 1 Sub-section (3) was inserted by Mah. 6 of 2004, s. 2.

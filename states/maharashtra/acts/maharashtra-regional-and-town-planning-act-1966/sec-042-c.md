@@ -2,9 +2,7 @@
 
 42C. (1) As soon as may be, after the declaration of a development area under section 42A, the State Government shall, by notification in the Official Gazette, constitute an authority for such area to be called the Area Development Authority of that development area for the purpose of carrying out the functions assigned to an Area Development Authority under this Act.
 
-(2) Every Area Development Authority constituted under sub-section
-
-(1) shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power to acquire, hold and dispose of property, both movable and immovable, and to contract and by the said name sue and be sued.
+(2) Every Area Development Authority constituted under sub-section (1) shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power to acquire, hold and dispose of property, both movable and immovable, and to contract and by the said name sue and be sued.
 
 (3) An Area Development Authority shall consist of the following members, namely :—
 
@@ -30,10 +28,11 @@ Deputy Collector having jurisdiction over the development area or in any part th
 
 (i) Chief Executive Officer not below the Member rank of Joint Director of Town Planning Secretary. or an Officer appointed by Government for Metropolitan Area and Deputy Director of Town Planning elsewhere, to be appointed by the State Government.
 
-(4) The provisions of sections 9, 10 and 11 of this Act shall mutatis mutandis apply to an Area Development Authority constituted under subsection (1) as they apply in relation to a Regional Planning Board.
+(4) The provisions of sections 9, 10 and 11 of this Act shall mutatis mutandis apply to an Area Development Authority constituted under sub-section (1) as they apply in relation to a Regional Planning Board.
 
 Notes in the official text:
 
-- 1 Chapter III-A was inserted by Mah. 25 of 2009, s. 2.
-- H 4078—6
-- Area Devel-
+- This portion was added by Mah. 30 of 1972, s. 5.
+- These words were substituted for the words "Municipal Council" by Mah. 11 of 1973, s. 4(a).
+- These words were substituted for the word "Council", by Mah. 11 of 1973, s. 4(b).
+- Chapter III-A was inserted by Mah. 25 of 2009, s. 2.
