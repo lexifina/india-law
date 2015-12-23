@@ -1,0 +1,98 @@
+---
+kind: "gazette-notification"
+gazette: "Odisha Gazette"
+gazette_number: "1750"
+number: "32677"
+issuer: "Government of Odisha"
+department: "HOUSING and URBAN DEVELOPMENT"
+subject: "Notice Source URL"
+published: "2015-12-23"
+in_force: "2015-12-23"
+in_force_evidence: "published in the Gazette 2015-12-23; no other commencement day stated"
+official_text: "http://govtpress.odisha.gov.in/pdf/2015/1750.pdf"
+mirror: "https://archive.org/details/in.gazette.odisha.2015-12-23.1750"
+language: "English text only"
+---
+
+HOUSING & URBAN DEVELOPMENT DEPARTMENT
+NOTIFICATION
+The 21st December, 2015
+S.R.O. No.609/2015—Whereas, Comprehensive Development Plan (CDP) Land
+and Implementation Policy has been notified on 2nd June, 2015 with an objective of
+providing enabling framework for implementation of Comprehensive Development Plans
+and providing land and funds to undertake the implementation of Comprehensive
+Development Plans.
+And, whereas, there is a need to put in place an effective institutional mechanism
+for achieving the vision set out in the Comprehensive Development Plan of respective
+Authorities.
+Therefore, Government is hereby pleased to constitute an Authority Level
+Coordination Committee (ALCC) for Rourkela Development Authority for successful
+implementation of C.D.P. as delegated.
+Authority Level Coordination Committee
+1. Vice Chairman, R.D.A., Rourkela : Chairperson
+Divisional Forest Officer, Rourkela : Member 2.
+3. Superintendent of Police, Rourkela : Member
+4. Additional District Magistrate, Rourkela : Member
+5. Executive Engineer, P.H.D., Rourkela : Member
+6. Executive Engineer, P.W.D., Rourkela : Member
+7. Executive Engineer, Irrigation, Rourkela : Member
+8. Executive Engineer, N.H., Rourkela : Member
+9. Regional Officer, State Pollution Control Board, : Member
+Rourkela.
+10. Tahasildar, Rourkela, Lathikata, Kuarmunda, : Member
+Sundargarh, Rajgangapur & Biramitrapur
+
+11. Planning Member, R.D.A., Rourkela : Member
+12. Engineer Member, R.D.A., Rourkela : Member
+13. Finance Member, R.D.A., Rourkela : Member
+14. Regional Transport Officer, Rourkela : Member
+15. Director, NIT, Rourkela or his representative : Member
+16. Superintendent Engineer, WESCO, Rourkela : Member
+17. G.M., Town Services, RSP, Rourkela : Member
+18. DRM, Chakradharpur, S.E. Railway or his : Member
+representative.
+19. Municipal Commissioner, Rourkela Municipal : Member
+Corporation.
+20. Secretary, RDA, Rourkela : Member-Convener
+The role of the said Committee is as follows:—
+(1) To provide technical and manpower support to EC & HLC.
+(2) To assist various project development agencies in preparation of Shelf
+of Projects, feasibility, pre-feasibility report etc.
+(3) To assist various development agencies for preparation of DPRs.
+(4) To process various cases and issues to be placed before the
+Empowered Committee and HLC and to coordinate and follow up on
+action taken on various decisions of these Committees.
+(5) To monitor the utilization of funds of CIDF in accordance with the
+directions of EC.
+(6) To formulate and issue various detailed procedures, guidelines with
+approval of Empowered Committee & HLC as per requirement.
+To carry out any other functions incidental to the implementation of (7)
+C.D.P. or assigned to it by HLC & EC.
+(8) To encourage NGOs, Self Help Groups, Citizen Groups and Other
+Stake-holders in social mobilization, required for successful
+implementation of C.D.P.
+(9) To monitor and supervise construction and development projects on
+regular basis including physical verification, inspection and site visits.
+(10) To appraise and recommend for approval to EC; the RFPs and Bid
+process documents relating to projects, required for C.D.P.
+implementation.
+
+(11) To appraise and recommend all development project to EC
+for granting approval or for obtaining approval from HLC, as
+applicable from project to project.
+(12) To ensure compliance to various provisions prescribed under the
+C.D.P.
+(13) To undertake and coordinate projects related to afforestation, tree
+plantation etc. for protection of environment and promotion of
+sustainable development.
+(14) Any other work as deemed appropriate for successful implementation
+of the projects and provisions of C.D.P. under the guidance and
+control of Empowered Committee.
+
+[No.32677–T.P.Dev-23/2015/HUD.]
+By Order of the Governor
+G. MATHI VATHANAN
+Commissioner-cum-Secretary to Government
+
+Printed and published by the Director, Printing, Stationery and Publication, Odisha, Cuttack-10
+Ex. Gaz. 1244-173+50
