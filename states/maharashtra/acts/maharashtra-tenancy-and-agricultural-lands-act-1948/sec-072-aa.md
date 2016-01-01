@@ -1,0 +1,3 @@
+# Section 72AA
+
+72AA. Distribution of business amongst Mamlatdars.— Where in any taluka or mahal, in addition to the Mamlatdar appointed under section 12 of the Bombay Land Revenue Code, 1879 (Bom. V of 1879) or as the case may be, in addition to the Mahalkari appointed under section 13 of the said Code one or more officers are appointed by the State Government to perform the duties of a Mamlatdar under this Act in such taluka or mahal, each such officer shall dispose of such inquires or proceedings commenced under section 71 as the Mamlatdar or as the case may be, the Mahalkari, subject to the control of the Collector, may by general or special order, refer to him.]
