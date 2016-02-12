@@ -104,8 +104,6 @@ PART II—Contd.
 
 SLAB I—Contd.
 
-Act, 1999
-
 (1)
 
 (a) Not more than 3 Hectares and 23 Ares.
@@ -118,9 +116,9 @@ Act, 1999
 
 (e) More than 5 Hectares and 66 Ares and not more than 6 Hectares and 47 Ares.
 
-(f)
+(f) More than 6 Hectares and 47 Ares
 
-(f) More than 6 Hectares and 47 Ares and not more than 8 Hectares and 9 Ares.
+(f) and not more than 8 Hectares and 9 Ares.
 
 (g) More than 8 Hectares and 89 Ares.
 
@@ -142,6 +140,8 @@ SLAB IV
 
 (g) More than 8 Hectares and 89 Ares.
 
+Act, 1999
+
 (2) SLAB III
 
 (a) Nil.
@@ -154,7 +154,7 @@ SLAB IV
 
 (e) The area in excess of 4 Hectares and 44 Ares but not more than 1 Hectare 61 Ares.
 
-The area in excess of 4 Hectares and 85 Ares but not more than 2 Hectare 24 Ares.
+The area in excess of 4 Hectares and 85 Ares but not more than 2 Hectares 24 Ares.
 
 (g) All the area in excess of 5 Hectares and 66 Ares.
 
@@ -262,7 +262,7 @@ An agriculturist—
 
 An additional area of 185 square metres of his family does not exceed five ;
 
-(b) if the number of members of his family does not exceeds five. for every three additional members subject to the ceiling of 740 square metres in the aggregate.
+(b) if the number of members of his family does not exceed five. for every three additional members subject to the ceiling of 740 square metres in the aggregate.
 
 2.
 
@@ -279,6 +279,6 @@ Explanation.—For the purpose of Parts III and IV, the expression "family" mean
 Notes in the official text:
 
 - *The short title of this Act was amended as "the Maharashtra Prvention of Fragmentation
-- and Consolidation of Holdings Act," by Mah. 24 of 2012, Sch. entry 29, w. e. f. 1-5-1960.
-- H 241-7060 Bks.-11.2013
+- and Consolidation of Holdings Act" by Mah. 24 of 2012, Sch. entry 29, w. e. f. 1-5-1960.
+- H 507-4682 Bks.-2.2016
 - PRINTED AT THE GOVERNMENT PRESS, KOLHAPUR.
