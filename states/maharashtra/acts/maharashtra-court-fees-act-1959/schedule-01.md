@@ -1,6 +1,38 @@
-# Schedule I.
+# Schedule I
 
-Ad valorem fees.
+Ad valorem fees Number. . . .
+
+(1)
+
+(2)
+
+(3) Number. . . .
+
+(1)
+
+(2)
+
+(3) Number . . .
+
+(1)
+
+(2)
+
+(3) Number . . .
+
+(1)
+
+(2)
+
+(3) . . . .
+
+Number . . .
+
+(1)
+
+(2)
+
+(3) . . . . . . . . . . . . . . . .
 
 Number. . . .
 
@@ -8,234 +40,200 @@ Number. . . .
 
 (2)
 
-(3) Number.
-
-(1) . . .
-
-Proper fee.
-
-(2)
-
 (3)
 
-SCHEDULE I.—contd.
+16B.
 
-SCHEDULE I.—contd. . . .
-
-(1)
-
-(2)
-
-(3)
-
-SCHEDULE I.—contd. . . .
-
-(1)
-
-(2)
-
-(3)
-
-SCHEDULE I.—contd. . . .
-
-(1)
-
-(2)
-
-(3)
-
-SCHEDULE I.—contd. . . .
-
-(1)
-
-(2)
-
-(3)
-
-SCHEDULE I.—contd. . . .
-
-(1)
-
-(2)
-
-(3)
-
-SCHEDULE I.—contd. . . .
-
-(1)
-
-(2)
-
-(3)
-
-SCHEDULE I.—contd.
-
-SCHEDULE I.—contd.
-
-SCHEDULE I.—contd.
+Maharashtra Recognition of Trade Unions and Prevention of Unfair Labour Practices Act, 1971 Maharashtra Government Publication
 
 Notes in the official text:
 
-- When the amount or value of
-- the subject matter in
-- dispute does not exceed
-- one thousand rupees.
+- Two hundred rupees.
+- When the amount or value of the
+- subject matter in dispute does
+- not exceed one thousand
+- rupees.
 - Plaint or memorandum of
 - appeal (not otherwise provided
 - for in this Act) or, of cross
-- objection presented to any Civil
-- or Revenue Court.
+- objection presented to any
+- Civil or Revenue Court.
 - When such amount or value
-- exceeds one thousand
-- rupees, for every one
-- hundred rupees, or part
-- thereof, in excess of one
+- Twelve rupees.
+- exceeds one thousand rupees,
+- for every one hundred rupees,
+- or part thereof, in excess of one
 - thousand rupees, upto five
 - thousand rupees.
 - When such amount or value
-- exceeds five thousand
-- rupees, for every hundred
-- rupees, or part thereof, in
-- exeess of five thousand
-- rupees, upto ten thousand
-- rupees.
+- Fifteen rupees.
+- exceeds five thousand rupees,
+- for every hundred rupees, or
+- part thereof, in exeess of five
+- thousand rupees, upto ten
+- thousand rupees.
+- Seventy-five rupees.
 - When such amount or value
-- exceeds ten thousand
-- rupees, for every five
-- hundred rupees, or part
-- thereof, in excess of ten
-- thousand rupees, upto
-- twenty thousand rupees.
+- exceeds ten thousand rupees,
+- for every five hundred rupees,
+- or part thereof, in excess of ten
+- thousand rupees, upto twenty
+- thousand rupees.
 - When such amount or value
+- One hundred rupees.
 - exceeds twenty thousand
-- rupees, for every one
-- thousand rupees, or part
-- thereof, in excess of
-- twenty thousand rupees,
-- upto
-- thirty
-- thousand
+- rupees, for every one thousand
+- rupees, or part thereof, in
+- excess of twenty thousand
+- rupees, upto thirty thousand
 - rupees.
+- One hundred rupees.
 - When such amount or value
 - exceeds thirty thousand
-- rupees, for every two
-- thousand rupees, or
-- part thereof, in excess of
-- thirty thousand rupees,
-- upto fifty thousand
+- rupees, for every two thousand
+- rupees, or part thereof, in
+- excess of thirty thousand
+- rupees, upto fifty thousand
 - rupees.
 - When such amount or value
-- exceeds fifty thousand
-- fifty rupees.
-- Article 1 was substituted by Mah. 18 of 2002, s. 7.
-- H 1053—4a
-- rupees:
-- Plaint in a suit for possession
-- 1[section 6 of the Specific
-- Relief Act, 1963.]
-- Plaint, application or petition
-- (including memorandum of
-- appeal), to set aside or modify
+- One hundred and fifty
+- rupees.
+- exceeds fifty thousand rupees,
+- for every five thousand rupees,
+- or part thereof, in excess of fifty
+- thousand rupees, upto one lakh
+- of rupees.
+- Two hundred rupees.
+- When such amount or value
+- exceeds one lakh of rupees, for
+- every ten thousand rupees, or
+- 1 Article 1 was substituted by Mah. 18 of 2002, s. 7.
+- SCHEDULE I—contd.
+- part thereof, in excess of one
+- lakh of rupees, upto eleven
+- lakh of rupees.
+- When such amount or value
+- exceeds eleven lakh of rupees,
+- for every one lakh of rupees, or
+- part thereof, in excess of eleven
+- lakh of rupees:
+- Provided that, the maximum fee
+- leviable on the plaint or
+- memorandum of appeal or of
+- cross objection shall be three
+- lakh of rupees.
+- . . . . .
+- Plaint in a suit for
+- possession under
+- 1[section 6
+- of the Specific Relief Act,
+- . . . . .
+- Plaint, application or
+- (including
+- memorandum of appeal),
+- to set aside or modify any
 - 2[ *
-- award
 - *].
+- A fee of one-half of the ad valorem
+- . . . . .
 - Application or petition
 - (including Memorandum of
 - Appeal) to set aside or modify
 - arbitral award under the
 - Arbitration and Conciliation
-- Act, 1996.
-- 9 of 2010, s.2 (a).
-- Article 3A was inserted, ibid., s.2(b).
-- rupees, for every five
-- thousand rupees, or part
-- thereof, in excess of fifty
-- thousand rupees, upto one
-- lakh of rupees.
-- exceeds one lakh of rupees,
-- for every ten thousand
-- rupees, or part thereof, in
-- excess of one lakh of rupees,
-- upto eleven lakh of rupees.
-- exceeds eleven lakh of
-- rupees, for every one lakh
-- of rupees, or part thereof, in
-- excess of eleven lakh of
-- fee leviable on the plaint or
-- memorandum of appeal or
-- of cross objection shall be
-- three lakh of rupees. ].
 - . . . . .
+- Plaint, application or
+- (including
+- memorandum of appeal)
+- which is capable of being
+- treated as a suit, to set aside
+- a decree or order having the
+- force of a decree.
 - . . . . .
-- . . . . .
-- When such amount or value
-- When such amount or value
-- Provided that, the maximum
-- These words and figures were substituted for the words and figures " the Specific Relief
-- Act, 1877, section 9" by Mah. 23 of 1996, s. 4(b).
-- The words and figures "otherwise than under the Arbitration Act, 1940" were deleted by Mah.
-- . . . . .
-- Plaint, application or petition
+- in
+- a
+- suit,
+- application or
+- petition
 - (including memorandum of
-- appeal) which is capable of
-- being treated as a suit, to set
-- aside a decree or order having
-- the force of a decree.
-- . . . . .
-- Plaint in a suit, application or
-- petition (including memorandum
-- of appeal), to set aside alienation
-- to which the plaintiff, applicant
-- or appellant, as the case may
-- be, was a party, either directly
+- to
+- set
+- aside
+- alienation to which the
+- applicant
+- or
+- appellant, as the case may be,
+- was a party, either directly
 - or through a legal guardian
 - other than de facto or ad hoc
 - guardian, manager or partner
+- or court.
+- 1 These words and figures were substituted for the words and figures " the Specific Relief
+- Act, 1877, section 9" by Mah. 23 of 1996, s. 4(b).
+- 2 The words and figures "otherwise than under the Arbitration Act, 1940" were deleted by
+- Mah. 9 of 2010, s.2 (a).
+- 3 Article 3A was inserted by Mah. 9 of 2010, s.2(b).
+- SCHEDULE I—contd.
 - . . . . .
-- Plaint in a suit (including
-- memorandum of appeal) for
-- possession between the
-- guardian and ward, trustee
-- and beneficiary, principal and
+- A fee of one-half of the amount
+- prescribed in the scale under
+- Article 1.
+- Plaint in a suit
+- (including memorandum of
+- appeal) for possession
+- between the guardian and
+- ward, trustee and
+- beneficiary, principal and
 - agent, wife and husband,
-- executor or administrator and
-- beneficiary, receiver and owner
-- of property and between
-- having
-- fiduciary
+- executor or administrator
+- and beneficiary, receiver
+- and owner of property and
+- between persons having
+- fiduciary relationship.
+- A fee on the amount of the
 - . . . . .
-- Any other plaint, application
-- or petition (including memoran-
-- dum of appeal), to obtain sub-
-- stantive relief capable of being
-- valued in terms of monetary
-- gain or prevention of monetary
-- loss, including cases wherein
-- application or petition is either
-- treated as a plant or is described
-- as the mode of obtaining the
-- relief as aforesaid.
+- monetary gain, or loss to be
+- prevented, according to the scale
+- prescribed under Article 1.
+- plaint,
+- application or petition
+- (including memorandum of
+- appeal), to obtain sub-
+- stantive relief capable of
+- being valued in terms of
+- monetary gain or prevention
+- of monetary loss, including
+- cases wherein application
+- or petition is either treated
+- as a plant or is described as
+- the mode of obtaining the
 - . . . . .
+- The fee leviable on the plaint
+- or memorandum of appeal.
+- Application for review
+- of judgment if presented on
+- or after the 1[thirtieth day],
+- from the date of the decree.
+- One-half of the fee leviable on the
+- . . . . .
+- plaint or memorandum of
+- appeal.
 - Application for review of
-- judgment if presented on or
-- 1[thirtieth day], from
-- the date of the decree.
-- . . . . .
-- Application for review of
-- judgment if presented before
-- 1 [thirtieth day] from the
-- date of the decree.
-- These words were substituted for the words " ninetieth day " by Mah. 50 of 1976, s. 3.
+- judgment if presented
+- before the 1 [thirtieth day]
+- from the date of the decree.
+- Two per cent.
+- Probate of a will or
+- letters of administration
+- with or without will
 - When the amount or value
-- Probate of a will or letters
-- of administration with or with-
-- out will annexed.
 - of the property in respect of
 - which the grant of probate or
 - letters is made exceeds one
 - thousand rupees, on the
 - amount or value upto fifty
 - thousand rupees.
+- Four per cent.
 - When the amount or value of
 - the property in respect of
 - which the grant of probate or
@@ -244,11 +242,15 @@ Notes in the official text:
 - of the amount or value in
 - excess of fifty thousand
 - rupees upto two lakh rupees.
+- Six per cent.
 - When the amount or value of
 - the property in respect of
 - which the grant of probate or
 - letters is made exceeds two
 - lakh rupees, on the part of the
+- 1 These words were substituted for the words " ninetieth day " by Mah. 50 of 1976, s. 3.
+- 2 Article 10 was substituted by Mah. 34 of 1994, s. 3.
+- SCHEDULE I.—contd.
 - amount or value in excess of
 - two lakh rupees upto three
 - lakh of rupees.
@@ -261,12 +263,13 @@ Notes in the official text:
 - three lakh of rupees :
 - Provided that when, after the
 - grant of a certificate under
-- Part X of the Indian Succession
-- Act, 1925, or under Bombay
-- Regulation VIII of 1827 or any
-- corresponding law for the time
-- being in force, in respect of
-- any property included in an
+- Part X of the Indian
+- Succession Act, 1925, or under
+- Bombay Regulation VIII of
+- 1827 or any corresponding
+- law for the time being in
+- force, in respect of any
+- property included in an
 - estate, a grant of probate or
 - letters of administration is
 - made in respect of the same
@@ -275,388 +278,370 @@ Notes in the official text:
 - be reduced by the amount of
 - the fee paid in respect of the
 - former grant.]
-- Article 10 was substituted by Mah.34 of 1994, s.3.
-- . . . . .
-- 11. Certificate under Part X of
-- the Indian Succession Act, 1925.
-- 374 of the Act,
-- value of the
-- These words were substituted for the words"one and a half time" by Mah. 18 of 2002, s.7 (b).
-- . . . . .
+- 11. Certificate under Part X
+- of the Indian Succession Act,
+- whether the power is for the
+- receiving of interest or
+- dividend on, or for the
+- negotiation or transfer of the
+- security, or for the both
+- purposes the value of the
+- 1 These words were substituted for the words "one and a half time" by Mah. 18 of 2002, s.7 (b).
+- SCHEDULE I.—contd.
+- security is its market value
+- on the day on which the
+- inclusion of the security in the
+- certificate is applied for, so
+- far as such value can be
+- ascertained.
+- The fee leviable in the case of a
 - Certificate under Bombay
 - Regulation VIII of 1827 or
-- under any corresponding
-- law in force.
-- Plaint presented with
-- an originating summons
-- under the Rules of the High
-- Court of Bombay (Original
-- 1[1980].
+- under any corresponding law
+- probate (Article 10) on the
+- amount or value of the property
+- in respect of which the
+- certificate is granted.
+- The fee leviable on a plaint in a
+- suit or the same relief, subject
+- to a minimum fee of
+- hundred rupees.].
+- Plaint presented with an
+- originating summons under
+- the Rules of the High Court of
+- Bombay (Original Side),
 - * ]
-- . . . . .
-- Application
+- One-half of ad-valorem fee on the
 - to
 - the
 - Collector for a reference to
 - the Court under section 18
 - of the Land Acquisition Act,
-- 1894, in its application to the
-- 4[Bombay
-- area]
-- or
-- the
-- Vidarbha region
-- 5[of
-- the
+- 1894, in its application to
+- difference, if any, between the
+- amount awarded by the
+- Collector and the amount
+- claimed by the applicant,
+- according to the scale pres-
+- cribed under Article 1 of
+- Schedule I, subject to a
+- minimum fee of 7[fifty rupees.]
+- 4[Bombay area] or the
+- 5[of the
 - State of Maharashtra]
 - 6[**]
 - or section 14 of the Land
-- Acquisition
-- Act
-- in
-- its
+- Acquisition Act in its
 - application to the Hyderabad
 - area of that State, as the
-- case may be.
-- 1 These figures were substituted for the figures " 1957" by Mah. 23 of 1996, s. 4 (c)(i).
+- One-half of ad valorem fee
+- leviable on the amount in
+- dispute
+- Application or petition
+- made by any assessee to the
+- High Court 8[under sub-sction
+- (2) of section 256 of the
+- Income Tax Act, 1961].
+- difference
+- amount
+- assessed and the amount of
+- tax admitted by the assessee
+- as payable by him),] subject
+- to the minimum fee of 10[one
+- hundred twenty-five rupees.]
+- 1 These figures were substituted for the figures " 1957 " by Mah. 23 of 1996, s. 4 (c)(i).
 - 2 These words were substituted for the words " sixty rupees" by Mah, 18 of 2002, s.7 (c).
 - 3 Article 14 was deleted by Mah. 18 of 1960, s. 3(b),
 - 4 These words were substituted for the words " pre-reorganisation State of Bombay excluding
 - the transferred territories" by the Maharashtra Adaptation of Laws (State and Concurrent
 - Subjects) Order, 1960.
-- 5 These words were substituted for the words " or Kutch area of the State of Bombay", ibid.
-- 6 The portion from " or section 18" to "Ordinance, 1948" was omitted, ibid.
+- 5 These words were substituted for the words " or Kutch area of the State of Bombay" by the
+- Maharashtra Adaptation of Laws (State and Concurrent Subjects) Order, 1960.
+- 6 The portion from " or section 18" to " Ordinance, 1948 " was omitted, by the Maharashtra
+- Adaptation of Laws (State and concurrent subjects) order, 1960.
 - 7 These words were substituted for the words " thirty rupees" by Mah. 18 of 2002, s. 7(d).
-- . . . . .
-- Application or petition
-- made by any assessee to the
-- 1[under sub-sction
-- (2) of section 256 of the
-- Income Tax Act, 1961].
+- 8 These words, brackets and figures were substituted for the words and figures " under
+- section 66 of the Indian Income Tax Act, 1922 ", by Mah. 23 of 1996, s. 4(e)(i).
+- 9 This portion was substituted for the brackets and words " (namely, the difference between
+- the amount actually assessed and the amount admitted by the assessee as assessable)", by
+- Mah. 18 of 1960, s. 3(c).
+- 10 These words were substituted for the words "one hundred rupees" by Mah. 18 of 2002, s. 7(e).
+- SCHEDULE I.—contd.
 - An appeal filed after the lst
 - June 1999 and pending
-- before
-- the
-- High
-- Court
+- before the High Court
 - against the order passed in
 - appeal by the Appellate
 - Tribunal, under section
 - 260A(2) of the Income Tax
 - Act, 1961.
 - An appeal filed after the 1st
-- June 1999 and pending before
-- the High Court against the
-- order passed in appeal by
-- the
-- Appellate
-- Tribunal,
-- under section 27A of the
-- Wealth Tax Act, 1957.
-- These words, brackets and figures were substituted for the words and figures " under
-- section 66 of the Indian Income Tax Act, 1922 ", by Mah. 23 of 1996, s. 4(e)(i).
-- This portion was substituted for the brackets and words " (namely, the difference between
-- the amount actually assessed and the amount admitted by the assessee as assessable)",
-- by Mah. 18 of 1960, s.3(c).
-- These words were substituted for the words "one hundred rupees" by Mah. 18 of 2002,
-- s. 7(e).
-- Articles 16A and 16B were inserted by Mah. 26 of 2000, s.2(b).
-- H 1053—5
+- June 1999 and pending
+- before the High Court
+- against the order passed in
+- appeal by the Appellate
+- Tribunal, under section 27A
+- of the Wealth Tax Act, 1957.
 - . . . . .
-- 17. Application or petition made
-- by any person (other than the
-- Collector or the Commissioner)
-- to the High Court under any
-- provision of the sales tax law
-- for the time being in force in
-- any part of the 1[State of
+- 17. Application or petition
+- made by any person (other
+- than the Collector or the
+- Commissioner) to the High
+- Court under any provision of
+- the sales tax law for the
+- time being in force in any
+- part of the
+- 2[State of
 - Maharashtra].
 - (A) When the amount of
 - cheque does not exceed ten
 - thousand rupees.
 - 18. Application or petition
-- containing complaint or charge
-- of an offence under section
-- of
-- the
-- Negotiable
+- containing complaint or
+- charge of an offence under
+- section 138 of the Negotiable
 - Instruments Act, 1881.
 - (B) When the amount of
-- cheque execeeds ten thousand
+- cheque exceeds ten thousand
 - rupees.
-- 1 These words were substitute for the words " State of Bombay", by Mah. 23 of 1996, s. 4(f)(i).
-- 2 This portion was substituted for the words " (namely, the diffrance between the amount
+- 1 Articles 16A and 16B were inserted by Mah. 26 of 2000, s.2(b).
+- 2 These words were substitute for the words " State of Bombay", by Mah. 23 of 1996, s.
+- 4(f)(i).
+- 3 This portion was substituted for the words " (namely, the diffrance between the amount
 - actually assessed and the amount admitted by the assesee as assessable)" by Mah. 18 of
 - 1960, s.3(c).
-- 3 These words were substituted for the words"one hundred", by Mah. 18 of 2002, s. 7(f).
-- 4 Article 18 was inserted by Mah. 17 of 2008, s.3.
+- 4 These words were substituted for the words"one hundred", by Mah. 18 of 2002, s. 7(f).
+- 5 Article 18 was inserted by Mah. 17 of 2008, s.3.
+- SCHEDULE I.—contd.
 - 1[Table of rates of ad valorem fees leviable on the institution of suits.
 - When the
 - amount or
-- value of the
 - But does
 - Proper
 - value of the
-- But does
 - not
 - fee.
 - Subject-
-- not
 - exceed.
 - matter
-- exceed.
 - exceeds.
 - (2)
 - (3)
 - (1)
-- (2)
-- Rs.
 - Rs.
 - Rs.
 - Rs.
 - 1,000
-- 3.500
-- 3,600
+- 4,200
 - 1,100
-- 3.600
-- 3,700
+- 4,300
 - 1,200
-- 3,700
-- 3,800
-- 1,300
-- 3,800
-- 3,900
-- 1,400
-- 3,900
-- 4,000
-- 1,500
-- 4,000
-- 4,100
-- 1,600
-- 4,100
-- 4,200
-- 1,700
-- 4,200
-- 4,300
-- 1,800
-- 4,300
-- 4,400,
-- 1,900
 - 4,400
+- 1,300
 - 4,500
+- 1,400
+- 4,600
+- 1,500
+- 4,700
+- 1,600
+- 4,800
+- 1,700
+- 4,900
+- 1,800
+- 5,000
+- 1,900
+- 5,100
 - 2,000
-- 4,500
-- 4,600
+- 5,200
 - 2,100
-- 4,600
-- 4,700
+- 5,300
 - 2,200
-- 4,700
-- 4,800
+- 5,400
 - 2,300
-- 4,800
-- 4,900
+- 5,500
 - 2,400
-- 4,900
-- 5,000
+- 5,600
 - 2,500
-- 5,000
-- 5,100
+- 5,700
 - 2,600
-- 5,100
-- 5,200
-- 2,700
-- 5,200
-- 5,300
-- 2,800
-- 5,300
-- 5,400
-- 2,900
-- 5,400
-- 5,500
-- 3,000
-- 5,500
-- 5,600
-- 3,100
-- 5,600
-- 5,700
-- 3,200
-- 5,700
-- 5,800
-- 3,300
 - 5.800
+- 2,700
 - 5,900
-- 3,400
-- 5,900
+- 2,800
 - 6,000
-- 3,500
-- 6,000
+- 2,900
 - 6,100
-- 1 This Table of rates of ad-valorem fees leviable on the institution of suits, etc.
-- was substituted by Mah. 18 of 2002, s.7(g).
-- H 1053—5a
-- Table of rates of ad valorem fees leviable on the institution of suits.
+- 3,000
+- 6,200
+- 3,100
+- 6,300
+- 3,200
+- 6,400
+- 3,300
+- 6,500
+- 3,400
+- 6,600
+- 3,500
+- 6,700
+- 3,600
+- 6,800
+- 3,700
+- 6,900
+- 3,800
+- 7,000
+- 3,800
+- 3,900
+- 7,100
+- 7,200
+- 3,900
+- 4,000
+- 7,200
+- 7,300
+- 4,000
+- 4,100
+- 7,300
+- 7,400
+- 4,100
+- 4,200
+- 7,400
+- 7,500
+- 1 This Table of rates of ad-valorem fees leviable on the institution of suits, etc. was substituted
+- by Mah. 18 of 2002, s.7(g).
+- SCHEDULE I.—contd.
+- 1[Table of rates of ad valorem fees leviable on the institution of suits.
 - (2)
 - (3)
 - (1)
 - Rs.
 - Rs.
 - Rs.
-- 6,200
-- 9,300
-- 6,300
-- 9,400
-- 6,400
-- 9,500
-- 6,500
-- 9,600
-- 6,600
-- 9,700
-- 6,700
-- 9,800
-- 6,800
-- 9,900
-- 6,900
-- 10,000
-- 7,000
-- 10,500
-- 7,100
-- 11,000
-- 7,200
-- 1,010
-- 11,500
-- 7,300
-- 1,025
-- 12,000
-- 7,400
-- 1,040
-- 12,500
-- 7,500
-- 1,055
-- 13,000
 - 7,600
 - 1,070
-- 13,500
+- 16,500
 - 7,700
 - 1,085
-- 14,000
+- 17,000
 - 7,800
 - 1,100
-- 14,500
+- 17,500
 - 7,900
 - 1,115
-- 15,000
+- 18,000
 - 8,000
 - 1,130
-- 15,500
+- 18,500
 - 8,100
 - 1,145
-- 16,000
+- 19,000
 - 8,200
 - 1,160
-- 16,500
+- 19,500
 - 8,300
 - 1,175
-- 17,000
+- 20,000
 - 8,400
 - 1,190
-- 17,500
+- 21,000
 - 8,500
 - 1,205
-- 18,000
+- 22,000
 - 8,600
 - 1,220
-- 18,500
+- 23,000
 - 8,700
 - 1,235
-- 19,000
+- 24,000
 - 8,800
 - 1,250
-- 19,500
+- 25,000
 - 8,900
 - 1,265
-- 20,000
+- 26,000
 - 9,000
 - 1,280
-- 21,000
+- 27,000
 - 9,100
 - 1,295
-- 22,000
-- 9,100
+- 28,000
 - 9,200
 - 1,310
-- 23,000
-- 24,000
-- 3,330
-- 9,200
+- 29,000
 - 9,300
 - 1,325
-- 24,000
-- 25,000
-- 3,430
-- Table of rates of ad valorem fees leviable on the institution of suits, etc.
-- (2)
-- (3)
-- (1)
-- (2)
-- Rs.
-- Rs.
-- Rs.
-- Rs.
-- 26,000
-- 3,530
-- 46,000
-- 48,000
-- 27,000
-- 3,630
-- 48,000
-- 50,000
-- 28,000
-- 3,730
-- 50,000
-- 55,000
-- 29,000
-- 3,830
-- 55,000
-- 60,000
 - 30,000
-- 3,930
-- 60,000
-- 65,000
+- 9,400
+- 1,340
 - 32,000
-- 4,030
-- 65,000
-- 70,000
+- 9,500
+- 1,355
 - 34,000
-- 4,130
-- 70,000
-- 75,000
+- 9,600
+- 1,370
 - 36,000
-- 4,230
+- 9,700
+- 1,385
+- 38,000
+- 9,800
+- 1,400
+- 40.000
+- 9,900
+- 1,415
+- 42,000
+- 10,000
+- 1,430
+- 44,000
+- 10,500
+- 1,505
+- 46,000
+- 11,000
+- 1,580
+- 48,000
+- 11,500
+- 1,655
+- 50,000
+- 12,000
+- 1,730
+- 55,000
+- 12,500
+- 1,805
+- 60,000
+- 13,000
+- 1,880
+- 65,000
+- 13,500
+- 1,955
+- 70,000
+- 14,000
+- 2,030
 - 75,000
 - 80,000
-- 38,000
-- 4,330
+- 14,000
+- 14,500
+- 2,105
 - 80,000
 - 85,000
-- 40,000
-- 4,430
+- 14,500
+- 15,000
+- 2,180
 - 85,000
 - 90,000
-- 42,000
-- 4,530
+- 15,000
+- 15,500
+- 2,255
 - 90,000
 - 95,000
-- 44,000
-- 4,630
+- 15,500
+- 16,000
+- 2,330
 - 95,000
 - 1,00,000
-- 46,000
-- 4,730
+- 16,000
+- 16,500
+- 2,405
 - and the fees increases at the rate of Rupees 200 for every Rupees 10,000 or part
-- thereof over Rupees one lakh upto Rupees 11,00,000 and over Rupees 11,00,000
-- at the rate of Rupees 1,200 for every Rupees 1,00,000 or part thereof, upto a
-- maximum fee of Rupees 3,00,000 for example :—
+- thereof over Rupees one lakh upto Rupees 11,00,000 and over Rupees 11,00,000 at
+- the rate of Rupees 1,200 for every Rupees 1,00,000 or part thereof, upto a maximum
+- fee of Rupees 3,00,000 for example :—
 - Rs.
 - Rs.
 - 6,430
@@ -674,3 +659,1026 @@ Notes in the official text:
 - 18,430
 - 15,00,000
 - 20,430
+- H 4116—5a
+- SCHEDULE II
+- Fixed Fees.
+- Number
+- . . .
+- (1)
+- (2)
+- (a) When presented to any
+- 1. Application or petition.
+- officer
+- of
+- the
+- Excise
+- Department or to any
+- Magistrate by any person
+- having dealings with the
+- Government, and when the
+- subject-matter
+- of
+- such
+- application
+- relates
+- exclusively to those dealings ;
+- or when presented to any
+- officer of land-revenue by any
+- person holding temporarily
+- settled land under direct
+- engagement
+- with
+- Government, and when the
+- subject-matter
+- of
+- the
+- application or a petition
+- relates exclusively to such
+- engagement ;
+- or when presented to any
+- Municipal Commissioner
+- under any Act for the time
+- being in force for the
+- conservancy or improvement
+- of
+- any
+- place,
+- if
+- the
+- application
+- or
+- petition
+- relates
+- solely
+- to
+- such
+- conservancy or improvement ;
+- or when presented to any Civil
+- Court other than a principal
+- Civil Court of original
+- jurisdiction ;
+- or to any Court of Small
+- Causes constituted under the
+- Provincial Small Cause
+- Courts Act, 1887, or to a
+- Collector or other officer of
+- revenue or to a public officer
+- in relation to any suit or case
+- in which the amount of value
+- of the subject-matter is less
+- than fifty rupees
+- 2[* * * ] ;
+- or when presented to any Civil,
+- Criminal or Revenue Court,
+- or to any Board or executive
+- officer for the purpose of
+- obtaining
+- a
+- copy
+- or
+- translation of any judgment,
+- decree or order passed by
+- 1 These words were substituted for the words "one rupee" by Mah. 18 of 2002, s. 8(a)(1).
+- 2 The portion beginning with the words "not being an application" and ending with the words
+- "for the time being in force" was deleted by Mah. 23 of 1996, s. 5 (1)(a).
+- SCHEDULE II—contd.
+- Number
+- . . .
+- (2)
+- Five rupees,
+- such Court, Board or
+- Officer, or of any other
+- document on record in such
+- Court
+- or
+- office.
+- 1[* * * ]
+- 2[(c) (i) When containing a
+- complaint or charge of any
+- offence other than the
+- offence
+- under
+- the
+- Negotiable Instruments
+- Act, 1881.
+- 3[* * * ]
+- (d) When presented to any
+- 4[Ten rupees].
+- competent authority for the
+- purpose of obtaining a
+- certificate of domicile.
+- (e) When presented to a
+- 5[Ten rupees].
+- Chief Controlling Revenue
+- or Executive Authority or
+- to a Commissioner of
+- Revenue or to any Chief
+- Officer charged with the
+- executive administration of
+- a
+- division
+- and
+- not
+- otherwise provided for by
+- this Act.
+- (f) When
+- presented
+- to
+- the High Court—
+- (i)
+- 7[0ne hundred twenty-five
+- rupees.]
+- 6[***] for directions,
+- orders or writs, under
+- article
+- of
+- the
+- Constitution
+- for
+- any
+- purpose other than the
+- enforcement
+- of
+- the
+- fundamental
+- rights
+- conferred by Part III
+- thereof ;
+- (ii) for directions, orders
+- 8[Two hundred and fifty
+- rupees.]
+- or writs, under article 226
+- for the enforcement of any
+- of the fundamental rights
+- conferred by Part III of
+- the Constitution or for
+- the
+- exercise
+- of
+- its
+- jurisdiction under article
+- 227 thereof ;
+- 9[Twenty rupees].
+- (iii) in any other case not
+- otherwise provided for by
+- this Act.
+- 1 Clause (b) was deleted by Mah. 23 of 1996, s. 5 (1)(c).
+- 2 Clause (c) was substituted by Mah. 18 of 2002, s.8(a)(2).
+- 3 Sub-clause (ii) was deleted by Mah. 17 of 2008, s.4.
+- 4 These words were substituted for the words " Two rupees" by Mah. 18 of 2002, s.8(3).
+- 5 These words were substituted far the words " Five rupees " by Mah. 18 of 2002, s. 8(4).
+- 6 The words and figures " under section 45 of the Specific Relief Act, 1877 or " were deleted
+- by Mah. 23 of 1996, s. 5 (1)(g).
+- 7 These words were substituted for the words "One hundred rupees", by Mah. 18 of 2002,
+- s. 8(5) (i).
+- 8 These words were substituted for the words "Forty rupees ", by Mah. 18 of 2002, s. 8(5) (ii).
+- 9 These words were substituted for the words "Ten rupees ", by Mah. 18 of 2002, s. 8(5) (iii).
+- SCHEDULE II—contd.
+- Number
+- . . .
+- (1)
+- (2)
+- . . . .
+- 2. Revision application
+- when presented to the High
+- Court under section 25 of
+- the Provincial Small Cause
+- Courts Act, 1887 or section
+- 115 of the Code of Civil
+- Procedure, 1908.
+- When the Court grants the
+- Application to any Civil
+- Court that records may be
+- called for from another
+- application and is of opinion
+- that the transmission of such
+- records involves the use of
+- the post.
+- . . . .
+- First Application (other
+- than a petition containing
+- a criminal charge or
+- information)
+- for
+- the
+- summons of a witness or
+- other person to attend
+- either to give evidence or
+- to produce a document, or
+- in respect of the production
+- or filing of an exhibit not
+- being an affidavit made for
+- the immediate purpose of
+- being produced in Court.
+- . . . .
+- Application for leave to
+- sue as a pauper.
+- (a) When presented a District
+- Application for leave to
+- appeal as a pauper.
+- Court.
+- (b)
+- When presented to a
+- Commissioner or the High
+- Court.
+- . . . .
+- Plaint or memorandum
+- of appeal in a suit to
+- obtain possession under
+- the Mamlatdars Court Act,
+- . . . .
+- Plaint or memorandum
+- of appeal in a suit to
+- establish or disprove a
+- right of occupancy.
+- 1 These words were substituted for the words " Twenty rupees ", by Mah. 18 of 2002, s. 8(b).
+- 2 These words were substituted for the words " Four rupees ", by Mah. 18 of 2002, s. 8(c).
+- 3 These words were substituted for the words " One rupee ", by Mah. 18 of 2002, s. 8(d).
+- 4 These words were substituted for the words " Two rupees ", by Mah. 18 of 2002, s. 8(e).
+- 5 These words were substituted for the words " Four rupees ", by Mah. 18 of 2002, s. 8(f)(1).
+- 6 These words were subtituted for the words " Ten rupees ", by Mah. 18 of 2002, s. 8(f)(2).
+- 7 These words were substituted for the words " Ten rupees ", by Mah. 18 of 2002, s. 8(g).
+- 8 These words were substituted for the words " Two rupees ", by Mah. 18 of 2002, s. 8(h).
+- SCHEDULE II—contd.
+- Number
+- . . .
+- (2)
+- 2[Ten rupees.]
+- . . . .
+- or
+- other
+- instrument of obligation
+- given in pursuance of an
+- order made by a Court or
+- Magistrate under the Code
+- of Criminal Procedure, 1973,
+- or under the Code of Civil
+- . . . .
+- 3[Five rupees}.
+- All other bail-bonds
+- given under the Code of
+- Criminal Procedure, 1973,
+- recognizance
+- to
+- prosecute and recognizances
+- for personal appearance or
+- . . . .
+- 4[Ten rupees.]
+- under
+- section 49 of the Indian
+- When presented for the conduct
+- of any one case—
+- Mukhtarnama
+- or
+- 5[Ten rupees],
+- (a) to any Civil or Criminal
+- Court other than the High
+- Court, or to any Revenue
+- Court, or to any Collector or
+- Magistrate, or other executive
+- officer ;
+- (b) to the High Court.
+- 6[Fifteen rupees].
+- (a) to any Civil Court other than
+- 7[Five rupees],
+- Memorandum of appeal
+- when the appeal is not from
+- decree or an order having
+- the force of a decree, and is
+- the High Court or to any
+- Revenue Court, or Executive
+- Officer other than the High
+- Court or Chief Controlling
+- Revenue
+- or
+- Executive
+- Authority;
+- 8[Ten rupees],
+- (b) to the Chief Controlling
+- Executive
+- or
+- Revenue
+- Authority;
+- 9[Twenty-five rupees].
+- (c) to the High Court.
+- 1 These articles were substituted for articles 9 and 10 respectively by Mah. 12 of 1976, s. 2.
+- 2 These words were substituted for the words " Five rupees " by Mah. 18 of 2002, s. 8(i).
+- 3 These words were substituted for the words " One rupee ", by Mah. 18 of 2002, s. 8(j).
+- 4 These words were substituted for the words " Five rupees ", by Mah. 18 of 2002, s. 8(k).
+- 5 These words were substituted for the words " Three rupees " by Mah. 18 of 2002, s. 8(l)(1).
+- 6 These words were substituted for the words " Five rupees ", by Mah. 18 of 2002, s. 8(l)(2).
+- 7 These words were substituted for the words " Two rupees ", by Mah. 18 of 2002, s. 8(m)(1).
+- 8 These words were substituted for the words " Five rupees ", by Mah. 18 of 2002, s. 8(m)(2).
+- 9 These words were substituted for the words " Ten rupees ", by Mah. 18 of 2002, s. 8(m)(3).
+- SCHEDULE II—contd.
+- Number
+- . . .
+- (1)
+- (2)
+- . .
+- . .
+- 1[(i) When presented to the
+- High Court.
+- (ii) When presented to the
+- Court other than High Court.
+- . . . .
+- Application for permission
+- to cut timber in Government
+- forests, or otherwise relating
+- to such forests.
+- . . . .
+- Memorandum of appeal
+- presented to—
+- (a) the State Government ..
+- (b) any Forest Officer, where
+- such appeal is provided for,
+- by or under the Indian
+- Forest Act, 1927 or any
+- corresponding law in force.
+- . . . .
+- Petition in a suit under
+- the Native Converts' Marriage
+- Dissolution Act, 1866.
+- Application—
+- . . . .
+- (a) under section 20 of the
+- Arbitration Act, 1940 ;
+- When the amount or value of
+- (b) for probate or letters of
+- the estate does not exceed
+- two thousand rupees.
+- administration
+- or
+- for
+- revocation thereof under the
+- Indian Succession Act, 1925.
+- When it exceeds two thousand
+- (c) for a certificate under part
+- rupees, but does not exceed
+- five thousand rupees.
+- When it exceeds five thousand
+- rupees.
+- X of the Indian Succession
+- Act, 1925, or Bombay
+- Regulation VIII of 1827 or
+- any corresponding law for
+- the time being in force;
+- . . . .
+- (d) for opinion or advice or for
+- discharge from a Trust, or
+- for appointment of new
+- Trustees under section 34,
+- 72, 73 or 74 of the Indian
+- Trusts Act, 1882;
+- When the amount or value of
+- (e) under rule 58 of Order XXI
+- the property exceeds five
+- hundred rupees.
+- Code
+- of
+- Civil
+- Procedure, 1908 regarding a
+- claim to attached property.
+- 1 These entries were substituted by Mah. 18 of 2002, s. 8 (n).
+- 2 These words were substituted for the words " One rupee ", by Mah. 18 of 2002, s. 8 (o).
+- 3 These words were substituted for the words " Ten rupees ", by Mah. 18 of 2002, s. 8 (p)(1).
+- 4 These words were substituted for the words " Two rupees ", by Mah. 18 of 2002, 8 (p) (2).
+- 5 These words were substituted for the words " Seventy-five rupees ", by Mah. 18 of 2002, s. 8(q).
+- 6 These words were subsituted for the words " Thirty rupees", by Mah. 18 of 2002, s. 8 (r)(1).
+- 7 These words were subsituted for the words " Five rupees", by Mah. 18 of 2002, s. 8 (r)(2).
+- 8 These words were substituted for the words " Fifteen rupees ", by Mah. 18 of 2002, s. 8(r) (3) (i).
+- 9 These words were substituted for the words " Twenty-five rupees ", by Mah. 18 of 2002, s.
+- 8 (r) (3) (ii), (4) and (5).
+- Number
+- . . .
+- (2)
+- Agreement in writing
+- stating a question for the
+- opinion of the Court under
+- . . . .
+- the Code of Civil Procedure,
+- Every petition under
+- the Indian Divorce Act,
+- 1869 except petitions under
+- section 44 of that Act and
+- every memorandum of
+- appeal under section 55 of
+- . . . .
+- Plaint, application,
+- petition, or memorandum
+- of appeal under the Parsi
+- Marriage and Divorce Act,
+- . . . .
+- 1936, the Special Marriage
+- Act, 1954 or the Hindu
+- Marriage Act, 1955 :
+- Provided that, where in
+- addition to divorce damages
+- Petitions under the
+- Indian Christian Marriage
+- . . . .
+- Act, 1872, sections 45 and
+- Plaint, petition or
+- . . . .
+- (including
+- memorandum of appeal)
+- capable
+- of
+- being treated as a suit—
+- . . . .
+- annulment
+- of
+- dissolution
+- of
+- . . . .
+- (c) in suit for custody of
+- . . . .
+- . . . .
+- (d) for restitution of conjugal
+- . . . .
+- (e) for judicial scparation;
+- 8 (t) and (u).
+- 8 (w) (1) and (2) and (4) and (5).
+- 1[Seventy-five rupees].
+- 2[One hundred rupees].
+- 2[One hundred rupees].
+- A fee as above plus a fee on
+- the amount of damages
+- claimed according to the
+- scale prescribed under
+- Article 1 of Schedule I.
+- 3[Ten rupees].
+- 4[One hundred rupees].
+- 4[One hundred rupees].
+- 5[Seventy-five rupees].
+- 4[One hundred rupees].
+- 4[One hundred rupees].
+- SCHEDULE II—contd.
+- 1 These words were substituted for the words " Fifty rupees" by Mah. 18 of 2002, s. 8 (s).
+- 2 These words were substituted for the words " Seventy-five rupees " by Mah. 18 of 2002, s.
+- 3 These words were substituted for the words " Five rupees " by Mah. 18 of 2002, s. 8 (v).
+- 4 These words were substituted for the words " Seventy-five rupees " by Mah. 18 of 2002, s.
+- 5 These words were substituted for the words " Fifty rupees " by Mah. 18 of 2002, s. 8 (w) (3).
+- SCHEDULE II—contd.
+- Number
+- . . .
+- (1)
+- (2)
+- . . . .
+- (f) in or to any Civil Court not
+- otherwise provided for and
+- the subject-matter of which
+- is not capable of being
+- estimated in money value.
+- When such judgment or order
+- Copy or translation of a
+- judgment or order not being,
+- or having the force of, a
+- is given or made by any Civil
+- Court other than the High
+- Court, or by any Revenue
+- Court.
+- When such judgment or order
+- is given or made by the High
+- Court.
+- When such decree or order is
+- Copy of a decree or order
+- having the force of a decree.
+- made by any Civil Court
+- other than the District Court
+- or High Court, or by any
+- Revenue Court;
+- When such decree or order is
+- made by the District Court;
+- When such decree or order is
+- made by the High Court.
+- (a) When the stamp duty
+- chargeable on the original
+- does not exceed
+- 6[Twenty
+- rupees.]
+- (b) In any other case.
+- Copy of any document
+- (including power of attorney)
+- liable to stamp-duty under
+- the Bombay Stamp Act,
+- 1958 or the Indian Stamp
+- or
+- any
+- corresponding
+- law
+- in
+- force, as the case may be,
+- when left by any party to a
+- suit or proceeding in place of
+- the original withdrawn.
+- For every three hundred and
+- sixty words or fraction of
+- three hundred and sixty
+- words.
+- Copy of any revenue or
+- judicial proceeding or order
+- not otherwise provided for
+- by this Act, or copy of any
+- amount, statement, report or
+- the like, taken out of any
+- Civil or Criminal or Revenue
+- Court or office, or from the
+- office of any Chief Officer
+- charged with the executive
+- administration of a division.
+- 1 These words were substituted for the words " Thirty rupees " by Mah. 9 of 1970, s. 5.
+- 2 These words were substituted for the words " Two rupees " by Mah.18 of 2002, s. 8 (x) (1).
+- 3 These words were substituted for the words " Five rupees " by Mah.18 of 2002, s. 8 (x) (2)
+- and (y) (1).
+- 4 These words were substituted for the words " Ten rupees " by Mah.18 of 2002, s. 8 (y) (2).
+- 5 These words were substituted for the words " Fifteen rupees " by Mah.18 of 2002, s. 8 (y) (3).
+- 6 These words were substituted for the words " Ten rupees " by Mah.18 of 2002, s. 8 (z) (1).
+- 7 These words were substituted for the words " One rupee " by Mah.18 of 2002, s. 8 (z) (2) (i).
+- 8 These words were substituted for the words " Ten rupees " by Mah.18 of 2002, s. 8 (z) (2) (ii).
+- 9 These words were substituted for the words " One rupee " by Mah.18 of 2002, s. 8. (z-a).
+- SCHEDULE II.—contd.
+- Number
+- . . .
+- (2)
+- . . . .
+- 1[Ten rupees.]
+- Application made under
+- the *Bombay Money-lenders
+- Act, 1946 or under any
+- corresponding law in force.
+- . . . .
+- 2[Five rupees.]
+- Application presented to
+- any Registration Officer for
+- registration
+- . . . .
+- 4[Five rupees.]
+- Appeal or application to
+- the Registrar under section
+- 72 or 73, as the case may
+- 3[Registration Act,
+- 4[Five rupees.]
+- . . . .
+- (a) Application for a
+- licence under sub-clause (i)
+- (b) Application for certificate
+- of registration under clause
+- (xa), of sub-section (1) of
+- section 33 of the Bombay
+- . . . .
+- 7[Twenty rupees.]
+- Application or appeal to
+- the Regional or
+- State
+- Transport Authority or the
+- State Government under
+- 6[Chapter IV of the Motor
+- Vehicles Act, 1988].*
+- petition
+- questioning the election of a
+- person in respect of the
+- . . . .
+- 8[Fifty rupees].
+- (a) of Sarpanch or Upa-
+- Sarpanch or member of a
+- . . . .
+- 10[One hundred fifty rupees].
+- (b) of councillor or member
+- 9[a Municipal Council,
+- Zilla Parishad, Panchayat
+- Samiti] or such other Local
+- 1 These words were substituted for the words " Five rupees " by Mah. 18 of 2002, s. 8 (z-b).
+- 2 These words were substituted for the words " Two rupees " by Mah. 18 of 2002, s. 8 (z-c).
+- 3 These words and figures were substituted for the words and figures " Indian Registration
+- Act, 1908" by Mah. 23 of 1996, s.30 (a).
+- 4 These words were substituted for the words " Two rupees " by Mah. 18 of 2002, s. 8 (z-d)
+- 5 Article 31 was substituted for the original by Mah. 50 of 1974, s.2.
+- 6 These words, letters and figures were substituted for the words, letters and figures "Chapter
+- IV of the Motor Vehicles Act, 1939" by Mah. 23 of 1996, s. 5(32)(a).
+- 7 These words were substituted for the words "Ten rupees" by Mah. 18 of 2002, s. 8 (z-f)
+- 8 These words were substituted for the words " Twenty rupees " by Mah. 18 of 2002, s. 8
+- (z-g) (i).
+- 9 These words were substituted for the words " a Municipality, District Local Board " by
+- Mah. 23 of 1996, s.5 (33) (b).
+- 10 These words were substituted for the words " One hundred rupees " by Mah. 18 of 2002,
+- s. 8 (z-g)(ii).
+- * See How Maharashtra Money-Lenders (Regulation) Act, 2014 (Mah. 8 of 2014).
+- (G.C.P.) H 4116—7 (4742—3-2016)
+- SCHEDULE II—contd.
+- Number
+- . . .
+- (1)
+- (2)
+- . . . .
+- . . . .
+- 1[(c) of Mayor or Councillor of
+- the Municipal Corporation of
+- Greater Bombay or Mayor or
+- Deputy Mayor or Councillor
+- of the Corporation of the City
+- of Nagpur or a Municipal
+- Corporation established
+- under the Bombay Provincial
+- Municipal Corporations Act,
+- 1949, or President, Vice-
+- President, Chairman or
+- Deputy Chairman of any local
+- authority referred to in clause
+- Application or petition to
+- the Court under section 391,
+- 439 or 522 of the Companies
+- Any other application or
+- . . . .
+- . . . .
+- petition to the Court for
+- Judicial action or relief under
+- the said Act, not otherwise
+- provided for under this Act.
+- Application—
+- (a) for order of arrest or
+- . . . .
+- attachment before judgment
+- or for temporary injunction;
+- (b) for compensation for
+- . . . .
+- arrest or attachment before
+- judgment or in respect of
+- injunction
+- obtained on insufficient
+- (c) for the appointment of a
+- . . . .
+- receiver in a case in which
+- the applicant has no present
+- right of possession of the
+- property in dispute;
+- (d) for setting aside decree
+- . . . .
+- . . . .
+- passed ex-parte or for review
+- of order dismissing suit for
+- Appeal or application to
+- the Co-operative Tribunal.
+- Application made by a
+- party to the Magistrate
+- under section 145 of the
+- Criminal
+- Procedure, 1973].
+- 1 Clause (c) was substituted by Mah. 23 of 1996, s. 5 (33) (d).
+- 2 These words were substituted for the words " Two hundered rupees" by Mah. 18 of 2002 s.
+- 3 These words weres substituted for the words " One hundred rupees " by Mah. 18 of 2002, s.
+- 8 (z-h) (1).
+- 4 These words were substituted for the words " Twenty rupees " by Mah. 18 of 2002, s. 8
+- (z-h) (2).
+- 5 These words were substituted for the words " Five rupees " by Mah. 18 of 2002, s. 8 (z-i) (1)
+- and (2).
+- 6 These words were substituted for the words " Ten rupees " by Mah. 18 of 2002, s. 8 (z-i) (3).
+- 7 These words were substituted for the words " Two rupees " by Mah. 18 of 2002 s. 8 (z-i) (4).
+- 8 These words were substituted for the words " Ten rupees " by Mah. 18 of 2002, s. 8 (z-j) .
+- 9 These words and figures were substituted for the words and figures " Code of Criminal
+- Procedure, 1898 " by Mah. 23 of 1996, s. 5 (37).
+- 10 These words were substituted for the words " One rupee " by Mah. 18 of 2002, s. 8 (z-k).
+- SCHEDULE II—contd.
+- Number
+- . . .
+- (2)
+- . . . .
+- 2[Fifty rupees].
+- . . . .
+- 3[Fifty rupees].
+- Memorandum of appeal
+- or application for revision or
+- review presented under
+- of
+- the
+- Maharashtra Land Revenue
+- (a) Appellate Authority
+- (b) State Government
+- Application, reference,
+- complaint, appeal or, as the
+- case may be, revision
+- application filed under the
+- Maharashtra Recognition of
+- and
+- Prevention of Unfair Labour
+- Practices Act, 1971,—
+- (a) application to the Labour
+- Two hundred and fifty rupees.
+- . . . .
+- Court under section 25,—
+- (i) by the employer for declaration
+- . . . .
+- Hundred rupees.
+- that the strike is illegal.
+- (ii) by a recognised union that
+- the lockout is illegal.
+- (b) complaint under section
+- . . . .
+- Twenty rupees.
+- Fifty rupees.
+- 28 to the Labour Court with
+- reference to item 1 of
+- Schedule IV to the Act.
+- (c) complaint to the Industrial
+- . . . .
+- . . . .
+- Fifty rupees.
+- . . . .
+- Fifty rupees.
+- . . . .
+- Twenty rupees.
+- Court under section 28
+- regarding any item in Schedule
+- 5[II, III or IV] to the Act.
+- (i) when by any union
+- (d) appeal under section 42
+- . . . .
+- Fifty rupees.
+- . . . .
+- and revision under section
+- 44 to the Industrial Court
+- (e) application filed under
+- Twenty rupees.
+- . . . .
+- Twenty rupees.
+- (f) other miscellaneous matters
+- . . . .
+- not provided in the Act or any
+- of the above entries.
+- 38B. Application or reference
+- Industrial
+- Disputes Act, 1947,—
+- (a) under section 2 (k)
+- (b) to the Labour Court under
+- . . . .
+- Two hundred and fifty rupees.
+- Fifty rupees.
+- section 2-A in any dispute
+- between
+- workman and his employer
+- connected with or arising out
+- of discharge, dismissal,
+- retrenchment or termination
+- of the workman.
+- 1 Article 38 was substituted by Mah. 23 of 1996, s. 5 (38).
+- 2 These words were substituted for the words " Ten rupees ", by Mah. 18 of 2002, s.8 (z-l) (i).
+- 3 These words were substituted for the words " Thirty rupees ", by Mah. 18 of 2002.
+- 4 These articles were inserted, by Mah. 18 of 2002, s. 8 (z-m).
+- 5 These letters and words were substituted for the letters and words "II or III" by Mah. 22 of
+- 2004, s. 3(a).
+- H 4116—7a
+- SCHEDULE II.—contd.
+- Number
+- . . .
+- (1)
+- (2)
+- . . . .
+- (c) regarding any strikes and
+- lock-outs to the Labour
+- Court under section 24.
+- (d) during the conciliation
+- . . . .
+- proceedings under section 33.
+- . . . .
+- (e) in any other miscellaneous
+- other
+- than
+- referred above.
+- 38C. Application or reference,
+- the
+- Bombay
+- Industrial Relations Act,
+- (a) in arbitration proceeding
+- . . . .
+- to the Industrial Court
+- under sections 69, 71 and
+- . . . .
+- (b) to the Labour Court under
+- section 78 read with section
+- . . . .
+- (c) appeals filed to the
+- Industrial Court under
+- section 84 or revision
+- applications filed under
+- . . . .
+- (d) in any other miscellaneous
+- cases other than those
+- specified above.
+- . . . .
+- 38D. Claim or reference under
+- section 6A of the Bombay
+- Labour Welfare Fund Act,
+- . . . .
+- 38E. Application or reference
+- under the Payment of
+- Gratuity Act, 1971.
+- . . . .
+- 1[Complaint and Appeal]
+- under the Maharashtra
+- Mathadi, Hamal and other
+- Manual Workers (Regulation
+- at Employment and Welfare)
+- . . . .
+- 39. Save as otherwise
+- provided in this Act or any
+- other law, memorandum of
+- appeal or application for
+- revision or review presented
+- to the State Government
+- under any Provincial or
+- State Act or under any rules
+- or orders issued thereunder.
+- . . . .
+- All
+- adjournment
+- applications in Civil and
+- Criminal Courts.
+- 1 These words were substituted for the words " Application or reference" by Mah. 22 of 2004,
+- s. 3 (b)
+- 2 Article 39 was inserted by Mah. 51 of 1976, s. 2.
+- 3 These words were substituted for the words " Twenty rupees " by Mah. 18 of 2002, s. 8 (z-n).
+- 4 This article was inserted, by Mah. 18 of 2002, s. 8 (z-o).
+- SCHEDULE III
+- (See section 29)
+- Form of valuation (to be used with such modifications, if any, as may be necessary).
+- Re—Probate of the Will of
+- (or Administration of
+- the property and credits of
+- ,) deceased.
+- solemnly affirm
+- make oath
+- and say that I am the executor (or one of the executors or one of the next of-kin) of
+- ...................................................................................................,deceased, and that
+- I have truly set forth in Annexure-A to this affidavit all the property and credit of
+- which the abovenamed deceased died possessed or was entitled to at the time of his
+- death, and which have come, or are likely to come, to my hands.
+- I further say that I have also truly set forth in Annexure-B all the items I am by
+- law allowed to deduct.
+- I further say that the said assets, exclusive only of such last mentioned items
+- but inclusive of all rents, interest, dividends and increased values since the date of the
+- death of the said deceased, are under the value of
+- ANNEXURE A.
+- VALUATION OF THE MOVEABLE AND IMMOVEABLE PROPERTY OF DECEASED.
+- RS.
+- Cash in the house and at the banks, household goods,
+- wearing apparel, books, plate, jewels, etc.
+- (State estimated value according to best of Executor's
+- or Administrator's belief).
+- Property in Government securities transferable at
+- the Public Debt Office.
+- (State description and value at the price of the day ;
+- also the interest separately, calculating it to the
+- time of making the application.)
+- Immovable property consisting of
+- . .
+- . .
+- . .
+- (State description, giving, in the case of houses the
+- assessed value, if any, and the number of years'
+- assessment the market-value is estimated at, and
+- in the case of land, the area, the market-value
+- and all rents that have accrued.)
+- SCHEDULE III—contd.
+- Leasehold property
+- . .
+- . .
+- . .
+- . .
+- (If the deceased held any leases for years determinable, state the
+- number of years' purchase the profit rents are estimated to be
+- worth and the value of such, inserting separately arrears due
+- at the date of death and all rents received or due since that
+- date to the time of making the application.)
+- Property in public companies. .
+- . .
+- . .
+- . .
+- (State the particulars and the value calculated at the price of the
+- day; also the interest separately; calculating it to the time of
+- making the application.)
+- Policy of insurance upon life, money out on mortgage and other
+- securities, such as bonds, mortgages, bills, notes and other
+- securities for money
+- . .
+- . .
+- (State the amount of the whole; also the interest separately,
+- calculating it to the time of making the application.)
+- . .
+- . .
+- . .
+- . .
+- (other than bad).
+- . .
+- . .
+- . .
+- . .
+- (State the estimated value, if any).
+- Other property not comprised under the foregoing heads
+- (State the estimated value, if any.)
+- Total . .
+- Deduct amount shown in Annexure B not subject to duty
+- Net Total . .
+- ANNEXURE B
+- SCHEDULE OF DEBTS, ETC.
+- Amount of debts due and owing from the deceased,
+- payable by law out of the estate
+- . .
+- . .
+- . .
+- 1[(State the particulars of the debts with interest in
+- respect of each debt separately, calculating it to the time of
+- making the application).]
+- Amount of funeral expenses . .
+- . .
+- . .
+- . .
+- Amount of mortgage incumbrances
+- . .
+- . .
+- . .
+- 2[(State the particulars of amount of mortgage incumbrances
+- with interest in respect of each mortgage incumbrance sepa-
+- rately, calculating it to the time of making the application).]
+- Property held in trust not beneficially or with general power to
+- confer a beneficial interest . .
+- . .
+- . .
+- Other property not subject to duty
+- . .
+- . .
+- . .
+- Total
+- . .
+- 1 This portion was added by Mah. 26 of 1986, s. 2 (a).
+- 2 This portion was added, by Mah. 26 of 1986, s. 2 (b).
+- SCHEDULE IV
+- (See section 49)
+- Laws repealed.
+- Number
+- Law
+- The Court-fees Act, 1870, in its
+- The whole, in so far as it relates
+- to entries 3 and 66 of List II
+- and entry 47 of List III in the
+- Seventh Schedule to the
+- Constitution
+- application to the pre-
+- Reorganisation State of
+- Bombay, excluding the trans-
+- ferred territories and to the
+- Vidarbha region and the
+- Kutch area of the State of
+- Bombay.
+- The Court-fees Act, 1870, as
+- The whole, in so far as it relates
+- to entries 3 and 66 of List II
+- and entry 47 of List III in the
+- Seventh Schedule to the
+- Constitution of India.
+- modified and applied to the
+- Saurashtra area of the State
+- of Bombay by the State of
+- Saurashtra (Application of
+- Central and Bombay Acts)
+- Ordinance, 1948.
+- The Hyderabad Court Fees Act,
+- The whole, in so far as it relates
+- in its application to the
+- Hyderabad area of the State
+- of Bombay.
+- to entries 3 and 66 of List II
+- and entry 47 of List III in the
+- Seventh Schedule to the
+- Constitution of India.
+- The Bombay Finance Act, 1932.
+- Section 2A and Part III contain-
+- ing sections 12, 13 and 14.
+- SCHEDULE V
+- (See section 50)
+- Laws amended
+- Number
+- Law
+- Extent of Amendment
+- In section 9, the words and
+- The Suits Valuation Act, 1887,
+- figures " of the Court-fees Act,
+- 1870, and " shall be deleted.
+- in its application to the
+- pre-Reorganisation State of
+- Bombay, excluding the
+- transferred territories and
+- to the Vidarbha Region and
+- the Kutch area of the State of
+- Bombay.
+- The Suits Valuation Act,
+- In section 9, the words and
+- figures " of the Court-fees Act,
+- 1870, and " shall be deleted.
+- 1887, as modified and
+- applied to the Saurashtra
+- area of the State of Bombay
+- by the State of Saurashtra
+- (Application of Central and
+- Bombay Acts) Ordinance,
+- 1948.
+- PRINTED AT THE GOVERNMENT CENTRAL PRESS, MUMBAI
