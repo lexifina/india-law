@@ -1,0 +1,3 @@
+# Section 13C. Proceedings before Competent Authority to be judicial proceedings
+
+13C. All proceedings before a Competent Authority shall be deemed to be the judicial proceedings for the purposes of sections 193 and 228 of the Indian Penal Code.
