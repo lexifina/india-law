@@ -4,11 +4,15 @@
 
 (2) The following moneys shall be credited to the Water and Sewage Fund, namely :—
 
-(a) all moneys received by or on behalf of the Council under clauses (b) and (d) of sub-section (2) of section 105 and clauses (d), (e) and (f) of section 108 or any other money received for the purposes of Chapters XIII and XIV ;
+(a) all moneys received by or on behalf of the Council under clauses
+
+(b) and (d) of sub-section (2) of section 105 and clauses (d), (e) and (f) of section 108 or any other money received for the purposes of Chapters XIII and XIV ;
 
 (b) such percentage of general revenues of last preceding year, for such number of years as the Council may decide on its own or as decided by the State Government at the time of sanctioning any Water Supply or Sewage Disposal Scheme or before giving any guarantee to any loan required by the Council to investigate, prepare plans and estimate and to execute the projected drinking water supply or sewage disposal scheme.
 
-(3) All moneys payable to the credit of the Water and Sewage Fund shall be received by the Chief Officer on behalf of the Council and forthwith paid by him into the Nationalized Bank, approved by the Standing Committee from time to time in this behalf, to the credit of account, which shall be styled "the Account of the Water and Sewage Fund of ................ Municipal Council" :
+(3) All moneys payable to the credit of the Water and Sewage Fund shall be received by the Chief Officer on behalf of the Council and forthwith paid by him into the Nationalized Bank, approved by the Standing Committee from time to time in this behalf, to the credit of account, which shall be styled
+
+"the Account of the Water and Sewage Fund of ................ Municipal Council":
 
 Provided that, the Chief Officer may retain such balance in cash as may be necessary for the purposes of Chapters XIII and XIV.
 

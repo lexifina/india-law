@@ -10,8 +10,8 @@
 
 (d) in the case of a loan borrowed before the appointed day by annual drawings if such method was in operation for the repayment of such loan immediately before such day ;
 
-(e) from any sum borrowed for the purpose under clause (b) of sub-section
+(e) from any sum borrowed for the purpose under clause (b) of subsection (1) of section 90C; or
 
-(1) of section 90C; or
+(f) partly from a sinking fund established under section 90E in respect of the loan and partly from money borrowed for the purpose under clause
 
-(f) partly from a sinking fund established under section 90E in respect of the loan and partly from money borrowed for the purpose under clause (b) of sub-section (1) of section 90C.
+(b) of sub-section (1) of section 90C.

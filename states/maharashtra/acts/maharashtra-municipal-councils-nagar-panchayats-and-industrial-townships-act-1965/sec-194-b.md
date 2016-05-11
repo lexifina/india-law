@@ -8,7 +8,9 @@ After expiry of the said period of one month, the Chief Officer shall consider t
 
 (3) Where the owner fails to comply with the requirements under the declaration under sub-section (1), within the period specified, the Chief Officer may take or cause to be taken such steps to carry out the work required to be executed under the declaration; and the expenses incurred by the Council in respect thereof shall be recovered from the owner as if the amount thereof were arrears of property tax due by the said owner and shall be payable by the owner on demand.
 
-(4) If there is any dispute about the amount of expenses for which demand is made under sub-section (3), an appeal may be preferred by the owner to the Property Tax Appeal Committee constituted under sub-section (2) of section 169, but no such appeal shall be entertained by the said Committee unless,—
+(4) If there is any dispute about the amount of expenses for which demand is made under sub-section (3), an appeal may be preferred by the owner to the Property Tax Appeal Committee constituted under sub-section
+
+(2) of section 169, but no such appeal shall be entertained by the said Committee unless,—
 
 (i) it is preferred within twenty-one days from the date of receipt of notice of such demand ;
 

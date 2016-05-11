@@ -9,8 +9,7 @@
 Notes in the official text:
 
 - 1 Sub-section (1A) was inserted by Mah. 41 of 1994, s. 144.
-- 2 These words were substituted for the words " with the sanctions of the Council " by Mah.
-- 4 of 1974, s. 16.
+- 2These words were substituted for the words " with the sanctions of the Council " by Mah. 4 of
+- 1974, s. 16.
 - 3 Section 77A was substituted by Mah. 15 of 2012, s. 12.
-- 4 Sections 78A to 78D were inserted by Mah. 29 of 2011, s. 8.
-- H 4061—12a
+- 4 The Heading Sections 78A to 78D were inserted by Mah. 29 of 2011, s. 8.

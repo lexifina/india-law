@@ -10,6 +10,6 @@
 
 (b) Any other officer or person appointed under sub-section (2) shall, unless otherwise directed by the Chief Officer, have and exercise such powers and perform such duties as may be conferred or imposed on the Chief Officer by or under this Act.
 
-(5) No person or a dealer shall be entitled to call in question the territoral jurisdiction of any officer or person appointed under sub-section (2).
+(5) No person or a dealer shall be entitled to call in question the territorial jurisdiction of any officer or person appointed under sub-section (2).
 
 (6) All officers and persons appointed under sub-section (2) shall be subordinate to the Chief Officer.

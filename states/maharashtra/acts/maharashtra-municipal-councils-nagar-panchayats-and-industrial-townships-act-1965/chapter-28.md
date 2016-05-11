@@ -40,7 +40,7 @@ In this Chapter, unless the context otherwise requires—
 
 345.
 
-Notwithstanding anything contained in any repealed law or any other law for the time being in force, the term or extended term of office of the Councillors or members of any existing Council which is due to expire after the 31st day of December 1965, shall expire at 12 midnight on '[the 31st day of December 1967 or such 2[earlier date as may be specified in this behalf by the State Goverment by notification in the Official Gazette.]]. 3[345A.
+Notwithstanding anything contained in any repealed law or any other law for the time being in force, the term or extended term of office of the Councillors or members of any existing Council which is due to expire after the 31st day of December 1965, shall expire at 12 midnight on 1[the 31st day of December 1967 or such 2[earlier date as may be specified in this behalf by the State Goverment by notification in the Official Gazette.]]. 3[345A.
 
 (1) Notwithstanding anything in this Act, if the State Government, specifies a date earlier than the 31st day of December 1967 under section 345, then with effect from the day immediately following such earlier date, in place of every existing Council the first successor Council shall be deemed to be established under this Act for the respective municipal area.
 
@@ -48,11 +48,13 @@ Notwithstanding anything contained in any repealed law or any other law for the 
 
 (3) Where any officer, by whatever designation referred to, appointed to exercise all the powers and perform and discharge all the duties and functions of any existing Council is in office on the said earlier date, he shall be deemed to be appointed Administrator under this Act and shall have and exercise all the powers and perform and discharge all the duties and functions of the successor Council and of all its authorities and committees and Councillors.
 
-(4) Where a successor Council consists of Councillors deemed to be elected as provided in sub-section (2), the Collector shall, within twenty-five days from the date on which such Council is deemed to be established under subsection (1), convene a special meeting of the said Councillors for election of a President and Vice-President, and the procedure prescribed in section 51, shall mutatis mutandis apply for electing the President and Vice-President.
+(4) Where a successor Council consists of Councillors deemed to be elected as provided in sub-section (2), the Collector shall, within twentyfive days from the date on which such Council is deemed to be established under sub-section (1), convene a special meeting of the said Councillors for election of a President and Vice-President, and the procedure prescribed in section 51, shall mutatis mutandis apply for electing the President and VicePresident.
 
 (5) The term of office of the Councillors deemed to be elected and of every Administrator deemed to be appointed under this section shall expire at 12 midnight, on such 1[date as the State Government may, by notification in the Offical Gazette] specify in this behalf, but such date shall in no case be beyond the 31st day of December, 1967 :
 
-Provided that, in the case of the first successor Councils of Hill Station Municipal areas mentioned in column 3 of Part II of Schedule I, the State Government may, at any time after the date on which the term or extended term of office of the Councillors or members, of the corresponding existing Councils would under the relevant Act have expired, but for the provisions of the Maharashtra Municipalities (Postponement of election pending Unification of Municipal Laws) Act, 1964 appoint, in place of the Councillors deemed to be elected under this section, fifteen persons to be Councillors and one of them to be the President of the successor Councils. Amongst these fifteen Councillors, at least eight shall be persons, who are duly qualified to be elected, and the remaining may be persons considered suitable by the State Government in this behalf and appointed by virtue of office or by name. The term of office of such Coucillors shall expire at the same time at which the term of office of the Councillors deemed to be elected will expire under this sub-section : 2[Provided further that, where the State Government has specified a date earlier than the 31st day of December, 1967 under this sub-section and the State Government is of opinion that for some reason, such as the granting of an injunction or stay by a Court, it is not practicable to complete all stages of the general election of Councillors to any Council before such earlier date, then notwithstanding that the earlier date has been already specified, the State Government may, by notification in the Official Gazette, extend the term of Councillors or of the Administrator, as the case may be, of such Council to any date beyond the earlier date aforesaid, as it may specify from time to time, or may, by like notification, in place of the Councillors appoint an officer to be an Administrator to exercise all the powers and perform and discharge all the duties and functions of the Council concerned and of all its authorities and committees and Councillors, but in no case 3[beyond the 31st day of December, 1968].
+Provided that, in the case of the first successor Councils of Hill Station Municipal areas mentioned in column 3 of Part II of Schedule I, the State Government may, at any time after the date on which the term or extended term of office of the Councillors or members, of the corresponding existing Councils would under the relevant Act have expired, but for the provisions of the Maharashtra Municipalities (Postponement of election pending Unification of Municipal Laws) Act, 1964 appoint, in place of the Councillors deemed to be elected under this section, fifteen persons to be Councillors and one of them to be the President of the successor Councils. Amongst these fifteen Councillors, at least eight shall be persons, who are duly qualified to be elected, and the remaining may be persons considered suitable by the State Government in this behalf and appointed by virtue of office or by name.
+
+The term of office of such Coucillors shall expire at the same time at which the term of office of the Councillors deemed to be elected will expire under this sub-section : 2[Provided further that, where the State Government has specified a date earlier than the 31st day of December, 1967 under this sub-section and the State Government is of opinion that for some reason, such as the granting of an injunction or stay by a Court, it is not practicable to complete all stages of the general election of Councillors to any Council before such earlier date, then notwithstanding that the earlier date has been already specified, the State Government may, by notification in the Official Gazette, extend the term of Councillors or of the Administrator, as the case may be, of such Council to any date beyond the earlier date aforesaid, as it may specify from time to time, or may, by like notification, in place of the Councillors appoint an officer to be an Administrator to exercise all the powers and perform and discharge all the duties and functions of the Council concerned and of all its authorities and committees and Councillors, but in no case 3[beyond the 31st day of December, 1968].
 
 (6) During the period commencing on the date on which the successor Councils are deemed to be established under sub-section (1) and ending on the date specified under 4[sub-section (5)], no election shall be held or nomination made to fill any vacancy in the successor Council, but elections to various authorities and committees may take place as and when required, and the restrictions contained in sub-section (3) of section 63 and the proviso to section 66 shall not apply at such election].
 
@@ -80,7 +82,7 @@ With effect on and from the appointed day, the following consequences shall ensu
 
 Provided that—
 
-(i) no rule made under any of the repealed laws in respect of an existing Council and in force immediately before the appointed day shall be deemed to be inconsistent with the provisions of this Act by reason only of the fact that under this Act it is permissible to make only a by-law or any other instrument other than a rule in respect of the matter provided for in such rule ;
+(i) no rule made under any of the repealed laws in respect of an existing Council and in force immediately before the appointed day shall be deemed to be inconsistent with the provisions of this Act by reason only of the fact that under this Act it is permissible to make only a bylaw or any other instrument other than a rule in respect of the matter provided for in such rule ;
 
 (ii) the provisions of clause (i) of this proviso shall mutatis mutandis apply to any by-laws, regulations, or any other instruments made under any of the repealed laws in respect of an existing Council and in force immediately before the appointed day: 1[Provided further that, any assessment made on any tax levied by any existing Council before the appointed day and in force immediately before that day shall notwithstanding the fact that it is inconsistent with the provisions of this Act, continue to be in force until it is replaced by assessment made or tax levied by the successor Council in accordance with the provisions of this Act or till the 31st day of March, 1977, whichever is earlier :
 
@@ -114,29 +116,27 @@ Provided further that, nothing in this sub-section shall affect the powers of th
 
 (3) Any person who immediately before the appointed day was holding the post of,—
 
-(i) the Health Officer of any borough municipality under sub-section (5) of section 34 of the Bombay Municipal Boroughs Act, 1925 ; or
+(i) the Health Officer of any borough municipality under sub-section
 
-(ii) the Health Officer of a municipal Committee under section 25-A of the Central Provinces and Berar Municipalities Act, 1922, shall, with effect from the appointed day and subject to the provisions of sub-section (1), deemed to be appointed the Health Officer of the successor Council under section 75 of this Act.
+(5) of section 34 of the Bombay Municipal Boroughs Act, 1925 ; or
+
+(ii) the Health Officer of a municipal Committee under section 25-A of the Central Provinces and Berar Municipalities Act, 1922, shall, with effect from the appointed day and subject to the provisions of sub-section
+
+(1), deemed to be appointed the Health Officer of the successor Council under section 75 of this Act.
 
 (4) Any person who immediately before the appointed day was holding the post of the Engineer of any borough municipality under sub-section (5) of section 34 of the Bombay Municipal Boroughs Act, 1925, shall, with effect from the appointed day and subject to the provisions of sub-section (1), be deemed to be appointed the Municipal Engineer of the successor Council under section 75 of this Act.
 
-348.
-
-(1) Every person who having been appointed under section 66 or section 67 of the Hyderabad District Municipalities Act, 1956, to the Hyderabad Area Local Government Service continues on and after the appointed day to serve under the State Government shall be entitled to receive from the State Government the same conditions of service as respects remuneration, leave and pension and the same rights as respects disciplinary matters or rights as that person was entitled to immeditely before the appointed day.
+348. (1) Every person who having been appointed under section 66 or section 67 of the Hyderabad District Municipalities Act, 1956, to the Hyderabad Area Local Government Service continues on and after the appointed day to serve under the State Government shall be entitled to receive from the State Government the same conditions of service as respects remuneration, leave and pension and the same rights as respects disciplinary matters or rights as that person was entitled to immeditely before the appointed day.
 
 (2) The State Government may post from time to time to work under any successor Council in the Hyderabad area of the State such number of officers of the Hyderabad Area Local Government Service aforesaid as it considers necessary. Officers posted to work under a Council shall draw their pay and allowances from the municipal fund. When any such officer is posted to work under a Council, his services shall be taken over by the Council on such post and on such terms and conditions as the State Government may by general or special order determine.
 
-349.
-
-Notwithstanding anything contained in section 49, it shall be the duty of every successor Council to continue to carry out any duty or to manage, maintain or look after any institutuion, establishment, undertaking, measure, work or service, which the existing Council had been responsible for carrying out, managing, maintaining or looking after immediately before the appointed day, untill the State Government by order relieves the successor Council of such duty or function.
+349. Notwithstanding anything contained in section 49, it shall be the duty of every successor Council to continue to carry out any duty or to manage, maintain or look after any institutuion, establishment, undertaking, measure, work or service, which the existing Council had been responsible for carrying out, managing, maintaining or looking after immediately before the appointed day, untill the State Government by order relieves the successor Council of such duty or function.
 
 350. l[Power to appoint Administrator if special meeting cannot be held on 1st January 1968 or, as the case may be, specified date to elect President and Vice-President.]
 
-351.
+351. If any difficulty arises in giving effect to the provisions of this Act, the State Government may, as the occasion requires, by order do anything which appears to it to be necessary for the purpose of removing the difficulty:
 
-If any difficulty arises in giving effect to the provisions of this Act, the State Government may, as the occasion requires, by order do anything which appears to it to be necessary for the purpose of removing the difficulty:
-
-Provided that, no order shall be made under this section after the expiry of two years from the appointed day. 1[SCHEDULE I (See sections 4 and 346) (Municipal areas other than Nagar Panchayats and Industrial Townships) 1[ SCHEDULE IA (See section 100A) Application of the Bombay Government Premises (Eviction) Act, 1955 (Bom. II of 1956) and the rules made thereunder from time to time, to municipal premises in specified municipal areas in the State, with certain modifications.
+Provided that, no order shall be made under this section after the expiry of two years from the appointed day. 1[SCHEDULE I (See sections 4 and 346) (Municipal areas other than Nagar Panchayats and Industrial Townships) (See section 100A) Application of the Bombay Government Premises (Eviction) Act, 1955 (Bom. II of 1956) and the rules made thereunder from time to time, to municipal premises in specified municipal areas in the State, with certain modifications.
 
 With effect from such date and in such municipal areas as the State Government may by notification in the Official Gazette, from time to time, specify, under section 100A, the Bombay Government Premises (Eviction) Act, 1955 (Bom. II of 1956) and the rules made thereunder, from time to time, shall, mutatis mutandis, apply to municipal premises in the said municipal areas, subject to the following modifications, namely :—
 
@@ -161,8 +161,8 @@ Notes in the official text:
 - 1 Chapter XXVII was deleted by Mah. 41 of 1994, s. 161.
 - This portion was substituted for the words, figures and letters "the 31st day of
 - December 1965" by Mah. 52 of 1965, s. 3(a).
-- 14th day of June 1966, vide G. N., U. D., P.H. and H. D., No. UMA. 1366 (d)-
-- Unification-IV, dated 2nd June 1966.
+- 14th day of June 1966, vide G. N., U. D., P.H. and H. D., No. UMA. 1366 (d)-Unification-IV,
+- dated 2nd June 1966.
 - Section 345A was inserted by Mah. 14 of 1966, s. 9.
 - 1st day of July 1967 vide G.N., U.D. P.H. and H.D., No. UMA.1067-A, dated the
 - 11th March 1967.
@@ -171,26 +171,26 @@ Notes in the official text:
 - This was substituted by Mah. 6 of 1968, s.2.
 - This was deemed always to have been substituted for the words, brackets and figure
 - " sub-section (4) " by Mah. 8 of 1967, s.6.
-- H 4061—33
-- These two provisos were deemed always to have been inserted by Mah. 45 of 1975,
-- s. 16.
+- These two provisos were deemed always to have been inserted by Mah. 45 of 1975, s. 16.
 - This proviso was added by Mah. 14 of 1966, s. 10.
-- H 4061—33a
 - Section 350 was deleted by Mah. 14 of 1966, s. 11.
-- Name of smaller urban area
-- Name of Municipal Council
+- Name of smaller
+- Name of Municipal
+- urban area
+- Council
 - (2)
 - (3)
 - "A" Class
-- Ambarnath smaller urban area . . Ambarnath Municipal Council
+- Ambarnath smaller urban area
+- . . Ambarnath Municipal Council
 - Bhivandi Nizampur smaller
 - . . Bhivandi-Nizampur Municipal
 - urban area.
 - Council.
 - Mira-Bhyander smaller urban
-- . . Mira-Bhyander Municipal
-- Council.
-- Nala-sopara smaller urban area . . Nala-sopara Municipal Council.
+- . . Mira-Bhyander Municipal Council Thane
+- Nala-sopara smaller urban area.
+- . . Nala-sopara Municipal Council
 - Navghar-Manikpur smaller
 - . . Navghar-Manikpur Municipal
 - urban area.
@@ -207,13 +207,14 @@ Notes in the official text:
 - . . Jalgaon Municipal Council
 - Bhusaval smaller urban area
 - . . Bhusaval Municipal Council
-- Ahmednagar smaller urban area . . Ahmednagar Municipal Council
+- Ahmednagar smaller urban area
+- . . Ahmednagar Municipal Council
 - Satara smaller urban area
 - . . Satara Municipal Council
 - Barshi smaller urban area
 - . . Barshi Municipal Council
-- Ichalkaranji smaller urban area . .
-- Ichalkaranji Municipal Council
+- Ichalkaranji smaller urban area
+- . . Ichalkaranji Municipal Council
 - Jalna smaller urban area
 - . . Jalna Municipal Council
 - Parbhani smaller urban area
@@ -232,7 +233,7 @@ Notes in the official text:
 - . . Wardha Municipal Council
 - Gondia smaller urban area
 - . . Gondia Municipal Council
-- Chandrapur smaller urban area . .
+- Chandrapur smaller urban area
 - Chandrapur Municipal Council
 - " B" Class
 - Dahanu smaller urban area
@@ -247,37 +248,47 @@ Notes in the official text:
 - . . Khopoli Municipal Council
 - Chiplun smaller urban area
 - . . Chiplun Municipal Council
-- Ratnagiri smaller urban area. .
-- Ratnagiri Municipal Council
+- Ratnagiri smaller urban area
+- . . Ratnagiri Municipal Council
 - Manmad smaller urban area
 - . . Manmad Municipal Council
 - Yeola smaller urban area
 - . . Yeola Municipal Council
-- Nandurbar smaller urban area . . Nandurbar Municipal Council
+- Nandurbar smaller urban area
+- . . Nandurbar Municipal Council
 - Shahada smaller urban area
 - . . Shahada Municipal Council
 - Dondaicha Varwade Smaller
 - . . Dondaicha Varwade Municipal
 - urban area.
 - Council.
-- Shirpur-Varwade smaller
+- Shirpur-Varwade smaller urban
 - . . Shirpur-Varwade Municipal
-- urban area.
+- Dhule
+- area.
 - Council.
 - Amalner smaller urban area
 - . . Amalner Municipal Council
-- Chalisgaon smaller urban area . . Chalisgaon Municipal Council
+- Jalgaon
+- Chalisgaon smaller urban area
+- . . Chalisgaon Municipal Council
+- Jalgaon
 - Chopda smaller urban area
 - . . Chopda Municipal Council
+- Jalgaon
 - Pachora smaller urban area
 - . . Pachora Municipal Council
-- Shrirampur smaller urban area . . Shrirampur Municipal Council
+- Jalgaon
+- Shrirampur smaller urban area
+- . . Shrirampur Municipal Council
 - Ahmednagar
-- Sangamner smaller urban area . . Sangamner Municipal Council
+- Sangamner smaller urban area
+- . . Sangamner Municipal Council
 - Ahmednagar
 - 1 Schedule I was substituted by G. N., U. D. D., No. GEN. 102001/CR.-70/2001/U.D.16,
 - dated the 10th September 2001.
 - (2)
+- Kopargaon smaller urban area
 - Baramati smaller urban area
 - Daund smaller urban area
 - Lonavala smaller urban area
@@ -287,17 +298,23 @@ Notes in the official text:
 - Phaltan smaller urban area
 - Islampur smaller urban area
 - Vita smaller urban area
+- Pandharpur smaller urban area
+- Jayasingpur smaller urban area
 - Silod smaller urban area
+- Gangakhed smaller urban area
 - Hingoli smaller urban area
-- Basmathnagar smaller
-- urban area.
+- Basmathnagar smaller urban
+- area.
 - Udgir smaller urban area
+- Osmanabad smaller urban area
 - Ambejogai smaller urban area
+- Manjlegaon smaller urban area
 - Parali Vaijanath smaller
 - urban area.
 - Degloor smaller urban area
 - Buldhana smaller urban area
 - Chikhli smaller urban area
+- Khamgaon smaller urban area
 - Malkapur smaller urban area
 - Shegaon smaller urban area
 - Akot smaller urban area
@@ -310,10 +327,12 @@ Notes in the official text:
 - Pusad smaller urban area
 - Kamptee smaller urban area
 - Umred smaller urban area
+- Hinganghat smaller urban area
 - Arvi smaller urban area
 - Bhandara smaller urban area
 - Tumsar smaller urban area
 - Ballarpur smaller urban area
+- Bhadravati smaller urban area
 - Warora smaller urban area
 - Gadchiroli smaller urban area
 - Jawhar smaller urban area
@@ -328,6 +347,7 @@ Notes in the official text:
 - Matheran smaller urban area
 - Karjat smaller urban area
 - (3)
+- . . Kopargaon Municipal Council
 - . . Baramati Municipal Council
 - . . Daund Municipal Council
 - . . Lonavala Municipal Council
@@ -337,17 +357,23 @@ Notes in the official text:
 - . . Phaltan Municipal Council
 - . . Islampur Municipal Council
 - . . Vita Municipal Council
+- . . Pandharpur Municipal Council
+- . . Jaysingpur Municipal Council
 - . . Silod Municipal Council
+- . . Gangakhed Municipal Council
 - . . Hingoli Municipal Council
 - . . Basmathnagar Municipal
 - Council.
 - . . Udgir Municipal Council
+- . . Osmanabad Municipal Council
 - . . Ambejogai Municipal Council
+- . . Manjlegaon Municipal Council
 - . . Parali Vaijanath Municipal
 - Council.
 - . . Degloor Municipal Council
 - . . Buldhana Municipal Council
 - . . Chikhli Municipal Council
+- . . Khamgaon Municipal Council
 - . . Malkapur Municipal Council
 - . . Shegaon Municipal Council
 - . . Akot Municipal Council
@@ -360,10 +386,12 @@ Notes in the official text:
 - . . Pusad Municipal Council
 - . . Kamptee Municipal Council
 - . . Umred Municipal Council
+- . . Hinganghat Municipal Council
 - Arvi Municipal Council
 - . . Bhandara Municipal Council
 - . . Tumsar Municipal Council
 - . . Ballarpur Municipal Council
+- . . Bhadravati Municipal Council
 - . . Warora Municipal Council
 - . . Gadchiroli Municipal Council
 - "C" Class
@@ -373,24 +401,11 @@ Notes in the official text:
 - . . Pen Municipal Council
 - . . Roha Municipal Council
 - . . Uran Municipal Council
-- . . Murud Janjira Municipal
-- Raigad
-- Council.
-- Shriwardhan Municipal Council Raigad
+- . . Murud Janjira Municipal Council
+- Shriwardhan Municipal Council
 - . . Matheran Municipal Council
-- Raigad
 - . . Karjat Municipal Council
-- Raigad
 - " B " Class—contd.
-- Kopargaon smaller urban area . . Kopargaon Municipal Council
-- Pandharpur smaller urban area . . Pandharpur Municipal Council
-- Jayasingpur smaller urban area . . Jaysingpur Municipal Council
-- Gangakhed smaller urban area . . Gangakhed Municipal Council
-- Osmanabad smaller urban area . . Osmanabad Municipal Council
-- Manjlegaon smaller urban area . . Manjlegaon Municipal Council
-- Khamgaon smaller urban area . . Khamgaon Municipal Council
-- Hinganghat smaller urban area . . Hinganghat Municipal Council
-- Bhadravati smaller urban area . . Bhadravati Municipal Council
 - " C " Class—contd.
 - (2)
 - (3)
@@ -402,7 +417,8 @@ Notes in the official text:
 - . . Malvan Municipal Council
 - Vengurla smaller urban area
 - . . Vengurla Municipal Council
-- Sawantwadi smaller urban area . . Sawantwadi Municipal Council
+- Sawantwadi smaller urban area
+- . . Sawantwadi Municipal Council
 - Igatpuri smaller urban area
 - . . Igatpuri Municipal Council
 - Nandgaon smaller urban area
@@ -429,10 +445,11 @@ Notes in the official text:
 - . . Savda Municipal Council
 - Parola smaller urban area
 - . . Parola Municipal Council
-- Dharangaon smaller urban area . . Dharangaon Municipal Council. Jalgaon
+- Dharangaon smaller urban area
+- . . Dharangaon Municipal Council.
 - Erandol smaller urban area
 - . . Erandol Municipal Council
-- 1[30-A Jamner smaller urban area
+- Jamner smaller urban area
 - . . Jamner Municipal Council
 - Rahuri smaller urban area
 - . . Rahuri Municipal Council
@@ -459,8 +476,8 @@ Notes in the official text:
 - . . Junnar Municipal Council
 - Bhor smaller urban area
 - . . Bhor Municipal Council
-- Rahimatpur smaller urban area . .
-- Rahimatpur Municipal Council
+- Rahimatpur smaller urban area
+- . . Rahimatpur Municipal Council
 - Mahabaleshwar smaller urban
 - . . Mahabaleshwar Municipal
 - Council.
@@ -485,19 +502,26 @@ Notes in the official text:
 - . . Maindargi Municipal Council
 - Dudhani smaller urban area
 - . . Dudhani Municipal Council
-- Kurduwadi smaller urban area . . Kurduwadi Municipal Council
+- Kurduwadi smaller urban area
+- . . Kurduwadi Municipal Council
+- Solapur
 - Panhala smaller urban area
 - . . Panhala Municipal Council
+- Solapur
 - Malkapur smaller urban area
 - . . Malkapur Municipal Council
+- Kolhapur
 - Murgud smaller urban area
 - . . Murgud Municipal Council
+- Kolhapur
 - Vadgaon smaller urban area
 - . . Vadgaon Municipal Council
+- Kolhapur
 - Gadhinglaj smaller urban area
 - . . Gadhinglaj Municipal Council
 - Kolhapur
-- Kurundwad smaller urban area . . Kurundwad Municipal Council
+- Kurundwad smaller urban area
+- . . Kurundwad Municipal Council
 - Kolhapur
 - 1 Entry 30-A was inserted by G. N., U. D. D., No. GEN-102000/1653/CR-128/2000/ UD-16,
 - dated the 28th October 2002.
@@ -509,6 +533,7 @@ Notes in the official text:
 - Khuldabad smaller urban area
 - Gangapur smaller urban area
 - Ambad smaller urban area
+- Bhokardan smaller urban area
 - Partur smaller urban area
 - Manwat smaller urban area
 - Sonpeth smaller urban area
@@ -516,11 +541,14 @@ Notes in the official text:
 - Sailu smaller urban area
 - Jintur smaller urban area
 - Pathri smaller urban area
+- Kallamnuri smaller urban area
 - Billoli smaller urban area
 - Umri smaller urban area
 - Mudkhed smaller urban area
 - Kandhar smaller urban area
 - Hadgaon smaller urban area
+- Dharmabad smaller urban area
+- Kundalwadi smaller urban area
 - Mukhed smaller urban area
 - Kinwat smaller urban area
 - Loha smaller urban area
@@ -532,6 +560,7 @@ Notes in the official text:
 - Bhoom smaller urban area
 - Paranda smaller urban area
 - Murum smaller urban area
+- Naldurg smaller urban area
 - Kallam smaller urban area
 - Georai smaller urban area
 - Dharur smaller urban area
@@ -544,9 +573,11 @@ Notes in the official text:
 - Lonar smaller urban area
 - Sindhkhed Raja smaller urban
 - area.
+- Murtizapur smaller urban area
 - Balapur smaller urban area
 - Telhara smaller urban area
 - Patur smaller urban area
+- Mangrulpir smaller urban area
 - Risod smaller urban area
 - Morshi smaller urban area
 - Daryapur smaller urban area
@@ -564,6 +595,7 @@ Notes in the official text:
 - . . Khuldabad Municipal Council
 - . . Gangapur Municipal Council
 - . . Ambad Municipal Council
+- . . Bhokardan Municipal Council
 - . . Partur Municipal Council
 - . . Manwat Municipal Council
 - . . Sonpeth Municipal Council
@@ -571,11 +603,14 @@ Notes in the official text:
 - . . Sailu Municipal Council
 - . . Jintur Municipal Council
 - . . Pathri Municipal Council
+- . . Kallamnuri Municipal Council
 - . . Billoli Municipal Council
 - . . Umri Municipal Council
 - . . Mudkhed Municipal Council
 - . . Kandhar Municipal Council
 - . . Hadgaon Municipal Council
+- . . Dharmabad Municipal Council
+- . . Kundalwadi Municipal Council
 - . . Mukhed Municipal Council
 - . . Kinwat Municipal Council
 - . . Loha Municipal. Council
@@ -587,6 +622,7 @@ Notes in the official text:
 - . . Bhoom Municipal Council
 - . . Paranda Municipal Council
 - . . Murum Municipal Council
+- . . Naldurg Municipal Council
 - . . Kallam Municipal Council
 - . . Georai Municipal Council
 - . . Dharur Municipal Council
@@ -599,38 +635,34 @@ Notes in the official text:
 - . . Lonar Municipal Council
 - . . Sindhkhed Raja Municipal
 - Council.
+- . . Murtizapur Municipal Council
 - . . Balapur Municipal Council
 - . . Telhara Municipal Council
 - . . Patur Municipal Council
+- . . Mangrulpir Municipal Council
 - . . Risod Municipal Council
 - . . Morshi Municipal Council
 - . . Daryapur Municipal Council
 - . . Chandur Railway Municipal
 - Council.
 - . . Chandur Bazar Municipal
-- Amravati
 - Council.
 - . . Dhamangaon Municipal
-- Amravati
 - Council.
 - " C " Class—contd.
-- Bhokardan smaller urban area . . Bhokardan Municipal Council
-- Kallamnuri smaller urban area . . Kallamnuri Municipal Council
-- Dharmabad smaller urban area . . Dharmabad Municipal Council
-- Kundalwadi smaller urban area . . Kundalwadi Municipal Council
-- Naldurg smaller urban area . . Naldurg Municipal Council
-- Murtizapur smaller urban area . . Murtizapur Municipal Council
-- Mangrulpir smaller urban area . . Mangrulpir Municipal Council
 - " C " Class—concld.
 - (2)
 - (3)
-- Shendurjana smaller urban area . . Shendurjana Municipal Council
-- Chikhaldara smaller urban area . . Chikhaldara Municipal Council
+- Shendurjana smaller urban area
+- . . Shendurjana Municipal Council
+- Chikhaldara smaller urban area
+- . . Chikhaldara Municipal Council
 - Digras smaller urban area
 - . . Digras Municipal Council
 - Darwha smaller urban area
 - . . Darwha Municipal Council
-- Pandharkawada smaller urban . . Pandharkawada Municipal
+- Pandharkawada smaller urban
+- . . Pandharkawada Municipal
 - Council.
 - Umarkhed smaller urban area
 - . . Umarkhed Municipal Council
@@ -640,7 +672,8 @@ Notes in the official text:
 - . . Ramtek Municipal Council
 - Khapa smaller urban area
 - . . Khapa Municipal Council
-- Kalmeshwar smaller urban area . . Kalmeshwar Municipal Council
+- Kalmeshwar smaller urban area
+- . . Kalmeshwar Municipal Council
 - Mowad smaller urban area
 - . . Mowad Municipal Council
 - Saoner smaller urban area
@@ -665,8 +698,10 @@ Notes in the official text:
 - . . Rajura Municipal Council
 - Mul smaller urban area
 - . . Mul Municipal Council
-- Brahmapuri smaller urban area . . Bramhapuri Municipal Council
+- Brahmapuri smaller urban area
+- . . Bramhapuri Municipal Council
 - Desaiganj smaller urban area
 - . . Desaiganj Municipal Council
+- 1[ SCHEDULE IA
 - 1 Schedule IA was inserted by Mah. 11 of 1993, s. 12.
-- (GCP) H 4061—34 (5542—3-2014)
+- (GCP) H 4109—34 (4742—6-2016)

@@ -1,4 +1,4 @@
-# Section 194A. Responsibility of owner or occupier to keep and maintain exterior of building in good condition. Mah. XXVIII of
+# Section 194A. Responsibility of owner or occupier to keep and maintain exterior of building in good condition. Mah. XXVIII of 1971
 
 194A. (1) It shall be the responsibility of every owner or occupier of a building to ensure that the exterior of the building is kept and maintained in good condition and, is not in a state of disrepair or spoiled on account of cracks, stains, shabby enclosures, hanging wires or cables or keeping of unwholesome articles which spoil the appearance of a building or part thereof :
 
@@ -22,7 +22,6 @@ Provided that, nothing in this section shall apply to the area declared as slum 
 
 Notes in the official text:
 
-- 1 These words were substituted for the words "five hundred rupees" by Mah. 1 of 2011,
-- s. 10 (1) and 11 (1).
-- 2 These words were substituted for the words "ten rupees", ibid., s. 11 (2).
+- 1 These words were substituted for the words "five hundred rupees" by Mah. 1 of 2011, s. 11 (1).
+- 2 These words were substituted for the words "ten rupees" by Mah. 1 of 2011, s. 11 (2).
 - 3 Sections 194A and 194B were inserted by Mah. 9 of 2011, s. 8.

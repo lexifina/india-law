@@ -1,4 +1,4 @@
-# Section 148L. Offences and Penalties
+# Section 148L. Offences and penalties
 
 148L. (1) Whoever,—
 
@@ -18,9 +18,7 @@
 
 (h) wilfully attempts in any manner whatsoever, to evade any payment of any cess, penalty, interest or sum forfeited under the provisions of this Chapter, or
 
-(i) aids or abets any person in commission of any act specified in clauses
-
-(a) to (h), or
+(i) aids or abets any person in commission of any act specified in clauses (a) to (h), or
 
 (j) fails without sufficient cause to furnish any information as required by the rules, or
 

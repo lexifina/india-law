@@ -13,8 +13,3 @@
 (v) cases related to Legislation ; and
 
 (vi) cases involving major policy decisions.]
-
-Notes in the official text:
-
-- Punishment
-- of officers and
