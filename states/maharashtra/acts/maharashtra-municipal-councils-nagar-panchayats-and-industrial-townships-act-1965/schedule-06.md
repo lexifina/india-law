@@ -38,4 +38,4 @@ Explanation.—For the purpose of item (16), nuisance shall include any contamin
 
 Notes in the official text:
 
-- The words "of demand" were deleted by Mah. 10 of 2010 s. 112.
+- The words "of demand" were deleted by Mah. 10 of 2010, s. 112.

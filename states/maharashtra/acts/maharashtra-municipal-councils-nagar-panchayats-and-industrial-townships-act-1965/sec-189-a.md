@@ -12,10 +12,9 @@
 
 Provided that, such levy and collection of tax and penalty shall not be constructed as regularization of such unlawful constuction or reconstruction for any period whatsover of its such unlawful existence.
 
-(2) Penalty payable under sub-section (1) shall be determined and collected under the provisions of this Act, as if the amount thereof were a property tax due by such person].
+(2) Penalty payable under sub-section (1) shall be determined and collected under the provisions of this Act, as if the amount thereof were a property tax due by such person.]
 
 Notes in the official text:
 
 - 1 Sub-section (13) was inserted by Mah. 2 of 2012, s. 26(2).
 - 2 Section 189A was inserted by Mah. 2 of 2008, s. 4.
-- H 4061-22a

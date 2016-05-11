@@ -13,9 +13,3 @@
 (e) the particulars of securities in which the sinking funds have been invested or reserved therefor.
 
 (2) Every such statement shall be laid before a meeting of the Council and shall be published in the Official Gazette and a copy of such statement shall be sent to the State Government and to the Accountant General, Maharashtra, Mumbai.]
-
-Notes in the official text:
-
-- Constitution
-- of Salary
-- Reserve

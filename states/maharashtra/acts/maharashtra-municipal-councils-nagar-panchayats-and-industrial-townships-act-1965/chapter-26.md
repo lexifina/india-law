@@ -46,7 +46,9 @@ Provided that, in an emergency, the Chief Officer may authorise any person to en
 
 If there is any dispute as regards the amount of compensation to be paid, such amount shall be determined by the Chief Officer.
 
-(5) If the owner or occuiper of the premises for the benefit of which the work is done, refuses to pay the compensation payable under sub-section (4), the amount of such compensation may be recovered by the Chief Officer as an arrear of a property tax and paid to the person who sustains damage by the execution of such work.
+(5) If the owner or occuiper of the premises for the benefit of which the work is done, refuses to pay the compensation payable under sub-section
+
+(4), the amount of such compensation may be recovered by the Chief Officer as an arrear of a property tax and paid to the person who sustains damage by the execution of such work.
 
 335.
 
@@ -68,9 +70,7 @@ If there is any dispute as regards the amount of compensation to be paid, such a
 
 (3) No action shall be taken under this section, unless the person concerned has been given a reasonable opportunity to show cause why such action should not be taken against him.
 
-(4) The fact that action is or has been taken against an outgoing President or Vice-President under the provisions of this section shall not be a bar to the prosecution of such President or Vice-President under '[sub-section
-
-(5)] of section 57.
+(4) The fact that action is or has been taken against an outgoing President or Vice-President under the provisions of this section shall not be a bar to the prosecution of such President or Vice-President under '[subsection (5)] of section 57.
 
 337.
 
@@ -114,9 +114,9 @@ Upon a conviction being obtained in respect of the use of any place for any purp
 
 (1) In this section, unless the context otherwise requires—
 
-(a) " specified day " means the day from which any local area is declared to be a 1[smaller urban area under sub-section (2)] of section 3 or the day from which a change referred to in any of the clauses (a) to (d) of sub-section
+(a) " specified day " means the day from which any local area is declared to be a 1[smaller urban area under sub-section (2)] of section 3 or the day from which a change referred to in any of the clauses (a) to
 
-(1) of section 6 takes effect;
+(d) of sub-section (1) of section 6 takes effect;
 
 (b) " existing local authority ", in relation to any local area, means the Municipal Council or the panchayat or where there is no Municipal Council or panchayat, the Zilla Parishad having jurisdiction over such area immediately before the specified day ;
 
@@ -142,7 +142,7 @@ Provided that,—
 
 (i) the terms and conditions (including the remuneration) of such Officer or Officers shall be as determined by the State Government;
 
-(ii) such Officer or Officers shall hold office until the first meeting of the Council]; 1 [(iii) in a case falling under clause (b), interim increase in the number of councillors by election of Councillors from the local area added];
+(ii) such Officer or Officers shall hold office until the first meeting of the Council]; 1[(iii) in a case falling under clause (b), interim increase in the number of councillors by election of Councillors from the local area added];
 
 (iii) in a case falling under clause (c), the removal of the Councillors, who in the opinion of the State Government, represent the area excluded from the 2[smaller urban area]; 3 *
 
@@ -150,7 +150,7 @@ Provided that,—
 
 (vii) the substitution of any such transferee for an existing local authority or the addition of any such transferee as a party to any legal proceeding to which an existing local authority is a party ; and the transfer of any proceedings pending before the existing local authority or any authority or office subordinate to it to any such transferee or any authority or officer subordinate to it;
 
-(viii) the transfer or re-employment of any employees of an existing local authority to, or by, any such transferee or the termination of services of any employees of an existing local authority and the terms and conditions applicable to such employees after such transfer or re-employment or termination;
+(viii) the transfer or re-employment of any employees of an existing local authority to, or by, any such transferee or the termination of services of any employees of an existing local authority and the terms and conditions applicable to such employees after such transfer or reemployment or termination;
 
 (ix) the continuance within the area of an existing local authority of all or any appointments, notifications, notices, taxes, orders, schemes, licences, permissions, rules, by-laws, regulations or forms made, issued, imposed or granted by, or in respect of, such existing local authority and in force within its area immediately before the specified day, until superseded or modified under this Act;
 
@@ -176,7 +176,7 @@ When the whole of the local area comprising a municipal area ceases to be a muni
 
 (ii) the Councillors of the Council5* * * shall vacate office ;
 
-(iii) the Director may, notwithstanding anything contained in this Act or any other law for the time being in force, by an order published in the Official Gazette provide in respect of such area for all or any of the matters specified in paragraphs (vi) to (xii) (both inclusive) of sub-section (2) of section 340 and the provision of sub-section (3) of that section shall apply to such order. 1[CHAPTER XXVI-A.
+(iii) the Director may, notwithstanding anything contained in this Act or any other law for the time being in force, by an order published in the Official Gazette provide in respect of such area for all or any of the matters specified in paragraphs (vi) to (xii) (both inclusive) of subsection (2) of section 340 and the provision of sub-section (3) of that section shall apply to such order. 1[CHAPTER XXVI-A.
 
 NAGAR PANCHAYATS.
 
@@ -190,15 +190,13 @@ Provided that, no such area shall be so specified as a transitional area unless,
 
 (b) such area is not more than twenty kilometers away from the terriotorial limits of any Municipal Corporation or a " A " Class Council and the percentage of employment in non-agricultural activities in such area is not less than twenty-five per cent.; or
 
-(c) such area is more than twenty kilometers away from the territorial limits of any Municipal Corporation or a " A " Class Council but the percentage of employment in non-agricultural activities in such area is not less than fifty per cent. 2[(1A) Notwithstanding anything contained in the proviso to sub-section
-
-(1), the State Government may, by notification in the Official Gazette, declare an area which is a District Headquarter or a Taluka Headquarter to be a transitional area.
+(c) such area is more than twenty kilometers away from the territorial limits of any Municipal Corporation or a " A " Class Council but the percentage of employment in non-agricultural activities in such area is not less than fifty per cent. 2[(1A) Notwithstanding anything contained in the proviso to subsection (1), the State Government may, by notification in the Official Gazette, declare an area which is a District Headquarter or a Taluka Headquarter to be a transitional area.
 
 (1B) Prior to the publication of a notification under sub-section (1) or
 
 (1A), the procedure prescribed in sub-sections (3), (4) and (5) of section 3 shall mutatis mutandis be followed.]
 
-(2) For every transitional area so specified under sub-section (1), there shall be constituted a Nagar Panchayat as provided in section 34 1B which shall be known by the name of ............ Nagar Panchayat. Every such Nagar Panchayat shall be a body corporate and shall have perpetual succession and a common seal with power to acquire, hold and dispose of property and to enter into contract and may by the said name sue and be sued.
+(2) For every transitional area so specified under sub-section (1), there shall be constituted a Nagar Panchayat as provided in section 341B which shall be known by the name of ............ Nagar Panchayat. Every such Nagar Panchayat shall be a body corporate and shall have perpetual succession and a common seal with power to acquire, hold and dispose of property and to enter into contract and may by the said name sue and be sued.
 
 341B.
 
@@ -250,7 +248,7 @@ The Industrial Township Authority shall consist of—
 
 (c) Two Members . . To be nominated by the Association of Industrial Units situated in the Industrial Township ; and
 
-(d) One Member . . To be nominated by the Collector of the District in which such Industrial Township is situated. 341-I.
+(d) One Member . . To be nominated by the Collector of the District in which such Industrial Township is situated. 341 I.
 
 The term of office of the Chairperson and the Members nominated under clauses (b) and (c) of section 341H shall, unless earlier withdrawn by the concerned nominating bodies mentioned in clauses (b) and (c) of section 341H shall be five years.
 
@@ -258,9 +256,9 @@ The term of office of the Chairperson and the Members nominated under clauses (b
 
 (3) Any casual vacancy arising out of such resignation or for any other reason, such as death or disablement of the Chairperson or a member, shall be filled in by nomination as provided in section 341H.
 
-(4) Any member so nominated under sub-section (3), shall hold office only for the remainder of the term for which the member, in whose place he is nominated would have held such office. 341-J.
+(4) Any member so nominated under sub-section (3), shall hold office only for the remainder of the term for which the member, in whose place he is nominated would have held such office. 341 J.
 
-(1) The terms and conditions of service including the remuneration of the Chief Executive Officer nominated under clause (b) of section 341H shall be such as may be determined by the Maharashtra Industrial Development Corporation, 2[ City and Industrial Development Corporation of Maharashtra Limited]or the said Co-operative Society, by such general or special orders, as may be issued in this behalf, from time to time. 341-K.
+(1) The terms and conditions of service including the remuneration of the Chief Executive Officer nominated under clause (b) of section 341H shall be such as may be determined by the Maharashtra Industrial Development Corporation, 2[ City and Industrial Development Corporation of Maharashtra Limited]or the said Co-operative Society, by such general or special orders, as may be issued in this behalf, from time to time. 341 K.
 
 (1) The Industrial Township Authority shall meet at least once in a month.
 
@@ -268,9 +266,9 @@ The term of office of the Chairperson and the Members nominated under clauses (b
 
 (3) Decisions, regarding any business transacted, at such meeting shall be taken by a simple majority. In the case of an equality of votes the Chairperson shall have the casting vote.
 
-(4) No act or proceeding of the Industrial Township Authority shall be questioned or shall be invalid on the ground merely of the existence of any vacancy in or defect in the constitution of the Industrial Township Authority or any defect in the nomination of a person acting as the Chairperson or a Member or any irregularity in the procedure of the Industrial Township Authority including in issuing of notice for holding of meeting, not affecting merits of the matter. 341-L.
+(4) No act or proceeding of the Industrial Township Authority shall be questioned or shall be invalid on the ground merely of the existence of any vacancy in or defect in the constitution of the Industrial Township Authority or any defect in the nomination of a person acting as the Chairperson or a Member or any irregularity in the procedure of the Industrial Township Authority including in issuing of notice for holding of meeting, not affecting merits of the matter. 341 L.
 
-All documents of the Industrial Township Authority shall be authenticated by the signature of the Chairperson of the Authority or any other officer authorised by the Authority in this behalf. 341-M.
+All documents of the Industrial Township Authority shall be authenticated by the signature of the Chairperson of the Authority or any other officer authorised by the Authority in this behalf. 341 M.
 
 It shall be incumbent on the Industrial Township Authority to make adequate provision, by any means or measures which it is lawfully competent for them to use or to take, for each of the following matters, namely:—
 
@@ -298,17 +296,17 @@ It shall be incumbent on the Industrial Township Authority to make adequate prov
 
 (xii) providing special medical aid and accomodation for the sick in time of dangerous or communicable disease and taking such measures as may be required to prevent the outbreak or to suppress and prevent the recurrence of such disease ; and
 
-(xiii) any other functions and duties as may be assigned by the State Government. 341-N.
+(xiii) any other functions and duties as may be assigned by the State Government. 341 N.
 
-(1) The Industrial Township Authority shall have the powers to do anything which may be necessary or expedient for the purposes of carrying out its functions under this Chapter, in accordance with the regulations framed under section 341-0. The Authority may, for this purpose, by an order delegate to its Chief Executive Officer such powers as it may deem fit.
+(1) The Industrial Township Authority shall have the powers to do anything which may be necessary or expedient for the purposes of carrying out its functions under this Chapter, in accordance with the regulations framed under section 341-O. The Authority may, for this purpose, by an order delegate to its Chief Executive Officer such powers as it may deem fit.
 
 (2) Without prejudice to the generality of the foregoing powers, it shall levy fees or service charges to cover its expenses on maintenance of road, drainage, water supply and such other services and amenities as may be provided by it, including provision of street lighting. Such fees or charges may be levied on the property owner or occupiers of the properties or other persons receiving benefit of the services or amenities :
 
-Provided that, the maximum and minimum rates at which the taxes aforesaid shall be levied shall be such as may be prescribed by rules. 341-O.
+Provided that, the maximum and minimum rates at which the taxes aforesaid shall be levied shall be such as may be prescribed by rules. 341 O.
 
-The Industrial Township Authority may, with the previous sanction of the State Government, by notification in the Official Gazette, make regulations, for carrying out its function under this Chapter. 341-P.
+The Industrial Township Authority may, with the previous sanction of the State Government, by notification in the Official Gazette, make regulations, for carrying out its function under this Chapter. 341 P.
 
-The State Government may issue to the Industrial Township Authority such general or special directions as to policy as it may think necessary or expedient for the purpose of carrying out the purposes of this Chapter and the Authority shall be bound to follow and act upon such directions. 341-Q.
+The State Government may issue to the Industrial Township Authority such general or special directions as to policy as it may think necessary or expedient for the purpose of carrying out the purposes of this Chapter and the Authority shall be bound to follow and act upon such directions. 341 Q.
 
 (1) If, in the opinion of the Collector, the execution of any order or resolution of the Industrial Township Authority or the doing of anything which is about to be done or is being done by or on behalf of the Authority is causing or is likely to cause injury or annoyance to the public or is against public interest or to lead to a breach of the peace or is unlawful, he may by order in writing under his signature suspend the execution or prohibit the doing thereof.
 
@@ -335,36 +333,30 @@ The town planning matters in the Industrial Township shall be governed by the pr
 Notes in the official text:
 
 - This sub-section was inserted by Mah. 45 of 1975, s. 15.
-- H 4061—31a
-- 1 This was substituted for " sub-section (4)" by Mah. 47 of 1973, s. 26.
+- 1 These words were substituted for the words " sub-section (4)" by Mah. 47 of 1973, s. 26.
 - See now the Code of Criminal Procedure, 1973 (2 of 1974).
-- These words were substituted for the words " municipal area under sub-section (1)"
-- by Mah. 41 of 1994, s. 159(a).
-- * The short title of this Act was substituted as "the Maharashtra Village Panchayats
-- Act" by Mah. 24 of 2012, Schedule, entry 74.
-- These words were substituted for the words "municipal area" by Mah. 41 of 1994,, s.
-- 159(b)(1).
-- The paragraph (i) was substituted, ibid., s. 159 (b) (2).
-- The pagragraph (ii) was substituted by Mab. 41 of 1994, s. 159(b) (3).
-- These words were substituted for the words " municipal area ", ibid., s. 159 (b) (4).
-- Paragraphs (iv) and (v) were deleted, ibid., s. 159(b)(5).
-- The portion beginning with the words " before the " and ending with the words " sub-
-- section (1)," were deleted, by Mah. 41 of 1994, s: 159 (c) (1) (i).
-- These words and figures were substituted for the word and figure " section 9", ibid.,
-- s. 159(c)(1)(ii).
-- This clause was deleted, ibid., s. 159 (c) (2).
+- 1 These words were substituted for the words " municipal area under sub-section (1)" by
+- Mah. 41 of 1994, s. 159(a).
+- 2 These words were substituted for the words "municipal area" by Mah. 41 of 1994,
+- s. 159(b)(1).
+- 3 The paragraph (i) was substituted by Mah. 41 of 1994, s. 159 (b) (2).
+- * The short title of this Act was substituted as "the Maharashtra Village Panchayats Act"
+- by Mah. 24 of 2012, Schedule, entry 74.
+- 1 The pagragraph (ii) was substituted by Mah. 41 of 1994, s. 159(b)(3).
+- 2 These words were substituted for the words " municipal area " by Mah. 41 of 1994, s. 159(b)(4).
+- 3 Paragraphs (iv) and (v) were deleted by Mah. 41 of 1994, s. 159(b)(5).
+- The portion beginning with the words " before the " and ending with the words " sub-section
+- (1)," were deleted by Mah. 41 of 1994, s. 159 (c) (1) (i).
+- These words and figures were substituted for the word and figure " section 9" by Mah. 41 of
+- 1994, s. 159(c)(1)(ii).
+- This clause was deleted by Mah. 41 of 1994, s. 159 (c) (2).
 - These brackets and words were inserted by Mah. 47 of 1973, s. 27(2)(b).
-- The brackets and words "(including the President)" were deleted by Mah. 19 of 1981,
-- s.20.
+- The brackets and words "(including the President)" were deleted by Mah. 19 of 1981, s.20.
 - Chapters XXVI-A and XXVI-B were inserted by Mah. 41 of 1994, s. 160.
 - These sub-sections were inserted by Mah. 11 of 2002, s. 52.
 - This word was substituted for the word "ten" by Mah. 30 of 2001, s. 2.
-- H 4061—32
 - These words and figures were inserted by Mah. 5 of 2002, s. 2.
 - * Companies Act, 1956 stands repealed by Act No. 18 of 2013, s. 465.
 - These words were inserted by Mah. 5 of 2002, s. 3(a).
-- 1 These words were inserted, ibid, s. .3 (b).
-- 2 These words were inserted, ibid., s. 4.
-- H 4061—32a
-- Township
-- Authority.
+- 1 These words were inserted by Mah. 5 of 2002, s. 3 (b).
+- 2 These words were inserted by Mah. 5 of 2002, s. 4.

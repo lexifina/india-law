@@ -26,7 +26,7 @@ Provided that, the information shall be disclosed in the language in which it is
 
 (v) audited financial statements showing Balance sheet, Receipts and Expenditures, and cash flow on a quarterly basis, within two months of end of each quarter, and audited financial statements for the full financial year, within three months of the end of the financial year ;
 
-(vi) the statement showing each of the services provided by the Council:
+(vi) the statement showing each of the services provided by the Council ;
 
 (vii) particulars of all plans, proposed expenditures, actual expenditures on major services provided or a activities performed and reports on disbursements made ;
 

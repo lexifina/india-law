@@ -2,7 +2,61 @@
 
 [See sub-section (2) of section 281]
 
-PART I Articles which shall not be kept without a licence in or upon any premises in quantities exceeding at any one time the respective maximum quantities hereunder specified opposite such articles. }
+PART I Articles which shall not be kept without a licence in or upon any premises in quantities exceeding at any one time the respective maximum quantities hereunder specified opposite such articles.
+
+Article Maximum quantity which may be kept at any one time without a licence. }
+
+(1) Bamboos . . . . kg.
+
+(2) Bidi leaves . . . . kg.
+
+(3) Camphor . . . . kg.
+
+(4) Celluloid . . . .
+
+(5) Celluloid goods . . . . kg.
+
+(6) Cinematograph film . . . . kg.
+
+(7) Copra . . . . kg.
+
+(8) Cotton refuse and waste . . kg.
+
+(9) Cotton seed . . . . kg.
+
+(10) Dry leaves (Patravali, etc.) . . kg.
+
+(11) Fish (dried) . . . . kg.
+
+(12) Gun-powder . . . . gms.
+
+(13) Matches for lighting . . . . gross boxes.
+
+(14) Methylated spirit and denatured litres. spirit.
+
+(15) Paints . . . . kg.
+
+(16) Petroleum as defined in the. . litres.
+
+Petroleum Act, 1934
+
+(17) Oil (other sorts) . . . . litre.
+
+(18) Oil seeds other than cotton seed kg.
+
+(l9) Oil paper (waste) including kg. newspapers, periodicals, magazines, etc.
+
+(20) Rags . . . . kg.
+
+(21) Sulphur . . . . kg.
+
+(22) Tat, pitch, dammer or bitumen kg.
+
+(23) Turpentine . . . . liters.
+
+(24) Varnish . . . . liters.
+
+(25) Wool (raw) . . . . kg.
 
 SCHEDULE IX—contd.
 
@@ -52,108 +106,8 @@ PART II Articles which shall not be kept without a licence in or upon any premis
 
 (21) Timber.
 
-GOVERNMENT CENTRAL PRESS, MUMBAI Maharashtra Government Publication
+Maharashtra Government Publication
 
 Notes in the official text:
 
-- Article
-- Bamboos
-- . .
-- . .
-- . .
-- Bidi leaves
-- . .
-- . .
-- . .
-- Camphor
-- . .
-- . .
-- . .
-- Celluloid
-- . .
-- . .
-- . .
-- Celluloid goods
-- . .
-- . .
-- . .
-- Cinematograph film
-- . .
-- . .
-- . .
-- Copra
-- . .
-- . .
-- . .
-- Cotton refuse and waste
-- . .
-- . .
-- . .
-- Cotton seed
-- . .
-- . .
-- . .
-- Dry leaves (Patravali, etc.) . .
-- . .
-- . .
-- Fish (dried)
-- . .
-- . .
-- . .
-- Gun-powder
-- . .
-- . .
-- . .
-- Matches for lighting
-- . .
-- . .
-- . .
-- Methylated spirit and denatured spirit . .
-- . .
-- Paints
-- . .
-- . .
-- . .
-- Petroleum as defined in the Petroleum Act, 1934
-- . .
-- Oil (other sorts)
-- . .
-- . .
-- . .
-- Oil seeds other than cotton seed
-- . .
-- . .
-- Oil paper (waste) including newspapers,
-- . .
-- periodicals, magazines, etc.
-- Rags
-- . .
-- . .
-- . .
-- Sulphur
-- . .
-- . .
-- . .
-- (22)
-- Tat, pitch, dammer or bitumen
-- . .
-- . .
-- kg.
-- (23)
-- Turpentine
-- . .
-- . .
-- . .
-- liters.
-- (24)
-- Varnish
-- . .
-- . .
-- . .
-- liters.
-- (25)
-- Wool (raw)
-- . .
-- . .
-- . .
-- kg.
+- GOVERNMENT CENTRAL PRESS, MUMBAI

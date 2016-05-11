@@ -1,4 +1,4 @@
-# Section 78C. Mah
+# Section 78C
 
 78C. (1) Every Municipal Officer and servant shall be bound to discharge his official duties and the official work assigned or pertaining to him most diligently and as expeditiously as feasible :
 

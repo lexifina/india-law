@@ -13,13 +13,13 @@ Inventory.
 Notes in the official text:
 
 - distrained
-- attached
 - chattels
 - property
+- attached
 - The words " and has not shown satisfactory cause for the non-payment of " were
 - deleted by Mah. 10 of 2010, s. 111 (1).
 - These words were substituted for the portion beginning with the words "fifteen
-- days" and ending with the words "the same", ibid., s. 111.
+- days" and ending with the words "the same" by Mah. 10 of 2010, s. 111.
 - goods and chattle
 - property
 - executing the warrant.
