@@ -1,0 +1,3 @@
+# The Tenth Schedule
+
+(See section 254) AMENDMENT TO THE LIMITED LIABILITY PARTNERSHIP ACT, 2008 (6 OF 2009) In section 64, Clause (c) shall be omitted.
