@@ -1,0 +1,78 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "744"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 744 LGL 175-2005-35 Dated 17-11-16"
+published: "2016-11-17"
+in_force: "2016-11-17"
+in_force_evidence: "published in the Gazette 2016-11-17; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/No.%20744%20LGL%20175-2005-35%20Dated%2017-11-16.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2016-11-17.744"
+language: "English text only"
+---
+
+PUBLISHED BY THE AUTHORITY
+No. 744 Dispur, Friday, 15th December, 2017, 24th Agrahayana, 1939 (S.E.)
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+LEGISLATIVE DEPARTMENT : : : LEGISLATIVE BRANCH
+NOTIFICATION
+The 17th November, 2016
+No. LGL.175/2005/Pt-I/35.– The following Central Act Published in the Gazette of India
+are hereby republished in the State Gazette for general information.
+THE BENAMI TRANSACTIONS (PROHIBITION)
+(AMENDMENT) ACT, 2016
+(AS PASSED BY THE HOUSES OF PARLIAMENT)
+
+5784 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+AN
+ACT
+.
+.
+
+5785 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5786 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5787 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5788 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5789 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5790 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5791 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5792 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5793 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5794 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5795 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5796 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5797 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5798 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5799 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5800 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5801 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5802 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5803 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+
+5804 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 15, 2017
+S. M. BUZAR BARUAH,
+Secretary to the Government of Assam,
+Legislative Department, Dispur.
+Guwahati :- Printed and Published by the Dy. Director (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Ex. Gazette No. 1487 - 10 + 10 - 15 - 12 - 2017. (visit at– www.dpns.assam.gov.in)
