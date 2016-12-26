@@ -1,0 +1,76 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "27"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 27 ELE.12-2013-357 Dated 26-12-16"
+published: "2016-12-26"
+in_force: "2016-12-26"
+in_force_evidence: "published in the Gazette 2016-12-26; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/No.%2027%20ELE.12-2013-357%20Dated%2026-12-16.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2016-12-26.27"
+language: "English text only"
+---
+
+PUBLISHED BY THE AUTHORITY
+No. 27 Dispur, Friday, 27th January, 2017, 7th Magha, 1938 (S.E.)
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+ELECTION DEPARTMENT ::::: DISPUR
+NOTIFICATION
+The 26th December, 2016
+5 Pausa 1938 (Saka)
+No.ELE.12/2013/357. - The following Notification of Election Commission
+of India, New Delhi is hereby re-published for general information.
+
+112 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 113
+
+114 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 115
+
+116 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 117
+
+118 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 119
+
+120 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 121
+
+122 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 123
+
+124 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 125
+
+126 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 127
+
+128 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 129
+
+130 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 131
+
+132 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017 133
+
+134 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 27, 2017
+M. C. SAHU,
+Chief Electoral Officer, Assam,
+Dispur.
+Guwahati :- Printed and Published by the Dy. Director (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 53 -10 + 10 - 27 - 01 - 2017.
