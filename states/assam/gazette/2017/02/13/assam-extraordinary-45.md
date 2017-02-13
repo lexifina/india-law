@@ -1,0 +1,175 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "45"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 45 LLE12-2017-58 Dated 13-02-17"
+published: "2017-02-13"
+in_force: "2017-02-13"
+in_force_evidence: "published in the Gazette 2017-02-13; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/No.%2045%20LLE12-2017-58%20Dated%2013-02-17.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2017-02-13.45"
+language: "English text only"
+---
+
+PUBLISHED BY THE AUTHORITY
+No. 45 Dispur, Monday, 13th February, 2017, 24th Magha, 1938 (S.E.)
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+ASSAM LEGISLATIVE ASSEMBLY SECRETARIAT
+NOTIFICATION
+The 13th February, 2017
+
+292 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+THE ASSAM VALUE ADDED TAX (AMENDMENT) BILL, 2017
+A
+BILL
+.
+. .
+.
+
+.
+293 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+.
+.
+.
+HIMANTA BISWA SARMA
+(Minister, Finance)
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+294 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+.
+
+. 295 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+.
+
+296 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+297 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+THE ASSAM MOTOR VEHICLES TAXATION (AMENDMENT) BILL, 2017
+A
+BILL
+.
+.
+.
+
+298 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+.
+
+299 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+
+300 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+CHANDRA MOHAN PATOWARY,
+Minister,
+Transport Department.
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+301 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+302 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+THE ASSAM ELECTRICITY DUTY (AMENDMENT AND VALIDATION)
+BILL, 2017
+A
+BILL
+.
+
+303 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+.
+.
+
+304 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+HIMANTA BISWA SARMA
+(Minister, Finance)
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+305 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+
+306 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+307 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+THE ASSAM REPEALING (No. 1) BILL, 2017
+A
+BILL
+.
+.
+. .
+
+308 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+.
+.
+.
+
+309 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+PALLAB LOCHAN DAS
+(Minister in-charge)
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+310 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+.
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+311 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+THE ASSAM TAXATION (LIQUIDATION OF ARREAR DUES)
+(AMENDMENT) BILL, 2017
+A
+BILL
+.
+.
+
+312 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+HIMANTA BISWA SARMA
+(Minister, Finance)
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+313 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+
+314 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+315 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+THE ASSAM AGRICULTURAL INCOME TAX (AMENDMENT) BILL, 2017
+A
+BILL
+.
+.
+.
+
+316 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+HIMANTA BISWA SARMA
+(Minister, Finance)
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017 317
+
+318 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 13, 2017
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+Guwahati :- Printed and Published by the Dy. Director (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Ex. Gazette No. 89 - 10 + 10 - 13 - 02 - 2017.
