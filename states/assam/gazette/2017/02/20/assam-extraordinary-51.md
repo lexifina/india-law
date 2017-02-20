@@ -1,0 +1,65 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "51"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 51 Ex.138-2015-57 Dated 20-02-17"
+published: "2017-02-20"
+in_force: "2017-02-20"
+in_force_evidence: "published in the Gazette 2017-02-20; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/No.%2051%20Ex.138-2015-57%20Dated%2020-02-17.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2017-02-20.51"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+EXCISE DEPARTMENT
+NOTIFICATION
+The 20th February, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 336
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 337
+
+338 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 339
+
+340 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 341
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 342
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 343
+
+344 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 345
+
+346 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 347
+
+348 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 349
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 350
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 351
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 352
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 353
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 354
+
+THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 20, 2017 355
+R. PRASAD,
+Commissioner and Secretary to the Govt. of Assam,
+Excise Department.
+Guwahati :- Printed and Published by the Dy. Director (P & S), Directorate of Printing & Sationery Assam, Guwahati-21.
+Extraordinary Gazette No. 101- 300 + 10 - 20 - 02 - 2017.
