@@ -1,0 +1,34 @@
+---
+kind: "gazette-notification"
+gazette: "Jharkhand Gazette"
+gazette_number: "240"
+gazette_type: "Extra Ordinary"
+issuer: "Government of Jharkhand"
+published: "2017-04-21"
+in_force: "2017-04-21"
+in_force_evidence: "published in the Gazette 2017-04-21; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.jharkhand.2017-04-21.240"
+language: "English text only"
+---
+
+COMMERCIAL TAXES DEPARTMENT
+----------
+NOTIFICATION
+20th April,2017
+S.O-14 – dated- 20 April, 2017-- In exercise of the powers conferred by clause (e) of sub-
+section (l) of Section 9 of the Jharkhand Entertainment Tax Act, 2012 (Jharkhand Act, 13 of 2012), the
+Governor of Jharkhand has been pleased to exempt the film / movie 'Begum Jaan' to be exhibited in
+Cinema Halls or Multiplex Cinema Halls from the levy and payment of Entertainment Tax in the public
+interest, to address women dignity and status in society and to promote the state of Jharkhand as suitable
+film destination.
+This Notification shall be effective from the date of its issuance.
+(File No.Va.Kar l/Mano Kar / 4/2016)
+By the Order of the Governor of Jharkhand
+K.K. Khandelwal,
+Principal Secretary-cum-Commissioner,
+Commercial Taxes Department,
+Jharkhand, Ranchi.
+----------------
+
+Printed & Published by the Superintendent of Jharkhand Government Press, Doranda, Ranchi.
+Jharkhand Gazette (Extraordinary) 240-- 50.
