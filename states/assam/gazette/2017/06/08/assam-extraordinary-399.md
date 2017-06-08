@@ -1,0 +1,70 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "399"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 399 GLR.71-2016-C-46 Dated 08-06-17"
+published: "2017-06-08"
+in_force: "2017-06-08"
+in_force_evidence: "published in the Gazette 2017-06-08; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/No.%20399%20GLR.71-2016-C-46%20Dated%2008-06-17.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2017-06-08.399"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+LABOUR AND WELFARE DEPARTMENT, DISPUR, GUWAHATI-6
+NOTIFICATION
+The 8th June, 2017
+
+2750 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2751
+
+2752 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2753
+
+2754 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2755
+
+2756 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2757
+''
+
+2758 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2759
+
+2760 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2761
+
+2762 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2763
+
+2764 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2765
+
+2766 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2767
+
+2768 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2769
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2770
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 13, 2017 2771
+K. V. EAPEN,
+Addl. Chief Secretary to the Government of Assam,
+Labour and Welfare Department.
+Guwahati :- Printed and Published by the Dy. Director (P & S), Directorate of Ptg. & Sty. Assam, Guwahati-21.
+Ex. Gazette No. 797 - 50 + 10 - 13 - 07 - 2017. (visit at–www.dpns.assam.gov.in)
