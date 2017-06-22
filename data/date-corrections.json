@@ -36,6 +36,18 @@
    "supersedes": "none",
    "kind": "redate",
    "written": "2026-11-23"
+  },
+  {
+   "act": "central/acts/central-goods-and-services-tax-act-2017",
+   "misdated": "fc0bb078c5851be1d2bf1a6734dd97a8d2d8bb1f",
+   "recorded_day": "2017-07-01",
+   "in_force": "2017-06-22",
+   "corrects": "2017-06-22..2017-06-30",
+   "evidence": "G.S.R.605(E) of 2017-06-19 (No. 1/2017-Central Tax, commencement notification, Gazette Id in.gazette.central.e.2017-06-19.176795): appoints 2017-06-22 for sections 1 to 5, 10, 22 to 30, 139, 146 and 164",
+   "reason": "misdated: dated by G.S.R.658(E), the second commencement stage (2017-07-01); sections 1 to 5, 10, 22 to 30, 139, 146 and 164 came into force on 2017-06-22 (G.S.R.605(E))",
+   "supersedes": "none",
+   "kind": "redate",
+   "written": "2026-11-23"
   }
  ]
 }
