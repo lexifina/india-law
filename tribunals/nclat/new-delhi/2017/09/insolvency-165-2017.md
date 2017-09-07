@@ -1,0 +1,81 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 165 of 2017"
+decided: "2017-09-07"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/16350840855b6d73e66a066.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 165 of 2017, 2017-09-07
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+Company Appeal (AT) (Insol.) No. 165 of 2017
+IN THE MATTER OF:
+MIs. James Hotels Ltd. . . .Appellant
+Vs.
+Punjab National Bank - ...Respondent
+ORDER
+07.09.2017- Admittedly, 'Corporate Insolvency Resolution Process'
+started against appellant-'Corporate Debtor' M/s. James Hotels Limited
+is pending before the Adjudicating Authority (National Company Law
+Tribunal) Chandigarh Bench, Chandigarh. During the resolution
+process, the 'Corporate Debtor' alleged that the 'Financial Creditor'-
+Punjab National Bank has committed a fraud on the basis of record filed
+by 'Corporate Debtor' which was seriously contested by the 'Financial
+Creditor'.
+2. In the aforesaid background on 23rd August, 2017, the Adjudicating
+Authority passed the following order in Company Petition No. (IB) No.
+15/Chd/CHD/2017:-
+"It is argued on behalf of the Corporate Debtor that
+Punjab National Bank has committed afraud on the basis
+of record filed by Corporate Debtor which is seriously
+contested by the learned counsel for the Bank Financial
+Creditor.
+List the matter for arguments on 29.08.2017 to be
+kept high up in the list. In the meanwhile, Registrar of
+Companies, Punjab & Chandigarh be directed to preserve
+
+-2-
+the CCTV footages relating to the visitors entering the
+premises of ROC for one month upto 01.08.2017.
+Notice of this application to ARCIL. Mr.
+V.K. Sachdeva, Advocate who is present in the Court
+accepts notice on behalf of ARCIL and seek to file the
+Power of Attorney with the necessary authorisation. "
+3. Ld. Counsel appearing on behalf of the appellant-'Corporate Debtor'
+submits that the "offences and penalties" under I & B Code can be
+looked into only by Special Judge in terms of Chapter VIII of Part II of
+the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as
+'I&B Code'). However, we find that 'the fraudulent or malicious initiation
+of the proceedings' and 'fraudulent bank trading' etc. can be looked into
+by Tribunal under Sections 65 and 66 of the MB Code. In any case,
+during the course of Insolvency Resolution Process, if allegation of fraud
+by one or other party is brought to the notice of the Adjudicating
+Authority it is always open to the Adjudicating Authority to notice the
+appropriate authorities and parties to find out whether a prima facie
+case is made out and the same has any effect in the resolution process
+or not.
+4. It is informed that the matter was again taken by the Adjudicating
+Authority on 23rd August, 2017 and when on the said date further
+observations and direction have been made. The said order is not under
+challenge.
+r
+
+-3-
+5. In the aforesaid circumstances, as the Adjudicating Authority to
+find out the truth of the allegation has issued notice, we are not inclined
+to interfere with the order at this stage.
+6. However, if any adverse order is passed or any order is passed
+under section 31 of the MB Code in view of enquiry being made, it is
+open to the aggrieved person to move before the Adjudicating Authority
+or the Appellate Tribunal. The appeal is dismissed with aforesaid
+observations. However, in the facts and circumstances of the case, there
+shall be no order as to costs.
+(Justice S.J. Mukhopadhaya)
+Chairperson
+(Balvinder Singh)
+Member(Technical)
+ar
