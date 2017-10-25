@@ -1,0 +1,141 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "625"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 625 LGL 229-2017-5 Dated 25-10-17"
+published: "2017-10-25"
+in_force: "2017-10-25"
+in_force_evidence: "published in the Gazette 2017-10-25; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/No.%20625%20LGL%20229-2017-5%20Dated%2025-10-17.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2017-10-25.625"
+language: "English text only"
+---
+
+PUBLISHED BY THE AUTHORITY
+No. 625 Dispur, Monday, 30th October, 2017, 8th Kartika, 1939 (S.E.)
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+LEGISLATIVE DEPARTMENT : : : LEGISLATIVE BRANCH
+NOTIFICATION
+The 25th October, 2017
+No. LGL.229/2017/5.– The following Act of the Assam Legislative Assembly
+which received the assent of the Governor on 16th October, 2017 is hereby published for general
+information.
+ASSAM ACT NO. XXXV OF 2017
+(Received the assent of the Governor on 16th October, 2017)
+THE MADHABDEV UNIVERSITY ACT, 2017
+
+4802 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+AN
+ACT
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4803
+.
+.
+.
+
+4804 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4805
+.
+.
+
+4806 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4807
+.
+.
+
+4808 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4809
+.
+and
+.
+.
+
+4810 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4811
+
+4812 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4813
+.
+
+4814 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4815
+.
+.
+
+4816 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+;
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4817
+.
+.
+
+4818 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4819
+.
+.
+
+4820 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4821
+
+4822 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4823
+.
+.
+
+4824 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4825
+.
+
+4826 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4827
+.
+
+4828 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017 4829
+.
+.
+.
+
+4830 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 30, 2017
+.
+S. M. BUZAR BARUAH,
+Commissioner & Secretary to the Government of Assam,
+Legislative Department, Dispur.
+Guwahati :- Printed and Published by the Dy. Director (P & S), Directorate of Printing & Sationery Assam, Guwahati-21.
+Extraordinary Gazette No. 1249 -200 + 10 - 30 - 10 - 2017. (visit at– www.dpns.assam.gov.in)
