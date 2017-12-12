@@ -1,0 +1,40 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 312 of 2017"
+decided: "2017-12-12"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/883377785b729fb6f183a.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 312 of 2017, 2017-12-12
+
+Company Appeal (AT) (Insolvency) No. 312 of 2017 5
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+NEW DELHI
+I.A. No. 969 of 2017
+IN
+Company Appeal (AT) (Insolvency) No. 312 of 2017
+IN THE MATTER OF:
+M/s. Lease Pal India Pvt. Ltd. …Appellant
+Versus
+ACPL HR Services Pvt. Ltd. …Respondent
+Present:
+For Appellant : Shri Sanchit Guru and Shri Janmesh Kumar,
+Advocates
+O R D E R
+12.12.2017 The appellant has preferred an application for condonation of
+14 days’ delay in filing this appeal against order dated 17th October, 2017 passed
+by the Adjudicating authority (National Company law Tribunal), New Delhi in No.
+IB-208/ND/2017.
+Having heard the learned counsel for the appellant and being satisfied with
+the grounds shown in the appeal, the delay of 14 days in preferring the appeal
+is condoned.
+I.A. No. 969 of 2017 stands disposed of.
+[Justice S.J. Mukhopadhaya]
+Chairperson
+[ Justice Bansi Lal Bhat ]
+Member(Judicial)
+/ns/uk
