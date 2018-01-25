@@ -1,0 +1,236 @@
+# The Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships (Amendment) Ordinance, 2018
+
+Maharashtra Ordinance 4 of 2018, as promulgated, as published by the Law and Judiciary Department, Government of Maharashtra.
+
+# Preamble
+
+WHEREAS both Houses of the State Legislature are not in session ;
+
+AND WHEREAS the Governor of Maharashtra is satisfied that circumstances exist which render it necessary for him to take immediate action further to amend the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965, for the purposes hereinafter appearing ;
+
+(1) NOW, THEREFORE, in exercise of the powers conferred by clause (1) of article 213 of the Constitution of India, the Governor of Maharashtra is hereby pleased to promulgate the following Ordinance, namely :—
+
+# Section 1
+
+1. (1) This Ordinance may be called the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships (Amendment) Ordinance, 2018.
+
+(2) It shall come into force at once.
+
+# Section 2. ment
+
+2. In section 2 of the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965 (hereinafter referred to as
+
+"the principal Act"),—
+
+(a) after clause (9), the following clause shall be inserted,
+
+"(9A) "District Administration Officer (DAO)" means the officer appointed as a District Administration Officer by the Government, for the purposes of this Act;" ;
+
+(b) after clause (22), the following clause shall be inserted,
+
+"(22A) "Meeting Superintendent" means the officer or the person designated as a Meeting Superintendent by the Chief Officer for the purpose of maintaining proceedings of the Council and Committees and responsible for receiving the proposals as per section 83A ;".
+
+# Section 3
+
+3. In section 55 of the principal Act, for the existing proviso, the following proviso shall be substituted, namely :—
+
+" Provided that, no such resolution under this sub-section shall be moved within a period of one year from the date of the election of the President. For the removal of the President directly elected under section 51A-1A, the provisions of section 55-1 shall apply.".
+
+# Section 4. Substitution of section 55-1 of Mah
+
+4. For section 55-1 of the principal Act, the following section shall be substituted, namely :—
+
+"55-1.
+
+(1) The requisition for removal of the President directly elected under section 51A-1A shall be signed by not less than one half of the total number of Councillors and shall contain the charges of misconduct against such President and shall be sent to the Collector :
+
+Provided that, no such requisition shall be sent within a period of two and half years from the date of election of such President.
+
+(2) Upon receipt of the requisition under sub-section (1), the Collector shall conduct the enquiry of such charges and complete such enquiry within a period of one month from the date of receipt of the requisition :
+
+Provided that, in no case such period of enquiry shall be extended beyond three months and for such extended period, prior assent of the State Government shall be obtained by the Collector, if the enquiry proceeding is delayed due to unavoidable reasons.
+
+(3) The Collector shall submit the findings of the enquiry to the Government for taking appropriate action under section 55A.".
+
+# Section 5. of section 55A
+
+5. In section 55A of the principal Act, after the existing proviso, the following proviso shall be added, namely :—
+
+"Provided further that, the Government shall take a decision on the report submitted by the Collector under section 55-1, within a period of six months from the date of receipt of the report.".
+
+# Section 6
+
+6. (i) clause (b) shall be deleted;
+
+(ii) clause (d) shall be deleted;
+
+(iii) clause (e) shall be deleted;
+
+(b) after sub-section (1), the following sub-section shall be inserted,
+
+"(1A) Subject to the provisions of this Act and of any rules and by laws framed thereunder, the President directly elected under section 51A-1A shall have power to give the financial sanction to such proposal of development works as may be prescribed by the State Government, from time to time and development works out of grants received from the State Government, when there are no specific instructions regarding financial approval and the Council has discretion to select the work.".
+
+# Section 7
+
+7. (a) in sub-section (3), for the words "Assistant and Deputy Collector" the words "District Administration Officer" shall be
+
+(b) in sub-section (4), for the words "the Assistant and Deputy Collectors" the words "the District Administration Officer" shall be substituted.
+
+# Section 8
+
+8. In section 75 of the principal Act, for sub-section (1), the following sub-section shall be substituted, namely :—
+
+"(1) There shall be a Chief Officer for every Council who shall be an officer deputed by the State Government to the Municipal Council from the cadre of Chief Officers or any other officer holding equivalent post in the State Government appointed on deputation.".
+
+# Section 9
+
+9. (i) in clause (a), the words "subject to the control, direction and supervision of the President," shall be deleted ;
+
+(ii) after clause (a), the following clause shall be inserted,
+
+"(aa) act as the Government representative for implementation of all Government policies, schemes and programs and shall take all necessary steps and shall be responsible for implementation of the Central Government and the State Government schemes, and shall implement the directions issued by the Government, from time to time;";
+
+(iii) for clause (b), the following clause shall be substituted, u(b) as Government representative, be responsible to give effect to the decisions or resolutions of the Council :
+
+Provided that, if any decision or resolution is against or in violation of provisions of this Act or any other law, any Government policy, rules, bye-laws or directions issued by the Government, then it shall be his responsibility to submit such a decision or resolution to the Collector under section 308 within three days;";
+
+(iv) in clause (f), for the words "report to the President" the words "report to the Government, Director, President" shall be substituted;
+
+(b) in sub-section (2),—
+
+(i) the words "with the sanction of the President" shall be deleted;
+
+(ii) for the proviso, the following proviso shall be substituted,
+
+" Provided that, such delegation shall be subject to the control and revision by the Chief Officer.".
+
+# Section 10
+
+10. (i) for the words "an ordinary meeting shall be held once in two months" the words "an ordinary meeting shall be held once in every month" shall be substituted ;
+
+(ii) for the words "first such meeting shall be held within two months" the words "first such meeting shall be held within one month" shall be substituted ;
+
+(iii) for the words "each succeeding ordinary meeting shall be held within two months" the words "each succeeding ordinary meeting shall be held within one month" shall be substituted;
+
+(b) in sub-section (4), in clause (a), for the words "and posted up at the Municipal Office" the words "and posted up at the Municipal Office and the official website of the Council or Nagar Panchayat" shall be
+
+(c) in sub-section (9), in clause (b),—
+
+(i) after the words "at the Municipal Office" the words "and the official website of the Council or Nagar Panchayat" shall be inserted;
+
+(ii) the following proviso shall be added, namely :—
+
+"Provided that, all proposals of the Councillors on the agenda of meeting should have detailed remarks of the Chief Officer of the Council or Nagar Panchayat.";
+
+(d) in sub-section (12),—
+
+(i) for the words "The minutes shall be signed as soon as practicable" the words "The minutes shall be signed within seven days" shall be substituted;
+
+(ii) for the words "by any inhabitant of the municipal area" the words "by any inhabitant of the municipal area and the resolutions shall be published on the official website of the Council and the official website of the Director" shall be substituted.
+
+# Section 11. Substitution
+
+11. For section 83 of the principal Act, the following section shall be substituted, namely :—
+
+"83. (1) The Chief Officer shall have the same right of being present at a meeting of the Council and of taking part in the discussions thereat as a Councillor and, with the permission of the presiding authority, may at any time make a statement or explanation of facts, but he shall not be at liberty to vote upon, or to make, any proposition at such meeting.
+
+(2) The Council may require any of its officers to attend any meeting or meetings of the Council at which any matter dealt with by such officer in the course of his duties is being discussed; when any officer is thus required to attend any such meeting, he may be called upon to make a statement or explanation of facts or supply such information in his possession relating to any matter dealt with by him as the Council may require.
+
+(3) The Chief Officer shall have the same right of being present at a meeting of the Standing Committee or of a Subject Committee and of taking part in the discussions thereat as a member of the said Committee, but he shall not be at liberty to vote upon or make any proposition at such meeting.
+
+(4) The Chief Officer and in his absence any other Officer authorized by him in this behalf shall have the same right of being present at a meeting of the Council, Standing Committee or of a Subject Committee and of taking part in the discussion thereat as a member of the said Committee, but shall not be at liberty to vote upon or make any proposition at such meeting.
+
+(5) It shall be the duty of the Chief Officer to bring to the notice of the Council, the provisions of this Act and of other laws, any Government policy, rules, bye-laws, or directions issued by the Government and he is further duty bound to send the resolution to the Collector under section 308, if Council resolves contrary.".
+
+# Section 12. Substitution of section 83A
+
+12. For section 83A of the principal Act, the following section shall be substituted, namely :—
+
+"83A.
+
+(1) (a) Where, any proposal of the Chief Officer requires previous sanction or approval of the Council or the Committee, the Council or the Committee shall consider and dispose of any such proposal of the Chief Officer, within thirty days reckoned from the date of the meeting of the Council or the Committee held immediately after the proposal is received by the Meeting Superintendent, whether the item pertaining to such proposal is taken on the agenda of the meeting or not.
+
+(b) The Chief Officer shall send any proposal to the Meeting Superintendent which requires previous approval of the Council, or the Committee, as the case may be, and the Meeting Superintendent shall immediately place the same before the President or the Chairman of the concerned Committee.
+
+(2) (a) If the Council or the Committee fails to take the decision within the period specified in sub-section (1), then the President or the Chairman of the concerned Committee shall decide the proposal within seven days after the expiry of the said period. The decision given by the President or the Chairman of the concerned Committee on such proposal shall be deemed to have been given by the Council or the concerned Committee :
+
+Provided that, any such deemed sanction or approval shall be restricted to the extent the proposal conforms to the existing provisions of this Act or any other law, for the time being in force.
+
+(b) If the President or the Chairman of the Committee fails to take the decision within the period specified in clause (a) above or, the Council, the Committee or the President, as the case may be, the Chairman of the Committee rejects such proposal, which is recommended by the Chief Officer as per the directions of the Government, then the Chief Officer shall be empowered to give effect to such proposal and submit a report about the same to the Government, within three days.".
+
+# Section 13
+
+13. (i) in clause (c), —
+
+(I) for the words "approval or sanction of the Council" the words " approval or sanction of the Standing Committee" shall be substituted;
+
+(II) the following proviso shall be inserted, namely :—
+
+"Provided that, for such a category of contract as the Government may prescribe, from time to time, a committee consisting of the President and Chief Officer shall approve such contract, within a period of fifteen days from its receipt.";
+
+(ii) in clause (d), for the words "to the Council" the words " to the Standing Committee" shall be substituted;
+
+(b) in sub-section (4),—
+
+(i) for the words " the Council" the words " the Standing Committee" shall be substituted;
+
+(ii) for the words "two members of the Standing Committee" the words "two members of the Standing Committee or any two Councillors of the Council authorised by the President" shall be
+
+(c) in sub-section (7), for the words "the Council" the words "the Standing Committee" shall be substituted;
+
+(d) in sub-section (8), for the words " the Council" the words "the Standing Committee" shall be substituted.
+
+# Section 14
+
+14. In section 101 of the principal Act, in sub-section (1), the words
+
+"under the directions of the President" shall be deleted.
+
+# Section 15
+
+15. In section 308 of the principal Act, for sub-section (1), the following sub-section shall be substituted, namely :—
+
+" (1) If the Council or any Committee resolves contrary to provisions of this Act or any other law, or rules, bye-laws, or the Government directions, then it shall be the responsibility of the Chief Officer to send it to the Collector for suspension of execution of such a resolution or prohibition of doing thereof, within the period of three days from the receipt of the said resolution. The Collector shall decide on such proposal within the period of thirty days from the date of receipt of such proposal.
+
+If it remains undecided within the said period, then the Collector shall submit the report thereof to the Director within ten days and the decision of the Director thereon shall be final. In such case, appeal against the order of the Director shall lie to the State Government.".
+
+# Section 16. Insertion of section 341B7 in Mah. XL of 1965
+
+16. After section 341B-6 of the principal Act, the following section shall be inserted, namely :—
+
+" 341B-7. Notwithstanding anything contained in sections 341B-1 to 341B-6, the provisions of sections 55, 55-1, 58, 75, 77, 81, 93 and 101 shall apply mutatis mutandis to the Nagar Panchayats.".
+
+STATEMENT As per the provisions of the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Township Act, 1965 (Mah. XL of 1965), the President is directly elected by the voters of the Municipal Council or Nagar Panchayat at the general elections and the term of the Office of the President is 5 years.
+
+With a view to ensure stability to the Office of the President and to bring efficiency, transparency and accountability in the functioning of the Municipal Councils and Nagar Panchayats, it is considered expedient to modify certain provisions of the said Act.
+
+2.
+
+The salient features of the proposed amendments are,—
+
+(1) to ensure stability to the Office of the President of the Municipal Councils and Nagar Panchayats, it is proposed to provide that the proposal for the removal of directly elected President shall not be moved within a period of two and half years from the date of election of the President and it is also made mandatory to mention the charges of misconduct in such proposal; it is also proposed to provide that the President shall be removed by the Government in case the misconduct is proved ;
+
+(2) in order to enable the directly elected President to take developmental works throughout the town or city, it is proposed to empower the President with discretionary financial powers ;
+
+(3) to specify the role of the Chief Officer as a Government representative in the Councils and to make the Chief Officer responsible for the implementation of the Central Government and the State Government schemes and Government directions ;
+
+(4) to ensure that resolutions and decisions of the Councils are in accordance with the Act, Rules and Government Policies and if it is not so, it is the responsibility of the Chief Officer to send it to the Collector for appropriate action; for this purpose, it is proposed to bring clarity in the duties and responsibilities of the Chief Officer ;
+
+(5) to ensure the efficiency, transparency and accountability in the functioning of the Councils and Nagar Panchayats.
+
+3.
+
+As both Houses of the State Legislature are not in session and the Governor of Maharashtra is satisfied that circumstances exist which render it necessary for him to take immediate action further to amend the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965 (Mah. XL of 1965), for the purposes aforesaid, this Ordinance is promulgated.
+
+Mumbai, CH.VIDYASAGAR RAO, Dated the 25th January 2018.
+
+Governor of Maharashtra.
+
+By order and in the name of the Governor of Maharashtra, MANISHA PATANKAR-MHAISKAR, Principal Secretary to Government.
+
+Notes in the official text:
+
+- ON BEHALF OF GOVERNMENT PRINTING, STATIONERY AND PUBLICATION, PRINTED AND PUBLISHED BY SHRI PARSHURAM JAGANNATH GOSAVI,
+- PRINTED AT GOVERNMENT CENTRAL PRESS, 21-A, NETAJI SUBHASH ROAD, CHARNI ROAD, MUMBAI 400 004 AND PUBLISHED AT DIRECTORATE
+- OF GOVERNMENT PRINTING, STATIONERY AND PUBLICATIONS, 21-A, NETAJI SUBHASH ROAD, CHARNI ROAD, MUMBAI 400 004, EDITOR : SHRI
+- PARSHURAM JAGANNATH GOSAVI.
