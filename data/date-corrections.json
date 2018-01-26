@@ -48,6 +48,18 @@
    "supersedes": "none",
    "kind": "redate",
    "written": "2026-11-23"
+  },
+  {
+   "act": "central/amending-acts/2018/01-companies-amendment-act-2017.md",
+   "misdated": "da01bda43dfbc9ee444b74baf1cafe73ddc86d90",
+   "recorded_day": "2018-09-12",
+   "in_force": "2018-01-26",
+   "corrects": "2018-01-26..2018-09-11",
+   "evidence": "S.O.351(E) of 2018-01-23 (commencement notification, Gazette Id in.gazette.central.e.2018-01-23.182243): appoints 2018-01-26 for sections 1 and 4",
+   "reason": "misdated: dated by S.O.4823(E) of 2018, a later stage (sections 66 to 70); the Act first came into force on 2018-01-26 (S.O.351(E), sections 1 and 4)",
+   "supersedes": "none",
+   "kind": "redate",
+   "written": "2026-11-23"
   }
  ]
 }
