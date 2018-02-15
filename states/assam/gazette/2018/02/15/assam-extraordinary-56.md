@@ -1,0 +1,77 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "56"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 56 LLE 11-2018-430 Dated 15-02-18"
+published: "2018-02-15"
+in_force: "2018-02-15"
+in_force_evidence: "published in the Gazette 2018-02-15; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/No.%2056%20LLE%2011-2018-430%20Dated%2015-02-18.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2018-02-15.56"
+language: "English text only"
+---
+
+PUBLISHED BY THE AUTHORITY
+No. 56 Dispur, Saturday, 17th February, 2018, 28th Magha, 1939 (S. E.)
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+ASSAM LEGISLATIVE ASSEMBLY SECRETARIAT
+NOTIFICATION
+The 15th February, 2018
+
+408 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+THE ASSAM YOGA COUNCIL BILL, 2018
+A
+BILL
+
+409 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+410 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+411 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+.
+
+412 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+413 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+414 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+415 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+416 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+417 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+418 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+419 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+420 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+421 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+422 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+423 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+424 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+425 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+
+426 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+HIMANTA BISWA SARMA,
+Minister,
+Health & Family Welfare Department, Assam.
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+427 THE ASSAM GAZETTE, EXTRAORDINARY, FEBRUARY 17, 2018
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+Guwahati : Printed and Published by the Dy. Director (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 111 - 10 + 10 - 17 - 02- 2018. (visit at– www.dpns.assam.gov.in)
