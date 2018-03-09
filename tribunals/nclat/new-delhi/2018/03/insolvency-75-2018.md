@@ -1,0 +1,131 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 75 of 2018"
+decided: "2018-03-09"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/15404822495b682a96cec20.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 75 of 2018, 2018-03-09
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+NEW DELHI
+Company Appeal (AT) (Insolvency) No. 75 of 2018
+IN THE MATTER OF:
+Tarini Steel Company Pvt. Ltd. …Appellant
+Versus
+Trinity Auto Components Ltd. & anr. …Respondents
+Present:
+For Appellant : Mr. Arvind Kr. Gupta, Ms. Henna George and Ms. Purti
+Marwaha Gupta, Advocates
+O R D E R
+09.03.2018 This appeal has been preferred by the appellant (Resolution
+Applicant) against order dated 22nd January, 2018 passed by the Adjudicating
+Authority (National Company law Tribunal), Mumbai Bench in MA 544/2017 in
+CP No. 1032/I&BC/MB/MAH/2017 whereby and whereunder the Adjudicating
+Authority approved the resolution plan with modification as quoted below :
+“12. Keeping this settled principle in mind, we have noted that
+upon calling for “expression of interest” only one Applicant
+came forward and submitted the Resolution Plan. The
+Resolution Plan for our consideration is received from
+Resolution Applicant viz. M/s. Tarini Steel Limited. The
+Plan envisages infusion of fresh funds by the existing
+Promoters. Through a Statement an undertaking is annexed
+that interest of all stakeholders, including Financial Creditors
+and Operational Creditors shall be dealt with.
+12.1 In our view in this Plan there is no inconsistency that under
+the Heading “Assumption” as per Clause “A”, it is noted that,
+quote “New Promoters Deposit to the extent of ₹2 crores
+
+2
+Company Appeal (AT) (Insolvency) No. 75 of 2018
+to be allowed to be covered into Equity Shares by
+Financial Year 2022-23.” However, under the Head
+“Conclusion” as per Clause V under the Head “Promoters’
+Loan” it is proposed, quote “the fresh Unsecured Loans of
+₹350 lakhs to be infused by the Promoters under the
+Resolution Plan shall be repayable during 2021-23.” In
+addition to these two observations, interestingly and in
+contrast, an observation is at para 13 under the Head “What
+will be the Promoters’ contribution” the proposal is that quote
+“The promoters propose to invest another amount of
+₹349.51 lacs by way of interest-bearing deposit @ 12%
+repayable by 2023. The promoters will ensure the
+regular payment of instalments and interest to the
+bank before payment of interest to the promoter on
+proposed investment of Rs.349.51 lacs.” Indeed, it is
+strange situation that at three places three different Plans
+have been proposed in respect of the contribution of the
+Promoters. We are not in agreement of the two propositions
+and accept only one. We are of the view that considering the
+financially stressed position of the Debtor Company the fresh
+Unsecured Loans infused by the Promoters is required
+to be converted into Equity so that the burden of repayment
+must be deferred instead dividend can be distributed.
+13. One more suggestion is necessary to be incorporated is that
+under the Head “Contingency Liabilities” it is proposed that,
+quote “j) (i) if any contingent liability devolves on the company
+with respect to statutory OR unsecured credits in future for
+the past transactions prior to 31.03.2011, the same will be
+settled at 15% of its crystalized principal amount as per the
+scheme sanctioned by BIFR,” In respect of the Government
+Dues it is inappropriate to settle up to 15% of the crystalized
+
+3
+Company Appeal (AT) (Insolvency) No. 75 of 2018
+liability hence the condition of settlement up to 15% shall
+not apply on the Government dues.
+14. Before we conclude, it is worth to place on record that this
+Resolution Plan is proposed by the Promoters by infusing
+additional Capital as per supra, therefore, the Resolution Plan
+submitted by the Promoters is to be accepted because a
+Certificate is on record that the Promoters are not “wilful
+defaulter” hence their proposal is acceptable as per the latest
+Amendment [The I & B Code (Amendment) Act, 2017 (No.8 of
+2018] dated 18th January, 2018 wherein S. 29-A is inserted
+and prescribed that, a person shall not be eligible to submit a
+Resolution Plan if such person is “wilful defaulter”. In this
+regard an Affidavit-cum-Declaration submitted by the
+Resolution Applicant declaring therein that the Declarant had
+not been identified as a “wilful defaulter”. As a consequence,
+the provisions of S. 29-A are not applicable in this case.
+15. To conclude, the Resolution Plan is approved subject to the
+modifications suggested hereinabove which is binding on the
+Corporate Debtor and other stakeholders involved in this
+Resolution Plan so that revival of the Debtor Company shall
+come into force with immediate effect and the “Moratorium”
+imposed under section 14 shall cease to have any effect
+henceforth. The Resolution Professional shall submit the
+records collected during the commencement of the
+Proceedings to the Insolvency & Bankruptcy Board of India
+for their record and also return to the Resolution Applicant.
+Certified copy of this Order be issued on demand to the
+concerned parties, upon due compliance.”
+2. On 6th March, 2018 when the matter was taken up, we express our prima
+facie view that the modification as made by the Adjudicating Authority, Mumbai
+
+4
+Company Appeal (AT) (Insolvency) No. 75 of 2018
+Bench, do not suffer from any illegality. Learned counsel for the appellant
+prayed for time to take instructions from the appellant whether the appellant
+intends to press the appeal or not.
+3. Learned counsel for the appellant submits that the Adjudicating Authority
+has no jurisdiction to modify the ‘resolution plan’ once approved by the
+Committee of Creditors. However, if such submission is accepted in that case
+then only recourse will be available to the Adjudicating Authority is to reject the
+resolution plan, being not satisfied with the resolution plan.
+4. At this stage, learned counsel for the appellant submits that the appellant
+does not want liquidation of the corporate debtor. In this regard, while we are
+not expressing any opinion, give liberty to the appellant to withdraw the
+resolution plan, if it is not satisfied with the amendment made therein. In such
+case the Adjudicating Authority will allow the same and proceed with the
+liquidation.
+4. The appeal is disposed of with the aforesaid liberty. No cost.
+[Justice S.J. Mukhopadhaya]
+Chairperson
+[ Justice Bansi Lal Bhat ]
+Member (Judicial)
+/ns/uk
