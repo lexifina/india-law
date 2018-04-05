@@ -1,0 +1,113 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "185"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 185 LLE.31-2018-519 Dated 05-04-18"
+published: "2018-04-05"
+in_force: "2018-04-05"
+in_force_evidence: "published in the Gazette 2018-04-05; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/No.%20185%20LLE.31-2018-519%20Dated%2005-04-18.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2018-04-05.185"
+language: "English text only"
+---
+
+PUBLISHED BY THE AUTHORITY
+No. 185 Dispur, Thursday, 12th April, 2018, 22nd Chaitra, 1940 (S. E.)
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+ASSAM LEGISLATIVE ASSEMBLY SECRETARIAT
+NOTIFICATION
+The 5th April, 2018
+
+908 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+THE ASSAM SPEAKER'S AND DEPUTY SPEAKER'S SALARIES
+ALLOWANCES AND AMENITIES BILL, 2018
+A
+BILL
+.
+.
+
+909 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+
+910 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+.
+.
+
+911 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+. .
+.
+
+912 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+.
+.
+CHANDRA MOHAN PATOWARY,
+Minister, In-Charge.
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+913 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+
+914 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+THE ASSAM MINISTER'S AND LEADER OF THE OPPOSITION'S
+SALARIES, ALLOWANCES AND AMENITIES BILL, 2018
+A
+BILL
+.
+.
+
+915 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+
+916 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+.
+.
+.
+.
+. .
+.
+
+917 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+
+918 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+CHANDRA MOHAN PATOWARY,
+Minister, In-Charge.
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+919 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+
+920 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+THE ASSAM LEGISLATIVE ASSEMBLY MEMBERS' SALARIES
+ALLOWANCES, AMENITIES AND PENSIONS BILL, 2018
+A
+BILL
+.
+.
+
+921 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+
+922 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+.
+.
+
+923 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+.
+.
+
+924 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+.
+.
+
+925 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+CHANDRA MOHAN PATOWARY,
+Minister, In-Charge.
+M. K. DEKA,
+Principal Secretary,
+Assam Legislative Assembly.
+
+926 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 12, 2018
+Guwahati : Printed and Published by the Dy. Director (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 369 - 10 + 10 - 12 - 04- 2018. (visit at– dpns.assam.gov.in)
