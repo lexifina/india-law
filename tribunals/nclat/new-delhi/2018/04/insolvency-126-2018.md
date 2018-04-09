@@ -1,0 +1,77 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 126 of 2018"
+decided: "2018-04-09"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/1014635985b69285169c7c.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 126 of 2018, 2018-04-09
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+NEW DELHI
+COMPANY APPEAL(AT) (INSOLVLENCY) NO.126 OF 2018
+IN THE MATTER OF:
+M/s Rajnish Gupta Appellant
+Vs
+Small Industrial Development Bank of India Respondent
+Present: For Appellant:- Mr. K. Datta, Mr. Astuosh Gupta, Mr. Gaurav Rana,
+Mr. A. Uppal, Mr. Suraj Shukla, Advocates.
+For Respondents: - Mr. Rajendra Beniwal, Advocate.
+
+O R D E R
+09.04.2018 - The appeal has been preferred by M/s Rajnish Gupta,
+shareholder of the Small Industrial Development Bank of India (corporate debtor)
+against the order dated 6th March, 2018 passed by the Adjudicating Authority
+(National Company Law Tribunal), New Delhi Bench, New Delhi whereby and
+whereunder an application preferred by respondent, Small Industrial
+Development Bank of India (financial creditor) under Section 7 of the Insolvency
+& Bankruptcy Code, 2016 (hereinafter referred to as the I&B Code) has been
+admitted.
+Learned counsel appearing on behalf of appellant submitted that the
+Deputy General Manager of the financial creditor was not authorised to file the
+application under Section 7 of the I&B Code. However, such submission cannot
+be accepted in view of the decision passed by this Appellate Tribunal in the
+matter of Palogix Infrastructure Pvt Ltd Vs ICICI Bank Ltd, Company
+Appeal (AT) Insolvency No.30 of 2017 wherein this Appellate Tribunal observed
+and held as follows:
+“37. As per Entry 5 & 6 (Para I) of Form No.1 ‘Authorised
+Representative’ is required to write his name and address and
+position in relation to the ‘Financial Creditor/Bank’. If there is
+any defect, in such case, an application under Section 7
+cannot be rejected and the applicant is to be granted seven
+
+2
+days’ time to produce the Board Resolution and remove the
+defect.
+Xxx
+39. If a plea is taken by the authorised officer that he was
+authorised to sanction loan and had done so, the application
+under Section 7 cannot be rejected on the ground that no
+separate specific authorization letter has been issued by the
+‘Financial Creditor’ in favour of such officer designate.”
+Admittedly the agreement executed by the corporate debtor clearly
+provides for recall of the loan amount in case the repayment schedule is not
+adhered to. The said outstanding was duly recalled vide a notice in writing. The
+objections that the petition was not duly signed by the duly authorised officer
+(Deputy General Manager) is not sustainable in view of the Regulation 10 read
+with Regulation 11 of the SIDBI General Regulations whereby officer of the rank
+of Deputy General Manager has been authorised to issue proceedings before the
+Adjudicating Authority which has been noticed by the Adjudicating Authority.
+Learned counsel appearing on behalf of the appellant next contended that
+the Form 2 whereby permission of the Interim Resolution Professional was
+obtained was incomplete but that cannot be a ground to reject the application
+under Section 7, if Form 1, which is the application under Section 7 is complete.
+Having heard the learned counsel for the parties and taking into
+consideration the fact the application under Section 7 was complete, we find no
+ground to interfere in the impugned order. The appeal is accordingly dismissed.
+However, in view of the facts and circumstances there shall be no order as to
+cost.
+(Justice S.J. Mukhopadhaya)
+Chairperson
+(Justice Bansi Lal Bhat)
+Member (Judicial)
+Bm/unni
