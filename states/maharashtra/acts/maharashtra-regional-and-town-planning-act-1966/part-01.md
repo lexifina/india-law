@@ -65,6 +65,8 @@ Notes in the official text:
 - building or construction
 - operations,—
 - (i) for development;
+- of developed land
+- mentioned in the Stamp
 - Duty Ready Reckoner;
 - (ii) for construction.
 - 2.00 per cent. of the
@@ -72,5 +74,5 @@ Notes in the official text:
 - mentioned in the Stamp
 - Duty Ready Reckoner.
 - This Schedule was substituted by Mah. 34 of 2010, s. 3.
-- Now, see the Maharashtra Municipal Corporation Act (LIX of 1949).
+- Now, see the Maharashtra Municipal Corporations Act (LIX of 1949).
 - ** Now, see the Maharashtra Stamp Act (LX of 1958).

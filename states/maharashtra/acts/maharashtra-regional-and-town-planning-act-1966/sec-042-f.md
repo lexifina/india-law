@@ -32,6 +32,6 @@
 
 (iii) the provisions of section 21 shall not apply to the Area Development Authority.
 
-(4) The Area Development Authority, may, with the approval of the State Government, delegate any of its powers and functions to any authority or auhtorities functioning within its jurisdiction.
+(4) The Area Development Authority, may, with the approval of the State Government, delegate any of its powers and functions to any authority or authorities functioning within its jurisdiction.
 
 (5) The Area Development Authority, shall have its office at such place as the State Government may, by order, specify.

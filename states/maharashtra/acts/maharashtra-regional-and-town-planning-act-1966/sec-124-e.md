@@ -8,7 +8,7 @@ Provided that,—
 
 (a) where permission under this Act has not been granted for carrying out the said development, the Authority may postpone the assessment of the development charge ;
 
-(b) where the application relates to the carrying out of any development, the Authority may refuse to assess the amount of development charge payable by such person concerned unless it is satified that the applicant has an interest in the land or building sufficient to enable him to carry out such development or that the applicant is able to acquire such interest and that the applicant shall carry out the development within such period as the Authority may determine.
+(b) where the application relates to the carrying out of any development, the Authority may refuse to assess the amount of development charge payable by such person concerned unless it is satisfied that the applicant has an interest in the land or building sufficient to enable him to carry out such development or that the applicant is able to acquire such interest and that the applicant shall carry out the development within such period as the Authority may determine.
 
 (3) The amount of Development charge as shown in the notice of assessment shall be paid within thirty days of the date of receipt thereof by such person and where the amount has not been so paid or has been partly paid an interest at the rate of eighteen per cent. per annum upon any amount outstanding shall be payable from the date immediately following the date on which the period of thirty days as aforesaid expires till the date of payment of such amount.
 
