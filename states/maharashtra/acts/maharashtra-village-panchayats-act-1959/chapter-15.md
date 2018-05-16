@@ -1,66 +1,68 @@
 # Chapter XV
 
-RULES AND BYE-LAWS
+RULES AND BYE-LAWS.
 
-176. Rules.— (1) The State Government may, by notification in the Official Gazette, make rules for carrying into effect the purposes of this Act.
+176.
 
-(2) In particular but without prejudice to the generality of the foregoing provision, the State Government may make rules— 1[* * * * * *]
+(1) The State Government may, by notification in the Official Gazette, make rules for carrying into effect the purposes of this Act.
 
-(ii) under sub-section (1) of section 7, prescribing the date, 2[place, time and manner of convening] meetings of the Gram Sabha ; 3[(ii-a) under clause (b) of sub-section (1) of section 10, prescribing the manner in which the number of wards and the number of members to be elected from each ward may be determined;]
+(2) In particular but without prejudice to the generality of the foregoing provision, the State Government may make rules— 1[ * *]
 
-(iii) under sub-section (2) of section 10, 4[the manner in which the 5[State Election Commission] shall determine the number of seats to be reserved] for the Scheduled Castes and Scheduled Tribes 6[and Backward Class of Citizens and Women] 7[and prescribing the manner and rotation of] 8[such reservation of seats] in each panchayat and under sub-section (3) of the said section, prescribing the manner of 9[publication of the names of members falling under clause (a) of sub-section (1)] ;
+(ii) under sub-section (1) of section 7, prescribing the date, 2[place, time and manner of convening] meetings of the Gram Sabha; 3[(ii-a) under clause (b) of sub-section (1) of section 10, prescribing the manner in which the number of wards and the number of members to be elected from each ward may be determined;]
 
-(iv) under section 11, prescribing the manner in which the election of members shall be held; 10[(iv-a) under section 32A, prescribing the travelling and daily allowances to be paid to the members of the panchayat including its Sarpanch and Upa-Sarpanch ;] 11[(iv-aa) under sub-section (1) of section 29, prescribing the manner in which the resignation shall be delivered ;] 12[(iv-aaa) under section 30, prescribing the number of offices of Sarpanchas of panchayats to be reserved for Scheduled Castes, Scheduled Tribes, Backward Class of citizens and women in a panchayat and the manner and rotation of such reservation ;]
+(iii) under sub-section (2) of section 10, 4[the manner in which the 5[State Election Commission] shall determine the number of seats to be reserved] for the Scheduled Castes and Scheduled Tribes 6[and Backward Class of Citizens and Women] 7[and prescribing the manner and rotation of ] 8[such reservation of seats] in each panchayat and under sub-section (3) of the said section, prescribing the manner of 9[publication of the names of members falling under clause (a) of sub-section (1)];
 
-(v) under sub-section (2) of section 33, prescribing the powers of, and the procedure to be followed by, the 13[* * *] officer presiding ; 14[(v-a) under sub-section (3) of section 34, prescribing the manner in which the notice of resignation shall be delivered ;] 15[(v-aa) under section 33A, prescribing the manner in which the sumptuary allowance shall be placed at the disposal of the Sarpanch ;]
+(iv) under section 11, prescribing the manner in which the election of members shall be held; 10[(iv-aa) under sub-section (1) of section 29, prescribing the manner in which the resignation shall be delivered;] 11[(iv-aaa) under section 30, prescribing the number of offices of Sarpanchas of panchayats to be reserved for Scheduled Castes, Scheduled Tribes, Backward Class of citizens and women in a panchayat and the manner and rotation of such reservation;] 12[(iv-a) under section 32A, prescribing the travelling and daily allowances to be paid to the members of the panchayat including its Sarpanch and Upa-Sarpanch;]
 
-(vi) prescribing the form of notice under sub-section (1) of section 35 ;
+(v) under sub-section (2) of section 33, prescribing the powers of, and the procedure to be followed by, the 13 [* *] officer presiding; 14[(v-aa) under section 33A, prescribing the manner in which the sumptuary allowance shall be placed at the disposal of the Sarpanch;]
 
-[1959 : III
+[1959 : III 1[(v-a) under sub-section (3) of section 34, prescribing the manner in which the notice of resignation shall be delivered;]
 
-(vii) under section 36, prescribing the time and place of sitting and the procedure at a meeting of the panchayat ;
+(vi) prescribing the form of notice under sub-section (1) of section 35;
 
-(viii) under sub-section (1) of section 38, prescribing the rules for the performance and exercising of powers and duties of Sarpanch by Upa-Sarpanch in the absence of Sarpanch ; 1[* * * * * *]
+(vii) under section 36, prescribing the time and place of sitting and the procedure at a meeting of the panchayat;
 
-(ix) under sub-section (1) of section 43, regulating the manner in which the notice of a vacancy in the office of a Sarpanch, Upa-Sarpanch or member of a panchayat shall be given ;
+(viii) under sub-section (1) of section 38, prescribing the rules for the performance and exercising of powers and duties of Sarpanch by Upa-Sarpanch in the absence of Sarpanch; 2[ * *]
 
-(x) 2[under entry 44 of Schedule I] prescribing the principles for the extension of village sites and regulation of buildings ; 3[(x-a) under sub-section (2B) of section 45, prescribing the limits subject to which grant-in-aid may be given by a panchayat to institutions specified in that sub-section ;] 4[(x-b) under sections 49 and 49A, for any matter for which rules are required to be made or generally for carrying out the purposes of the said sections ;]
+(ix) under sub-section (1) of section 43, regulating the manner in which the notice of a vacancy in the office of a Sarpanch, Upa-Sarpanch or member of a panchayat shall be given;
 
-(xi) 5[under entry 50 of Schedule I], prescribing the person in the village from whom and the manner in which the cost of watch and ward shall be levied and recovered ;
+(x) 3[under entry 44 of Schedule I] prescribing the principles for the extension of village sites and regulation of buildings; 4[(x-a) under sub-section (2B) of section 45, prescribing the limits subject to which grant-in-aid may be given by a panchayat to institutions specified in that sub-section;] 5[(x-b) under sections 49 and 49A, for any matter for which rules are required to be made or generally for carrying out the purposes of the said sections; ]
 
-(xii) under the proviso to sub-section (2) of section 51 prescribing the manner of publishing the notice for the stoppage or discontinuance of public road or street ; 6[(xii-1a) under sub-sections (1) and (1A) of section 52, prescribing the manner in which permission to erect or re-erect or commence to erect or re-erect any building shall be obtained; and under sub-section (2B) thereof, prescribing the form of appeal and the court-fees to be paid alongwith the appeal ;] 7[(xii-a) under sub-section (1) of section 56, for the purposes of vesting property of the Zilla Parishad or Panchayat Samiti in a panchayat; and under sub-section (3) of the said section, for the purpose of visiting work in a panchayat ;]
+(xi) 6[under entry 50 of Schedule I], prescribing the person in the village from whom and the manner in which the cost of watch and ward shall be levied and recovered;
+
+(xii) under the proviso to sub-section (2) of section 51 prescribing the manner of publishing the notice for the stoppage or discontinuance of public road or street ; 7[(xii-1a) under sub-sections (1) and (1A) of section 52, prescribing the manner in which permission to erect or re-erect or commence to erect or re-erect any building shall be obtained; and under sub-section (2B) thereof, prescribing the form of appeal and the court-fees to be paid alongwith the appeal;] 8[(xii-a) under sub-section (1) of section 56, for the purposes of vesting property of the Zilla Parishad or Panchayat Samiti in a panchayat; and under sub-section (3) of the said section, for the purpose of visiting work in a panchayat ;]
 
 (xiii) under section 58, prescribing the custody in which all funds received by and all sums accruing to panchayat shall be kept ;
 
-(xiv) under clause (c) of sub-section (3) of section 59, prescribing the manner in which the notice of any inquiry shall be given to any person ; 8[* * * * * *] 9[(xv-a) under section 61, prescribing the rules regulating the terms and conditions of service of servants referred to therein ;]
+(xiv) under clause (c) of sub-section (3) of section 59, prescribing the manner in which the notice of any inquiry shall be given to any person ; 9[ * *] 10[(xv-a) under section 61, prescribing the rules regulating the terms and conditions of service of servants referred to therein ;] 1959 : III]
 
-(xvi) under section 62, prescribing the date and form of the statement, the percentage of the total income from all sources to be contributed to the District Village Development Fund and the form in which account shall be kept ; 10[* * * * * *] 11[* * * * * *]
+(xvi) under section 62, prescribing the date and form of the statement, the percentage of the total income from all sources to be contributed to the District Village Development Fund and the form in which account shall be kept ; 1[ * *] 2[ * *]
 
-(xxvi) under section 124, laying down the maximum and the minimum rates and the manner in which and the exemptions subject to which taxes and fees specified in the section shall be leviable ; 1959 : III] 1[* * * * * *] (xxviii) under sub-section (1) of section 128 prescribing the maximum rate of tax ;
+(xxvi) under section 124, laying down the maximum and the minimum rates and the manner in which and the exemptions subject to which taxes and fees specified in the section shall be leviable ; 3[ * *] (xxviii) under sub-section (1) of section 128 prescribing the maximum rate of tax ;
 
 (xxix) under sub-section (2) of section 129 prescribing the form of the writ to be presented to the defaulter ;
 
 (xxx) under sub-section (4) of section 129 prescribing the manner of distraint and sale of the moveable property of the defaulter ;
 
-(xxxi) under sub-section (5) of section 129 prescribing the rates of fees for writ of demand, distress and costs of maintaining any live-stock seized ; 2[(xxxii) under sub-section (6) of section 129 prescribing the manner or recovery of any tax or fees payable on demand ;] 3[* * * * * *]
+(xxxi) under sub-section (5) of section 129 prescribing the rates of fees for writ of demand, distress and costs of maintaining any live-stock seized ; 4[(xxxii) under sub-section (6) of section 129 prescribing the manner or recovery of any tax or fees payable on demand ;] 5[ * *]
 
-(xxxiv) prescribing the manner in which refunds may be allowed and paid, in respect of any amount of tax, fee or other sum, not due or paid in excess ; 4[(xxxiv-a) under sub-section (3) of section 132B, prescribing for all matters connected with the 5[Village Water Supply Fund ;]] 6[* * * * * *]
+(xxxiv) prescribing the manner in which refunds may be allowed and paid, in respect of any amount of tax, fee or other sum, not due or paid in excess ; 6[(xxxiv-a) under sub-section (3) of section 132B, prescribing for all matters connected with the 7[ Village Water Supply Fund ;] 8[ * *]
 
-(xxxvi) under section 133 prescribing the officer or authority in whom the District Village Development Fund shall vest, the manner of the investment of the fund, the rate of interest to be paid on the contributions made to the fund by panchayat, the purpose for which and the terms and conditions on which loans may be granted, and all matters incidental to the grant and repayment of such loans ; 7[* * * * * *] 8[* * * * * *]
+(xxxvi) under section 133 prescribing the officer or authority in whom the District Village Development Fund shall vest, the manner of the investment of the fund, the rate of interest to be paid on the contributions made to the fund by panchayat, the purpose for which and the terms and conditions on which loans may be granted, and all matters incidental to the grant and repayment of such loans ; 8[ * *] 9[ * *]
 
-(xxxix) under section 135 prescribing the other functions which may be performed by a 9[Zilla Parishad and Panchayat Samiti ;]
+(xxxix) under section 135 prescribing the other functions which may be performed by a 10[Zilla Parishad and Panchayat Samiti ;]
+
+[1959 : III
 
 (xl) under section 136 prescribing the functions of the District Village Panchayat Officer ;
 
-(xli) under section 140 prescribing 10[the authority by which and] the manner in which the audit of accounts of panchayat shall be carried out ;
+(xli) under section 140 prescribing 1[the authority by which and] the manner in which the audit of accounts of panchayat shall be carried out ;
 
 (xlii) under section 162 prescribing the duties of the pound keeper ;
 
-(xliii) under section 166 prescribing the manner in which auction shall be held ; 11[(xliii-a) under section 168A prescribing the form of, and the procedure relating to the declaration, and the scales of deposits to be made ;]
+(xliii) under section 166 prescribing the manner in which auction shall be held ; 2[(xliii-a) under section 168A prescribing the form of, and the procedure relating to the declaration, and the scales of deposits to be made ;]
 
-(xliv) under sub-section (2) of section 179 prescribing the form of the warrant ; 12[* * * * * *]
-
-[1959 : III
+(xliv) under sub-section (2) of section 179 prescribing the form of the warrant ; 3[ * *]
 
 (xlvi) authorising the payment of contributions, at such rates and subject to such conditions as may be prescribed in such rules, to any provident fund which may be established by a panchyat, or with the approval of the panchayat by the officers and servants of the panchayat ;
 
@@ -68,11 +70,15 @@ RULES AND BYE-LAWS
 
 (3) In making any rule under this section, the State Government may provide that for any breach thereof the offender shall, on conviction, be punished with fine which may extend to fifty rupees, and in the case of a continuing breach, with fine which may extend to five rupees for every day during which the breach continues, after conviction for the first breach.
 
-(4) The rules to be made under this section shall be subject to the condition of previous publication: 1[* * * * * *] 2[(5) Every rule 3[* * * *] made under this section shall be laid, as soon as may be, after it is made, before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions and if before the expiry of the session in which it is so laid or the session immediately following both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made and notify such decision in the Official Gazette, the rule shall from the date of publication of such notification have effect only in such modified form or be of no effect, as the case may be; so however, that any modification or annulment shall be without prejudice to the validity of anything previously done or omitted to be done under that rule. 4[* * * *]]
+(4) The rules to be made under this section shall be subject to the condition of previous publication : 4[ * *] 5[(5) Every rule (except rules made under clause (xxvi) of sub-section (2)) made under this section shall be laid, as soon as may be, after it is made, before each House of the State Legislature while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions and if before the expiry of the session in which it is so laid or the session immediately following both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made and notify such decision in the Official Gazette, the rule shall from the date of publication of such notification have effect only in such modified form or be of no effect, as the case may be ; so however, that any modification or annulment shall be without prejudice to the validity of anything previsously done or ommitted to be done under that rule.
 
-177. By-laws.— (1) The 5[Zilla Parishad] may, with the previous sanction of the Commissioner, make by-laws generally for the carrying out of the purposes of this Act.
+(6) The draft of every rule made, under clause (xxvi) of sub-section 6[(2)] shall, as soon as may be after it is published in the Official Gazette as required by sub-section (4), be laid before each House of the State Legislaure and shall be subject to such modifications as may be made by the State Legislature, before it is finally published as required by sub-section (1).] 1959 : III]
 
-(2) Without prejudice to the generality of the foregoing provision, the 6[Zilla Parishad] may make bye-laws—
+177.
+
+(1) The 1[Zilla Parishad] may, with the previous sanction of the Commissioner, make by-laws generally for the carrying out of the purposes of this Act.
+
+(2) Without prejudice to the generality of the foregoing provision, the 2[Zilla Parishad] may make bye-laws—
 
 (a) under section 45—
 
@@ -90,7 +96,7 @@ RULES AND BYE-LAWS
 
 (vii) for the removal of noxious vegetation ;
 
-(viii) for the repair and removal of dangerous or ruinous buildings ; 1959 : III]
+(viii) for the repair and removal of dangerous or ruinous buildings ;
 
 (ix) for the prevention of the erection of buildings without adequate provisions for ventilation, or the laying out and location of streets ;
 
@@ -108,51 +114,59 @@ RULES AND BYE-LAWS
 
 (b) in the case of a continuing contravention with a fine, which may extend to five rupees per day after conviction for the first contravention during the period within which such contravention continues.
 
+[1959 : III
+
 Notes in the official text:
 
-- Clause (i) was deleted by Mah. 21 of 1994, s. 32(1).
-- These words were substituted for the words "place and time for" by Mah. 21 of 2000, s. 3.
-- This Clause was inserted by Mah. 36 of 1965, s. 73(1).
-- These words were substituted for the words "prescribing the number of seats to be reserved" by Mah. 13 of 1975,
-- These words were substituted for the word "Collector" by Mah. 21 of 1994, s. 32(2)(a).
-- These words were inserted by Mah. 21 of 1994, s. 32(2)(b).
-- These words were inserted with effect from the 1st day of July 1980 by Mah.10 of 1990, s. 9.
-- These words were substituted for the words "reservation of seats for women" by Mah. 21 of 1994, s. 32(2)(c).
-- These words were substituted for the words "publication of elected and appointed members of a Panchayat" by Mah. 36
-- of 2001, s. 3.
-- This Clause was inserted by Mah. 36 of 1965, s. 73(2).
-- Clause (iv-aa) was inserted by Mah. 13 of 1975, s. 32(a)(ii).
-- Clause (iv-aaa) was inserted by Mah. 21 of 1994, s. 32(3).
-- The words "Collector or other" were deleted by Mah. 5 of 1962, s. 286, Tenth Schedule.
-- This Clause was inserted by Mah. 36 of 1965, s. 73(3).
-- Clause (v-aa) was inserted by Mah. 10 of 1992, s. 6.
-- Clause (viii-a) was deleted by Mah. 4 of 1981, s. 4.
-- This was substituted for the words, figures and letter "under section 45(1) II(p)" by Mah. 36 of 1965, s. 73(5).
-- Clause (x-a) was inserted by Mah. 13 of 1975, s. 32(a)(iii).
-- This Clause was inserted by Mah. 23 of 2003, s. 5.
-- This was substituted for the words, figures and letters "under section 45(1) IV(a)" by Mah. 36 of 1965, s. 73(d).
-- This Clause was inserted by Mah. 43 of 2014, s. 4.
-- This Clause was inserted by Mah. 36 of 1965, s. 73(7).
-- Clause (xv) was deleted by Mah. 11 of 1976, s. 3, Second Schedule.
-- This Clause was inserted by Mah. 36 of 1965, s. 73(8).
-- Clauses (xvii), (xviii), (xix), (xx), (xxi), (xxii), (xxiii), (xxiv) and (xxiv-a) were deleted by Mah. 13 of 1975, s. 32(iv).
-- Clause (xxv) was deleted by Mah. 36 of 1965, s. 73(11).
-- Clause (xxvii) was deleted by Mah. 11 of 2018, s. 3.
-- Clause (xxxii) was inserted by Mah. 43 of 1962, s. 26, Schedule.
-- Clause (xxxiii) was deleted by Mah. 34 of 1970, s. 25.
-- Clause (xxxiv-a) was inserted by Mah. 35 of 1972, s. 6.
-- These words were substituted for the words "Village Employment Fund" by Mah. 5 of 1997, s. 6.
-- Clauses (xxxv) and (xxxvii) were deleted by Mah. 5 of 1962, s. 286, Tenth Schedule.
-- Clauses (xxxv) and (xxxvii) were deleted by Mah. 5 of 1962, s. 286, Tenth Schedule.
-- Clause (xxxviii) was deleted by Mah. 43 of 1962, s. 26, Schedule.
-- These words were substituted for the words "Zilla Parishad" by Mah. 36 of 1965, s. 73(12).
-- These words were inserted by Mah. 13 of 1975, s. 32(a)(v).
-- This Clause was inserted by Mah. 36 of 1965, s. 73(13).
-- Clause (xlv) was deleted by Mah. 13 of 1975, s. 32(a)(vi).
-- This Proviso was deleted by Mah. 52 of 1994, s. 5.
-- Sub-sections (5) and (6) were substituted for the original by Mah. 13 of 1975, s. 32(b).
-- These brackets, words, letters and figure were deleted by Mah. 43 of 2025, s. 2(a), w.e.f. 15th August 1975.
-- Sub-section (6) was deleted by Mah. 43 of 2025, s. 2(b), w.e.f. 15th August 1975.
-- These words were substituted for the words "Panchayat Mandal" by Mah. 5 of 1962, s. 286, Tenth Schedule.
-- These words were substituted for the words "District Village Panchayat Mandal" by Mah. 5 of 1962, s. 286,
-- Tenth Schedule.
+- 1 Clause (i) was deleted by Mah. 21 of 1994, s. 32 (1).
+- 2 These words were substituted for the words "place and time for" by Mah. 21 of 2000, s. 3.
+- 3 This Clause was inserted by Mah. 36 of 1965, s. 73 (1).
+- 4 These words were substituted for the words "prescribing the number of seats to be
+- reserved" by Mah. 13 of 1975, s. 32 (a) (i).
+- 5 These words were substituted for the word "Collector" by Mah. 21 of 1994, s. 32 (2) (a).
+- 6 These words were inserted by Mah. 21 of 1994, s. 32 (2) (b).
+- 7 These words were inserted with effect from the 1st day of July 1980 by Mah.10 of 1990,
+- 8 These words were substituted for the words "reservation of seats for women" by Mah. 21 of
+- 1994, s. 32 (2) (c).
+- 9 These words were substituted for the words "publication of elected and appointed
+- members of a Panchayat" by Mah. 36 of 2001, s. 3.
+- 10 Clause (iv-aa) was inserted by Mah. 13 of 1975, s. 32 (a) (ii).
+- 11 Clause (iv-aaa) was inserted by Mah. 21 of 1994, s. 32 (3).
+- 12 This Clause was inserted by Mah. 36 of 1965, s. 73 (2).
+- 13 The words "Collector or other" were deleted by Mah. 5 of 1962, s. 286, Tenth Schedule.
+- 14 Clause (v-aa) was inserted by Mah. 10 of 1992, s. 6.
+- 1 This Clause was inserted by Mah. 36 of 1965, s. 73 (3).
+- 2 Clause (viii-a) was deleted by Mah. 4 of 1981, s. 4.
+- 3 This was substituted for the words, figures and letter "under section 45 (1) II (p)" by Mah. 36
+- of 1965, s. 73 (5).
+- 4 Clause (x-a) was inserted by Mah. 13 of 1975, s. 32 (a) (iii).
+- 5 This Clause was inserted by Mah. 23 of 2003, s. 5.
+- 6 This was substituted for the words, figures and letters "under section 45 (1) IV (a)" by Mah.
+- 36 of 1965, s. 73 (d).
+- 7 This Clause was inserted by Mah. 43 of 2014, s. 4.
+- 8 This Clause was inserted by Mah. 36 of 1965, s. 73 (7).
+- 9 Clause (xv) was deleted by Mah. 11 of 1976, s. 3, Second Schedule.
+- 10 This Clause was inserted by Mah. 36 of 1965, s. 73 (8).
+- 1 Clauses (xvii), (xviii), (xix), (xx), (xxi), (xxii), (xxiii), (xxiv) and (xxiv-a) were deleted by Mah. 13 of
+- 2 Clause (xxv) was deleted by Mah. 36 of 1965, s. 73 (11).
+- 3 Clause (xxvii) was deleted by Mah. 11 of 2018, s. 3.
+- 4 Clause (xxxii) was inserted by Mah. 43 of 1962, s. 26, Schedule.
+- 5 Clause (xxxiii) was deleted by Mah. 34 of 1970, s. 25.
+- 6 Clause (xxxiv-a) was inserted by Mah. 35 of 1972, s. 6.
+- 7 These words were substituted for the words "Village Employment Fund" by Mah. 5 of 1997,
+- 8 Clauses (xxxv) and (xxxvii) were deleted by Mah. 5 of 1962, s. 286, Tenth Schedule.
+- 9 Clause (xxxviii) was deleted by Mah. 43 of 1962, s. 26, Schedule.
+- 10 These words were substituted for the words "Zilla Parishad " by Mah. 36 of 1965, s. 73 (12).
+- 1 These words were inserted by Mah. 13 of 1975, s. 32 (a) (v).
+- 2 This Clause was inserted by Mah. 36 of 1965, s. 73 (13).
+- 3 Clause (xlv) was deleted by Mah. 13 of 1975, s. 32 (a) (vi).
+- 4 This Proviso was deleted by Mah. 52 of 1994, s. 5.
+- 5 Sub-sections (5) and (6) were substituted for the original by Mah. 13 of 1975, s. 32 (b).
+- 6 These brackets and figure were substituted for the brackets and figure "(1)" by Mah. 11 of
+- 1976, s. 3, Second Schedule.
+- 1 These words were substituted for the words
+- " Panchayat Mandal " by Mah. 5 of 1962,
+- s. 286,Tenth Schedule.
+- 2 These words were substituted for the words
+- " District Village Panchayat Mandal " by Mah. 5
+- of 1962, s. 286, Tenth Schedule.
