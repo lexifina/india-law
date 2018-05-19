@@ -1,35 +1,41 @@
-# Schedule I
+# Schedule I.
 
 Provisions of Enactments repealed.
 
-(See section 132) Year.
-
-No.
-
-Short title.
+(See section 132) No.
 
 Extent of repeal.
 
-(1)
+Year
 
 (2)
 
+(4) Short title.
+
 (3)
 
-(4) . .
+(1) . .
 
-XXIV . . The Berar Regulation of Agricultural The whole.
+The whole.
 
-Leases Act, 1951. . .
+XXIV . .
 
-II . . The Madhya Pradesh Land Revenue Code, 1954.
+The Berar Regulation of Agricultural Leases Act, 1951. . .
+
+II . .
 
 The whole of Chapter XIV.
 
-The whole. . .
+The Madhya Pradesh Land Revenue Code, 1954. . .
 
-IX . . The Bombay Vidarbha Region Agricultural Tenants (Protection from Eviction and Amendment of Tenancy Laws) Act, 1957.
+The whole.
 
-The whole.] 1[1948 . .
+IX . .
 
-XVIII . . The Central Provinces and Berar Cultivation of Fallow Land Act, 1948.
+The Bombay Vidarbha Region Agricultural Tenants (Protection from Eviction and Amendment of Tenancy Laws) Act, 1957.
+
+[1948 . .
+
+The whole.] XVIII . .
+
+The Central Provinces and Berar Cultivation of Fallow Land Act, 1948.

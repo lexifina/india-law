@@ -1,3 +1,0 @@
-# Chapter I
-
-PRELIMINARY
