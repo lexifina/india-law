@@ -1,4 +1,4 @@
-# Schedule Iv
+# Schedule Iv.
 
 (See section 60) VILLAGES.
 
@@ -139,3 +139,8 @@ Bidpeth.
 34.
 
 Chichbhuwan.
+
+Notes in the official text:
+
+- PRINTED AT THE GOVERNMENT PRESS, WAI
+- G. P. Wai–51 Pages 4,060 Bks.–9-2018–H-91
