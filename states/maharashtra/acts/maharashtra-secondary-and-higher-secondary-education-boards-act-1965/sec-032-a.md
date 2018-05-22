@@ -1,0 +1,17 @@
+# Section 32A. Inspection and Inquiry
+
+32A. (1) The State Government shall have the right to cause an inspection to be made, by such person or persons as it may direct, of the State Board or a Divisional Board, of the buildings, hostels, laboratories and equipment of any secondary school 4[or Junior College] recognised by a Divisional Board of the teaching or other work conducted by any such school 5[or College], and of the conduct of any examination held on behalf of the State Board; and to cause an enquiry to be made in like manner in respect of any matter connected with any Board. The State Government shall, in every case, give due notice to the Board concerned of its intention to cause an inspection or enquiry to be made, and the Board shall be entitled to appoint a representative, who shall have the right to be present and be heard at such inspection or inquiry.
+
+(2) The State Government shall communicate to the Board its views with reference to the results of the inspection or inquiry and may, after ascertaining the opinion of the Board thereon, advise it on the action to be taken, and fix a time limit for taking such action.
+
+(3) The Board shall report to the State Government such action, if any, as it has taken or proposes to take upon the results of the inspection or inquiry. Such reports shall be submitted, with the opinion of the Board thereon, within such time as the State Government may direct.
+
+(4) Where the Board does not within the time fixed take action to the satisfaction of the State Government, the State Government may, after considering any explanation furnished or representation made by the Board, issue such direction as it may think fit, and the Board shall comply with such directions.]
+
+Notes in the official text:
+
+- 1 These words were inserted by Mah. 6 of 1977, s. 17(a).
+- 2 This sub-section was substituted for sub-sections (2), (3) and (4), by Mah. 6 of 1977, s. 17(b).
+- 3 Section 32A was inserted by Mah. 26 of 1969, s. 3.
+- 4 These words were inserted by Mah. 6 of 1977, s. 18(a).
+- 5 These words were inserted by Mah. 6 of 1977, s. 18(b).
