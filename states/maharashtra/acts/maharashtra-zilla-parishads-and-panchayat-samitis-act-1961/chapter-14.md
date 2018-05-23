@@ -4,7 +4,7 @@ PROVISIONS AS TO SERVICES.
 
 238. In this Chapter, unless the context requires otherwise—
 
-(a) " appointed day" means the day on which this Act comes into force ;
+(a) "appointed day" means the day on which this Act comes into force;
 
 (b) "existing board" means a district local board established under the Bombay Local Boards Act, 1923, a district board constituted under the Hyderabad District Boards Act, 1955, a Janapad Sabha constituted under the Central Provinces and Berar Local Government Act, 1948, a District School Board constituted under the Bombay Primary Education Act, 1947, and such other body as the State Government may by general or special order specify in this behalf.
 
@@ -22,7 +22,7 @@ PROVISIONS AS TO SERVICES.
 
 The cadres to be formed for each of such Services will be determined initially by the State Government. 2[(c) (i) It shall be lawful for a Zilla Parishad to appoint, having due regard to the exigencies of services in the Zilla Parishad, on its establishment such number of Deputy Engineers (Grade-II) or Executive Engineers (Grade-I) from the cadre of Engineers of the Maharashtra Jeevan Authority (hereinafter referred to be "the Authority"), for such period and on such terms and conditions as may be decided by the Authority and the concerned Zilla Parishad:
 
-Provided that, the terms and conditions of service of such persons shall not be less advantageous than those applicable to them immediately before such posting,
+Provided that, the terms and conditions of service of such persons shall not be less advantageous than those applicable to them immediately before such posting;
 
 (ii) The salaries and allowances of such Engineers posted under sub-clause (i) in the Zilla Parishad shall be paid out of the District fund].
 
@@ -86,13 +86,13 @@ Provided that, the conditions of service applicable immediatly before the specif
 
 (6) Nothing contained in sub-section (1) shall apply to any employee who by notice in writing given to the State Government, the Board or, as the case may be, the Development Agency, within two months from the specified date or such extended time as the State Government may, by general or special order, specify, intimates his intention of not becoming or continuing as an employee of the Zilla Parishad. Where such notice is received from any employee—
 
-(a) in case of permanent employee, he shall be allowed to retire giving him the benefit of pension, gratuity, provident fund and other benefits accrued to him had he retired from the Government service or from the service of the Board or, as the case may be, the Development Agency on the specified date ;
+(a) in case of permanent employee, he shall be allowed to retire giving him the benefit of pension, gratuity, provident fund and other benefits accrued to him had he retired from the Government service or from the service of the Board or, as the case may be, the Development Agency on the specified date;
 
 (b) in case of a temporary employee, his services shall stand terminated after giving him notice or remuneration in lieu of notice as per the existing service rules of the State Government, the Board or, as the case may be, the Development Agency.
 
 (7) Notwithstanding anything contained in the foregoing sub-sections if the service of any employee of the State Government, the Board or the Development Agency stand transferred under sub-section (1) to the Zilla Parishad, the Zilla Parishad shall be competent after such transfer to take such disciplinary or other action as it thinks fit against or in respect of such employee having regard to any act or omission or conduct or record of such employee while he was in service of the State Government, the Board or, as the case may be, the Development Agency.]
 
-242D. (1) On and after the commencement of the Bombay Village Panchayats and Maharashtra Zilla Parishads and Panchayat Samitis (Second Amendment) Act, 2000, the State Government may notwithstanding anything contained in any provisions of this Act or in any other law for the time being in force, direct, from time to time, that the services of the Class III and Class IV employees of the District Rural Development Agency (hereinafter in this section referred to as "the Development Agency"), who have been recruited directly by the Development Agency, shall stand transferred to the concerned Zilla Parishad against the existing posts in the appropriate cadres on the establishment of that Zilla Parishad form such date as may be specified by the State Government (hereinafter in this section referred to as "the specified date") and these employees shall on that date (which may be different for different employees), become the employees of the concerned Zilla Parishad.
+242D. (1) On and after the commencement of the Bombay Village Panchayats and Maharashtra Zilla Parishads and Panchayat Samitis (Second Amendment) Act, 2000, the State Government may notwithstanding anything contained in any provisions of this Act or in any other law for the time being in force, direct, from time to time, that the services of the Class III and Class IV employees of the District Rural Development Agency (hereinafter in this section referred to as "the Development Agency"), who have been recruited directly by the Development Agency, shall stand transferred to the concerned Zilla Parishad against the existing posts in the appropriate cadres on the establishment of that Zilla Parishad from such date as may be specified by the State Government (hereinafter in this section referred to as "the specified date") and these employees shall on that date (which may be different for different employees), become the employees of the concerned Zilla Parishad.
 
 (2) Every employee of the Development Agency in respect of whom the direction is issued under sub-section (1) shall, from the specified date, become an employee of the concerned Zilla Parishad, against the existing post in the appropriate cadres on the establishment of that Zilla Parishad with effect from the specified date and the terms and conditions of service in respect of pay, allowances, leave, transfer, retirement, pension, provident fund and other service conditions of such employees shall be regulated by the rules and orders which regulate the conditions of service of the members of the appropriate cadres of the Zilla Parishad services.
 
@@ -106,9 +106,9 @@ Provided that, the conditions of service applicable immediately before the speci
 
 (6) Notwithstanding anything contained in the foregoing sub-sections, if the service of any employee of the Development Agency stands transferred under sub-section (1) to a Zilla Parishad, the Zilla Parishad shall be competent, after such transfer, to take such disciplinary or other action as it thinks fit against or in respect of such employee having regard to any act or omission or conduct or record of such employee while he was in service of the Development Agency.]
 
-243. The initial strength and composition of officers posted under a Zilla Parishad and of officers and servants in each class of service referred to in section 239 (including their disignations, categories or grades) shall be such as the State Government 1[may by order issue from time to time (but not later than six months from the commencement of this Act) determine]. 2[* ]
+243. The initial strength and composition of officers posted under a Zilla Parishad and of officers and servants in each class of service referred to in section 239 (including their disignations, categories or grades) shall be such as the State Government 1[may by order issued from time to time (but not later than six months from the commencement of this Act) determine]. 2[* ]
 
-243A. After the commencement of the Maharashtra Zilla Parishads and Panchayat Samitis (Third Amendment) Act, 1967, the State Government may, for ensuring the proper utilisation of the establishment grant given to Zilla Parishads under section 183, by order, lay down a staffing pattern indicating the strength and composition of the officers and the servants in each class of service referred to in clause (b) of section 239 (including their designations, categories or grades) : 4[* : ]
+243A. After the commencement of the Maharashtra Zilla Parishads and Panchayat Samitis (Third Amendment) Act, 1967, the State Government may, for ensuring the proper utilisation of the establishment grant given to Zilla Parishads under section 183, by order, lay down a staffing pattern indicating the strength and composition of the officers and the servants in each class of service referred to in clause (b) of section 239 (including their designations, categories or grades) : 4[* :]
 
 Provided that, thereafter a Zilla Parishad may alter under section 252 the strength and composition of the officers and servants in each class of such service so however as not to affect adversely, without the previous approval of the State Government, any officer or servant in that class of Service 1* *.
 
@@ -116,7 +116,7 @@ Provided that, thereafter a Zilla Parishad may alter under section 252 the stren
 
 245. Officer referred to in clause (a) of section 239 and posted to work under a Zilla Parishad shall draw their 4[salaries] and allowances 5[(including travelling allowance)] from the Consolidated Fund of the State 6* *.
 
-246. Nothing in the foregoing provisions shall apply to any officer or servant of the State Government or a person employed by an existing board, being an officer or servant or person taken over or allotted or proposed to be taken over or allotted who by notice in writing given to the State Government before the appointed day,8[or, as the case may be, 9[three months before the alloment date]], or such later date as may be prescribed by the State Government, intimates his option of not desiring to become or continue as an officer or servant of a Zilla Parishad, or as the case may be, an officer of the State Government, and thereupon he shall be permitted to retire from Government service or his employmment under the existing board 10[or the Zilla Parishad] and shall be entitled to such terminal benefits as compensation, pension, or gratuity, or the like, as may be prescribed by the State Government, which terminal benefits shall not be less favourable than the benefit he would have been entitled to 11[had his service ceased under the Government 12[or the Zilla Parishad] on the allotment date, or under the existing board on the appointed day.]
+246. Nothing in the foregoing provisions shall apply to any officer or servant of the State Government or a person employed by an existing board, being an officer or servant or person taken over or allotted or proposed to be taken over or allotted who by notice in writing given to the State Government before the appointed day,9[or, as the case may be, 10[three months before the allotment date]], or such later date as may be prescribed by the State Government, intimates his option of not desiring to become or continue as an officer or servant of a Zilla Parishad, or as the case may be, an officer of the State Government, and thereupon he shall be permitted to retire from Government service or his employment under the existing board 11[or the Zilla Parishad] and shall be entitled to such terminal benefits as compensation, pension, or gratuity, or the like, as may be prescribed by the State Government, which terminal benefits shall not be less favourable than the benefit he would have been entitled to 12[had his service ceased under the Government 13[or the Zilla Parishad] on the allotment date, or under the existing board on the appointed day.]
 
 247. Where services of any workman employed by the State Government or by an existing board is transferred to or any such workman is re-employed by a Zilla Parishad, then notwithstanding anything contained in section 25F of the Industrial Disputes Act, 1947, such transfer or re-employment shall not entitle him to any compensation under that section :
 
@@ -136,9 +136,9 @@ Provided further that, the payment of arrears of salary, allowances and bonus sh
 
 Provided also that, the validation of appointments as aforesaid shall not put any such officers or servants, as are appointed during the said period in accordance with the procedure laid down by or under this Act or any other law for the time being in force, to any disadvantage in any manner whatsoever.]
 
-250. [Constitution of Divisional and District Selection Board] Deleted by Mah. 4 of 1987, s. 5.
+250. [Constitution of Divisional and District Selection Boards] Deleted by Mah. 4 of 1987, s. 5.
 
-251. [Function of Selection Boards.] Deleted by Mah. 4 of 1987, s. 5.
+251. [Functions of Selection Boards.] Deleted by Mah. 4 of 1987, s. 5.
 
 252. (1) Save as otherwise provided in section 243 every Zilla Parishad shall from time to time prepare and sanction in such manner as may be prescribed by the State Government, a schedule of posts of 1[District Technical Service] (Class III), District Service (Class III), and District Service (Class IV) to be maintained on its staff for the efficient discharge of its duties and functions by or under this Act, including the staff under the Panchayat Samitis setting forth the designations and grades of different officers and servants to be maintained by it, and which of the said officers and servants are to be maintained permanently, and which temporarily.
 
@@ -148,7 +148,7 @@ Provided also that, the validation of appointments as aforesaid shall not put an
 
 253A. (1) Notwithstanding anything to the contrary contained in this Act, or any other law for the time being in force, at any time from the appointed day but not later than one year from the commencement of the Maharashtra Zilla Parishads and Panchayat Samitis (Amendment) Ordinance, 1964 (for such extended 3[period or periods not exceeding a further two years] as the State Government may by notification in the Official Gazette, (from time to time) specify in this behalf), it shall be (and shall be deemed always to have been) lawful—
 
-(a) for the State Government or any officer authorised or to be authorised in this behalf, by order temporarily to allot members of the service of the State Government to such posts as may be provisionally sanctioned by the State Government or by Zilla Parishads and as have been or are specified in that order ; and such members of the service of the State Government as have been, or are, so allotted, shall be and shall be deemed always to have been taken over by the Zilla Parishads during the period aforesaid or until they are duly finally allotted under the foregoing provisions of this Chapter, whichever is sooner;
+(a) for the State Government or any officer authorised or to be authorised in this behalf, by order temporarily to allot members of the service of the State Government to such posts as may be provisionally sanctioned by the State Government or by Zilla Parishads and as have been or are specified in that order; and such members of the service of the State Government as have been, or are, so allotted, shall be and shall be deemed always to have been taken over by the Zilla Parishads during the period aforesaid or until they are duly finally allotted under the foregoing provisions of this Chapter, whichever is sooner;
 
 (b) for the State Government to allow promotions provisionally to posts determined under section 243;
 
@@ -158,7 +158,7 @@ Provided that, such terms and conditions of service shall not be less advantageo
 
 (2) No member of the services of the State Government who has been or is alloted shall, notwithstanding anything in any other law, have or be deemed to have had any right to revert to service under the State Government during the aforesaid transitional period, without the approval of the State Government; which approval shall be given or withheld, regard being had to the exigencies of service in the Zilla Parishads and also in the State Government.
 
-(3) All members of the services of the State Government as have been provisionally allotted before the commencement of the Maharashtra Zilla Parishads and Panchayat Samitis (Amendment) Ordinace, 1964, to posts under Zilla Parishads in pursuance of any orders issued or purported to be issued under section 289 or howsoever otherwise, or who have been so allotted and have continued to work under the Zilla Parishads at such commencement or who have been provisionally promoted, shall be deemed always to have been validly allotted to the provisional posts, and to have been properly continued, and to have been validly promoted and the terms and conditions of service of allotment of such members to such posts determined or purported to be determined from time to time shall be deemed to have been validly determined, as if the provisions of sub-section (1) of this section had been then in force.
+(3) All members of the services of the State Government as have been provisionally allotted before the commencement of the Maharashtra Zilla Parishads and Panchayat Samitis (Amendment) Ordinance, 1964, to posts under Zilla Parishads in pursuance of any orders issued or purported to be issued under section 289 or howsoever otherwise, or who have been so allotted and have continued to work under the Zilla Parishads at such commencement or who have been provisionally promoted, shall be deemed always to have been validly allotted to the provisional posts, and to have been properly continued, and to have been validly promoted and the terms and conditions of service of allotment of such members to such posts determined or purported to be determined from time to time shall be deemed to have been validly determined, as if the provisions of sub-section (1) of this section had been then in force.
 
 (4) The salaries and allowances of all members of the service of the State Government who have been allotted, or are allotted or are deemed to be allotted to posts under Zilla Parishads under this section or who have been provisionally promoted, shall be paid out of the district fund.
 
@@ -168,9 +168,9 @@ Provided that, such terms and conditions of service shall not be less advantageo
 
 Provided that,—
 
-(a) the period of deputation (including any period of temporary allotment, already put in, if any, under this Act) shall not (unless any person elects to remain on deputation longer) exceed 2[eleven years] in the aggregate, and shall not in any case extend beyond 3[twenty-one years] from the appointed day; and such persons shall, on the expiry of the relevant period, stand repatriated to service under the State Government ;
+(a) the period of deputation (including any period of temporary allotment, already put in, if any, under this Act) shall not (unless any person elects to remain on deputation longer) exceed 2[eleven years] in the aggregate, and shall not in any case extend beyond 3[twenty-one years] from the appointed day; and such persons shall, on the expiry of the relevant period, stand repatriated to service under the State Government;
 
-(b) no person so deputed shall be entitled to any deputation allowance or to be repatriated to service under the State Government during his deputation ;
+(b) no person so deputed shall be entitled to any deputation allowance or to be repatriated to service under the State Government during his deputation;
 
 (c) save as aforesaid, the terms and conditions of service shall not be less advantageous than those applicable to such persons immediately before such deputation.
 
@@ -178,7 +178,7 @@ Provided that,—
 
 Provided that—
 
-(a) such person shall not be entitled to any deputation allowance or to revert to service under the State Government ;
+(a) such person shall not be entitled to any deputation allowance or to revert to service under the State Government;
 
 (b) save as in clause (a), the terms and conditions of service shall not be less advantageous than those applicable to such person immediately before such deputation.
 
@@ -190,17 +190,17 @@ Provided that—
 
 Provided that—
 
-(a) no person so deputed shall be entitled to any deputation allowance or to be repatriated to service under the State Government during his deputation ;
+(a) no person so deputed shall be entitled to any deputation allowance or to be repatriated to service under the State Government during his deputation;
 
 (b) save as aforesaid, the terms and conditions of service shall not be less advantageous than those applicable to such persons immediately before such deputation.
 
 (2) The Cadres of such Class III and Class IV Government employees deputed along with the transfer of the Schemes to the Zilla Parishads, shall be maintained independently.
 
-(3) In the event of any vacancy on account of resignation, death, retirement etc., in such Class III and Class IV employees, such vacancy shall be filled up by the Zilla Parishads concerned only from the feeder cadre of the Government employees on deputation :
+(3) In the event of any vacancy on account of resignation, death, retirement, etc., in such Class III and Class IV employees, such vacancy shall be filled up by the Zilla Parishads concerned only from the feeder cadre of the Government employees on deputation :
 
 Provided that, if no such Government employee is available from the feeder cadre for promotion or filling of the vacancy, the concerned Zilla Parishad may fill up such vacancy from amongst its employees.]
 
-253BBB. (1) Where on transfer or entrustment of powers and functions, entrusted to the Maharashtra Jeevan Authority by the State Government, to the Zilla Parishads or Panchayat Samitis by or under this Act, with a view to give effect to article 243-G read with the Eleventh Schedule of the Constitution of India, any posts in a cadre of Class III or Class IV service of the Maharashtra Jeevan Authority have been or are rendered surplus to the requirements of the Maharashtra Jeevan Authority, the State Government may, direct the Maharashtra Jeevan Authority or the authorised officer thereof, to depute from time to time, persons holding posts in the Class III or Class IV service of the Maharashtra Jeevan Authority in such cadres, to the Zilla Parishads initially for a period of three years from the date of the order of deputation, which may be extended by the Maharashtra Jeevan Authority on the direction of the Government, if necessary ; and the Zilla Parishads shall take them on deputation :
+253BBB. (1) Where on transfer or entrustment of powers and functions, entrusted to the Maharashtra Jeevan Authority by the State Government, to the Zilla Parishads or Panchayat Samitis by or under this Act, with a view to give effect to article 243-G read with the Eleventh Schedule of the Constitution of India, any posts in a cadre of Class III or Class IV service of the Maharashtra Jeevan Authority have been or are rendered surplus to the requirements of the Maharashtra Jeevan Authority, the State Government may, direct the Maharashtra Jeevan Authority or the authorised officer thereof, to depute from time to time, persons holding posts in the Class III or Class IV service of the Maharashtra Jeevan Authority in such cadres, to the Zilla Parishads initially for a period of three years from the date of the order of deputation, which may be extended by the Maharashtra Jeevan Authority on the direction of the Government, if necessary; and the Zilla Parishads shall take them on deputation :
 
 Provided that —
 
@@ -222,37 +222,35 @@ Provided that, the number of persons finally allotted from a cadre to one or mor
 
 (3) A person whose final allotment or premature retirement under sub-section (1), is duly approved may, notwithstanding anything contained in section 253B, be continued in service under the State Government or on deputation to the Zilla Parishad, pending such final allotment or retirement.]
 
-253CC. (1) If any posts in a cadre of Class III or Class IV service of the Maharashtra Jeevan Authority falling under section 253BBB have been or are rendered surplus to the requirements of the Maharashtra Jeevan Authority and are, therefore, required to be abolished, then the Maharashtra Jeevan Authority in consultation with the State Government may, and with due regard to the exigencies of the services in the Zilla Parishads and also in the Maharashtra Jeevan Authority, by general or special order, finally allot such persons holding posts in that cadre who elect or opt to be allotted to the Zilla Parishads, District Technical Services (Class III), District Services (Class III) or as the case may be, District Services (Class IV), or permit them to retire prematurely from the service of the MaharashtraJeevan Authority, from such date as may be specified in the order. The election or option shall be conveyed by the concerned employees who, make such election or option, to the Maharashtra Jeevan Authority within such time and .in such manner as the State Government may, by an order in the Official Gazette, specify in this behalf. Each of the Zilla Parishads to which such persons are allotted shall take them over from said date; but such persons who .are taken over shall not be entitled to the terminal benefits such as compensation, pension or the gratuity or the like, as may be prescribed by the State Government or to revert to the service of the Maharashtra Jeevan Authority :
+253CC. (1) If any posts in a cadre of Class III or Class IV service of the Maharashtra Jeevan Authority falling under section 253BBB have been or are rendered surplus to the requirements of the Maharashtra Jeevan Authority and are, therefore, required to be abolished, then the Maharashtra Jeevan Authority in consultation with the State Government may, and with due regard to the exigencies of the services in the Zilla Parishads and also in the Maharashtra Jeevan Authority, by general or special order, finally allot such persons holding posts in that cadre who elect or opt to be allotted to the Zilla Parishads, District Technical Services (Class III), District Services (Class III) or as the case may be, District Services (Class IV), or permit them to retire prematurely from the service of the MaharashtraJeevan Authority, from such date as may be specified in the order. The election or option shall be conveyed by the concerned employees who, make such election or option, to the Maharashtra Jeevan Authority within such time and in such manner as the State Government may, by an order in the Official Gazette, specify in this behalf. Each of the Zilla Parishads to which such persons are allotted shall take them over from said date; but such persons who .are taken over shall not be entitled to the terminal benefits such as compensation, pension or the gratuity or the like, as may be prescribed by the State Government or to revert to the service of the Maharashtra Jeevan Authority :
 
 Provided that, the number of persons finally allotted from a cadre to one or more Zilla Parishads and the number of persons permitted to retire prematurely shall not exceed the number of posts rendered surplus to that cadre on the transfer or entrustment of the powers and functions of the Maharashtra Jeevan Authority to the Zilla Parishads.
 
 (2) Where a person is permitted to retire under sub-section (1), he shall be entitled to such terminal benefits as pension or gratuity, or the like, as applicable to him (but not compensation), which terminal benefits shall not be less favourable than the benefits he would have been entitled to, had his service ceased under the Maharashtra Jeevan Authority on the date specified in the order made under sub-section (1).
 
-(3) A person whose final allotment or premature retirement under sub-section (1), is duly approved may, notwithstanding anything contained in section 253BBB, be continued in service under the Maharashtra Jeevan Authority or on deputation to the Zilla Parishad, pending such final allotment or retirement.] .
+(3) A person whose final allotment or premature retirement under sub-section (1), is duly approved may, notwithstanding anything contained in section 253BBB, be continued in service under the Maharashtra Jeevan Authority or on deputation to the Zilla Parishad, pending such final allotment or retirement.]
 
 Notes in the official text:
 
-- 1 The brackets and words " (with the concurrence of the Central Government)" were deleted by Mah. 22
+- 1 The brackets and words "(with the concurrence of the Central Government)" were deleted by Mah. 22
 - of 1962, s. 10.
 - 2 Clause (c) was added by Mah. 4 of 1999, s. 2 (1).
-- 3 These words were inserted, ibid., s. 2 (2).
+- 3 These words were inserted, by Mah. 4 of 1999, s. 2 (2).
 - 1 Section 242 was substituted for the sections 242 and 242A, by Mah. 13 of 1967, s. 3.
 - 2 These words were inserted by Mah. 22 of 1970, s. 9.
-- 3 These words were substituted for the words " ten years" by Mah. 22 of 1971, s. 2.
+- 3 These words were substituted for the words "ten years" by Mah. 22 of 1971, s. 2.
 - 1 Section 242A was inserted by Mah. 6 of 1975, s. 44.
 - 2 Section 242B was deemed to have been inserted on 1st March 1971 by Mah. 14 of 1979, s. 2.
 - 3 Section 242BB was inserted by Mah. 4 of 1999, s. 3.
 - 1 Section 242C was inserted by Mah. 1 of 1993, s. 11.
 - 1 Section 242D was inserted by Mah. 34 of 2000, s. 7.
-- H 504-15
-- H 504-16
-- 1 These words and brackets were substituted for the words" may by order determine" by Mah. 22 of
+- H 470-17
+- 1 These words and brackets were substituted for the words "may by order determine" by Mah. 22 of
 - 1962, s. 11.
 - 2 Two provisos were deleted by Mah. 43 of 1967, s. 10.
-- 3 Section 243A was inserted, ibid., s. 11.
+- 3 Section 243A was inserted by Mah. 43 of 1967, s. 11.
 - 4 The portion beginning with the words "and may also by order" and ending with the words "from time
 - to time" were deleted by Mah. 15 of 1974, s. 15 (b).
-- H 504-17
 - 1 In the proviso, the portion begnning with the words "or may alter" and ending with the words "fixed
 - as aforesaid" was deleted by Mah. 15 of 1974, s. 15(b).
 - 2 Section 244 was substituted by Mah. 13 of 1967, s. 4.
@@ -261,18 +259,19 @@ Notes in the official text:
 - 5 These brackets and words were inserted by Mah. 15 of 1974, s. 16(a).
 - 6 The words and brackets "except travelling allowance (other than travelling allowance on transfer)
 - or for work of the State Government which shall be drawn from the district fund," were deleted,
-- ibid., s. 16(b).
-- 7 The words "and district fund" were deleted, ibid., s. 16 (c).
-- 8 This portion was inserted by Mah. 43 of 1962, s. 23.
-- 9 These words were substituted for the words "on or before the allotment date" by Mah. 22 of 1970,
+- by Mah. 15 of 1974, s. 16(b).
+- 7 This words was substituted for the word "Pay" by Mah. 13 of 1967 s. 5.
+- 8 The words "and district fund" were deleted, by Mah. 15 of 1974, s. 16 (c).
+- 9 This portion was inserted by Mah. 43 of 1962, s. 23.
+- 10 These words were substituted for the words "on or before the allotment date" by Mah. 22 of 1970,
 - s. 10 (a).
-- 10 These words were inserted, ibid., s. 10(b).
-- 11 These words were substituted for the words "had his service under Goverment or under the existing
+- 11 These words were inserted, by Mah. 22 of 1970, s. 10(b).
+- 12 These words were substituted for the words "had his service under Government or under the existing
 - board ceased on the appointed day" by Mah. 13 of 1967, s. 6(2).
-- 12 These words were inserted by Mah. 22 of 1970, s. 10(c).
+- 13 These words were inserted by Mah. 22 of 1970, s. 10(c).
 - 1 This proviso was added by Mah. 15 of 1974, s. 17.
 - 2 Section 249 was inserted by Mah. 3 of 1990, s. 2.
-- 1These words were substituted for the words "Divisional Technical Service" by Mah. 22 of 1962, s. 12.
+- 1 These words were substituted for the words "Divisional Technical Service" by Mah. 22 of 1962, s. 12.
 - 2 This heading and section 253A were inserted by Mah. 43 of 1964, s. 23.
 - 3 These words were substituted for the words "period not exceeding a further one year" by Mah. 25 of
 - 1966, s. 2(a).
@@ -284,4 +283,5 @@ Notes in the official text:
 - 2 Section 253C was inserted by Mah. 46 of 1969, s. 4.
 - 3 These words were substituted for the words "twenty-one years" by Mah. 25 of 1983, s. 3(1),
 - Previous allotment or retirement not affected [See s. 3(2) of Mah. 25 of 1983].
-- 1 Section 253CC was inserted by Mah. 4 of 2002, s. 9., w. e. f. 12-11-2001.
+- 1 Section 253CC was inserted by Mah. 4 of 2002, s. 9, w. e. f. 12-11-2001.
+- H 470-18

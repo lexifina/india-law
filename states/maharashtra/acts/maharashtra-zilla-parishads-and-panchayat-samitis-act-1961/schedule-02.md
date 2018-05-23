@@ -54,7 +54,7 @@ Social Welfare.
 
 (a) celebration of Harijan weeks.
 
-(b) Zunka Bhakar programme.
+(b) Zunka Bhakar Programme.
 
 (c) encouragement of inter-caste marriages between caste Hindus and Harijans.
 
@@ -170,7 +170,7 @@ Miscellaneous.
 
 (61) Markets.
 
-(62) Dharmashalas, rest houses, travellers' bunglows, sarais and the like.
+(62) Dharmashalas, rest houses, travellers' bungalows, sarais and the like.
 
 (63) Chavdis.
 
@@ -196,7 +196,7 @@ Miscellaneous.
 
 (74) Maintenance of poor houses. 1[(75) Monetary grants to members of a family of a deceased member of the armed forces of the Union.
 
-Explanation.—The expression "members of a family", in relation to a deceased member of the armed forces of the Union, means his widow, son, son's unmarried daughter, father or mother.]
+Explanation.—The expression "members of a family", in relation to a deceased member of the armed forces of the Union, means his widow, son, son's son, unmarried daughter, father or mother.]
 
 Notes in the official text:
 
@@ -210,14 +210,13 @@ Notes in the official text:
 - 6 Entries (8-a), (8-b) and (8-c) were inserted by Mah. 6 of 1975, s. 49(c).
 - 7 This was added by G. N., R. D. D., No. ZPA 1277/4513/(802)(ii)/XII, dated the 18th July 1980.
 - 1 This was added by G. N., R. D. D., No. ZPA 1277/4513/(802)(ii)/XII, dated the 18th July 1980.
-- 2 Clauses (b) and (d) of entry (19) were deleted by G. M. R. D. D., No. ZPA 1072/52193/(ii)-N, dated
+- 2 Clauses (b) and (d) of entry (19) were deleted by G. N. R. D. D., No. ZPA 1072/52193/(ii)-N, dated
 - the 1st October 1973.
 - 3 Entries (23-a) and (23-b) were inserted by Mah. 6 of 1975, s. 49(b).
-- 1 Entry (27) was deleted, by Mah. 6 of 1975, s. 49(c).
+- 1 Entry (27) was deleted by Mah. 6 of 1975, s. 49(c).
 - 2 The heading "Cottage Industries" and entries (37) and (38) were deleted by G. N., R. D. D., No. ZPA.
 - 1072/52193(ii)-N, dated the 1st October 1973.
 - 3 The heading "Co-operation" and entry (39) were deleted by a G.N., R. D. D., No. ZPA. 1072/
 - 52193(ii)N., dated the 1st October 1973.
 - 4 Entry (48) was substituted for the original by Mah.6 of 1975, s. 49(d).
 - 1 Entry (75) was added by Mah. 6 of 1975, s. 49(e).
-- H 504-23

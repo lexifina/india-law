@@ -2,7 +2,7 @@
 
 79A. (1) Subject to the provisions of section 81, the Water Management and Sanitation Committee shall consist of,—
 
-(a) the President of the Zilla Parishad, .. ex-officio Chairman ;
+(a) the President of the Zilla Parishad, .. ex-officio Chairman;
 
 (b) the Chairmen, of all Subjects Committees, con.. ex-officio Members; stituted under sub-section (1) of section 78, 10[(c) six Councillors, out of which not less than three ..
 
@@ -34,8 +34,8 @@ Notes in the official text:
 - 2 These words were substituted for the words "seven Councillors" by Mah. 6 of 1975, s. 22(a).
 - 3 The words "socially and educationaly" were deleted by Mah. 21 of 1994, s. 66(1)(a)(i).
 - 4 The proviso was deleted by Mah. 21 of 1994, s. 66(1)(a)(ii).
-- 5 Clause (d) was deleted, ibid., s. 66(1)(b).
-- 6 Sub-section (3) was deleted, ibid., s. 66(2).
+- 5 Clause (d) was deleted, by Mah. 21 of 1994, s. 66(1)(b).
+- 6 Sub-section (3) was deleted, by Mah. 21 of 1994, s. 66(2).
 - 7 This portion was inserted by Mah. 14 of 1990, s. 22 (b).
 - 8 The words "The Social Welfare Officer of Zilla Parishad shall be the Joint Secretary, ex-offico, of the
 - Standing Committee" were deleted by Mah. 22 of 1970, s. 3.

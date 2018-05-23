@@ -32,7 +32,7 @@ SUBJECTS OFACTIVITIES (INCLUDING DEVELOPMENTACTIVITIES) Agriculture. 1[1* * * * 
 
 15. Improvement of breed of cattle, horses and other livestock (including artificial insemination sub-centres, key village centres, premium bull centres, fodder development plots, silo pits, formation of taluka and district livestock improvement associations and the like, and distribution of improved breed of sheep).
 
-16. Distribution of improved poulty.
+16. Distribution of improved poultry.
 
 17. Organisation of cattle shows and rallies. 4[17-a. Intensive piggery development. 17-b. intensive poultry development. 17-c. Intensive cattle development.] 5[17-d. Dairy Development.] Forests.
 
@@ -48,11 +48,11 @@ Social Welfare.
 
 20. Economic development of backward classes, including—
 
-(1) giving of financial assistance to individual cultivators in the form of loans and subsidies for the purpose of purchasing agricultural requisities ; 1[ * * * * * *]
+(1) giving of financial assistance to individual cultivators in the form of loans and subsidies for the purpose of purchasing agricultural requisities; 1[ * * * * * *]
 
 (3) supply of spining wheels to Vimukta Jatis;
 
-(4) development of communications in backward areas ; 1[ * * * * * *]
+(4) development of communications in backward areas; 1[ * * * * * *]
 
 (6) establishment of handicrafts centres; and
 
@@ -62,7 +62,7 @@ Social Welfare.
 
 (1) Celebration of Harijan weeks;
 
-(2) Zunka-bhakar programme ;
+(2) Zunka-bhakar programme;
 
 (3) encouragement of inter-caste marriages between caste—Hindus and Harijans; and
 
@@ -78,11 +78,11 @@ Social Welfare.
 
 (4) organisation of entertainment programmes for backward classes;
 
-(5) holding social melas ;
+(5) holding social melas;
 
-(6) Sanskar Kendras, community-cum-recreation centres and community halls for backward classes ;
+(6) Sanskar Kendras, community-cum-recreation centres and community halls for backward classes;
 
-(7) supply of clothes to Vimukta Jatis ;
+(7) supply of clothes to Vimukta Jatis;
 
 (8) financial assistance to individuals for purchase of medicines, and giving of grants to voluntary agencies for administering medical relief;
 
@@ -98,7 +98,7 @@ Social Welfare.
 
 Education.
 
-24. Establishment, management, maintenance, inspection and visiting of , primary schools and basic schools including grants to aided schools but excluding items relating to—
+24. Establishment, management, maintenance, inspection and visiting of primary schools and basic schools including grants to aided schools but excluding items relating to—
 
 (i) laying down of syllabus;
 
@@ -106,7 +106,7 @@ Education.
 
 (iii) conducting scholarship examinations;
 
-(iv) conducting primary school certificate examination and standard IV examination in Vidarbha ; and
+(iv) conducting primary school certificate examination and standard IV examination in Vidarbha; and
 
 (v) such other powers as are vested in the State Government under the *Bombay Primary Education Act, 1947.
 
@@ -150,7 +150,7 @@ Medical.
 
 34. Grant of financial assistance to institutions giving anti-rabic treatment to indigent persons.
 
-35. Grant-in-aid to private charitable hospitals, dispensaries, maternity homes, and other such institutions.
+35. Grant-in-aid to private charitable hospitals, dispensaries, maternity homes and other such institutions.
 
 Ayurveda.
 
@@ -166,7 +166,7 @@ Ayurveda.
 
 42. School Health Service.
 
-43. Measures for treatment of Anti-yaws. 4[* * ].
+43. Measures for treatment of Anti-yaws. 4[* *].
 
 45. Maintenance of medicine boxes in villages.
 
@@ -184,7 +184,7 @@ Buildings and Communications.
 
 (i) Village roads;
 
-(ii) Other District Roads ;
+(ii) Other District Roads;
 
 (iii) Major District Roads; and
 
@@ -198,7 +198,7 @@ Buildings and Communications.
 
 54. Public ferries.
 
-55. Maintenance of trees in the vicinity of roads. 5[* * ]. 1[Public Health Engineering
+55. Maintenance of trees in the vicinity of roads. 5[* *]. 1[Public Health Engineering
 
 58. Rural Water Supply ..
 
@@ -264,7 +264,7 @@ Miscellaneous.
 
 103. Village uplift.
 
-104. Building model villages (including grants and loans for the prupose).
+104. Building model villages (including grants and loans for the purpose).
 
 105. Economic welfare of villages.
 
@@ -272,7 +272,7 @@ Miscellaneous.
 
 107. Markets.
 
-108. Dharmashalas, real-houses, travellers' bunglows, sarais and the like.
+108. Dharmashalas, rest-houses, travellers' bungalows, sarais and the like.
 
 109.
 
@@ -335,14 +335,14 @@ Notes in the official text:
 - 1 Clauses (2) and (5) of entry 20 were deleted by G. N., R. D. D., No. ZPA 1072/52193-(l) N, dated the
 - 1st October 1973.
 - * Now, the short title of the Act has been amended as "the Maharashtra Primary Education Act (LXI
-- of 1947) by Mah. 25 of 2012, Ss. 2 and 3, Schedule, entry 28, with effect from the 1st May 1960.
+- of 1947) by Mah. 24 of 2012, Ss. 2 and 3, Schedule, entry 28, with effect from the 1st May 1960.
+- H 470-21
 - 1 Entry 36 was substituted by G. N., R. D. D., No. ZPA1068/35855-N, dated the 11th March 1969.
 - 2 Entry 37 was substituted by G N., R. D. D., No. ZPA 1070/2252-N, dated the 2nd June 1970.
 - 3 These words were substituted for the words "Combined Medical and Public Health Unit" by G. N.,
 - U. D. P. H. and H. D., No. PHC 3170/50377-S, dated the 25th November 1971.
 - 4 Entry 44 was deleted by Mah. 6 of 1975, s. 48(c).
-- 5 Entries 56 and 57 were deleted, ibid., s. 48(d).
-- H 504-21
+- 5 Entries 56 and 57 were deleted, by Mah. 6 of 1975, s. 48(d).
 - 1 The heading and entries 58 to 61 were substituted by G. N., R. D. D., No. ZPA 1070/11581-N, dated
 - the 9th December 1970.
 - 2 This was substituted by G. N.. R. D. D., No. GRAPAPU-1092/CR-378/39A, dated the 20th May 1992.
@@ -359,4 +359,4 @@ Notes in the official text:
 - 1 These words were substituted for the word "houses" by Mah. 6 of 1975, s. 48(g)(i).
 - 2 Entry 124 was added by G. N., R. D. D., No. ZPA 1068/6274-N, dated the 20th February 1969.
 - 3 These words were inserted by G. N. R. D. D., No. ZPA 1062/6274-N, dated the 24th November 1970.
-- H 504-22
+- H 470-22
