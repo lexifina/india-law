@@ -2,7 +2,7 @@
 
 (See section 167.) Form of Warrant.
 
-(Here insert the name of the officer charged with the execution of the warrant.) WHEREAS A, B, of, ...................................................................................................................................... has not paid, and has not shown satisfactory cause for the non-payment of the sum of................................................................................................................ due for the tax or fee mentioned in the margin for the period commencing on the................... day of ............20 and ending with............................. day of........................ 20 and leviable under rule No......................................................................;
+(Here insert the name of the officer charged with the execution of the warrant.) WHEREAS A. B. of, ...................................................................................................................................... has not paid, and has not shown satisfactory cause for the non-payment of the sum of................................................................................................................ due for the tax or fee mentioned in the margin for the period commencing on the................... day of ............20 and ending with............................. day of........................ 20 and leviable under rule No......................................................................;
 
 AND WHEREAS fifteen days have elapsed since the service on him of notice of demand for the same;
 

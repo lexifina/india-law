@@ -7,6 +7,6 @@
 Notes in the official text:
 
 - 1 Section 90A was inserted by Mah. 35 of 1963, s. 40.
-- 2 Section 91A was inserted, ibid., s. 41.
+- 2 Section 91A was inserted, by Mah. 35 of 1963, s. 41.
 - 3 These words were inserted by Mah. 21 of 1994, s. 73 (1).
-- 4 These words were inserted, ibid., s. 73 (2).
+- 4 These words were inserted, by Mah. 21 of 1994, s. 73 (2).

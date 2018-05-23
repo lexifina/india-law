@@ -1,3 +1,7 @@
 # Chapter III
 
-CONSTITUTION OF PANCHAYAT SAMITIS.
+ONSTITUTION OF PANCHAYAT SAMITIS.
+
+Notes in the official text:
+
+- C
