@@ -1,0 +1,74 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "302"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 302 Coop 272-2013-41 Dated 24-05-18"
+published: "2018-05-24"
+in_force: "2018-05-24"
+in_force_evidence: "published in the Gazette 2018-05-24; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._302_coop_272-2013-41_dated_24-05-18.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2018-05-24.302"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+COOPERATION DEPARTMENT
+NOTIFICATION
+The 24th May, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2328
+;
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2329
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2330
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2331
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2332
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2333
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2334
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2335
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2336
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2337
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2338
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2339
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2340
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2341
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2342
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2343
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2344
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2345
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2346
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2347
+
+2348 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 11, 2018 2349
+V. S. BHASKAR,
+Additional Chief Secretary to the Government of Assam,
+Cooperation Department.
+Guwahati :- Printed and Published by the Dy. Director (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Ex. Gazette No. 603 - 10 + 10 - 11 - 06 - 2018. (visit at–www.dpns.assam.gov.in)
