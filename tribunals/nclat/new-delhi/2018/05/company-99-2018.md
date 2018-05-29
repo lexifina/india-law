@@ -1,0 +1,251 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Company) No. 99 of 2018"
+decided: "2018-05-29"
+section: "Company"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/2163075285b68118585d60.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Company) No. 99 of 2018, 2018-05-29
+
+Company Appeal (AT) No. 99 & 120 of 2018 Page 1 of 8
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+Company Appeal(AT) 99 of 2018
+IN THE MATTER OF:
+Reliance Infratel Limited & Ors. …Appellants
+Vs
+HSBC Daisy Investments (Mauritius)
+Limited & Ors.
+….Respondents
+Present:
+ For Appellants:
+ For Respondents:
+
+Ms. Shelly Bhasin, Mr. Ankur Saigal, and Mr.
+Shubham Kulshreshta, Advocates
+Mr. Vikram Nankani, Senior Advocate, with Mr.
+Sujjain Talwar, Mr. Shailesh Poria, Ms. Mukta
+Dutta, Mr. Sanyam Saxena, and Mr. Rohan Roy,
+Advocates
+With
+Company Appeal(AT) 120 of 2018
+IN THE MATTER OF:
+State Bank of India …Appellant
+
+Vs
+HSBC Daisy Investments (Mauritius)
+Limited and Ors.
+….Respondents
+Present:
+ For Appellant:
+ For Respondents:
+Mr. Tushar Mehta, ASG, Mr. Sanjay Kapur and Ms.
+Megh Karnwal, Advocates.
+Mr. Vikram Nankani, Senior Advocate, with Mr.
+Sujjain Talwar, Mr. Shailesh Poria, Ms. Mukta
+Dutta, Mr. Sanyam Saxena, and Mr. Rohan Roy,
+Advocates
+
+Company Appeal (AT) No. 99 & 120 of 2018 Page 2 of 8
+O R D E R
+29.05.2018 When the matter was taken up, learned Counsel appearing on
+behalf Reliance Infratel Limited & Ors. produced a letter dated 29.05.2018 which
+reads as follows:
+“29.5.2018
+To,
+1. HSBC Daisy Investments (Mauritius) Limited
+2. Drawbridge Towers Limited
+3. Galleon Technology Offshore Limited
+4. Galleon Special Opportunities Master Fund, SPC, Limited
+Galleon Crossover Segregated Portfolio,
+5. Galleon Special Opportunities Master Fund, SPC, Limited
+Galleon Asia Crossover Segregated Portfolio,
+6. IIC Pond View R Tower Limited,
+7. IIC Lispenard R Tower Limited
+8. Investment Partners B(Mauritius) Limited,
+9. NSR PE Mauritius LLC/Revendell PE LLC, and
+10. Quantum (M) Limited
+Re.: Company Appeal (AT) No. 99 of 2018
+Reliance Infratel Ltd. & Ors.
+ Versus
+HSBC Daisy Investments (Mauritius) Ltd. & Ors.
+Dear Sir,
+The Appellants i.e., Reliance Infratel Ltd., Reliance Communications
+Infrastructure Ltd. and Reliance Communications Ltd. in the aforesaid
+Company Appeal will execute the enclosed Consent Terms immediately
+
+Company Appeal (AT) No. 99 & 120 of 2018 Page 3 of 8
+after the insolvency exit date (as referred to in the attached consent
+terms).
+Sd/-
+(Punit Garg)
+Director/Shareholder
+Reliance Communications Ltd.”
+The proposed consent term has also been produced which reads as follows:
+“National Company Law Appellate Tribunal
+New Delhi
+Company Appeal (AT) No. 99 of 2018
+Between
+Reliance Infratel Limited & Ors.
+And
+HSBC Daisy Investments (Mauritius) Ltd. & Ors.
+CONSENT TERMS
+These consent terms are executed by the parties set out herein below
+and include their successors and assigns:
+1. Reliance Infratel Limited,
+2. Reliance Communications Infrastructure Limited, and
+3. Reliance Communications Limited
+…. Hereinafter collectively referred to as “Appellants”
+1. HSBC Daisy Investments (Mauritius) Limited
+2. Drawbridge Towers Limited
+3. Galleon Technology Offshore Limited
+4. Galleon Special Opportunities Master Fund, SPC, Limited
+Galleon Crossover Segregated Portfolio,
+5. Galleon Special Opportunities Master Fund, SPC, Limited
+Galleon Asia Crossover Segregated Portfolio,
+6. IIC Pond View R Tower Limited,
+7. IIC Lispenard R Tower Limited
+8. Investment Partners B(Mauritius) Limited,
+9. NSR PE Mauritius LLC/Revendell PE LLC, and
+
+Company Appeal (AT) No. 99 & 120 of 2018 Page 4 of 8
+10. Quantum (M) Limited
+….. hereinafter collectively referred to as “Respondents”
+Appellants and Respondents are hereinafter collectively referred to as
+“Parties” and individually as “Party”.
+1. The Respondents are minority shareholders (holding 4.26%
+shares) in Appellant No. 1 Company. Being aggrieved by various
+acts of the majority shareholders (Appellant Nos. 2 and 3), the
+Respondents had filed a Company Petition No. 7 of 2016 against
+inter alia the Appellants alleging oppression and mis
+management, which is pending before the NCLT, Mumbai Bench.
+2. The parties have now agreed to put an end to the ongoing
+disputes and in view thereof have entered into the present
+Consent Terms to be effective upon the Appellants exiting the
+Insolvency Resolution process initiated pursuant to order dated
+15 May 2018 passed by the Mumbai Bench of NCLT in petition
+nos. CP(IB)1385(MB)/2017, CP(IB) 1386(MB)/2017 and CP(IB)
+1387(MB)/2017 filed by Ericsson inter alia against Appellant
+Nos. 1 and 3 under the Insolvency and Bankruptcy Code, 2016
+(“Insolvency exit date”).
+3. It is agreed, declared and ordered:
+a. The Appellants agree and undertake that they shall jointly
+and/or severally pay a sum of INR 230 Crore to the
+Respondents in the proportion as set out in Annexure A
+hereto within a period of 180 days from the Insolvency exit
+date.
+b. In order to secure the payment of INR 230 crore, Reliance
+Communications Limited agrees and undertakes to provide
+an unconditional and irrevocable Bank Guarantee in favor
+of the Respondents issued by a scheduled commercial bank
+
+Company Appeal (AT) No. 99 & 120 of 2018 Page 5 of 8
+with an ‘AAA’ rating issued by CRISIL or ICRA. The Bank
+Guarantee shall be issued and handed over to the
+Respondents within 15 banking days from the date of the
+Insolvency exit date.
+4. In view of the present Consent Terms, and in consideration of the
+Appellants undertaking to pay the amounts as agreed
+hereunder, the Petition No. 7 of 2016 pending before the NCLT,
+Mumbai Bench shall be disposed of as withdrawn upon the
+Insolvency exit date. All orders including the Order dated 12
+March 2018 passed by the NCLT, Mumbai Bench shall stand
+vacated upon the Insolvency exit date.
+5. Contempt Application No. 148 of 2018 in Company Petition No. 7
+of 2016 shall also stand disposed of upon the Insolvency exit
+date. The Respondents agree and undertake to withdraw the
+Special Leave Petition (Civil) No. 9462 of 2018 pending before the
+Hon’ble Supreme Court of India within 15 days of the Insolvency
+exit date.
+6. All parties withdraw all allegations against each other.
+7. No order as to costs.
+Dated this ______ day of May 2018
+For Reliance Infratel Limited
+(Appellant No. 1)
+For Reliance Communications
+Infrastructure Limited (Appellant No. 2)
+For Reliance Communications Limited
+(Appellant No. 3)
+For Agarwal law Associates
+
+Company Appeal (AT) No. 99 & 120 of 2018 Page 6 of 8
+(Advocate for the Appellants)
+For (1) HSBC Daisy Investments (Mauritius) Limited
+(2) Drawbridge Towers Limited
+(3) Galleon Technology Offshore Limited
+(4) Galleon Special Opportunities Master Fund, SPC, Limited
+Galleon Crossover Segregated Portfolio
+(5) Galleon Special Opportunities Master Fund, SPC, Limited
+Galleon Asia Crossover
+(6) IIC Pond View R Tower Limited
+(7) IIC Lispenard R Tower Limited
+(8) Investment Partners B(Mauritius) Limited
+(9) Revendell PE LLC
+(10) Quantum (M) Limited
+(Respondent Nos. 1 to 10)
+Mr. Robert Pavrey
+(Authorised Representative)
+Advocates for Respondent Nos. 1 to 10
+ANNEXURE A
+Proportion of each Respondent
+Respon-dent No. Name Percentage
+1. HSBC Daisy Investments
+(Mauritius) Limited
+27.826
+2. Drawbridge Towers Limited 17.391
+3. Galleon Technology Offshore
+Limited
+8.696
+
+Company Appeal (AT) No. 99 & 120 of 2018 Page 7 of 8
+4. Galleon Special Opportunities
+Master Fund, SPC, Ltd
+Galleon Crossover Segregated
+Portfolio
+7.609
+5. Galleon Special Opportunities
+Master Fund, SPC, Limited
+Galleon Asia Crossover
+segregated portfolio
+5.217
+6. IIC Pond View R Tower
+Limited
+4.348
+7. IIC Lispenard R Tower
+Limited,
+4.348
+8. Investment Partners (B)
+Mauritius Limited
+8.696
+9. Revendell PE LLC/NSR
+Mauritius PE LLC
+7.174
+10. Quantum (M) Limited 8.696
+11. Total 100
+“
+Learned Counsel for the Appellants submits that the ‘consent terms’ would
+be signed by the parties immediately after the ‘Insolvency exit date’, as referred
+to in the ‘consent terms’.
+Learned Senior Counsel appearing on behalf of HSBC Daisy Investments
+(Mauritius) Limited & Ors. submits that they agree with the ‘consent terms’
+which will be signed.
+Mr. Tushar Mehta, learned Senor Counsel appearing on behalf of State
+Bank of India (Appellant in analogous matters) submits that in view of ‘consent
+terms’ between the Appellants and Respondents of the Company appeal (AT) No.
+99 of 2018, the State Bank of India and ‘Joint Lender Forum’ will await the
+outcome of Insolvency and proposed ‘consent terms’.
+
+Company Appeal (AT) No. 99 & 120 of 2018 Page 8 of 8
+In view of the aforesaid developments, learned Counsels of the parties
+sought for and allowed to withdraw the Appeal, without going into the merit, with
+liberty to proceed in terms with the ‘consent terms’ after ‘Insolvency exit date’ if
+permissible.
+Both the appeals stand disposed of with the aforesaid observations.
+[Justice S.J. Mukhopadhaya]
+Chairperson
+[Justice Bansi Lal Bhat]
+Member (Judicial)
+Akc/gc
