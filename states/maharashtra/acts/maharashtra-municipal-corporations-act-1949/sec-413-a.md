@@ -1,0 +1,5 @@
+# Section 413A. Assessment subject to valuation or revision by Municipal Property Tax Board
+
+413A. (1) Notwithstanding anything contained in sections 406, 407, 408, 409, 410, 411, 412 and 413, every rateable or the capital value, as the case may be, shall be subject to the valuation or revision by the Maharashtra Municipal Property Tax Board established under section 3 of the Maharashtra Municipal Property Tax Board Act, 2011 (hereinafter referred to as "the Municipal Property Tax Board").
+
+(2) Notwithstanding anything contained in this Act, no appeal against fixing of rateable value or the capital value, as the case may be, or tax fixed or charged under this Act shall lie to the District Court, when the subject matter of such rateable value, or the capital value or tax fixed or charged under this Act is under consideration of the Municipal Property Tax Board and where any such appeal is already preferred or reference under section 410 is already made, the same shall, upon proceedings being initiated by the Board, stand transferred to, and be dealt with by, the Municipal Property Tax Board.] IV. Appeals to the Judge and the District Court.

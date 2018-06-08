@@ -9,4 +9,3 @@ Provided further that whenever an appeal made to the District Court is settled b
 Notes in the official text:
 
 - This section was inserted by Bom. 45 of 1954, s. 2.
-- H 4156—20

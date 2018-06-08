@@ -2,7 +2,7 @@
 
 60A. (1) The Corporation shall maintain and publish all its record duly catalogued and indexed in a manner, and form which enables the Corporation to disclose the information specified in sub-section (3).
 
-(2) The manner of disclosure of information shall include the publication of the information–
+(2) The manner of disclosure of information shall include the publication of the information,—
 
 (i) in News papers ;
 
@@ -24,9 +24,7 @@ Provided that, the information shall be disclosed in the language in which it is
 
 (iv) the particulars of officers who are empowered to grant concessions, permits or authorisations for any activity of the Corporation ;
 
-(v) audited financial statements showing Balance sheet, Receipts and Expenditures, and cash flow on a quarterly basis, within two months of end of each quarter, and audited financial statements for the full financial year, within three months of the end of the financial year ;
-
-Maharashtra Municipal Corporation Act
+(v) audited financial statements showing Balancesheet, Receipts and Expenditures, and cash flow on a quarterly basis, within two months of end of each quarter, and audited financial statements for the full financial year, within three months of the end of the financial year ; 1949 : LIX]
 
 (vi) the statement showing each of the services provided by the Corporation ;
 
@@ -36,7 +34,7 @@ Maharashtra Municipal Corporation Act
 
 (ix) particulars of the master plan, city development plan or any other plan concerning the development of the municipal area ;
 
-(x) the particulars of major works, as may be specified by notification by the State Government, in the Official Gazeete, together with information on the value of works, time of completion and details of contract ;
+(x) the particulars of major works, as may be specified by notification by the State Government, in the Official Gazette, together with information on the value of works, time of completion and details of contract ;
 
 (xi) the details of the municipal funds, i.e. income generated in the previous year by the following :—
 
@@ -52,9 +50,10 @@ Maharashtra Municipal Corporation Act
 
 (xii) annual budget allocated to each ward ;
 
-(xiii) such other information, as may be prescribed.] Maharashtra Municipal Corporation Act
+(xiii) such other information, as may be prescribed.]
+
+[1949 : LIX
 
 Notes in the official text:
 
 - Chapter IV-A was inserted by Mah. 33 of 2007, s. 3.
-- H 4062—12

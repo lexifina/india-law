@@ -2,7 +2,9 @@
 
 29A. (1) In every City, there shall be constituted Wards Committees comprising such contiguous electoral wards as may be decided by the Corporation, in accordance with following table :—
 
-TABLE Above 3 lakhs and upto 4.5 lakhs … Above 4.5 lakhs and upto 12 lakhs 1,50,000 Above 12 lakhs and upto 24 lakhs 3,00,000 Above 24 lakhs 6,00,000 Maharashtra Municipal Corporation Act
+TABLE Above 3 lakhs and upto 4.5 lakhs … Above 4.5 lakhs and upto 12 lakhs 1,50,000 Above 12 lakhs and upto 24 lakhs 3,00,000 Above 24 lakhs 6,00,000
+
+[1949 : LIX
 
 (2) Each Wards Committee shall consist of—
 
@@ -14,7 +16,7 @@ TABLE Above 3 lakhs and upto 4.5 lakhs … Above 4.5 lakhs and upto 12 lakhs 1,5
 
 Provided that, such persons are registered as electors in the wards within the jurisdiction of the Wards Committee :
 
-Provided further that, the norms for recognition of the NonGovernment Organisations, the requisite qualification for nomination as members and the manner in which they are to be nominated shall be such as the State Government may prescribe.
+Provided further that, the norms for recognition of the Non-Government Organisations, the requisite qualification for nomination as members and the manner in which they are to be nominated shall be such as the State Government may prescribe.
 
 (3) The duration of the Wards Committees shall be co-terminus with the duration of the Corporation.
 
@@ -32,9 +34,7 @@ Provided that the Chairperson so elected shall hold office so long only as the C
 
 (b) to consider and make recommendations on the proposals regarding estimates of expenditure pertaining to the wards under different heads of account of the budget before being forwarded to the Commissioner;
 
-(c) to grant administrative approval and financial sanction to the plans for municipal works to be carried out within the territorial area of the Wards Committee costing upto rupees five lakhs, provided that specific provision exists therefor in the budget sanctioned by the Corporation.
-
-Maharashtra Municipal Corporation Act
+(c) to grant administrative approval and financial sanction to the plans for municipal works to be carried out within the territorial area of the Wards Committee costing upto rupees five lakhs, provided that specific provision exists therefor in the budget sanctioned by the Corporation. 1949 : LIX]
 
 (8) Notwithstanding anything contained in sub-section (7), the Corporation may, by resolution, delegate to a Wards Committee such other functions as it may deem fit and expedient.
 
@@ -53,8 +53,6 @@ Notes in the official text:
 - for
 - Additional
 - Population
-- These words were substituted for the words "one of its number" by Mah. 41 of
-- 1994, s. 61(a).
-- These words were substituted for the words " one of its number " ibid, s. 61 (b).
-- The sub-heading and section 29A was inserted, ibid, s. 62.
-- H 4062—9a
+- These words were substituted for the words "one of its number" by Mah. 41 of 1994, s. 61(a).
+- These words were substituted for the words " one of its number " by Mah. 41 of 1994, s. 61 (b).
+- The sub-heading and section 29A was inserted, by Mah. 41 of 1994, s. 62.
