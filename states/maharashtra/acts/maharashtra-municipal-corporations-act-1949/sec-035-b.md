@@ -4,9 +4,10 @@
 
 Provided that, no such Chairman or Deputy Chairman shall be removed from office, unless he has given a reasonable opportunity to furnish an explanation :
 
-Provided further that, removal of the Chairman or Deputy Chairman from the office under the provisions of this section shall not affect his continuance as a Councillor for the reminder term of his office. ] Maharashtra Municipal Corporation Act The Municipal Commissioner.
+Provided further that, removal of the Chairman or Deputy Chairman from the office under the provisions of this section shall not affect his continuance as a Councillor for the reminder term of his office. ]
+
+[1949 : LIX The Municipal Commissioner.
 
 Notes in the official text:
 
 - 1 Sections 35A and 35B were inserted by Mah. 32 of 2011, s. 18.
-- H 4062—10

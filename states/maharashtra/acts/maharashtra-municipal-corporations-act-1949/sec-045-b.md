@@ -1,4 +1,4 @@
-# Section 45B. Mah
+# Section 45B. Power of State Government to notify post to be filled in by deputation
 
 45B. (1) Notwithstanding anything contained in any other provisions of this Act or in any other law for the time being in force, it shall be lawful for the State Government to notify in the Official Gazette, any post or any class of posts under any Corporation, for being filled in, by deputation of a suitable officer from the cadre of the State Government, specified by the State Government, for this purpose :
 
@@ -10,4 +10,6 @@ Provided that, every such notification shall be laid before each House of the St
 
 (4) The number of posts created and added to the feeder cadre under sub-section (3) shall, as far as possible, be filled in by selection, of one or more suitable officers of the concerned Corporation, in such manner as may be prescribed by the State Government by rules :
 
-Provided that, nothing in this sectin shall affect the appointment and terms and conditions of service of an incumbent holdings such notified post in the Corporation, on the date of issuing the notification under sub-section (1)].
+Provided that, nothing in this section shall affect the appointment and terms and conditions of service of an incumbent holdings such notified post in the Corporation, on the date of issuing the notification under sub-section
+
+(1)].

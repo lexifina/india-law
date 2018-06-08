@@ -5,3 +5,4 @@ Maharashtra Act 59 of 1949, as published by the Law and Judiciary Department, Go
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | consolidated snapshot, as modified up to 2014-06-09 | 2014-06-09 (as modified up to 2014-06-09 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Maharashtra Act 59 of 1949 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/(02)%20The%20Mah.%20Municipal%20Corporation%20Act%20(H-4062).pdf |
+| consolidated snapshot, as modified up to 2018-06-08 | 2018-06-08 (as modified up to 2018-06-08 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Maharashtra Act 59 of 1949 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah.%2059%20of%201949.%20Mah.%20Municipal%20Corporation.pdf |

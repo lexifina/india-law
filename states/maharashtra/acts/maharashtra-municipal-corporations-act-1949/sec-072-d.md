@@ -12,4 +12,10 @@
 
 (v) cases related to Legislation; and
 
-(vi) cases involving major policy decisions.] Maharashtra Municipal Corporation Act
+(vi) cases involving major policy decisions.]
+
+[1949 : LIX
+
+Notes in the official text:
+
+- H 610—13a

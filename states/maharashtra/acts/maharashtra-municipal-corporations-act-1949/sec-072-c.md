@@ -1,6 +1,6 @@
-# Section 72C. Mah. XXIX of 2011
+# Section 72C. Disciplinary action
 
-72C. (1) Every Municipal Officer and servant shall be bound to discharge his official duties and the official work assigned or pertaining to him most diligently and as expenditiously as feasible :
+72C. (1) Every Municipal Officer and servant shall be bound to discharge his official duties and the official work assigned or pertaining to him most diligently and as expeditiously as feasible :
 
 Provided that, normally no file shall remain pending with any Municipal Officer or servant in any Department or office under the Corporation for more than seven working days :
 

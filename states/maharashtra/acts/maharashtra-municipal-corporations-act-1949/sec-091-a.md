@@ -8,7 +8,7 @@
 
 (b) such portion of the sinking fund referred to in section 112 as the Corporation may, from time to time, determine.
 
-(3) The fund so established shall be applied for—
+(3) The fund so established shall be applied for,—
 
 (a) the expenditure on capital works for the purposes of Chapters XII and XIII;
 

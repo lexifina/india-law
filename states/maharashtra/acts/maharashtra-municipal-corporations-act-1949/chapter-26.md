@@ -1,7 +1,5 @@
 # Chapter XXVI
 
-1. Election Inquiries.
+PROCEEDINGS BEFORE JUDGE, DISTRICT JUDGE AND MAGISTRATES.
 
-Notes in the official text:
-
-- PROCEEDINGS BEFORE JUDGE, DISTRICT JUDGE AND MAGISTRATES.
+I. Election Inquiries.
