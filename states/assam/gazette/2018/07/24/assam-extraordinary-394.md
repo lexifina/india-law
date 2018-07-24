@@ -1,0 +1,79 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "394"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 394 HTS 427-2017-25 Dated 24-07-18"
+published: "2018-07-24"
+in_force: "2018-07-24"
+in_force_evidence: "published in the Gazette 2018-07-24; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/No.%20394%20HTS%20427-2017-25%20Dated%2024-07-18.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2018-07-24.394"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+HANDLOOM TEXTILES & SERICULTURE DEPARTMENT :: DISPUR
+NOTIFICATION
+The 24th July, 2018
+No. HTS. 427/2017/25.– The Governor of Assam is pleased to notify the 'Textile & Apparel
+Policy', 2018 with immediate effect.
+
+2894 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2895
+
+2896 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2897
+
+2898 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2899
+
+2900 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2901
+
+2902 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2903
+
+2904 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2905
+
+2906 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2907
+
+2908 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2909
+
+2910 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2911
+
+2912 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2913
+
+2914 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2915
+
+2916 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018 2917
+
+2918 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 7, 2018
+HEMANTA NARZARY,
+Principal Secretary to the Government of Assam,
+Handloom Textiles & Sericulture Department,
+Dispur, Guwahati-6
+Guwahati : Printed and Published by the Dy. Director (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Ex. Gazette No. 787 - 10 + 10 - 07 - 08 - 2018. (visit at–www.dpns.assam.gov.in)
