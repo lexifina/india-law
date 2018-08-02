@@ -1,0 +1,57 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 423 of 2018"
+decided: "2018-08-02"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/18868945895b88db2b0394a.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 423 of 2018, 2018-08-02
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+Company Appeal (AT) (Ins.) No. 423 of 2018
+IN THE MATTER OF:
+Karan Gambhir, Director, Forging
+Pvt. Ltd. ...Appellant
+Vs.
+Sajeve Bhushan Deora, R.P. of Forgings
+Pvt. Ltd. ...Respondent
+Present: For Appellant: - Mr. Karan Gandhi, Advocate with Mr. Pulkit
+Deora, Advocate
+O R D E R
+02.08.2018─ The appellant who is Director of Forgings Private Limited
+(Corporate Debtor) is unhappy with the Order dated 4th July 2018 whereby
+the Adjudicating Authority (National Company Law Tribunal), Principal
+Bench, New Delhi has directed DCP, New Delhi to personally ensure that the
+warrants are executed against the two directors namely Mr. Hari Narayan
+Yadav and Satender Kumar Thakur who have been absconding and not
+cooperating with Resolution Professional.
+In the meanwhile, the appellant has been directed to surrender his
+passport to the Bench Officer to ensure that he does not leave the country
+without prior permission of the Adjudicating Authority.
+Learned counsel appearing on behalf of the appellant submits that the
+passport is his personal document and the Tribunal has no jurisdiction to
+direct to surrender the same.
+
+However, we do not appreciate such submission, as the directors in
+terms of Insolvency and Bankruptcy Code, 2016 are duty bound to cooperate
+with the Resolution Professional to ensure early completion of the ‘Corporate
+Insolvency Resolution Process’. Two of the directors namely Hari Narayan
+Yadav and Satender Kumar Thakur have already absconded and not
+cooperating with the Resolution Professional. If the appellant Mr. Karan
+Gambhir also leaves the country, the Resolution Professional will not be in
+a position to complete the Resolution Process.
+In the circumstances, we are not inclined to interfere with the impugned
+order dated 4th July 2018. Now more than one month having passed, the
+appellant is directed to hand over the passport to the Bench Officer, NCLT,
+Principal Bench immediately, if not yet complied with.
+The appeal is dismissed with the aforesaid directions.
+(Justice S.J. Mukhopadhaya)
+ Chairperson
+
+ (Justice Bansi Lal Bhat)
+ Member(Judicial)
+sm/uk
