@@ -1,0 +1,35 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 219 of 2018"
+decided: "2018-08-03"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/6987095885b88dd75041f0.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 219 of 2018, 2018-08-03
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 219 of 2018
+IN THE MATTER OF:
+Marg Limited …Appellant
+Vs
+Tata Capital Financial Services Ltd. ….Respondent
+Present:
+ For Appellant:
+ For Respondent: Mr. Amit Gupta and Ms. Mansi Kukreja, Advocates.
+O R D E R
+03.08.2018: On 12th July, 2018, when the matter was called for nobody
+appeared on behalf of the Appellant. To give one more opportunity to the
+Appellant, we adjourned the case. Today also inspite of repeated calls nobody
+appeared for the Appellant. Learned counsel for the Respondent submits that
+all the time Appellant pleaded for settling the matter but it is not taking any
+steps for settlement. In this circumstance, while we are not condoning the delay,
+appeal is dismissed for non-prosecution.
+[Justice S. J. Mukhopadhaya]
+Chairperson
+[Justice Bansi Lal Bhat]
+Member (Judicial)
+am/uk
