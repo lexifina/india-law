@@ -1,0 +1,1383 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 175 of 2018"
+decided: "2018-08-10"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/6944646305b88ee3bc0755.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 175 of 2018, 2018-08-10
+
+1
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+Company Appeal (AT) (Insolvency) No 175 of 2018
+[Arising out of Order dated 17th April, 2018 passed by the Adjudicating
+Authority (National Company Law Tribunal), Kolkata Bench, Kolkata in CA
+(IB) No. 277/KB/2018, CA (IB) No. 271/KB/2018, CA (IB) No. 281/KB/2018
+and CA (IB) No. 361/KB/2017]
+IN THE MATTER OF:
+Renaissance Steel India Pvt. Ltd. …Appellant
+Vs
+Electrosteel Steels Ltd. ….Respondent
+Present:
+ For Appellant: Mr. Amrendra Sharan, Sr. Advocate with
+Ms. Honey Satpal, Mr. Pulkit Deora and Mr.
+Anup Kumar, Advocates.
+ For Respondents: Mr. Arun Kathpalia, Sr. Advocate with
+Mr. Diwakar Maheshwar, Mr. Aditya N Singh and
+Mr. Samaksh Goyal, Advocates for R-2.
+Mr. Tushar Mehta, ASG and Mr. Ramji
+Srinivasan, Sr. Advocate with Mr. Kanu Agrawal,
+Mr. L. Vishwanathan, Mr. Gaurav Gupte, Mr.
+Bishwajit Dubey, Ms. Surabhi Khattar, Ms.
+Srideepa Bhattacharyya, Mr. Tushar Bhardwaj
+and Mr. Naveen Hegde, Advocates for R-4.
+Mr. Jayant Mehta, Mr. Sajal Jain and Mr. Ashish
+Rana, Advocates for (Suspended) Board of
+Directors.
+With
+Company Appeal (AT) (Insolvency) No 223 of 2018
+[Arising out of Order dated 17th April, 2018 passed by the Adjudicating
+Authority (National Company Law Tribunal), Kolkata Bench, Kolkata in CA
+(IB) No. 277/KB/2018, CA (IB) No. 271/KB/2018, CA (IB) No. 281/KB/2018
+and CA (IB) No. 361/KB/2017]
+
+2
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+IN THE MATTER OF:
+Renaissance Steel India Pvt. Ltd. …Appellant
+Vs
+Electrosteel Steels Ltd. & Ors. ….Respondents
+Present:
+ For Appellant: Mr. Amrendra Sharan, Sr. Advocate with
+Ms. Honey Satpal and Ms. Srishti Kapoor,
+Advocates.
+ For Respondents: Mr. Rajiv Nayar, Sr. Advocate with Ms. Ruby
+Singh Ahuja, Mr. Utsav Trivedi, Ms. Tahira
+Karanjawala, Mr. Sanjeet and Mr. Shubham
+Saigal, Advocates for Respondent No.2 (Tata
+Steel).
+Mr. Gourab Bannerjee, Sr. Advocate with Ms.
+Misha, Mr. Sapan Gupta, Mr. Shantanu
+Chaturvedi and Ms. Mrida Lakhmani, Advocates
+for R-3 (RP).
+Mr. Tushar Mehta, ASG and Mr. Ramji
+Srinivasan, Sr. Advocate with Mr. Kanu Agrawal,
+Mr. L. Vishwanathan, Mr. Gaurav Gupte, Mr.
+Bishwajit Dubey, Ms. Surabhi Khattar, Ms.
+Srideepa Bhattacharyya, Mr. Tushar Bhardwaj
+and Mr. Naveen Hegde, Advocates for R-4 (CoC).
+Mr. Arun Kathpalia, Sr. Advocate with
+Mr. Diwakar Maheshwar, Mr. Aditya N Singh and
+Mr. Samaksh Goyal, Advocates for Vedanta.
+Company Appeal (AT)(Insolvency) No. 221 of 2018
+[Arising out of Order dated 15th May, 2018 passed by the Adjudicating
+Authority (National Company Law Tribunal), Principal Bench, New Delhi, in
+C.A. Nos. 244, 186, 217 &176 (PB)/2018 in CP.P. (IB)-201(PB)/2017]
+IN THE MATTER OF:
+Neeraj Singal …Appellant
+Vs
+Bhushan Steel Ltd. & Ors. ….Respondents
+
+3
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+Present:
+ For Appellant:
+ For Respondents:
+
+Mr. S. Ganesh, Senior Counsel with Mr. Sakate
+Khaitan, Mr. Puneet Singh Bindra, Mr. Dhiraj
+Mhetre, and Ms. Akshita Gupta, Advocates.
+Dr. A.M. Singhvi, Mr. Rajiv Nayar, Senior
+Advocates with Mr. V.P. Singh, Mr. R.S. Ahuja,
+Mr. A.R. Choudhary, Mr. Aman Sharma, Mr.
+Tahira Karanjawala, Mr. Aditya Jalan, Mr.
+Priyank Laddia, Mr. Abhiskar Singhvi, Mr. Utsav
+Trivedi, Mr. Navandeep Matta, Mr. Raghav Seth,
+Mr. Sahil Monga and Ms. Manjira Dasgupta,
+Advocates for Respondent No. 3- Tata Steel Ltd.
+Mr. Gaurab Banerjee, Mr. Arun Kathpalia, Senior
+Advocates with Mr. Manmeet Singh, Mr. A.R.
+Frey, Ms. Anjali Anchayil, Mr. Samaksh Goyal,
+Ms. Bani Brar and Mr. Arvind Maumar Gupta,
+Advocates for R.P.
+Ms. Misha, Mr. Vaijayant Paliwal and Ms.
+Jasveen Kaur, Advocates for CoC.
+With
+Company Appeal (AT)(Insolvency) No. 233 of 2018
+[Arising out of Order dated 15th May, 2018 passed by the Adjudicating
+Authority (National Company Law Tribunal), Principal Bench, New Delhi, in
+C.A. Nos. 244, 186, 217 &176 (PB)/2018 in CP.P. (IB)-201(PB)/2017]
+IN THE MATTER OF:
+Larsen & Toubro Ltd. …Appellant
+Vs
+Bhushan Steel Ltd. & Ors. ….Respondents
+Present:
+ For Appellant:
+ For Respondent:
+Mr. Mihir Thakur, Senior Advocate along with
+Mr. Rishi Agrawala, Mr. Mitul Shelat and Ms.
+Aastha Mehta, Advocates.
+Dr. A.M. Singhvi, Mr. Rajiv Nayar, Senior
+Advocates with Mr. V.P. Singh, Mr. R.S. Ahuja,
+
+4
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+ Mr. A.R. Choudhary, Mr. Aman Sharma, Mr.
+Tahira Karanjawala, Mr. Aditya Jalan, Mr.
+Priyank Laddia, Mr. Abhiskar Singhvi, Mr. Utsav
+Trivedi, Mr. Navandeep Matta, Mr. Raghav Seth,
+Mr. Sahil Monga and Ms. Manjira Dasgupta,
+Advocates for Respondent No.2- Tata Steel Ltd.
+Ms. Misha, Mr. Vaijayant Paliwal and Ms.
+Jasveen Kaur, Advocates for CoC.
+With
+Company Appeal (AT)(Insolvency) No. 267 of 2018
+[Arising out of Order dated 15th May, 2018 passed by the Adjudicating
+Authority (National Company Law Tribunal), Principal Bench, New Delhi, in
+C.A. Nos. 244, 186, 217 &176 (PB)/2018 in CP.P. (IB)-201(PB)/2017]
+IN THE MATTER OF:
+Bhushan Energy Ltd.
+Through its Resolution Professional
+…Appellant
+Vs
+State Bank of India & Ors. ….Respondents
+Present:
+ For Appellant:
+ For Respondents:
+
+Mr. Rajeeve Mehra, Senior Advocate along with
+Mr. Amar Gupta, Mr. Mayank Mishra, Ms. Niti
+Arora, Mr. Ritunjay Gupta and Ms. Pallavi
+Kumar, Advocates.
+Dr. A.M. Singhvi, Mr. Rajiv Nayar, Senior
+Advocates with Mr. V.P. Singh, Mr. R.S. Ahuja,
+Mr. A.R. Choudhary, Mr. Aman Sharma, Mr.
+Tahira Karanjawala, Mr. Aditya Jalan, Mr.
+Priyank Laddia, Mr. Abhiskar Singhvi, Mr. Utsav
+Trivedi, Mr. Navandeep Matta, Mr. Raghav Seth,
+Mr. Sahil Monga and Ms. Manjira Dasgupta,
+Advocates for Respondent No.3- Tata Steel Ltd.
+Ms. Misha, Mr. Vaijayant Paliwal and Ms.
+Jasveen Kaur, Advocates for CoC.
+
+5
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+With
+Company Appeal (AT)(Insolvency) No. 357 of 2018
+[Arising out of Order dated 15th May, 2018 passed by the Adjudicating
+Authority (National Company Law Tribunal), Principal Bench, New Delhi, in
+C.A. Nos. 244, 186, 217 &176 (PB)/2018 in CP.P. (IB)-201(PB)/2017]
+IN THE MATTER OF:
+Brij Bhushan Singal …Appellant
+Vs
+Bhushan Steel Ltd. & Ors. ….Respondents
+Present:
+ For Appellant:
+ For Respondents:
+
+Mr. Puneet Singh Bindra, Mr. Dhiraj Mhetre, Mr.
+Sakate Khaitan, Ms. Akshita Gupta, Advocates.
+Through RP- Mr. Arun Kathpalia, Senior
+Counsel, Mr. Manmeet Singh, Mr. A Robin Frey,
+Ms. Anukrit Gupta, Ms. Anjali Anchayil,
+Advocates for Respondent No. 1
+Mr. Rajiv Nayar, Senior Advocate along with Mr.
+V.P. Singh, Mr. R.S.Ahuja, Mr. A.R. Chodhury,
+Mr. Aditya Jalan, Mr. Priyank Ladoveer, Mr.
+Raghav Seth, Mr. Aman Sharma, Mr. Tahira
+Karanjawala and Mr. Sahil Monga, Advocates for
+Respondent No. 3 – Tata Steel Ltd.
+Ms. Misha, Mr. Vaijayant Paliwal and Ms.
+Jasveen Kaur, Advocates for CoC.
+
+6
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+J U D G M E N T
+SUDHANSU JYOTI MUKHOPADHAYA, J.
+In all the appeals as common question of law is involved and one of
+the Resolution Applicants- ‘Tata Steel Limited’ is common, though they were
+heard separately but with a view to notice the submissions made by learned
+counsel for the parties in two separate sets of the appeals, the appeals are
+disposed of by this common judgment.
+For proper appreciation of the case, we have referred different sets of
+appeals as appeal arising out of ‘Resolution Process’ against ‘Electrosteels
+Steels Limited’ and ‘Resolution Process’ initiated against ‘Bhushan Steel
+Ltd.’ as the case may be.
+Appeals arising out of “Electrosteels Steels Limited”-
+2. Pursuant to an application under Section 7 of the Insolvency and
+Bankruptcy Code, 2016 (hereinafter referred to as “I&B Code”) filed by the
+State Bank of India- (‘Financial Creditor’), ‘Corporate Insolvency Resolution
+Process’ was initiated against ‘Electrosteels Steels Limited’- (‘Corporate
+Debtor’). By impugned order dated 17th April, 2018 in CA (IB) No.
+277/KB/2018, CA (IB) No. 271/KB/2018, CA (IB) No. 281/KB/2018 and CA
+(IB) No. 361/KB/2017, the Adjudicating Authority (National Company Law
+Tribunal), Kolkata Bench, Kolkata, held that the ‘Resolution Applicants’-
+‘Vedanta Limited’ and ‘Tata Steel Limited’ are eligible and not barred by
+Section 29A (d) of the ‘I&B Code’. The ‘Resolution Plan’ submitted by
+
+7
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+‘Vedanta Limited’ has been approved by the Adjudicating Authority as the
+plan fulfils the requirement under Section 30(2).
+3. The aforesaid order dated 17th April, 2018, approving the ‘Resolution
+Plan’ of ‘Vedanta Limited’ has been challenged by the Appellant-
+‘Renaissance Steel India Private Limited’, another ‘Resolution Applicant’ in
+Company Appeal (AT) (Insolvency) No. 175 of 2018. Prayer has been made to
+declare ‘Vedanta Limited’ as ineligible under Section 29A (d) of the ‘I&B
+Code’.
+Appeals arising out of “Bhushan Steel Ltd.”
+4. Another application under Section 7 of the ‘I&B Code’ was filed by the
+State Bank of India- (‘Financial Creditor’) for initiation of ‘Corporate
+Insolvency Resolution Process’ against ‘Bhushan Steel Ltd.’- (‘Corporate
+Debtor’). By the impugned order dated 15th May, 2018, the Adjudicating
+Authority held that ‘Tata Steel Limited’ is eligible as ‘Resolution Applicant’
+and not barred by Section 29A (d) of the ‘I&B Code’ and approved the
+‘Resolution Plan’ submitted by ‘Tata Steel Limited’.
+5. In Company Appeal (AT) (Insolvency) No. 223 of 2018, same Appellant
+challenging the same very order dated 17th April, 2018, prayed for a
+declaration that ‘Tata Steel Limited’ is ineligible under Section 29A (d) of the
+‘I&B Code’.
+
+8
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+6. In Company Appeal (AT) (Insolvency) No. 221 of 2018, ‘Mr. Neeraj
+Singal’- a Shareholder of ‘Bhushan Steel Ltd.’- (‘Corporate Debtor’) has
+challenged the order dated 15th May, 2018 passed by the Adjudicating
+Authority, Principal Bench, New Delhi and also sought for a declaration that
+“Tata Steel Limited” is ineligible under Section 29A (d) of the ‘I&B Code’.
+7. ‘Bhushan Energy Limited’ in Company Appeal (AT) (Insolvency) No.
+267 of 2018 has also challenged the order dated 15th May, 2018, passed by
+the Adjudicating Authority, Principal Bench, New Delhi, but on different
+grounds.
+8. The same very order dated 15th May, 2018 has been challenged by
+‘Larsen & Toubro Limited’- (‘Operational Creditor’) in Company Appeal (AT)
+(Insolvency) No. 233 of 2018 in so far it relates to allocation made in the
+‘Resolution Plan’ in respect of ‘Operational Creditor’s’.
+9. Mr. Brij Bhushan Singal, a Shareholder along with Others, have also
+challenged the order dated 15th May, 2018 in Company Appeal (AT)
+(Insolvency) No. 357 of 2018 raising grievance against the approved
+‘Resolution Plan’.
+10. The Divisional Forest Officer, Bokaro Forest Division, Department of
+Forests & Environment, Government of Jharkhand, Bokaro, filed an
+application CA (IB) No. 307/KB/2018 for its substitution as a party to the
+proceedings of ‘Electrosteel Steels Ltd.’ so as to protect the ‘forest lands’
+
+9
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+allegedly in the illegal possession of ‘Bhushan Steel Ltd.’- (‘Corporate
+Debtor’).
+11. Upon hearing the argument of the learned counsel and considering
+the contentions, the Adjudicating Authority held that remedy available to
+the Applicant- ‘Divisional Forest Officer, Bokaro Forest Division’, seems to
+have already initiated and pending against the ‘Corporate Debtor’. Allowing
+or rejecting the ‘Resolution Plan’ in the case in hand will not affect the legal
+remedy, if any available to the Applicant- ‘Divisional Forest Officer, Bokaro
+Forest Division’. The said order has been challenged by the State of
+Jharkhand.
+12. Apart from other issues, the following questions arise for
+consideration:
+i. Whether ‘Vedanta Limited’, being a ‘connected person’ of
+‘Konkola Copper Mines’ (hereinafter referred to as “KCM”) is
+ineligible in terms of Section 29A (d) of the ‘I&B Code’?
+ii. Whether ‘Tata Steel Limited’ being a ‘related party’ of the ‘Tata
+Steel Limited, UK’ is ineligible under Section 29A (d) of the ‘I&B
+Code’?
+Electrosteels Steels Limited (‘Corporate Debtor’)
+Issue No.1:- Whether ‘Vedanta Limited’, being ‘connected person’ of ‘Konkola
+Copper Mines’ (hereinafter referred to as “KCM”) is ineligible in terms of
+Section 29A (d) of the ‘I&B Code’?
+
+10
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+13. According to Appellant, ‘Vedanta Limited’ is a subsidiary of ‘Vedanta
+Resources PLC’ which holds 50.13% equity in ‘Vedanta Limited’ as per the
+Annual Report of ‘Vedanta Resources PLC’ for the year 2017.
+14. ‘Vedanta Resource PLC’ has another subsidiary, ‘Konkola Copper
+Mines’ (hereinafter referred to as “KCM”), which was/ is undertaking mining
+operations in Zambia’s Copper belt and Central Provinces. ‘Vedanta
+Resource PLC’ holds equity of 79.4% in ‘KCM’ as per the Annual Report of
+‘Vedanta Resources PLC’.
+15. According to the Appellant, it has learnt from a report prepared by
+Environment Justice Australia, which is available in public domain that
+‘KCM’ was charged with a criminal prosecution by the Government of
+Zambia for pollution and harm caused to environment. The Government of
+Zambia brought a successful criminal prosecution against ‘KCM’ for
+pollution and harm caused and charged ‘KCM’ with four offences relating to
+the pollution:
+I. ‘Polluting the environment contrary to Section 91(1) of the
+Environmental Protection and Pollution Control Act No. 12 of
+1990 Cap 204 of the Laws of Zambia;
+II. Discharging poisonous, toxic, eco-toxic, obnoxious or
+obstruction matter, radiation or other pollutant into the aquatic
+environment contrary to Sections 24 and 91(1) of the
+
+11
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+Environmental Protection and Pollution Control Act No. 12 of
+1990 Cap 204 of the Laws of Zambia;
+III. Wilfully failing to report an act or incident of pollution of the
+environment contrary to Section 86 sub-sections (1) and (3) of
+the Environmental Protection and Pollution Control Act No. 12
+of 1990 Cap 204 of the Laws of Zambia; and
+IV. Failure to comply with the requirements for discharge of effluent
+contrary to Regulation 12(b) of the Environmental Protection
+and Pollution Control [Water Pollution (Effluent and
+wastewater)] Regulation Statutory Instrument No. 172 of 1993.
+16. Subordinate Court of First Class for the Chingola District Holden at
+Chingola, Zambia (Criminal Jurisdiction), by order dated 25th November,
+2010, held the ‘KCM’ guilty of all four charges and imposed a monetary fine
+on ‘KCM’.
+17. Further case of the Appellant is that one of the charges for which
+penalty has been inflicted upon ‘KCM’ by Subordinate Court of First Class of
+Chingola was failure to comply with the requirements for discharging of
+effluent contrary to Regulation 12(b) of the ‘Environmental protection and
+Pollution Control [Water Pollution (Effluent and wastewater)] Regulation
+Statutory Instrument No. 172 of 1993’.
+
+12
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+18. The sentence imposed on ‘KCM’ by proceeding dated 25th November,
+2010 by the Subordinate Court of First Class for the Chingola District
+Holden at Chingola, Zambia (Criminal Jurisdiction) is as follows:
+“SENTENCE
+I have taken into consideration the mitigation of the
+accused. I have taken into consideration that the
+Accused is a first offender. I have also taken into
+consideration that KCM has readily admitted the
+charge. I have also noted that KCM has put in place
+various measures to prevent the re-occurrence of
+similar accidents in future. Further, I have also
+noted that the company is remorseful for whatever
+happened.
+Having considered these mitigation factors, may I
+state that KCM indeed is a big company but does not
+mean that the company must go to sleep when it
+comes to monitoring the use/operations of the
+machines. KCM has very qualified people in the land
+who know what they do when at work. It is in this
+vein that KCM should have acted quickly to avert the
+situation.
+May I also state that KCM should ensure that similar
+accidents are avoided because in future the accident
+may be so huge that no amount of money will ever
+
+13
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+be received to compensate the damage. KCM is to
+abide by the programme elaborated in Court as to
+the repairs of the Tanks of TLP. The sentences to run
+consecutively.
+That being the case I will fine the accused as
+follows:
+In count 1, the accused is fined the sum of
+K10,800,000.
+In count 2, the accused is fined the sum of
+K10,800,000.
+In count 3, the accused is fined the sum of
+K270,000.00”
+19. Mr. Amarendra Sharan, learned Senior Counsel appearing on behalf
+of the Appellant submitted that a person who pollutes the environment or
+contravenes any provision of the Act for which no penalty is provided shall
+be guilty of an offence and liable upon conviction to a fine or imprisonment
+for the terms mentioned in Section 91 (1) of the ‘Environmental Protection
+and Pollution Control Act’ of Republic of Zambia (hereinafter referred to as
+“Zambia Act”), which reads as follows:
+“91. (1) A person who pollutes the environment or
+contravenes any provision of this Act for which no
+penalty is provided shall be guilty of an offence and
+liable upon conviction to a fine not exceeding fifteen
+
+14
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+thousand penalty units or to imprisonment for a term
+not exceeding three years or to both.
+(2) For a continuing violation, a court may order a
+daily fine not exceeding seven thousand five
+hundred penalty units.
+(3) Where an offence under this Act is committed by
+a body of persons- (a) in the case of a body
+corporate, every director or similar officer of the body
+shall be guilty of the offence; or (b) in the case of a
+partnership, every partner shall be guilty of an
+offence.
+(4) A person shall not be guilty of an offence under
+subsection (3), if he proves to the satisfaction of the
+court that the act constituting the offence was done
+without his knowledge, consent or connivance and
+that he did his part to prevent the commission of the
+offence having regard to all the circumstances of the
+case.”
+20. Referring to Section 29A (d) of the ‘I&B Code’, it was submitted that
+‘KCM’ being a ‘related party’ and a ‘connected party’ of ‘Vedanta Limited’
+having convicted for the offence under Sections 24, 86 & 91(1) of the Zambia
+Act, which includes punishment and imprisonment of three years (Section
+91(1)), the ‘Vedanta Limited’ is also ineligible in terms of Section 29A (d).
+
+15
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+21. It was further submitted that phrase ‘punishable’ with imprisonment
+for two years or more used in clause (d) of Section 29A of the ‘I&B Code’ do
+not connote that for incurring the resultant disqualification or ineligibility,
+the sentence to be awarded has to be obligatorily one for imprisonment for
+two years or more. If a person, including a ‘Corporate Person’ is convicted of
+an offence which is punishable with imprisonment for two years or more or
+fine or both and is awarded only a sentence of fine or with that of
+imprisonment even for a lesser term in case of default in payment of fine,
+the said clause would come into play.
+Stand of the Counsel for the ‘Vedanta Limited’
+22. Mr. CA Sundaram, learned Senior Counsel appearing on behalf of 2nd
+‘Vedanta Limited’ referring to Section 29A (d) submitted that the ‘Resolution
+Applicant’ or a person connected with him ought to have been convicted for
+an offence ‘punishable’ with imprisonment. According to him, ‘punishable’
+necessarily means ‘capable of being punished’, therefore, the person who
+has been convicted ought to have been convicted for an offence for which
+they could have been punished with imprisonment or for which they were
+capable of being punished by imprisonment.
+23. It was also submitted that the ‘connected person’ who was convicted
+in the instant case is a company (KCM) and the individual directors were not
+convicted. Therefore, the only conviction relevant for the purpose of Section
+
+16
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+29A (d) read with Section 29A (j) is that of the Zambian company (KCM). The
+Zambian Company is not capable of being punished with imprisonment at
+all since a company cannot be punished by imprisonment.
+24. Further, according to him, Section 29A (d) has to be interpreted as a
+Section providing for a mandatory imprisonment for two years or more,
+otherwise, the words used would have been imprisonment ‘upto’ two years
+or more and not ‘for’ two years or more.
+25. Referring to Section 91 of the Zambian Act under which the alleged
+conviction took place, it was submitted that the sentence was for
+imprisonment not exceeding three years or fine, which will not have the
+same meaning as contemplated in Section 29A (d). The intent of Section
+29A(d) can be gleamed from the Regulations themselves and cannot be made
+applicable to stale events where the conviction has taken place more than
+eight years ago, as in the instant case. Therefore, according to learned
+Senior Counsel, ‘Vedanta Limited’ cannot be held to be ineligible in terms of
+Section 29A(d).
+Stand of the Counsel for the ‘Committee of Creditors’
+26. Mr. Tushar Mehta, learned Senior Counsel appearing on behalf of the
+State Bank of India- ‘Committee of Creditors’, referring to Section 29A(d)
+submitted that ‘Literal Interpretation’ of the term ‘imprisonment’ would only
+apply to natural persons and not to juristic persons, but to apply the
+
+17
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+provision of Section 29A(d) the other conditions will be required to be found
+in existence. Referring to term ‘punishable’ as defined in the Black’s Law
+Dictionary and the ‘punishable range’ under the relevant penal law, he
+submitted that it has no relevance with the ‘actual punishment imposed’.
+‘Bhushan Steel Limited’
+Stand of the Counsel for ‘Mr. Neeraj Singhal’
+27. The case of the Appellant- ‘Mr. Neeraj Singhal’ is that ‘Tata Steel Ltd.’
+- ‘Resolution Applicant’ is a ‘connected person’ of ‘Tata Steel UK’. The
+aforesaid ‘connected person’ has been found guilty on two counts under the
+‘Health and Safety at Work Act, 1974, UK’ (hereinafter referred to as “U.K
+Act”) vide an order dated 2nd February, 2018 for failing to discharge its
+duties under Section 2(1) of the ‘U.K Act’. The objection raised is that since
+‘Tata Steel UK’ has been convicted by order dated 2nd February, 2018 passed
+by the Crown Court at Kingston Upon Hull of an offence punishable with
+imprisonment for two years or more it attracted disqualification under
+Section 29A (d) of the ‘I&B Code’.
+28. Mr. S. Ganesh, learned Senior Counsel for the Appellant referred to
+ineligibility prescribed under Section 29A (d) of the ‘I&B Code’ and
+submitted that the said provision makes a person ineligible to submit a
+‘Resolution Plan’ if such ‘person’ or its subsidiary has been ‘convicted’ for
+any offence ‘punishable’ by imprisonment for two years or more.
+
+18
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+29. According to him, Section 29A (d) of the ‘I&B Code’ has two distinct
+elements:
+i. The ‘person’ (which includes a company) should have been
+convicted for an office; and
+ii. That offence should be ‘punishable’ by imprisonment of two
+years or more. Even imprisonment of just two years (and not
+more) is sufficient to attract 29A (d) of the ‘I&B Code’.
+30. It was submitted that a Company can never incur the disqualification
+under Section 29A (d) of the ‘I&B Code’ even if it had committed a very
+serious crime and also has been convicted of that crime cannot be accepted.
+Such an interpretation being contrary to the ‘Statement of Objects and
+Reasons’ for the introduction of Section 29A, which exclude all undesirable
+persons from the ‘Resolution Process’.
+31. According to learned Senior Counsel, a corporate criminal does not
+cease to be an undesirable person only because of the corporate garb which
+it wears. Section 29A (d), therefore, much necessarily be given a purposive
+interpretation so as to advance the objects for which it has been enacted
+instead of stultifying it and reducing it to a dead letter, which is exactly
+what the Respondents interpretation does.
+
+19
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+Stand on behalf of the “Tata Steel Limited”
+32. Dr. A.M. Singhvi, learned Senior Counsel while submitted that the
+Applicant is responsible for the financial breakdown of the ‘Corporate
+Debtor’. Further submitted that the appeal is not maintainable for its not
+being an aggrieved person.
+33. In so far as Section 29A (d) of the ‘I&B Code’ is concerned, it was
+submitted that on the language of Section 29A (d) read with explanation (iii)
+below the same, no such disqualification is contemplated.
+34. According to learned Senior Counsel, as per the ‘sentencing
+guidelines’ under the ‘U.K Act’, the English Court cannot impose a sentence
+of imprisonment on a Company and thereby the only available penalty is
+that of a fine which has actually been done.
+35. It was further submitted that a Court can impose a fine and/or a
+custodial sentence on a Director of the Company and if the Director is being
+prosecuted with punishment of imprisonment in addition to the Company,
+the matter would have been different but it is not the position in the present
+case.
+36. Referring to Section 33(1) of the ‘U.K Act’ and Section 29A (d) of the
+‘I&B Code’, it was contended that the Indian Law only talks of imposition of
+
+20
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+punishment of imprisonment of two years or more in order to attract
+disability, whereas under the English Law both have been provided. It has
+accordingly been argued that where ‘imprisonment or fine’ are envisaged the
+Courts have the discretion to impose fine and where the imprisonment is the
+only punishment, a company cannot even be prosecuted as imposition of
+custodial sentence is a legal impossibility. In support of his submissions,
+reliance has been placed on the decisions of the Hon’ble Supreme Court
+which we will refer at appropriate stage.
+Provisions of law
+37. Section 29A prescribes ‘ineligibility to be ‘Resolution Applicant’, as
+quoted below:
+"29A. Persons not eligible to be resolution
+applicant.─ A person shall not be eligible to
+submit a resolution plan, if such person, or any other
+person acting jointly or in concert with such person—
+(a) is an undischarged insolvent;
+(b) is a wilful defaulter in accordance with the
+guidelines of the Reserve Bank of India issued
+under the Banking Regulation Act, 1949;
+(c) has an account, or an account of a corporate
+debtor under the management or control of such
+person or of whom such person is a promoter,
+classified as non-performing asset in accordance
+
+21
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+with the guidelines of the Reserve Bank of India
+issued under the Banking Regulation Act, 1949
+and at least a period of one year has lapsed
+from the date of such classification till the date
+of commencement of the corporate insolvency
+resolution process of the corporate debtor:
+Provided that the person shall be eligible
+to submit a resolution plan if such person makes
+payment of all overdue amounts with interest
+thereon and charges relating to non-performing
+asset accounts before submission of resolution
+plan;
+(d) has been convicted for any offence
+punishable with imprisonment for two years or
+more;
+(e) is disqualified to act as a director under the
+Companies Act, 2013;
+(f) is prohibited by the Securities and Exchange
+Board of India from trading in securities or
+accessing the securities markets;
+(g) has been a promoter or in the management or
+control of a corporate debtor in which a
+preferential transaction, undervalued
+transaction, extortionate credit transaction or
+
+22
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+fraudulent transaction has taken place and in
+respect of which an order has been made by the
+Adjudicating Authority under this Code;
+(h) has executed an enforceable guarantee in
+favour of a creditor in respect of a corporate
+debtor against which an application for
+insolvency resolution made by such creditor has
+been admitted under this Code;
+(i) has been subject to any disability,
+corresponding to clauses (a) to (h), under any
+law in a jurisdiction outside India; or (j) has a
+connected person not eligible under clauses (a)
+to (i)
+Explanation.— For the purposes of this clause,
+the expression "connected person" means—
+(i) any person who is the promoter or
+in the management or control of the
+resolution applicant; or
+(ii) (ii) any person who shall be the
+promoter or in management or
+control of the business of the
+corporate debtor during the
+implementation of the resolution
+plan; or
+
+23
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+(iii) the holding company, subsidiary
+company, associate company or
+related party of a person referred to
+in clauses (i) and (ii): Provided that
+nothing in clause (iii) of this
+Explanation shall apply to—
+(A) a scheduled bank; or
+(B) an asset reconstruction
+company registered with the
+Reserve Bank of India under
+section 3 of the Securitisation and
+Reconstruction of Financial Assets
+and Enforcement of Security
+Interest Act, 2002; or
+(C) an Alternate Investment Fund
+registered with the Securities and
+Exchange Board of India."
+38. The substantive provision of Section 29A of the ‘I&B Code’ suggests
+that not only a person is ineligible to submit a ‘Resolution Plan’, but also a
+person with any other person acting jointly or in concert with such person,
+attracts any one or other ineligibility clause mentioned in clauses (a) to (i) is
+ineligible. In terms of clause (j) of Section 29A, if the ‘connected person’ is
+not eligible under clauses (a) to (i), then also the person who submits the
+‘Resolution Plan’ is not eligible.
+
+24
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+39. The expression ‘connected person’ has been provided in explanation
+below Section 29A, which includes the holding company, subsidiary
+company, associate company or related party of a person referred to in
+clauses (i) to (ii) of explanation and reads as follows:
+“Explanation.— For the purposes of this clause, the
+expression "connected person" means—
+(i) any person who is the promoter or in the
+management or control of the resolution
+applicant; or
+(ii) any person who shall be the promoter or in
+management or control of the business of the
+corporate debtor during the implementation of
+the resolution plan; or
+(iv) the holding company, subsidiary
+company, associate company or
+related party of a person referred to
+in clauses (i) and (ii):
+Provided that nothing in clause (iii) of this
+Explanation shall apply to—
+(A) a scheduled bank; or
+(B) an asset reconstruction company registered
+with the Reserve Bank of India under section 3
+
+25
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+of the Securitisation and Reconstruction of
+Financial Assets and Enforcement of Security
+Interest Act, 2002; or
+(C) an Alternate Investment Fund registered with
+the Securities and Exchange Board of India.".
+40. Section 29A (d) relates to ‘ineligibility’; if a person or any other person
+acting jointly or in concert with such person or ‘connected person’ has been
+convicted for any offence ‘punishable with imprisonment for two years or
+more’. In terms of clause (i) of Section 29A, if such person or any other
+person acting jointly or in concert with such person has been subject to any
+disability, corresponding to clauses (a) to (h) under any law in a jurisdiction
+outside India is also ineligible.
+Literal Interpretation
+41. If Section 29A is construed literally, the term “imprisonment” would
+only apply to ‘natural persons’ and not to ‘juristic persons’.
+42. To apply Section 29A(d), the following conditions will be required to be
+found in existence: -
+a) There has to be a conviction;
+b) Conviction should be for an offence which is punishable with
+‘imprisonment”; and
+c) Sentence of imprisonment shall be for two years or more.
+
+26
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+43. Since a ‘juristic person’ can never be imprisoned, Section 29A(d)
+would never apply to ‘juristic persons’ that is to say other than ‘natural
+persons’. Section 29A will, thus, read as under:
+“29A. A person shall not be eligible to submit a
+resolution plan, if such person, or any other person
+acting jointly or in concert with such person─
+xxx xxx xxx
+(d) has been convicted for any offence punishable
+with imprisonment for two years or more;”
+44. The term “punishable” as defined in the Black’s Law Dictionary
+specifically denotes the element of capability to it. The said definition is as
+under:
+“Deserving of or capable or liable to punishment;
+capable of being punished by law or right”
+Thus, the word “punishable” denotes the “punishable range” under
+the relevant penal law and has no relevance with the “actual punishment
+imposed” in a given case.
+45. In this context, the definition provisions contained in Section 3(23)
+needs to be examined, which reads as under:
+“3. In this Code, unless the context otherwise
+requires, ─
+
+xxx xxx xxx
+
+27
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+(23) “person” includes-a) an individual;
+b) a Hindu Undivided Family;
+c) a company;
+d) a trust;
+e) a partnership;
+f) a limited liability partnership; and
+g) any other entity established under a statute,
+and included a person resident outside
+India;”
+46. Reading Section 29A (d) it can be construed that the context requires
+the term ‘person’ in Section 29A (d) to be read as a natural person who can
+be imprisoned.
+This would mean that in case of a mere conviction of a
+corporate/juristic person, obviously without “imprisonment” (and even with
+fine), the said corporate/juristic person will not be ineligible under Section
+29A(d).
+Purposive Interpretation
+47. There is yet another way in which Section 29A (d) can be read and
+construed in a purposive manner as under:
+a) As per this construction even a corporate person can attract
+disqualification under Section 29A (d) in spite of the fact that
+the juristic person, per se, itself cannot be imprisoned.
+b) As the jurisprudence has evolved over the years in India as well
+as in other jurisdictions, there is no dispute that a company is
+liable to be prosecuted and punished for criminal offences. The
+earlier authorities to the effect that “corporations” cannot
+
+28
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+commit a crime, is now diluted and now generally accepted
+modern rule is that except for such crimes which a corporation
+is held incapable of committing by reason of the fact that they
+involve “mens rea”, a corporate body can be criminally
+prosecuted.
+48. The above referred legal position which can even make a corporate
+entity liable for disqualification under Section 29A (d) is, prima facie, not
+possible as there is no provision in Section 29A (d) requiring the corporation
+can also be punished “with fine” and only mentions “imprisonment” (which
+cannot be imposed on a corporation).
+49. Section 29A must be interpreted in light of the mischief it sought to
+curtail. The ‘Statement of Objects and Reasons’ appended to the Insolvency
+and Bankruptcy Code (Amendment) Bill, 2017 (Bill No. 280 of 2017) in Lok
+Sabha (ultimately passed as Act 8 of 2018), seeking the abovesaid
+amendment stated as under:
+“2. The provisions for insolvency resolution and
+liquidation of a corporate person in the Code did not
+restrict or bar any person from submitting a
+resolution plan or participating in the acquisition
+process of the assets of a company at the time of
+liquidation. Concerns have been raised that persons
+who, with their misconduct contributed to
+defaults of companies or are otherwise
+
+29
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+undesirable, may misuse this situation due to lack
+of prohibition or restrictions to participate in the
+resolution or liquidation process, and gain or regain
+control of the corporate debtor. This may undermine
+the processes laid down in the Code as the
+unscrupulous person would be seen to be rewarded
+at the expense of creditors. In addition, in order to
+check that the undesirable persons who may have
+submitted their resolution plans in the absence of
+such a provision, responsibility is also being
+entrusted on the committee of creditors to give a
+reasonable period to repay overdue amounts and
+become eligible.
+50. To illustrate the object of the Act, it may be pointed that suppose a
+corporate entity is found to be indulging in an offence punishable under
+Prevention of Corruption Act and material has emerged showing payment of
+illegal gratification by a corporate entity leading to an offence under
+Prevention of Corruption Act, would such a corporate entity be held eligible
+to be a resolution applicant merely because it is not a ‘natural person’? This
+may defeat the very object of the Act.
+51. The concept of vicarious liability and lifting of corporate veil is, now
+not an alien concept even in criminal jurisprudence. A corporate entity
+always acts through human agency and such human agency can always be
+
+30
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+“imprisoned”. The principles laid down in the case of Iridium have been
+affirmed subsequently in “Sunil Bharti Mittal v. CBI─ (2015) 4 SCC 609”.
+Further, it is important to refer the judgment in “K Sitaram & Anr. v. CFL
+Capital Financial Service Limited & Anr.─ (2017) 5 SCC 725”. Para 28
+of the said judgment reads as under:
+“28. With regard to the contention of the
+learned Senior Counsel for the appellants herein that
+there can be no vicarious liability attributed to the
+Director, Deputy Director of a Company unless the
+statute specifically creates so, no doubt, a corporate
+entity is an artificial person which acts through its
+officers, Directors, Managing Director, Chairman, etc.
+If such a company commits an offence involving
+mens rea, it would normally be the intent and action
+of that individual who would act on behalf of the
+company that too when the criminal act is that of
+conspiracy. Thus, an individual who has perpetrated
+the commission of an offence on behalf of the
+company can be made an accused, along with the
+company, if there is sufficient evidence of his active
+role coupled with criminal intent. Second situation in
+which an individual can be implicated is in those
+cases where the statutory regime itself attracts the
+
+31
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+doctrine of vicarious liability, by specifically invoking
+such a provision.”
+52. If this interpretation is applied, Section 29A (d) would read as under:
+“29A. A person shall not be eligible to submit a
+resolution plan, if such person, or any other
+person acting jointly or in concert with such
+person─
+xxx xxx xxx
+(d) has been convicted for any offence punishable
+with imprisonment for two years or more;”
+This means that in a case where a “person acting jointly or in
+concert” [viz an individual natural person acting on behalf of the corporate
+person (proposed resolution applicant)] is “convicted with imprisonment”-
+while acting on behalf of the company- for two years or more, the
+corporate/juristic person would get hit by the embargo under Section 29A
+(d).
+53. It is, therefore, for the ‘Resolution Professional’ while discharging his
+duty under Section 30(3) and by the ‘Committee of Creditors’ while
+discharging its duty under Section 30(4) and thereafter by the Adjudicating
+Authority under Section 31 that each case will have to be examined whether
+Section 29A (d) is attracted or not based upon the above referred
+interpretation depending upon the facts of each case.
+
+32
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+Therefore, it may not serve the ends of justice and may defeat the
+object of the ‘I&B Code’ by completely excluding corporate entities from
+Section 29A (d) of the ‘I&B Code’.
+54. The Hon’ble Supreme Court in “Sube Singh and Ors. Vs. State of
+Haryana and Ors. ─ (1989) 1 SCC 235” held:
+“8. In Bouvier's Law Dictionary, the meaning of the
+word “punishable” has been given as “liable to
+punishment”. In Words and Phrases — Permanent
+Edition, the following meaning has been given:
+“The word ‘punishable’ in a statute
+stating that a crime is punishable by a
+designated penalty or term of years in the
+State prison limits the penalty or term of years
+to the amount or term of years stated in the
+statute.”
+9. The word “punishable” is ordinarily defined as
+deserving of or capable or liable to punishment,
+punishable within statute providing that defendant
+may have ten (sic) peremptory challenges if
+offences charged is “punishable” with death or by
+life imprisonment; means deserving of or liable to
+punishment; capable of being punished by law or
+
+33
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+right, may be punished, or liable to be punished,
+and not must be punished.
+10.Corpus Juris Secundum gives the meaning as:
+“Deserving of, or liable to, punishment;
+capable of being punished by law or right; said of
+persons or offences. The meaning of the term is not
+‘must be punished’, but ‘may be punished’, or
+‘liable to be punished’.”
+In the absence of a definition of “punishable” we
+have referred to these for gathering the exact
+meaning of the word. In the sense given to the
+word, as above, there can be no doubt that the
+offence of murder is punishable with death even
+though the punishment awarded is not death but
+imprisonment for life.
+xxx xxx xxx
+12. “Punishable” carries a meaning “liable to be
+punished” as indicated by the three-Judge Bench.
+Since the offence under Section 302 is punishable
+with death, the provisions of the Punjab Borstal Act
+would not cover an offence under Section 302 of IPC
+and the benefit would not therefore, be available to
+an accused convicted of the offence under Section
+302 of the IPC.”
+
+34
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+55. The expression ‘punishable’ actually qualifies the offence relatable
+thereto and functionally couples the offence with the punishment which
+may be either of imprisonment or fine or both. The word ‘punishable’
+calibrates the range of punishment/sentence for the offence and is
+commensurate thereto as legislatively envisaged. The word used in Section
+29A (d) is ‘punishable’ and not ‘punished’, therefore, the word ‘punishable’ is
+a link between the offence and the penalty prescribed by law depending on
+the gravity of the offence but in no way is an indicator of the viability or
+feasibility of the implementation of the punishment of the convicted. The
+offence so much so that if anyone is convicted of that offence and is
+punishable for the sentence prescribed by way of imprisonment, the
+disqualification, debarment and/or ineligibility stemming from such
+conviction would be attracted, irrespective of the actual punishment
+awarded by the Court.
+Eligibility/Ineligibility of ‘Vedanta Limited’
+56. ‘Vedanta Limited’ is a subsidiary of ‘Vedanta Resources PLC’ which
+holds 50.13% equity in ‘Vedanta Limited’ as per the Annual Report of
+‘Vedanta Resources PLC’ for the year 2017.
+57. ‘Vedanta Resource PLC’ has another subsidiary, ‘KCM’, which was/ is
+undertaking mining operations in Zambia’s Copper belt and Central
+Provinces. ‘Vedanta Resource PLC’ holds equity of 79.4% in KCM as per the
+
+35
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+Annual Report of ‘Vedanta Resources PLC’, therefore, it can be safely stated
+that ‘Vedanta Limited’ is a ‘connected person’ of ‘KCM’.
+58. It is not in dispute that the ‘KCM’ has been held guilty with regard to
+four offences relating to pollution on 25th November, 2010 by the
+Subordinate Court of First Class for the Chingola District Holden at
+Chingola, Zambia (Criminal Jurisdiction), for which three counts fine has
+been imposed.
+59. Section 91(1) of the Zambia Act, for which ‘KCM’ has been held guilty,
+which reads as follows:
+“91. (1) A person who pollutes the environment or
+contravenes any provision of this Act for which no
+penalty is provided shall be guilty of an offence and
+liable upon conviction to a fine not exceeding fifteen
+thousand penalty units or to imprisonment for a term
+not exceeding three years or to both.
+60. The question arises for consideration is whether offence which is
+punishable under Section 91(1) of the Zambia Act, is corresponding to
+clause (d) of Section 29 A of the ‘I&B Code’, which reads as follows:
+"29A. Persons not eligible to be resolution
+applicant. ─(d) has been convicted for any offence
+
+36
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+punishable with imprisonment for two years or
+more;”
+61. Before deciding such issue, it is desirable to notice decision of the
+Hon’ble Supreme Court in “Standard Chartered Bank and Ors. Vs.
+Directorate of Enforcement and Ors.─ (2004) 4 SCC 530” wherein the
+Hon’ble Supreme Court observed:
+“63. There appears to be a difference of
+opinion amongst the learned counsel assailing the
+correctness of the majority view in Velliappa [(2003)
+11 SCC 405 : 2004 SCC (Cri) 1214] as to whether
+the task of the Court in the case on hand is one of
+statutory interpretation. Some counsel have
+argued that it is open to the court to read the
+words “imprisonment and fine” as
+“imprisonment or fine”. In our view, such a
+construction is impermissible. First, it
+virtually amounts to rewriting of the section.
+The court would be reading the section as
+applicable to different situations with
+different meanings. If the offender is a
+corporate entity, then only fine is imposable;
+if the offender is a natural person, he shall be
+visited with both the mandatory term of
+
+37
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+imprisonment and fine. The exercise would
+then become one of putting a fluctuating or
+varying interpretation on the statute
+depending upon the circumstances. That is not
+permissible for the court, either on principle, or on
+precedent. While it may be permissible for the court
+to read the word “and” as “or”, or vice versa,
+whatever the interpretation, it must be uniformly
+applied to all situations. If the conjunction “and” is
+read disjunctively as “or”, then the intention of
+Parliament would definitely be defeated as the
+mandatory term of imprisonment would not be
+available even in the case of a natural person. We
+have not been shown any authority for the
+proposition that it is open to the court to put an
+interpretation on a statute which could vary with
+the factual matrix.
+64. Secondly, when a statute says the court
+shall impose a term of “imprisonment and a
+fine”, there is no option left in the court to
+say that under certain circumstances it would
+not impose the mandatory term of
+imprisonment. It is trite principle that punishment
+must follow the conviction.
+
+38
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+66. Thirdly, if on the words used by the
+legislature it is impossible to effectuate the
+intention of the legislation, namely, to punish
+a company to imprisonment, it is not possible
+to read the section in any other manner to
+impose any other punishment on the offender.
+“[W]e cannot aid the legislature's defective
+phrasing of the statute; we cannot add, and
+mend, and, by construction, make up
+deficiencies which are left there”, said the
+Judicial Committee in Crawford v. Spooner, MIA at
+p. 187. In other words, the language of Acts of
+Parliament and more especially of the modern Acts,
+must neither be extended beyond its natural and
+proper limits, in order to supply omissions or
+defects, nor strained to meet the justice of an
+individual case.”
+62. In “S.P.K. Dhamodhar Vs. Narayanasamy─ 2010 (5) CTC 734” ,
+the Hon’ble High Court of Madras was considering the provisions of Section
+33-A(1)(i) of the Representation of the People Act, 1951, therein distinction
+between the provision of Sections 499 and 500 of the Indian Penal Code,
+1860 was noticed. The punishment for defamation, prescribed under Section
+500 of the Indian Penal Code, 1860, is ‘simple imprisonment’ for a term
+which may extend to two years or with fine or with both was held to be not
+
+39
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+similar to that of offence punishable with two years or more as prescribed
+under Section 33(A)(1)(i) of the Representation of the People Act, 1951.
+63. From the aforesaid findings, it is clear that the word used by the
+legislature to effectuate the intention of the legislation to punish a person for
+imprisonment, i.e. “has been convicted for any offence punishable with
+imprisonment for two years or more”, cannot be read in any other
+manner to equate the same with any other punishment on the offender.
+64. In this context, we may refer to Section 441 of the Companies Act,
+2013, which relates to ‘compounding of certain offences’ whether committed
+by the Company or any Officer thereof, relevant of which reads as follows:
+“441. Compounding of certain offences.─ (1)
+Notwithstanding anything contained in the Code of
+Criminal Procedure, 1973 (2 of 1974) any offence
+punishable under this Act (whether committed by a
+company or any officer thereof) with fine only, may,
+either before or after the institution of any
+prosecution, be compounded by—
+(a) the Tribunal; or
+ xxx xxx xxx
+(6) Notwithstanding anything contained in the Code
+of Criminal Procedure, 1973 (2 of 1974) —
+
+40
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+(a) any offence which is punishable under
+this Act, with imprisonment or fine, or with
+imprisonment or fine or with both, shall be
+compoundable with the permission of the
+Special Court, in accordance with the
+procedure laid down in that Act for
+compounding of offences;
+(b) any offence which is punishable under
+this Act with imprisonment only or with
+imprisonment and also with fine shall not be
+compoundable.”
+65. From sub-section (6) of Section 441 of the Companies Act, 2013, it is
+clear that the offence which is punishable under the said Act, with
+imprisonment or fine, or with imprisonment or fine or with both, has not
+been treated to be similar to any offence which is punishable under the
+said Act with imprisonment only or with imprisonment and fine. While the
+offence which is punishable with imprisonment or fine, or with
+imprisonment or fine or with both have been made compoundable by the
+Tribunal with the permission of the Special Court, the offence which is
+punishable with imprisonment only or with imprisonment with fine cannot
+be compounded by the Tribunal, being severe punishment.
+
+41
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+66. Severity of punishment is dependent on the gravity of offence.
+Therefore, to find out the similarity between the punishment, it is required
+to notice whether severity of one or other punishment is similar or not.
+67. The Zambia Act do not use the word “offence punishable” as used in
+Section 29A (d) on conviction. For the offence prescribed under Section 91(1)
+of the Zambia Act punishment prescribed is that the person “liable upon
+conviction to a fine not exceeding fifteen thousand penalty units or to
+imprisonment for a term not exceeding three years or to both”.
+68. The word ‘punishable’ having not used in Section 91(1) of the Zambia
+Act and the severity of punishment being lessor than the offence
+“punishable with imprisonment for two years or more” having no alternative
+penalty of fine, Section 91(1) of the Zambia Act cannot be said to be similar
+to Section 29A (d) of the ‘I&B Code’.
+69. Section 29A (d) stipulates imprisonment without fine which in its turn
+apply to ‘natural persons’ alone. However, if the offence would have been
+punishable with imprisonment or fine, such provision could have been
+applicable to both the ‘corporate person’ and to ‘natural person’.
+70. The offence punishable with imprisonment of two years or more as
+prescribed under Section 29A (d) is more severe in nature than the offence
+punishable with imprisonment or fine as stipulated under Section 91(1) of
+the Zambia Act. Therefore, we find that the offence punishable under
+
+42
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+Section 91(1) of the Zambia Act cannot be held to be corresponding to clause
+(d) of Section 29A of the ‘I&B Code’, which is more severe.
+71. However, a ‘Corporate Person’ even if not convicted for any offence
+punishable with imprisonment for two years or more as prescribed under
+Section 29A (d), shall be ineligible to submit a ‘Resolution Plan’, if it is found
+that the other person acting jointly or in concert with such person (natural
+person) has been convicted for any offence punishable with imprisonment
+for two years or more. If a ‘connected person’ is not eligible under clause (d)
+of Section 29A, being a ‘natural person’ convicted for any offence punishable
+with imprisonment for two years or more as prescribed under Section 29A
+(d), in such case also a ‘Corporate Person’ will become ineligible, even
+though Section 29A (d) is not attracted directly to the ‘corporate person’
+(juristic person).
+72. ‘Konkola Copper Mines’ was convicted for the offence punishable
+under Section 91(1) of Zambia Act with a fine not exceeding fifteen thousand
+penalty units or to imprisonment for a term not exceeding three years or to
+both. Though we hold that the offence for which the aforesaid punishment
+prescribed is not corresponding to clause (d) of Section 29 A, it is to be seen
+whether ‘connected person’, if an individual (natural person) has been
+punished or not. But no such allegation has been made that any of the
+Director of ‘Konkola Copper Mines’ was convicted for the offence punishable
+with imprisonment of two years or more.
+
+43
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+73. For the said reasons, we hold that ‘Konkola Copper Mines’, who is a
+‘connected person’ of ‘Vedanta Limited’ is not covered by clause (d) of
+Section 29A of the ‘I&B Code’.
+74. In view of the aforesaid findings, we hold that ‘Vedanta Limited’ is
+eligible and clause (d) of Section 29A of the ‘I&B Code’ is not attracted in its
+case.
+‘Tata Steel Limited’/ ‘Tata Steel UK’
+75. ‘Tata Steel UK’ is the ‘connected person’ who has been found guilty on
+two counts under the ‘U.K Act’ vide an order dated 2nd February, 2018 for
+failing to discharge its duties under Section 2(1) of the ‘U.K Act’ convicted
+under Section 33 (1) (a) of the ‘U.K Act’.
+76. Schedule 3A of the ‘U.K Act’ provides mode of trial and maximum
+penalty, relevant of which reads as follows:
+“The mode of trial and maximum penalty applicable to each offence listed in
+the first column of the following table are as set out opposite that offence in
+the subsequent columns of the table.
+Offence Mode of trial Penalty on
+summary
+conviction
+Penalty on
+conviction on
+indictment
+An offence under Summarily or Imprisonment Imprisonment for a
+
+44
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+section 33(1) (a)
+consisting of a failure to
+discharge a duty to
+which a person is
+subject by virtue of
+sections 2 to 6.
+on indictment. for a term not
+exceeding 12
+months, or a
+[fine], or both.
+term not exceeding
+two years, or a fine,
+or both.
+An offence under
+section 33(1) (a)
+consisting of a failure to
+discharge a duty to
+which a person is
+subject by virtue of
+section 7.
+Summarily or
+on indictment.
+Imprisonment
+for a term not
+exceeding 12
+months, or a
+[fine], or both.
+Imprisonment for a
+term not exceeding
+two years, or a fine,
+or both.
+ ”
+77. Penalty on conviction on indictment for the offence under Section
+33(1) (a), punishment of imprisonment for a term not exceeding two years,
+or a fine, or both, has been prescribed. However, the language of Section
+29A (d) prescribes disqualification for offence punishable with imprisonment
+of two years or more. In the ‘U.K Act”, the word ‘punishable’ has not been
+mentioned, therein term of ‘imprisonment’ has been prescribed with
+alternative punishment of fine.
+78. In the case of ‘Tata Steel UK’, the penalty on conviction on indictment
+under Section 33(1)(a) of the ‘U.K Act’ prescribes ‘imprisonment for a term
+not exceeding twelve months, or a fine, or both’. The provision in Section
+29A (d) which stipulates “has been convicted for any offence punishable with
+
+45
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+imprisonment for two years or more”, cannot be equated with Section 33(1)(a)
+of the ‘U.K Act’.
+79. The severity for the offence under Section 29A (d) is much more than
+the severity of offence punishable under Section 33(1) (a) of the ‘U.K Act’. In
+terms of the ‘U.K Act’, a person whether juristic or natural, they can be
+punished with alternative punishment of fine but the offence punishable as
+per Section 29A (d) being severe, as no such alternative punishment can be
+imposed. Therefore, we hold that Section 33(1) (a) of the ‘U.K Act’ is not
+similar nor corresponding to clause (d) of Section 29A of the ‘I&B Code’.
+80. For the said reason, we hold that ‘Tata Steel UK’, which is the
+‘connected person’ of ‘Tata Steel Limited’, does not attract the disability
+under Section 29A of the ‘I&B Code’ and for the said reason, we also hold
+that ‘Tata Steel Limited’ is eligible to file the ‘Resolution Plan’.
+Claim of ‘Larsen and Toubro Limited’- (‘Operational Creditor’)
+81. The Appellant- ‘Larsen and Toubro Limited’- (‘Operational Creditor’)
+(hereinafter referred to as “L&T”) has also challenged the order dated 15th
+May, 2018, challenging the cost of Rs. 1,00,000/- (Rupees One Lakh Only)
+imposed by the Adjudicating Authority on the Appellant- ‘L&T’.
+82. Learned counsel appearing on behalf of the Appellant submitted that
+the Adjudicating Authority failed to appreciate that the Successful
+
+46
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+‘Resolution Applicants’ (‘Tata Steel Limited’) cannot exercise any discretion
+over allocation of the amounts Rs. 1200 crores to be paid to the ‘Operational
+Creditors’. Reliance has been placed on Section 55(4)(b) of the Transfer of
+Property Act, 1883 and submitted that the said provision creates a statutory
+charge in favour of the Appellant, which cannot be extinguished by the
+‘Resolution Applicant’ taking recourse of the ‘I&B Code’.
+83. However, such submission cannot be accepted as the ‘Resolution
+Applicant’ is to file ‘Resolution Plan’ in the manner as prescribed under the
+‘I&B Code’ and the Regulations framed thereunder.
+84. Section 30(2) of the ‘I&B Code’ mandates the ‘Resolution Professional’
+to examine each ‘Resolution Plan’ received by him. The ‘Resolution
+Professional’ is required to ensure that the ‘Resolution Plan’ confirm
+payment of insolvency resolution process costs in a manner specified by the
+Board in priority to the repayment of other debts of the ‘Corporate Debtor’
+(clause (a)) and provides for repayment of the debts of ‘Operational Creditors’
+in such manner as may be specified by the Board which shall not be less
+than the amount to be paid to the ‘Operational Creditors’ in the event of a
+liquidation of the ‘Corporate Debtor’ under Section 53 (clause (b)). In view of
+the specific provisions and Section 30(2) (b), the Appellant cannot derive any
+advantage out of Section 55(4)(b) of the Transfer of Property Act, 1883.
+85. It was brought to our notice that the admitted claim of all the
+‘Operational Creditors’ is approximately Rs. 1,422 crores and the ‘Resolution
+
+47
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+Applicant’ has allocated Rs. 1,200 crores for payment in favour of the
+‘Operational Creditors’ i.e. about 83% of the dues. The main grievance of the
+Appellant is that the allocation has been made by the ‘Resolution Applicant’-
+(‘Tata Steel Limited’) with certain discretion, which is not permissible.
+86. Learned Senior Counsel appearing on behalf of the ‘Tata Steel Limited’
+submitted that as per the ‘I&B Code’, liquidation value of ‘Bhushan Steel
+Limited’ was computed at Rs. 14,541/- crores which was less than the
+outstanding financial debt of the ‘Corporate Debtor’ which is Rs. 56,051/-
+crores.
+87. It was also submitted that if the ‘Corporate Debtor’ goes into
+liquidation as per Section 53 the ‘Operational Creditors’ would be entitled to
+‘NIL’ amount.
+88. It was submitted that the ‘Resolution Professional’ as on 8th January,
+2018 verified and admitted amount owed to the ‘Operational Creditors’ to
+the extent of Rs. 1,050 Crores approximately. It is informed that as per the
+‘Resolution Plan’, the claim of the ‘Operational Creditors’ will be settled to
+the extent of Rs. 1,200 Crores within a period of twelve months.
+89. It is stated that the ‘Tate Steel Limited’ verily believes that the
+aforesaid amount subsequently increased to Rs. 1,422 Crores is the
+substantial amount offered towards meeting ‘Operational Creditors’ claims,
+as long as they meet the requirements of the ‘Resolution Plan’.
+
+48
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+90. It is informed that Rs. 1,200 crores will be payable to ‘Operational
+Creditors’ within 12 months from the closing date i.e. 18th May, 2018
+excluding employees and workmen. The said amount will be distributed in
+the following manner:
+a) Rs. 200 cores will be paid on a pro rata basis to the ‘Operational
+Creditors’ other than employees and workmen and related party
+‘Operational Creditors’; and
+b) Rs. 1,000 crores will be paid to capital and sundry creditors
+based on the criticality vis-à-vis the continued business viability
+of ‘Bhushan Steel Limited’ at discretion of the ‘Resolution
+Applicant’, to be exercised based on the criteria specified in the
+‘Resolution Plan’.
+91. It is stated that Rs. 1,000 crores is based on cogent, commercial and
+intelligible criteria and any ‘Operational Creditor’ falling within the said
+criteria will be treated equally.
+92. On hearing counsel for the parties and taking into consideration the
+submissions made by the counsel for the Appellant- ‘Operational Creditor’
+and the Respondents, we hold that the ‘Resolution Plan’ submitted by ‘Tata
+Steel Limited’ is fair and equitable to all the Creditors, including the
+‘Operational Creditors’, therefore, no interference is called for.
+
+49
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+Brij Bhushan Singal
+93. The grievance of the Appellant- ‘Mr. Brij Bhushan Singal’ is against
+the ‘Resolution Plan’ submitted by the ‘Tata Steel Limited’ as approved by
+the Adjudicating Authority.
+94. It was submitted that the approval of the ‘Resolution Plan’ is illegal as
+it purports to transfer the ‘preference shares’ of the ‘preference shareholders’
+of ‘Bhushan Steel Limited’ unilaterally and without their consent for a fixed
+consideration of Rs. 100/- as against Rs. 2269 crores.
+95. It was submitted that the Adjudicating Authority ought to have
+rejected the ‘Resolution Plan’ as it is illegal in so much as its implementation
+has led to automatic redemption and cancellation of the preferential shares
+of the Appellants.
+96. It was submitted that the ‘Resolution Plan’ is violative of Section 55 of
+the Companies Act, 2013.
+97. As per ‘I&B Code’, the shareholders are not treated to be creditors. It
+is the promoters/shareholders who are responsible for initiation of
+‘Corporate Insolvency Resolution Process’ which resulted due to non-payment of dues of the ‘Financial Creditor(s)’ and/or the ‘Operational
+Creditor(s)’, apart from ‘Secured Creditor(s)’ or ‘Unsecured Creditor(s)’.
+Therefore, there is no scope for argument left to the shareholders or any
+
+50
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+party holding similar documents that a sanction is required under one or
+other provisions of law.
+98. The ‘Resolution Plan’ automatically does not amount to transfer or
+reduction of shares, including preferential shareholding. It is merely a
+proposal of one or other ‘Resolution Applicants’ and once it is approved by
+the ‘Committee of Creditors’ and thereafter by the ‘Adjudicating Authority’
+under Section 31, will be binding on all the stakeholders, including the
+‘Corporate Debtor’, ‘Members’ (shareholders), ‘Financial Creditors’,
+‘Operational Creditors’ etc. If the provision of Section 55 of the Companies
+Act, 2013 is to be complied, it can be complied only after the approval of the
+‘Resolution Plan’. Before the approval of the ‘Resolution Plan’ is approved by
+the Adjudicating Authority, the ‘Resolution Plan’ being mere a proposal, the
+question of following Section 55 of the Companies Act, 2013 does not arise.
+99. For the reasons aforesaid, we are not inclined to interfere with the
+impugned order dated 15th May, 2018.
+Application filed by the Divisional Forest Officer, Bokaro Forest
+Division, Department of Forests & Environment, Government of
+Jharkhand, Bokaro.
+100. The Government of Jharkhand has taken plea that part of the land
+shown in the ‘Resolution Plan’ do not belong to ‘Electrosteel Steels Limited.’-
+(‘Corporate Debtor’). Forest land, as was notified by the Government of
+
+51
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+India, 1958, is in illegal possession of the ‘Bhushan Steel Limited’, which
+has also been reflected in the ‘Resolution Plan’.
+101. It is not in dispute that the Government of Jharkhand and its Officers
+have already initiated recovery proceedings against the ‘Corporate Debtor’
+for recovering the alleged forest lands alleged to have been encroached by
+the ‘Corporate Debtor’; litigations are pending in different Courts. In this
+background, after hearing the counsel for the ‘Resolution Professional’, the
+Adjudicating Authority held that the ‘Resolution Applicant’- ‘Vedanta
+Limited’ is aware of the proceedings and that whatever assets held by the
+‘Corporate Debtor’ alone is to be taken over. If the title of land is defective, it
+cannot be cured upon taking over the assets of the ‘Corporate Debtor’ by the
+‘Resolution Applicants’. The Adjudicating Authority for the said reason held
+that remedy available to the Applicant/State of Jharkhand and its Officers,
+having already initiated and pending against the ‘Corporate Debtor’, allowing
+or rejecting the ‘Resolution Plan’ will not affect the legal remedy.
+102. We find no reason to differ with aforesaid observation of the
+Adjudicating Authority as it is always open to the State of Jharkhand and its
+Officers to act in terms of the decisions, if any, given by the Court of
+Competent Jurisdiction where litigations are pending with regard to
+disputed land in question.
+103. For the reasons aforesaid, we are not inclined to interfere with the
+impugned order dated 17th April, 2018 passed in the case of the
+
+52
+Company Appeals (AT) (Insolvency) Nos. 175, 223, 221, 233, 267 & 357 of 2018
+‘Electrosteels Steel India Ltd’ in CA (IB) No. 277/KB/2018, CA (IB) No.
+271/KB/2018, CA (IB) No. 281/KB/2018 and CA (IB) No. 361/KB/2017,
+which are under challenge in the Company Appeal (AT) (Insolvency) No. 175
+of 2018 and in the Company Appeal (AT) (Insolvency) No. 223 of 2018. They
+are accordingly dismissed.
+104. For the same very reason, we are not inclined to interfere with the
+order dated 15th May, 2018, passed by the Adjudicating Authority in the
+case of ‘Bhushan Steel Limited’ under challenge in Company Appeals (AT)
+(Insolvency) Nos. 221, 233, 267 & 357 of 2018. They are accordingly
+dismissed. However, in the facts and circumstances of the case, there shall
+be no order as to cost.
+(Justice Bansi Lal Bhat) (Justice S.J. Mukhopadhaya)
+ Member (Judicial) Chairperson
+
+NEW DELHI
+10th August, 2018
+AR
