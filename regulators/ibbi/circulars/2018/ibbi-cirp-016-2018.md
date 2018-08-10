@@ -1,0 +1,106 @@
+---
+title: "Notice for Meetings of the Committee of Creditors"
+kind: "circular"
+number: "IBBI/CIRP/016/2018"
+issued: "2018-08-10"
+in_force: "2018-08-10"
+issuer: "Insolvency and Bankruptcy Board of India"
+source_url: "https://ibbi.gov.in/legal-framework/circulars?page=5"
+official_text: "https://ibbi.gov.in//webadmin/pdf/legalframwork/2018/Aug/coccircular-1_2018-08-10193907.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Notice for Meetings of the Committee of Creditors
+
+Insolvency and Bankruptcy Board of India
+7th Floor, Mayur Bhawan, Connaught Place, New Delhi-110001
+
+                        CIRCULAR
+
+No. IBBI/CIRP/016/2018                                              10th August, 2018
+
+To
+All Registered Insolvency Professionals
+All Recognised Insolvency Professional Entities
+All Registered Insolvency Professional Agencies
+(By mail to registered email addresses and on website of the IBBI)
+
+Dear Madam / Sir,
+
+Sub: Notice for Meetings of the Committee of Creditors under section 24 (3) (a) of the
+Insolvency and Bankruptcy Code, 2016 read with regulation 21 of the Insolvency and
+Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons)
+Regulations, 2016
+
+The Insolvency and Bankruptcy Code, 2016 (Code) confers certain privileges on financial
+creditors on the premise, as reasoned by the Bankruptcy Law Reforms Committee:
+
+“The Committee deliberated on who should be on the creditors committee, given the power of
+the creditors committee to ultimately keep the entity as a going concern or liquidate it. The
+Committee reasoned that members of the creditors committee have to be creditors both with the
+capability to assess viability, as well as to be willing to modify terms of existing liabilities in
+negotiations. Typically, operational creditors are neither able to decide on matters regarding
+the insolvency of the entity, nor willing to take the risk of postponing payments for better future
+prospects for the entity. The Committee concluded that, for the process to be rapid and efficient,
+the Code will provide that the creditors committee should be restricted to only the financial
+creditors.”
+
+2. As members of the committee of creditors (CoC), the financial creditors discharge several
+critical responsibilities, including invitation, receipt, consideration and approval of resolution
+plans under the Code. Their conduct has serious implications for continued business of a
+corporate debtor and consequently on the economy. The Hon’ble Adjudicating Authority has
+expressed concern about their conduct in a few matters.
+
+3. By order dated 7th June, 2018 in the matter of SBJ Exports & Mfg. Pvt. Ltd. Vs. BCC Fuba
+India Ltd. (CP-659/2016), the Hon’ble Adjudicating Authority observed: “.. An unenviable
+situation has been created by the conduct of the members of the CoC. Despite the fact that the
+Resolution Professional apprised the CoC that the period of 180 days is to expire on 12.02.2018
+and sanction be granted for moving an application before the Adjudicating Authority for
+extension of the period. The CoC has behaved the way we have recorded in the preceding
+paras.”. It further observed: “A strange phenomena has developed in so far as the functioning
+of the CoC is concerned. In a number of cases it has now been seen that Members of the CoC
+are nominated by Financial Creditors like Banks without conferring upon them the authority to
+take decision on the spot which acts as a block in the time bound process contemplated by the
+Insolvency and Bankruptcy Code, 2016. Such like speed breakers and roadblocks obviously
+cause obstacles to achieve the targets of speedy disposal of the CIR process.”. It directed: “In
+view of the above we direct the Resolution Professional to bring this order to the notice of the
+
+CoC so that appropriate steps be taken. A copy of this order be sent to the Insolvency and
+Bankruptcy Board of India for taking suitable action in respect of the conduct of the Members
+of CoC in the present matter as well as in the day to day functioning of the Members of CoC
+generally speaking.”.
+
+4. In the other matter of Jindal Saxena Financial Services Pvt. Ltd. Vs. Mayfair Capital Private
+Limited (C.P. No. (IB)-84(PB)/2017), the Hon’ble Adjudicating Authority noted that there were
+four financial creditors who attended the first meeting of the CoC. In the said meeting, the CoC
+did not approve appointment of interim resolution professional (IRP) as resolution professional
+(RP) since two of the four financial creditors, having aggregate voting rights of 77.97% required
+internal approvals from their competent authorities. It observed: “We deprecate this practice.
+The Financial Creditors/Banks must send only those representatives who are competent to take
+decisions on the spot. The wastage of time causes delay and allows depletion of value which is
+sought to be contained. The IRP/RP must in the communication addressed to the
+Banks/Financial Creditors require that only competent members are authorized to take decisions
+should be nominated on the CoC. Likewise, Insolvency and Bankruptcy Board of India shall take
+a call on this issue and frame appropriate Regulations.”.
+
+5. Section 24 (3) (a) of the Code requires the resolution professional to give notice of each
+meeting of the CoC to members of the CoC and other persons. Regulation 21 of the Insolvency
+and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons)
+Regulations, 2016 specifies the content of the notice for meetings of the CoC.
+
+6. In view of the above, the interim resolution professional or the resolution professional, as the
+case may be, is directed that he shall, in every notice of meeting of the CoC and any other
+communication addressed to the financial creditors, other than creditors under section 21 (6A)
+(b), require that they must be represented in the CoC or in any meeting of the CoC by such
+persons who are competent and are authorised to take decisions on the spot and without deferring
+decisions for want of any internal approval from the financial creditors.
+
+7. This Circular is issued in exercise of powers under section 196 (1) (aa) read with 196 (1) (g)
+of the Insolvency and Bankruptcy Code, 2016.
+
+                                                                                               Yours faithfully,
+                                                                                                     -Sd-
+
+                                                                                              (Ranjeeta Dubey)
+                                                                                              General Manager
+                                                                                 Email: ranjeeta@ibbi.gov.in
