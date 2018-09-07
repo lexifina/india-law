@@ -1,0 +1,909 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Company) No. 57 of 2018"
+decided: "2018-09-07"
+section: "Company"
+court: "Court - 2"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/20783459115b92512b07c39.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Company) No. 57 of 2018, 2018-09-07
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+NEW DELHI
+Company Appeal (AT) No.57 of 2018
+[Arising out of Order dated 19.12.2017 passed by National Company Law
+Tribunal, Principal Bench, New Delhi in C.P. No.24(ND)/397-398/241-
+242/NCLT N.D. of 2016]
+AND
+Company Appeal (AT) No.370 of 2017
+[Arising out of Order dated 04.09.2017 passed by National Company Law
+Tribunal, Principal Bench, New Delhi in C.P. No .24(ND)/397-398/241-
+242/NCLT/N.D. of 2016]
+IN THE MATTER OF:
+VLS Finance Limited
+2nd Floor, 13 Sant Nagar,
+East of Kailash, New Delhi – 110065
+…Appellant
+Versus
+1. Southend Infrastructure Private Ltd.
+B-14, Chirag Enclave,
+New Delhi – 110 048
+2. Dinesh Kumar Gupta
+House No.56, Navjeevan Vihar,
+Malviya Nagar, New Delhi – 110 017
+3. Madhu Gupta
+House No.56, Navjeevan Vihar,
+Malviya Nagar, New Delhi – 110 017
+4. Anuj Kumar Agarwal
+D-11/143, Sector – 8, Pocket 11,
+Rohini, Delhi 110 085
+
+2
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+5. Priyanka Gupta
+A-2, Chirag Enclave,
+New Delhi 110 048
+6. Kamal Chand Jain
+A-22, Chief Commissioner Colony,
+Rana Pratap Bagh,
+Delhi – 110 007
+7. Chhaya Jain
+F-56, Preet Vihar,
+Delhi 110 092
+8. Reetu Jain
+F-56, Preet Vihar,
+Delhi 110 092
+9. Subhash Chand Jain
+A-22, Chief Commissioner Colony,
+Rana Pratap Bagh,
+Delhi – 110 007
+10. Anita Jain
+A-22, Chief Commissioner Colony,
+Rana Pratap Bagh,
+Delhi – 110 007
+11. Rajesh Jain
+A-22, Chief Commissioner Colony,
+Rana Pratap Bagh,
+Delhi – 110 007
+12. Churasia Holdings Pvt. Ltd.
+6/3, East Patel Nagar,
+Delhi 110 008
+13. Ms. Sunaini Gupta
+W/o Mr. Sushant Mohan Gupta
+House No.1, Underhill Lane
+Civil Lines, New Delhi 100 054
+
+3
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+14. Ms. Renu Munjal
+W/o Mr. Raman Kant Munjal
+B-109, Greater Kailash Part – I,
+New Delhi 110 048
+15. Smt. S. Jasbir Singh Riar
+W/o Shri Sampuran Singh Riara
+Sardar Farm House, Village Bajekhan,
+Sirsa, Haryana
+16. BMS IT Institute Pvt. Ltd.
+56, Navjeevan Vihar
+New Delhi 110017
+17. Neelamber Associates Pvt. Ltd.
+B-2/97, Mohan Co-operative Industrial Estate
+New Delhi – 110 044
+18. NPMG Developers Limited
+B-14, 111rd Floor
+Chiraag Enclave
+New Delhi 110048
+19. Parkland Hospitality Limited
+E-19, Defence Colony
+New Delhi 110 024
+20. Parkland Meadows & Hospitality Limited
+E-19, Defence Colony
+New Delhi 110 024
+21. Cadillac Infotech Pvt. Ltd.
+E-4 Defence Colony
+New Delhi 110 024
+…Respondent Nos.1 to 21
+(Original Respondent Nos.1 to 21)
+22. Vikrant Puri
+S-60, Panchsheel Park,
+New Delhi – 110 017
+…Respondent No.22
+(Original Petitioner)
+(Cause title same in CA 370/2017 as in CA 57/2018)
+
+4
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+Company Appeal (AT) No.57 of 2018
+Present: Shri Vinay Kumar Garg, Sr. Advocate with Shri Harish Pandey,
+Shri Ashok Kumar Sharma, Shri Harsh Allagh and Ms. Noopur
+Dubey, Advocates for the Appellant
+Shri Amit S. Chadda, Sr. Advocate with Shri A.T. Patra, Shri
+Gautam Khaitan and Ms. Srishti Govil, Advocates for
+Respondent No.22
+Shri Ashish Aggarwal and Shri Gurcharan Singh, Advocate for
+Respondent Nos.6 to 11
+Shri Kaustubh Sinha, Advocate for Respondent No.12
+Ms. Lucky Palta and Shri Pulkit Deora, Advocate for
+Respondent Nos.13, 14 & 21
+Company Appeal (AT) No.370 of 2017
+Present: Shri Brijender Chahar, Sr. Advocate with Shri Harish Pandey,
+Shri Ashok Kumar Sharma and Shri Harsh Allagh, Advocates
+for the Appellant
+Shri Amit S. Chadha, Sr. Advocate with Shri A.T. Patra, Shri
+Gautam Khaitan and Ms. Srishti Govil, Advocates for
+Respondent No.22
+Shri Ashish Aggarwal and Shri Gurcharan Singh, Advocate for
+Respondent Nos.6 to 11
+Shri Kaustubh Sinha and Shri Umesh Choubey, Advocates for
+Respondent No.12
+Ms. Lucky Palta and Shri Pulkit Deora, Advocates for
+Respondent Nos.13, 14 & 21
+J U D G E M E N T
+A.I.S. Cheema, J. :
+1. Respondent No.22 – Original Petitioner (hereinafter referred as
+“Petitioner”) filed CP 24/2016 against Respondents 1 to 12. Later on,
+taking orders dated 25.01.2017 from National Company Law Tribunal (in
+
+5
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+short, ‘NCLT’), Respondents 13 to 21 were added as creditors in NCLT, New
+Delhi. Company Petition had come up before the Principal Bench. The
+Petition was filed under Sections 397 and 398 of the companies Act, 1956
+(‘old Act’, in brief). The Appellant filed CA 211/2016 in the Company
+Petition for impleadment. However, the NCLT vide Orders dated
+04.09.2017 did not allow the impleadment holding the Appellant as neither
+necessary nor proper party but allowed the Appellant only to intervene.
+The Appellant being aggrieved by such Order, impugned the same by filing
+Company Appeal 370/2017. In CA 370/2017, Notice was issued on
+07.11.2017 and it was directed that in the meantime, any Order passed by
+the Tribunal shall be subject to decision of the said Appeal 370 of 2017.
+1.1 During the pendency of CA 370/2017 in this Appellate Tribunal,
+the original Petitioner filed application – CA 459/2017 in the Company
+Petition in NCLT seeking permission to withdraw the Company Petition.
+The same came up before the NCLT on 19.12.2017 and the learned NCLT
+dismissed the Company Petition as withdrawn in view of the statement
+that the counsel had instructions to withdraw the Petition, as the matter
+was stated to have been amicably settled and it was stated that all interim
+orders would stand vacated and the affairs of the Company shall be
+transacted in accordance with law. This Order dated 19.12.2017 is
+impugned by the Appellant in CA 57 of 2018.
+2. We have heard counsel for both sides in both these Appeals. The
+main arguments have been submitted in Company Appeal 57/2018
+
+6
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+concentrating on whether the NCLT could have permitted the withdrawal
+of the Company Petition. If the withdrawal is upheld, CA 370/2017 would
+become infructuous and thus the parties have concentrated their
+arguments in CA 57/2018. We will be referring to pleadings and
+documents mainly from the file of Company Appeal 57/2018 except where
+we specifically mention to anything from the record of CA 370/2017.
+3. The Appellant – VLS Finance Limited is admittedly not a member
+or shareholder of Respondent No.1 Company. The Appellant, however,
+claims that it was approached by Respondent No.2 – Dinesh Kumar Gupta
+on behalf of BMS IT Institute (Respondent No.16) as well as other
+Respondents 3 to 10 as arrayed in OMP 383/2012 (which has been filed
+by the Appellant in the Hon’ble High Court of Delhi at New Delhi.)
+Parties common in present Appeal with those in OMP 383/2012
+are:-
+In CA 57/2018 In OMP 383 in
+High Court
+1) VLS Finance Ltd. Appellant Petitioner
+2) BMS IT Institute Pvt. Ltd. Respondent No.16 Respondent No.1
+3) Dinesh Gupta Respondent No.2 Respondent No.2
+4) Ms. Madhu Gupta Respondent No.3 Respondent No.3
+5) Subhash Chand Respondent No.9 Respondent No.8
+(as for HUF)
+6) NPMG Developers Ltd. Respondent No.18 Respondent No.11
+7) Southend Infrastructure Respondent No.1 Respondent No.12
+ Pvt. Ltd.
+
+7
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+3.1 According to the Appellant, Respondent No.2 with the other
+Respondents as arrayed in OMP are promoters of Respondent No.16 - BMS
+IT who sought investment in BMS to co-develop a plot of land measuring
+34275 sq. meters situated at Sector – 62, NOIDA. BMS was developing IT
+enabled services on the land which was leased and on 12.07.2007, an
+agreement for contribution towards equity was signed between the
+Appellant and BMS as well as Respondent No.2 and other Respondents as
+arrayed in the OMP. It was later on supplemented by supplementary
+agreement dated 24th September, 2007. There were disputes and due to
+Arbitration Clause, the matter was referred to Arbitration. Prior to
+commencement of arbitration proceedings, in OMP 383/2012 certain
+orders were passed.
+3.2 To understand the grievance of the Appellant, a brief reference
+needs to be made to the said litigation.
+The Litigation initiated by Appellant in Delhi High Court
+4. The Appellant claims that it had filed OMP 383/2012 in which vide
+Orders dated 27.04.2012 present Respondent No.1 – Southend
+Infrastructure was restrained from dealing with its immovable properties.
+The Order dated 27.04.2012 of the Hon’ble High Court (Annexure A2 –
+Page 76) reads as under:-
+“1. Issue notice to the Respondents, returnable on 4th
+September 2012.
+
+8
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+2. Till the next date of hearing, Respondents 2 to 12
+are restrained from alienating, selling, transferring,
+mortgaging, encumbering, disposing of or in any manner
+dealing with their immovable properties. The
+Respondents will, within four weeks of the service of
+notice, file affidavits indicating the list of their moveable
+and immovable properties including bank balances.”
+Appellant argues that the list of movables which would include
+shares, was sought so that further restraint Orders could be passed; but
+that, the lists were not filed.
+4.1 According to the Appellant, Respondent No.1 Company was
+Respondent No.12 in that Petition and was thus restrained. Later on,
+further Orders were passed on 04.09.2012 as under:-
+“1. It is stated that the learned Arbitrator has already
+entered upon reference and the arbitral proceedings
+before him are in progress.
+2. In the circumstances, it is directed that the interim
+order passed by this Court on 27th April, 2012 is
+continued till such time the learned Arbitrator
+passes an order on an application filed by either
+party under Section 17 of the Arbitration and
+Conciliation Act, 1996 (Act) for appropriate interim
+relief including the variation/modification of the
+interim order dated 27th April 2012 passed by this
+Court. Such of the Respondents herein who are
+parties to the arbitral proceedings will in terms of
+the order passed by this Court on 27th April 2012
+file their respective affidavits before the learned
+Arbitrator within two weeks from today.
+3. The petition is disposed of in the above terms. Order
+be given dasti to learned counsel for the parties.”
+
+9
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+4.2 According to the Appellant, in spite of the Orders of the High court,
+Affidavits of assets were not filed within two weeks as directed. The
+Appellants claims that the Respondents did not file Affidavits of movable
+assets which would include shareholding in Southend and Affidavit of
+other immovable assets.
+4.3 It is claimed that in January/February 2013, Respondent No.1 –
+Southend Infrastructure Pvt. Ltd. (hereafter referred as ‘Southend’) and
+Wonder Space Properties Pvt. Ltd. (‘Wonder Space’, in short), in collusion
+with each other entered into arrangement/agreement with reference to the
+immovable property of Southend, in the teeth of above Orders of the High
+Court. The Appellant claims that on 10.06.2013 contemptuous, fraudulent
+and anti-dated conveyance deed dated 10.06.2013 was executed between
+Southend through Respondent No.2 – D.K. Gupta and Wonder Space, in
+the teeth of the Orders dated 27.04.2012 and 04.09.2012 of the High
+Court, giving Wonder Space Development rights in the only property of
+Southend, namely B-319, Okhla Industrial Area, Phase – I, New Delhi.
+4.3 According to the Appellant, Respondent No. 22 (Original Petitioner
+of CP) who had only 5,000 equity shares (approximately 0.67% in
+Southend) fraudulently got transferred substantial shares of Southend
+from DK Gupta (Respondent No.2) in violation of restraint Orders of the
+High Court. It is claimed that the shares were fraudulently acquired in
+September, 2013 onwards although Respondent No.2 - DK Gupta was
+under restraint Orders of the High Court. Appellant claims that the
+
+10
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+Appellant came to know of the contemptuous conveyance deed dated
+10.06.2013, in December, 2013 and filed Contempt Petition (Cont. Cas (C)
+No. 970/2013) against Southend as well as Wonder Space regarding
+violation of the High Court Orders. The High Court referred to the earlier
+Orders dated 27.04.2012 and 04.09.2012 in its Order dated 09.01.2014
+(Annexure A-5 Page - 110). It then referred to the submissions and issued
+Notice as under:-
+“It is further contended at the bar that whilst the
+aforesaid interim orders then passed in a matter, in
+which both Sh. D.K. Gupta, as well as Southend
+Infrastructure Pvt. Ltd. have been arrayed as respondent
+No.2 and respondent no.12 respectively, even the
+Directors of respondent No.12, who have passed the
+Resolution in question in their meting dated 6th June,
+2013, are guilty of violation of the aforesaid interim
+orders, since it is inconceivable that the Company did
+not have notice, either actual or constructive, of the
+aforesaid orders prohibiting the respondents from
+dealing with the aforesaid properties.
+Prima facie, there appears to be no defence to the
+allegation at least in respect of Southend Infrastructure
+Pvt. Ltd. who is arrayed as respondent No.1 in the
+contempt petition. In the first instance, let notice to show
+cause issue to the first respondent, Southend
+Infrastructure Pvt. Ltd, through its Director, Sh. Dinesh
+Kumar Gupta, returnable on 5th May, 2014.”
+In the same Order with reference to CM 20181/2013 which was
+filed for stay, the following Order was passed:-
+“CM No.20181/2013
+Issue notice to the respondents, returnable on 5th May,
+2013.
+
+11
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+In the meantime, the second respondent, Wonder Space
+Properties Pvt. Ltd. in favour of whom the development
+rights, as described in the Conveyance Deed dated 10th
+June, 2013, executed between the respondents in
+respect of the property in question, i.e., B-319, Okhla
+Industrial Area, Phase I, New Delhi, have been granted,
+shall maintain status quo.”
+Appellant claims that the Contempt Petition is still pending
+adjudication in the High Court wherein the prayer, inter alia,
+includes setting aside/cancellation of the contemptuous, collusive
+and fraudulent conveyance deed dated 10.06.2013.
+4.4 According to the Appellant, the Respondent Company – Southend
+filed IA 10835/2014 for clarification (Page 119) claiming that Order dated
+04.09.2012 may be clarified/modified to hold that the Order is not being
+continued against the Southend as this Respondent Company – Southend
+was not party to the arbitration proceedings, which according to Appellant
+shows that Southend was aware that when it moved the said IA in 2014,
+it was knowing that the Order dated 27.04.2012 was operating against it.
+The Appellant claims that the said IA 10835/2014 was dismissed on
+01.09.2014 (Annexure A-8 Page – 131) as Southend, which was
+Respondent in that matter, had reneged on its commitments.
+4.5 The Appellant has then referred to Petition under Section 9 of the
+Arbitration and Conciliation Act, 1996 (‘Arbitration Act’, in short) having
+Original Miscellaneous Petition No.1197/2014 which was filed by the
+Appellant as pre-award Petition against present Respondent No.16 and
+
+12
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+present Respondents 1, 2, 3 18 and Respondent No.9 for HUF. The
+Appellant claims that in the said Petition, Hon’ble High Court on 30th
+September, 2014 passed following Order:-
+“O.M.P. 1197/2014
+Issue notice to the respondents via ordinary post and
+approved courier.
+Mr. Arora accepts notice on behalf of respondent nos.1,
+2, 3 and 12.
+On steps being taken, notice shall issue to the remaining
+respondents.
+Reply, if any, be filed within four weeks of service being
+effected.
+Rejoinder thereto, if any, be filed before the next date of
+hearing.
+In the meanwhile, respondent nos.2 to 10 shall not deal
+with shares in respondent nos.1, 11 and 12. The said
+respondents will file the particulars of their shareholding
+held in respondent nos.1, 11 and 12. The particulars,
+inter alia, will include the number of shares held, share
+certificate numbers as well as the face value of the
+shares. The sad details will be filed by way of an affidavit.
+In respect of shares of respondent nos.2 to 10, no
+transfer will be registered by respondent nos.1, 11 and
+12 till the next date of hearing.”
+Thus it is claimed that present Respondents 1, 16 and 18’s shares
+cannot be dealt with.
+4.6 The Appellant claims that Respondent No.2 – Dinesh Kumar
+Gupta, Respondent No.3 – Madhu Gupta, Respondent No.9 – Subhash
+Chand for HUF were restrained from dealing with their shares in
+
+13
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+Respondent Company – Southend as well as in NPMG Developers Limited
+(Respondent No.18) and BMS IT (Respondent No.16). This Order dated 30th
+September, 2014 was confirmed by the Hon’ble High Court vide Order
+dated 15th January, 2015 (Annexure A-10 Page – 136). Appellant claims
+that by such Orders Respondent No.1 is restrained from giving effect to
+transfer of shares held by Respondents (Gupta and Jain groups).
+4.7 According to the Appellant, the Award in the dispute came to be
+passed on 2nd March, 2015 and then Appellant filed OMP 114/2015 in the
+High Court. The Hon’ble High Court passed Orders on 5th May, 2015
+(Annexure A-11 Page – 146). According to Appellant, this Order shows that
+Respondents were directed not to alienate their assets as disclosed by them
+in their Affidavits dated 27.03.2015. It is claimed that Respondent No.1 -
+Southend was directed not to give effect to transfer of its shares held by
+Respondents. Southend was R12 in the OMP.
+4.8 The Appeal claims that the Hon’ble Supreme Court of India in SLP
+CC 8178 – 80 of 2017 converted into SLP (Civil) 13548-50 of 2017 and
+later Civil Appeal 11111 – 11113 of 2017 while granting leave granted
+interim relief as under:-
+“Delay condoned.
+Issue notice.
+The interim relief sought for reads as under:-
+“(a) till such time the interest bearing fixed deposit
+and/or unconditional bank guarantee to
+
+14
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+satisfaction of the Petitioner is furnished, Restrain
+Respondent No.12 from creating any kind of third
+party rights or encumbrances or dealing in any
+manner whatsoever with its share (i.e. 47.5% of
+constructed area in terms of the Conveyance Deed
+dated 10.6.2013 with Wonder Space Properties
+Pvt. Ltd., B-319, Okhla Industrial Area Phase – I,
+New Delhi – 110020 and appoint a Court Receiver
+for the said share of Southend under the
+Conveyance Deed dated 10.06.2013 pending the
+execution of the award dated 2.3.2015.”
+Interim relief, as above, is granted until further
+orders.”
+Appellant claims it does not have sufficient security to secure its
+dues under the Award and therefore the Appeal is pending.
+4.9 The Appellant claims that present Respondent No.1 – Southend is
+the Respondent No.12 in the Supreme Court and Southend has been
+restrained from creating any kind of third party rights and encumbrance
+or deal in any manner whatsoever with its share i.e. 47.5% of constructed
+area in terms of the conveyance deed dated 10.06.2013 with Wonder Space
+Properties, with regard to B-319, Okhla Industrial Area.
+4.10 The above litigation is a matter of record. The directions and
+Orders bind the parties concerned. Any violation will attract action. The
+above shows various directions and Orders already in favour of Appellant
+and the Hon’ble High Court and Supreme Court are considering the reliefs
+claimed by Appellant to safeguard its interest.
+
+15
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+5. According to the Appellant when such litigation was going on, in
+2016, Respondent No.22 - Vikrant Puri stepped forward and filed the
+Company Petition CP 24/2016 which is collusive and fraudulent on the
+basis of illegal and fraudulently acquired shareholding in Southend. The
+object of the Petition is to overreach the Orders of the Hon’ble High Court
+which had been passed on 27.04.2012, 04.09.2012 and 01.09.2014.
+Respondent No.22 suppressed facts about litigation as mentioned above.
+The Petition was filed making false allegations regarding removal of
+Directors but the Petition was being kept alive taking consent Orders from
+NCLT so as to overreach the Orders of the Hon’ble High Court and now
+Hon’ble Supreme Court. The Appellant filed Impleadment Application
+(Annexure A-13). In Annexure A-13, Appellant referred to the litigation as
+above and claimed that the Respondents had violated the Injunction
+Orders of High Court dated 27.04.2012 and 04.09.2012 and proceeded to
+create third party interest of Wonder Space in the only asset of the
+Company and had thus committed contempt. The Appellant claimed in the
+Impleadment Application that Respondent Nos.2 to 10 of the Company
+Petition had 98% shareholding in the Respondent Company in 2011 which
+had thereafter been reduced to 58% in 2015. It is mentioned as under:
+“It is submitted that the Applicant was shocked to
+learn that the Petitioner herein was claiming to be
+having controlling stake in the management of the
+Respondent No.1, filed the present company
+petition. It is the bonafide belief and understanding
+of the Applicant that in the event that the
+
+16
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+shareholding of the Respondent Nos.2 to 10 in the
+Respondent No.1 herein is dealt with in any manner
+in the course of present petition, the Applicant
+would be irreparably prejudiced more so in face of
+specific orders and directions of the Hon’ble High
+Court. The Applicant, therefore, has a legitimate
+interest in the present petition and its vitally,
+directly and legally affected by the orders passed
+therein. The present Petition has been filed by
+concealing & suppressing vital facts and previous
+orders of the Hon’ble High Court.
+6. In the aforesaid circumstances, the Applicant is
+filing the present application seeking its impleadment.
+In the event that the Applicant is not impleaded, there is
+every likelihood of the Petitioners and Respondents
+concealing the material facts or seeking indulgence of
+this Hon’ble Board in the face of various orders passed
+by the Hon’ble High Court of Delhi. The Respondent No.1
+company (of which the Petitioner allegedly claims to be
+having controlling stake) was always a
+party/Respondent in the proceedings before the Hon’ble
+Court and was always represented by its Counsels.”
+5.1 For above reasons, the Appellant claimed impleadment in the
+Company Petition. The learned NCLT, however, after hearing the parties
+passed Order dated 04.09.2017, the operative part of which reads as
+under:-
+“Having heard the learned Counsel for the parties at
+some length, we are of the view that the presence of the
+
+17
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+applicant in the proceeding may be required but they are
+neither necessary party or nor a proper party. The
+petition filed by one group against the other is for mis-management and oppression. The applicant has neither
+levelled any allegation of mismanagement or oppression
+nor it could have and therefore, the applicant is allowed
+to intervene only. Accordingly, we allow them to
+intervene and make submissions to assist the Bench in
+the present case.
+Application stands disposed of.”
+This is the Impugned Order in CA 370/2017.
+6. The Appellant has referred to some other Orders passed by NCLT
+including the application filed by Respondent No.22 to permit him to
+represent Respondent – Southend in the Hon’ble Supreme Court which
+came to be dismissed with costs. The Appellant claims that some
+unsecured creditors were allowed to be added to the Company Petition as
+Respondents vide Orders dated 25.01.2017 (Annexure A-16). According to
+the Appellant, there were serious problems in the Company and thus even
+a Court Administrator came to be appointed on 07.07.2017 vide Order at
+Annexure A-20 (Page – 225). However, when Petitioner filed CA 459/2017
+for withdrawal of the Company Petition, the same came to be allowed.
+According to the Appellant, in order to avoid facing averments regarding
+fraud, misfeasance, suppression and concealment committed by them,
+Respondent No.2 in collusion with other Respondents of the Company
+Petition surreptitiously and fraudulently sought withdrawal of the
+Company Petition so that the Appellant should not come to know of such
+acts and to make the Appeal infructuous. The Notice of CA 459/2017 was
+
+18
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+deliberately not served on the Appellant to overreach the earlier Orders of
+the NCLT permitting the Appellant to assist the NCLT. The Company
+Petition was allowed to be withdrawn although there were serious
+allegations of fraud, misfeasance, oppression and mismanagement made
+by the parties in the Company Petition.
+7. In this Appeal, the Prayer of the Appellant is that the Impugned
+Order dated 19.12.2017 be set aside and wants directions to NCLT to hear
+the Appellant and pass speaking orders on its objections to the Company
+Petition where there are serious allegations of fraud and misfeasance
+pointed out.
+8. The Impugned Order reads as under:-
+“C.A. No. 459(PB)/2017
+Learned counsel for the petitioner states that he
+has instructions to withdraw the petition as the matter
+has been amicably settled. It is stated that all interim
+orders would stand vacated and the affairs of the
+company shall be transacted in accordance with law.
+Dismissed as withdrawn in terms of the aforesaid
+statement.
+Application stands disposed of.”
+9. At the time of arguments, the learned counsel for the Appellants
+in both these Appeals have argued with reference to the above litigation to
+submit that Respondent No.2 – Dinesh Kumar Gupta and some of the
+other Respondents in the Company Petition had Orders passed by the
+
+19
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+Hon’ble High Court operating against them and while the Orders were
+operating against them, surreptitiously Dinesh Gupta transferred his
+shares to Respondent No.22 – Vikrant Puri who suddenly stepped forward
+to file collusive Petition in 2016 to claim that he was holding major stakes
+in the Respondent Company – Southend. The argument is that the Petition
+was filed so as to obtain collusive Orders from NCLT to overreach the
+Orders which had been passed by the Hon’ble High Court. It is argued that
+thus the impleadment of the Appellant in the Company Petition was
+necessary but only intervention was allowed and when the Company
+Appeal 370/2017 was filed, in order to make the same infructuous, the
+Company Petition came to be withdrawn. The argument is that the learned
+Senior Counsel for the Appellant as appearing in CA 370/2017 happened
+to be present when the withdrawal Petition came up and sought
+opportunity to oppose the withdrawal, but the same was declined as only
+intervention had been allowed and the Impugned Order as above came to
+be passed.
+10. It is argued for the Appellant that for withdrawal of the Company
+Petition, it was necessary to file the application in Form NCLT – 9 as is
+required by Rule 82 of the National Company Law Tribunal Rules, 2016
+(‘Rules’ in short) and this was not followed. The application for withdrawal
+was not properly verified. Notice to the parties had not been given and the
+Appellant was also not given opportunity to reply to the withdrawal
+application and its objections were not noted.
+
+20
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+11. The Respondent Nos. 6 to 11; Respondent No.12; Respondent
+Nos.13, 14 and 21; and Respondent No.22 have filed Replies in this Appeal.
+Main contesting Respondent is Original Petitioner - Respondent No.22. It
+has been argued on behalf of this Respondent that the Appellant is neither
+necessary nor proper party. The Company Petition was dispute between
+the shareholders and when the disputes were settled, he withdrew the
+Company Petition and only because of the withdrawal, the Appellant
+cannot claim that it is aggrieved. The Company Petition can be maintained
+only by a member and Appellant is not a member of the Respondent –
+Southend. According to Respondent No.22, the dispute in the Company
+Petition (copy of which is at Annexure A-4 Page – 163) and Rejoinder by
+the Appellant (Diary No.3993) is with regard to dispute about control of the
+Company. This Respondent claims that the Appellant had agreement with
+BMS IT (Respondent No.16) which Company was managed by the Guptas
+and the relatives of the Jains. The Award passed is against BMS IT. He
+claims that in the Award, Southend or the Original Petitioner is not party.
+In the litigation in High Court, as Respondent No.2 – Gupta was having
+share in Southend and Southend had got valuable asset to secure interest
+of the Appellant, the Appellant made Southend a party. The counsel for
+the Respondent No.22 pointed out that the Appellant itself has claimed
+that the Company Petition was not maintainable as the original Petitioner
+did not have valid legal shareholding and there was non-compliance of
+provisions of Section 399 of the old Act. It is argued that on one hand the
+
+21
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+Appellant itself was claiming that the Company Petition was not
+maintainable and when the Company Petition has been withdrawn, the
+Appellant itself is opposing and cannot be heard saying that the
+withdrawal affects the Appellant. Referring to the synopsis in Company
+Petition 370 of 2017, the counsel for Respondent No.22 argued that the
+Appellant claimed that the Company Petition was infructuous and was
+collusive etc. and was kept pending in order to obtain consent orders. If
+keeping the Company Petition pending was harming the Appellant, the
+same Appellant wanted the Company Petition not to be withdrawn. It is
+argued that the Appeal does not claim as a ground that the application for
+withdrawal was defective. The submission is that if the concerned Form is
+kept in view, there was substantial compliance with the provisions and
+even if it could be said that the pendency of the Appeal was not pointed
+out, the issue becomes redundant as counsel for the Appellant was present
+and did make submissions which were not accepted. It has been argued
+that non-mentioning of the CP 370 of 2017 pending was by oversight and
+when the counsel attended, there cannot be said to be any prejudice.
+12. The counsel for Respondents 6 to 11 is supporting the Respondent
+No.22. It is argued even if the Petition is restored, no relief can be granted
+in favour of the Appellant. When the Appellant is not member of the
+Company, without support of the members of the Company, the Appellant
+cannot maintain the Company Petition. It is argued that it can be seen
+from para – 7.45 of CA 57/2018 that the Appellant wants the Company
+
+22
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+Petition to remain pending merely on apprehensions that the Respondents
+will deal with issues relating to development of the property of Respondents
+– Southend. This cannot be sufficient ground to stop the Petitioner from
+withdrawing. The argument is that if there is any violation of the Orders of
+the Hon’ble High Court, the Hon’ble High Court will take needful action
+and merely for apprehensions, the Company Petition could not be kept
+pending.
+13. The Respondent No.12 in his Reply claimed that in order to escape
+liabilities from initiated claims/legal actions, the Respondents 1 to 11 and
+22 added parties to the Petition. He claimed behind his back, a compromise
+was arrived at between Respondents 1 to 11 and 22. He want the present
+Appeal CA 57/2018 to be allowed.
+13.1 Here itself, we refer to Impugned Order at Page – 74 where
+Advocate for Respondent No.12 – Mr. K. Sinha is shown in the array of
+counsel representing the parties at the time of passing of the Impugned
+Order. This Respondent No.12 has not filed appeal against withdrawal.
+14. Counsel for Respondents 13, 14 and 21 supported the Appellants
+referring to claims of these Respondents to say that they were not given
+opportunity to oppose the withdrawal and the withdrawal affected their
+rights. The counsel accepted that these Respondents had not filed the
+Appeal against the withdrawal.
+
+23
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+15. We have gone through the record and noted the submissions of
+parties as mentioned above. The first grievance raised by the Appellant is
+with regard to the withdrawal application which was filed and manner in
+which the same was disposed. In this regard, the counsel for the Appellant
+raised grievances that the application for withdrawal was not as per form
+prescribed under Rule 82 of the Rules and the Affidavit was not duly
+verified or notarized. The documents concerned were not attached and that
+the application did not contain declaration regarding the pending CA
+370/2017. In substance, it is claimed that the NCLT could not have acted
+upon such application.
+16. The counsel for Respondents countered the submissions by
+stating that defect of Form has not been made ground in the Appeal. When
+the Appellant started making grievances on these counts, the learned
+counsel for Respondent No.22 and original Petitioner took time from us
+and on adjourned date filed certified copy of the application and its
+Annexures. The same was filed at Diary No.5134.
+17. Rule 82 of the Rules, 2016 applicable to NCLT reads as under:-
+“82. Withdrawal of Application filed under
+section 241.— (1) An application under clause (a) or
+clause (b) of sub-section (1) of section 241 of the Act,
+shall not be withdrawn without the leave of the Tribunal.
+(2) An Application for withdrawal under sub-rule (1)
+shall be filed in the Form NCLT-9.”
+
+24
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+Parties have pointed out copy of the Form No. NCLT 9. If Form
+NCLT - 9 is seen, it is a common Form in the context of Rules – 72, 76, 82,
+88 and 154 and is also general Form for all purposes, if no specific Form
+is prescribed under these Rules and Forms. Rule 82 deals with withdrawal
+of applications under Section 241. Rule 72 relates to Appeals against the
+Order of Government under Section 62(4); Rule 76 deals with inspection
+of minute books of General Meeting in Company refused to give inspection
+to member; Rule 88 relates to seeking permission to opt out class action
+under Section 245 and Rule 154 is for application for rectification of Order.
+It is apparent that common Form is prescribed for various acts like may
+be Appeal, or may be seeking permissions or may be application – same
+Form 9 is to be used. Naturally, the Form is to be used and applied with
+suitable modifications and columns as applicable would have to be referred
+to. From the Form – NCLT 9, the Appellant has raised grievances with
+regard to Column – 10 which requires submitting index containing details
+of documents to be relied on. When we peruse the Application CA
+459/2017, which was filed for withdrawal although it refers to the original
+Petitioners and Respondents 2 to 11, settling their disputes and that
+Articles of Association “has been duly amended”, no documents were
+admittedly filed. The prayer in the application being only leave to withdraw,
+if the original Petitioner did not want to rely on documents and did not
+attach the same, no capital can be made out of this.
+
+25
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+17.1 The other grievance made by the Appellant is that Column – 8 of
+the Form required the original Petitioner to declare regarding the matter of
+Appeal being pending made but he did not do so. This, of course, does not
+appear to have been stated in the application for withdrawal. However, the
+Petitioner attached proof of service to the parties which can be seen from
+the courier receipts attached. Apart from this, the Impugned Order records
+presence of the Advocates of respective parties as well as the counsel for
+Appellant marked as Intervener. Senior Counsel for Appellant in CA
+370/2017 - Mr. Brijender Chahar submitted at the time of arguments that
+the Appellant somehow came to know about such withdrawal application
+being moved and thus he had appeared before the NCLT and submitted to
+the NCLT that the Appellant was objecting to the withdrawal and that no
+copy of the withdrawal application had been given to the Appellant but that
+he was told by NCLT that he (that is – the Appellant) had been permitted
+to address only in the Company Petition but for withdrawal, he need not
+be given chance. Thus, the learned counsel for the Appellant, which
+Appellant had already moved CA 370/2017 was present at the time of
+withdrawal and had an opportunity to address the NCLT and it cannot be
+said that the NCLT was not aware of the pending Appeal when the
+withdrawal was permitted. Thus the Advocate for the Respondent No.22 –
+original Petitioner not mentioning in the application for withdrawal
+regarding pendency of the Appeal of Intervener cannot be said to be fatal
+and in the facts of the matter, merely on such technicality, the withdrawal
+as permitted by NCLT need not be interfered with. Under Section 424 of
+
+26
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+the Companies Act, 2013, NCLT while disposing the proceeding which was
+in front of NCLT, accepted the application for withdrawal in the face of
+objection raised by the learned Senior Counsel for the Appellant. In the
+Impugned Order, NCLT did not note the submissions made by the learned
+counsel for the Appellant, may be due to the view it was taking that even
+if the Appellant had been permitted to intervene for the purposes of the
+Company Petition, hearing Appellant was not necessary for the purpose of
+withdrawal of the Company Petition which was a matter between the
+Petitioner and the party Respondents.
+18. The Appellant is claiming referring to the litigation as mentioned
+above that the Appellant had a right not only of impleadment in the
+Company Petition but also had a right to be heard at the time of withdrawal
+of the Company Petition. Reference to the litigation shows that there were
+Orders passed against some of the Respondents in the Company Petition
+who were party in the litigation before High Court as well as Respondent –
+Southend. There were initial Orders regarding immovable property and
+subsequently on 30.09.2014, orders came to be passed even regarding
+these Respondents’ shareholding of the Company by the Hon’ble High
+Court. When the Company Petition came to be filed in 2016 with
+Respondent No.22 stepping forward as a Petitioner and he trying to show
+that he had the controlling shares, the Appellant applied for impleadment.
+We have already reproduced paragraphs from his impleadment application
+which show what is the concern of the Appellant in the litigation which
+
+27
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+was by way of Company Petition. The concern of the Appellant from the
+portions reproduced above shows that the Appellant was shocked as to
+how Respondent No.2 came forward claiming to be having controlling stake
+and Appellant claimed it would be prejudiced in the event shareholding of
+Respondents 2 to 10 in the Company – Respondent No.1 was dealt with in
+any manner. The Appellant also expressed likelihood of the Petitioner and
+Respondents concealing material facts seeking indulgence of the CLB (now
+NCLT) to overreach the Orders passed by High Court. Even in the present
+Appeal in para – 7.45 of the Appeal (Page – 55), it is stated by the Appellant
+as under:-
+“7.45 That on 11.9.2017 and 15.9.2017, the
+Petitioner and Respondents held Board meetings of R-1
+company Southend. It is pertinent to note that in view of
+minutes of the said Board Meetings the interse dispute
+relating to appointment and removal of director (due to
+which the instant company Petition CP No. 24(ND)/
+2016 was filed) is amicably resolved and the Company
+Petition has become infructuous. In the garb of holding
+such Board meetings the Petitioner and Respondent
+have authorized themselves to deal with issues relating
+to development of the R-1 property. However what
+essentially they are planning to do is to alienate the
+47.5% constructed area (proposed to be built) in
+violation of the order of the Hon’ble Supreme Court as
+was done earlier by them in the past when they violated
+and overreached Hon’ble Court order dated 27.4.2012
+and 4.9.2012.
+That Further Board Meetings are held details of which
+the Appellant is unware of.
+The above is against the interest of the Appellant and
+therefore its impleadment is necessary in the given
+peculiar facts of the case.”
+
+28
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+19. It is quite clear that the Appellant is labouring under
+apprehensions as to what the original Petitioner and Respondents –
+shareholder/Directors of the Company were up to. At the time of
+arguments, the Appellant has tried to show that the Company Petition was
+collusive between the Appellant and Respondents and it was being
+pursued to obtain collusive Orders from NCLT so as to overreach the
+Orders passed by the Hon’ble High Court and now the Hon’ble the
+Supreme Court. Although such stand is taken at the same time, the
+Appellant has opposed the withdrawal and the argument made by learned
+counsel for Appellant is that the right of the Appellant of hearing was taken
+away because of the withdrawal. The prayer of this Appeal CA 57/2018
+seeks setting aside of the Impugned Order and seeks direction to NCLT “to
+hear the Appellant and pass speaking order on its objections to the
+Company Petition wherein serious allegation of fraud and misfeasance
+have ben pointed out.” The paragraphs reproduced by us from the CA
+211/2016 which was filed for impleadment show the Appellant wanted to
+be impleaded in view of his apprehensions not trusting the parties, so as
+to safeguard his interest. If the original Petitioner decided to withdraw the
+Company Petition, we find it difficult as to how the Appellant could insist
+on pendency of the Company Petition to hear out grievances Appellant was
+making. The Appellant is not a member or shareholder. The Company
+Petition filed under Section 397 and 398 of the old Act cannot be continued
+at the behest of an Intervener seeking impleadment when he is not a
+shareholder or member of the Company. It is settled position that such
+
+29
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+application of oppression and mismanagement can be filed only by a
+member of the Company. If the Appellant could not file such a Petition, the
+Appellant cannot insist on independently maintaining the same so as to
+hear out his grievances against the Petitioner and Respondents claiming
+that they are in collusion.
+20. It has been argued that under Section 402 of the old Act, NCLT
+has wide powers to pass any Orders when Petition of oppression and
+mismanagement is filed. The argument is that in the present matter, there
+were various earlier Orders of NCLT which showed that things were not
+being legally conducted in the Company and the NCLT had even passed
+Orders to appoint Administrator. It is argued by the learned counsel for
+the Appellant that in such situation merely because the withdrawal
+application was filed, NCLT should not have allowed the withdrawal.
+20.1 It is claimed that withdrawal under Order XXIII Rule 1 of Code of
+Civil Procedure, 1908 is different as there the Plaintiff has a right to
+withdraw the suit while the same cannot be said with regard to Rule 82
+where the provisions say that an application under Clause ‘A’ or Clause ‘B’
+of Sub-Section (1) of Section 241 of the Act “shall not be withdrawn without
+the leave of the Tribunal.”
+21. It is true that compared with the Code of Civil Procedure, the
+power of NCLT is broader when Rule 82 of the Rules is perused. NCLT
+would have absolute discretion regarding the withdrawal and the Petition
+
+30
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+cannot be withdrawn unless the NCLT grants leave. The discretion to grant
+permission or refuse cannot be exercised arbitrarily. In the present matter,
+it was stated before the NCLT that the contesting parties had settled their
+disputes between them and the Petitioner was seeking withdrawal. In such
+circumstances, only because the Appellant - Intervener had objections and
+wanted NCLT to keep the Petition pending, if the NCLT thought it fit to let
+the withdrawal take place, we do not think that the discretion exercised
+was arbitrary. The Appellant may be having a good case for which it has
+moved Hon’ble High Court and has indeed Orders passed by the Hon’ble
+High Court in his favour which are operating against the Respondent
+Company as well as some of the shareholders of the Company, but that
+does not mean that the forum of NCLT should remain available to a non-member of the Company to keep watch on the Directors and shareholders
+of the Company. The rights of the Appellant are apparently being looked
+into and protected by the Hon’ble High Court and now there are Orders
+even of the Hon’ble Supreme Court. If the Respondents or any of them
+violate any of the directions or Orders of the Hon’ble High Court or Hon’ble
+Supreme Court, they will face the consequences. Thus, we find no reason
+as to why the NCLT should have kept the Petition pending only because
+the Appellant wanted it to do so. The impleadment of the Appellant had
+been refused and he had been permitted only to intervene when the
+Company Petition was taken up for hearing so that he could point out
+wrong, if any. That by itself did not create such a vested right that the
+
+31
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+Appellant could claim that Company Petition should not be allowed to be
+withdrawn.
+21.1 No doubt powers of NCLT in a petition complaining oppression and
+mismanagement are very wide to safeguard the interest of the Company.
+But it would still be matter of discretion to permit withdrawal of the
+Petition in the given set of facts. When a claim of settlement between the
+warring group is stated and simple withdrawal is asked, NCLT cannot be
+asked to continue with the petition on a roving enquiry at the instance of
+a non-member.
+22. Although the withdrawal application referred to settlement and
+amendment of Articles of Association, the withdrawal application did not
+seek any directions or orders on that count. The application did not seek
+recording of any settlement or terms of settlement. The application merely
+made statement as to what according to the Respondent No.22 – the
+Petitioner has happened between him and Respondents 1 to 11 and sought
+withdrawal of the Company Petition. It is a simple withdrawal. There is
+apparently no operative order. Thus, the original Petitioner and
+Respondents remain as much liable to answer for their acts to the Hon’ble
+High Court and Hon’ble Supreme Court in the litigation pending at the
+instance of the Appellant, as they were before withdrawal.
+23. For all such reasons, we are not interfering with the Impugned
+Order dated 19.12.2017 passed by the learned NCLT. Consequently, the
+
+32
+Company Appeals (AT) No.57 of 2018 & (AT) No.370 of 2017
+Company Appeal 57/2018 is dismissed. The result is that the original
+Company Petition having been withdrawn, Company Appeal 370/2017
+does not survive for impleadment. Company Appeal 370/2017 is disposed
+accordingly.
+No orders as to costs in both the Appeals.
+[Justice A.I.S. Cheema]
+Member (Judicial)
+[Balvinder Singh]
+Member (Technical)
+New Delhi
+7th September, 2018
+/rs/nn
