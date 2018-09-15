@@ -1,0 +1,61 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "451"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 451 FEB.297-2017-Pt-I-59 Dated 15-09-18"
+published: "2018-09-15"
+in_force: "2018-09-15"
+in_force_evidence: "published in the Gazette 2018-09-15; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._451_feb.297-2017-pt-i-59_dated_15-09-18.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2018-09-15.451"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+FINANCE (ESTABLISHMENT-B) DEPARTMENT :: DISPUR
+NOTIFICATION
+The 15th September, 2018
+
+3100 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018 3101
+
+3102 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018 3103
+
+3104 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018 3105
+
+3106 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018 3107
+
+3108 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018 3109
+
+3110 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018 3111
+
+3112 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018 3113
+
+3114 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018 3115
+
+3116 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 21, 2018 3117
+SAMIR K. SINHA,
+Principal Secretary to the Government of Assam,
+Finance Department.
+Guwahati :- Printed and Published by the Dy. Director (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Ex. Gazette No. 901 - 150 + 10 - 21 - 09 - 2018. (visit at–dpns.assam.gov.in)
