@@ -1,0 +1,44 @@
+---
+kind: "gazette-notification"
+gazette: "Tamil Nadu Government Gazette"
+gazette_number: "359"
+gazette_type: "Extraordinary"
+part: "Part II"
+issuer: "Government of Tamil Nadu"
+subject: "HOME DEPARTMENT - Prison-I - DATE OF COMING INTO FORCE OF THE IDENTIFICATION OF PRISONERS - TAMIL NADU AMENDMENT ACT, 2010 TAMIL NADU ACT 29 OF 2010"
+published: "2018-10-22"
+in_force: "2018-10-22"
+in_force_evidence: "published in the Gazette 2018-10-22; no other commencement day stated"
+official_text: "http://www.stationeryprinting.tn.gov.in/extraordinary/2018/359_Ex_II_2.pdf"
+mirror: "https://archive.org/details/in.gazette.tamilnadu.2018-10-22.Extraordinary_359_Part-II_Section-2"
+language: "English text only"
+---
+
+© [Regd. No. TN/CCN/467/2012-14.
+GOVERNMENT OF TAMIL NADU [R. Dis. No. 197/2009.
+2018 [Price: Re. 0.80 Paise.
+TAMIL NADU
+GOVERNMENT GAZETTE
+EXTRAORDINARY PUBLISHED BY AUTHORITY
+No. 359] CHENNAI, MONDAY, OCTOBER 22, 2018
+Aippasi 5, Vilambi, Thiruvalluvar Aandu – 2049
+Part II—Section 2
+Notiﬁ cations or Orders of interest to a Section of the public
+issued by Secretariat Departments.
+NOTIFICATIONS BY GOVERNMENT
+HOME DEPARTMENT
+(Prison-I)
+DATE OF COMING INTO FORCE OF THE IDENTIFICATION OF PRISONERS (TAMIL NADU
+AMENDMENT) ACT, 2010 (TAMIL NADU ACT 29 OF 2010).
+[G.O Ms. No. 2109, Home (Prison-I), 22nd October 2018, äŠðC 5, M÷‹H,
+No. II(2)/HO/899(b)/2018.
+In exercise of the powers conferred by sub-section (3) of Section 1 of the Identiﬁ cation of
+Prisoners (Tamil Nadu Amendment) Act, 2010 (Tamil Nadu Act 29 of 2010), the Governor of
+Tamil Nadu hereby appoints the 22nd day of October 2018 as the date on which the said Act
+shall come into force.
+
+NIRANJAN MARDI,
+Additional Chief Secretary to Government.
+PRINTED AND PUBLISHED BY THE DIRECTOR OF STATIONERY AND PRINTING, CHENNAI
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU
+II-2 Ex. (359)
