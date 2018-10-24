@@ -1,0 +1,292 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Company) No. 30 of 2018"
+decided: "2018-10-24"
+section: "Company"
+court: "Court - 2"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/7996174825bd1768cd15db.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Company) No. 30 of 2018, 2018-10-24
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+NEW DELHI
+Company Appeal (AT) No.30 of 2018
+[Arising out of Order dated 30.11.2017 passed by National Company Law
+Tribunal, Chennai Bench in CP/142/CAA/2017 connected with
+CA/ 77/CAA/2017]
+IN THE MATTER OF:
+1. K. J. Suwresh
+S/o K. Jaganathan Naidu
+…Appellant No.1
+2. K. Lakshmisuthaa
+W/o K.J. Suwresh
+…Appellant No.2
+Both are residing at
+No. 171, L Street, “Dream Meadows”
+Kundalahalli
+Doddanekkundi
+Bengaluru – 560 037
+Versus
+1. TeamLease Staffing Services Pvt. Ltd.
+…Respondent No.1
+2. TeamLease Services Ltd.
+...Respondent No.2
+Both having office at
+No. 6, 3rd Floor, “C” Wing
+Lakshmi Towers, BandraKurla Complex
+Bandra East
+Mumbai 400 051
+with
+Company Appeal (AT) No.167 of 2018
+[Arising out of Order dated 16.11.2017 passed by National Company Law
+Tribunal, Mumbai Bench in CSP No.782 of 2017]
+
+2
+Company Appeals (AT) Nos.30 & 167 of 2018
+IN THE MATTER OF:
+1. K. J. Suwresh
+S/o K. Jaganathan Naidu,
+No. 171, L Street, “Dream Meadows”,
+Kundalahalli, Doddanekkundi,
+Bengaluru, Karnataka – 560 037
+…Appellant No.1
+2. K. Lakshmisuthaa
+ W/o K.J. Suwresh
+No. 171, L Street, “Dream Meadows”,
+Kundalahalli, Doddanekkundi,
+Bengaluru, Karnataka – 560 037
+…Appellant No.2
+Versus
+1. M/s. Teamlease Staffing Services Pvt. Ltd.
+Having office at No. 6, 3rd Floor,
+“C” Wing, Lakshmi Towers,
+Bandra Kurla Complex, Bandra – East,
+Mumbai, Maharashtra - 400 051
+…Respondent No.1
+2. TeamLease Services Ltd.
+Having office at No. 6, 3rd Floor,
+“C” Wing, Lakshmi Towers,
+Bandra Kurla Complex, Bandra – East,
+Mumbai, Maharashtra - 400 051
+...Respondent No.2
+For Appellant: Shri Rana Mukherjee, Sr. Advocate with Shri Senthil
+ Jagadeesan, Ms. Shruti Iyer, Ms. Sreoshi Chatterjee and
+ and Ms. Suriti Chaudhary, Advocates
+For Respondent: Shri Goutham Shivshankar and Shri Murali
+ Ananthashivam, Advocates
+
+3
+Company Appeals (AT) Nos.30 & 167 of 2018
+J U D G E M E N T
+(24th October, 2018)
+A.I.S. Cheema, J. :
+1. Company Appeal 30/2018 has been filed against Impugned Order
+dated 30.11.2017 passed by National Company Law Tribunal (‘NCLT’, in
+short), Chennai Bench whereby the NCLT accepted the joint Petition of
+M/s. ASAP Info Systems Private Limited – Transferor Company No.1 and
+M/s. Nichepro Technologies Private Limited – Transferor Company No.2
+and M/s. TeamLease Staffing Services Pvt. Ltd. – Transferee Company
+under Section 230 of the Companies Act, 2013. The Company Petition had
+been filed by these Companies with a scheme of amalgamation whereby
+the two transferor Companies were proposed to be merged and vested in
+the transferee Company. The Impugned Order has recorded the position
+as regards share capital, etc. of the transferor companies and that they
+were private limited Companies. The transferee company is private limited
+Company having its registered office at Mumbai. The Impugned Order
+refers to Order dated 12.06.2017 of the NCLT in CA 77/CAA/2017
+dispensing with convening of holding of meeting of equity shareholders of
+the transferor Companies. The Impugned Order refers to the consent
+Affidavits by the secured and unsecured creditors. It noted that there were
+Affidavits of unsecured creditors of both Companies constituting more
+than 90% of the value of unsecured credit. The Impugned Order shows
+that paper publication had been done and Reports of Regional Director as
+well as Official Liquidator had been taken. Taking care of other
+
+4
+Company Appeals (AT) Nos.30 & 167 of 2018
+compliances required to be done for such amalgamation, the learned NCLT
+being satisfied accepted the scheme of amalgamation.
+2. Company Appeal 167/2018 is arising out of Impugned Order
+dated 16th November, 2017 passed by the National Company Law Tribunal,
+Mumbai Bench in CSP No.782 of 2017 with reference to the same scheme
+of amalgamation referred above. Such Petition was filed at Mumbai in view
+of the fact that the transferee Company was situated at Mumbai. The
+Impugned Order shows that the NCLT at Mumbai also went through the
+required procedure for considering grant of permission for amalgamation
+and in para – 17 of the said Impugned Order, NCLT, Mumbai appears to
+have recorded with approval, the submission made before it by the Counsel
+for transferee Company that the amalgamation approved by the NCLT at
+Mumbai would be subject to sanction of the said scheme by National
+Company Law Tribunal, Chennai Bench.
+2.1 This Appeal - CA 167/2018 came to be filed after the Company
+Appeal 30/2018 was filed as it was noticed that the NCLT at Mumbai also
+had approved the scheme.
+3. The Appellants - K. J. Suwresh and K. Lakshmisuthaa have filed
+these Appeals claiming that they are aggrieved by these Orders of
+amalgamation permitted by NCLT at Mumbai and NCLT at Chennai,
+mainly on the basis that no Notice had been given to them. To put the case
+of the Appellants in a nutshell, their grievance is that they were holding
+100% equity shares in the transferor Company No.1 - ASAP Info Systems
+
+5
+Company Appeals (AT) Nos.30 & 167 of 2018
+Private Limited and there was Share Purchase Agreement (‘SPA’, in short)
+dated 04.07.2016 between them and the transferee Company whereby the
+100% shareholding was to be transferred by them to the transferee
+Company. Their grievance is that the payments were to be made by the
+transferee Company in tranches and after initial payment, there has been
+default. According to the learned Counsel for the Appellants, the
+Appellants ought to have been treated either as shareholder or creditors of
+the transferee Company and in either case they were entitled to Notice. It
+is claimed that no Notice was given to them and hence they are aggrieved
+by such amalgamation.
+4. It has been argued for the Appellant that Appellants initially
+entered into a Term Sheet and later on, into a Share Purchase Agreement
+dated 04.07.2016 for sale of their 100% shareholding in the transferor
+Company No.1 in favour of the transferee Company referred to as
+purchaser in the agreement. The Appellant claimed that as per the SPA,
+Rs.7 Crore on the date of signing of SPA, i.e. 04.07.2016 and
+Rs.46,60,00,000/- (Forty Six Crore Sixty Lakhs) as first tranche payable
+between 04.07.2016 and 31.08.2016 was paid. According to the
+Appellants, regarding the second tranche, payment was made out of total
+57 Crores paid. The Appellants received amount aggregating to
+Rs.56,95,00,000/- with balance Rs.5 Lakhs remaining. The Respondents
+are disputing this. With regard to 3rd tranche, it appears that there are
+requirements under the SPA linking the payment to criteria relating to
+
+6
+Company Appeals (AT) Nos.30 & 167 of 2018
+“EBITDA”. Admittedly, now the transferee Company has been taken by
+the Appellants to Arbitral Tribunal and the matter is pending before
+Arbitration as can be seen from Annexure R-3 in Diary No.6037 which is
+Reply of the Respondents in CA 167/2018. The Appellants claim that they
+have to receive Rs.10.05 Crores from the transferee Company and the
+transferor Company No.1 in which they were 100% shareholders has
+already been ordered to be wound up and stands amalgamated and thus
+according to the Appellants, they may be rendered remediless.
+5. In CA 30/2018, the Appellants have made only the transferee
+Company as Respondent No.1 and Respondent No.2 arrayed is
+“TeamLease Services Limited” which is stated to be a subsidiary of
+Respondent No.1 transferee Company. The Respondents have filed Reply
+claiming it to be Objections. It is claimed by them that the amount of
+Rs.10.05 Crores as claimed by the Appellants is payable by the
+Respondents only on the fulfilment of the criteria relating to achievement
+of earnings before interest, tax, depreciation and amortization (EBITDA) in
+relation to the transferor Company No.1. The Respondents claim that the
+criteria was not achieved and so there is no question of such payment. We
+are not entering into those details regarding payments as it is subject
+matter of arbitration and not necessary to decide in the present Appeals.
+The Respondents have then submitted that the Appellants, although they
+are claiming that they should have been given Notice, had the necessary
+knowledge. The Objections or Reply of Respondents (Diary No.4006) has
+
+7
+Company Appeals (AT) Nos.30 & 167 of 2018
+copies of Affidavits of the Appellants at Annexure – 1 which they submitted
+with reference to same claim of amalgamation which had come up before
+NCLT, Chennai. The Affidavit of the Appellant No.1 at Page – 15 reads as
+under:-
+“I, K.J. Suwresh son of Jaganatham Naidu aged about
+49 years, currently residing at No-171 Dream
+Meadows, Kundalahalli, Marathalli Bangalore 560037
+do hereby solemnly affirm and state on oath as follows:
+1. I am the Director of Lakshmi Car Zone Private
+Limited which is a creditor of the Applicant Company
+1 as at 22 March, 2017.
+2. I submit that Lakshmi Car Zone Private Limited
+fully supports the said Scheme and any modification
+that may be made therein by the Hon’ble National
+Company Law Tribunal, Chennai Bench and Mumbai
+Bench whilst sanctioning the Scheme and every step
+that may be taken by the Applicant Company 1, its
+directors or authorised representatives for
+implementation of the said Scheme.
+3. I submit that Lakshmi Car Zone Limited consents
+for the dispensation with the holding of the meeting of
+the creditors of the Applicant Company 1 as per
+provisions of the Companies Act, 2013.”
+6. The Affidavit of the Appellant No.2 at Page – 16 reads as under:-
+“I, Lakshmisuthaa Kilari daughter of Surya Babu,
+aged about 46 years, currently residing at No.101,
+Dream Meadows, Kundalahalli, Bangalore, Karnataka
+– 560037, do hereby solemnly affirm and state on oath
+as follows:
+1. I am the creditor of the Applicant Company 1 as
+at 22nd March, 2017.
+2. I fully support the said Scheme and any
+modification that may be made therein by the Hon’ble
+National Company Law Tribunal, Chennai Bench and
+
+8
+Company Appeals (AT) Nos.30 & 167 of 2018
+Mumbai Bench whilst sanctioning the Scheme and
+every step that may be taken by the Applicant
+Company 1, its directors or authorised representatives
+for implementation of the said Scheme.
+3. I submit my consent for the dispensation with the
+holding of the meeting of the creditors of the Applicant
+Company 1 as per provisions of the Companies Act,
+2013.”
+6.1 The Appellant No.1 filed yet another similar Affidavit as creditor of
+Applicant Company No.1 - ASAP giving consent which is at Page – 17 with
+Annexure – 1 annexed to the Reply of Respondents (Diary No.4006). The
+Cause Title of these Affidavits clearly refers to the same transferor
+Company No.1, transferor Company No.2 and transferee Company giving
+their names and that the matter related to their Scheme of Amalgamation
+and application of Section 232 and Section 230 of the Companies Act.
+7. The learned Counsel for the Respondents rightly submitted that
+with such Affidavits executed by the Appellants in May, 2017, on record,
+it is clear and apparent that the Appellants had knowledge. The Appellants
+clearly had knowledge and information regarding the scheme of
+amalgamation of these Companies and had given their No Objections, even
+if they relate to Appellant No.1 in capacity of Director of Lakshmi Car Zone
+Limited. We are not impressed by the arguments on behalf of the
+Appellants that they had different capacity as the 100% shareholders of
+the transferor Company No.1 which had entered into the Share Purchase
+Agreement and thus in that capacity Notice should have been given to
+them and their objections or no objections should have been taken. At the
+
+9
+Company Appeals (AT) Nos.30 & 167 of 2018
+time of arguments, Counsel for the Appellants accepted that Diary No.4167
+shows that the audited balance sheet (Page – 42) as available was till
+31.03.2016 and the Share Purchase Agreement was of subsequent date of
+04.07.2016. Although it is argued that the Share Purchase Agreement
+being subsequent, the Auditors may not have known about the same and
+so did not refer, we find from the certified copy of record of proceedings
+before NCLT, Chennai filed with Diary No.4167 that the Official Liquidator
+in his Report para – 6 noted that the CA did record that there was change
+in management in the month of August, 2016 in respect of transferor
+Company No.1. Para – 4 of the Report of Official Liquidator shows that
+both the transferor Companies were wholly owned subsidiaries of
+transferee Company. What appears is that after the Appellants executed
+the SPA, they handed over their shares and admitted that they had
+resigned as Directors on 01.01.2017. In fact, the Appellants even approved
+the balance sheet of the transferor Company No.1, as on 31st March, 2016
+by signing the same on 31.08.2016 as can be seen from Page – 66 of Diary
+No.4167 (Volume – 1). What appears after going through such documents
+is that the Appellants were clearly aware of the proceedings relating to the
+scheme of amalgamation and had no difficulties initially but it appears
+that, as their transaction based on SPA landed in difficulties and so, now
+they want to raise grievances to the scheme of amalgamation on the plea
+that Notice to them also was necessary. Going through the material on
+record, we do not find that there is any substance in the grievance raised
+by the Appellants. Dispute relating to SPA is before Arbitration and
+
+10
+Company Appeals (AT) Nos.30 & 167 of 2018
+Transferee Company is facing it. If Appellants had difficulty, they never
+went before NCLT to raise Objections although they knew about the
+amalgamation process going on. This being so, we are proceeding to reject
+both the Appeals.
+8. For reasons mentioned above, CA 30/2018 as well as CA
+167/2018 both the Appeals are rejected.
+No orders as to costs.
+[Justice A.I.S. Cheema]
+Member (Judicial)
+[Balvinder Singh]
+Member (Technical)
+/rs/nn
