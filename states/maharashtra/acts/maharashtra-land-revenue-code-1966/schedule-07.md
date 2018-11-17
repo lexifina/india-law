@@ -8,7 +8,7 @@ Fee Rs. P.
 
 Not exceeding Rs. 5 . . . . . . . .
 
-0.50 Over Rs. 5 and not exceeding Rs. 10. . . . . . .
+0.50 Over Rs. 5 and not exceeding Rs. 10. . . . .
 
 1.00
 
@@ -98,7 +98,9 @@ Not exceeding Rs. 5 . . . . . . . .
 
 " 100 . . . . . . . .
 
-9.00 U d f R 10 00 (Signed) A. B.
+9.00 Upwards of Rs. 100 . . . . . . . .
+
+10.00 (Signed) A. B.
 
 Notes in the official text:
 

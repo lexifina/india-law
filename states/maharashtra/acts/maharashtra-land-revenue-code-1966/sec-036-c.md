@@ -1,4 +1,4 @@
-# Section 36C. Bar of jusridiction of Civil Court or authority
+# Section 36C. Bar of jurisdiction of Civil Court or authority
 
 36C. (1) No Civil Court shall have jurisdiction to settle, decide or deal with any question which is by or under section 36, 36A or 36B required to be settled, decided or dealt with by the Collector.
 
