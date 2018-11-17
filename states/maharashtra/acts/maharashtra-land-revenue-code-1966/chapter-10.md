@@ -1,5 +1,3 @@
 # Chapter X
 
-LAND RECORDS.
-
-A—Record of Rights.
+LAND RECORDS A—Record of Rights
