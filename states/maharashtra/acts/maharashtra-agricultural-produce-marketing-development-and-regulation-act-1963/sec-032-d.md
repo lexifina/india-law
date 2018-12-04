@@ -1,0 +1,5 @@
+# Section 32D. Power to take steps to prevent purchases of agricultural produce below support price
+
+32D. It shall be the duty of the Market Committee to make such arrangements and to take such steps as may be prescribed to prevent purchase of agricultural produce in the market area below the support price fixed by the Government.] 1[32E.
+
+A Market Committee, if convinced that any shop, gala, shed, plot or any other premises allotted or leased for purposes of sale and purchase of agricultural produce or such other purposes directly or indirectly connected with the sale and purchase of agricultural produce, is not used for the purpose for which the allotment was made or missused or where encroachment is made on the land of the Market Committee, after giving a reasonable opportunity of being heard to the person concerned, issue an order for eviction of the shop, gala, shed, plot or any other premises or for removing the encroachment and the concerned local authority of the area shall provide all possible help for such eviction or removal of encroachment to the Market Committee].
