@@ -1,0 +1,5 @@
+# Section 34A. Supervision over purchases of agricultural produce in any market or market area and payment of cost of supervision by purchasers
+
+34A. (1) The State Government may, by general or special order, direct that the purchase of agricultural produce, the marketing of which is regulated in any market or market area under this Act, shall be under the supervision of such staff appointed by the State Government as it may deem to be necessary; and subject to the provisions of this Chapter, the cost of such supervision shall be paid to the State Government by the person purchasing such produce in such market or market area.
+
+(2) The cost to be paid by a purchaser shall be determined from time to time by the State Government and notified in the market or market area (in such manner as the State Government may deem fit), so however that the amount of the cost does not exceed five paise per hundred rupees of the purchase price of the agricultural produce which is purchased by such purchaser.
