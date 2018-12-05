@@ -5,3 +5,4 @@ Bombay Act 60 of 1958, as published by the Law and Judiciary Department, Governm
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | consolidated snapshot, as modified up to 2013-07-09 | 2013-07-09 (as modified up to 2013-07-09 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 60 of 1958 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/The%20Maharashtra%20Stamp%20Act..pdf |
+| consolidated snapshot, as modified up to 2018-12-05 | 2018-12-05 (as modified up to 2018-12-05 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 60 of 1958 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/BombayActNoLXof1958_11122020.pdf |
