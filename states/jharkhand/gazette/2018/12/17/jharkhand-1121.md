@@ -1,0 +1,56 @@
+---
+kind: "gazette-notification"
+gazette: "Jharkhand Gazette"
+gazette_number: "1121"
+gazette_type: "Extra Ordinary"
+issuer: "Government of Jharkhand"
+published: "2018-12-17"
+in_force: "2018-12-17"
+in_force_evidence: "published in the Gazette 2018-12-17; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.jharkhand.2018-12-17.1121"
+language: "English text only"
+---
+
+ELECTION COMMISSION OF INDIA
+----------------
+DIRECTION
+10th December, 2018
+
+No.576/3/EVM/ECI/LET/FUNC/JUD/SDR/Vol.I/2018:- Whereas, Section 61A of the
+Representation of the People Act, 1951, provides that the giving and recording of votes by Voting
+Machines in such manner as may be prescribed, may be adopted in such constituency or
+constituencies as the Election Commission of India may, having regard to the circumstances of each
+case, specify; and
+
+2. Whereas, as per the proviso to rule 49A of the Conduct of Elections Rules, 1961, a Printer with
+a drop box of such design, as may be approved by the Election Commission of India, may also be
+attached to voting machine for printing a paper trail of the vote, in such constituency or constituencies
+or parts thereof as the Election Commission of India may direct; and
+
+3. Whereas, the Commission has considered the circumstances in 72-Jasdan Assembly
+Constituency in Gujarat and 71-Kolebira(ST) Assembly Constituency in Jharkhand, in which
+bye-election are currently in progress, and is satisfied that sufficient number of Electronic Voting
+Machines and Printers for Paper Trail are available for taking the poll in the abovementioned
+Assembly Constituencies, the polling personnel are well trained in efficient handling of the Electronic
+Voting Machines and Printer for Paper Trail and the electors are also fully conversant with the
+operation of the Electronic Voting Machines and the said Printers;
+
+4. Now, therefore, the Election Commission of India, in exercise of its powers under the said
+Section 61A of the Representation of the People Act, 1951, and rule 49A of the Conduct of Elections
+Rules, 1961, hereby specifies 72-Jasdan Assembly Constituency in Gujarat and 71-Kolebira(ST)
+Assembly Constituency in Jharkhand, as the constituencies in which the votes at the current bye-
+elections to the State Legislative Assemblies of Gujarat and Jharkhand, from the said
+constituencies, notified on 26.11.2018, shall be given and recorded by means of Electronic Voting
+Machines and Printers for Paper Trail in the manner prescribed, under the Conduct of Elections Rules,
+1961, and the supplementary instructions issued by the Commission from time to time on the subject.
+
+5. The Commission also hereby approves the design of the Electronic Voting Machine and the
+Printer with the drop box (VVPAT) as developed by the Bharat Electronics Ltd., Bangalore and
+Electronics Corporation of India Ltd., Hyderabad, which shall be attached to the said voting machines,
+to be used for the giving and recording of votes in the above said Parliamentary and Assembly
+Constituencies.
+By order,
+
+N.T.BHUTIA,
+SECRETARY
+-------------
