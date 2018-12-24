@@ -1,0 +1,82 @@
+---
+title: "Reconstitution of Pension Advisory Committtee(PAC)"
+kind: "notification"
+number: "F. No. PFRDA/17/RES/25"
+issued: "2018-12-24"
+in_force: "2018-12-24"
+issuer: "Pension Fund Regulatory and Development Authority"
+source_url: "https://www.pfrda.org.in/regulatory-framework/notifications?delta=10&start=5"
+official_text: "https://www.pfrda.org.in/documents/33652/170177/3.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Reconstitution of Pension Advisory Committtee(PAC)
+
+jftLVªh laö Mhö ,yö&33004@99       REGD. NO. D. L.-33004/99
+
+No. 531]                                      EXTRAORDINARY
+
+                                              PART III—Section 4
+
+                                       PUBLISHED BY AUTHORITY
+
+              NEW DELHI, MONDAY, DECEMBER 24, 2018/PAUSHA 3, 1940
+
+7537 GI/2018                  (1)
+
+            PENSION FUND REGULATORY AND DEVELOPMENT AUTHORITY
+                                                NOTIFICATION
+
+                                                   New Delhi, the 24th December, 2018
+          F. No. PFRDA/17/RES/25.—In exercise of the powers conferred by sub-section (1) of section 45 of the
+Pension Fund Regulatory and Development Authority Act, 2013 (Act 23 of 2013), and in terms of the sub regulation 4
+of the regulation 6 of Pension Fund Regulatory and Development Authority (Pension Advisory Committee Meetings)
+Regulations, 2015, the Authority hereby reconstitutes the Pension Advisory Committee constituted earlier vide Gazette
+Notification dated 2nd March, 2017 with effect from the date of this notification. The reconstituted Pension Advisory
+Committee is as under:
+
+      1. Chief General Manager, Government Business Unit, State Bank of India, New Delhi
+
+      2. Managing Director & CEO, NSDL e-Governance Infrastructure Ltd
+      3. Executive Director (Retail Banking), Axis Bank
+
+      4. Deputy Controller General of Accounts (Technical Advice), Department of Expenditure, Ministry of
+
+             Finance
+
+      5. Chief Executive Officer & Whole Time Director, UTI Retirement Solutions Ltd
+
+      6. Chief Executive Officer, HDFC Pension Management Company Ltd
+
+      7. Vice President and Head Custodial Services, Stock Holding Corporation of India Ltd.
+
+      8. Shri Dinesh Pant, Appointed Actuary Life Insurance Corporation of India
+
+      9. Chairman, NPS Trust
+
+      10. Director, National Institute of Bank Management, Pune
+
+      11. Dr. Renuka Sane, Associate Professor, National Institute of Public Finance and Policy (NIPFP)
+      12. Shri Kulin Patel, Senior Actuary and Director – Client Account Management, Towers Watson, Gurgaon
+
+      13. President, Institute of Actuaries of India
+
+      14. Chief Executive Officer Fixed Income Money Market and Derivatives Association of India
+
+15. Deputy Secretary (Establishment II), Department of Personnel & Training
+16. Director (A/Cs), Department of Posts, New Delhi
+17. Shri Rajiv Kapoor, Executive Director – Group HRM Minda Industries Ltd. representing CII
+18. Chief Executive-Indian Banks’ Association
+19. Director, Budget, Department of Finance, Bhopal, Government of Madhya Pradesh
+
+The Chairperson and the Members of the Authority shall be the ex officio Chairperson and ex officio members of
+the Pension Advisory Committee.
+
+                                               HEMANT G. CONTRACTOR, Chairperson
+                                                                   [ADVT.-III/4/Exty./451/18]
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064  Digitally signed
+                                                                                                  by ALOK KUMAR
+           ALOK and Published by the Controller of Publications, Delhi-110054.                    Date: 2018.12.31
+                                                                                                  10:35:40 +05'30'
+                                                  KUMAR
