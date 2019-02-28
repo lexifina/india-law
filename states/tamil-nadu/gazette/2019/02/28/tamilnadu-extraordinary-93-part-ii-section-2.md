@@ -1,0 +1,46 @@
+---
+kind: "gazette-notification"
+gazette: "Tamil Nadu Government Gazette"
+gazette_number: "93"
+gazette_type: "Extraordinary"
+part: "Part II"
+issuer: "Government of Tamil Nadu"
+subject: "ANIMAL HUSBANDRY, DAIRYING AND FISHERIES DEPARTMENT-Place and dates for conducting Jallikattu under clause (dd) of section 2 of the Prevention of CruelTY to Animals ACT, 1960"
+published: "2019-02-28"
+in_force: "2019-02-28"
+in_force_evidence: "published in the Gazette 2019-02-28; no other commencement day stated"
+official_text: "http://www.stationeryprinting.tn.gov.in/extraordinary/2019/93_Ex_II_2.pdf"
+mirror: "https://archive.org/details/in.gazette.tamilnadu.2019-02-28.Extraordinary_93_Part-II_Section-2"
+language: "English text only"
+---
+
+© [Regd. No. TN/CCN/467/2012-14.
+GOVERNMENT  OF  TAMIL  NADU [R. Dis. No. 197/2009.
+2019 [Price: Re. 0.80 Paise.
+TAMIL  NADU
+GOVERNMENT GAZETTE
+EXTRAORDINARY PUBLISHED BY AUTHORITY
+No. 93] chennai, thursDAY, february 28,  2019
+Maasi 16, Vilambi, Thiruvalluvar Aandu-2050
+Part II—Section 2
+Notifications or Orders of interest to a Section of the public
+issued by Secretariat Departments.
+NotificationS by government
+animal husbandry, dairying and fisheries department
+Place and dates for conducting Jallikattu under clause (dd) of section 2 of the Prevention
+of CruelTY to Animals ACT, 1960 (central act 59 of 1960) as amended by the prevention of
+cruelty to animals (tamil nadu amendment) act, 2017 (Act 1 of 2017)
+[G.O. (D) No. 76, animal husbandry, dairying and fisheries (AH3), 28th February 2019,
+No. II(2)/AHDF/205(d)/2019.
+Under clause (dd) of Section 2 of the Prevention of Cruelty to Animals Act, 1960 (Central Act 59 of 1960),
+as amended by the Prevention of Cruelty to Animals (Tamil Nadu Amendment), Act, 2017 (Act 1 of 2017),
+the Governor of Tamil Nadu hereby notifies that Jallikattu may be conducted from 5th to 15th March, 2019
+in the place specified below:-
+salem DISTRICT
+Name of the Village Name of the Taluk Date of Event
+Kadambur Gengavalli 05-03-2019
+K. GOPAL,
+Principal Secretary to Government.
+printed  and  published  by  the Director  of  Stationery  and  printing, chennai
+on  behalf  of  the  Government  of  Tamil  Nadu
+II-2 Ex. (93)
