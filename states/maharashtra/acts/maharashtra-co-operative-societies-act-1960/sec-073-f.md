@@ -1,0 +1,3 @@
+# Section 73F
+
+73F. Election to more than one seat on the committee of society.— If a person is elected to more than one seat on the committee then, unless within a period of thirty days from the date of declaration of the result of the election he resigns all but one of the seats by writing under his hand addressed to the Election Officer, or as the case may be, the officer authorised by the State Co-operative Election Authority in this regard, all the seats shall become vacant. On receipt of such resignation or on the seats becoming so vacant, the Election Officer, or as the case may be, the officer authorised by the State Co-operative Election Authority in this regard shall cause to hold the election for filling the vacancy.] 3[* *] 4[* *]
