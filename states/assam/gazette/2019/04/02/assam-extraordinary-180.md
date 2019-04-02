@@ -1,0 +1,136 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "180"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 180 HLA-585-2014-278 Dated 02-04-19"
+published: "2019-04-02"
+in_force: "2019-04-02"
+in_force_evidence: "published in the Gazette 2019-04-02; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._180_hla-585-2014-278_dated_02-04-19.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2019-04-02.180"
+language: "English text only"
+---
+
+PUBLISHED BY THE AUTHORITY
+No. 180 Dispur, Thursday, 25th April, 2019, 5th Vaisakha, 1941 (S. E.)
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+HEALTH & FAMILY WELFARE DEPARTMENT
+NOTIFICATION
+The 2nd April, 2019
+No. HLA.585/2014/Pt./278.- In supersession of earlier Essential Drugs List, the
+Health & Family Welfare Department, Government of Assam hereby notifies the Essential
+Drugs List (EDL) 2019-20 as given at Annexure-A.
+The aforesaid EDL shall come into force with immediate effect and until further
+orders.
+SAMIR K. SINHA,
+Principal Secretary to the Government of Assam,
+Health & Family Welfare Department.
+
+824 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+.
+
+825 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+.
+
+826 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+827 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+828 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+829 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+830 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+831 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+832 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+833 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+834 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+835 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+836 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+837 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+838 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+839 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+840 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+841 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+842 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+843 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+844 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+845 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+846 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+847 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+848 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+849 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+850 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+851 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+852 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+853 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+854 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+855 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+856 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+
+857 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 25, 2019
+.
+Guwahati : Printed and Published by the Dy. Director (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 359 - 10 + 10 - 25 - 04 - 2019. (visit at– dpns.assam.gov.in)
