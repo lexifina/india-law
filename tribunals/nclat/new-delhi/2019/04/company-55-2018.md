@@ -1,0 +1,1595 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Company) No. 55 of 2018"
+decided: "2019-04-16"
+section: "Company"
+court: "Court - 2"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/19734282995cb5b0d4aa805.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Company) No. 55 of 2018, 2019-04-16
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+NEW DELHI
+Company Appeal (AT) No.394/2017
+[Arising out of Order dated 15.11.2017 passed by National Company Law
+Tribunal, Chandigarh Bench, Chandigarh in CP No.146/ND/2012/RT CP
+No.27/Chd/Pb/2016 with CA No.255 of 2015]
+IN THE MATTER OF: Before NCLT Before NCLAT
+1. M/s Aar Kay Chemicals Original Petitioner Appellant
+Private Limited, (OP) No.1 (A) No.1
+Village Saroud,
+Ludhiana Road,
+Malerkotla, Sangrur,
+Punjab - 148023
+2. Mr. Achhru Ram OP 2 A2
+Sharma,
+349, A.P. Enclave,
+Dhuri – 148024
+(Punjab)
+3. Mr. Pawan Kumar OP 3 A3
+Singla,
+R/o Kothi Opp P.S.E.B.
+M.K. Road,
+Dhuri – 148024
+(Punjab)
+4. Mr. Vijay Kumar Goyal, OP 4 A4
+16B-146/6, Yash
+Chaudhary Market,
+Dhuri – 148024
+(Punjab)
+5. Mr. Parshotam Dass OP5 A5
+Garg,
+352, A.P. Enclave,
+Dhuri – 148024
+(Punjab)
+6. M/s Kaveri Shilpkala OP 6 A6
+Limited,
+TU-19, 2nd Floor,
+
+2
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Pitampura,
+New Delhi – 110019
+7. M/s Rajasthan OP7 A7
+Plantation Co. Ltd.
+485B, Sham Nagar,
+Ludhiana – 141001,
+Punjab
+8. Mrs. Rita Singla, OP8 A8
+R/o Kothi Opp. P.S.E.B.
+Malerkotla Road,
+Dhuri – 148024
+(Punjab)
+9. Mr. Dev Raj, OP9 A9
+R/o Kailash Oil Mills,
+Dhuri – 148024
+(Punjab)
+Versus
+1. M/s. A.P. Refinery Original Respondent Respondent
+Private Limited, (OR) No.1 (R) No.1
+Tapar Harnia, Nakodar
+Road, Jagraon
+Ludhiana – 141001
+(Punjab)
+2. M/s Dhuri Cold Storage OR2 R2
+Private Limited,
+M.K. Road, Dhuri,
+Distt. Sangrur,
+Punjab – 148024
+3. Mr. Ravi Nandan Goyal OR3 R3
+17-18-19, Apex Nagar,
+Barewal Road,
+Near Easy Day,
+Ludhiana – 141001,
+Punjab
+4. Mr Shiv Kumar Goyal OR4 R4
+B-35-951/45/7-1
+Shivalik Enclave,
+
+3
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Barewal Road,
+Near Easy Day,
+Ludhiana – 141001,
+Punjab
+5. Mr. Bhuwan Goyal, OR5 R5
+17-18-19, Apex Nagar,
+Barewal Road,
+Near Easy Day,
+Ludhiana – 141001,
+Punjab
+6. Mr. Arun Kumar Goyal, OR6 R6
+A-8, Aur Ville,
+Janpath Estate,
+Village Zhamat,
+(District Ludhiana)
+Punjab
+7. M/s Anu Buildwell OR7 R7
+Private Limited,
+18, Chander Lok
+Enclave, Pitam Pura,
+Delhi – 110034
+8. Ms. Anita Rani, OR8 R8
+B-35-951/45/7-1
+Shivalik Enclave,
+Barewal Road,
+Near Easy Day,
+Ludhiana – 141001,
+Punjab
+9. Ms. Kusum Garg, OR9 R9
+Gali No.3,
+Talwandi Road,
+Raikot, Punjab
+10. Mr. Pratul Goyal, OR10 R10
+House No.153,
+Punjabi Bagh,
+Patiala
+11. Dr. Raj Singh, OR11 R11
+Registrar of Companies
+Corporate Bhawan,
+Plot No.4 B,
+
+4
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Sector 27 B,
+Madhya Marg,
+Chandigarh – 160019
+12. Sh. S.B. Gautam, OR12 R12
+Regional Director
+B-2 Wing, 2nd Floor,
+Paryavaran Bhawan,
+CGO Complex,
+New Delhi – 110003
+For Appellants: Mr. Salman Khurshid, Senior Advocate with Ms.
+Tushita Ghosh, Mr. Shashank Katyayen, Ms. Shubhi
+Sharma and Mr. Aniruddha Choudhury, Advocates and
+Mr. Gaurav Mehta, PCS
+For Respondents: Mr. Krishnendu Datta, Mr. Arnav Kumar and Mr. Shivi
+ Sanyam, Advocates
+And
+Company Appeal (AT) No.55/2018
+[Arising out of Order dated 15.11.2017 passed by National Company Law
+Tribunal, Chandigarh Bench, Chandigarh in CP No.146/ND/2012/RT CP
+No.27/Chd/Pb/2016 with CA No.255 of 2015]
+IN THE MATTER OF: Before NCLT Before NCLAT
+1. M/s. A.P. Refinery Original Respondent Appellant
+Private Limited No.1 – (OR1) (A) No.1
+2. M/s Dhuri Cold Storage OR 2 A2
+Private Limited
+3. Ravi Nandan Goyal OR 3 A3
+4. Shiv Kumar Goyal OR 4 A4
+5. Bhuwan Goyal OR 5 A5
+
+5
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+6. Arun Kumar Goyal OR 6 A6
+7. Anu Buildwell OR 7 A7
+Private Limited
+8. Ms. Anita Rani OR 8 A8
+9. Ms. Kusum Garg OR 9 A9
+10. Mr. Pratul Goyal OR 10 A10
+Versus
+1. M/s Aar Kay Chemicals Original Petitioner Respondent
+Private Limited No.1 (OP-1) (R) No.1
+
+2. Mr. Achhru Ram OP 2 R2
+Sharma
+3. Mr. Pawan Kumar OP 3 R3
+Singla
+4. Mr. Vijay Kumar Goyal OP 4 R4
+5. Mr. Parshotam Dass OP 5 R5
+Garg
+6. M/s Kaveri Shilpkala OP 6 R6
+Limited
+7. M/s Rajasthan OP 7 R7
+Plantation Co. Ltd.
+8. Mrs. Rita Singla OP 8 R8
+
+6
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+9. Mr. Dev Raj OP 9 R9
+(Addresses of parties are as in CA(AT)394/2017 - Supra)
+For Appellants: Mr. Krishnendu Datta, Mr. Arnav Kumar and Mr.
+Shivi Sanyam, Advocates
+For Respondents: Mr. Salman Khurshid, Senior Advocate with Ms.
+Tushita Ghosh, Mr. Shashank Katyayen, Ms. Shubhi
+Sharma and Mr. Aniruddha Choudhury, Advocates
+and Mr. Gaurav Mehta, PCS
+J U D G E M E N T
+(16th April, 2019)
+A.I.S. Cheema, J. :
+1. Both these Appeals arise out of same Impugned Judgement and
+Order. In Company Appeal 55/2018, there has been some delay beyond
+the period of 45 days provided for filing of Appeal. We have seen Application
+for condonation of delay – IA No 204 of 2018. Although the Respondents
+of Company Appeal 55/2018 are opposing condonation of delay, we accept
+the reasons given by the Appellants of Company Appeal 55/2018 and
+condone the delay.
+2. Now coming to both these Appeals (the Appeals have been heard
+at length). They are arising out of different parts of the operative Orders
+passed by National Company Law Tribunal, Chandigarh Bench,
+Chandigarh (‘NCLT’, in short) in CP No.146/ND/2012/RT CP
+No.27/Chd/Pb/2016 with CA 255 of 2015. The Judgement was passed by
+NCLT on 15th November, 2017. The Petition was filed by the Appellants of
+
+7
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Company Appeal 394/2017. We are disposing both these Appeals by this
+common Judgement.
+References: For the sake of convenience, we will refer to the parties in
+the manner in which they were arrayed in the Company Petition and as
+they have been described while referring to the parties in the cause title of
+CA 394/2017. We will also be referring to the original Petitioner No.1
+Company as “Aar Kay” and original Respondent No.1 Company as “A.P.
+Refinery” as well as original Respondent No.2 as “Dhuri” Company.
+3. It is the case of the original Petitioners and it is argued for the
+Petitioners that Petitioner Nos.2, 4, 5 and one Bhim Sain - brother of P3
+and R6 were five friends and they formed AP Group and initially
+incorporated A.P. Solvex Limited (now known as Ricela Health Foods
+Limited) in 1992. In 1998, this AP Group acquired P1 - Aar Kay Chemicals
+Private Limited, which was at that time a sick industrial unit in order to
+supplement the business of parent company, i.e. A.P. Solvex Ltd. Later,
+on 01.08.2003, R1 Company – A.P. Refinery was incorporated to
+manufacture and supply crude rice bran oil to the parent Company, which
+was in the business of solvent extraction, refining and supply of refined
+rice bran oil. When AP Refinery was incorporated – OP2 to 5 along with R3,
+4 and 6 subscribed to the Memorandum. The Petitioner group had 12,000
+shares together with Respondent Group having 9,000 shares out of total
+21,000 shares. Thus, the Petitioner group had 57.14% of total paid up
+capital of R1 – AP Refinery. According to the Petitioners, later on, R3 and
+
+8
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+R4, who were strangers to original AP Group took advantage of their
+control over Board of Directors in R1 – AP Refinery and started acting
+against the interest of Petitioners. They consistently diluted the
+shareholding of original Petitioners from 57.14% to 11.34% by the end of
+2009. When the Petitioners took up the issue, it was agreed to restore the
+shareholding/control of the Petitioner Group through P1 – Aar Kay
+Company where the Petitioners held majority shares. It was decided that
+P1 – Aar Kay will acquire/purchase substantial shares of R1 by making
+long term investment by purchasing shares from existing shareholders of
+R1 Company. Pursuant to such understanding between the two groups, in
+May 2010, 14,96,000 equity shares were purchased in the name of P1 –
+Aar Kay by execution of transfer deeds and due payment of consideration
+in May, 2010 and the same were duly registered in the records of R1 – AP
+Refinery on 19th May, 2010 (1st Transfer dated 19.05.2010) and such
+shares stood on that date in the name of P1 – Aar Kay. Thus, the
+shareholding of the Petitioners was restored to 56.97% in A.P. Refinery,
+which was the original shareholding structure.
+Bone of Contention
+4. Petitioners claim the subsequent facts as bone of contention
+leading to the filing of the Company Petition. The Petitioners claim that the
+Respondents taking disadvantage of their management control in R1
+Company – AP Refinery by series of oppressive acts, reduced the majority
+shareholding of the Petitioners in R1 from 56.97 to 9.25%. Petitioners
+
+9
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+allege that in the Respondent No.1 Company – A.P. Refinery, the
+Respondents illegally and unlawfully recorded transfer of 14,96,000
+shares, which stood in the name of P1 – Aar Kay, showing the same as
+transferred to R2 Company – Dhuri on 24th May, 2010 (2nd Transfer dated
+24.05.2010) by filing Annual Returns which showed ante-dated transfer.
+In addition to above, the Petitioners claimed that the Respondents illegally
+and unlawfully made fresh allotments of :-
+a) 3,50,000 shares to OR7 - M/s. Anu Buildwell Pvt. Ltd. on 29th
+June, 2011 (1st Allotment), and
+b) Fresh allotment of 4 Lakh shares to R2, 3, 8, 9 and 10 on 10th
+October, 2012 (2nd Allotment), behind the back of original
+Petitioners and without following any procedure.
+Because of such acts, the Petition came to be filed complaining of
+oppression and mismanagement on the part of Respondents.
+Ref: Impugned Order
+5. The Impugned Judgement and Order of NCLT when perused,
+shows summary recorded from the Company Petition. The NCLT noted the
+various contentions raised and prayers made by the original Petitioners.
+The Respondents filed written Reply in NCLT and the learned NCLT took
+note of the defence raised by the Respondents. The Respondents defended
+their actions, details of which can be seen in the Impugned Order. It
+appears that the original Petitioners filed Rejoinder and Respondents filed
+
+10
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Sur-Rejoinder to support the respective cases as pleaded by the parties.
+All this is summarized in the Impugned Order which can be seen and we
+need not prolix this judgement reproducing those details, though we note
+the same. In para – 88 of the Impugned Judgement, the NCLT after
+referring to the various pleadings put up by the parties, recorded that the
+arguments before it were confined only with regard to transfer of 14,96,000
+shares and issue of fresh equity shares.
+In para – 94 of the Impugned Order, NCLT has recorded that
+during the pendency of the Petition, R3 and R6 filed CA 255/2015 claiming
+that the said Respondents being Directors of R1 – A.P. Refinery, entered
+into the Arbitration Agreement dated 12.07.2015 with P2 to P5, the
+Directors of Ricela Health Foods for referring the disputes to arbitration
+and appointing Arbitral Tribunal comprising of Ravi Kalra, Subhash
+Chand Singla, Meghraj Garg, Hemant Jindal, Satdev Jindal and Deepak
+Jindal to resolve the dispute between the parties. Copy of the agreement
+was attached as Annexure A-1. It was claimed that after due proceedings
+before the Arbitral Tribunal, a consent Order was passed on 12.07.2015
+itself. The Impugned Judgement refers to details of what was recorded as
+consent award, which was tendered as Annexure A-2. The Respondents
+claimed that because of this, the Petitioners were bound to withdraw the
+Petition and could not challenge shareholding of R1 – AP Refinery.
+5.1 The NCLT appears to have taken Reply of the Petitioners 2 to 5,
+who opposed the prayers of Respondents and who claimed that the said
+
+11
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Annexures A1 and A2 had nothing to do with the present Petition. NCLT
+in para – 106 of the judgement took up CA 255/2015 which claimed that
+the Petition deserved to be dismissed on the ground of Arbitration
+Agreement and said Award and after discussing the matter and the
+provisions of Arbitration and Conciliation Act, 1996, found that the
+jurisdiction of the Tribunal was not barred and for reasons recorded,
+dismissed CA 255/2015 (para – 144 of the Judgement).
+6. NCLT from para – 145 of the Judgement took up the main
+Company Petition for discussion and considered the disputed transfer of
+14,96,000 shares on 24th May, 2010 and the disputed issuance of
+allotment of fresh shares on 29.06.2011 and 10th October, 2012 referred
+above. NCLT found (in para – 158 of Judgement) that the transfer of
+14,96,000 shares by P1 Company – AP Refinery in favour of R2 – Dhuri
+was not legal and thus, liable to be set aside. Para – 80 of the Impugned
+Order reads as under:-
+“80. Regarding the letter of petitioners, it is stated
+that reliance on the document as an offer for
+arbitration is misplaced as it was only to give the
+wider power to the named persons to settle all
+commercial disputes between the parties, but the
+mediators ultimately refused to mediate and they
+gave a letter dated 14.02.2013 Annexure R-12 (with
+rejoinder), having abandoned the mediation
+proceedings as no amicable settlement could be
+achieved. Moreover, any such letter could not give
+authority to the respondents to unlawfully transfer
+the shares held by P-1 Company. It is alleged that by
+the end of the year 2009, the shareholding of
+petitioner group in R-1 company was substantially
+diluted and, therefore, the respondents agreed to
+
+12
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+restore majority shareholding of the petitioner group
+through P-1 company, in which the petitioners along
+with their associates held majority shares. It was with
+this understanding that the petitioner group would
+hold the majority shareholding in R-1 company in the
+manner that 14,96,000 equity shares were
+transferred in favour of P-1 company on 19.05.2010
+to make it a shareholder in R-1 Company to the
+extent 45.60%. The petitioners have even expressed
+their readiness to accept the proportionate offer out
+of the fresh allotment of 3,50,000 and 4,00,000
+shares only if 14,96,000 shares of P-1 company are
+restored.”
+7. When the learned NCLT took up discussion regarding allotment of
+additional shares of 3,50,000 and 4 Lakhs, it mentioned in para – 159:-
+“However, no detailed discussion on this issue is
+required as the respondents have made an offer
+which was re-iterated during the course of arguments
+that the petitioners would be issued in proportion to
+the shares held by them in R-1 company leaving the
+balance with the allottees. The exercise would be
+completed by R-1 company by holding a fresh meeting
+of the Board by issuing notice to the petitioners No.2
+to 9 and if they are willing to purchase the shares at
+the value on which these shares were transferred to
+some of the respondents as described above. In case
+the petitioners do not offer for these shares, the
+allotment of the additional shares shall remain intact
+with the respondents.”
+NCLT noted that the other disputes relating to falsification of
+accounts and siphoning of funds were not pressed in arguments. NCLT
+proceeded to pass the following Operative Order:-
+“161. From the discussion made above, it is found
+that the facts of the case would attract the provisions
+of Section 397 of the Companies Act, 1956, but
+winding up would unfairly prejudice the members.
+
+13
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+The instant petition is disposed of with the following
+directions:-
+i) CA No.255 of 2015 filed by the respondents
+is dismissed;
+ii) 14,96,000 shares now existing in the name
+of R-2 company be transferred back in the
+name of P-1 and its name be entered in the
+register of members of R-1 company. At the
+same time, the amount of Rs.15,00,000/-
+shown in the account of P-1 company
+towards loan to AP Oil Mills shall stand
+written off and the name of R-2 company
+be omitted from the register of members of
+R-1 company; and
+iii) R-1 company shall hold fresh meeting of
+the Board of Directors offering the
+proportionate shares out of additional
+allotment of 3,50,000 shares in 2011 and
+4,00,000 shares in 2012 respectively at the
+rates at which these were transferred to
+some of the respondents. The transfer
+shall be made in favour of the petitioners
+proportionately as per shares held by P-2
+to P-9, on these petitioners offering to
+subscribe to these shares at the rates
+allotted to some of the respondents within
+the time to be allotted by R-1 company in
+the said meeting and they shall deposit the
+required amount with R-1 company; and
+iv) Failing the petitioners to send the offer for
+allotment of proportionate shares as were
+held by them on the date of allotment of
+additional shares or in making payment,
+the Board of Directors of R-1 company
+would be at liberty to decide against the
+said allotment of proportionate shares; and
+v) Rest of the shares out of the additional
+allotment of 3,50,000 and 4,00,000
+shares, will continue to be held by the
+respondents to whom the shares were
+allotted; and
+
+14
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+vi) The petitioner No.1 is not to be offered any
+share in these additional shares on the
+basis of this order as P-1 company became
+the shareholder only on 19.05.2010.”
+The Two Appeals
+8. Aggrieved by such Order passed by NCLT, CA 394/2017 has been
+filed by original Petitioners and it has been argued for the Appellants –
+Petitioners that the direction of “transfer” of 14,96,000 shares of R1
+Company from the name of R2 – Dhuri Company in the name of P1 – Aar
+Kay was not correct as actually the initial transfer dated 24.05.2010
+should have been cancelled and Aar Kay should have been held as holding
+these shares in AP Refinery since 19th May, 2010. It has been argued that
+NCLT should have also set aside the additional allotments of 3,50,000
+shares and 4 Lakh shares made on 29.06.2011 and 10.10.2012 and NCLT
+had proceeded on wrong premise recorded in para – 80 of the Impugned
+Order that the original Petitioners had expressed readiness to accept the
+proportionate offer. According to the Petitioners, their offer clearly
+mentioned that it was subject to, only if 14,96,000 shares of P1 Company
+were restored, which had to be w.e.f. the date when they were wrongly
+transferred on 24.05.2010, having stood in the name of Aar Kay since
+19.05.2010.
+9. Against this, the original Respondents have come up with their
+own Appeal CA 55/2018. They have challenged the Impugned Order
+claiming that the Impugned Order wrongly held the Respondents guilty of
+
+15
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+oppression and mismanagement and that the NCLT wrongly held that 2nd
+transfer of 14,96,000 shares was illegal. They have also challenged the
+dismissal of CA 255/2015. They want the direction recorded in para –
+161(i) of the Impugned Order to be set aside. Their prayer is to uphold the
+2nd transfer of 14,96,000 shares of Aar Kay Company, in the records of AP
+Refinery to R-2 – Dhuri. The prayer is that the original Petitioners should
+be directed to exit from AP Refinery in terms of settlement agreement dated
+12.07.2015.
+10. The pleadings as raised by the parties and the developments when
+the matter was before NCLT, have been summarized in details by the
+learned NCLT in the Impugned Judgement and as such, we are not
+burdening this Judgement with those many details. To go by chronology,
+first we take up CA 55/2018 for consideration as the result of CA 55/2018
+would impact CA 394/2017 also.
+CA 55 of 2018 (Appeal of Original Respondents)
+11. References: While dealing with CA 55 of 2018, unless
+mentioned otherwise, we will be referring to documents and page numbers
+as from the record of CA 55 of 2018.
+We will continue to refer to the parties as original Petitioners or
+original Respondents, in the manner in which they were referred in the
+Company Petition and which is in line with CA 394 of 2017.
+
+16
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Grounds of Challenge in CA 55 of 2018
+12. In CA 55/2018, original Respondents are finding fault with the
+Impugned Order on the following grounds:-
+(A) Original Respondents claim that it has been wrongly held by NCLT
+that case of oppression and mismanagement is made out against them;
+(B) NCLT has wrongly held that the 2nd transfer of 14,96,000 shares
+of Respondent No.1 Company – AP Refinery held by original Petitioner No.1
+Company – Aar Kay, to original Respondent No.2 – Dhuri Company on
+24.05.2010, was illegal;
+(C) NCLT wrongly dismissed the application – CA 255 of 2015 filed by
+the Respondents seeking dismissal of the Company Petition in view of
+settlement agreement dated 12.07.2015.
+13. Before proceeding further, it needs to be noted here that it appears
+original Respondents 3 and 4 were Directors in OR1 – AP Refinery as well
+as they were Directors in OP1 – Aar Kay and they were also Directors in
+OR2 – Dhuri Company.
+13.1 It is the case of the original Petitioners that OR3 and 4 had
+purchased 14,96,000 shares of the Company OR1 – AP Refinery from the
+funds of OP1 – Aar Kay and on 19.05.2010, those shares stood transferred
+in the name of OP1 – Aar Kay in the record of OR1. They relied on Ledger
+Folio dated 19.05.2010. The fact that 14,96,000 shares of the Company –
+
+17
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+AP Refinery had been transferred in the name of P1- Aar Kay and on
+19.05.2010, stood in the name of P1 – Aar Kay, is not in dispute. The
+dispute is with regard to the 2nd transfer of these shares on 24th May, 2010.
+The transfer form on record dated 24.05.2010 has signature of the original
+Respondent No.4 claiming to represent original Petitioner No.1 and has
+signature of OR3 as representing OR2 –Dhuri Company, is also not in
+dispute.
+Arguments of Appellants in CA 55/2018 – Original Respondents
+14. It has been argued by the leaned Counsel for original Respondents
+– Appellants that the transfer deed dated 24.05.2010 was signed by one of
+the Directors of original Petitioner No.1 and so, the original Petitioner No.1
+cannot challenge its own actions. It is alleged that the OR1 Company – AP
+Refinery could not be said to have acted in oppressive manner because
+when the transfer form was submitted, it had only to register the transfer
+and registering the change could not be faulted with. It is argued that when
+R4 was Director of P1 Company, if he acted beyond authority, the
+shareholders of the OP1 – Aar Kay would be the aggrieved persons and not
+the shareholders of OR1 – AP Refinery.
+15. It has also been argued that the NCLT wrongly dismissed CA
+255/2015 which had been filed on the basis of Global Settlement
+Agreement dated 12.07.2015 (Page 634), but according to the Counsel,
+when the Company Petition was pending, the original Respondent No.3
+and original Respondent No.6 as well as original Petitioners 2 to 5 had
+
+18
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+entered into the agreement on behalf of the original Petitioner group
+including their family members, associates, affiliates, group companies
+and thus, NCLT wrongly ignored the settlement and directed transfer back
+of 14,96,000 shares in the name of Aar Kay (P1). NCLT wrongly brushed
+aside the settlement agreement dated 12.07.2015, only because there was
+no prayer in CA 255 of 2015 to treat the settlement agreement as
+compromise. The original Petitioners had agreed to exit OR1 Company –
+AP Refinery under the settlement and this was required to be considered.
+The learned Counsel for the Appellants – original Respondents submits
+that NCLT wrongly held that OR1 – AP Refinery was not party to the
+settlement agreement. The agreement was binding on OP1 – Aar Kay as it
+was signed and approved by its majority shareholders and majority
+Directors.
+16. It is further argued by the Appellants – original Respondents that
+the transfer of 14,96,000 shares on 24.05.2010 (2nd Transfer) was in
+accordance with the Companies Act. When OR4 – Director of Aar Kay and
+OR3 – Director of OR2 – Dhuri had signed the transfer deed, there was
+sufficient cause for OR1- AP Refinery to register the said transfer. It was
+wrong to hold that only because no valid Board Resolution was produced
+on behalf of two Companies (Aar Kay and Dhuri), the transfer was illegal.
+Under Section 108 of the Companies Act, 1956 (‘old Act’, in short), it was
+not necessary for AP Refinery to insist on Board Resolutions of the
+Transferor Company and Transferee Company. It is claimed that the 2nd
+
+19
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Transfer, which is dated 24th May, 2010, is supported by Board Resolution
+of OR1 – AP Refinery dated 24.05.2010 of which the Board of Directors
+comprised of OR3, 4 and 5. It is also argued that there is Board Resolution
+of original Respondent No.2 – Dhuri dated 1st April, 2010 authorizing
+purchase of 14,96,000 shares of AP Refinery from OP1. The Board of Dhuri
+Company comprised of original Respondent Nos. 3 and 4. As regards the
+Board Resolution of OP1 – Aar Kay, it is argued that there was Board
+Resolution taken on this count by original Respondents 3 to 5 and they
+had authorized sale of 14,96,000 shares of Aar Kay to Dhuri. It is argued
+that the Respondents could not produce the Board Resolution as the
+statutory records of Aar Kay Company were kept at the factory premises of
+OP1 Company at Malerkotla, which was under the control of original
+Petitioners. It is claimed that in one of the Company Petitions which has
+led to CA 2/2018, the original Petitioners have been found guilty of
+manipulating and forging statutory records of Aar Kay Company. The
+learned Counsel submitted that the NCLT wrongly doubted Resolution
+dated 24.05.2010 of OR1 – AP Refinery only because the same was not
+filed when the Reply was filed in NCLT and was produced only at the time
+of inspection. According to the Counsel, NCLT wrongly held that as the
+Board Resolution dated 24.05.2010 does not find mention in compliance
+report of the AP Refinery Company, the same was doubtful. The learned
+Counsel for the Appellants – Respondents submitted that NCLT wrongly
+doubted transfer deed dated 24.05.2010 as the document bore the stamp
+of Registrar of Companies dated 05.05.2010 and there was delayed
+
+20
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+payment of consideration. (It may be mentioned that in para 152 of
+Impugned Order, NCLT questioned rationale for transfer deeds bearing
+stamp of ROC dated 05.05.2010 when OP1 itself was not having 14,96,000
+shares till 19.05.2010.)
+17. It is further argued by the learned Counsel for the Appellants –
+original Respondents that in 2010, the Respondent group had majority
+directorial control in AP Refinery, Dhuri Company as well as Aar Kay
+Company. At that time, 5 investment companies of the Respondent group
+had 14,96,000 shares in AP Refinery. The Respondent group through those
+5 investment companies, purchased these shares for total consideration of
+3,74,00,000. It is claimed that in order to secure and consolidate
+shareholding of the Respondent group in OR1 – AP Refinery and for the
+purpose of tax planning, it was decided that the 5 investment companies
+would first transfer 14,96,000 shares in the name of OP1 – Aar Kay
+Company which in turn would immediately be transferred further in the
+name of OR2 – Dhuri Company. Since the transfer would be amongst the
+companies controlled by the Respondent group, it was agreed that sale
+consideration for both the transfers would be a minimal sum of
+Rs.15,10,960. Thus, the submission is that the 1st Transfer which was
+transfer in the name of OP1 – Aar Kay was required to be kept in view and
+2nd Transfer of transferring the shares of Aar Kay to Dhuri could not have
+been seen in isolation.
+
+21
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+18. The learned Counsel for the Appellants has claimed that the
+original Petitioners wrongly claimed that there was oral understanding that
+the Petitioner group would have majority shareholding in OR1 – AP
+Refinery. Between 2004 – 2009, several share allotments were made as a
+result of which, original Petitioners held merely 11.40% shareholding in
+AP Refinery. The original Petitioners never earlier protested. According to
+the Appellants, the original Petitioners wrongly claimed that 14,96,000
+shares from the 5 investment Companies were transferred in the name of
+OP1 – Aar Kay so that the Petitioners’ promoter group could re-acquire
+majority controlling interest in AP Refinery.
+19. The learned Counsel for the Appellants further submitted that the
+original Petitioners challenged the transfer of 14.96.000 shares after a gap
+of 2 years and thus, there was delay and latches. They knew about the
+transfer and did not immediately object. Thus, the learned Counsel
+claimed that the Impugned Order directing retransfer should be quashed
+and set aside.
+Arguments of Respondents of CA 55/2018 – Original Petitioners
+20. Against this, the learned Senior Counsel for the original
+Petitioners, who are Respondents in this CA 55/2018, has argued that it
+is an admitted fact that in CA 255 of 2015, which was filed in NCLT, the
+original Respondents had merely sought dismissal of the Company Petition
+on the basis of document, which was allegedly termed as Arbitration Award
+dated 12.07.2015 and thus, the Appellants cannot claim that the
+
+22
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+document should have been treated as settlement agreement, which
+document was not even signed by all the parties to the Petition and which
+it is claimed, did not cover the subject matter of the Company Petition. It
+is further argued that the original Petitioner No.1 – Aar Kay Company as
+well as the original Petitioners 2 to 9, who are members of the OR1
+Company – AP Refinery, were aggrieved persons as the shares which stood
+in the name of Aar Kay on 19.05.2010 had been wrongly shown as
+transferred to Dhuri and they had right to seek rectification of the Register
+of members. It is argued that there was no sufficient cause for the OR1
+Company – AP Refinery to register the transfer for reasons which have been
+recorded by NCLT in the Impugned Order. Justification now being shown
+that the Auditors had shown the amount of cheque under the head
+“Unsecured Loan” is afterthought and no statement of the Auditors was
+brought on record. The alleged Board Resolution dated 01.04.2010, which
+has now been brought on record in the Appeal, is false and fabricated
+document. In the absence of Board Resolutions of the Transferor and
+Transferee Company accompanying the transfer form, AP Refinery could
+not have recorded the transfer. No share certificates were delivered to OR1
+– AP Refinery when such transfer was recorded, which is clear from the
+minutes of Board Meeting purportedly held on 24th May, 2010. There is no
+justification for alleged tax planning and there is no evidence in support
+for making such two transfers. It is claimed that the original Petitioners
+came to know about the illegal transfer in May, 2012 and filed the present
+Petition and there are no delays or latches. As the original Petitioner group
+
+23
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+which on 19.05.2010 had 56.97% shareholding was reduced by such
+illegal 2nd Transfer, case of oppression was clearly made out. The learned
+Counsel submitted that Compliance Certificate is statutory document and
+it did not show any such meeting dated 24th May, 2010 taking place. It has
+been argued by the learned Counsel for the Respondents that the shares
+in the name of Aar Kay were illegally transferred on 24th May, 2010 by the
+original Respondents and NCLT has directed retransfer of 14,96,000
+shares in the name of OP1 – Aar Kay, instead of cancelling the 2nd transfer.
+It is argued that it must be held that since 19.05.2010 itself, the shares
+were in the name of Aar Kay in AP Refinery. It is stated that the NCLT
+wrongly held that on 19.05.2010, OP1 was not holding shares in AP
+Refinery. Even if transfer back was to be directed, it has to take
+retrospective effect and OP1 – Aar Kay could not be deprived of the status
+of having held 14,96,000 shares since the time its name was entered in
+the registers of AP Refinery on 19.05.2010. The counsel submitted that the
+original Petitioners have on this count, filed their Civil Appeal 394/2017.
+Dismissal of CA 255/2015 by NCLT
+21. We have heard Counsel for both sides with regard to disputes
+being raised by original Respondents relating to dismissal of their CA
+255/2015. Copy of CA 255/2015 has been filed by the original
+Respondents in CA 55/2018 at Annexure – W. The application was filed by
+original Respondents 3 and 6. The prayer made was to dismiss the
+Company Petition as it was claimed that OP2 to 5 - Directors of Ricela
+
+24
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Health Foods Ltd. and OR3 and 6 – Directors of AP Refinery had entered
+into an agreement to refer their disputes to arbitration and for the purpose,
+an agreement dated 12.07.2015 was entered into. The application referred
+to certain persons as the Arbitral Tribunal to resolve disputes of the
+aforesaid parties. It was further claimed that the Arbitral Tribunal passed
+consent award on the same date of 12.07.2015 and the application referred
+to what was stated to be the “Award”. The application annexed the
+agreement for appointment dated 12.07.2015 as Annexure – A1 and the
+said Arbitral Award as Annexure – A2. The application claimed that the
+appointment of the Arbitral Tribunal and Award were the subject matter
+of the Company Petition and the Award had come into force and acted as
+res judicata to the parties. The application claimed the right to enforce all
+directions in terms of the Award including execution of money decree
+granted in their favour by the Award. Inter alia, the application claimed
+that OR3 and 6 – the Applicants were filing the said application on limited
+issue of seeking enforcement of the direction of the Arbitral Award for
+withdrawal of the proceedings before the CLB (as it was).
+21.1 Thus, the application claimed that the settlement award had been
+passed and as per the said Award, the original Petitioners mentioned
+therein were liable to withdraw the Company Petition. The NCLT has in the
+Impugned Order, dealt with the contentions raised with regard to such
+application in details. It considered the Reply filed by the original
+Petitioners also and took note of the fact that (against what was stated in
+
+25
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+the document of Award) OR3 and 6 had approached the Police also for
+enforcement of the said Award instead of approaching the persons named
+as the Arbitrators. NCLT found that OP2 to 5 had appended their
+signatures to the said document. The original Petitioners claimed before
+NCLT that it was only an attempt for entering into the settlement by
+mediation but it was not an arbitral matter. It is to be noted that when
+such alleged agreement was entered into and the alleged Order was
+passed, the Company Petition was already pending since about two years.
+Considering the persons who were signatories, NCLT observed that in the
+facts and circumstances of the case, such document could at the best be
+considered as a compromise in writing signed by a few of the parties but it
+was not an Arbitration Agreement or Award (para - 110 of the Impugned
+Order). NCLT found that the prayer made in the application was not to
+treat the document as a compromise to be recorded and to pass a
+Judgement/Order on its basis. The NCLT appears to have rightly referred
+for principle, to Order 23 Rule 3 of the Code of Civil Procedure as to how
+the compromise is recorded in the Courts. In NCLT, the original
+Respondents claimed the document to be Award dated 12.07.2015 and the
+various arguments raised to claim that it was an Award were extensively
+dealt with by the NCLT which found that the provisions as found in the
+Arbitration and Conciliation Act, 1996, did not appear to have been
+followed with reference to the concerned document claimed to be “Award”.
+The NCLT also found that the terms of reference were not at all clarified in
+the document of “Appointment of Arbitrators” (Annexure – A1 para – 138
+
+26
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+of the Impugned Order). The NCLT observed that the document of
+“Appointment of Arbitrators” mentioned that there are some disputes
+between the parties and did not at all relate to what is the dispute between
+the parties and how the terms of reference would be governed. It is to be
+noted that although in this Appeal by original Respondents, they have filed
+copy of the CA 255/2015 at Annexure – W and copy of said Award, what
+is now being referred as “settlement agreement” at Annexure – V, the
+document of “Appointment of Arbitrators” (Annexure – A1), which is said
+to have been filed with the CA, has not been filed and not argued before
+us. Now the Appellants – original Respondents have turned around to refer
+to the concerned document which was filed as “Award” (Annexure – V) to
+be a “Settlement Agreement”. At the time of arguments, the document has
+been referred by the Counsel for original Respondents as “Global
+Agreement” but in NCLT, it was not the case of the Appellant. In any case,
+NCLT has already dealt with the provisions of Order 23 Rule 3 of CPC also.
+If during pendency of the Company Petition, outside, some of the parties
+enter into any such document as at Annexure – V titling the same as
+“Arbitration Award”, that by itself is not sufficient to call upon the Court
+(NCLT here) to dispose the Petition in terms of the same, unless the
+concerned parties come before the Tribunal and accept the contents and
+signatures and the same is recorded in Court/Tribunal. Again, there is no
+material to show OP2 to 5 were in any way authorized by the other original
+Petitioners to enter into any such document on their behalf. It would
+naturally not bind the other Petitioners. Having gone through the contents
+
+27
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+of the said Annexure – V (Arbitration Award) also, we do not find that it is
+helpful for disposal of the concerned Company Petition and the issues
+which have been raised in the same mainly by the OP1 - Aar Kay Company.
+We have gone through the reasons recorded by the NCLT and we are
+unable to accept the submissions made by the learned Counsel for the
+Appellants – original Respondents questioning the rejection of their CA
+255/2015. We find the reasoning recorded by learned NCLT on this count
+to be correct and we do not interfere with the same.
+Second Transfer of 14,96,000 shares of OP1 in OR1 to OR2
+as challenged in CA 55 of 2018
+22. As regards this issue, there is no dispute regarding the First
+Transfer and the documents at Annexure – F show transfers of shares from
+different companies as mentioned in the share transfer forms in favour of
+transferee – OP1 – Aar Kay Chemicals Pvt. Ltd. At Annexure – G (Page –
+220), there is copy of Resolution of AP Refinery (OR1) dated 19.05.2010
+recording the transfer of 14,96,000 shares in the transfer register in the
+name of transferee – OP1 – Aar Kay.
+23. The present dispute relates to the Board Resolution of OR1 – AP
+Refinery dated 24th May, 2010 (Annexure – J – Page 225) recording the
+Second Transfer of the shares which stood in the name of OP1 – Aar Kay
+in favour of OR2 – Dhuri. We have already noted that OR3 and 4 were
+Directors in AP Refinery as well as in Aar Kay and also in OR2 – Dhuri.
+This naturally facilitated them to commit the act of transfer of the disputed
+
+28
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+shares in the second transfer of Dhuri. The share transfer form (Annexure
+– H) has signature of OR4 in the column of transferor – Aar Kay Chemicals
+and OR3 in the column of transferee for Dhuri. There is no document
+shown from Board of Directors of OP1 – Aar Kay authorizing OR4 to
+execute any such transfer. Original Respondents claimed that the records
+relating to Aar Kay Chemicals are at premises in control of the original
+Petitioners at the factory premises of OP1 – Aar Kay in Malerkotla and so
+they were not in a position to produce the Resolution on that count. Before
+NCLT, it was not disputed that OP1 – Aar Kay is in control of other
+Petitioners. In any case, when the Company itself is a shareholder in
+another Company, the shares standing in the name of the Company is a
+matter of right for all the shareholders of that Company (Aar Kay here).
+The general right of Directors to handle shares of their own Company is
+different from their right to deal with shares held by the Company itself in
+another Company. Once the shares stood in the name of OP1 – Aar Kay,
+in our view, it would require consent of the General Body which, as a
+whole, has interest in the shares held by their Company in another
+Company. Without their consent, even the Board of Aar Kay must be said
+to be incompetent to transfer what would be the property of the Company.
+This is apart from the fact that in the present matter, there is not even the
+Resolution of the Board of Directors of OP1 –Aar Kay brought on record
+authorizing OR4 to execute any such document like Annexure –H. Only
+because OR3 and 4 happen to be Directors who are common in the three
+
+29
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+companies, they cannot be presumed to have authority for committing acts
+disputed in this matter.
+24. It is argued by the learned Counsel for the Appellants in CA
+55/2018 on behalf of the original Respondents that under Section 108 of
+the old Act, OR1 – AR Refinery while recording the transfer, had limited
+role to see whether proper form has been signed and submitted of the
+transfer of shares and according to the Counsel, in the present matter
+when AP Refinery received such Form like Annexure – H signed by the
+Directors of OP1 and OR2, they had only to record the transfer. In the facts
+and circumstances of the present matter, we are not impressed by this
+argument looking to the fact that undisputedly OR3 and 4 were linked in
+all the three Companies as Directors. When the transfer form was being
+executed of shares which stood in the name of OP1, it was duty to ask for
+attaching not only copy of Board Resolution of the Board of Directors of
+the Company but also to see whether the Resolution indicated consent of
+the General Body of OP1, as shares being handled were of the ownership
+of the Company.
+25. No Board Resolution of the transferee company was also filed in
+NCLT and in view of the observations of NCLT drawing attention to this
+aspect (see para 149 of the Impugned Order), at the time of filing this
+Appeal quietly in the documents, a resolution purporting to be of 1st April
+2010 passed by OR3 and 4 in the record of Dhuri Cold Storage Pvt. Ltd.
+has been added at Annexure – BB (Page – 733) recording that the Company
+
+30
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+was interested in purchasing 14,96,000 shares of AP Refinery and that
+funds were to be invested in AP Refinery in 14,96,000 equity shares. The
+Appellants – original Respondents have not disclosed as to why this was
+not produced in NCLT and why it could not be filed in NCLT. The picking
+up of the date of 1st April, 2010 is also interesting considering the fact that
+on 1st April, 2010, the shares which were at that time naturally held by
+different companies, had yet to pool in. They got pooled in only by 19th
+May, 2010. This date of 1st April, 2010, however, appears to have become
+necessary to be adopted by the Respondents so as to, not to be on the
+wrong side of the secretarial compliance certificate of R2 – Dhuri (copy of
+which has been filed by the original Petitioners in their Reply in this Appeal
+– Diary No.3675). At Annexure – R11, the compliance certificate had
+recorded that the Board of Directors of the Company met six times on
+01.04.2010, 31.08.2010, 30.09.2010, 20.12.2010, 28.02.2011 and
+31.03.2011. Thus, between 01.04.2010 and 31.08.2010, there was no
+Board Meeting of R2- Dhuri. NCLT has already found fault with the
+Appellants – original Respondents while referring to compliance certificates
+(copies at Annexure – R9 and 10) relating to AP Refinery and Dhuri where
+the Company Secretaries referred to the minute book of those companies
+to record various dates when the Board of Directors met and NCLT had
+noted that for both these companies – AP Refinery and Aar Kay, compliance
+certificate did not show that there was any meeting held on 24th May, 2010.
+Such Compliance Certificates are required to be kept in view of Section
+383A(1) read with Rule 3(1) of the Companies (Compliance Certificate)
+
+31
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Rules, 2001. The form prescribed requires examination of records.
+Certificate issued in ordinary course of business cannot be ignored. Thus,
+we look at, with suspicion, the alleged Board Resolution dated 1st April,
+2010 (Page – 733 of the Appeal), which has been now filed to claim that
+Respondent No.2 – Dhuri had decided to purchase 14,96,000 shares of
+OR1 – AP Refinery, and ignore it.
+26. As regards the consideration, the Appellants – original
+Respondents claimed that OR2 Company had issued a post-dated cheque
+No.730964 to OP1 Company. The Appeal (para – 25) claims that the
+payment was deferred as under the lease agreement, the Appellant No.2 –
+Dhuri (OR2) was yet to receive majority of its payments from M/s. PepsiCo
+India Holdings Limited. Then, for such big amount, the Appeal claims that
+there was oversight (which is unnatural) and the cheque was not cleared
+till April, 2011 and the Respondents noticed this in April, 2011 while
+finalizing the books of accounts of OR2 and immediately deposited another
+cheque in HDFC Bank Account of Respondent No.1 on 22.04.2011 which
+returned as drawer’s signatures were incomplete and so on 26.04.2011,
+OR2 Company made direct electronic transfer of Rs.15,10,960/- into
+HDFC Bank Account of OP1 – Aar Kay. The Appellants referred to
+Annexure – K of the Appeal. This document (Page – 227) relates to the Bank
+Account of OP1 – Aar Kay. It shows on 26.04.2011, RTGS from Dhuri of
+Rs.15,10,960/- on the credit side and interestingly on same date, there is
+RTGS entry of debit of Rs.15,00,000/- showing money transfer to A.P. Oil
+
+32
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Mills. Before NCLT, it appears to have been claimed that the A.P. Oil Mills
+was a family firm of the Respondents (see para – 157). NCLT ignored the
+contention of the original Petitioners that it was a sham transaction only
+because it reflected in the balance sheet of OR1. But, we find substance in
+the arguments of the learned Senior Counsel for original Petitioners that
+the original Respondents, realising that there was nothing to show
+regarding payment of consideration, resorted to such subsequent entries
+putting in accounts by one hand and withdrawing the same by the other.
+It does appear to us that the claim being made by the original Respondents
+that there was a post-dated cheque is baseless and the claim that
+subsequently, it was replaced due to passage of time and thus ultimately
+RTGS mode had to be adopted is afterthought action to justify somehow
+the Second Transfer. In the circumstances of the matter, such payment of
+alleged consideration shown almost 11 months after the disputed
+transaction is not at all above Board. The OR3 to 5 who claimed to have
+recorded the Board Meeting Resolution of A.P. Refinery as at Annexure – J
+dated 24th May, 2010 who were linked as Directors in these different
+companies, clearly had fiduciary responsibilities towards shareholders of
+respective companies. It appears to us that they failed to discharge their
+responsibilities as trustees of the shareholders of the respective
+companies.
+27. We find substance in the arguments of the learned Counsel for the
+original Petitioners that it could not be said that there was compliance of
+
+33
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Section 108 of the old Act if along with the share transfer forms, Board
+Resolutions of the transferor company and transferee company duly
+authorizing the OR3 and 4 to sign the transfer deeds on behalf of the OP1
+and OR2 were not accompanying. It has also been rightly argued that there
+was no material to show that when such transfer was recorded, the
+relevant share certificates were also presented as required by Section 108
+of the old Act.
+28. It is argued by the learned Counsel for the Appellants – original
+Respondents that NCLT should have seen a link between first transfer and
+second transfer. It is argued that in order to secure and consolidate
+shareholding of Respondent group in AP Refinery and for purpose of tax
+planning, it was decided that 5 investment companies would transfer
+14,96,000 shares in the name of OP1 which in turn would immediately be
+transferred further in the name of OR2 – Dhuri.
+28.1 The argument of original Respondents trying to link first and
+second transfer is countered by the original Petitioners claiming that a new
+case is being put up that exactly same procedure was followed in the first
+and second transfer. We find that there is no document of any Resolutions
+by different Companies to enter into such exercise of first and second
+transfer. Apart from this, how such exercise is helpful for which tax
+planning is also not clear nor explained. We are not convinced by
+arguments raised on this count by the original Respondents – Appellants,
+and reject the same.
+
+34
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+28.2 The learned Counsel for the original Petitioners referred to the
+Company Petition to point out that AP Refinery was integral part of AP
+Group which originally comprised of 5 close friends – the Appellant Nos.2,
+4, 5, Bhimsen – brother of Appellant No.3 and Respondent No.6 as arrayed
+in CA 394 of 2017. It is argued that in 1992, AP Group incorporated M/s.
+A.P. Solvex Limited – now known as Ricela Health Foods Limited.
+Subsequently in 1998, Aar Kay Chemicals was acquired by the AP Group
+jointly. The Counsel referred to the Company Petition to say that the
+original Petitioners 2 to 5 and original Respondent No.6 were engaged in
+handling business of the parent Company at Dhuri and as original
+Respondent No.6 insisted that his brother OR3 and OR4 be included in AP
+Group so they could look after day-to-day affairs of AP Refinery located at
+Jagraon, this was agreed. It is stated that OR3, 4 and 6 later became
+greedy and took undue advantage of their control over the Board of
+Directors of AP Refinery and in collusion diluted shareholding of the
+original Petitioners by the end of 2009 when the issue was taken up with
+the Respondents and they agreed to restore the major
+shareholding/controlling interest of the original Petitioners in OP1
+Company – Aar Kay Chemicals and it was decided that Aar Kay Chemicals
+will acquire/purchase substantial shares of Respondent No.1 Company by
+making long term investment by purchasing the shares from other existing
+shareholders of R1 Company – AP Refinery. The argument is that it was
+because of this that the investment Companies transferred the 1496000
+shares and thus according to him, the new case being put up by the
+
+35
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+original Respondents deserves to be discarded. We find that in the absence
+of document to show that the companies pre-decided to go into the exercise
+of First and Second Transfer, bare arguments of contesting Respondents
+cannot be accepted.
+29. It has been then argued by the learned Counsel for the Appellants
+– original Respondents that the shares of OP1 – Aar Kay had been
+transferred, the shareholders of OP1 would be the affected parties and the
+other original Petitioners could not have filed the Company Petition.
+29.1 This has been countered by the learned Counsel for the original
+Petitioners submitting that it is already on record that the original
+Petitioners were in control of Aar Kay Chemicals and looking to the manner
+in which these group of Companies came into existence, original
+Petitioners have right to safeguard interest of the Company – Aar Kay
+Chemicals and that the original Petitioners are entitled to maintain the
+Petition.
+29.2 It is claimed by the learned Counsel for the original Petitioners
+that original Petitioners 2 to 9 were admittedly members of AP Refinery
+and OP1 – Aar Kay is itself aggrieved and if the name of OP1 had been
+wrongly omitted from the register of members, all the petitioners were
+aggrieved by the illegal transfer and it cannot be said that they did not
+have locus standi. The argument is also that OP1 – Aar Kay is itself
+aggrieved and the Company can maintain its Petition.
+
+36
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+30. We have gone through the reasons recorded by the learned NCLT
+and we have seen the conclusion drawn by NCLT that the transfer of
+14,96,000 shares by OP1 Company in favour of R2 was not legal and thus,
+liable to be set aside. This is recorded by the NCLT in para – 158 of the
+Impugned Order. We agree with the NCLT to this extent with regard to this
+second transfer. We, however, do not agree with the other observation of
+NCLT that such shares were required to be directed to be “transferred
+back” in favour of OP1. In fact, what was required to be directed was that
+the transfer recorded was illegal and the shares continued to stand in the
+name of OP1, as if they had never been transferred once they had been
+taken on record of OR1 on 19.05.2010 (vide Annexure – G). We will not
+maintain the further direction of the NCLT regarding writing off of the
+alleged loan of Rs.15,00,000/-. That would be a matter for the auditors of
+OP1 to see. In the present matter, NCLT was required to consider whether
+the second transfer was valid or it was illegal. NCLT found the second
+transfer in favour of R2 – Dhuri to be illegal. When this is so, the transfer
+recorded by Respondents in the records of OR1 was clearly oppressive of
+the Company – OP1 which had a right of rectification.
+CA 394/2017 (Appeal of Original Petitioners)
+References: In the following paragraphs, unless mentioned otherwise,
+we will refer to documents and pages from the record of CA 394/2017.
+
+37
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+31. Original Petitioners in this Appeal have challenged what is stated
+to be:-
+(a) Issue of illegal allotment of 3,50,000 shares to OR No.7 on
+29.06.2011 (First Allotment - in short) and
+(b) Issue of illegal allotment of 4 Lakh shares to OR 2, 3, 8, 9 and 10
+on 10.10.2012 (Second Allotment - in short).
+The Appellants claim that the first transfer of 14,96,000 shares in
+the name of OP1 – Aar Kay Chemicals had consolidated the position of the
+original Petitioners and the second transfer was done by Respondent
+promoter group to dilute the shareholding of the original Petitioners. The
+original Petitioners have referred to their Company Petition where in
+details, they specified as to how they were holding shares in OR1 – AP
+Refinery and how due to transfer of shares by the first and second
+allotment mentioned above, the concerned Respondents benefited while
+the shareholding of the original Petitioners got reduced. The Appeal makes
+grievances that the learned NCLT proceeded on wrong basis to observe that
+detailed discussion of the first and second allotment was not necessary as
+the original Respondents had made an offer that original Petitioners would
+be issued shares in proportion to their shareholding in AP Refinery, from
+shares issued to them.
+32. Learned Counsel for the Appellant referred to observations of
+NCLT in para – 80 and para – 159 (which we have reproduced in this
+
+38
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Judgement earlier). The Appellants are making grievances that it was
+necessary for NCLT to consider their submissions on merits. According to
+the Counsel for Appellants – original Petitioners in CA 394/2017, the
+original Petitioners never accepted offer of Respondents to issue
+proportionate shares only to the Appellants 2 to 9. It is basically claimed
+that the case put up by the Appellants before NCLT was that the first and
+second allotments were mere paper entries and no Board Meetings had
+been convened by OR1 – AP Refinery and that the allotments of shares
+were not as per law. The allotments were invalid and illegal and documents
+had been fabricated to justify the allotments which according to the
+Appellants, have not resulted in any increase in funds of the Company
+OR1 – AP Refinery. They claimed that deposits were merely re-routed as
+subscription money for making the allotments. The learned Counsel for
+the Appellants has argued that there is no record to show holding of any
+Board Meeting of OR1 – AP Refinery laying down terms and conditions for
+offer of shares so as to show as to how much capital was required to be
+increased and the purpose for increase of capital and how many new
+shares need to be offered and as to who would be eligible etc. The argument
+is that Respondents failed to show any Resolution authorizing any
+individual to sign share certificates to be issued. It is also argued that copy
+of Resolutions attached by Respondents to Form - 2 submitted and
+subsequently filed copies of Resolution, had vast differences regarding the
+text and wordings. The Appellants argued that the allotments were made
+in favour of Respondents who were related parties without offering the
+
+39
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+shares to all the shareholders of the Company. It is claimed that the
+Appellants 2 to 9 were shareholders of the OR1 – AP Refinery when the
+First and Second allotments were made, but they were given no Notice and
+no offer was made to them and the Respondents proceeded to allot the
+shares to people from their group or their relatives. The Counsel for
+Appellants referred to the Affidavit filed of OP4 dated 16.03.2015
+(Annexure A8) to show as to how it was brought to the notice of NCLT that
+the issue of shares had not resulted in any increase of funds with the
+Company. Although the Respondents claimed that further shares were
+issued to increase debt equity ratio and due to requirement from the Bank,
+there was no co-relation between the letter from the Bank or credit rating
+agencies and the issue of first and second allotment of shares. According
+to the Counsel for Appellants – original Petitioners, the shares were not
+issued for any proper purpose and they were issued to improve the
+shareholding of the Respondents at the cost of the original Petitioners.
+Although Section 81 of old Companies Act did not apply, as laid down in
+the matter of “Dale and Carrington Invt. P. Ltd. vs. P.K. Prathapan and
+Others” reported in 2005 1 SCC 212, the Respondent promoter group had
+fiduciary responsibility to issue shares for proper purpose and it was
+obligatory on their part to first offer the shares to the existing shareholders
+of the Company. As this was not done, the issue of first and second
+allotment of shares cannot be upheld, it is argued.
+
+40
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+33. Against this, the learned Counsel for the original Respondents has
+submitted that the first and second allotments were done to improve debt
+equity ratio of the Company, at the instance of credit agencies and financial
+institutions. According to him, in 2009, there were allotments in which the
+original Petitioners had also participated and had been issued shares. It is
+stated that at that time, share application money to the tune of
+Rs.1,75,00,000/- and Rs.75,00,000/- were received from M/s. Home Land
+City Project Ltd. and M/s. K.K. Continental Trade Ltd., the associated
+companies of Respondent group in lieu of which, no shares were allotted
+at that time. It is stated that there was pressure from banks to allot shares
+against this amount. Counsel referred to letter dated 07.12.2010 of Punjab
+National Bank to submit that the Bank had sanctioned renewal-cum-enhancement of credit facility from Rs.1950.00 Lakhs to Rs.2250.00 Lakhs
+on the condition that OR1 – AR Refinery would issue shares against the
+share application money of Rs.1,75,00,000/-. According to the original
+Respondents, share application money of Rs.75,00,000/- was returned to
+K.K. Continental Trade Ltd. in financial year 2009 – 2010 and the share
+application money of Home Land City Project was lying with the Company.
+It is argued that since Home Land City Project insisted that shares be
+allotted to it at lower price and not at premium, it was decided in the
+interest of Company not to allot shares to M/s. Home Land City Project
+Ltd. According to the original Respondents, additional funding was
+arranged by Respondent No.7 who accepted to acquire fresh shares at a
+price of Rs.50/- in lieu of share application money received by the
+
+41
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Company in 2009. It is claimed that in view of this, though the share
+application money of Rs.1,75,00,000/- received in 2008 – 2009 was for
+7,00,000 shares at Rs.25/- per share, but the allotment made in June,
+2011 was made of 3,50,000 shares at Rs.50/-.
+34. The learned Counsel for original Respondents further supported
+the allotment of 4 Lakh shares to Respondents 2, 3, 8, 9 and 10 claiming
+that this was done to improve the debt equity ratio of the Company and as
+there was dire need of infusion of fresh equity. It is claimed that the shares
+were not issued for any collateral purposes. The discrepancy in the
+language of Board Meetings Resolution and the Resolution attached with
+Form – 2 relating to the first and second allotment were mere typographic
+errors. As regards not offering shares to the shareholders, it is claimed that
+Section 81 of the old Act did not apply to private limited companies and it
+was not mandatory for the company to make proportionate allotment. It is
+claimed that on 03.08.2010, original Petitioners 2 to 5 had signed a
+document titled as “Letter of Authorization for Arbitration” (Page – 261 of
+Reply) and had agreed to exit the OR1 and so it was not necessary to offer
+shares being issued to them. It is also argued that in earlier years from
+2003 to 2009, the Company had never allotted shares on pro rata basis
+and at those times, the original Petitioners did not challenge the
+allotments. With regard to the funds, it is argued that when the first
+allotment was made, the Company returned money of Home Land City
+Project Ltd. and fresh share application money was received from OR7 of
+
+42
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Rs.1,75,00,000/- regarding which, bank statement has been filed. As
+regards second allotment, it is claimed that temporary loans lying in the
+books of OR1 – AP Refinery were converted into permanent share capital.
+It is argued that the unsecured loans were converted into share
+subscription money. Thus, the Respondents are defending the first and
+second allotment.
+35. We have gone through the material pointed out by the learned
+Counsel for both sides and heard their submissions. Firstly, we will refer
+to the observations of the learned NCLT in not dealing with these
+allotments on merits. At Annexure – A9 of CA 394/2017, there is copy of
+the Reply which was filed by the original Respondents in the Company
+Petition. The Respondents mentioned in para – 8.3 as under:-
+“8.3 As a result of the new allotments, the
+shareholding of Petitioners No.2 to 9 was reduced
+from 11.37% to 9.25%. In light of this grievance
+expressed by the means of the present Petition, the
+Respondents make an express offer to restore the
+combined shareholding of Petitioners No.2 to 9
+from 9.25% to 11.37%. This would be effected by
+existing Respondent shareholders offering each of the
+Petitioners No.2 to 9 such number of shares as to
+restore their respective percentage of shareholding as
+it was before the allotment of 3,50,000 new equity
+shares in June 2011 and 4,00,000 new equity shares
+in October 2012.”
+At Annexure – A-10 is part of the Rejoinder which original
+Petitioners filed in NCLT. The Appellants have filed relevant pages from
+
+43
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+that Rejoinder and with regard to para – 8.3, the original Petitioners
+stated:-
+“8.2 - 8.5 It is submitted that by making such offer
+in the para under Reply, the Respondents
+are trying to play smart. The motive
+behind offering to restore the shareholding
+of Petitioner No.2 to 9 back to 11.37%
+without offering to restore the
+shareholding of Petitioner No.1 Company
+back to 45.60%, is that the Respondents
+want to continue to hold majority position
+as such an offer will raise the shareholding
+of the Petitioner group to only 48.48% of
+the present paid up capital. As the offer
+made by the Respondents doesn’t put an
+end to the series of acts of oppression and
+mismanagement by the Respondents,
+whereby the majority position of the
+Petitioners was reduced to minority,
+hence, the same is expressly denied.
+Since, all the allotments of shares under
+challenge have been made without
+following the due procedure of law as
+explained in the foregoing paras, so the
+same are liable to be struck down.
+Be that as it may, the Petitioners have
+always believed and have always acted in
+the interest of Respondent No.1 Company.
+Therefore the Petitioners do not want to
+disturb the working capital of the
+Company. The proposal of the
+Respondents in the corresponding paras
+of proportionate allotment of shares will be
+accepted by the Petitioner No.2 to 9 only
+when the 14,96,000 shares of Petitioner
+No.1 Company (illegally transferred to
+Respondent No.2) will be restored in its
+name and proportionate allotment of
+shares is made to all Petitioners including
+Petitioner No.1 Company.”
+
+44
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+Thus, the original Petitioners claimed that the offer made by
+Respondents would not put an end to series of acts of oppression and
+mismanagement and they expressly denied the same. They reiterated that
+the allotment of shares was without following due procedure and was liable
+to be struck down. The sub-paragraph also made a conditional statement.
+The Impugned Order does not show that at the time of final arguments,
+the original Petitioners agreed to such offer. Para – 159 of the Impugned
+Order (which we have reproduced earlier) shows the Respondents
+reiterating their offer. It does not show that the Petitioners accepted the
+same. Again, if the NCLT wanted to rely on the offer made by Respondents
+and the Rejoinder which we have referred, it could not have picked up
+something in part from one place and something in part from the other
+and given something in part. Para – 8.3 of the Reply of Respondents did
+not make any offer to OP1 and the original Petitioners did not want to do
+anything unless OP1 was also being considered on the basis of 14,96,000
+shares in dispute. NCLT picked up the offer made by the Respondents and
+ignoring what the Petitioners stated, proceeded to pass the final Orders as
+if the issue relating to first and second allotments required no
+consideration due to mutual agreement of the parties and gave what only
+Respondents wanted to give. When disputes had been raised and argued
+the same were required to be decided and no shortcut could be adopted
+without both sides categorically agreeing. NCLT could not have abrogated
+its responsibility to decide the legality or otherwise of first and second
+
+45
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+allotment. We are thus not in agreement with NCLT with the manner in
+which it dealt with the first and second allotment.
+36. Before us, the matter has been extensively argued. None has asked
+and we do not wish to let matter protract by remanding the issue. Parties
+have argued the merits and we proceed to decide the same. We proceed to
+examine the first and second allotment as made by the OR1, if it could be
+maintained. Learned Counsel for the Appellants referred to Annexure – A3
+(Page – 234) Form – 2 relating to the allotments made on 29.06.2011. It is
+argued that this document at Page – 239, is the document which was
+attached for filing with ROC as true copy of the Resolution dated
+29.06.2011. The learned Counsel submitted that the Resolution merely
+stated “RESOLVED that the Company M/s. AP Refinery Private Limited
+will issue 350000 shares of Rs.10 each at premium of Rs.40 each to M/s.
+Anu Buildwell Private Limited.” The learned Counsel then pointed out
+document at Page – 262 which, it has been argued to have surfaced later,
+as the Resolution dated 29.06.2011. The learned Counsel rightly pointed
+out from this document that there was vast difference between what was
+filed as true copy of the Resolution with ROC and what was later shown as
+the Resolution. This Resolution signed by OR3 to 5 with regard to Item
+No.4 read as under:-
+“Item No.4: Allotment of Shares Sh. Bhuvan Goyal
+informed the present
+Board of Directors that a
+list of persons from who
+share application money
+were received & whose
+
+46
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+applications were
+complete in all respect are
+placed before the Board.
+He further informed that
+out of these 350000 equity
+shares of Rs.10/- at
+Premium of Rs.40/- each
+can be allotted. Board took
+note of the same and
+passed the following
+resolutions:
+“Resolved that 350000
+equity shares of Rs.10/- at
+a Premium of Rs.40/- per
+equity shares totalling to
+Rs.1,75,00,000.00 (One
+Crore Seventy Five Lacs
+only) payment of which has
+been received in full be and
+is hereby allotted to M/s
+Anu Buildwell Private
+Limited of Delhi.”
+“RESOLVED further that
+share certificate for the
+share allotted as aforesaid
+be issued to the allottees
+under the signature of
+Directors of the company
+and a common seal be
+affixed on these shares
+certificates in the presence
+of witnesses.”
+“RESOLVED FURTHER
+that Sh. Shiv Kumar Goyal,
+Director of the Company be
+and is hereby authorized to
+sign. execute return of
+allotment on Form No.2
+and to do all acts, deeds,
+things etc. which she may
+deem necessary or
+expedient to give effect the
+above resolution.”
+
+47
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+The learned Counsel for the Appellant then referred to Annexure –
+A4 (Page 240) Form – 2 with regard to the second allotment done on
+10.10.2012 and the document at Page – 244 where again the true copy of
+the Resolution showed it to be Resolution of just one sentence “RESOLVED
+that the Company M/s. AP Refinery Private Limited will issue 4,00,000
+shares of Rs.10 each at premium of Rs.30 each as per Annexure.” At Page
+– 245, is the copy of Annexure – A format of list of allottees. The Counsel
+then referred to copy of Resolution dated 10th October, 2012 as appearing
+at Page – 266. It is argued that such Resolution surfaced later during the
+litigation and it now showed in Item No.4 as under:-
+“ITEM NO. 4: ALLOTMENT OF SHARES Sh. Bhuvan Goyal
+informed the present
+Board of Directors that a
+list of persons from who
+share application money
+were received & whose
+applications were
+complete in all respect are
+placed before the Board.
+He further informed that
+out of these, 400000
+equity shares of Rs.10/- at
+premium of Rs.30/- each
+can be allotted. Board took
+note of the same and
+passed the following
+resolutions:
+“RESOLVED that the
+statement showing the
+name(s), address(s) and
+numbers of shares applied
+for by some applicants
+which is in aggregate to
+400000 equity shares of
+Rs.10/- at a Premium of
+Rs.30/- per equity share
+
+48
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+totalling to
+Rs.1,60,00,000.00 (One
+Crore Sixty Lacs only)
+payment of which is
+received by cheques in full
+submitted to this meeting
+for the purpose of
+identification, initialled by
+the chairman, be and is
+hereby approved and that
+each applicant for the
+shares pursuant to
+his/her application be
+allotted the exact number
+of shares applied for, and
+that such number of
+shares hereby allotted be
+put in the column of the
+statement provided for the
+purpose against such
+applicant, and that notice
+of such allotment
+communicated to the
+respective allottees.”
+“RESOLVED further that
+share certificate for the
+shares allotted as
+aforesaid be issued to the
+allottees under the
+signature of Directors of
+the company and a
+common seal be affixed on
+these shares certificates in
+the presence of witness.
+RESOLVED FURTHER
+that Sh. Bhuvan Goyal,
+Director of the Company
+be and is hereby
+authorized to sign, execute
+return of allotment on
+Form No.2 and to do all
+acts, deeds, things etc.
+which she may deem
+necessary or expedient to
+give effect the above
+resolution.”
+
+49
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+A reading of the above does make it clear that there was no
+comparison in what was filed with ROC as true copy of Resolution and
+what surfaced during the litigation. It is being argued by the
+Appellants/Original Petitioners that these documents were prepared later
+to justify the allotments which had already been made.
+37. The learned Counsel for the original Petitioners referred to
+Judgement in the matter of “Dale and Carrington” (supra) in which in Para
+11(d), the Hon’ble Supreme Court observed as under:-
+“The fiduciary capacity within which the Directors
+have to act enjoins upon them a duty to act on behalf
+of a company with utmost good faith, utmost care and
+skill and due diligence and in the interest of the
+company they represent. They have a duty to make
+full and honest disclosure to the shareholders
+regarding all important matters relating to the
+company. It follows that in the matter of issue of
+additional shares, the directors owe a fiduciary duty
+to issue shares for a proper purpose. This duty is
+owed by them to the shareholders of the company.
+Therefore, even though Section 81 of the Companies
+Act, 1956 which contains certain requirements in the
+matter of issue of further share capital by a company
+does not apply to private limited companies, the
+directors in a private limited company are expected to
+make a disclosure to the shareholders of such a
+company when further shares are being issued. This
+requirement flows their duty to act in good faith and
+make full disclosure to the shareholders regarding
+affairs of a company. The acts of directors in a private
+limited company are required to be tested on a much
+finer scale in order to rule out any misuse of power
+for personal gains or ulterior motives. Non-applicability of Section 81 of the Companies Act in
+case of private limited companies casts a heavier
+burden on its directors. Private limited companies are
+normally closely held i.e. the share capital is held
+within members of a family or within a close knit
+
+50
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+group of friends. This brings in considerations akin to
+those applied in cases of partnership where the
+partners owe a duty to act with utmost good faith
+towards each other. Non-applicability of Section 81of
+the Act to private companies does not mean that the
+directors have absolute freedom in the matter of
+management of affairs of the company.”
+38. The original Respondents in Reply filed in NCLT (Annexure R1 –
+Diary No.2886) in para – 8.1 referred to earlier instances of issued
+subscribed and paid up capital as per its need. It was claimed that in 2008,
+there was fresh infusion in equity capital. It was claimed that it was
+decided by the Board of Directors of AP Refinery to establish a refinery at
+Jagraon and OR5 – a fresh MBA joined as Director and that it was a matter
+of time that the Company commenced refinery unit, to give opportunity to
+Respondent No.5 to prove his mettle. It is claimed that Jagraon plant was
+established on a relatively larger scale and required capital infusion. Inter
+alia, it is claimed that Petitioners were also offered equity shares at that
+time but since the control of OR1 was with Respondents 2 to 5, the
+Petitioners decided to contribute a small portion of the new capital and
+balance was arranged by the Respondents themselves. Then reference is
+made to raising of share capital on 09.03.2009. It was claimed that the
+Petitioners were not participating in the equity before the first and second
+allotments of 2011 and 2012. The Reply claimed that the Respondents had
+bona fide belief that original Petitioners 2 to 9 were never willing to
+contribute new capital to R1 which was, since inception, being transferred
+and managed by Respondents 2 to 4 and later Respondents 5 and 6. Reply
+
+51
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+claimed that the Company was in dire need of infusion of new equity and
+there was need to maintain debt equity ratio. It was then mentioned:-
+“e: Hence, in the best interests of the Company, and
+after following due procedure, an allotment of
+3,50,000 shares was made in June 2011 to
+Respondent No.7 company, and a further allotment
+of 4,00,000 shares was made in October 2012 to
+Respondents No.2, 3, 8, 9 and 10.”
+38. Thus, such stand was taken in NCLT at the time of filing of Reply
+but now in the Reply filed in this Appeal and in the arguments being made
+(see Reply to Appeal - para 6-d) relating to allotments 1 and 2, various
+defences are being raised to claim that there was money lying from Home
+Land City Project Ltd., which was returned for reasons stated, and
+Respondent No.7 came forward to acquire fresh shares and was thus
+issued shares. This does not match with the Resolution (Page – 262) dated
+29.06.2011 also where it was claimed that there is list of persons from
+whom share application money was received and whose applications were
+complete were being put up. Then it was resolved that shares were being
+issued to M/s. Anu Buildwell Pvt. Ltd.
+39. The argument of the Respondents that due to requirement raised
+by Punjab National Bank, such allotments were required to be made is also
+not appealing. The letter at Annexure – R5 dated 07.12.2010 is apparently
+with reference to the credit proposal made by the OR1 – AP Refinery. For
+increasing the limits permitted to the Company, if the Company showed
+the manner in which it will meet the liabilities of the Bank, it cannot be
+
+52
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+said that the Bank had “asked” for issue of additional allotments. Again,
+even if the Bank or CRISIL were to ask raising of debt equity ratio, there is
+no reason why the Company should not give equal opportunity to all the
+shareholders by offering shares on pro rata basis to all the shareholders
+at the given time. Nothing of this sort appears to have been done in both
+the first and second allotments made by the Company. The learned
+Counsel for Appellant is rightly relying on the Judgement of “Dale and
+Carrington” referred supra. Reasons discussed show that there appear no
+bona fide acts on the part of Respondents in the manner in which First
+and Second Allotments were made by pick and choose. We find substance
+in the submission that the Directors of OR1 were under a responsibility to
+disclose to all the shareholders that further shares are to be issued and
+such of them as were interested, may apply for further shares in proportion
+to their shareholding. In the present matter, the Respondents are rather
+taking a defence that on earlier occasions, the original Petitioners did not
+invest much and thus, they were not interested and so it was not necessary
+to offer shares to them. Reliance is placed on some letter of authorization
+for arbitration said to have been signed by original Petitioners 2 to 5 on
+03.08.2010. There is nothing that such letter led to any follow up or
+resolution. Picking up such letter and then saying that all the original
+Petitioners 1 to 9 would not have interest and so need not be offered
+shares, cannot be upheld. If money of Home Land City Project Ltd. was
+being returned, the Directors of OR1 had responsibility to offer shares to
+all shareholders in the Company and cannot pick up R7 to say that he
+
+53
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+offered the money and so we took it. Similarly, in the second allotment
+also, the allotments were made to select Respondents which the original
+Petitioners claim were part of the group of original Respondent promoters.
+We are not impressed by the arguments for Respondents that temporary
+loans were lying of those Respondents and the same were converted into
+share subscription money and in support they referring to Annexure – R13
+(Page – 265 Diary No.2886). The learned Counsel for the Appellant rightly
+countered that if such document was to be relied on even OP1 had money
+lying with OR1 – AP Refinery, but was not treated similarly. We find,
+original Respondents cannot be allowed to tide over the illegality by
+claiming to offer to select original Petitioners 2 to 9 from, what was issued
+under these allotments to select Respondents.
+40. We pass the following Order:-
+(A) We do not disturb directions in para marked – 163 of the
+Impugned Order. We agree with the learned NCLT as
+regards operative direction – ‘i’ in para 161 of the Impugned
+Order that CA 255 of 2015 filed by the Respondents
+deserved to be dismissed. However, for reasons discussed
+above, we set aside rest of the operative Order as recorded
+in para – 161 of the Impugned Order and reasons recorded
+by NCLT in support of the same. Any steps taken by the
+parties pursuant to such directions recoded in para – ii to
+vi, pending Appeals shall stand set aside.
+
+54
+Company Appeal (AT) No.394/2017 & Company Appeal (AT) No.55/2018
+(B) For the above reasons, we set aside the second transfer
+dated 24.05.2010 recorded in the register of members in the
+record of OR1 transferring the shares of OP1 in favour of
+OR2. The Respondents will rectify the register of members
+so as to reflect 14,96,000 shares standing in the name of
+OP1 – Aar Kay Chemicals Pvt. Ltd. with effect from
+19.05.2010, and the second transfer dated 24.05.2010
+done shall stand ignored.
+(C) We find that the first allotment made on 29.06.2011 as well
+as the second allotment made on 10th October, 2012 were
+both illegal and are hereby struck down.
+(D) The Company Petitions shall stand disposed accordingly.
+(E) Original Respondents 3 to 5, each will pay costs of
+Rs.50,000/- to each of the Original Petitioners (Appellants
+of CA 394/2017), from their own funds.
+[Justice A.I.S. Cheema]
+Member (Judicial)
+[Balvinder Singh]
+Member (Technical)
+/rs/nn
