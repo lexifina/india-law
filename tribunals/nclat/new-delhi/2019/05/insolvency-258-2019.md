@@ -1,0 +1,113 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 258 of 2019"
+decided: "2019-05-15"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/18271877195cdd4d2d36dab.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 258 of 2019, 2019-05-15
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+NEW DELHI
+ Company Appeal (AT) (Insolvency)No.258 of 2019
+IN THE MATTER OF:
+Vyomit Shares Stock & Investments Pvt. Ltd. …..Appellant
+Vs.
+Securities and Exchange Board of India (SEBI) ……Respondent
+Present :
+For Appellant: Mr. Sunil Fernandes, Mr. Siddharth Sharma, Mr.
+Darpan Sachdeva, Advocates
+For Respondents: Ms. Udita Singh, Advocate
+O R D E R
+15.05.2019 - The ‘Corporate Applicant’ filed an application u/s 10 of Insolvency
+& Bankruptcy Code (‘I&B’ Code), 2016 for initiation of Corporate Insolvency
+Resolution Process against it. The Adjudicating Authority, National Company
+Law Tribunal (in short ‘NCLT’), Mumbai Bench by impugned order dated 12th
+February, 2019 rejected the application on the ground that the ‘Corporate
+Debtor’ is earning sufficient income. Therefore, prima facie, it appears that there
+is no reason for the Appellant or the ‘Corporate Debtor’ to declare itself eligible
+for filing an application u/s 10 of Insolvency & Bankruptcy Code (‘I&B’ Code),
+2016. ….contd./
+
+Company Appeal (AT) (Insolvency)No.258 of 2019 admin 2
+2
+Learned counsel appearing on behalf of the Respondent submits that the
+Adjudicating Authority has also stated that the Securities and Exchange Board
+of India (SEBI) is not Operational Creditor but we are not accepting such an
+issue in view of decision of this Appellate Tribunal in “Pr. Director General of
+Income Tax (Admn. & TPS) Vs. M/s. Synergies Dooray Automotive Ltd. &
+Ors. etc. – Company Appeal (AT)(Insolvency) No. 205 of 2017 etc. dated 20th
+March, 2019” wherein this Appellate Tribunal held and observed as
+follows:-
+27. In “Swiss Ribbons Pvt. Ltd. & Anr. vs.
+Union of India & Ors.─ Writ Petition (Civil) No. 99
+of 2018”, the Hon’ble Supreme Court while dealing
+with the different provisions of the ‘I&B Code’,
+including Section 5(20), observed as follows:
+“23. A perusal of the definition of “financial creditor”
+and “financial debt” makes it clear that a financial
+debt is a debt together with interest, if any, which is
+disbursed against the consideration for time value of
+money. It may further be money that is borrowed or
+raised in any of the manners prescribed in Section
+5(8) or otherwise, as Section 5(8) is an inclusive
+
+Company Appeal (AT) (Insolvency)No.258 of 2019 admin 3
+definition. On the other hand, an ‘operational debt”
+would include a claim in respect of the provision of
+goods or services, including employment, or a debt in
+respect of payment of goods or services, including
+employment, or a debt in respect of payment of dues
+arising under any law and payable to the Government
+or any local authority.”
+28. From the plain reading of sub-section (21) of
+Section 5, we find that there is no ambiguity in the said
+provision and the legislature has not used the word
+‘and’ but chose the word ‘or’ between ‘goods or
+services’ including employment and before ‘a debt in
+respect of the payment of dues arising under any law
+for the time being in force and payable to the Central
+Government, and State Government or any local
+authority’.
+29. ‘Operational Debt’ in normal course means a debt
+arising during the operation of the Company (‘Corporate
+Debtor’). The ‘goods’ and ‘services’ including
+employment are required to keep the Company
+(‘Corporate Debtor’) operational as a going concern. If
+
+Company Appeal (AT) (Insolvency)No.258 of 2019 admin 4
+the Company (‘Corporate Debtor’) is operational and
+remains a going concern, only in such case, the statutory
+liability, such as payment of Income Tax, Value Added
+Tax etc., will arise. As the ‘Income Tax’, ‘Value Added
+Tax’ and other statutory dues arising out of the existing
+law, arises when the Company is operational, we hold
+such statutory dues has direct nexus with operation of
+the Company. For the said reason also, we hold that all
+statutory dues including ‘Income Tax’, ‘Value Added
+Tax’ etc. come within the meaning of ‘Operational Debt’.
+30. For the said very reason, we also hold that ‘Income
+Tax Department of the Central Government’ and the
+‘Sales Tax Department(s) of the State Government’ and
+‘local authority’, who are entitled for dues arising out of
+the existing law are ‘Operational Creditor’ within the
+meaning of Section 5(20) of the ‘I&B Code’.”
+Learned counsel for the Appellant submitted that the Company is in loss
+and is not in a position to pay the amount.
+
+Company Appeal (AT) (Insolvency)No.258 of 2019 admin 5
+However, from the record, it appears that there is income and profit
+generated by the Company in the financial year 31st March, 2017, we are not
+inclined to interfere with the impugned order. The appeal is dismissed. No
+Costs.
+[Justice S. J. Mukhopadhaya]
+Chairperson
+[Justice A. I. S. Cheema]
+Member (Judicial)
+ [Kanthi Narahari]
+Member (Technical)
+ss/gc
