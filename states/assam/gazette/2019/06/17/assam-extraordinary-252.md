@@ -1,0 +1,67 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "252"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 252 FEB-146-2005-223 Dated 17-06-19"
+published: "2019-06-17"
+in_force: "2019-06-17"
+in_force_evidence: "published in the Gazette 2019-06-17; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._252_feb-146-2005-223_dated_17-06-19.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2019-06-17.252"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+FINANCE (ESTABLISHMENT-B) DEPARTMENT
+NOTIFICATION
+The 17th June, 2019
+
+1120 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1121
+
+1122 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1123
+
+1124 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1125
+
+1126 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1127
+
+1128 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1129
+
+1130 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1131
+
+1132 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1133
+
+1134 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1135
+
+1136 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1137
+
+1138 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019 1139
+
+1140 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 18, 2019
+NITIN5KHADE,
+Commissioner & Secretary to the Govt. of Assam,
+Finance Department.
+Guwahati : Printed and Published by the Dy. Directors (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 503 - 300 + 10 - 18 - 06 - 2019. (visit at– dpns.assam.gov.in)
