@@ -1,0 +1,69 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "256"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 256 HLA 669-2016-137 Dated 20-06-19"
+published: "2019-06-20"
+in_force: "2019-06-20"
+in_force_evidence: "published in the Gazette 2019-06-20; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._256_hla_669-2016-137_dated_20-06-19.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2019-06-20.256"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+HEALTH & FAMILY WELFARE DEPARTMENT
+NOTIFICATION
+The 20th June, 2019
+SAMIR K. SINHA,
+Principal Secretary to the Government of Assam,
+Health & Family Welfare Department.
+
+1148 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1149
+
+1150 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1151
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1152
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1153
+
+1154 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1155
+
+1156 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1157
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1158
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1159
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1160
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1161
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1162
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1163
+
+1164 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1165
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1166
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1167
+
+1168 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 21, 2019 1169
+Guwahati : Printed and Published by the Dy. Directors (P & S), Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 511 - 100 + 10 - 21 - 06 - 2019. (visit at– dpns.assam.gov.in)
