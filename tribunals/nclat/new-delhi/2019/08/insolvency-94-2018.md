@@ -1,0 +1,155 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 94 of 2018"
+decided: "2019-08-14"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/2789916045d63b0d21b64e.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 94 of 2018, 2019-08-14
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 94 of 2018
+(Arising out of Order dated 15th December, 2017 passed by the
+Adjudicating Authority (National Company Law Tribunal), Mumbai Bench
+in C.P. No. 1378/IBC/NCLT/MB/MAH/2017))
+IN THE MATTER OF:
+Sh. Romi Datta ...Appellant
+Vs.
+S. Gurumoorthi & Anr. ...Respondents
+Present: For Appellant: - Mr. Saurab Jain, Ms. Neha Gupta, Mr.
+Mustafa Alam, Mr. Simranjeet Singh and Mr. Siddharth
+Jain, Advocates.
+For Respondents:- Mr. Divyanshu Sahay and Ms. Shradha
+Narayan, Advocates.
+J U D G M E N T
+SUDHANSU JYOTI MUKHOPADHAYA, J.
+Mr. S. Gurumoorthi, filed application under Section 9 of the
+Insolvency and Bankruptcy Code, 2016 (“I&B Code” for short) against
+‘M/s. Sahara Q Shop Unique Products Range Limited’- (‘Corporate
+Debtor’), which was admitted by the impugned order dated 15th
+December, 2017 passed by the Adjudicating Authority (National
+Company Law Tribunal), Mumbai Bench, Mumbai on the main ground
+that there is default on the part of the ‘Corporate Debtor’. Sh. Romi Datta,
+
+2
+Company Appeal (AT) (Insolvency) No. 94 of 2018
+Shareholder of ‘M/s. Sahara Q Shop Unique Products Range Limited’-
+(‘Corporate Debtor’) has challenged the impugned order.
+2. Learned counsel for the Appellant submitted that the impugned
+order was passed ex-parte on 15th December, 2017 and suffers from
+various infirmities.
+3. According to him, the Hon’ble Supreme Court of India has
+prohibited ‘Sahara Group of Companies’ to pay any amount to any
+person. In an on-going Contempt (Civil) Petition 412 and 413 of 2012
+titled as ‘SEBI v. SIRECL & Ors.’ and ‘SEBI v. SHICL & Ors.’ respectively,
+the ‘Sahara Group of Companies’ vide a common interim application
+bearing I.A No. 59-61/ 2015 had sought permission to clear the unpaid
+salaries of employees. The Hon’ble Supreme Court by its order dated 19th
+June, 2015, disposed of the said applications with the observation that
+the prayers herein are deferred for the time being and would be
+considered upon the deposit of the balance amount by the Appellant
+therein in compliance of its judgment/ final order dated 31st August,
+2012 at Para 11, Page 11-12 of the said order, therefore, according to
+counsel for the Appellant, ‘M/s. Sahara Q Shop Unique Products Range
+Limited’- (‘Corporate Debtor’) being one of the ‘Sahara Group Companies’
+cannot pay any amount even to 1st Respondent- ‘Operational Creditor’
+and therefore, no default can be alleged.
+
+3
+Company Appeal (AT) (Insolvency) No. 94 of 2018
+4. Learned counsel for the Appellant placed reliance on part of the
+order dated 21st November, 2013 passed by the Hon’ble Supreme Court
+in Contempt Petition No. 412-413 of 2012 and directed as follows:
+“We are convinced that the order dated 28.10.2013
+passed by this Court has not been complied within
+its letter and spirit. In such circumstances, we
+direct that the Sahara Group of Companies shall
+not part with any movable and immovable
+properties until further orders. We further direct
+that all the alleged contemnors shall not leave the
+country without the permission of this Court.”
+5. It is further submitted that ‘M/s. Sahara Q Shop Unique Products
+Range Limited’- (‘Corporate Debtor’) is a trading member and client of the
+‘Indian Bullion Market Association Ltd.’ and as such it was supposed to
+receive a sum of Rs. 226.96 crores from the ‘National Spot Exchange Ltd.’
+(NSEL), however, the ‘Security Exchange Board of India’ (SEBI) vide its
+letter dated 26th September, 2013 to NSEL called upon it not to release
+any amount due and payable to ‘M/s. Sahara Q Shop Unique Products
+Range Limited’ and further directed it to hold the said amount in a
+deposit account with any public sector bank bearing maximum rate of
+interest till further instructions. Pursuant to the direction of the SEBI,
+the ‘Forward Markets Commission’, Ministry of Finance had vide its letter
+dated 23rd October, 2013 directed the NSEL to comply with the directions
+
+4
+Company Appeal (AT) (Insolvency) No. 94 of 2018
+of SEBI vide their letter dated 26th September, 2013. The aforementioned
+attachment of funds of the ‘M/s. Sahara Q Shop Unique Products Range
+Limited’- (‘Corporate Debtor’) was also confirmed by the ‘Forward Markets
+Commission’ vide its letter dated 18th December, 2013.
+6. Reliance has been placed on Status Report of SEBI filed before the
+Hon’ble Supreme Court in Civil Appeal No. 9813 of 2011 whereby they
+have confirmed of having taken steps to recover the amount from ‘M/s.
+Sahara Q Shop Unique Products Range Limited’- (‘Corporate Debtor’).
+7. Learned counsel for the 1st Respondent submitted that the orders
+dated 21st November 2013 and 19th June, 2015, relied upon by the
+counsel for the Appellant, have no implication on the ‘Corporate Debtor’
+at hand because even after passing of the said orders, the ‘Corporate
+Debtor’ has paid salary till September, 2014 until it voluntarily stopped
+paying; as also Income Tax amounting to Rs. 153,03,53,020 paid on 2nd
+November, 2015 and Provident Fund amounting to Rs. 7,88,73,464 paid
+on 30th June, 2016.
+Besides, ‘Sahara Group Companies’ have even settled claims
+relating to ‘Operational Debt’ amounting to Rs. 20 crores as recently as
+on 30th April, 2019. The final order dated 30th April, 2019 rendered by
+the Adjudicating Authority, Mumbai Bench, in C.P. (IBC) 2430 (MB)/
+2018 in re: “M/s. Delta Electro Mechanical Pvt. Ltd. v. M/s. Sahara
+Hospitality Ltd.” has been enclosed.
+
+5
+Company Appeal (AT) (Insolvency) No. 94 of 2018
+8. It was further submitted that Contempt Petitions were preferred
+before the Hon’ble Supreme Court for non-compliance of judgment dated
+31st August, 2012 by ‘Sahara India Real Estate Corporation Ltd.’ and
+‘Sahara Housing Investment Corporation Ltd.’. resultantly, all orders that
+have been passed by the Hon’ble Supreme Court in the Contempt
+Petitions are to be read and understood in the context of these two
+companies only.
+9. It was further submitted that a bare and collective reading of the
+orders passed by the Hon’ble Supreme Court on 17th July, 2013, 28th
+October, 2013 and 21st November, 2013 as modified by the Three Judge
+Bench on 4th June, 2014, make it clear that the ‘Corporate Debtor’ is
+nowhere within the frame of the Contempt Petitions.
+10. Having heard learned counsel for the parties and perused the
+record, we find that except vague statement made by the Appellant, there
+is nothing on the record to suggest that the Hon’ble Supreme Court has
+passed specific order prohibiting ‘M/s. Sahara Q Shop Unique Products
+Range Limited’- (‘Corporate Debtor’) to release or pay any amount.
+11. On the other hand, from the stand taken by the 1st Respondent and
+order dated 30th April, 2019 passed by the Adjudicating Authority
+(National Company Law Tribunal), Mumbai Bench, Mumbai in C.P. (IBC)
+2430 (MB)/2018, it appears that another Group Company of Sahara
+Group namely— ‘M/s. Sahara Hospitality Ltd.’ has settled the claim of
+
+6
+Company Appeal (AT) (Insolvency) No. 94 of 2018
+‘M/s. Delta Electro Mechanical Pvt Ltd.’- (‘Operational Creditor’)
+amounting to Rs. 20 Crores.
+12. In view of the aforesaid factual aspect, we are not inclined to
+interfere with the impugned order dated 15th December, 2017 on
+purported ground that there is no default on the part of the ‘Corporate
+Debtor’.
+In absence of any merit, the appeal is dismissed. No cost.
+ (Justice S.J. Mukhopadhaya)
+ Chairperson
+(Justice A.I.S. Cheema)
+Member(Judicial)
+ (Kanthi Narahari)
+ Member(Technical)
+NEW DELHI
+14th August, 2019
+AR
