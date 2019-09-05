@@ -1,0 +1,61 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "389"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 389 FTX 56-2017-472 Dated 05-09-19"
+published: "2019-09-05"
+in_force: "2019-09-05"
+in_force_evidence: "published in the Gazette 2019-09-05; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._389_ftx_56-2017-472_dated_05-09-19.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2019-09-05.389"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+FINANCE (TAXATION) DEPARTMENT
+NOTIFICATION
+The 5th September, 2019
+
+1756 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019 1757
+
+1758 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019 1759
+
+1760 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019 1761
+
+1762 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019 1763
+
+1764 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019 1765
+
+1766 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019 1767
+
+1768 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019 1769
+
+1770 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019 1771
+
+1772 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 10, 2019 1773
+RAJIV7KUMAR7BORA,
+Additional Chief Secretary to the Government of Assam,
+Finance Department.
+Guwahati : Printed and Published by the Dy. Directors, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 777 - 100 + 10 - 10 - 09 - 2019. (visit at– dpns.assam.gov.in)
