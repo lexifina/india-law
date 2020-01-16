@@ -1,0 +1,55 @@
+---
+title: "In exercise of the powers conferred by sub section 2 of section 14 of the Customs Act, 1962"
+gazette_id: "CG-DL-E-16012020-215478 Download: gvGazette$ctl10$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "S.O. 210(E)"
+published: "2020-01-16"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-15.215478"
+---
+
+# In exercise of the powers conferred by sub section 2 of section 14 of the Customs Act, 1962
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS) NOTIFICATION New Delhi, the 15th January, 2020 No. 04/2020-CUSTOMS (N.T.) S.O. 210(E).—In exercise of the powers conferred by sub-section (2) of section 14 of the Customs Act, 1962 (52 of 1962), the Central Board of Indirect Taxes & Customs, being satisfied that it is necessary and expedient so to do, hereby makes the following amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue), No. 36/2001-Customs (N.T.), dated the 3rd August, 2001, published in the Gazette of India, Extraordinary, Part-II, Section-3, Sub-section (ii), vide number S. O. 748 (E), dated the 3rd August, 2001, namely:In the said notification, for TABLE-1, TABLE-2, and TABLE-3 the following Tables shall be substituted, namely: -
+
+"TABLE-1 Sl. No.
+
+Chapter/ heading/ subTariff value (US $Per Metric heading/tariff item Description of goods Tonne) 1511 10 00 Crude Palm Oil 1511 90 10 RBD Palm Oil 1511 90 90 Others – Palm Oil 1511 10 00 Crude Palmolein 1511 90 20 RBD Palmolein 1511 90 90 Others – Palmolein 1507 10 00 Crude Soya bean Oil 7404 00 22 Brass Scrap (all grades) 1207 91 00 Poppy seeds TABLE-2 Chapter/ heading/ subDescription of goods Tariff value Sl.
+
+No. heading/tariff item (US $)
+
+1. 71 or 98 497 per 10 grams Gold, in any form, in respect of which the benefit of entries at serial number 356 of the Notification No. 50/2017-Customs dated 30.06.2017 is availed
+
+2. 71 or 98 573 per kilogram Silver, in any form, in respect of which the benefit of entries at serial number 357 of the Notification No. 50/2017-Customs dated
+
+30.06.2017 is availed
+
+3. 573 per kilogram
+
+(i) Silver, in any form, other than medallions and silver coins having silver content not below
+
+99.9% or semi-manufactured forms of silver falling under sub-heading 7106 92;
+
+(ii) Medallions and silver coins having silver content not below 99.9% or semi-manufactured forms of silver falling under sub-heading 7106 92, other than imports of such goods through post, courier or baggage.
+
+Explanation. - For the purposes of this entry, silver in any form shall not include foreign currency coins, jewellery made of silver or articles made of silver.
+
+4. 497 per 10 grams
+
+(i) Gold bars, other than tola bars, bearing manufacturer's or refiner's engraved serial number and weight expressed in metric units;
+
+(ii) Gold coins having gold content not below
+
+99.5% and gold findings, other than imports of such goods through post, courier or baggage.
+
+Explanation. - For the purposes of this entry, ―gold findings‖ means a small component such as hook, clasp, clamp, pin, catch, screw back used to hold the whole or a part of a piece of Jewellery in place.
+
+TABLE-3 Chapter/ heading/ subSl.
+
+No. heading/tariff item Description of goods Tariff value (US $ Per Metric Tonne) 080280 Areca nuts 3798‖
+
+[F. No. 467/01/2020 -Cus-V] JAGVIR SINGH, Under Secy.
+
+(ii) section (ii), vide Notification No. 36/2001–Customs (N.T.), dated the 3rd August, 2001, vide number S. O. 748
+
+(E), dated the 3rd August, 2001 and was last amended vide Notification No. 92/2019-Customs (N.T.), dated the 31st December, 2019, e-published in the Gazette of India, Extraordinary, Part-II, Section-3, Sub-section (ii), vide number S.O. 4723(E), dated 31st December, 2019. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
