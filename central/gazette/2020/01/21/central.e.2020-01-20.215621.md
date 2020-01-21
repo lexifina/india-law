@@ -1,0 +1,112 @@
+---
+title: "Government of India hereby notifies sale re issue of the following Government Stocks"
+gazette_id: "CG-DL-E-21012020-215621 Download: gvGazette$ctl04$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Economic Affairs"
+published: "2020-01-21"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-20.215621"
+---
+
+# Government of India hereby notifies sale re issue of the following Government Stocks
+
+MINISTRY OF FINANCE (Department of Economic Affairs) (BUDGET DIVISION) NOTIFICATION New Delhi, the 20th January, 2020 Auction for Sale (Re-issue) of Government Stock (GS) F. No. 4(6)W&M/2019.—Government of India hereby notifies sale (re-issue) of the following Government Stocks:
+
+Name of the Security Date of Original Original Tenure Auction Issue (yy-mm-dd) Date of Maturity Basis Auction Method Notified Amount (in ` Crore)
+
+6.18% GS 2024 Nov. 04, 2019 05-00-00 Nov. 04, Price Multiple 2,000 GoI FRB 2031 May 07, 2018 13-07-00 Dec. 07, 2031 Price Multiple 6,000
+
+7.69% GS 2043 Apr. 30, 2019 24-01-17 Jun. 17, 2043 Price Multiple 2,000
+
+7.72% GS 2049 Apr. 15, 2019 30-02-00 Jun. 15, 2049 Price Multiple 4,000 Subject to the limit of ` 14,000 crore, being total notified amount, Government of India will have the option to retain additional subscription up to ` 1,000 crore each against any one or more of the above securities. The sale will be subject to the terms and conditions spelt out in this notification (called 'Specific Notification'). The Stock will be sold through Reserve Bank of India, Mumbai Office, Fort, Mumbai- 400 001 as per the terms and conditions specified in the General Notification F.No.4(2)–W&M/2018, dated March 27, 2018, issued by Government of India.
+
+Allotment to Non-competitive Bidders
+
+2. The Government Stock up to 5% of the notified amount of the sale will be allotted to eligible individuals and institutions as per the enclosed Scheme for Non-competitive Bidding Facility in the Auctions of Government Securities (Annex).
+
+Place and date of auction
+
+3. The auction will be conducted by Reserve Bank of India, Mumbai Office, Fort, Mumbai-400 001 on January 24, 2020. Bids for the auction should be submitted in electronic format on the Reserve Bank of India Core Banking Solution (E-Kuber) system on January 24, 2020. The non-competitive bids should be submitted between 11.30 a.m. and 12.00 noon and the competitive bids should be submitted between 11.30 a.m. and
+
+12.30 p.m.
+
+When Issued Trading
+
+4. The Stocks will be eligible for "When Issued" trading in accordance with the guidelines issued by the Reserve Bank of India.
+
+Date of issue and payment for the stock
+
+5. The result of the auction shall be displayed by the Reserve Bank of India at its Fort, Mumbai Office on January 24, 2020. The payment by successful bidders will be on January 27, 2020 i.e. the date of re-issue. The payment for the Stocks will include accrued interest on the nominal value of the Stock allotted in the auction from the date of original issue/last coupon payment date to the date up to which accrued interest is due as mentioned in the table in para 6.
+
+Payment of Interest and Re-payment of Stock
+
+6. Interest will accrue on the nominal value of the Stock from the date of original issue/last coupon payment and will be paid half yearly. The Stocks will be repaid at par on date of maturity.
+
+Name of the Date of Coupon Security Coupon rate (%) Date of Last Coupon payment Date up to which accrued interest is due payments
+
+6.18% GS 2024
+
+6.18 New Stock January 26, 2020 May 04 and Nov. 04 GoI FRB 2031 Variable* Dec. 07, 2019 January 26, 2020 Jun. 07 and Dec. 07
+
+7.69% GS 2043
+
+7.69 Dec. 17, 2019 January 26, 2020 Jun. 17 and Dec. 17
+
+7.72% GS 2049
+
+7.72 Dec. 15, 2019 January 26, 2020 Jun. 15 and Dec. 15 * GoI FRB 2031:
+
+(i) The interest at a variable rate will be paid half-yearly.
+
+(ii) The Floating Rate Bond will carry the coupon, which will have a base rate, equivalent to Weighted Average Yield (WAY) of last 3 auctions (from the rate fixing day) of 182 Day T-Bills plus a fixed spread, of 100 basis points as decided by way of auction mechanism. The spread will be fixed throughout the tenure of the bond.
+
+The implicit yields will be computed by reckoning 365 days in a year.
+
+(iii) In the event of Government of India 182-day Treasury Bill auctions being discontinued during the currency of the Bonds, the base rate of the coupon will be the average of Yield to Maturity (YTM) rates prevailing for six month Government of India Security/ies as on the last three non-reporting Fridays prior to the commencement of the semi-annual coupon period. In case particular Friday/s is/are holiday/s, the yield to maturity rates as on the previous working day shall be taken.
+
+(iv) The base rate for the coupon period Dec. 7, 2019 to Jun. 6, 2020 is 5.10 per cent per annum. Accordingly, the rate of interest on FRB 2031 for this period shall be 6.10 per cent per annum. The rate of interest payable half yearly on the Bonds during the subsequent years shall be announced by the Reserve Bank of India before the commencement of the relative semi-annual coupon period.
+
+By Order of the President of India, RAJAT KUMAR MISHRA, Jt. Secy.
+
+Annex Scheme for Non-competitive Bidding Facility in the Auctions of Government Securities I. Scope : With a view to encouraging wider participation and retail holding of Government securities, it is proposed to allow participation on "non-competitive" basis in select auctions of dated Government of India
+
+(GoI)securities. Accordingly, non-competitive bids up to 5 percent of the notified amount will be accepted in the auctions of dated securities. The reserved amount will be within the notified amount.
+
+II. Eligibility: Participation on a non-competitive basis in the auctions of dated GOI securities will be open to investors who satisfy the following:
+
+1. do not maintain current account (CA) or Subsidiary General Ledger (SGL) account with the Reserve Bank of India. Exceptions: Regional Rural Banks (RRBs) and Cooperative Banks shall be covered under this Scheme in view of their statutory obligations.
+
+2. make a single bid for an amount not more than ` two crore (face value) per auction
+
+3. submit their bid indirectly through any one bank or PD offering this scheme.
+
+Exceptions: Regional Rural Banks (RRBs) and Cooperative Banks that maintain SGL account and current account with the Reserve Bank of India shall be eligible to submit their non competitive bids directly.
+
+III. Coverage: Subject to the conditions mentioned above, participation on "non-competitive" basis is open to any person including firms, companies, corporate bodies, institutions, provident funds, trusts, and any other entity as may be prescribed by RBI. The minimum amount for bidding will be ` 10,000 (face value) and thereafter in multiples in ` 10,000 as hitherto for dated stocks.
+
+IV. Other Operational Guidelines:
+
+1. The retail investor desirous of participating in the auction under the Scheme would be required to maintain a constituent subsidiary general ledger (CSGL) account with the bank or PD through whom they wish to participate. Under the Scheme, an investor can make only a single bid in an auction of a dated security. An undertaking to the effect that the investor is making only a single bid will have to obtained and kept on record by the bank or PD.
+
+2. Each bank or PD on the basis of firm orders received from their constituents will submit a single consolidated non-competitive bid on behalf of all its constituents for each security in electronic format on the Reserve Bank of India Core Banking Solution (E-Kuber) System. Except in extraordinary circumstances such as general failure of the Reserve Bank of India Core Banking Solution (E-Kuber) System, non-competitive bid in physical form will not be accepted.
+
+3. Allotment under the non-competitive segment to the bank or PD will be at the weighted average rate of yield/price that will emerge in the auction on the basis of the competitive bidding. The securities will be issued to the bank or PD against payment on the date of issue irrespective of whether the bank or PD has received payment from their clients or not.
+
+4. In case the aggregate amount of bid is more than the reserved amount (5% of notified amount), pro rata allotment would be made. In case of partial allotments, it will be the responsibility of the bank or PD to appropriately allocate securities to their clients in a transparent manner.
+
+5. In case the aggregate amount of bids is less than the reserved amount, the shortfall will be taken to competitive portion.
+
+6. Security would be issued only in SGL form by RBI. RBI would credit either the main SGL account or the CSGL account of the bank or PD as indicated by them. The facility for affording credit to the main SGL account is for the sole purpose of servicing investors who are not their constituents. Therefore, the bank or PD would have to indicate clearly at the time of tendering the non-competitive bids the amounts (face value) to be credited to their SGL account and the CSGL account. Delivery in physical form from the main SGL account is permissible at the instance of the investor subsequently.
+
+7. It will be the responsibility of the bank or the PD to pass on the securities to their clients. Except in from the date of issue.
+
+8. The bank or PD can recover upto six paise per ` 100 as brokerage/commission/service charges for rendering this service to their clients. Such costs may be built into the sale price or recovered separately from the clients.
+
+In case the transfer of securities is effected subsequent to the issue date of the security, the consideration amount payable by the client to the bank or PD would also include accrued interest from the date of issue.
+
+9. Modalities for obtaining payment from clients towards cost of the securities, accrued interest wherever applicable and brokerage/commission/service charges may be worked out by the bank or PD as per agreement with the client. It may be noted that no other costs such as funding costs should be built into the price or recovered from the client.
+
+V. Banks and PDs will be required to furnish information relating to operations under the Scheme to the Reserve Bank of India (Bank) as may be called for from time to time within the time frame prescribed by the Bank.
+
+VI. The aforesaid guidelines are subject to review by the Bank and accordingly, if and when considered necessary, the Scheme will be modified. ————
+
+Uploaded by Directorate of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 and Published by the Controller of Publications, Delhi-110054 MANOJ KUMAR VERMA
