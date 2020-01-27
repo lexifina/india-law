@@ -1,0 +1,49 @@
+---
+title: "In exercise of the powers conferred by sub sections 1 and 2 of section 120 of the Income Tax Act"
+gazette_id: "CG-DL-E-27012020-215750 Download: gvGazette$ctl10$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "S.O. 387(E)"
+published: "2020-01-27"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-27.215750"
+---
+
+# In exercise of the powers conferred by sub sections 1 and 2 of section 120 of the Income Tax Act
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF DIRECT TAXES) NOTIFICATION New Delhi, the 27th January, 2020 (Income-Tax) S.O. 387(E).—In exercise of the powers conferred by sub-sections (1) and (2) of section 120 of the Income Tax Act, 1961 (43 of 1961), Central Board of Direct Taxes hereby makes the following amendments in the notification of Income-tax, published in the Gazette of India, Extraordinary Part II, section 3, Subsection (ii) vide number S.O. 2752(E), dated the 22nd October, 2014, namely :In the said notification, in the SCHEDULE-I,
+
+(i) the Sl No. 113 and the entries relating thereto shall be omitted;
+
+(ii) in Sl No. 112 for the entries relating thereto, the following entries shall be substituted:-
+
+(a) In the State of a. Persons other than
+
+(a) All cases of the Guwahati, Assam Principal Commissioner/ Commissioner of Income-tax, Guwahati persons referred to in corresponding entries in items (a), (b) and
+
+(c) of Column (5)
+
+(b) All cases of companies deriving income from sources other than income from business or profession and residing within the territorial area mentioned in items (a), (b) and
+
+(c) of Column (4); b. Persons other than individuals being managing directors or directors or managers or secretaries in the companies referred to in corresponding entry in item (c) of column (5) Assam : Districts of Kamrup (Metropolitan), Kamrup (Rural), Nagaon, Morigaon, Lakhimpur, Dhemaji, Sonitpur, Darrang, Udalguri, Nalbari, Barpeta, Bongaigaon, Dhubri, Baksa, Chirang, Goalpara, Kokrajhar, Hojai, South SalmaraMankachar, and Biswanath; companies deriving income from business or profession and whose principal place of business or profession is within the
+
+(ii)
+
+(b) In the State of territorial area mentioned in items (a), (b) and
+
+(c) of Column (4); c. Persons being Arunachal Pradesh :
+
+Districts of East Kameng, West Kameng, Tawang, Lower Subansiri, Upper Subansiri, Papum Pare, Kurung Kumey, Kra Daadi and Kamle
+
+(c) In the State of companies registered under the Companies Act, 2013 or under the Companies Act, 1956 and having its registered office or having its principal place of business in the area mentioned in items (a), (b) and
+
+(c) of Column (4); d. Persons being individuals referred to in item
+
+(b) of column (6) Meghalaya :
+
+Districts of East Garo Hills, West Garo Hills, South Garo Hills, North Garo Hills, and South West Garo Hills.
+
+2.
+
+This notification shall come into force from the date of its publication in the Official Gazette.
+
+[Notification No. 6/2020/F. No. 187/02/2020 (ITA. I)] GULZAR AHMAD WANI, Under Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
