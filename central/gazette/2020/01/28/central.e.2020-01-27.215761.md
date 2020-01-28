@@ -1,0 +1,147 @@
+---
+title: "Whereas in pursuance of the order dated the 7th January 1998 of the Hon ble Supreme Court in Writ Petition"
+gazette_id: "CG-DL-E-28012020-215761 Download: gvGazette$ctl06$imgbtndownload"
+ministry: "Ministry of Environment, Forests and Climate Change"
+department: "Not Applicable"
+notification_no: "S.O. 382(E)"
+published: "2020-01-28"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-27.215761"
+---
+
+# Whereas in pursuance of the order dated the 7th January 1998 of the Hon ble Supreme Court in Writ Petition
+
+MINISTRY OF ENVIRONMENT, FOREST AND CLIMATE CHANGE ORDER New Delhi, the 27th January, 2020 S.O. 382(E).— Whereas in pursuance of the order dated the 7th January, 1998 of the Hon'ble Supreme Court in Writ Petition (C) No. 13029 of 1985, the Central Government constituted the Environment Pollution (Prevention and Control) Authority (hereafter in this notification referred to as the 'EPCA'), vide notification of the Government of India, in the erstwhile Ministry of Environment and Forests, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (ii), vide number S.O. 93(E), dated the 29th January, 1998 and this notification was superseded vide notification of the Government of India, in the Ministry of Environment, Forest and Climate Change, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (ii), vide number S.O. 5120(E), dated the 3rd October, 2018;
+
+And whereas, the EPCA was constituted with the objective of protecting and improving the quality of the environment and preventing and controlling the environmental pollution in the National Capital Region;
+
+And whereas, the EPCA is assisting the Hon'ble Supreme Court in various environment related matters in the National Capital Region in terms of the aforesaid notification number S.O. 5120(E), dated the 3rd October, 2018;
+
+And whereas, the tenure of the EPCA was extended from time to time by the Central Government and lastly it was extended up to the 30th August, 2019 vide notification of the Government of India, in the Ministry of Environment, Forests and Climate Change, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (ii), vide number S.O. 2522(E), dated the 15th July, 2019;
+
+And whereas, the tenure of the EPCA expired on the 30th August, 2019;
+
+Now, therefore, in exercise of the powers conferred by sub-sections (1) and (3) of section 3 of the Environment (Protection) Act, 1986 (29 of 1986) (hereafter in this notification referred to as the said Act), and in supersession of the notification of the Government of India, in the Ministry of Environment, Forest and Climate change number S.O. 5120(E), dated 3rd October, 2018, except as respects things done or omitted to be done before such supersession, the Central Government hereby re-constitutes the Environment Pollution (Prevention and Control) Authority, consisting of the following persons, namely:—
+
+1.
+
+Shri Bhure Lal, Ex-Secretary, Government of India Chairman Member
+
+2.
+
+Ms. Sunita Narain, Director General, Centre for Science and Environment, New Delhi Member
+
+3.
+
+Secretary (Environment and Forests), Government of National Capital Territory of Delhi Member
+
+4.
+
+Commissioner-cum-Secretary, Transport Department, Government of National Capital Territory of Delhi
+
+5.
+
+Chairperson, New Delhi Municipal Council, New Delhi Member
+
+6.
+
+Commissioner, East Delhi Municipal Corporation Member
+
+7.
+
+Commissioner, South Delhi Municipal Corporation Member
+
+8.
+
+Commissioner, North Delhi Municipal Corporation Member
+
+9.
+
+Chief Executive Officer, Delhi Jal Board, New Delhi Member
+
+10.
+
+Joint Commissioner of Police (Traffic), Delhi Police Member Member
+
+11.
+
+Professor Mukesh Khare, Department of Civil Engineering, Indian Institute of Technology, New Delhi
+
+12.
+
+Prof. Umesh Kulshrestha, Jawaharlal Nehru University, New Delhi Member Member
+
+13.
+
+Shri Ajay Kumar Bhagi, Associate Professor, Department of Chemistry, Dayal Singh College, University of Delhi
+
+14.
+
+Dr. Ajay Mathur, Director General, The Energy Research Institute, New Delhi Member
+
+(ii)
+
+15.
+
+Director General, Society of Indian Automobile Manufacturers Member Member
+
+6.
+
+Prof. Arvind Kumar, former professor of surgery, AIIMS, New Delhi presently Chairman Centre for Chest Surgery, Sir Ganga Ram Hospital, New Delhi Member
+
+17.
+
+Dr. Arunabha Ghosh, Chief Executive Officer, Centre for Energy Environment and Water, New Delhi
+
+18.
+
+Dr. Navroz K. Dubash, Senior Fellow, Centre for Policy Research, New Delhi Member
+
+19.
+
+Member Secretary, Central Pollution Control Board, New Delhi Member Secretary
+
+2. The EPCA shall exercise the following powers and discharge the following functions for protecting and improving the quality of the environment and preventing, controlling and abating environmental pollution, namely: —
+
+(a) the powers under section 5 of the said Act for issuing directions in respect of complaints relating to the violation of an order by any authority or measure specified pertaining to—
+
+(i) standards for the quality of the environment in its various aspects;
+
+(ii) standards for emission or discharge of environmental pollutants from various sources;
+
+(iii) restriction of areas in which any industries, operations or processes of class of industries or process shall not be carried out or shall be carried out subject to certain safeguards;
+
+(iv) procedures and safeguards for the prevention of accidents which may cause environmental pollution and remedial measures for such accidents;
+
+(v) procedures and safeguards for the handling of hazardous substances.
+
+(b) the power to take up matters as mentioned above, suo-motu, or on the basis of complaints made by any individual, representative body or organisation functioning in the field of environment and such complaints may be against any individual, association, company, public undertaking or local body carrying on any industry, operation or process.
+
+3. The EPCA shall, for controlling vehicular pollution, take all necessary steps to ensure compliance of specified emission standards by vehicles including proper calibration of the equipment for testing vehicular pollution, ensuring compliance of fuel quality standards, monitoring and coordinating action for traffic planning and management.
+
+4. The EPCA shall, for ensuring maintenance of the prescribed ambient noise standards, have the power to issue directions under section 5 of the said Act, including banning or restricting any industry, process or operation emitting noise.
+
+5. The EPCA shall deal with environmental issues pertaining to the National Capital Region which may be referred to it by the Central Government.
+
+6. The EPCA shall exercise the powers of entry, inspection, search and seizure under section 10 of the said Act, in respect of any action to be taken under paragraph 2.
+
+7. The EPCA shall exercise the power to take samples under section 11 of the said Act, in respect of any action to be taken under paragraph 2.
+
+8. The EPCA shall exercise the powers under section 19 of the said Act, for making complaints against offences under the said Act and for non-compliance of directions issued by it under paragraph 2.
+
+9. The EPCA shall have jurisdiction over the National Capital Region as defined in clause (f) of section 2 of the National Capital Region Planning Board Act, 1985 (2 of 1985).
+
+10. The foregoing powers and functions of the EPCA shall be subject to the supervision and control of the Central Government.
+
+11. The tenure of the EPCA shall be till the 30th March, 2020.
+
+12. The EPCA shall furnish a progress report about its activities once in a month to the Central Government.
+
+13. The EPCA shall have its headquarters in the National Capital Region.
+
+14. The Member Secretary shall organise meetings of the EPCA with the approval of the Chairman.
+
+15. A minimum quorum of one third of the members shall be observed for holding a meeting of the EPCA and for arriving at any decision.
+
+16. All correspondence on behalf of the EPCA may be made with the approval of Chairman through the Member Secretary or through any officer specifically authorised in this behalf.
+
+[F. No. Q-18011/13/2000-CPA (Pt.)] ARVIND KUMAR NAUTIYAL, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
