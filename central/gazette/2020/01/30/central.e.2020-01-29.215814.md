@@ -1,0 +1,47 @@
+---
+title: "In pursuance of notification No 60 2015 Customs N T"
+gazette_id: "CG-DL-E-30012020-215814 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "S.O. 445(E)"
+published: "2020-01-30"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-29.215814"
+---
+
+# In pursuance of notification No 60 2015 Customs N T
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS) (Directorate of Revenue Intelligence) NOTIFICATION New Delhi, the 21st January, 2020 No. 7/2020-Customs (N.T./CAA/DRI) S.O. 445(E).—In pursuance of notification No. 60/2015-Customs (N.T.), published vide number G.S.R. 453(E), dated 4th June 2015 in Gazette of India, Extra-ordinary, Part-II, section 3, sub-section (i), and as amended by notification No. 133/2015-Customs (N.T.), published vide number G.S.R. 916(E) dated 30th November 2015 in Gazette of India, Extraordinary, Part-II, section 3, sub-section (i), issued by the Government of India, Ministry of Finance, Department of Revenue, under clause (a) of section 152 of the Customs Act, 1962 (52 of 1962), the Director General, Revenue Intelligence, hereby appoints officer mentioned in column (5) of the Table below to act as a common adjudicating authority to exercise the powers and discharge the duties conferred or imposed on officers mentioned in column (4) of the said Table in respect of noticees mentioned in column (2) of the said Table for the purpose of adjudication of show-cause notice mentioned in column (3) of the said Table, namely:TABLE Name of Noticee (s) Name of Adjudicating Sl.
+
+No. and Address Show Cause Notice Number Authorities Common Adjudicating and Date Principal Commissioner/ Commissioner of Customs, Vizag Sea, Custom House, Port Area, Visakhapatnam.
+
+F. No. DRI/BZU/ S-IV/Enq-27 (IntNil)/2019 dated
+
+16.12.2019 read with corrigendum dated 10.01.2020 (SCN No. 59/2019).
+
+Authority appointed
+
+1.
+
+M/s. Divis Laboratories Ltd., Divi Towers, 1-72/23 P/DIVIS/303, Cyber Hills, Gachibowli, Hyderabad-500032, Telangana and 22 others.
+
+Principal Commissioner/ Commissioner of Customs (Import), New Custom House, New Delhi.
+
+Principal Commissioner/ Commissioner of Customs, GST Bhavan, L. B. Stadium Road, Basheerbagh, Hyderabad.
+
+Principal Commissioner/ Commissioner of Customs (Chennai-II), Custom House, Chennai.
+
+Principal Commissioner/ Commissioner of Customs (Import), New Custom House, New Delhi.
+
+Principal Commissioner/ Commissioner of Customs, Vijayawada Customs Preventive Commissionerate, Autonagar, Vijayawada.
+
+Principal Commissioner/ Commissioner of Customs (Nhava Sheva-I), Jawaharlal Nehru Custom House, Raigad.
+
+Principal Commissioner/ Commissioner of Customs, Custom House, Port User Building, Mundra.
+
+Principal Commissioner/ Commissioner of Customs, Custom House, Kandla.
+
+Principal Commissioner/ Commissioner of Customs, Customs Preventive Commissionerate, Williams Road, Trichy.
+
+Principal Commissioner/ Commissioner of Customs, Custom House, Marmagoa, Vasco-da-gama, Goa.
+
+[F. No. DRI/HQ-CI/50D/CAA-4/2020-CI] JASPREET SINGH SUKHIJA, Jt. Director and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
