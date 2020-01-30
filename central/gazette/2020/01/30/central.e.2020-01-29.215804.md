@@ -1,0 +1,57 @@
+---
+title: "In exercise of the powers conferred by section 295 read with section 13A section 35AD section 40A section"
+gazette_id: "CG-DL-E-30012020-215804 Download: gvGazette$ctl08$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "G.S.R. 56(E)"
+published: "2020-01-30"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-29.215804"
+---
+
+# In exercise of the powers conferred by section 295 read with section 13A section 35AD section 40A section
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF DIRECT TAXES) NOTIFICATION New Delhi, the 29th January, 2020 Income-tax G.S.R. 56(E).—In exercise of the powers conferred by section 295 read with section 13A, section 35AD, section 40A, section 43, section 43CA, section 44AD, section 50C, section 56, section 80JJAA, section 269SS, section 269ST and section 269T of the Income-tax Act, 1961 (43 of 1961), the Central Board of Direct Taxes hereby makes the following rules further to amend the Income-tax Rules, 1962, namely:-
+
+1. Short Title and commencement.— (1) These rules may be called the Income-tax (3rd Amendment) Rules,
+
+2020.
+
+(2) Save as otherwise provided in these rules, they shall come into force on the date of their publication in the Official Gazette.
+
+2. In the Income-tax Rules, 1962 (hereafter referred to as the principal rules),−
+
+(i) after rule 6ABB, the following rule shall be inserted and shall be deemed to have been inserted from the 1st day of September, 2019, namely:-
+
+"Other electronic modes 6ABBA. The following shall be the other electronic modes for the purposes of clause (d) of first proviso to section 13A, clause (f) of sub-section (8) of section 35AD, sub-section (3), sub-section (3A), proviso to subsection (3A) and sub-section (4) of section 40A, second proviso to clause (1) of Section 43, sub-section (4) of section 43CA, proviso to sub-section (1) of section 44AD, second proviso to sub-section (1) of section 50C, second proviso to sub-clause (b) of clause (x) of sub-section (2) of section 56, clause (b) of first proviso of clause (i) of Explanation to section 80JJAA, section 269SS, section 269ST and section 269T, namely:−
+
+(a) Credit Card;
+
+(b) Debit Card;
+
+(c) Net Banking;
+
+(d) IMPS (Immediate Payment Service);
+
+(e) UPI (Unified Payment Interface);
+
+(f) RTGS (Real Time Gross Settlement);
+
+(g) NEFT (National Electronic Funds Transfer), and
+
+(h) BHIM (Bharat Interface for Money) Aadhar Pay";
+
+(ii) in rule 6DD,−
+
+(a) for the marginal heading, the following marginal heading shall be substituted, namely:−
+
+"Cases and circumstances in which a payment or aggregate of payments exceeding ten thousand rupees may be made to a person in a day, otherwise than by an account payee cheque drawn on a bank or account payee bank draft or use of electronic clearing system through a bank account or through such other electronic mode as prescribed in rule 6ABBA.";
+
+(b) In the opening paragraph, for the words "account payee bank draft, exceeds twenty thousand rupees", the words, figures and letters "account payee bank draft or use of electronic clearing system through a bank account or through such other electronic mode as prescribed under rule 6ABBA, exceeds ten thousand rupees" shall be substituted;
+
+(c) in clause (c), sub-clauses (v), (vi) and (vii) shall be omitted;
+
+(d) clause (j) shall be omitted.
+
+[Notification No. 8/2020/F. No. 370142/14/2019-TPL] SAURABH GUPTA, Under Secy. (Tax Policy and Legislation Division) Explanatory Memorandum :− It is certified that no person is being adversely affected by giving retrospective effect to this notification, in relation to amendment as provided in sub-clause (i) of clause 2 of this notification.
+
+Note: The principal rules were published in the Gazette of India, Extraordinary, Part-II, Section 3, Sub-section (ii) vide notification number S.O. 969(E), dated the 26th March, 1962 and last amended vide notification number G.S.R 14(E), dated 6th January, 2020. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
