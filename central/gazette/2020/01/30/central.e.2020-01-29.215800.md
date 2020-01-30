@@ -1,0 +1,21 @@
+---
+title: "In exercise of the powers conferred by sub section 3 of section 3 of the Spices Board Act"
+gazette_id: "CG-DL-E-30012020-215800 Download: gvGazette$ctl07$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Department of Commerce"
+notification_no: "S.O. 442(E)"
+published: "2020-01-30"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-29.215800"
+---
+
+# In exercise of the powers conferred by sub section 3 of section 3 of the Spices Board Act
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department of Commerce) NOTIFICATION New Delhi, the 27th January, 2020 S.O. 442(E).—In exercise of the powers conferred by sub-section (3) of section 3 of the Spices Board Act, 1986 (10 of 1986) read with rules 4 and 5 of the Spices Board Rules, 1987, the Central Government hereby appoints the following person as Member of the Spices Board for a period of three years from the date of publication of this notification in the Official Gazette and for that purpose makes the following further amendments in the notification of the Government of India, in the erstwhile Ministry of Commerce number S.O. 123(E), dated the 26th February, 1987, namely:In the said notification, for serial number 4 and the entry relating thereto, the following serial number and entry shall be substituted, namely:-
+
+"4. Shri. G.V.L. Narasimha Rao, Member Elected by Rajya Sabha".
+
+Member of Parliament, Rajya Sabha.
+
+[F. No. 5/1/2017-Plant-D] DIWAKAR NATH MISRA, Jt. Secy.
+
+Note : The principal notification was published in the Gazette of India, Extraordinary, Part II, Section 3, SubSection (ii) vide number S.O. 123(E), dated the 26th February, 1987 and was last amended by vide number S.O. 3499(E), dated the 26th September, 2019 was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-Section (ii) dated the 27th September, 2019. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA
