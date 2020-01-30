@@ -1,0 +1,1266 @@
+---
+title: "The Hon ble High Court of Calcutta vide Order dated 11 January 2019 in the W P No 15451 W of 2017 directed the Tariff Authority for Major Ports"
+gazette_id: "CG-MH-E-30012020-215794 Download: gvGazette$ctl05$imgbtndownload"
+ministry: "Tariff Authority for Major Ports"
+department: "Not Applicable"
+published: "2020-01-30"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-24.215794"
+---
+
+# The Hon ble High Court of Calcutta vide Order dated 11 January 2019 in the W P No 15451 W of 2017 directed the Tariff Authority for Major Ports
+
+TARIFF AUTHORITY FOR MAJOR PORTS NOTIFICATION Mumbai, the 15th January, 2020 No. TAMP/53/2107-KOPT.—The Hon'ble High Court of Calcutta vide Order dated 11 January 2019 in the W.P. No. 15451(W) of 2017 directed the Tariff Authority for Major Ports, Mumbai, to consider the objection of the TILL Limited on the Tariff Order No. TAMP/62/2016-KOPT, dated 29 March 2017 and pass a reasoned Order within certain time limit. The Tariff Authority for Major Ports filed an application praying for extension of time for reasons stated in the application to comply with the direction which was issued in the order dated 11 January 2019. The Hon'ble High Court of Calcutta extended the time to comply with their order for a period of 12 weeks from 9 July 2019. Considering that the extended time line to pass order on the matter as granted by the Hon'ble High Court vide order dated 09 July 2019 had expired, an application was filed before the Hon'ble High Court praying for extension of time for reasons stated in the application to pass a reasoned Order.
+
+On such prayer, the Hon'ble High Court vide their order dated 24 December 2019 extended the time to comply the direction issued in the order dated 11 January 2019 till 31 March 2020 with a direction to Tariff Authority for Major Ports to comply with the order within the extended time limit.
+
+In compliance of the orders dated 11 January 2019 and 24 December 2019 passed by the Hon'ble High Court of Calcutta disposing of the W.P. No. 15451(W) of 2017 and in exercise of the powers conferred under Section 49 of the Major Port Trusts Act, 1963 (38 of 1963) on the Tariff Authority for Major Ports, the Tariff Authority for Major Ports has disposed of the objection of the TILL as in the Order appended hereto.
+
+TARIFF AUTHORITY FOR MAJOR PORTS Case No. TAMP/53/2017 – KOPT QUORUM
+
+(i).
+
+Shri. T.S. Balasubramanian, Member (Finance)
+
+(ii).
+
+Shri. Rajat Sachar, Member (Economic) ORDER (Passed on this 29th day of November 2019, subject to notification of the Order in the Gazette of India, after the Hon'ble High Court granting an extension of time beyond 09 October 2019, for notification of the said Order) This case relates to a communication received from M/s. TIL Limited consequent to the direction of the Hon'ble High Court of Calcutta.
+
+2.1.
+
+Based on a proposal filed by Kolkata Port Trust (KOPT), this Authority has passed a tariff Order no.
+
+TAMP/62/2016-KOPT dated 29 March 2017, fixing the Rent Schedule for the lands and buildings of KOPT at Kolkata and Haldia retrospectively from 7 April 2016.
+
+2.2.
+
+M/s. TIL Limited (TILL) challenged the above referred tariff Order passed by this Authority by filing a Writ Petition no. 15451 (W) of 2017 in the Hon'ble High Court of Calcutta. The Petitioners have impleaded Union of India as Respondent no. 1, KOPT as Respondent no. 2, Chairman of KOPT as Respondent no. 3 and this Authority as Respondent no. 4 in the said Writ Petition. The TILL has, interalia, prayed for quashing of the above referred tariff Order on various grounds, including on the ground that this Authority has not given opportunity to TILL to put its case and has failed to consider the objections raised by TILL.
+
+2.3.
+
+The Hon'ble High Court vide their Order dated 27 July 2017 directed the respondents to file affidavit in opposition within a period of two weeks from the date of order and reply, if any, to be filed by the petitioners within a period of one week thereafter.
+
+2.4.
+
+As directed by the Hon'ble Court vide their Order dated 27 July 2017, the Counter Affidavit was filed on behalf of this Authority before the Hon'ble High Court.
+
+3.1 Thereafter, the Hon'ble High Court of Calcutta have passed an Order dated 11 January 2019 disposing of the subject Writ Petition filed by the TIL. The operative portion of the Order of the Hon'ble Court is as follows:
+
+"The respondent KoPT is hereby directed to forward the proposal including the report of the Land Allotment Committee to the petitioners within seven days from the date of communication of a copy of this order. The petitioners may file their objection within seven days from the date of receipt of the said proposal. TAMP shall consider the objection of the petitioners within four weeks thereafter and pass a reasoned order to be communicated to the petitioners within a fortnight thereof. Till such time the reasoned order is passed and communicated to the petitioners the SoR of 2016 will not be made effective in case of the land of the petitioners. After communication of the reasoned order the respondent KoPT will be at liberty to take steps for executing fresh lease in respect of the lands in question strictly in accordance with the Policy Guidelines.
+
+It is made clear that forwarding the copy of the proposal shall in no manner be construed as legalising or ratifying the possession of the petitioners in the port land. Nor will it create any possessory right in their favour.
+
+WP No. 15451 (W) of 2017 is disposed of accordingly.
+
+There will, however, be no order as to costs."
+
+3.2.
+
+The compliance points so far as the KOPT and this Authority are concerned, are as follows:
+
+(i).
+
+The KOPT to provide the TILL the proposal including Report of the Land Allotment Committee within a period of 7 days from the date of communication of a copy of the order.
+
+(ii).
+
+The TILL to file its objection within 7 days from the date of receipt of proposal from KOPT.
+
+(iii).
+
+This Authority to consider the objection of the TILL within four weeks thereafter and pass a reasoned Order to be communicated to the TILL within a fortnight thereof.
+
+4.1.
+
+In order to comply with the Order of the Hon'ble High Court of Calcutta, KOPT was immediately requested by a letter dated 16 January 2019 to forward the proposal of the KOPT for revision of Schedule of Rent including Report of the Land Allotment Committee (LAC) to TILL. The KOPT vide its letter no.
+
+Lnd.4050/IX/19/3155 dated 22 January 2019 is understood to have forwarded a copy of the KOPT proposal dated 28 October 2016 including Report of the LAC to TILL.
+
+4.2 The learned Advocate vide his letter dated 25 January 2019 filed objections on behalf of TILL on the proposal of KOPT for revision of Schedule of Rent (sent by KOPT vide its letter dated 22 January 2019 to TILL) reserving his right to add, alter and amend the above objection and/ or file comprehensive and/ or supplementary objection and documents, if so, advised and seek for a personal hearing upon adequate prior notice.
+
+5.
+
+Following the usual consultation process adopted, a copy of the letter dated 25 January 2019 along with its enclosures received from the Advocate of TILL, was forwarded to KOPT with a request to furnish its para wise comments on the submissions made by the TILL by 06 February 2019.
+
+6.1.
+
+As a part of the consultative approach adopted by this Authority and in order to give an opportunity of being heard to the TILL, a joint hearing on the case in reference was scheduled on 19 February 2019 at KOPT premises with advance notice to both KOPT and the TILL. At the joint hearing, the learned Advocate on behalf of TILL submitted that some pages in the proposal furnished by KOPT to TILL are missing. The KOPT submitted that it has made available the entire proposal to TILL. However, the KOPT was unable to establish that the proposal given by KOPT to TILL contained all pages. Since the learned Advocate on behalf of TILL was not willing to argue his case based on the reported incomplete proposal given by KOPT to TILL and insisted for production of missing pages and Land Allotment Committee Report by KOPT, the joint hearing came to be an inconclusive exercise and hence was adjourned to a date to be decided later.
+
+6.2.
+
+As agreed at the joint hearing, the KOPT was requested to furnish the complete proposal to TILL, to the satisfaction of TILL latest by 26 February 2019. The TILL, in turn, was requested to file its objections before this Authority within a week from the date of receipt of complete proposal from KOPT.
+
+6.3.
+
+As decided at the joint hearing, the KOPT vide its letter dated 19 February 2019 addressed a letter to TILL and with a copy endorsed to this Authority, by drawing reference to the joint hearing, reported to have forwarded the following documents to TILL. The relevant extract of KOPT letter to TILL is reproduced below:
+
+"(i).
+
+Minutes of the Meeting of the Land Allotment Committee held on 22.07.2016 (Appendix-I) (Pages 1 to 41) (already provided vide this office letter no. 4050/IX/19/3155 dated 22.01.2019).
+
+(ii).
+
+Board of Trustees Resolution no. R/75/KDS/EST/3/08/2016 dated 24.08.2016 (Appendix-II) (Pages 42 to 189) (already provided vide this office letter no. 4050/IX/19/3155 dated
+
+22.01.2019).
+
+(iii).
+
+KOPT letter no. 464/F/RFC/XVII/Addl/16/2570 dated 28.10.2016 (Appendix-III) (Pages 190 to 206). The conditionalities mentioned in the notes appended to SoR 2016 may kindly be seen printed as pages 397 to 406 of the Board Resolution dated 24.08.2016, paginated as pages 134 to 143. (already provided vide this office letter no. 4050/IX/19/3155 dated 22.01.2019)."
+
+6.4.
+
+Since there was no communication from TILL, TILL was requested vide letter dated 6 March 2019 to confirm the receipt of all the documents from KOPT to its satisfaction and that no further documents are required to be furnished from KOPT. This was followed by a reminder dated 13 March 2019.
+
+6.5.
+
+In this regard, the learned Advocate, on behalf of TILL, vide his email dated 18 March 2019 conveyed that the set of documents forwarded by KOPT to TILL vide its letter dated 19 February 2019 bearing reference no Lnd. 4050/Ix/19/3424 does not contain the report of the Land Allotment Committee and that they have vide their letter dated 18 March 2019 informed the KOPT about the same.
+
+6.6.
+
+The above said email of the Advocate was forwarded to KOPT under cover of letter dated 20 March 2019 for its information and necessary action. This was followed by reminders dated 09 April 2019, 16 April 2019 and 21 May 2019.
+
+6.7.
+
+In this regard, the KOPT vide its d.o. letter dated 4 June 2019 has reiterated that it has already furnished the copy of minutes of the LAC meeting held on 22 June 2016 and the copy of Board Resolution dated 24 August 2016 to TILL on 19 February 2019 and shared the said copies of documents with this Authority.
+
+6.8.
+
+Having satisfied that the documents forwarded by KOPT contained recommendation of the LAC, the copies of the following documents as received from KOPT under the cover of d.o. letter dated 4 June 2019, were forwarded to TILL vide letter dated 20 June 2019, and the TILL was requested to furnish its objections on the KOPT proposal by 28 June 2019:
+
+(i).
+
+Minutes of the Meeting of the Land Allotment Committee held on 22.07.2016 - Pages 1 to 41
+
+[This document contained recommendation of LAC]
+
+(ii).
+
+KOPT Board of Trustees Resolution No. A/17/KDS/EST/3/08/2016 dated 24.08.2016 – Pages 42 to 189
+
+(iii).
+
+KOPT proposal dated 28.10.2016 for revision of schedule of Rent – Pages 190 to 206.
+
+6.9.
+
+In response, the learned Advocate on behalf of TILL vide his email dated 28 June 2019 conveyed the following:
+
+(i).
+
+The documents furnished by KOPT are not in compliance with the judgment and order dated 11 January 2019 passed by the Hon'ble Justice Amrita Sinha in W.P. No. 15451 (W) of 2017.
+
+[The copy of the said Order is attached by Advocate as Attachment-1.]
+
+(ii).
+
+The KOPT has not furnished the report of the Land Allotment Committee (LAC) despite repeated requisition. [The copy of the letter dated 18 March 2019 is attached by Advocate as Attachement-2.]
+
+(iii).
+
+The KOPT has not furnished the report of the LAC which means KOPT has violated the judgment and order dated 11 January 2019 passed by the Hon'ble Justice Amrita Sinha and deprived TILL to reply upon the same and to deal with the act and conduct of KOPT.
+
+(iv).
+
+An application bearing CAN 4354 of 2019 which was filed by TAMP before the Hon'ble High Court at Calcutta, is pending. TILL shall make appropriate submission at the time of hearing of such application, till such time the application be kept in abeyance.
+
+7.1.
+
+In the meanwhile, the time limit of 4 weeks from the date of receipt of the objections from TILL, as given by the Hon'ble High Court to this Authority, to pass reasoned order, was to expire on 26 February 2019 (considering the receipt of preliminary objection from TILL on 29 January 2019). The TILL itself had submitted at the joint hearing held on 19 February 2019 that 4 weeks time for TAMP has not yet started and that the 4 weeks time will start only when the TILL would make its submission after receipt of complete proposal from KOPT.
+
+7.2.
+
+Considering that one week time was granted to KOPT to furnish its complete proposal to TILL and that one week thereafter was given to TILL to make its submissions and to have a joint hearing on the matter, it was not possible to pass a reasoned Order by 26 February 2019. Accordingly an application was filed before the Hon'ble Court seeking extension of time, for passing a reasoned Order on the matter in reference.
+
+7.3.
+
+The application filed seeking extension of time for complying with the Order of the Hon'ble Court was taken up for hearing on 9 July 2019 before the Hon'ble Justice Amrita Sinha. After considering the submission on behalf of all the parties, including this Authority, the Hon'ble Justice has passed the following Order:
+
+"The Tariff Authority for Major Ports (TAMP for short) has filed this application praying for extension of time to comply with the direction which was issued in the judgement and order dated 11th January 2019 in W.P. No. 15451 (W) of 2017.
+
+It has been submitted that the documents which were required to be supplied to the petitioners has since been forwarded to the petitioners both by Kolkata Port Trust as well as by TAMP.
+
+The learned advocate appearing on behalf of the petitioners submits that all the documents which are necessary and required for the purpose of adjudication in question has not been forwarded to them as per the direction of this Court on 11th January 2019.
+
+The learned advocates appearing on behalf of Kolkata Port Trust and TAMP disputes the said submission made by the petitioners.
+
+Be that as it may, since an application has been filed praying for extension of time for compliance of the direction issued in the judgment under reference, accordingly, the time to comply the order is extended for a period of twelve weeks from date.
+
+The parties are directed to act in accordance with the direction passed in the judgement dated 11th January 2019.
+
+TAMP shall consider the objection and pass a reasoned order on the basis of the documents that have been supplied to the petitioners by the respondents.
+
+CAN 4345 of 2019 is disposed of."
+
+8.1.
+
+As per the direction of the Court dated 9 July 2019, the parties have been directed to act in accordance with the direction given in the judgment dated 11 January 2019 and that this Authority shall consider the objection of the Petitioner and pass a reasoned order on the basis of the documents that have been supplied to the petitioners by the respondents.
+
+8.2.
+
+Based on the above, TILL was requested vide letter dated 18 July 2019 to file their objection on the KOPT proposal immediately, to enable us pass a reasoned Order, in compliance with the direction of the Hon'ble Court, after following the joint hearing process.
+
+8.3.
+
+In response to this, the learned Advocate on behalf of TILL vide his letter dated 19 August 2019 has filed objections, based on the documents which have been furnished by KOPT in terms of the Order of the Hon'ble High Court of Calcutta.
+
+9.1.
+
+A joint hearing on the case in reference was held on 28 August 2019 at the KOPT premises at Kolkata. At the joint hearing, the TILL and KOPT have made their submissions, as given below:
+
+Advocate on behalf of TILL
+
+(i).
+
+Read out the operative portion of the Order dated 11 January 2019 passed by the Hon'ble High Court of Calcutta.
+
+(ii).
+
+The KOPT was directed by the Hon'ble Court to forward the proposal including the report of the Land Allotment Committee to us. The KOPT did not furnish its complete proposal.
+
+(iii).
+
+In the Order dated 9 July 2019 passed by the Hon'ble High Court of Calcutta, in connection with an application filed by TAMP seeking extension of time for passing the Order, the parties have been directed to act in accordance with the direction passed in the judgment dated 11 January
+
+2019. It has also been held that TAMP shall consider the objection and pass a reasoned order on the basis of the documents that have been supplied to the petitioners by the respondents.
+
+(iv).
+
+Accordingly, we have forwarded our additional Written Objection to TAMP vide our communication dated 19 August 2019, based on the documents that have been made available to us by KOPT and TAMP. In our additional written objection submitted now, our earlier objections have also been captured.
+
+(v).
+
+As per the Land Policy Guidelines, the Land Allotment Committee (LAC) is required to independently ascertain, based on parameters laid down in the Guidelines, the schedule of rent and thereafter, recommend the same for the consideration of the KOPT Board. However, the LAC has not followed the provisions stipulated in the Land Policy Guidelines.
+
+(vi).
+
+The Guidelines states that LAC may normally take into account the highest of the factors as listed in the Guidelines to determine the market value of the land. It does not mean, it has to consider the highest factor. The Guidelines allow the LAC to adopt a lower factor and record the reasons for adopting the same.
+
+(vii).
+
+However, the LAC has not considered any of the factors, but has instead considered only the Valuation Report of the Colliers and has summarily approved the recommendations contained in the Valuation Report. The said recommendations contained in the LAC Report has been considered by the Board of KOPT and thereafter the same has been forwarded to TAMP. In a nutshell, the valuation as arrived at by the Colliers has become the proposal of the KOPT to TAMP.
+
+(viii).
+
+In the Valuation Report of Colliers, the Valuer has stated that they have not physically measured nor verified the areas. Also, the Valuer in his Report has stated that he has not seen the existing lease/ licence documents and has presumed a clear title of the owner of the lands. How can the Valuer give a Report without verifying the area or without examining the documents in respect of the land for which he is supposed to give the valuation? Valuers have not done what they were supposed to do. Such a report cannot be relied upon.
+
+(ix).
+
+Further, in the revision of Rent Schedule in the year 2017, the KOPT has clubbed Zone 16 and 17 and prescribed a single rate for both Zones. Clubbing of zones can be done only when the amenities/ facilities are similar. There is no similarity between Zone 16 and 17. Thus, though we have no facilities/ amenities, we have been tagged with another zone, which has comparatively better facilities/ amenities. This is also based on the Valuer's Report.
+
+(x).
+
+The Valuer has considered some adjustment factors. However, the quantum of the discount/ adjustment factor is arbitrary and has no basis.
+
+(xi).
+
+One of the Land Users, Diamond Beverages Pvt Ltd also having an adjoining land in the same Zone, had submitted a report prepared by JLL, a world renowned valuation company. There is a striking difference in the adjustment factors as considered by Colliers and that considered by JLL.
+
+(xii).
+
+We request that Colliers Report should not be relied upon and instead, the report of the JLL be taken into account.
+
+(xiii).
+
+We would like to further highlight the glaring differences between the Valuation Report of Colliers and that of JLL.
+
+[Member (F), TAMP:
+
+Considering the dead line fixed by Honb'le High Court, to pass a reasoned Order, the TILL may furnish their further submissions to us in writing within 10 days. A copy of the same may be marked to KOPT also]
+
+(xiv).
+
+We will forward our additional comments to TAMP, with a copy endorsed to KOPT within 10 days.
+
+KOPT
+
+(i).
+
+We will give our submissions to TAMP within 7 days after receipt of the comments from TILL.
+
+9.2.
+
+As decided in the joint hearing, the TILL was requested vide letter dated 04 September 2019 to furnish its additional submission to this Authority with copy endorsed to KOPT, latest by 7 September 2019.
+
+Simultaneously, the KOPT was also requested vide letter dated 04 September 2019 to furnish its point wise comments on all the objections of the TILL vide its letters dated 29 January 2019, 19 August 2019 and the additional submissions to be furnished by TILL.
+
+9.3.
+
+Accordingly, the TILL vide its email dated 11 September 2019 has made its additional submission to us.
+
+10.1.
+
+From the written objections filed by the TILL vide its letter dated 25 January 2019, 19 August 2019 and 11 September 2019 (excluding the repeated objections) it was seen that the objections of TILL are related to the method of Valuation adopted by the Valuer i.e. Colliers International Limited (CIL) and considered by LAC, Report of the Land Allotment Committee (LAC) and the approval accorded by the Board of Trustees of KOPT on the proposal of the Port.
+
+10.2.
+
+Therefore, a copy of each of the communications dated 25 January 2019, 19 August 2019 and 11 September 2019 as received from the TILL was forwarded to KOPT from time to time seeking their comments, to have the benefit of the views of KOPT on the objection raised by the TILL.
+
+10.3.
+
+As regards TILL communication dated 25 January 2019, the KOPT has responded vide its letter dated 01 March 2019. As regards TILL communications dated19 August 2019 and 11 September 2019, only after issue of reminders dated 23 September 2019 and 9 October 2019, the KOPT has responded vide its letter dated 18 October 2019 (received by us on 30 October 2019).
+
+11.1.
+
+The objections of TILL and the comments of KOPT thereon are tabulated below:
+
+I.
+
+TILL letter dated 25 January 2019 Objections of TILL Reply of KOPT dated 01 March 2019 Sr.
+
+No.
+
+(1).
+
+Consideration of transactions of neighbouring land not correct Plot sizes of KDS land parcels vary widely and vicinity area of KDS is primarily residential mixed use zone and mainly dotted with residential development along with institutional, public, semi-public, commercial development and in a general Schedule of Rent individual plot wise valuation is not possible. As per the recommendation of the valuer, average rates of transaction in the ports vicinity were considered to even out the wide variations. It is also mentioned that instead of taking the highest rate of actual transaction, as prescribed in LPG 2014 (Clause no. 13(a) (ii)), valuer had considered only average value in view of the wide variations in land values furnished by the Registration office and also appropriate adjustment was made for land use aspects before referring those land transactions of neighboring area. Explanation of land use adjustment and attributed discount was referred in Section 4.3. under land use adjustment and conformity with the methodology prescribed in the LPG. Therefore, the contention of the petitioner is not correct.
+
+(i).
+
+The transactions of neighboring land parcels referred to in the Valuation Report are for freehold, developed land for non-industrial purpose and the same has no bearing or resemblance with the Port land, which is subject to various restrictive covenants (like prohibition on sub-leasing, requirement of obtaining prior sanction of KOPT tor construction, transfer of lease, mortgage, etc.), as mentioned in Land Policy Guidelines. The very basis of land valuation is in departure with the Land Policy Guidelines, and in particular paragraph 13 thereof.
+
+[In terms of the Clause 13(a) of the amended LPG, 2014 the Land allotment Committee may normally take into account the highest of the factors mentioned therein [viz (i). State Government's ready reckoner of land values in the area, if available for similar classification / activities. (ii).
+
+Highest rate of actual relevant tractions registered in last three years in the Port's vicinity (the vicinity of the Port is to be decided by the respective Port Trust Boards) with an appropriate annual escalation rate to be approved by the Port Trust Board. (iii). Highest accepted tender-cum-auction rate of Port land for similar transaction, updated on the basis of the annual escalation rate approved by the Port Trust Board. (iv). Rate arrived at by an approved valuer appointed for the purpose by the Port. (v). Any other relevant factor as may be identified by the Port.]
+
+(ii).
+
+The area under Kolkata Port Trust falls under Kolkata Municipal Corporation, but adjacent lands fall beyond Kolkata Municipal Corporation i.e.
+
+Municipality or Panchayat. The lands under Kolkata Municipal Corporation are not eligible for any State incentives under the West Bengal Incentive Schemes for setting up their industry, whereas the lands at next door are entitled to incentives upto 75% of their total capital investments which is substantial. It is thus evident that the entire basis of the KOPT Report is lopsided and faulty.
+
+In the port area, all permissible usages except residential purpose as per Land Use Plan of the Kolkata Metropolitan Development Corporation are generally allowed. As the land price depends on the usage, the land price having industrial usage remains on much lower side in comparison to the land having residential or commercial or mixed usage, a discount @ 25% is given for industrial usage uniformly for all area under KDS. The petitioner is availing several benefit due to its positional advantage i.e. petitioner factory is situated within KMDA area and it is Government policy to allow some incentive to the industries who set up industry in backward area for development of backward area. Therefore, the contention of the petitioner is not correct.
+
+(iii).
+
+By an Order dated 14 September 2007 passed by a Division Bench of the Hon'ble High Court at Calcutta, there is a total ban of establishing new industrial units and expansion of existing industrial units within 10 Km from the heritage structure of Victoria Memorial Hall. The above plots fall within such restricted zone. By reasons of the aforesaid, the proposal of KOPT insofar as it seeks to consider valuation of the adjacent freehold land for non-industrial purpose is wholly without basis and is absurd.
+
+There is ban on establishing new industrial units and not shutdown in respect of existing industrial units. As the land price depends on the usage, the land price having industrial usage, remains on much lower side in comparison to the land having residential or commercial or mixed usage, a discount @ 25% was allowed for industrial usage uniformly for all areas under KDS. Therefore, the contention of the petitioner is not correct.
+
+(2).
+
+Percentage considered for updation and discounts are arbitrary.
+
+Arbitrary percentages for updations and discounts have been taken without specifying the basis thereof and without there being any specific provision in this regard in the Land Policy Guidelines. Such unilateral updations/ discounts do not justify bypassing the specific norms laid down in the Land Policy Guidelines.
+
+Discount factor for free hold to lease hold @ 15% was considered and approved by TAMP while framing the SOR of 2011 also. The Valuer had considered three approaches namely:
+
+(i). Factors derived on international research report. (Factor varies between 8-17%).
+
+(ii). Terminal capitalization rate (Yield) of series of annual rent cash flow over the period lease term define the reversion multiplier (Factor is
+
+17.41%).
+
+(iii). The difference of NPA of series of fixed annual payment (say rent of INR 1000) with an annual escalation of 2% and considered discount rate of 8% (Appro. G Sec Rate). (Factor derived is 17.71%).
+
+Therefore, the contention of the petitioner is not correct.
+
+(3).
+
+Clubbing of Zone-16 and 17 is not correct The Land under KDS under Zone 16 and Zone 17 has been considered by KOPT as High Zone under Cluster 1 depending on geographical location and other parameters. Clubbing of the two zones has reflected in similar rates. The two Zones are separate and distinct.
+
+The land parcel of KDS have been divided in several clusters depending on their geographical location and other relevant parameters like access and connectivity. Such clusters have been sub-divided into 1 to 4 value areas depending on infrastructure availability which would affect the value of the land. The Road width at Zone 16 varies from 100 ft to 120 ft and in zone 17 from 100 ft to 110 ft. Accordingly, there is hardly any difference in Road width to influence the Floor Area Ratio (FAR) for their existing purposes. It is submitted that as per Kolkata Municipal Regulation the permissible FAR for roads of width 60ft and 120 ft. Therefore, the contention of the petitioner is not correct.
+
+(4).
+
+Capping of 75% hike in SOR with respect to 1st Belt rates is absurd Capping is absurd. When the yield from the land is only 6% and annual escalation considered for valuation was at 2%. However, for the 2nd Belt, the rate of escalation was kept uniform @ 80% of that of 1st Belt. The 2nd Belt rate has actually escalated to 158%. Historically speaking there was never a hike @ 158% available. This postulates that there exists a fallacy in the method of valuation and its corresponding calculation.
+
+To remove certain in-built anomalies in the existing rent schedule of KOPT in respect of certain zones, it was recommended that the hike in rate may be capped at 100% of existing rates.
+
+However, Board of Trustees had recommended capping at 75%. It may also be mentioned that SOR of 2011 was based on the transaction data of three years of the valuation report submitted in 2009 by KOPT (i.e 2006-2009). The data revealed by DBPL shows that the valuation index is 91% to 111% higher in March 2015 over the value as was in 2007 for the three different area. Whereas KOPT Board has limited the enhancement to 75% of the existing SOR which is lesser than the data provided by DBPL.
+
+Therefore, the contention of the petitioner is not correct.
+
+(5).
+
+Objection to valuation Report of Colliers International
+
+(i).
+
+The Valuation Report of Colliers International fails to take into account the provisions of the Land Policy.
+
+(ii).
+
+The assumptions made for the valuation exercise are wholly unsustainable and distorts the valuation.
+
+In this connection, para 1.5 of the Colliers International Report is relevant and the same is reproduced herein below:
+
+"1.5.
+
+ASSUMPTIONS AND LIMITING CONDITIONS This report is subject to our Standard Caveats and Assumptions as set out in the end of this report as well as those mentioned below: i.
+
+We have not reviewed property documents and neither have we seen the existing lease/license documents between KoPT and the existing tenants.
+
+Colliers International is not responsible for the legal validity of the deeds as our scope does not cover the legal enquiries. ii.
+
+We have not physically measured nor verified the area of the subject property. The building area used for this valuation assignment has been directly adopted from the information provided to us. iii.
+
+This valuation is being conducted based on the presumption that the owner holds a clear, undisputed title of the subject property. In order words, the subject land has been considered to be free of encumbrances and other tax liabilities. iv.
+
+Transaction cost like stamp duty, registration charges, brokerage etc. pertaining to sale/purchase of the property have not been considered while arriving at the market value. v.
+
+Real estate market in India is unorganized and there is no official market database/source for their prevailing market rates. The information pertaining to the sales/listing data has been obtained from the sources deemed to be reliable.
+
+However no written confirmation or verification was made available and hence our analysis is limited to that extent." The valuers have considered all relevant factors as specified in LPG. Same was also raised by the other stakeholder during joint hearings in the year 2016 and KOPT has replied suitably at that point of time. TAMP approved the SOR and notified on the basis of valuation reports along with assumption submitted by the valuers.
+
+Therefore, the contention of the petitioner is not correct.
+
+[With reference to a similar point made by one of the user/ user associations in the proceedings which culminated in the tariff Order of March 2017, the KOPT has drawn reference to para 4.3 of the Valuation Report, which is reproduced below:
+
+"Our valuation is on the basis of Market Value which we would define as intended to mean "the estimated amount for which a property should exchange on the date of valuation between a willing buyer and a willing seller in an arm'slength transaction after proper marketing wherein the parties had each acted knowledgeably, prudently and without compulsion". The appraisal assignment was not based on a requested minimum valuation, a specific valuation, or the approval of a loan. i.
+
+The Land parcels of KDS have been divided in several Clusters depending on their geographical location and other relevant parameters. Such Clusters have been sub-divided into 1 to 4 value areas depending on the infrastructure available which would affect the value of the land. ii.
+
+State Government Ready Reckoner is not available in West Bengal. iii.
+
+The transactions of neighbouring land parcels referred to in the Valuation Report, were mostly for free-hold, developed land for nonindustrial purpose. iv.
+
+The rates of transactions so obtained have been enhanced by 2% p.a. to arrive at the current value, wherever required. v.
+
+As the individual value areas have several transactions of different magnitudes, average rate of actual relevant transactions within last three years in the vicinity of such areas, obtained from the Sub-registry offices and also from our own database have been used to derive the market rate to even out the inconsistencies in individual transactions. vi.
+
+Land parcels of KDS are mostly allotted on lease for extension/continuation of existing industry and also for storage and warehousingrelated purposes and other allied activities. vii.
+
+The land parcel of KDS is subject to various restrictive covenants (like prohibition on sub-leasing, requirement of obtaining prior sanction of KoPT for construction, transfer of lease, mortgage, etc.), as mentioned in Land Policy Guidelines. viii.
+
+The actual site conditions in Port areas are not comparable with the adjacent areas or other parts of the city. The roads and drainage in Dock and Howrah areas are not maintained by civic authorities though public thoroughfares run through such areas. There is hardly any street illumination in Dock area which has affected business of several plots particularly in Empty Container yards.
+
+Restrictive vehicular movements, shortage of parking facilities, encroachment and restrictions on new industry have affected revenue potentials of such plots adversely. There has been recurrence of accidents, incidents of water-logging in Port areas. The debate between Port authorities and civic authorities regarding the responsibility of maintaining the infrastructure in port areas is still continuing.
+
+While arriving at a base market rate for a specific value area, following factors have been applied to remove the inconsistencies between value areas and comparables:
+
+(a). Listing Discount: This factor refers to the discounting for negotiation/ bargaining between the buyer and seller, on the listed price from our data base. In this case, the actual transaction cost is not known.
+
+(b). Time Adjustment: This factor has been applied on the transaction value obtained from SRO, where actual transaction took place more than a year ago, in order to update the same on the date of valuation. It basically takes care of the time lag between the date of actual transaction and the date of valuation, if actual transaction took place more than a year ago from the date of valuation. The adjustment factor considered is 2% per annum based on the provision of existing SOR.
+
+(c). Land Use: It refers the permissible use of the site as per LUP of KoPT which is based on LUDCP of KMDA except certain minor modifications. In the port area all permissible usages as per LUDCP except residential purpose is generally allowed. The land price substantially depends on the usage. The land price having industrial usage remains on much lower side in comparison to the land having residential or mixed usage. The subject site has mostly nonresidential use including existing industrial use (wherein the occupier has to comply with specific industrial usage permissible). The commercial viability remains specific and limited to defined purpose only. Whereas for mixed use and residential purpose, land has potential to fetch higher value. The factor varies between 11% to 55%. However, the most occurrences are near to 25%. Hence we have considered the discount to be uniform for all areas under KDS at 25%.
+
+(d). Infrastructure Adjustment: The immediate surroundings of KDS area primarily consist of developed residential zones with roadside commercial and mixed use. While comparing these with subject land parcels (which have mostly industrial usage), appropriate discount factors (varying from 5% to 25% except in one case where it has been considered as premium of 10%) have been considered. As already pointed out, there has been lack of adequate infrastructure like Road conditions, street illumination and parking facilities in an around port area and other location under KDS. Within each cluster depending on the approach/access width and distance from strategic points as well as infrastructure facilities which affects the value of non-residential use, certain discounts have been given. We have identified individual parameters affecting valuation and assigned appropriate weightage factor based on our judgment. Vide the same approach we have assessed other zones within Dock area and derived total discount factor under infrastructure and location aspects. Accordingly, the net discount factors varies from 10% (premium) to 25% (discount) depending upon the exact condition for a particular zone.
+
+(e). Ownership: This factor refers the type of ownership attached with the land. The subject sites within KDS generally have leasehold right for 30 years. Leasehold land parcels are priced lower than the freehold ones. Transaction of leasehold property is very rare. In and around Kolkata, the factor varies between 10 - 20% depending on location. We have considered the discount factor as 15%."]
+
+(iii).
+
+Mostly the properties of KOPT are let out to occupiers and there is no transfer of interest in the said land. The Valuer in its report has adopted Direct Sales Comparison Approach i.e. finding the value of the land and then taking yield @ 6%. This approach is erroneous and incorrect to determine the applicable market rate.
+
+The subject sited within KDS generally have leasehold right for 30 years. Leasehold land parcels are priced lower that the freehold ones.
+
+Transaction of leasehold property is very rare. In and around Kolkata, the factor varies between 10-20% depending on location. Valuers have considered the discount factor as 15%. The amount of discounts considered, are based on certain comparative studies made by the valuer and also mathematical analysis. It further requires to mention that the amount of discount considered are same as done in case of the earlier rate revision proposal prepared based on which SOR of 2011 was notified by TAMP. It is further stated that the SOR of 2011 was reasonable and no adverse order against the SOR of 2011 has been passed by any courts of law. Therefore, the contention of the petitioner is not correct.
+
+(iv).
+
+The Report admits that the road conditions are bad, there is waterlogging, the major roads are encroached upon, there is congestion, rainy season water accumulation, no street lights are there, no culverts, no sewerage system, etc. Discounts attributed to each such conditions are whimsical & arbitrary and without any basis. There are traffic restrictions of heavy goods vehicles. Such vehicles are allowed only between 12 noon to 4 pm during the day i.e. only 4 hours out of 12 working hours
+
+[i.e. 33%]. This factor has not been taken into account by the Valuer.
+
+In this respect it may be mentioned that for an adjoining Land (same zone 17) the other reputed tenant Diamond Beverage (P) ltd (DBPL) had agreed to pay uniformly for the second belt and first belt which is ` 4133 per 100 sq.m.per month in May 2014. In such event the agreed rate for second belt in zone 17 by the aforesaid party duly updated @ 2% p.a. becomes ₹ 4300.00 per 100 sq.m.per month before implementation of SOR
+
+2016.
+
+Whereas, in terms of recommendation of valuers, TAMP has approved rate of second belt of that particulate Zone considering all assumption of valuers of ₹
+
+4565.00 per 100 sq.m. per month, which was just
+
+6.16% higher than the agreed rate of DBPL .
+
+From the agreed rate of DBPL it is clear that the rate recommended by the valuer in the year 2016 for that particular zone was reasonable and justified. Therefore, the contention of the petitioner is not correct.
+
+(v).
+
+The Valuer has given discount of 15 % for leasehold property based on some data taken from ―my leasehold UK". Reliance on data from United Kingdom is wholly misplaced and incorrect. The tenancy laws in UK and tenancy laws in India are completely different. This issue of discount on account of leasehold properties is a common phenomenon in valuation done by Income Tax Authorities in India. The Income Tax Appellate Tribunal has consistently allowed 50% or more discounts for valuation of lease hold properties visa-vis freehold properties. The decisions by ITAT are precedent and the Valuer's report administering 15% based on UK figures should be ignored.
+
+At the cost of reiteration it is submitted that approving the SOR of 2011, TAMP considered discount factor of 15% for leasehold land when compared to freehold land. In the above mentioned valuation report, the valuer has considered 3 different approaches to arrive at the proposed discount factor for leasehold in relation to freehold properties. The contention of party that it is based only some data taken from ―my leasehold‖, UK is not correct. It is further mentioned that the guidelines for valuation of immovable properties, 2009 issued by the Income Tax authorities are not statutory in nature and only is intended to be used for the value of immoveable properties as required by the tax statues. Therefore, the contention of the petitioner is not correct.
+
+Based on the above, it is clear that the intention of the petitioners is to reduce the SOR rate which were approved and notified by TAMP.
+
+The petitioner wants to prove that rates approved and notified by TAMP are higher as compared to adjoining land and structure rates.
+
+In this respect, it is mentioned that in terms of OM no. 12036/1/2016-Pol.III dated 11.04.2017 issued by Directorate of Estates, Ministry of Urban Development, a single rate of license fee to be recovered from Ministries/ Department and other eligible office which have been provided office space under General Pool Office Accommodation (GPOA) have been considered by the Directorate and it was decided to recover license fee from all eligible offices, which are operating from GPOA allotted by the Directorate of Estate, in all cities of the country @ ₹ 312/- per sq.m. whereas, TAMP approved highest rate for Strand Bank Road (Shop) of ₹ 308.68 per sq.m. Therefore, above mentioned contention of the petitioner is not correct at all and further reduction of rate does not arise at all.
+
+Objection of TILL excluding the objection Reply of KOPT dated 18 October 2019 II.
+
+TILL letter dated 19 August 2019 Sr.
+
+No. raised in its letter dated 25 January 2019 This is not the first time that TAMP has been approached by KOPT for revision of SOR. In none of the previous occasions, the TILL had neither approached and/or had come forward before TAMP with any comments regarding revision of SOR nor had KOPT ever informed TAMP to include the name of the TILL in the list of Port users.
+
+(1).
+
+KOPT did not give complete set of documents Despite the Order of the Hon'ble High Court at Calcutta and further direction from TAMP, KOPT, till date has not given complete set of documents.
+
+This additional Written Objection is filed based on the documents furnished by KOPT. Most of the documents, including the Valuer's Report, are incomplete.
+
+No specific comments furnished by KOPT.
+
+Denied and disputed save and except what are matters of records. KOPT through its Advocate duly served all documents including the report of LAC to TILL vide its letter dated 25.04.2019 in response to the letter dated 18.03.2019 and contended that in terms of order of the Court dated
+
+11.01.2019, all relevant papers regarding the proposal including the report of LAC was duly forwarded to TILL and the same was received by them, under due acknowledgment on 22.01.2019.
+
+It is pertinent to mention here that the ―minutes of the LAC‖ may please be read as the ―report of the LAC‖.
+
+The valuation exercise had been done strictly in conformity with the stipulation of Land Policy Guidelines, 2014 (LPG) vis-à-vis Clause 13(a) of the amended LPG. Moreover, the valuers have considered all relevant factors as specified in LPG.
+
+Same was also raised by the other stakeholder during joint hearing in the year 2016 and KOPT replied suitably at that point of time and notified on the basis of valuation reports submitted by the valuers.
+
+(2).
+
+Minutes of Meeting of LAC
+
+(i).
+
+The Minutes of the Meeting of the Land Allotment Committee (LAC) held on 22 July 2016, forms part of the documents made over to TILL. It appears that in the meeting of the LAC, it was, inter alia, confirmed by the EM and OSD that land zone as well as classification of such zones, as proposed by the Consultant (Colliers), appears to be ―based on actual site condition and relevant parameters.‖ It was further recorded that comparable outside properties were within the approved vicinity of the clusters and were considered as representative samples.
+
+(ii).
+
+The Minutes further proceeds to record the poor infrastructure condition, which, for long, have been a burning issue. It was also considered that road and other infrastructure based conditions were relevant parameters for establishing a fair comparison as per ground reality.
+
+(iii).
+
+LAC is not a mere stamping authority but is required to independently ascertain, based on parameters laid down in the Guidelines, the schedule of rent and thereafter, recommend the same for the consideration by the Board (KOPT).
+
+(iv).
+
+The rate arrived at by the approved Valuer appointed by the Board, is only one of the factors to be considered by the LAC. There are other factors as prescribed in para 13(a) of the Guidelines, which the LAC is required to ascertain and assess before recommending the SOR to be considered by the Board. Apart from the consideration of the Valuer's Report, no independent assessment was made by LAC, based on the other four parameters laid down in the Guidelines. Such consideration was required to be made by LAC and not by the appointed Valuer or by any other entity.
+
+Denied and disputed. The SOR rate has been fixed after due compliance of the principles of natural justices as well as strictly adhering to the provisions of LPG vis a vis the objection raised by the lawful stakeholders and the reply to such legal validity objections. In terms of the Clause 13(a) of the amended LPG, 2014 the Land allotment Committee may normally take into account the highest of the factors mentioned therein [viz (i).
+
+State Government's ready reckoner of land values in the area, if available for similar classification / activities. (ii). Highest rate of actual relevant tractions registered in last three years in the Port's vicinity (the vicinity of the Port is to be decided by the respective Port Trust Boards) with an appropriate annual escalation rate to be approved by the Port Trust Board. (iii). Highest accepted tender-cum-auction rate of Port land for similar transaction, updated on the basis of the annual escalation rate approved by the Port Trust Board.
+
+(iv). Rate arrived at by an approved valuer appointed for the purpose by the Port. (v). Any other relevant factor as may be identified by the Port. Therefore, valuer's report is one of the options out of the five options which are mentioned in amended LPG of 2014. TAMP approved SOR rate cannot be treated as null and void or cannot be reduced due to raising of such purported objection by the TIL Ltd in respect of one option out of five options.
+
+The valuer had considered only average value in view of the wide variation in land values furnished by the registration office and also appropriate adjustment was made for land use aspects before referring those land transaction of neighboring area.
+
+In terms of Clause 13(a) of the amended LPG, LAC, after detailed discussion accepted and recommended the report of the valuation as prepared by Colliers International, to the KOPT Board for consideration. On the proposal of the Board, TAMP has approved the SOR.
+
+KOPT repeats and reiterates what has been categorically stated above.
+
+LAC has strictly complied with the applicable clause of the LPG, 2014 while recommending the draft SOR to the Board.
+
+LAC, after detailed discussions accepted and recommended the report of the valuer and draft SOR suggested by Colliers International, to the KOPT Board and TAMP for consideration.
+
+(3).
+
+Valuation Report submitted by Diamond Beverages Pvt Ltd
+
+(i).
+
+One of the Land Users, Diamond Beverages Pvt Ltd also having an adjoining land in the same Zone, had submitted a report prepared by JLL, an world renowned valuation company.
+
+Denied and disputed. The question of JLL report does not arise at all as KOPT has appointed Colliers International (India) Property Services Pvt Ltd through global tender process. Collier's upon being selected as successful valuer from amongst other empanelled valuer, had been entrusted with
+
+(ii).
+
+There being a report from another expert Valuer, it was a statutory obligation on the part of the LAC and the Board to consider the same, qua the report of the valuers. the job of valuation of KOPT land. This is in conformity with Para no. 13(a) of the said LPG. In this respect, it may be mentioned that for an adjoining land (same Zone 17) the other reputed tenant Diamond Beverages Pvt Ltd has agreed to pay above the SOR rate.
+
+JLL report has no manner of application in the instant case as SOR has been fixed by TAMP on the basis of KOPT's recommendation on the report of Colliers International.
+
+Denied and disputed. JLL report has no manner of application in the instant case as SOR has fixed by TAMP on the basis of KOPT's recommendation on the report of Colliers International.
+
+(iii).
+
+JLL had provided five sale transactions and used three out of them as comparable instances to determine the value of the land.
+
+(iv).
+
+The said report takes into consideration various parameters of price adjustment. Historical SOR for Zone 16 and Zone 17 was also taken into consideration. Market value of the land was also assessed.
+
+(v).
+
+The COGR, based on the data published by the National Housing Bank (R.B.I) adjoining to the KOPT land was also taken into consideration.
+
+(vi).
+
+As per the tabulated chart, the said valuer applied various discount factors and determined the final rate of the land at `. 5,52,066/- per Cottah.
+
+(vii).
+
+The Colliers, the valuer appointed by the Board, has arrived at valuation of `. 10 lakh per cottah & Leasehold Market Value at `.8.25 lakhs per cottah.
+
+(viii).
+
+JLL has also annexed alongwith their Report to Income Tax Appellate Tribunal decision which provides for discount for leasehold land varying from 33% to 67% and proceeded to adopt a figure of 40%.
+
+(ix).
+
+Diamond Beverages Private Limited, based on the Report of JLL and that of Colliers, had prepared a comparison chart and had submitted the same to TAMP. The aforesaid has been recorded in the summary of comments received from port users, which formed part of the impugned order of TAMP dated 29 March 2017.
+
+(x).
+
+The Chart submitted by Diamond Beverage Private Limited in their objection is a reliable and authentic document and requires consideration for assessment of SOR.
+
+(xi).
+
+Moreover, the report of JLL and the comparison finds no consideration in the Order of the Tariff Authority dated 29 March 2017. It is imperative that the Report of JLL and the comparison Chart be taken into consideration at the time of adjudication of the SOR in terms of the Order of the Hon'ble High Court at Calcutta.
+
+(xii).
+
+Colliers Report dated 22 July 2016 is otherwise wholly biased, arbitrary and perverse.
+
+Reply of KOPT III.
+
+TILL letter dated 11 September 2019 Sr. no.
+
+Objection of TILL ltd, excluding the objection raised in its letter dated 25 January 2019 and 19 August 2019.
+
+(1).
+
+Valuation Report of Colliers Ltd
+
+(i).
+
+The Valuer have failed to follow the fundamental principles of valuation which interalia, includes physical inspection of lands, in surroundings and the available infrastructure and abilities pertaining to such land.
+
+Denied and disputed. It is not a fact, valuation has been done in conformity with the methodology prescribed in the LPG, 2014. The other tenants in the Zone 17 have accepted the SOR and is/ are paying at the SOR rate or above SOR rates. For Example Diamond Beverages Ltd is paying to KOPT above the SOR rate situated within the same Zone.
+
+Moreover, the valuers have considered all relevant factors as specified in LPG. Same was also raised by the other stakeholders during joint hearings in the year 2016 and KOPT reply suitably at that point of time and TAMP approved SOR and notified on the basis of valuation reports submitted by the valuers.
+
+KOPT has provided information regarding lease/ licence / area / measurement of the property to the valuer for the purpose of carrying out valuation. In this respect, it may be mentioned that the plot sizes of KDS land parcels are vary widely and vicinity area of KDS is primarily residential mixed use zone and mainly dotted with residential development along with institutional, public, semi-public, commercial development and in a general Schedule of Rent individual plot wise valuation is not possible. As per the recommendation of the valuer, average rates of transaction in the ports vicinity were considered to even out the wide variations. The rationale for preparation of such Valuation Repot has been clearly stated in Clause 4.3 of the said Valuation Repot.
+
+(ii).
+
+Colliers report is also otherwise perverse for the following reasons:
+
+(a).
+
+Colliers, in their report state that the Market value has been assessed in accordance with the RICS Valuation Standards (7th Edition) published by the Royal Institution of Chartered Surveyors and the valuation has been obtained using the ‗Direct Sales Comparison Approach'.
+
+The Direct Sales Comparison Approach can be undertaken to determine market value of a particular plot of land only when there is reliable evidence with regard to sale of ‗similar' plots of land in the neighborhood. In the event such an approach is undertaken by the expert, the expert is required to support his assessment with evidence that the sale relied upon is of a plot of land ‗similar' to the land whose value is being assessed. No such evidence or particulars have been furnished by Colliers in its valuation report while arriving at the estimated market value of the land.
+
+Denied and disputed.
+
+While preparation of the valuation report by Colliers International transaction date from Sub Registry Office have been collected through official correspondence and the same has been indicated in valuation report. The valuation exercise had been done strictly in conformity with the stipulation of LPG vis-à-vis clause 13(a) of the amended LPG,
+
+2014. In terms of the said clause of the amended LPG, 2014 the may normally take into account the highest of the factors mentioned therein [viz (i). State Government's ready reckoner of land values in the area, if available for similar classification / activities.
+
+(ii). Highest rate of actual relevant tractions registered in last three years in the Port's vicinity (the vicinity of the Port is to be decided by the respective Port Trust Boards) with an appropriate annual escalation rate to be approved by the Port Trust Board. (iii). Highest accepted tender-cum-auction rate of Port land for similar transaction, updated on the basis of the annual escalation rate approved by the Port Trust Board. (iv). Rate arrived at by an approved valuer appointed for the purpose by the Port. (v). Any other relevant factor as may be identified by the Port. the subject sites within KDS generally have leasehold right for 30 years. Leasehold land parcels are priced lower that the freehold ones. Transaction of leasehold property is very rare. In and around Kolkata, the factor varies between 10-20% depending on location. Valuers have considered the discount factor as 15%. The amount of discounts considered are based on certain comparative studies made by the valuer and also mathematical analysis.
+
+The land parcels of KDS have been divided in several clusters depending on their geographical location and other relevant parameters like access and connectivity. Such clusters have been sub divided into 1 to 4 value areas depending on the infrastructure available which would affect the value of the land. It is mentioned that the road width at
+
+(b).
+
+The Direct Sales Approach has not been correctly applied. The Direct Sales Approach is in essence, based on sale of ‗similar' plots of land in the neighborhood. Premises No. 61/1, Taratalla Road (measuring 36000 sq. ft. approx.), is a premises adjacent to KOPT land and one Veeline Media is the lessee of the said land. The market value of the above described plot of land was done by the Department of Registration, Government of West Bengal on 21/11/2016, and the valuation arrived at was ` 1,85,22,008/-. Therefore, annual valuation at 6% comes to `11,11,320/- or ` 2.57 per sq. ft. per month or ` 2767/- per 100 sq. mtr. The SOR for Taratalla as on 2011 was ` 3344/- per 100 sq. mtr. After enhancing at the rate of 2% per annum, the SOR in 2016 was `. 3692/- per 100 sq. mtr. And based on the colliers valuation report the SOR is proposed to be enhanced to `. 5706/- per 100 sq. mtr. It can be understood beyond any doubt that the valuation report is wholly erroneous and based on baseless assumptions.
+
+Inferences have been made without considering the prevalent market conditions and ground realities.
+
+Zone 17 varies from 100ft to 110 ft and the Floor Area Ratio (FAR) for roads as per KMC Regulation is 120ft. the Board of Trustees, had recommended capping at 75%. It may be mentioned that the SOR of 2011 was based on the transaction data of three years of valuation report submitted in 2009 by KOPT (i.e. 2006-2009). The data revealed by Diamond Beverages show that the valuation index is 91% to 111% higher in March 2015 over the value as was in 2007 for the three different areas. Whereas KOPT Board has limited the enhancement to 75% of the existing SOR which is lesser than the data provided by Diamond Beverage Pvt Ltd.
+
+In this context, attention is invited to Clause 4.3:
+
+Basis of valuation of the said Valuation Report prepared by Colliers International, wherein the basis/justification has been explained. The valuer had considered three different approaches to arrive at the proposed discount factor for the leasehold in relation to the freehold properties.
+
+The valuers have considered all relevant factors as specified in LPG. Same was also raised by the other stakeholders during joint hearing in the year 2016 and KOPT reply suitably at that point of time and TAMP approved SOR anf notified on the basis of valuation reports submitted by the valuers.
+
+In this respect, it may be mentioned that for an adjoining land (same zone 17) the other reputed tenant Diamond Beverages Pvt Ltd has agreed to pay as above the SOR rate.
+
+The contention of the party that is based only some data taken from ―my leasehold UK‖ is not correct. It is further mention that the guidelines for valuation of immovable properties, 2009 issued by the Income Tax authorities are not statutory in nature and only is intended to be used for the value of immovable property as required by the tax statutes.
+
+Considering all above observation, as well as replies, it is clear that the intention of the petitioners to reduce the SOR rates which were approved and notified by TAMP are in higher compare to adjoining land and structure rates.
+
+(c).
+
+A very glaring and grossly erroneous interpretation is detected as enumerated herein below:
+
+(i).
+
+TIL Limited on Taratolla Road in Cluster Area 1 – High Zone- Zone 17 – 1st Belt Rate – ` 57.06/- per sq.mtr & 2nd Belt – ` 45.65/per sq.mtr;
+
+(ii).
+
+Hari Mohan Ghosh Road is in Cluster Area 2 – Low Zone – Zone 18 – 1st Belt Rate – `
+
+31.05/- per sq. mtr. & No. 2nd Belt;
+
+(iii).
+
+Ramnagar is in Cluster Area 3- Low Zone- Zone 19A- 1st Belt Rate – ` 29.99/- per sq mtr. & no 2nd Belt.
+
+(iv).
+
+Brooklyn Depot – Cluster Area 2 – Medium Zone – Zone 23B – 1st Belt Rate – `
+
+41.26/- per sq mtr. & no. 2nd Belt.
+
+TIL Limited is situated at the intersection of Hari Mohan Ghosh Road & Taratolla Road and Ramnagar and Brooklyn Depot are all contiguous. The infrastructure of their places are similar, however the SoR of the said lands are huge different.
+
+(d).
+
+A close scrutiny of the registered property documents available in public domain suggests that the SOR of 2011 was much higher than the value of the properties in the locality as on 2016 and accordingly the SOR needed to be reduced and not increased. On the contrary, the valuation report furnished by Colliers suggested completely the opposite and inferred that the SOR must be revised and estimated a hike of 75%. Such inference made by the valuer is contrary to records, perverse and wholly baseless.
+
+(e).
+
+Since 2011 the property value in Kolkata has been stagnant with a marginal escalation to the tune of 2 to 2.5%. However relying on the valuation report furnished by Colliers, KOPT has prayed for an increase in rent by upto 75%.
+
+(f).
+
+From a close reading of para 2.1.4 and para 4.3 of the Colliers report it could be ascertained that the property value of prime localities like Alipore, Chetla, etc. has been taken and discounted at a rate between 5% to 25% so as to arrive at the valuation of the KOPT land. Such an approach adopted by Colliers is wholly erroneous and faulty as the rates of premium residential localities cannot be compared with Port Trust lands which are essentially used for industrial and warehousing purposes.
+
+(g).
+
+Close reading of Clause 1.4 and 1.5 of the valuation report submitted by Colliers clearly suggests that the conclusions so arrived at by Colliers is completely based on unsubstantiated assumptions and without any documentary evidence and that the valuer has based his opinion on discussions with the KOPT, public information and informal discussions with government authorities. The report made by the valuer has been made out of his office by relying on all the statistical data made available to him. The valuer has made several inferences in its report and have estimated a market value of the land but have failed to disclose any documents on the basis of which such inferences have been made.
+
+(2).
+
+TAMP is the appropriate Adjudicating Authority Under the Major Port Trust Act, 1963 TAMP is the appropriate adjudicating authority to ascertain the SOR. The adjudicating process not only involves consideration of the relevant evidence produced by the respective parties but also an appropriate appreciation of the same and its applicability on the relevant issues under consideration. TAMP is clothed with the jurisdiction to not only reject but also to come to his own conclusion based on materials on record. From the relevant provisions of the Act of 1963 and in particular section 49 it would be evident that TAMP is the appropriate authority for assessing the SOR. TAMP is neither required to be persuaded nor influenced in any manner with either the report of the valuer or the recommendation made by the LAC while fixing the SOR. TAMP is the adjudicating authority which has the jurisdiction to decide and fix SoR based on materials produced by the respective parties.
+
+It may be stated that from time to time TAMP is involved in fixing up SOR in respect of land and building of KOPT both at Kolkata and Haldia. The Government of India, Ministry of Shipping, has issued under Section 111 of the Major Port Trusts Act 1963, Tariff Policy 2015, governing all Major Port Trusts. Thereafter, working Guidelines have been issued by TAMP to operationalize the Tariff Policy, 2015. The Clause no. 1.3. (iv), Clause no. 5 (5.2) of the said working guidelines would demonstrate that while considering fixation of Tariff Proposals, TAMP would be governed by (i) Land Policy Guideline issued by the concerned Ministry of the Government of India, under section 111 of the Act of 1963, from time to time and (ii) to observe principle of natural justice, need to maintain a list of Port users for necessary consultation on Tariff Proposal forwarded by the said port. The TAMP use the said clause also need to review and update the said list of Port Users from time to time, in consultation with the concerned Port.
+
+In so far as KOPT is concerned, this is not for the first time TAMP had been approached by KOPT for revision of SOR. In none of the previous occasions, the TILL Ltd approached and / or came forwarded before TAMP with any comments regarding revision of SOR nor KOPT ever informed TAMP to include the name of the TILL to be included in the list of port users.
+
+Under the existing LPG, KOPT is empowered to lease/licensing out land, based on the approved Land use plan/zoning of the port and within the framework of Major Port Trusts Act, 1963 and in compliance and enjoyment of the said policy, KOPT had leased out several plots of land to several such lessees or licensees and for all practical purpose, it may not be feasible to consult each and every of such innumerable allottees of Port land individually as, the allottee may change from time to time also.
+
+Be it also noted at this stated that the consultation process for SOR in question started in November, 2016 and order in question was passed on March 29,
+
+2017. During this period, the port users were all duly notified, who in turn duly participated in the said process by forwarding their objections, if any, and also participated in the joint hearing held at Kolkata on 24 November 2016 at KOPT premises. At the joint hearing, the KOPT made a brief power point presentation of its proposal, the KOPT and the users/ user organization made their respective submissions at the said joint hearing, which were duly considered, following the LPG and only thereafter the SOR dated 29 March 2017 was published.
+
+(3).
+
+Report submitted by Diamond Beverages Pvt Ltd
+
+(i).
+
+An unusual submission was made in course of No specific comments have been furnished by the Port hearing on August 28 2019 by KoPT to the extent that the report of JLL does not require consideration in as much as the land user who have furnished the report has accepted the SOR fixed by TAMP and is paying the rate fix based on the TAMP's order dated 29 March 2017.
+
+Such submission is not only fundamentally tainted with the blemish of misconception of law but is otherwise absurd.
+
+(ii).
+
+Report of JLL forms part of the record before the LAC after detailed discussions accepted and recommended the report of the valuer and draft SOR suggested by Colliers International, the KOPT Baord and TAMP for consideration, as per LPG, 2014.
+
+Tariff Authority, it is imperative that the said is considered and alongwith its content while fixing the SOR of the concerned plot of land. It would be a travesty of justice and gross violation of principles of natural justice and a perversity on the face of it if an expert report on record remains unconsidered by an adjudicating authority.
+
+(iii).
+
+It is under these circumstances, it is respectfully JLL repot has no manner of application in the instant case as SOR has fixed by TAMP on the basis of KOPT's recommendation on the report of Colliers International. stated that TAMP should exercise its authority, take into consideration not only the report of Colliers and the recommendation of LAC but also the report of JLL, a globally renowned valuation company and thereafter independently assess the SOR with respect to the zone within which the land of TIL is situated.
+
+In the facts and circumstances as stated above, the written objection filed by TILL has no basis as to the alleged contentions with regard to the valuation report as well as relevant provisions of the Land Policy Guidelines for fixing SOR by TAMP.
+
+Moreover, the TAMP approved SOR rate cannot be treated as null and void or cannot be reduced due to raising of such purported objection by the TILL as DBPL along with other stakeholders have accepted the TAMP's schedule of rent without raising any objection as indicated hereinabove.
+
+12.1.
+
+The KOPT has forwarded a copy of its letter dated 18 October 2019 (furnishing its point wise comments on the submissions made by TILL) to TILL.
+
+12.2.
+
+In this connection, the learned Advocate, on behalf of TILL, vide his letter dated 4 November 2019 has, for the reasons as brought out by him in his letter, requested this Authority to not take into consideration the comments submitted by KOPT vide its letter dated 18 October 2019. In this regard, the KOPT vide its letter dated 27 November 2019 has responded. The submissions made by TIL Ltd and the comments of KOPT thereon are tabulated below:
+
+Comments of TIL Ltd vide its letter dated Sr.
+
+No. 31 October, 2019 Reply of KOPT vide its letter dated 27 November, 2019
+
+1.
+
+Pursuant to the direction passed by the Hon'ble High Court at Calcutta in its order dated 9 July 2019, hearing was concluded on 28 August 2019 at the KOPT Guest House, Chowringhee Road, Kolkata. After the hearing was concluded on 28 August 2019, TAMP directed TILL to furnish its additional submissions by 7 September 2019. On the request made by TIL Ltd, TAMP by an email dated 9 September 2019 extended the time for furnishing the additional submission till 11 September 2019. TIL Ltd pursuant to the direction It is admitted that the TIL Ltd initially filed its objection on 29 January 2019 and 19 August
+
+2019. Thereafter, hearing was concluded before TAMP on 28.08.2019 with direction upon the TIL to file its additional submission within 10 days and KOPT was directed to file its point wise comments to the objection of TIL within 10 days thereafter. The TIL could not file its objection within 10 days in terms of the direction made on
+
+28.08.2019 and accordingly TIL made an application before the TAMP on 06.09.2019 with of the TAMP and within the extended time duly submitted its additional submissions on the subject, with copy to KOPT. a prayer for extension of time up to 11.09.2019.
+
+Upon considering the said application dated
+
+06.09.2019 such time was extended till
+
+11.09.2019 by TAMP. It is pertinent to mention that while extending the time to file additional submission within 11.09.2019 by TAMP, no time was mentioned to file point wise comments by KOPT to the said additional submission.
+
+However, by letter dated 12.09.2019 the TAMP on receipt of additional submission from TIL on
+
+11.09.2019, requested KOPT to file its point wise comments latest by 20.09.2019. Therefore, it an admitted fact that TIL has taken near about 7 months' time to file their respective objection including additional submission from 29.1.2019 till 11.09.20198.
+
+2.
+
+Almost two months have passed since the conclusion of hearing and the attempt by KOPT to submit a point wise comment against the additional submission of TIL Ltd. under cover of its letter dated 18 October 2019 is nothing but an attempt to render the entire process of adjudication nugatory and otiose.
+
+It is denied that the point wise comments submitted by KOPT on 18.10.2019, if considered will be in gross violation of the Order dated
+
+09.07.2019 as alleged or at all.
+
+KOPT received the additional submission of the TIL dated 11.09.2019 on 19.09.2019 and subsequently the same was received by Estate Division of KOPT on 20.09.2019. On receipt of the said additional submission, KOPT prepared the said point wise comments which was to be approved by the Estate Division and the competent authorities of KOPT. Therefore, it took some time to take approval from the competent authority to file such comments before the TAMP due to last Durga Puja vacation.
+
+However, the competent authority of KOPT approved the comments of KOPT on or about
+
+18.10.2019. Immediately thereafter KOPT filed its comments before the TAMP on 18.10.2019. It is denied that the point wise comments submitted on 18.10.2019 is nothing but an attempt to render the entire process of adjudication nugatory or otiose as alleged or at all. The point wise comment of KOPT has not been filed after the order was passed by the TAMP. The point wise comments has been submitted before the order may be passed by the TAMP. Furthermore, it may be noted that TIL has taken 7 months' time to file its objection and additional submission as indicated hereinabove.
+
+3.
+
+By the Order dated 9 July 2019 passed by the Hon'ble High Court at Calcutta, time to comply with the directions contained in the Order dated 11 January 2019 was extended for a period of twelve weeks which expired on 1 October 2019. As such, the purported pointwise comments submitted by KOPT on 18 October 2019, if considered, will be in gross violation of the order dated 9 July 2019.
+
+4.
+
+KOPT has no right in law, at this stage after almost two months of conclusion of hearing, to submit a point wise comments before the Adjudication Authority. It is not only a mala fide act on the part of KOPT but an attempt to interfere with the process of administration of justice.
+
+It is denied that KOPT has no right in law after almost two months of conclusion of hearing to submit point wise comments before the adjudicating authority as alleged or at all. It is also denied that it is not only mala fide fact on the part of KOPT or that an attempt to interfere with the process administration of justice as alleged or at all. KOPT has not or has any intention to interfere with the process of administration of justice in any manner what so ever. Moreover, for the ends of justice the TAMP should consider the point wise comments to the submission of the TIL even if it is filed out of time, otherwise KOPT being the statutory body will be highly prejudiced.
+
+5.
+
+It is requested not to consider the purported point wise comments submitted by KOPT vide its letter dated 18 October 2019 and proceed to publish the award based on the hearing and the submission of the parties that ended on 11.09.2019, failing which TIL Ltd. will be constrained to take such steps to protect its interest.
+
+The TIL has no right to dictate and / or request to the adjudicating authority not to consider the point wise comments submitted by the KOPT on
+
+18.10.2019 to TAMP and to proceed to publish the award base on the hearing and submission of the parties ended on 11.09.2019. In this context, it is to be stated that no submission was made by all the parties on 11.09.2019. Only the TIL has filed its additional submission on 11.09.2019 and time was extended by the TAMP in its letter dated
+
+12.09.20.19 till 20.9.2019. Therefore, contention of the TIL made in this letter are not correct.
+
+In the facts and circumstance stated above, it is requested to accept the point wise comments submitted by KOPT vide letter dated 18.10.2019 by condoning the delay caused due to the facts and circumstances mentioned in the preceding paragraphs.
+
+13.
+
+With regard to the submissions as made by TILL in the preceding para and the comments of KOPT thereon, it is to state that it is true that there has been a delay on the part of the KOPT to furnish its comments. However, the exercise before this Authority now is to pass a reasoned speaking Order as directed by Hon'ble Court. In the interest of a good speaking Order, this Authority decides to take on record the submissions made by KOPT and consider the point wise comments submitted by KOPT.
+
+14.
+
+The repeated submissions made by the TILL during the proceedings is with regard to the KOPT not furnishing the Land Allotment Committee (LAC) Report to TILL. The KOPT has clarified that the ―Minutes of the LAC‖ as referred by the PPT may be read as the ―Report of the LAC‖. Based on the clarification of the KOPT, the TILL has made its submissions.
+
+15.
+
+A Summary of the main points made by the TILL during the proceedings of this case, vide its letters dated 29 January 2019, 19 August 2019 and 11 September 2019, and our analysis thereon is furnished below:
+
+(i).
+
+(a).
+
+Objections of TILL:
+
+The transactions of neighboring land parcels referred to in the Valuation Report are for freehold and developed land for non-industrial purpose and the same has no bearing or resemblance with the Port land, which is subject to various restrictive covenants (like prohibition on sub-leasing, requirement of obtaining prior sanction of KOPT tor construction, transfer of lease, mortgage, etc.), as mentioned in Land Policy Guidelines. The very basis of land valuation is in departure with the Land Policy Guidelines, and in particular paragraph 13 thereof.
+
+(b).
+
+Our Analysis:
+
+One of the methods stipulated in Clause 13(a) of the Land Policy Guidelines to determine the market value of the port lands is to appoint a Valuer, who would determine the market value of the lands. The Land Policy Guidelines do not prescribe any methodology to be adopted by the Valuer to determine the market value. The Valuer is to make use of his expertise to determine the market value of land, taking into account the ground realities.
+
+The valuer has not adopted the values arising out of the transaction of neighboring land parcels as such. As brought out by this Authority at para 14(iv)(b) of the Order no. TAMP/62/2016-KOPT dated 29 March 2017, the Valuer, while relying upon the rate of transactions of neighboring land parcels had applied various discount factors to remove inconsistencies between comparable value areas and the port lands so as to arrive at the market value of the land, as follows:
+
+(i).
+
+Listing Discount @ 5% - Towards negotiation/ bargaining between prospective buyer and prospective seller on the listed price.
+
+(ii).
+
+Time Adjustment @ 2% - Towards updating the transaction value obtained from Sub-Registrar's Office where actual transaction took place more than a year ago.
+
+(iii).
+
+Land Use @ 25% - Towards discounting the land value having industrial use as compared to the residential/ commercial/ mixed usage.
+
+(iv).
+
+Infrastructure Adjustment @ 10% to 25% - Towards various poor facilities at the port area in respect of road, drainage, street illumination which are not comparable with the adjacent area or other parts of the city, apart from restriction on vehicular movement, shortage of parking facilities, encroachment and restriction on new industry.
+
+(v).
+
+Ownership factor @ 15%- The sites within KDS generally have lease hold right for 30 years, lease hold land parcel are priced lower than the free hold area. In and around Kolkata, the factor varies between 10-20%. The valuer has considered the discount factor as 15%, towards discounting the leasehold land as compared to the freehold land.
+
+This shows that discounting factors, as felt appropriate by the valuer, have been considered by the Valuer to derive the market value of lands at KDS from the transaction of neighboring land parcels. It is noteworthy that the adjusted value of land arrived by the valuer from the neighboring comparable land values, particularly for Zone 16 and 17 is 50% lower than the value of comparable neighboring lands for any of the location in the said two zones. A copy of the relevant extract of the working sheet forming part of Valuation Report of Colliers is attached as Annex. The adoption of these discounting factors, in no way, reflects departure from Clause 13(a) of the Land Policy Guidelines, as contended by the TILL.
+
+(ii).
+
+(a).
+
+Objections of TILL:
+
+(i).
+
+The area under Kolkata Port Trust falls under Kolkata Municipal Corporation, but adjacent lands fall beyond Kolkata Municipal Corporation i.e. Municipality or Panchayat. The lands under Kolkata Municipal Corporation are not eligible for any State incentives under the West Bengal Incentive Schemes for setting up their industry, whereas the lands at next door are entitled to incentives upto 75% of their total capital investments which is substantial. It is thus evident that the entire basis of the KOPT Report is lopsided and faulty.
+
+(ii).
+
+By an Order dated 14 September 2007 passed by a Division Bench of the Hon'ble High Court at Calcutta, there is a total ban of establishing new industrial units and expansion of existing industrial units within 10 Km from the heritage structure of Victoria Memorial Hall. The above plots falls within such restricted zone. By reasons of the aforesaid, the proposal of KOPT insofar as it seeks to consider valuation of the adjacent freehold land for nonindustrial purpose is wholly without basis and is absurd.
+
+(b).
+
+Our Analysis:
+
+The Valuer has considered a discounting factor of 25%, considering that port land which are put to industrial use would have a lower value as compared to the nearby lands which can be put to residential/ commercial use. The quantum of the discounting factor is not a matter of contention.
+
+(iii).
+
+(a).
+
+Objection of TILL:
+
+(i).
+
+Arbitrary percentages for updations and discounts have been taken by Valuer without specifying the basis thereof and without there being any specific provision in this regard in the Land Policy Guidelines. Such unilateral updations/ discounts do not justify bypassing the specific norms laid down in the Land Policy Guidelines.
+
+(ii).
+
+The Land under KDS under Zone 16 and Zone 17 has been considered by KOPT as High Zone under Cluster 1 depending on geographical location and other parameters. Clubbing of the two zones have reflected in similar rates.
+
+The two Zones are separate and distinct.
+
+(iii).
+
+The Valuation Report of Colliers International fails to take into account the provisions of the Land Policy. The assumptions made for the valuation exercise are wholly unsustainable and distorts the valuation. In this connection, para 1.5 of the Colliers International Report is relevant and the same is reproduced herein below:
+
+"1.5.
+
+ASSUMPTIONS AND LIMITING CONDITIONS This report is subject to our Standard Caveats and Assumptions as set out in the end of this report as well as those mentioned below: i.
+
+We have not reviewed property documents and neither have we seen the existing lease/license documents between KoPT and the existing tenants. Colliers International is not responsible for the legal validity of the deeds as our scope does not cover the legal enquiries. ii.
+
+We have not physically measured nor verified the area of the subject property. The building area used for this valuation assignment has been directly adopted from the information provided to us. iii.
+
+This valuation is being conducted based on the presumption that the owner holds a clear, undisputed title of the subject property. In order words, the subject land has been considered to be free of encumbrances and other tax liabilities. iv.
+
+Transaction cost like stamp duty, registration charges, brokerage etc. pertaining to sale/purchase of the property have not been considered while arriving at the market value. v.
+
+Real estate market in India is unorganized and there is no official market database/source for their prevailing market rates. The information pertaining to the sales/listing data has been obtained from the sources deemed to be reliable. However no written confirmation or verification was made available and hence our analysis is limited to that extent."
+
+(iv).
+
+Mostly the properties of KOPT are let out to occupiers and there is no transfer of interest in the said land. The Valuer in its report has adopted Direct Sales Comparison Approach i.e. finding the value of the land and then taking yield @ 6%. This approach is erroneous and incorrect to determine the applicable market rate.
+
+(v).
+
+The Report admits that the road conditions are bad, there is waterlogging, the major roads are encroached upon, there is congestion, rainy season water accumulation, no street lights are there, no culverts, no sewerage system, etc. Discounts attributed to each such conditions are whimsical & arbitrary and without any basis. There are traffic restrictions of heavy goods vehicles.
+
+Such vehicles are allowed only between 12 noon to 4 pm during the day i.e. only 4 hours out of 12 working hours [i.e. 33%]. This factor has not been taken into account by the Valuer.
+
+(vi).
+
+The Valuer has given discount of 15 % for leasehold property based on some data taken from ―my leasehold UK". Reliance on data from United Kingdom is wholly misplaced and incorrect. The tenancy laws in UK and tenancy laws in India are completely different. This issue of discount on account of leasehold properties is a common phenomenon in valuation done by Income Tax Authorities in India. The Income Tax Appellate Tribunal has consistently allowed 50% or more discounts for valuation of lease hold properties vis-avis freehold properties. The decisions by ITAT are precedent and the Valuer's report administering 15% based on UK figures should be ignored.
+
+(b).
+
+Our Analysis:
+
+As already stated earlier, the Land Policy Guidelines do not prescribe any methodology to be adopted by the Valuer to determine the market value. The Valuer is to make use of his expertise and own judgment, taking into account the ground realities. The various percentages of discounts/ updations as considered by the Valuer is part of the methodology adopted by the Valuer to determine the market value of the KOPT lands. Clause 13 of the Land Policy Guidelines requires Port Trusts including KOPT to determine the market value of land. Therefore, the Valuation of the land including zoning of various land parcels is in the domain of the KOPT. The KOPT has also stated that the quantum of discounts as considered by the Valuer are based on certain comparative studies and mathematical analysis made by the valuer. The lease rentals based on the methodology adopted by the Valuer, has been recommended by the Land Allotment Committee headed by the Chairman of KOPT and has been approved by the Board of Trustees of KOPT. Further, the market value of land has been determined by the LAC following the methodology prescribed in the Land Policy Guidelines. Therefore, this Authority is not inclined to interfere in the methodology adopted by the Valuer and the Zoning of lands done by KOPT.
+
+(iv).
+
+(a).
+
+Objection of TILL:
+
+The capping of 75% hike in SOR with respect to 1st Belt rates is absurd, especially when the yield from the land is only 6% and annual escalation considered for valuation was at 2%. However, for the 2nd Belt, the rate of escalation was kept uniform @ 80% of that of 1st Belt. The 2nd Belt rate has actually escalated to 158%.
+
+Historically speaking there was never a hike @ 158% available. This postulates that there exists a fallacy in the method of valuation and its corresponding calculation.
+
+(b).
+
+Our Analysis:
+
+As already brought out at para no.14(iv)(g) and 14(viii) of the Order no.
+
+TAMP/62/2016-KOPT dated 29 March 2017, with regard to the lands of KOPT at Kolkata, the KOPT has been following the principle of belting i.e. higher rate of rent for first belt i.e. 50 metre from the main road and lower rate of rent for second belt i.e. beyond 50 metre from the main road. In the Rent schedule prevailing prior to 2017, the ratio of rates between 1st belt and 2nd belt across all the relevant zones varied between 54% to 81%. In the proposal of KOPT which culminated into the tariff Order of March 2017, the KOPT has decided to charge the areas within 1st 50 mtrs of Road at the 1st belt rate and charge the areas in the 2nd belt at 80% of 1st belt rate uniformally, based on the recommendation of the Valuer. The said rationalization had resulted in increase in the range of 5% - 154% over the then prevailing lease rent for the 2nd belt. Any rationalization carried out for the 1st time, is expected to be beneficial to some and disadvantageous to some. In the case in reference, TILL seems to fall in the latter category. This is inevitable.
+
+(v).
+
+(a).
+
+Objection of TILL:
+
+(i).
+
+The Minutes of the Meeting of the Land Allotment Committee (LAC) held on 22 July 2016, forms part of the documents made over to TILL. It appears that in the meeting of the LAC, it was, inter alia, confirmed by the EM and OSD that land zone as well as classification of such zones, as proposed by the Consultant (Colliers), appears to be ―based on actual site condition and relevant parameters.‖ It was further recorded that comparable outside properties were within the approved vicinity of the clusters and were considered as representative samples.
+
+(ii).
+
+The Minutes further proceeds to record the poor infrastructure condition, which, for long, have been a burning issue. It was also considered that road and other infrastructure based conditions were relevant parameters for establishing a fair comparison as per ground reality.
+
+(iii).
+
+LAC is not a mere stamping authority but is required to independently ascertain, based on parameters laid down in the Guidelines, the schedule of rent and thereafter, recommend the same for the consideration by the Board
+
+(KOPT).
+
+(iv).
+
+The rate arrived at by the approved Valuer appointed by the Board, is only one of the factors to be considered by the LAC. There are other factors as prescribed in para 13(a) of the Guidelines, which the LAC is required to ascertain and assess before recommending the SOR to be considered by the Board. Apart from the consideration of the Valuer's Report, no independent assessment was made by LAC, based on the other four parameters laid down in the Guidelines. Such consideration was required to be made by LAC and not by the appointed Valuer or by any other entity.
+
+(b).
+
+Our Analysis:
+
+The submissions made by TILL as brought out at para (i) and (ii) above are seen to be extracts of the Report of the Land Allotment Committee (LAC) Report. In the said LAC Report, it has been, interalia, recorded that the Estate Manager (EM) and Officer of Special Duty (OSD) (R) i/c, have confirmed that the clustering as well as classification of the land zones as proposed by the Valuer is based on the actual site condition and relevant parameters. It has also been recorded that the EM and OSD (R) i/c have also confirmed that the comparable outside properties are within the approved vicinity of the clusters and are representative samples. It has been further recorded in the LAC Report that the Estate division of the port has confirmed that the approach of the Valuer in quantifying the relevant parameters by assigning different weightages is a rational approach and establishes a fair comparison as per the ground reality.
+
+Thus, from the above, it can be seen that the LAC has not blindly accepted the Valuation Report of the Valuer. The LAC, before accepting the recommendations made by the Valuer with regard to the valuation of the lands, has done its due diligence.
+
+As brought out at paragraph no. 14(iv)(a) of the Order no. TAMP/62/2016-KOPT dated 29 March 2017, Clause 13(a) of the amended Land policy guidelines, 2014 prescribes the methodology for determination of market value of the land based on the five factors as prescribed therein. In terms of the said Clause of the amended Land policy guidelines of 2014, the Land Allotment Committee may normally take into account the highest of the factors mentioned therein, viz. (i). State Government ready reckoner of land values in the area if available for similar classification/ activities, (ii).
+
+Highest rate of actual relevant transactions registered in the last three years in the Port's vicinity with an appropriate annual escalation rate to be approved the Port Trust Board, (iii). Highest accepted tender-cum-auction rate of Port land for similar transactions, updated on the basis of the annual escalation rate approved by the Port Trust Board, (iv). Rate arrived at by an approved valuer appointed for the purpose by the Port and (v). Any other relevant factor as may be identified by the Port. The amended Land Policy guidelines of 2014 also stipulates that in case the LAC is not choosing the highest factor, the reasons for the same have to be recorded.
+
+The State Government Ready Reckoner is reported to be not available in West Bengal.
+
+The Valuer in his Valuation Report has stated that the element of competition involved in auction makes them unsafe guides for determining the market value. Therefore, the Valuer has considered the transaction of neighbouring land parcels as base and after considering the various updating/ discounting factors in respect of the land parcels, as discussed earlier, has determined the market value of the land at KDS. Thus, all the factors as listed in Clause 13(a) of the amended Land policy guidelines, 2014, has been analysed by the Valuer in his Report, which in turn have been accepted by the LAC, after carrying out its due diligence.
+
+(vi).
+
+(a).
+
+Objection of TILL:
+
+(i).
+
+One of the Land Users, Diamond Beverages Pvt Ltd also having an adjoining land in the same Zone, had submitted a report prepared by JLL, a world renowned valuation company. There being a report from another expert Valuer, it was a statutory obligation on the part of the LAC and the Board to consider the same, qua the report of the valuers.
+
+(ii).
+
+JLL had provided five sale transactions and used three out of them as comparable instances to determine the value of the land. The said report takes into consideration various parameters of price adjustment. Historical SOR for Zone 16 and Zone 17 was also taken into consideration. Market value of the land was also assessed. The COGR, based on the data published by the National Housing Bank (R.B.I) adjoining to the KOPT land was also taken into consideration.
+
+(iii).
+
+As per the tabulated chart, the said valuer applied various discount factors and determined the final rate of the land at `5,52,066/- per Cottah. The Colliers, the valuer appointed by the Board, has arrived at valuation of ` 10 lakh per cottah & Leasehold Market Value at ` 8.25 lakhs per cottah.
+
+(iv).
+
+JLL has also annexed alongwith their Report to Income Tax Appellate Tribunal decision which provides for discount for leasehold land varying from 33% to 67% and proceeded to adopt a figure of 40%.
+
+(v).
+
+Diamond Beverages Private Limited, based on the Report of JLL and that of Colliers, had prepared a comparison chart and had submitted the same to TAMP. The aforesaid has been recorded in the summary of comments received from port users, which formed part of the impugned order of TAMP dated 29 March 2017. The Chart submitted by Diamond Beverage Private Limited in their objection is a reliable and authentic document and requires consideration for assessment of SOR.
+
+(vi).
+
+Moreover, the report of JLL and the comparison finds no consideration in the Order of the Tariff Authority dated 29 March 2017. It is imperative that the Report of JLL and the comparison Chart be taken into consideration at the time of adjudication of the SOR in terms of the Order of the Hon'ble High Court at Calcutta.
+
+(vii).
+
+Colliers Report dated 22 July 2016 is otherwise wholly biased, arbitrary and perverse.
+
+(b).
+
+Our Analysis:
+
+Clause 13(a) of the Land Policy Guidelines lists down the 5 factors to be considered by the LAC to determine the market value of the land. One of the factors listed in the said clause is the market value arrived at by an approved valuer appointed for the purpose by the Port. The stress is on the valuer appointed by the port. Thus, appointment of Valuer is in the domain of the Port. As brought out by the KOPT in its submissions, the KOPT has selected Colliers International (India) Property Services Pvt Ltd through global tender process, as a successful Valuer, from amongst other empanelled valuers, to undertake the valuation of the port estates.
+
+As observed from the Valuation Report of Colliers, the valuation has been prepared by experienced team of professionals who reportedly have experience in the valuation of properties of magnitude of KOPT. The Valuers have reported to have carried out all investigation independently and without influence from third parties in any way and after personally inspecting the properties.
+
+As submitted by the KOPT and as seen from the Valuation Report, while preparation of the valuation report by Colliers, transaction rates from Sub Registry Office have been collected through official correspondence. The valuation exercise had been done strictly in conformity with the stipulation of LPG vis-à-vis clause 13(a) of the Land Policy Guidelines. The KOPT has further stated that the amount of discounts considered by the Valuer are based on certain comparative studies made by the valuer and also mathematical analysis. The Valuer is reported to have divided the land parcels of KDS in several clusters depending on their geographical location and other relevant parameters like access and connectivity. Such clusters is also reported to have been sub divided into 1 to 4 value areas depending on the infrastructure available which would affect the value of the land.
+
+As brought out in the preceding paragraphs, all the factors as listed in Clause 13(a) of the amended Land policy guidelines, 2014, have been analysed by the Valuer in his Report, which in turn has been accepted by the LAC, after carrying out its due diligence.
+
+There was no statutory obligation on the part of the LAC to consider the Valuation Report from another expert Valuer. So long the internal procedure and the methodology for determination of market value as prescribed in the Land Policy Guidelines are complied with by the LAC, this Authority cannot suo moto consider the valuation Report of another expert valuer.
+
+Though the Board of Trustees of KOPT has accepted the recommendation of LAC, it had resolved to cap the rentals for the lands at KDS at 75% of the existing updated rates prevailing as on 07 April 2016. Thus, the Board of Trustees of KOPT have granted relief to the users of the KDS lands. TILL would be one of the beneficiaries of such relief.
+
+(vii).
+
+(a).
+
+Objection of TILL:
+
+(i).
+
+The Valuer has failed to follow the fundamental principles of valuation which interalia, includes physical inspection of lands, in surroundings and the available infrastructure and abilities pertaining to such land.
+
+(ii).
+
+Colliers report is also otherwise perverse for the following reasons:
+
+(a).
+
+Colliers, in their report state that the Market value has been assessed in accordance with the RICS Valuation Standards (7th Edition) published by the Royal Institution of Chartered Surveyors and the valuation has been obtained using the ‗Direct Sales Comparison Approach'. The Direct Sales Comparison Approach can be undertaken to determine market value of a particular plot of land only when there is reliable evidence with regard to sale of ‗similar' plots of land in the neighborhood. In the event such an approach is undertaken by the expert, the expert is required to support his assessment with evidence that the sale relied upon is of a plot of land ‗similar' to the land whose value is being assessed. No such evidence or particulars have been furnished by Colliers in its valuation report while arriving at the estimated market value of the land.
+
+(b).
+
+The Direct Sales Approach has not been correctly applied. The Direct Sales Approach is in essence, based on sale of ‗similar' plots of land in the neighborhood. Premises No. 61/1, Taratalla Road (measuring 36000 sq. ft. approx.), is a premises adjacent to KOPT land and one Veeline Media is the lessee of the said land. The market value of the above described plot of land was done by the Department of Registration, Government of West Bengal on 21/11/2016, and the valuation arrived at was `1,85,22,008/-.
+
+Therefore, annual valuation at 6% comes to ` 11,11,320/- or ` 2.57 per sq. ft. per month or ` 2767/- per 100 sq. mtr. The SOR for Taratalla as on 2011 was ` 3344/- per 100 sq. mtr. After enhancing at the rate of 2% per annum, the SOR in 2016 was ` 3692/- per 100 sq. mtr. And based on the Colliers valuation report the SOR is proposed to be enhanced to ` 5706/- per 100 sq. mtr. It can be understood beyond any doubt that the valuation report is wholly erroneous and based on baseless assumptions. Inferences have been made without considering the prevalent market conditions and ground realities.
+
+(c).
+
+A very glaring and grossly erroneous interpretation is detected as enumerated herein below:
+
+(i).
+
+TIL Limited on Taratolla Road in Cluster Area 1 – High Zone- Zone 17 – 1st Belt Rate – ` 57.06/- per sq.mtr & 2nd Belt – ` 45.65/- per sq.mtr;
+
+(ii).
+
+Hari Mohan Ghosh Road is in Cluster Area 2 – Low Zone – Zone 18 – 1st Belt Rate – `31.05/- per sq. mtr. & No. 2nd Belt;
+
+(iii).
+
+Ramnagar is in Cluster Area 3- Low Zone- Zone 19A1st Belt Rate – `29.99/- per sq mtr. & no 2nd Belt.
+
+(iv).
+
+Brooklyn Depot – Cluster Area 2 – Medium Zone – Zone 23B – 1st Belt Rate – `41.26/- per sq mtr. & no. 2nd Belt.
+
+TIL Limited is situated at the intersection of Hari Mohan Ghosh Road & Taratolla Road and Ramnagar and Brooklyn Depot are all contiguous. The infrastructure of their places are similar, however the SoR of the said lands are hugely different.
+
+(d).
+
+A close scrutiny of the registered property documents available in public domain suggests that the SOR of 2011 was much higher than the value of the properties in the locality as on 2016 and accordingly the SOR needed to be reduced and not increased. On the contrary, the valuation report furnished by Colliers suggested completely the opposite and inferred that the SOR must be revised and estimated a hike of 75%. Such inference made by the valuer is contrary to records, perverse and wholly baseless.
+
+(e).
+
+Since 2011 the property value in Kolkata has been stagnant with a marginal escalation to the tune of 2 to 2.5%. However relying on the valuation report furnished by Colliers, KOPT has prayed for an increase in rent by upto 75%.
+
+(f).
+
+From a close reading of para 2.1.4 and para 4.3 of the Colliers report it could be ascertained that the property value of prime localities like Alipore, Chetla, etc. has been taken and discounted at a rate between 5% to 25% so as to arrive at the valuation of the KOPT land. Such an approach adopted by Colliers is wholly erroneous and faulty as the rates of premium residential localities cannot be compared with Port Trust lands which are essentially used for industrial and warehousing purposes.
+
+(g).
+
+Close reading of Clause 1.4 and 1.5 of the valuation report submitted by Colliers clearly suggests that the conclusions so arrived at by Colliers is completely based on unsubstantiated assumptions and without any documentary evidence and that the valuer has based his opinion on discussions with the KOPT, public information and informal discussions with government authorities.
+
+The report made by the valuer has been made out of his office by relying on all the statistical data made available to him. The valuer has made several inferences in its report and have estimated a market value of the land but have failed to disclose any documents on the basis of which such inferences have been made.
+
+(h).
+
+Under the Major Port Trust Act, 1963 TAMP is the appropriate adjudicating authority to ascertain the SOR. The adjudicating process not only involves consideration of the relevant evidence produced by the respective parties but also an appropriate appreciation of the same and its applicability on the relevant issues under consideration. TAMP is clothed with the jurisdiction to not only reject but also to come to his own conclusion based on materials on record. From the relevant provisions of the Act of 1963 and in particular Section 49 it would be evident that TAMP is the appropriate authority for assessing the SOR. TAMP is neither required to be persuaded nor influenced in any manner with either the report of the valuer or the recommendation made by the LAC while fixing the SOR. TAMP is the adjudicating authority which has the jurisdiction to decide and fix SoR based on materials produced by the respective parties.
+
+(i).
+
+An unusual submission was made in course of hearing on August 28 2019 by KoPT to the extent that the report of JLL does not require consideration in as much as the land user who have furnished the report has accepted the SOR fixed by TAMP and is paying the rate fix based on the TAMP's order dated 29 March 2017. Such submission is not only fundamentally tainted with the blemish of misconception of law but is otherwise absurd.
+
+(j).
+
+Report of JLL forms part of the record before the Tariff Authority, it is imperative that the said is considered and alongwith its content while fixing the SOR of the concerned plot of land. It would be a travesty of justice and gross violation of principles of natural justice and a perversity on the face of it if an expert report on record remains unconsidered by an adjudicating authority.
+
+(k).
+
+It is under these circumstances, it is respectfully stated that TAMP should exercise its authority, take into consideration not only the report of Colliers and the recommendation of LAC but also the report of JLL, a globally renowned valuation company and thereafter independently assess the SOR with respect to the zone within which the land of TIL is situated.
+
+(b).
+
+Our Analysis:
+
+As observed from para no. 1.2, 1.3 and 1.4 of the Valuation Report of Colliers, the valuation has been prepared by experienced team of professionals who reportedly have experience in the valuation of properties of magnitude of KOPT. The Valuers have reported to have carried out all investigation independently and without influence from third parties in any way and after personally inspecting the properties.
+
+As per Clause 13(b) and (c) of the Land Policy Guidelines, the mandate of the LAC is to recommend the Market Value for any land normally taking into account the highest of the factors as mentioned in Clause Para 13(a) of the Land Policy Guidelines, as brought out in the preceding paragraphs. The mandate of the concerned Port is to make a proposal as outlined in clause 13 (a) to TAMP for fixing the latest SOR of the land. The mandate of this Authority is to notify the latest SOR of the land after following due process of consultation with stake holders.
+
+Section 49 of the Major Port Trusts Act, 1963 (MPT Act) empowers this Authority to frame Scale of Rates (SOR) at which, and the statement of conditions under which any property belonging to, or in possession or occupation of the Board or any place within the limits of the port approaches may be used for the purposes specified u/s 49 of the Act. In this regard, this Authority is governed by the Land Policy Guidelines as issued by the Government from time to time. The Land Policy Guidelines of 2014, after the approval of the Cabinet, has been issued as a policy direction under Section 111 of the MPT Act by the Government to this Authority. Thus, the stipulations contained in the Land Policy Guidelines are binding on this Authority.
+
+The lease rentals for the land and buildings of KOPT at Kolkata have been approved in the year 2017 and the said rentals have come into effect retrospectively from April 2016 onwards. At that time, the tariff fixation for services rendered by the Major Port Trusts were governed by Tariff Policy, 2015 and the Working Guidelines of 2015. In the Working Guidelines of 2015 issued to operationalize the Tariff Policy, 2015, Clause 1.3 explicitly stipulates that the Guidelines will generally apply in respect of fixation of charges, under section 49 of the said Act, for the use of properties belonging to, or in possession or occupation of, the port or any place within the limits of the port or the port approaches. The said Clause further states that fixation/ revision of tariff for port lands will continue to be governed by the Land Policy Guidelines issued by the Government from time to time. The mandate of this Authority is to consider the proposal of the port. The lease rentals for the lands and buildings of KOPT at Kolkata and Haldia was earlier fixed in the year 2011, based on the market value of lands prevailing then. With the passage of time, the market value of the land is bound to go up particularly in a metropolis.
+
+Even in the consultation process followed by this Authority, which culminated in the tariff Order of March 2017, fixing rentals for the lands and buildings of KOPT at Kolkata and Haldia, some of the main objections of the users that came to be highlighted are listed below, which are also being raised by the TILL in its 3 letters:
+
+(a).
+
+Incorrect base value of land considered by the Valuer.
+
+(b).
+
+Methodology of Valuation of port lands followed by the Valuer.
+
+(c).
+
+Quantum of adjustment factors considered by the Valuer while arriving at the market value of the KDS lands.
+
+(d).
+
+Additional adjustment factors suggested by them for arriving at the market value of the KDS lands.
+
+(e).
+
+Maintaining uniform differential between rentals of 1st belt and 2nd belt of KDS lands.
+
+(f).
+
+Reported Steep increase in rentals in spite of poor infrastructure and the lack of basic facilities at some areas.
+
+The above objections are with reference to the valuation of port land. As already brought out earlier and as per the Land Policy Guidelines which are binding on this Authority, Valuation of the port land is in the domain of KOPT and not in the purview of this Authority. Accordingly, the question of this Authority adjudicating on the objections made by the TILL on the Valuation methodology adopted by KOPT does not arise.
+
+16.
+
+From the facts and circumstances as brought out above, it can be seen that no new facts have been brought out by the TILL in the present proceedings before this Authority, warranting a review of the Rent Schedule for the KDS lands, as approved by this Authority vide its Order no. TAMP/62/2016-KOPT dated 29 March 2017. This Authority confirms the said Order dated 29 March 2017 in respect of fixation of SOR for KDS lands.
+
+T.S. BALASUBRAMANIAN, Member (Finance)
+
+[ADVT.-III/4/Exty./425/19] Annex Annexure 7-Dock Are-Working Sheets.
+
+CateZones CompaComparable Updated Adjustment Adjustment Infra Adjustment Adjusted Reconclied Final Zone. gory Value (Lakh Factor Factor (3):
+
+Fact Total Adjustment Value No. rable Reference /Cottah) value @ 2% p.a.
+
+Land Use or Factor (4):
+
+Ownership Value Consider Rte Rs/100 sq.m./mo
+
+(1):
+
+Listing Discount ed (Lakhs / nth Cottah) Cluster High Area-1 2300000 2346000 0% -25.0% -10.0% -15.0% -50.0% 1173000.00 BBT Road 950000 969000 0% -25.0% -10.0% -15.0% -50.0% 484500.00 Maya Dasi Road 1329966 1329966 0% -25.0% -10.0% -15.0% -50.0% 664983.00 Maya Dasi Road 1000000 1025000 0% -25.0% -10.0% -15.0% -50.0% 512500.00 Maya Dasi Road 1710000 1710000 0% -25.0% -10.0% -15.0% -50.0% 855000.00 (16 17) U.N.
+
+Banerjee Road 1275000 1275000 0% -25.0% 10.0% -15.0% -50.0%
+
+637500.00 U.N.
+
+Banerjee Road 1425105 1425105 0% -25.0% 10.0% -15.0% -50.0%
+
+712552.50 U.N.
+
+Banerjee Road Pathakpara 1500000 1500000 0% -25.0% 10.0% -15.0% -50.0%
+
+750000.00 Road Pathakpara 1969315 1969315 0% -25.0% 10.0% -15.0% -50.0%
+
+984657.50 Road Pathakpara 1350630 1350630 0% -25.0% 10.0% -15.0% -50.0%
+
+675315.00 Road Pathakpara 1900030 1900030 0% -25.0% 10.0% -15.0% -50.0%
+
+950015.00 763638 ` 5706 Road 2300000 2346000 0% -25.0% -12.5% -15.0% -52.50%
+
+1114350.00 Medium BBT Road 950000 969000 0% -25.0% -12.5% -15.0% -52.50%
+
+460275.00 Maya Dasi Road 1329966 1329966 0% -25.0% -12.5% -15.0% -52.50%
+
+631733.85 Maya Dasi Road 1000000 1025000 0% -25.0% -12.5% -15.0% -52.50%
+
+486875.00 Maya Dasi Road 1710000 1710000 0% -25.0% -12.5% -15.0% -52.50%
+
+812250.00 U.N.
+
+Banerjee Road (7A, 7B,9, U.N. 1275000 1275000 0% -25.0% -12.5% -15.0% -52.50%
+
+605625.00 Banerjee Road 1425105 1425105 0% -25.0% -12.5% -15.0% -52.50%
+
+676924.88 12A,12B, U.N.
+
+Banerjee Road 25) Pathakpara 1500000 1500000 0% -25.0% -12.5% -15.0% -52.50%
+
+712500.00 Road Pathakpara 1969315 1969315 0% -25.0% -12.5% -15.0% -52.50%
+
+935424.63 Road Pathakpara 1350630 1350630 0% -25.0% -12.5% -15.0% -52.50%
+
+641549.25 Road Pathakpara 1900030 1900030 0% -25.0% 12.5% -15.0% -52.50%
+
+902514.25 725457 ` 5421 Road 2300000 2346000 0% -25.0% -15.0% -15.0% -55.0%
+
+1055700.00 Low (13,14, BBT Road 950000 969000 0% -25.0% -15.0% -15.0% -55.0%
+
+436050.00 26,28B, Maya Dasi Road 1329966 1329966 0% -25.0% -15.0% -15.0% -55.0%
+
+598484.70 23A, 28E) Maya Dasi Road 1000000 1025000 0% -25.0% -15.0% -15.0% -55.0%
+
+61250.00 Maya Dasi Road 1710000 1710000 0% -25.0% -15.0% -15.0% -55.0%
+
+769500.00 U.N.
+
+Banerjee Road 1275000 1275000 0% -25.0% -15.0% -15.0% -55.0%
+
+573750.00 U.N.
+
+Banerjee Road 1425105 1425105 0% -25.0% -15.0% -15.0% -55.0%
+
+641279.25 U.N.
+
+Banerjee Road 1500000 1500000 0% -25.0% -15.0% -15.0% -55.0%
+
+675000.00 Pathakpara Road 1969315 1969315 0% -25.0% -15.0% -15.0% -55.0%
+
+886191.75 Pathakpara Road 1350630 1350630 0% -25.0% -15.0% -15.0% -55.0%
+
+607783.50 Pathakpara Road Pathakpara 1900030 1900030 0% -25.0% -15.0% -15.0% -55.0%
+
+855013.50 687275 ` 5135 Road 2300000 2346000 0% -25.0% -12.5% -15.0% -45.00% 1290300.00 Very 15a, 15b BBT Road 950000 969000 0% -25.0% -12.5% -15.0% -45.00%
+
+532950.00 Maya Dasi Road 1329966 1329966 0% -25.0% -12.5% -15.0% -45.00%
+
+731481.30 Maya Dasi Road 1000000 1025000 0% -25.0% -12.5% -15.0% -45.00%
+
+563750.00 Maya Dasi Road 1710000 1710000 0% -25.0% -12.5% -15.0% -45.00%
+
+940500.00 U.N.
+
+Banerjee Road 1275000 1275000 0% -25.0% -12.5% -15.0% -45.00%
+
+701250.00 U.N.
+
+Banerjee Road 1425105 1425105 0% -25.0% -12.5% -15.0% -45.00%
+
+783807.75 U.N.
+
+Banerjee Road 1500000 1500000 0% -25.0% -12.5% -15.0% -45.00%
+
+825000.00 Pathakpa ra Road Pathakpara 1969315 1969315 0% -25.0% -12.5% -15.0% -45.00% 1083123.25 Road Pathakpara 1350630 1350630 0% -25.0% -12.5% -15.0% -45.00%
+
+742846.50 Road Pathakpara 1900030 1900030 0% -25.0% -12.5% -15.0% -45.00% 1045016.50 840002 ` 6277 Road and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
