@@ -1,0 +1,15 @@
+---
+title: "In exercise of the powers conferred by sub section 1 of section 419 of the Companies Act"
+gazette_id: "CG-DL-E-31012020-215844 Download: gvGazette$ctl12$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "Not Applicable"
+notification_no: "S.O. 484(E)"
+published: "2020-01-31"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-31.215844"
+---
+
+# In exercise of the powers conferred by sub section 1 of section 419 of the Companies Act
+
+MINISTRY OF COPRPORATE AFFAIRS NOTIFICATION New Delhi, the 31st January, 2020 S.O. 484(E).—In exercise of the powers conferred by sub-section (1) of section 419 of the Companies Act, 2013 (18 of 2013), and in pursuance of Order of Hon'ble National Company Law Appellate Tribunal (NCLAT) dated 8th January, 2020 in Company Appeal No. 227 of 2019 with Company Appeal No. 228 and 229 of 2019, the Central Government hereby notifies that jurisdiction of State of Madhya Pradesh will be exercised by Ahmedabad Bench of National Company Law Tribunal (NCLT) till the operationalization of Indore Bench of NCLT, which will be notified by the Central Government by a subsequent notification.
+
+[F. No. A-45011/44/2018-Ad.IV] GYANESHWAR KUMAR SINGH, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
