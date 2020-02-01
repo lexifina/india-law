@@ -1,0 +1,21 @@
+---
+title: "Whereas the Central Government is satisfied that the public interest so requires that the services in the Bhartiya Reserve Bank Note Mudran Limited"
+gazette_id: "CG-DL-E-01022020-215863 Download: gvGazette$ctl10$imgbtndownload"
+ministry: "Ministry of Labour and Employment"
+department: "Not Applicable"
+notification_no: "S.O. 463(E)"
+published: "2020-02-01"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-30.215863"
+---
+
+# Whereas the Central Government is satisfied that the public interest so requires that the services in the Bhartiya Reserve Bank Note Mudran Limited
+
+MINISTRY OF LABOUR AND EMPLOYMENT NOTIFICATION New Delhi, the 30th January, 2020 S.O. 463(E).—Whereas the Central Government is satisfied that the public interest so requires that the services in the Bhartiya Reserve Bank Note Mudran Limited, Mysore (Karnataka) and Salboni (West Bengal), which is covered under item 25 of the First Schedule to the Industrial Disputes Act, 1947 (14 of 1947), should be declared to be a public utility service for the purposes of the said Act;
+
+And whereas the Central Government has lastly declared the said industry to be public utility service for the purposes of the said Act for a period of six months with effect from the 9th October, 2018, vide notification of the Government of India in the Ministry of Labour and Employment number S.O. 5191(E), dated 9th October, 2018;
+
+And whereas the Central Government is of the opinion that public interest requires the extension of the public utility service status to the said industry for a period of six months;
+
+Now, therefore, in exercise of the powers conferred by sub-clause (vi) of clause (n) of section 2 of the Industrial Disputes Act, 1947 (14 of 1947), the Central Government hereby declares the services in the said industry to be a public utility service for the purposes of the said Act for a period of six months with effect from the date of publication of this notification.
+
+[No. S-11017/ 2 /96-IR (PL)] KALPANA RAJSINGHOT, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
