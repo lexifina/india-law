@@ -1,0 +1,22 @@
+---
+title: "In pursuance of the Hon ble Supreme Court of India s order dated 14th January, 2020"
+gazette_id: "CG-DL-E-01022020-215865 Download: gvGazette$ctl09$imgbtndownload"
+ministry: "Ministry of Road Transport and Highways"
+department: "Road Safety Cell"
+published: "2020-02-01"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-31.215865"
+---
+
+# In pursuance of the Hon ble Supreme Court of India s order dated 14th January, 2020
+
+MINISTRY OF ROAD TRANSPORT AND HIGHWAYS (ROAD SAFETY) NOTIFICATION New Delhi, the 31st January, 2020 No. RT/25035/62/2012/RS.—In pursuance of the Hon'ble Supreme Court of India's order dated 14th January, 2020 in Writ Petition (Civil) No. 295/2012, S. Rajaseekaran Vs. Union of India and Others, composition of the Supreme Court Committee on Road Safety notified by the Ministry of Road Transport & Highways vide Notification No. 25035/62/2012-RS dated 30th May, 2014 is hereby modified as under with effect from 1st February, 2020:
+
+(i) Hon'ble Mr. Justice Abhay Manohar Sapre, former Judge of the Supreme Court as Chairman of the Committee in place of Hon'ble Mr. Justice K. S. Radhakrishnan, former Judge of the Supreme Court who has expressed some difficulty to continue as Chairman; and
+
+(ii) Shri Sanjay Mitra, Former Defence Secretary as Member in place of Shri S. Sundar, former Secretary, Ministry of Road Transport & Highways who has expressed difficulty to continue as Member due to ill-health.
+
+2. The Committee will, on behalf of the Court, undertake action as directed by the Hon'ble Supreme Court vide its Order dated 22nd April, 2014.
+
+3. The remuneration and prerequisites of the Chairman of the Committee and the new Member will be fixed in consultation with the individuals concerned and in accordance with the prevailing norms.
+
+PRIYANK BHARTI, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA
