@@ -1,0 +1,17 @@
+---
+title: "In exercise of the powers conferred by section 168 of the Central Goods and Services Tax Act"
+gazette_id: "CG-DL-E-03022020-215891 Download: gvGazette$ctl14$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "G.S.R. 83(E)"
+published: "2020-02-03"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-03.215891"
+---
+
+# In exercise of the powers conferred by section 168 of the Central Goods and Services Tax Act
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS) NOTIFICATION New Delhi, the 3rd February, 2020 No. 07/2019–Central Tax G.S.R. 83(E).—In exercise of the powers conferred by section 168 of the Central Goods and Services Tax Act, 2017 (12 of 2017), read with sub-rule (5) of rule 61 of the Central Goods and Services Tax Rules, 2017 (hereafter in this notification referred to as the said rules), the Commissioner, on the recommendations of the Council, hereby makes the following further amendment in the notification of the Government of India in the Ministry of Finance (Department of Revenue), No.44/2019 – Central Tax, dated the 09th October, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R.767(E), dated the 09th October, 2019, namely:– In the said notification, after the third proviso, the following provisos shall be inserted, namely: – ―Provided also that the return in FORM GSTR-3B of the said rules for the months of January, 2020, February, 2020 and March, 2020 for taxpayers having an aggregate turnover of up to rupees Five Crore in the previous financial year, whose principal place of business is in the States of Chhattisgarh, Madhya Pradesh, Gujarat, Maharashtra, Karnataka, Goa, Kerala, Tamil Nadu, Telangana or Andhra Pradesh or the Union territories of Daman and Diu and Dadra and Nagar Haveli, Puducherry, Andaman and Nicobar Islands and Lakshadweep shall be furnished electronically through the common portal, on or before the 22nd February, 2020, 22nd March, 2020, and 22nd April, 2020, respectively:
+
+Provided also that the return in FORM GSTR-3B of the said rules for the months of January, 2020, February, 2020 and March, 2020 for taxpayers having an aggregate turnover of up to rupees Five Crore in the previous financial year, whose principal place of business is in the States of Himachal Pradesh, Punjab, Uttarakhand, Haryana, Rajasthan, Uttar Pradesh, Bihar, Sikkim, Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura, Meghalaya, Assam, West Bengal, Jharkhand or Odisha or the Union territories of Jammu and Kashmir, Ladakh, Chandigarh and Delhi shall be furnished electronically through the common portal, on or before the 24th February, 2020, 24th March, 2020 and 24th April, 2020, respectively.‖
+
+[F. No. 20/06/09/2019-GST] PRAMOD KUMAR, Director Note : The principal notification number 44/2019 – Central Tax, dated the 09th October, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R.767(E), dated the 09th October, 2019 and was last amended by notification number 77/2019 – Central Tax, dated the 26th December, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 956(E), dated the 26th December, 2019. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
