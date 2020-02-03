@@ -1,0 +1,29 @@
+---
+title: "In exercise of the powers conferred by sub section 1 of section 44 of the Central Goods and Services Tax Act"
+gazette_id: "CG-DL-E-03022020-215889 Download: gvGazette$ctl15$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "G.S.R. 82(E)"
+published: "2020-02-03"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-03.215889"
+---
+
+# In exercise of the powers conferred by sub section 1 of section 44 of the Central Goods and Services Tax Act
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS) NOTIFICATION New Delhi, the 3rd February, 2020 No. 06/2020–Central Tax G.S.R. 82(E).—In exercise of the powers conferred by sub-section (1) of section 44 of the Central Goods and Services Tax Act, 2017 (12 of 2017) (hereafter in this notification referred to as the said Act), read with rule 80 of the Central Goods and Services Tax Rules, 2017 (hereafter in this notification referred to as the said rules), the Commissioner, on the recommendations of the Council, hereby extends the time-limit for furnishing of the annual return specified under section 44 of the said Act read with rule 80 of the said rules, electronically through the common portal, in respect of the period from the 1st July, 2017 to the 31st March, 2018, for the class of registered person specified in column (2) of the Table below, till the time period as specified in the corresponding entry in column (3) of the said Table, namely:—
+
+TABLE Sl.
+
+No.
+
+Registered person, whose principal place of business is in Due date for furnishing return under section 44 of the said Act read with rule 80 of the said rules for the FY 2017-18 5th February, 2020.
+
+1.
+
+Chandigarh, Delhi, Gujarat, Haryana, Jammu and Kashmir, Ladakh, Punjab, Rajasthan, Tamil Nadu, Uttar Pradesh, Uttarakhand. 7th February, 2020.
+
+2.
+
+Andaman and Nicobar Islands, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu, Goa, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Lakshadweep, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry, Sikkim, Telangana, Tripura, West Bengal, Other Territory.
+
+[F. No. 20/06/07/2019-GST] PRAMOD KUMAR, Director and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
