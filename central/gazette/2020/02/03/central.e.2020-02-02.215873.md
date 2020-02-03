@@ -1,0 +1,715 @@
+---
+title: "In exercise of the powers conferred by sub section 1 of section 25 of the Customs Act"
+gazette_id: "CG-DL-E-03022020-215873 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "G.S.R. 61(E)"
+published: "2020-02-03"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-02.215873"
+---
+
+# In exercise of the powers conferred by sub section 1 of section 25 of the Customs Act
+
+MINISTRY OF FINANCE (Department of Revenue) NOTIFICATION New Delhi, the 2nd February, 2020 No. 01/2020-Customs G.S.R. 61(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962) and sub-section (12) of section 3 of Customs Tariff Act, 1975 (51 of 1975), the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby makes the following further amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue), No. 50/2017- Customs, dated the 30th June, 2017, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 785(E), dated the 30th June, 2017, namely:In the said notification, -
+
+(I). in the Table, -
+
+(1) after S. No. 3 and the entries relating thereto, the following S. No. and entries shall be inserted, namely: - ―3A. 0101 21 00 Pure-bred breeding Nil - - ‖;
+
+Horses
+
+(i)
+
+(2) S. Nos. 5, 7, 7A, 7B, 8, 9, 10, 11, 18 and the entries relating thereto shall be omitted;
+
+(3) for S. No. 28 and the entries relating thereto, the following S. No. and entries shall be substituted, namely: - ―28. 0802 90 00 All goods 30% - - ‖;
+
+(4) S. Nos. 36, 38, 40, 47 and the entries relating thereto shall be omitted;
+
+(5) against S. No. 55, for the entry in column (6), the entry ―9‖ shall be substituted;
+
+(6) S. No. 56 and the entries relating thereto shall be omitted;
+
+(7) for S. No. 57 and the entries relating thereto, the following S. No. and entries shall be substituted, namely: - ―57. 1511 10 00 Crude Palm Oil 44% - - ‖;
+
+(8) S. No. 58, 59, 68, 69, 72, 78, 83, 88A, 89, 92, 93, 94, 95, 98, 99, 105, 108, 113, 115 and the entries relating thereto shall be omitted;
+
+(9) against S. No. 139, in column (3), after item (ii), the following item shall be inserted, namely: - ―(iii) Very Low Sulphur Fuel Oil (VLSFO) meeting ISO 8217:2017 RMG380 Viscosity in 220-400 CST standards/Marine Fuel 0.5% (FO)‖;
+
+(10) against S. No. 147, for the entries in column (3), the following entries shall be substituted, namely: - ―All goods (excluding naptha), other than the goods mentioned in S. No. 150, 151, 153, petroleum coke falling under sub-heading 2713 11 or 2713 12‖;
+
+(11) S. Nos. 148, 149, 152 and the entries relating thereto shall be omitted;
+
+(12) after S. No. 157 and the entries relating thereto, the following S. No. and entries shall be inserted, namely: - ―157A. 2713 12 10, Calcined Petroleum Coke
+
+7.5% - -‖; 2713 12 90
+
+(13) S. No. 160 and the entries relating thereto shall be omitted;
+
+(14) against S. No. 169, for the entries in column (2), the entries ―28 (except 2801, 2802, 2803, 2804, 2805, 2809 20 10, 2810 00 20, 2814, 2823 00 10 and 2843)‖ shall be substituted;
+
+(15) S. No. 170 and the entries relating thereto shall be omitted;
+
+(16) against S. No. 177, for the entry in column (3), the entry ―Phosphoric acid‖ shall be substituted;
+
+(17) S. Nos. 205, 212, 220, 243, 244, 245, 246, 247 and the entries relating thereto shall be omitted;
+
+(18) against S. No. 262, for the entries in column (2), the entries ―3901 to 3915 (except 3904 and 3908)‖ shall be substituted;
+
+(19) S. Nos. 263, 264, 266, 274, 275 and the entries relating thereto shall be omitted;
+
+(20) after S. No. 277 and the entries relating thereto, the following S. No. and entries shall be inserted, namely: - 5% - 9‖; ―277A. 3920 10 99 Calendared plastic sheet for use in manufacturing of Smart Card falling under heading 8523 S. Nos. 278, 286 and 287 and the entries relating thereto shall be omitted; after S. No. 293 and the entries relating thereto, the following S. Nos. and entries shall be inserted, namely: - ―293A.
+
+Newsprint – 5% - 31;
+
+(i) in strips or rolls of width exceeding 28 cm; or
+
+(ii) in rectangular (including square) sheets with one side exceeding 28 cm and the other side exceeding 15 cm in the unfolded state 5% - 31‖; 293B Uncoated paper of a kind used for printing newspapers, of which not less than 50% by weight of the total fibre content consists of wood fibres obtained by mechanical or chemi-mechanical process, unsized or very lightly sized, having a surface roughness Parker Print Surf (1 Mpa) on each side exceeding 2.5 micro meters (microns), weighing not less than 40 g/m2 and not more than 65 g/m2
+
+(23) after S. No. 296 and the entries relating thereto, the following S. No. and entries shall be inserted, namely: - 5% - 9‖; ―296A.
+
+Lightweight coated paper weighing up to 70 g/m2, imported by actual users for printing of magazines
+
+(24) after S. No. 304 and the entries relating thereto, the following S. No. and entries shall be inserted, namely: - ―304A. 4907 00 20 Paper Money Nil Nil - ‖;
+
+S. No. 331 and the entries relating thereto shall be omitted; against S. No. 344, in column (3), against item (ii), for the entry in column (4), the entry ―0.5%‖ shall be substituted; against S. No. 346, for the entry in column (4), the entry ―0.5%‖ shall be substituted; against S. No. 347, for the entry in column (4), the entry ―0.5%‖ shall be substituted; against S. No. 348, for the entry in column (4), the entry ―0.5%‖ shall be substituted; against S. No. 360, for the entry in column (4), the entry ―0.5%‖ shall be substituted; against S. No. 361, for the entry in column (4), the entry ―0.5%‖ shall be substituted. against S. No. 362, for the entry in column (4), the entry ―7.5%‖ shall be substituted; after S. No. 364 and the entries relating thereto, the following S. No. and entries shall be inserted, namely: - ―364A Spent catalyst or ash containing precious metals
+
+11.85% - 9 and 106‖;
+
+(34) against S. No. 377, for the entry in column (3), the following entry shall be substituted, namely: - ―All goods other than, –
+
+(i) goods mentioned against serial number 377A;
+
+(ii) goods mentioned against serial number 377B;
+
+(i)
+
+(iii) goods falling under heading 7323‖;
+
+S. Nos. 386, 388, 389 and the entries relating thereto shall be omitted; against S. No. 397, for the entry in column (4), the entry ―7.5%‖ shall be substituted;
+
+S. Nos. 398, 401, 411, 412 and the entries relating thereto shall be omitted; against S. No. 415, -
+
+(i) in column (3), for item (b) and the entries relating thereto, the following item and entries shall be substituted, namely: - ―(b) The following goods for use in the manufacture of catalytic convertors or its parts, namely: -
+
+(i) Raw Substrate (ceramic)
+
+(ii) Washcoated Substrate (ceramic)
+
+(iii) Raw Substrate (metal)
+
+(iv) Washcoated Substrate (metal)
+
+(v) Stainless Steel wire cloth stripe (falling under tariff item 7314 14 10)
+
+(vi) Wash Coat‖;
+
+(ii) for the entries in column (4), at both the places, the entry ―7.5%‖ shall be substituted; after S. No. 415 and the entries relating thereto, the following S. No. and entries shall be inserted, namely: -
+
+7.5% - 9‖; ―415A.
+
+Platinum or Palladium for use in the manufacture of: -
+
+(i) all goods, including Noble Metal Compounds and Noble Metal Solutions, falling under heading 2843;
+
+(ii) all goods falling under sub-heading 3815 12.
+
+S. No. 447 and the entries relating thereto shall be omitted; against S. No. 448, in column (3), in item (A), sub-item (x) shall be omitted; after S. No. 451 and the entries relating thereto, the following S. No. and entries shall be inserted, namely: -
+
+7.5% - -‖; ―451A. 8419 89 10 All goods other than pressure vessels S. Nos. 456, 457, 459, 465 and the entries relating thereto shall be omitted; against S. No. 468, in column (3), for item (ii), the following item shall be substituted namely: - ―(ii) Fingerprint reader/scanner other than Fingerprint reader/scanner for use in manufacturing of cellular mobile phones‖;
+
+S. Nos. 474, 483, 484, 486 and the entries relating thereto shall be omitted; after S. No. 489A and the entries relating thereto, the following S. No. and entries shall be inserted, namely: - Nil - 9‖; ―489B.
+
+The following goods for use in the manufacturing of Microphones falling under tariff item 8518 10 00, namely: -
+
+(i) Microphone Cartridge;
+
+(ii) Microphone Holder;
+
+(iii) Microphone Grill;
+
+(iv) Microphone Body. against S. No. 506, for the entries in column (3), the following entries shall be substituted, namely: - ―(a) Parts, components and accessories for use in manufacture of broadband modem falling under tariff item 8517 62 30, other than the following items, namely: -
+
+(i) populated printed circuit boards;
+
+(ii) charger or power adapter
+
+(b) Sub-parts for use in manufacture of items covered in (a) above‖; against S.No. 507, for the entries in column (3), the following entries shall be substituted, namely: - ―(a) Parts, components and accessories for use in manufacture of routers falling under tariff item 8517 62 90, other than the following items, namely: -
+
+(i) populated printed circuit boards;
+
+(ii) charger or power adapter
+
+(b) Sub-parts for use in manufacture of items covered in (a) above‖; against S.No. 508, for the entries in column (3), the following entries shall be substituted, namely: - ―(a) Parts, components and accessories for use in manufacture of set top boxes for gaining access to internet falling under tariff item 8517 69 60, other than the following items, namely: -
+
+(i) populated printed circuit boards;
+
+(ii) charger or power adapter
+
+(b) Sub-parts for use in manufacture of items covered in (a) above‖; against S.No. 510, for the entries in column (3), the following entries shall be substituted, namely: - ―(a) Parts, components and accessories for use in manufacture of reception apparatus for television but not designed to incorporate a video display falling under tariff item 8528 71 00, other than the following items, namely: -
+
+(i) populated printed circuit boards;
+
+(ii) charger or power adapter
+
+(b) Sub-parts for use in manufacture of items covered in (a) above.‖;
+
+S. No. 515 and the entries relating thereto shall be omitted; against S. No 524, in column (3), against item (2), for the entry in column (4), the entry ―40%‖ shall be substituted with effect from the 1st day of April, 2020; against S. No 525, in column (3), -
+
+(a) against sub-item (a) of item (1), for the entry in column (4), the entry ―15%‖ shall be substituted with effect from the 1st day of April, 2020;
+
+(b) against sub-item (b) of item (1), for the entry in column (4), the entry ―25%‖ shall be substituted with effect from the 1st day of April, 2020;
+
+(c) against item (2), for the entry in column (4), the entry ―40%‖ shall be substituted with effect from the 1st day of April, 2020;
+
+(i) against S. No. 526A, in column (3), -
+
+(a) against sub-item (a) of item (1), for the entry in column (4), the entry ―15%‖ shall be substituted with effect from the 1st day of April, 2020;
+
+(b) against sub-item (b) of item (1), for the entry in column (4), the entry ―30%‖ shall be substituted with effect from the 1st day of April, 2020; against S. No. 531A, in column (3), -
+
+(a) against sub-item (a) of item (1), for the entry in column (4), the entry ―15%‖ shall be substituted with effect from the 1st day of April, 2020;
+
+(b) against sub-item (b) of item (1), for the entry in column (4), the entry ―25%‖ shall be substituted with effect from the 1st day of April, 2020; against S. No. 539A, for the entry in column (6), the entry ―107‖ shall be substituted; against S. No. 603, for the entry in column (3), the following entry shall be substituted, namely: - ―Water Supply Projects
+
+Explanation. – Water supply projects notified under the heading 9801 against item numbers 26 and 26A of notification No. 42/96-Customs, dated the 23rd July, 1996 [G.S.R. 294(E), dated the 23rd July, 1996].‖; against S. No. 612, in column (3), in item (d), for the entry ―Willow clefts‖, the entry ―Willow clefts, willow‖, shall be substituted.;
+
+(II). in the ANNEXURE, -
+
+(i) Condition Nos. 1, 8, 11, 23, 37, 46 and the entries relating thereto, shall be omitted;
+
+(ii) for Condition No. 51, the following Condition shall be substituted, namely: - ―51.
+
+(1) If the importer at the time of importation, furnishes a certificate to the Deputy Commissioner of Customs or the Assistant Commissioner of Customs, as the case may be, from an officer not below the rank of a Deputy Secretary to the Government of India in the Department of Fertilizers to the effect that the goods are required for specified purpose and the said officer recommends the grant of this exemption;
+
+(2) The value of import of the goods covered under item (B) of column (3) of the entry against the S. No. 408 of the Table shall not exceed 10% of the value of imported goods covered under item (A) of column (3) of the said entry;
+
+(3) If the importer furnishes an undertaking to the Assistant Commissioner of Customs or Deputy Commissioner of Customs, as the case may be, to the effect that the said goods shall be used for the purposes specified above and in the event of his failure to use the goods for such purposes, he shall pay an amount equal to the difference between the duty leviable on the said imported goods but for the exemption under this notification and that already paid at the time of importation.
+
+(iii) in Condition No. 78, -
+
+58.1. clause (ii) shall be omitted;
+
+58.2. clause (iii) shall be re-numbered as clause (ii) thereof, and in clause (ii) as so re-numbered, for the word, brackets and letter ―item (c)‖, the word, brackets and letter ―item (b)‖ shall be substituted;
+
+(iv) after Condition No. 105, the following Conditions shall be inserted, namely: - Condition Condition No. ―106 If the importer at the time and place of clearance: -
+
+(i) gives an undertaking to the Deputy Commissioner of Customs or Assistant Commissioner of Customs, as the case may be, regarding percentage of precious metals contained in spent catalyst or Ash containing precious metal being imported and to the effect that the said goods are imported for recovery of precious metals.;
+
+(ii) produces a certificate from the Ministry of Environment, Forest and Climate Change before the Deputy Commissioner of Customs or Assistant Commissioner of Customs, as the case may be, permitting import of spent catalyst or Ash containing precious metal for recovery or recycling purposes.
+
+107.
+
+If the importer, at the time of import, produces before the Deputy Commissioner of Customs or the Assistant Commissioner of Customs, as the case may be, a certificate from an officer not below the rank of a Deputy Secretary to the Government of India in the Department of Space certifying that the goods specified in column (3) of S. No. 539A of the Table, are required for launch vehicles, and satellites and payloads.‖;
+
+(III).
+
+List 8, 9, 14, 15 and the entries relating thereto shall be omitted;
+
+(IV). in List 30, in Sr. No. E, against item number 9, for the entry, the entry ―Implants for severely physically handicapped patients including bone cement‖ shall be substituted;
+
+[F. No. 334/2/2020 –TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal notification No.50/2017-Customs, dated the 30th June, 2017 was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 785(E), dated the 30th June, 2017 and last amended vide notification No. 37/2019-Customs, dated the 30th December, 2019, published vide number G.S.R. 965(E), dated the 30th December, 2019.
+
+" % ;"
+
+" %
+
+(i) % ;"
+
+(iv)
+
+(v)
+
+(vi)
+
+(vii)
+
+" . 8518 (8518 21 00, % 8518 22 00, 8518 - ;"
+
+" . % - . % -
+
+" । NOTIFICATION New Delhi, the 2nd February, 2020 No. 02/2020-Customs G.S.R. 62(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act,1962 (52 of 1962), the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby makes the following further amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue), No. 57/2017- Customs, dated the 30th June, 2017, published in 30th June, 2017, namely:In the said notification, in the TABLE, -
+
+(i) after S. No. 5B and the entries relating thereto, the following S. No. and entries shall be inserted with effect from the 1st day of April, 2020, namely: -
+
+(a) Vibrator Motor / Ringer for use in manufacture of 10% ―5C.
+
+Any Chapter cellular mobile phones
+
+(b) Inputs or parts for use in manufacture of items Nil mentioned at (a) above
+
+(c) Inputs or sub-parts for use in manufacture of parts mentioned at (b) above Nil 1‖;
+
+(ii) against S. No. 6, in column (3), item (vi) shall be omitted with effect from the 1st day of April, 2020;
+
+(iii) after S. No. 5C and the entries relating thereto, the following S. No. and entries shall be inserted with effect from the 1st day of October, 2020, namely: -
+
+(i)
+
+(a) Display Assembly for use in manufacture of 10% ―5D.
+
+Any Chapter cellular mobile phones
+
+(b) Inputs or parts for use in manufacture of Nil items mentioned at (a) above
+
+(c) Inputs or sub-parts for use in manufacture of parts mentioned at (b) above Nil
+
+(a) Touch Panel/ Cover Glass Assembly for use 10% 5E Any Chapter in manufacture of cellular mobile phones
+
+(b) Inputs or parts for use in manufacture of Nil items mentioned at (a) above
+
+(c) Inputs or sub-parts for use in manufacture of parts mentioned at (b) above Nil 1‖;
+
+(iv) S. No. 6 and the entries relating thereto shall be omitted with effect from the 1st day of October, 2020;
+
+(v) against S. No. 7, in column (3), after the item (xxxi), the following item shall be inserted, namely: - ―(xxxii) Fingerprint reader/Scanner‖;
+
+(vi) against S. No. 13, for the entries in column (3), the entry ―All goods other than charger or power adapter‖ shall be substituted;
+
+(vii) for S. No. 18 and the entries relating thereto, the following S. No. and entries shall be substituted, namely: - 10% -‖ ;
+
+All goods other than the following parts of cellular mobile phones, namely: - ―18. 8518 (except 8518 21 00, 8518 22 00, 8518 29 00 and 8518 30 00)
+
+(i) Microphone; and
+
+(ii) Receiver
+
+(viii) after S. No. 20 and the entries relating thereto, the following S. Nos. and entries shall be inserted, namely: - 10% - ―21. 8517 70 10 Printed Circuit Board Assembly (PCBA) of Cellular mobile phones:
+
+Provided that this entry shall be effective upto 31st March, 2020 (unless revoked, amended or superseded earlier) 10% -‖.
+
+22. 8517 70 10 Printed Circuit Board Assembly (PCBA) of following goods, namely: -
+
+(a) Base station;
+
+(b) Optical transport equipment;
+
+(c) Combination of one or more of Packet Optical Transport Product or Switch (POTP or POTS);
+
+(d) Optical Transport Network (OTN) products;
+
+(e) IP Radios;
+
+(f) Soft switches and Voice over Internet Protocol (VoIP) equipment, namely, VoIP phones, media gateways, gateway controllers and session border controllers;
+
+(g) Carrier Ethernet Switch, Packet Transport Node (PTN) products, Multiprotocol Label Switching-Transport Profile (MPLS-TP) products;
+
+(h) Multiple Input/Multiple Output (MIMO) and Long Term Evolution (LTE) products
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal notification No.57/2017-Customs, dated the 30th June, 2017 was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 798(E), dated the 30th June, 2017 and last amended, vide, notification No. 24/2019-Customs, dated the 6th July, 2019, published vide number G.S.R. 481(E), dated the 6th July, 2019. ) .( NOTIFICATION New Delhi, the 2nd February, 2020 No. 03/2020-Customs G.S.R. 63(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962), the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby makes the following further amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue), No. 19/2019- Customs, dated the 6th July, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 476(E), dated the 6th July, 2019, namely:-
+
+(i) In the said notification, in the opening paragraph, for the words ―the Ministry of Defence, Government of India or the defence forces‖, the words ―Ministry of Defence or the Defence forces, or the Defence Public Sector Units or other Public Sector Units, for the Defence forces‖ shall be substituted.
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal notification No. 19/2019- Customs, dated the 6th July, 2019, was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 476(E), dated the 6th July, 2019, and was last amended by notification No. 35/2019-Customs, dated 30th September, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R 728(E), dated the 30th September, 2019. ) .( -"। NOTIFICATION New Delhi, the 2nd February, 2020 No. 04/2020-Customs G.S.R. 64(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962) and sub-section (7) of section 3 of the Customs Tariff Act, 1975 (51 of 1975), the Central Government on being satisfied that it is necessary in the public interest so to do, hereby makes the following further amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue), No.148/1994-Customs, dated the 13th July, 1994 published in the Gazette of India, In the said notification, in the Table, after S. No. 2 and the entries relating thereto, the following S. No. and entries shall be inserted, namely,-‖. ―2A.
+
+Wool, Woollen Fabrics and Woollen apparels received as gifts by the Indian Red Cross Society
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal notification No. 148/1994-Customs, dated the 13th July, 1994 was published vide number G.S.R. 577(E), dated the 13th July, 1994 and last amended by notification No. 43/2017-Customs dated the 30th June, 2017 published vide number G.S.R.778(E), dated the 30th June, 2017. ) .( NOTIFICATION New Delhi, the 2nd February, 2020 No. 05/2020-Customs G.S.R. 65(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962), the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby makes the following further amendments in the notification of the Government of India, in the Ministry of Finance, (Department of Revenue) No. 25/99-Customs, dated the 28th February, 1999, published in 28th February, 1999, namely :In the said notification, in the Table, in List A, -
+
+(i) S. No. 80 and the entries relating thereto shall be omitted;
+
+(ii) against S. No. 82, -
+
+(a) in column (2), for the entry, the entry ―76,85‖ shall be substituted;
+
+(b) in column (3), for the entry, the entry ―Aluminium wire with silicon or magnesium impurity of up to 2%‖ shall be substituted;
+
+(iii) against S. No. 190, in column (3), after the words ―Blade Fuse Body‖, the words ―; Micro Fuse Base, Sub-Miniature Fuse Base, Micro Fuse Cover, Sub-Miniature Fuse Cover‖ shall be inserted;
+
+(iv) against S. No. 225, in column (2), for the entry ―3908 90 90‖, the entry ―3907 99 90 or 3908 90 90‖ shall be substituted.
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+(i) Note : The principal notification No. 25/99-Customs, dated the 28th February, 1999 was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 161(E), dated the 28th February, 1999 and last amended vide notification No. 36/2019-Customs, dated the 30th December, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 964 (E), dated the 30th December, 2019 ) .( NOTIFICATION New Delhi, the 2nd February, 2020 No. 06/2020-Customs G.S.R. 66(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962), the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby makes the following further amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue) No. 24/2005-Customs, dated the 1st March, 2005, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 122(E), dated the 1st March, 2005, namely :In the said notification, in the Table, against S. No. 39, for the entry in column (2), the entry ―Any Chapter except Chapter 74‖ shall be substituted.
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal notification No. 24/2005-Customs, dated the 1st March, 2005 was published in the Gazette of India, Extraordinary, Part II, Section-3, Sub-section (i), vide number G.S.R.122(E), dated the 1st March, 2005 and last amended by notification No. 36/2019-Customs, dated the 30th December, 2019, published vide number G.S.R. 964(E), dated the 30th December, 2019.
+
+NOTIFICATION New Delhi, the 2nd February, 2020 No. 07/2020-Customs G.S.R. 67(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962), the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby makes the following further amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue) No. 25/2005-Customs, dated the 1st March, 2005, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 123(E), dated the 1st March, 2005, namely:In the said notification, in the Table, against S. No. 33, for the entry in column (2), the entry ―Any Chapter except Chapter 74‖ shall be substituted.
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal notification No. 25/2005-Customs, dated the 1st March, 2005 was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R.123(E), dated the 1st March, 2005 and was last amended by notification No. 36/2019-Customs, dated the 30th December, 2019, published vide number G.S.R. 964(E), dated the 30th December, 2019. ) .(
+
+(i)
+
+2.
+
+3. . / / - ] NOTIFICATION New Delhi, the 2nd February, 2020 No. 08/2020-Customs G.S.R. 68(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962) read with clause 139 of the Finance Bill, 2020, which, by virtue of the declaration made in the said Finance Bill under the Provisional Collection of Taxes Act, 1931 (16 of 1931), has the force of law, the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby exempts the goods of the description specified in column (2) of the Table below and falling within the First Schedule to the Customs Tariff Act, 1975 (51 of 1975), from the whole of the Health Cess leviable thereon under the said clause of the Finance Bill:
+
+Provided that in case of goods specified in the said Table, the exemption under this notification shall be subject to the condition, if any, specified under the respective exemption notifications mentioned therein.
+
+TABLE Sl. No.
+
+Description of goods
+
+1.
+
+All goods falling under heading 9022, other than those for medical, surgical, dental or veterinary uses.
+
+2.
+
+All goods on which exemption is claimed and allowed under the following notifications, namely: -
+
+(i) Notification No. 74/2005-Customs, dated the 22nd July, 2005, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 499(E), dated the 22nd July, 2005;
+
+(ii) Notification No.10/2008-Customs, dated the 15th January, 2008, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 33(E), dated the 15th January, 2008;
+
+(iii) Notification No. 152/2009-Customs, dated the 31st December, 2009, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 943(E), dated the 31st December, 2009;
+
+(iv) Notification No. 46/2011-Customs, dated the 1st June, 2011, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 423(E), dated the 1st June, 2011;
+
+(v) Notification No. 53/2011-Customs, dated the 1st July, 2011, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 499(E), dated the 1st July, 2011; and
+
+(vi) Notification No. 69/2011-Customs, dated the 29th July, 2011, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 593(E), dated the 29th July, 2011.
+
+3.
+
+All goods covered under S. Nos. 216, 216A, 561, 562, 564, 565, 566, 567, 568, 570, 571, 573, 574, 578, 578A, 580 and 581 of the Table annexed to the Notification No. 50/2017-Customs, dated the 30th June, 2017, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 785(E), dated the 30th June, 2017.
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+(i)
+
+(i)
+
+" . 0207 13 00, 0207 14 00, 0402 21 00,0402 10, 0404 10 10, 0405 10 00, 0405 90, 0406 90 00, 0601, 0602, 0703 20 00, 0713 10, 0802 11 00, 0802 12 00, 0802 31 00, 0802 32 00, 0805 40 00, 0806 20, 0808 10 00, 0809 40 00, 0813 20 00, 0901 11, 0901 90 10, 1001 11 00, 1001 91 00, 1001 99 20, 1005 90, 1006,1502, 1515 30 90, 1704 10 00, 1901 10, 2009 11 00, 2009 12 00, 2009 19 00, 2204, 2205, 2206 00 00, 2207 10, 2208,2510 20, 2515 12 20, 3102 21 00, 3102 50 00, 3104 30 00, 3105 20 00, 3105 30 00, 3105 40 00, 3105 51, 3105 59 00, 3105 60 00, 3105 90, 3818, 4011 30 00, 5105 29 10, 5111, 5112, 5113, 5208 41, 5208 42, 5208 49, 5208 51, 5208 52, 5208 59, 5209 41, 5209 42 00, 5209 43, 5209 51, 5209 52, 5209 59, 5210 41, 5210 49, 5210 51, 5210 59, 5211 41, 5211 42 00, 5211 43, 5211 51, 5211 52, 5211 59, 5212 15 00, 5212 24 00, 5212 25 00, 5407 10, 5407 41, 5407 42, 5407 43 00, 5407 44, 5407 51, 5407 52, 5407 53 00, 5407 54, 5407 69 00, 5407 71, 5407 72 00, 5407 73 00, 5407 74 00, 5407 81, 5407 82, 5407 83 00, 5407 84, 5407 91, 5407 92 00, 5407 93 00, 5407 94 00, 5408 22, 5408 23 00, 5408 24, 5408 31, 5408 32, 5408 33 00, 5408 34, 5511 10 00, 5511 20 00, 5511 30, 5512 19, 5512 29, 5512 99, 5513 21 00, 5513 23 00, 5513 29 00, 5513 31 00, 5513 39 00, 5513 41 00, 5513 49 00, 5514 21 00, 5514 22 00, 5514 23 00, 5514 29 00, 5514 30, 5514 41 00, 5514 42 00, 5514 43 00, 5514 49 00, 5515, 5516 12 00, 5516 13 00, 5516 14, 5516 24 00, 5516 43 00, 5516 44 00, 5516 93 00, 5516 94 00, 5702 32, 5702 42, 5702 92, 5703 20, 5703 30, 5704 20, 5704 90, 5801, 5802 19, 5804, 5810 10 00, 6001 92 00, 6101 20 00, 6101 30, 6104 44 00, 6104 49, 6104 51 00, 6104 52 00, 6104 53 00 6104 59, 6104 62 00, 6104 63 00, 6105, 6106, 6107 11 00, 6107 12, 6108 21 00, 6108 22, 6108 91 00, 6108 92, 6109, 6110, 6201 11 00, 6201 12, 6201 13, 6201 91 00, 6201 92 00, 6201 93 00, 6202 11, 6202 12 00, 6202 13 00, 6202 91, 6202 92, 6202 93, 6203, 6204 11 00, 6204 13 00, 6204 19, 6204 31, 6204 32 00, 6204 33 00, 6204 39, 6204 41, 6204 42, 6204 43, 6204 44 00, 6204 49, 6204 51 00, 6204 61, 6204 62, 6204 69, 6205, 6208 11 00, 6208 19, 6208 91, 6208 92, 6210 20, 6210 30, 6210 40, 6210 50 00, 6211 32 00, 6211 33 00, 6211 42, 6211 43 00, 6212, 6214 10, 6214 20, 6214 90, 6215, 6301 20 00, 6302 21 00, 6302 31 00, 6802 10 00, 6802 21 10, 6802 21 20, 6802 21 90, 6802 91 00, 6802 92 00 ‖;
+
+(ii)
+
+"53. ) ( ) ( ''। NOTIFICATION New Delhi, the 2nd February, 2020 No. 09/2020-Customs G.S.R. 69(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962) read with section 110 of the Finance Act, 2018 (13 of 2018), the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby makes the following further amendments in the notification of the Government of India, in the Ministry of Finance (Department of Revenue), No. 11/2018-Customs, dated the 2nd February, 2018, published in the Gazette of India, namely :In the said notification, in the TABLE, -
+
+(i) for Sl. No. 1 and the entries relating thereto, the following Sl. No. and entries shall be substituted, namely: - All goods falling under the following headings or sub-headings or tariff items – ―1. 0207 13 00, 0207 14 00, 0402 21 00, 0402 10, 0404 10 10, 0405 10 00, 0405 90, 0406 90 00, 0601, 0602, 0703 20 00, 0713 10, 0802 11 00, 0802 12 00, 0802 31 00, 0802 32 00, 0805 40 00, 0806 20, 0808 10 00, 0809 40 00, 0813 20 00, 0901 11, 0901 90 10, 1001 11 00, 1001 91 00, 1001 99 20, 1005 90, 1006 ,1502 , 1515 30 90, 1704 10 00, 1901 10, 2009 11 00, 2009 12 00, 2009 19 00, 2204, 2205, 2206 00 00, 2207 10, 2208, 2510 20, 2515 12 20, 3102 21 00, 3102 50 00, 3104 30 00, 3105 20 00, 3105 30 00, 3105 40 00, 3105 51, 3105 59 00, 3105 60 00, 3105 90, 3818, 4011 30 00, 5105 29 10, 5111, 5112, 5113, 5208 41, 5208 42, 5208 49, 5208 51, 5208 52, 5208 59, 5209 41, 5209 42 00, 5209 43, 5209 51, 5209 52, 5209 59, 5210 41, 5210 49, 5210 51, 5210 59, 5211 41, 5211 42 00, 5211 43, 5211 51, 5211 52, 5211 59, 5212 15 00, 5212 24 00, 5212 25 00, 5407 10, 5407 41, 5407 42, 5407 43 00, 5407 44, 5407 51, 5407 52, 5407 53 00, 5407 54, 5407 69 00, 5407 71, 5407 72 00, 5407 73 00, 5407 74 00, 5407 81, 5407 82, 5407 83 00, 5407 84, 5407 91, 5407 92 00, 5407 93 00, 5407 94 00, 5408 22, 5408 23 00, 5408 24, 5408 31, 5408 32, 5408 33 00, 5408 34, 5511 10 00, 5511 20 00, 5511 30, 5512 19, 5512 29, 5512 99, 5513 21 00, 5513 23 00, 5513 29 00, 5513 31 00, 5513 39 00, 5513 41 00, 5513 49 00, 5514 21 00, 5514 22 00, 5514 23 00, 5514 29 00, 5514 30, 5514 41 00, 5514 42 00, 5514 43 00, 5514 49 00, 5515, 5516 12 00, 5516 13 00, 5516 14, 5516 24 00, 5516 43 00, 5516 44 00, 5516 93 00, 5516 94 00, 5702 32, 5702 42, 5702 92, 5703 20, 5703 30, 5704 20, 5704 90, 5801, 5802 19, 5804, 5810 10 00, 6001 92 00, 6101 20 00, 6101 30, 6102 10 00, 6102 20 00, 6102 30, 6104 19 (except of wool or fine animal hair or cotton), 6104 41 00, 6104 43 00, 6104 44 00, 6104 49, 6104 51 00, 6104 52 00, 6104 53 00 6104 59, 6104 62 00, 6104 63 00, 6105, 6106, 6107 11 00, 6107 12, 6108 21 00, 6108 22, 6108 91 00, 6108 92, 6109, 6110, 6201 11 00, 6201 12, 6201 13, 6201 91 00, 6201 92 00, 6201 93 00, 6202 11, 6202 12 00, 6202 13 00, 6202 91, 6202 92, 6202 93, 6203, 6204 11 00, 6204 13 00, 6204 19, 6204 31, 6204 32 00, 6204 33 00, 6204 39, 6204 41, 6204 42, 6204 43, 6204 44 00, 6204 49, 6204 51 00, 6204 61, 6204 62, 6204 69, 6205, 6206 20 00, 6206 30, 6206 40 00, 6207 11 00, 6207 19, 6207 99 (other than goods of man-made fibres), 6208 11 00, 6208 19, 6208 91, 6208 92, 6210 20, 6210 30, 6210 40, 6210 50 00, 6211 32 00, 6211 33 00, 6211 42, 6211 43 00, 6212, 6214 10, 6214 20, 6214 90, 6215, 6301 20 00, 6302 21 00, 6302 31 00, 6802 10 00, 6802 21 10, 6802 21 20, 6802 21 90, 6802 91 00, 6802 92 00.‖;
+
+(ii) Sl. Nos. 9 to 51 and the entries relating thereto, shall be omitted.
+
+(iii) after Sl. No. 52 and the entries relating thereto, the following Sl. No. and entries shall be inserted with effect from the 1st day of April, 2020, namely: - ―53.
+
+All commercial vehicles (including electric vehicles), falling under heading 8702 and 8704, if imported as completely built units (CBUs).‖.
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+(i) Note : The principal notification No. 11/2018-Customs, dated the 2nd February, 2018 was published in the Gazette of India, Extraordinary, Part II, Section 3, sub-section (i) vide number G.S.R. 114 (E), dated the 2nd February, 2018 and was last amended by notification No. 39/2019-Customs, dated the 30th December, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section
+
+(i) vide number G.S.R. 967(E), dated the 30th December, 2019.
+
+1.
+
+2.
+
+3.
+
+4. . / / - ]
+
+1.
+
+2.
+
+3.
+
+4.
+
+NOTIFICATION New Delhi, the 2nd February, 2020 No. 10/2020-Customs G.S.R. 70(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962), the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby directs that each of the notifications of the Government of India in the Ministry of Finance (Department of Revenue), specified in column (2) of the Table below shall be amended in the manner specified in the corresponding entry in column (3) of the said Table, namely: - TABLE Notification number and date Amendments Sl.
+
+No.
+
+1.
+
+Notification No. 73/2005-Customs, dated the 22nd July, 2005.
+
+In the said notification, in the Table, against serial number 143, for the entry in column (2), the entry ―8529 90 30 or 8529 90 90‖ shall be substituted.
+
+[G.S.R. 498(E), dated the 22nd July, 2005]
+
+2.
+
+Notification No. 101/2007-Customs, dated the 11th September, 2007.
+
+In the said notification, in the Table, against serial number 1002, for the entry in column (2), the entry ―8529 90 30 or 8529 90 90‖ shall be substituted.
+
+[G.S.R. 583(E), dated the 11th September, 2007]
+
+3.
+
+Notification No. 46/2011-Customs, dated the 1st June, 2011.
+
+In the said notification, in the Table, against serial number 1404, for the entry in column (2), the entry ―8529 90 10 to 8529 90 30‖ shall be substituted.
+
+[G.S.R. 423 (E), dated the 1st June, 2011]
+
+4.
+
+Notification No. 53/2011-Customs, dated the 1st July, 2011.
+
+In the said notification, in the Table, against serial number 1445, for the entry in column (2), the entry ―8529 90 10 to 8529 90 30‖ shall be substituted.
+
+[G.S.R. 499(E), dated the 1st July, 2011]
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+(i) Note :-
+
+1. The principal notification No. 73/2005-Customs, dated the 22nd July, 2005 was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 498(E), dated the 22nd July, 2005 and was last amended by notification No. 36/2019-Customs, dated the 30th December, 2019 published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 964(E), dated the 30th December, 2019.
+
+2. The principal notification No. 101/2007-Customs, dated the 11th September, 2007 was published vide number G.S.R. 583(E), dated the 11th September, 2007 and last amended by notification No. 19/2017Customs dated the 16th May, 2017 published vide number G.S.R. 473(E), dated the 16th May, 2017.
+
+3. The principal notification No. 46/2011-Customs, dated the 1st June, 2011 was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 423 (E), dated the 1st June, 2011 and last amended, vide notification No. 41/2019-Customs, dated the 31st December, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 976(E), dated the 31st December, 2019.
+
+4. The principal notification No. 53/2011-Customs, dated the 1st July, 2011 was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 499 (E), dated the 1st July, 2011 and was last amended by notification No. 42/2019-Customs, dated the 31st December, 2019 published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 977(E), dated the 31st December, 2019. ) .( . / / - NOTIFICATION New Delhi, the 2nd February, 2020 No. 11/2020-Customs G.S.R. 71(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962), the Central Government on being satisfied that it is necessary in the public interest so to do, hereby makes the following further amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue), No. 82/2017-Customs, dated the 27th of October, 2017, published in the Gazette of India, Extraordinary vide number G.S.R. 1341(E), dated the 27th of October, 2017, namely: - In the said notification, in the Table, serial number 31A and the entries relating thereto shall be omitted.
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal notification No.82/2017-Customs, dated the 27th October, 2017 was published vide number G.S.R. 1341(E), dated the 27th October, 2017 and last amended by notification No. 58/2018-Customs dated the 7th August, 2018 published vide number G.S.R. 754(E) dated the 7th August, 2018. ) .(
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8. . / / - ] NOTIFICATION New Delhi, the 2nd February, 2020 No. 12/2020-Customs G.S.R. 72(E).—In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of 1962) and section 3 of the Customs Tariff Act, 1975 (51 of 1975), the Central Government on being satisfied that it is necessary in the public interest so to do, hereby rescinds the notifications of the Government of India in the Ministry of Finance (Department of Revenue) as specified in column (2) of the Table below, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide corresponding number G.S.R. as specified in column (3) of the said Table, except as respects things done or omitted to be done before such rescission, namely:TABLE S. No.
+
+Notification No.
+
+G.S.R. No.
+
+1. 205/92-Customs, dated the 19th May, 1992 538 (E), the 19th May, 1992.
+
+2. 73/99-Customs, dated the 8th June, 1999 411 (E), the 8th June, 1999.
+
+3. 105/99-Customs, dated the 10th August, 1999 582 (E), the 10th August, 1999.
+
+4. 22/2003-Customs, dated the 4th February, 2003 78(E), the 4th February, 2003.
+
+5. 14/2004-Customs, dated the 8th January, 2004 27 (E), the 8th January, 2004.
+
+6. 56/2006-Customs, dated the 7th June, 2006 351 (E), the 7th June, 2006.
+
+7. 22/2007-Customs, dated the 1st March, 2007 119 (E), the 1st March, 2007.
+
+8. 13/2010-Customs, dated the 19th February, 2010 94 (E), the 19th February, 2010.
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy.
+
+(i)
+
+(i) NOTIFICATION New Delhi, the 2nd February, 2020 No. 09/2020-Customs (N.T.) G.S.R. 73(E).—In exercise of the powers conferred by sub-section (6) of section 9A and sub-section (2) of section 9B of the Customs Tariff Act, 1975 (51 of 1975), the Central Government hereby makes the following rules further to amend the Customs Tariff (Identification, Assessment and Collection of Anti-dumping Duty on Dumped Articles and for Determination of Injury) Rules, 1995, namely: -
+
+1. Short title and commencement.—(1) These rules may be called the Customs Tariff (Identification, Assessment and Collection of Anti-dumping Duty on Dumped Articles and for Determination of Injury) Amendment Rules, 2020.
+
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2.
+
+In the Customs Tariff (Identification, Assessment and Collection of Anti-dumping Duty on Dumped Articles and for Determination of Injury) Rules, 1995, -
+
+(a) in rule 2,-
+
+(i) in clause (b), for the Explanation, the following Explanation shall be substituted, namely: -
+
+"Explanation. - For the purposes of this clause, producers shall be deemed to be related to exporters or importers only if,-
+
+(a) one of them directly or indirectly controls the other; or
+
+(b) both of them are directly or indirectly controlled by a third person; or
+
+(c) together they directly or indirectly control a third person subject to the condition that there are grounds for believing or suspecting that the effect of the relationship is such as to cause the producers to behave differently from non-related producers.
+
+Note: For the purpose of this Explanation, a producer shall be deemed to control another producer when the former is legally or operationally in a position to exercise restraint or direction over the latter.‖;
+
+(ii) after clause (d), the following clause shall be inserted, namely: - ‗(da) ―period of investigation‖ means the period during which the existence of dumping is examined;';
+
+(b) in rule 22, after sub-rule (2), the following sub-rule and Explanation shall be inserted, namely: - ―(3) The anti-dumping duty already imposed for co-operative un-sampled exporters or producers may also be extended to such exporters or producers who were not originally investigated.
+
+Explanation.- For the purposes of these rules, the period of investigation shall,-
+
+(i) not be more than six months old as on the date of initiation of investigation.
+
+(ii) be for a period of twelve months and for the reasons to be recorded in writing the designated authority may consider a minimum of six months or maximum of eighteen months.‖;
+
+(c) for rule 25, the following rule shall be substituted, namely: - ―25. Circumvention of anti-dumping duty.– (1) Circumvention shall be considered as a change in the pattern of trade between any country and India or between individual companies in any country subject to measures and India, as a result of a practice, process or work for which there is insufficient cause or economic justification other than the imposition of the duty; and where there is evidence of injury or that the remedial effects of the duty are being undermined in terms of the prices or quantities or both of the like product; and where there is evidence of dumping in relation to the normal values previously established for the like product, if necessary with appropriate changes or adjustments or in accordance with the provisions of rule 10.
+
+(2) The practice, process or work referred to in the sub-rule (1) includes, inter alia,-
+
+(a) where an article subject to anti-dumping duty is imported into India from any country including the country of origin or country of export notified for the purposes of levy of antidumping duty, in an unassembled, unfinished or incomplete form and is assembled, finished or completed in India or in any other country, such assembly, finishing or completion shall be considered to circumvent the anti-dumping duty in force if, -
+
+(i) the operation started or increased after, or just prior to, the anti-dumping investigations and the parts and components are imported from the country of origin or country of export notified for purposes of levy of anti-dumping duty; and
+
+(ii) the value added to the inputs brought in, during the assembly or completion operation, is less than 35% of the manufacturing cost:
+
+Provided that for calculation of value addition, expenses on account of procurement of technology, such as patents, copyright, trademark, royalty, technical know-how, consultancy charges, etc., shall not be included in the value of the parts brought in.
+
+Explanation I. – ‗Value' means the cost of assembled, complete or finished article less value of imported parts or components.
+
+Explanation II. - For the purposes of calculating the ‗value', expenses on account of payments relating to intellectual property rights, royalty, technical know- how fees and consultancy charges, shall not be taken into account.
+
+(b) where an article subject to anti-dumping duty is imported into India from country of origin or country of export notified for the levy of anti-dumping duty after being subjected to any process involving alteration of the description, name or composition of an article, such alteration shall be considered to circumvent the anti-dumping duty in force if the alteration of the description or name or composition of the article subject to anti-dumping duty results in the article being altered in form or appearance even in minor forms regardless of the variation of tariff classification, if any;
+
+(c) where an article subject to anti-dumping duty is imported into India through any exporter or producer or country not subject to anti-dumping duty, such exports shall be considered to circumvent the antidumping duty in force if the exporters or producers notified for the levy of anti-dumping duty change their trade practice, pattern of trade or channels of sales of the article in order to have their products exported to India through any exporter or producer or country not subject to anti-dumping duty;
+
+(d) any other manner whereby the anti-dumping duty so imposed is rendered ineffective.‖;
+
+(d) in Annexure II, for paragraph (iii), the following paragraph shall be substituted, namely: - ―(iii) In cases where imports of a product from more than one country are being simultaneously subjected to anti-dumping investigation, the designated authority will cumulatively assess the effect of such imports, only when it determines that,-
+
+(a) the margin of dumping established in relation to the imports from each country is more than two per cent. expressed as percentage of export price and the volume of the imports from each country is three per cent. of the import of like article or where the export of individual countries is less than three per cent., the imports collectively accounts for more than seven per cent. of the import of like article; and
+
+(b) a cumulative assessment of the effects of the imports is appropriate in light of the conditions of competition between the imported products and the conditions of competition between the imported products and the like domestic products.‖.
+
+[F. No. 334/2/2020-TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal rules were notified vide Notification No. 2/1995-Customs (N.T), dated the 1st January, 1995, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 1(E), dated the 1st January,1995 and was last amended by Notification No. 6/2012-Customs (N.T), dated the 19th January, 2012 published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 36(E), dated the 19th January, 2012.
+
+(i)
+
+(i)
+
+(i) NOTIFICATION New Delhi, the 2nd February, 2020 No. 10/2020-Customs (N.T.) G.S.R. 74(E).—In exercise of the powers conferred by sub-section (7) of section 9 and sub-section (2) of section 9B of the Customs Tariff Act, 1975 (51 of 1975), the Central Government hereby makes the following rules further to amend the Customs Tariff (Identification, Assessment and Collection of Countervailing Duty on Subsidised Articles and for Determination of Injury) Rules, 1995, namely :-
+
+1. Short title and commencement. — (1) These rules may be called the Customs Tariff (Identification, Assessment and Collection of Countervailing Duty on Subsidised Articles and for Determination of Injury) Amendment Rules, 2020.
+
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2. In the Customs Tariff (Identification, Assessment and Collection of Countervailing Duty on Subsidised Articles and for Determination of Injury) Rules, 1995,-
+
+(a) in rule 2,-
+
+(i) in clause (b),-
+
+(A) for the portion beginning with the words ―means the domestic producers‖ and ending with the words ―not to form part of domestic industry‖, the following shall be substituted, namely:―means the domestic producers as a whole engaged in the manufacture of the like article or those whose collective output of the said article constitutes a major proportion of the total domestic production of that article, except when such producers are related to the exporters or importers of the alleged subsidised article, or like article from other countries or are themselves importers thereof:‖;
+
+(B) after the proviso, the following Explanation shall be inserted, namely: -
+
+"Explanation. - For the purposes of this clause, producers shall be deemed to be related to exporters or importers only if,-
+
+(a) one of them directly or indirectly controls the other; or
+
+(b) both of them are directly or indirectly controlled by a third person; or
+
+(c) together they directly or indirectly control a third person subject to the condition that there are grounds for believing or suspecting that the effect of the relationship is such as to cause the producers to behave differently from non-related producers.
+
+Note: For the purpose of this Explanation, a producer shall be deemed to control another producer when the former is legally or operationally in a position to exercise restraint or direction over the latter.‖
+
+(ii) after clause (c), the following clauses shall be inserted, namely: - ―(ca) ―like article‖ means an article which is identical or alike in all respects to the article under investigation or in the absence of such an article, another article which although not alike in all respects, has characteristics closely resembling those of the article under investigation;
+
+(cb) ―period of investigation‖ means the period during which the existence of subsidisation is examined.‖;
+
+(iii) in clause (d), for the word, figure and letter ―section 9A‖, the word and figure ―section 9‖ shall be substituted‖;
+
+(b) in rule 6, after sub-rule (5), the following sub-rule and Explanation shall be inserted, namely:―(6) The designated authority shall avoid any publicising of the application for the initiation of an investigation, unless a decision has been made to initiate an investigation.
+
+Explanation.- For the purposes of these rules, the period of investigation shall,-
+
+(i) not be more than six months old as on the date of initiation of investigation;
+
+(ii) be for a period of twelve months and for the reasons to be recorded in writing the designated authority may consider a minimum of six months or maximum of eighteen months.‖;
+
+(c) after rule 6, the following rule shall be inserted, namely:―6A. Consultation.- (1) As soon as an application under rule 6 is accepted, and in any event before the initiation of any investigation, the Government of the exporting country, the products of which may be subject to investigation, shall be invited for consultations to clarify the situation for the matters referred to in rule 6 so as to arrive at a mutually agreed solution.
+
+(2) The Government of the exporting country, shall be afforded a reasonable opportunity to continue consultations, to clarify the factual situation so as to arrive at a mutually agreed solution, throughout the period of investigation.‖;
+
+(d) in rule 11, in sub-rule (1), for clause (c), the following clause shall be substituted, namely: - ―(c) has been conferred on a limited number of persons or enterprises or industries or designated geographical regions, engaged in manufacturing, producing and exporting the article.‖;
+
+(e) in rule 17, in sub-rule (6) for the proviso, the following provisos shall be substituted, namely:―Provided that the designated authority may obtain from the producer or importer information periodically to monitor the undertaking and take steps for onsite verification of the same, if required:
+
+Provided further that in case of any violation of an undertaking, the designated authority shall, as soon as possible, inform the Central Government of the violation of the undertaking and recommend immediate application of provisional measure using the best information available and in cases of violation, definitive duties may be levied in accordance with these rules on product entered for consumption not more than ninety days before the application of such provisional measures but no such retroactive assessment shall apply to imports entered before the violation of the undertaking.‖;
+
+(f) in rule 22, in sub-rule (2), after the proviso the following proviso shall be inserted, namely:―Provided further that notwithstanding anything contained in the foregoing proviso, in case of violation of such undertaking, the provisional duty shall be deemed to have been levied from the date of violation of the undertaking or such date as the Central Government may specify in each case.‖;
+
+(g) for rule 24, the following rules shall be substituted, namely: - ―24. Review. - (1) Any countervailing duty imposed under section 9 of the Act shall remain in force so long as and to the extent necessary, to counteract subsidisation, which is causing injury.
+
+(2) The designated authority shall review the need for the continued imposition of countervailing duty, where warranted, on its own initiative or upon request by any interested party who submits necessary information substantiating the need for such review, and a reasonable period of time has elapsed since the imposition of the definitive countervailing duty and upon such review, the designated authority shall recommend to the Central Government for its withdrawal, when it comes to a conclusion that the injury to the domestic industry is not likely to continue or recur, if the said countervailing duty is removed or varied and is therefore no longer warranted.
+
+(3) Any definitive countervailing duty levied under the Act shall be effective for a period not exceeding five years from the date of its imposition. The designated authority may upon coming to a conclusion, on a review initiated before that period either on its own initiative or upon a duly substantiated request made by or on behalf of the domestic industry within a reasonable period of time prior to the expiry of that period, that the expiry of the said countervailing duty is likely to lead to continuation or recurrence of subsidisation and injury to the domestic industry, make recommendation for extending the period of such imposition in accordance with provisions of section 9 of the Act.
+
+(4) Any review initiated under sub-rule (1) shall be concluded within a period not exceeding twelve months from the date of initiation of such review.
+
+(5) The provisions of rules 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 19, 20, 22 and 23 shall apply mutatis mutandis in case of review.
+
+25. Circumvention of countervailing duties. – (1) Circumvention shall be considered as a change in the pattern of trade between any country and India or between individual companies in any other country, subject to measures and India, as a result of a practice, process or work for which there is insufficient cause or economic justification other than the imposition of the duty, and where there is evidence of injury or that the remedial effects of the duty are being undermined in terms of the prices or quantities or both of the like product, and that the imported like product or parts thereof or both still benefit from the subsidy as determined in original or previous determination.
+
+(2) The practice, process or work referred to in the sub-rule (1) includes, inter alia,-
+
+(a) where an article subject to countervailing duty is imported into India from any country including the country of origin or country of export notified for the purposes of levy of countervailing duty, in an unassembled, unfinished or incomplete form and is assembled, finished or completed in India or in any other country, such assembly, finishing or completion shall be considered to circumvent the countervailing in force if,-
+
+(i)
+
+(i) the operation started or increased after, or just prior to, the countervailing investigations and the parts and components are imported from the country of origin or country of export notified for purposes of levy of countervailing duty; and
+
+(ii) the value consequent to assembly, finishing or completion operation is less than thirty-five percent of the cost of assembled, finished or complete article.
+
+Explanation I. – ‗Value' means the cost of assembled, complete or finished article less value of imported parts or components.
+
+Explanation II. - For the purposes of calculating the ‗value', expenses on account of payments relating to intellectual property rights, royalty, technical know- how fees and consultancy charges, shall not be taken into account.
+
+(b) where an article subject to countervailing duty is imported into India from country of origin or country of export notified for the levy of countervailing duty after being subjected to any process involving alteration of the description, name or composition of an article, such alteration shall be considered to circumvent the countervailing duty in force if the alteration of the description or name or composition of the article subject to countervailing duty results in the article being altered in form or appearance even in minor forms regardless of the variation of tariff classification, if any;
+
+(c) where an article subject to countervailing duty is imported into India through any exporter or producer or country not subject to countervailing duty, such exports shall be considered to circumvent the countervailing duty in force if the exporters or producers notified for the levy of countervailing duty change their trade practice, pattern of trade or channels of sales of the article in order to have their products exported to India through any exporter or producer or country not subject to countervailing duty;
+
+(d) any other manner where the countervailing duty so imposed is rendered ineffective.
+
+26. Initiation of investigation to determine circumvention.- (1) Except as provided herein below, the designated authority may initiate an investigation to determine the existence and effect of any alleged circumvention of the countervailing duty levied under section 9 of the Act, upon receipt of a written application by or on behalf of the domestic industry.
+
+(2) The application shall, inter-alia, contain sufficient evidence as regards the existence of the circumstances to justify initiation of an anti-circumvention investigation.
+
+(3) Notwithstanding anything contained in sub-rule (1), the designated authority may initiate an investigation on its own initiative if it is satisfied from the information received from the Commissioner of Customs appointed under the Customs Act, 1962 (52 of 1962) or any other source that sufficient evidence exists as to the existence of the circumstances pointing to circumvention of countervailing duty in force.
+
+(4) The designated authority may initiate an investigation to determine the existence and effect of any alleged circumvention of the countervailing duty in force:
+
+Provided that the designated authority shall notify the Government of the exporting country before proceeding to initiate such an investigation.
+
+(5) The provisions regarding evidence and procedure provided under rule 7 shall apply mutatis mutandis to any investigation carried out under this rule.
+
+(6) Any such investigation shall be concluded within twelve months and in no case more than eighteen months of the date of initiation of investigation for reasons to be recorded in writing by the designated authority.
+
+27. Determination of circumvention.- (1) The designated authority, upon determination that circumvention of countervailing duty exists, may recommend imposition of existing countervailing duty to imports of articles found to be circumventing an existing countervailing duty or to imports of article originating in or exported from countries other than those which are already notified for the purpose of levy of the countervailing duty and such levy may apply retrospectively from the date of initiation of the investigation under rule 26.
+
+(2) The designated authority shall issue a public notice recording its findings.
+
+(3) The Central Government may, pursuant to the recommendations made by the designated authority, extend the countervailing duty to imports of article including imports of such article from the date of initiation of the investigation under rule 26 or such date as may be recommended by the designated authority.
+
+28. Review of circumvention. - (1) The designated authority may, where warranted, review the need for the continued imposition of the countervailing duty on circumventing product or against the circumventing country as applicable, either on its own initiative or, upon request by any interested party which submits necessary information substantiating the need for the review provided that a reasonable period of time has elapsed since the imposition of the measures, and upon such review make recommendations to the Central Government.
+
+(2) Any review initiated under sub-rule (1) shall be concluded within a period not exceeding twelve months from the date of initiation of such review.‖.
+
+[F. No. 334/2/2020-TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal rules were notified vide Notification No.1/1995-Customs (N.T), dated the 1st January, 1995, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 2(E), dated the 1st January,1995 and was last amended by Notification No. 24/2006-Customs (N.T), dated the 1st March, 2006 published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 123(E), dated the 1st March, 2006.
+
+NOTIFICATION New Delhi, the 2nd February, 2020 No. 01/2020-Customs (SG) G.S.R. 75(E).—In exercise of the powers conferred by sub-section (1) of section 8B of the Customs Tariff Act, 1975 (51 of 1975), read with rules 12, 14 and 17 of the Customs Tariff (Identification and Assessment of Safeguard Duty) Rules, 1997, the Central Government, on being satisfied that it is necessary in the public interest so to do, hereby makes the following amendments in the notification of the Government of India in the Ministry of Finance (Department of Revenue), No. 01/2018-Customs (SG), dated the 30th July, 2018, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 717(E), dated the 30th July, 2018, namely:In the said notification, for the words and figures ―tariff item 8541 40 11‖, wherever they occur, the words and figures ―tariff items 8541 40 11 and 8541 40 12‖ shall be substituted.
+
+[F. No. 334/2/2020-TRU] GAURAV SINGH, Dy. Secy.
+
+Note : The principal notification No. 01/2018-Customs (SG), dated the 30th July, 2018 was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide number G.S.R. 717(E), dated the 30th July, 2018.
+
+(i)
+
+1.
+
+2.
+
+NOTIFICATION New Delhi, the 2nd February, 2020 No. 03/2020-Customs (ADD) G.S.R. 76(E).—In exercise of the powers conferred by sub-sections (1) and (5) of section 9A of the Customs Tariff Act, 1975 (51 of 1975), the Central Government revokes the anti-dumping duty imposed on ―Purified Terephthalic Acid‖ including its variants ―Medium Quality Terephthalic Acid‖ and ―Qualified Terephthalic Acid‖, falling under tariff item 2917 36 00 of the First Schedule to the said Act, originating in or exported from the People's Republic of China, Iran, Indonesia, Malaysia, Taiwan, Korea RP and Thailand, and imported into India and hereby rescinds the notifications of the Government of India in the Ministry of Finance (Department of Revenue) as specified in column (2) of the Table below, published in the Gazette of India, of the said Table, except as respects things done or omitted to be done before such rescission, namely:TABLE S. No.
+
+Notification Number G.S.R. Number
+
+1. 28/2016-Customs(ADD), dated the 5th July, 2016 664(E), dated the 5th July, 2016.
+
+2. 28/2019-Customs(ADD), dated the 24th July, 2019 524(E), dated the 24th July, 2019.
+
+[F. No. 334/2/2020–TRU] GAURAV SINGH, Dy. Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
