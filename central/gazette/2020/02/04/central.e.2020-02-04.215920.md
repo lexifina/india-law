@@ -1,0 +1,27 @@
+---
+title: "In exercise of the powers conferred by subsection 1 of section 70 of the Information Technology Act"
+gazette_id: "CG-DL-E-04022020-215920 Download: gvGazette$ctl06$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "G.S.R. 84(E)"
+published: "2020-02-04"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-04.215920"
+---
+
+# In exercise of the powers conferred by subsection 1 of section 70 of the Information Technology Act
+
+MINISTRY OF FINANCE (Department of Revenue) NOTIFICATION New Delhi, the 4th February, 2020 G.S.R. 84(E).—In exercise of the powers conferred by sub-section (1) of section 70 of the Information Technology Act, 2000 (21 of 2000), the Ministry of Finance hereby declares the Goods and Services Tax Database and its associated infrastructure dependencies installed at Goods and Services Tax Network (GSTN), as the protected system for the purpose of said Act.
+
+The following persons shall be authorised to access the protected system: -
+
+(a) designated GSTN employees authorised by Head of GSTN;
+
+(b) designated Tax officers of the Central Government, State Government, Union territories, Auditing agencies and Accounting Authorities;
+
+(c) authorised members or employees of Contractual Managed Service Provider or third-party vendor(s) or its partner(s); and
+
+(d) GSTN authorized business partner(s).
+
+2. This notification shall come into force on the date of its publication in the Official Gazette.
+
+[F. No. S-31011/01/2012-SO (ST-1)(Pt.-8)] SUNIL KUMAR, Under Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA KUMAR VERMA
