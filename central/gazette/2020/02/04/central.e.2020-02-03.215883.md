@@ -1,0 +1,738 @@
+---
+title: "WHEREAS the draft regulations further to amend the Company Secretaries Regulations"
+gazette_id: "CG-DL-E-04022020-215883 Download: gvGazette$ctl13$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "The Institute of Company Secretaries of India"
+published: "2020-02-04"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-03.215883"
+---
+
+# WHEREAS the draft regulations further to amend the Company Secretaries Regulations
+
+MINISTRY OF CORPORATE AFFAIRS (THE INSTITUTE OF COMPANY SECRETARIES OF INDIA) (Constituted under the Company Secretaries Act, 1980) NOTIFICATION New Delhi, the 3rd February, 2020 No. 710/1 (M)/1.—WHEREAS the draft regulations further to amend the Company Secretaries Regulations, 1982 were published, as required by sub-section (3) of section 39 of the Company Secretaries Act, 1980 (56 of 1980), at pages 1 to 34, in the Gazette of India, Extraordinary, Part III, Section 4, dated the 6th August, 2019, vide notification of the Institute of Company Secretaries of India number 710/1(M)/1, dated the 6th August, 2019, for inviting objections and suggestions from persons likely to be affected thereby, before the expiry of the period of forty-five days from the date on which the copies of the said notification as published in the Gazette of India were made available to the general public;
+
+AND WHEREAS, objections and suggestions were invited before the expiry of the said period of forty five days from the date on which the copies of the said Gazette was made available to the general public on 6th August, 2019;
+
+AND WHEREAS, objections and suggestions as received from the general public have been considered by the Council;
+
+NOW, THEREFORE, in exercise of the powers conferred by sub-section (1) of the section 39 of the Company Secretaries Act, 1980 (56 of 1980), the Council, with the approval of the Central Government, hereby makes the following regulations further to amend the Company Secretaries Regulations, 1982, namely: -
+
+1. (1) These Regulations may be called the Company Secretaries (Amendment) Regulations, 2020.
+
+(2) They shall come into force on the date of their final publication in the Official Gazette.
+
+2.
+
+In the Company Secretaries Regulations, 1982 (hereinafter referred to as the said regulations), in regulation 2, after clause (i), the following clauses shall be inserted, namely:-
+
+"(ia) 'misconduct' in relation to a registered student or a candidate enrolled for any examination conducted by the Institute means behaviour in disorderly manner in relation to the Institute or in or around an examination centre or premises, or breach of any provision of the Act, rule, regulation, notification, condition, guideline, direction, advisory, circular of the Institute, or adoption of malpractices with regard to postal or oral tuition or resorting to or attempting to resort to unfair means in connection with writing of any examination conducted by the Institute, or tampering with the Institute's record or database, writing or sharing information about the Institute on public forums, social networking or any print or electronic media which is defamatory or any other act which may harm, damage, hamper or challenge the secrecy, decorum or sanctity of examination or training or any policy of the Institute;
+
+(ib) 'misconduct' in relation to a candidate undergoing practical training or any other training by whatever name called, as determined by the Council, means behaviour in disorderly manner in relation to the Institute or in or around the place where undergoing training, or breach of any provision of the Act, rule, regulation, notification, condition, guideline, direction, advisory, circular of the Institute, or tampering with Institute's record or database, writing or sharing information about the Institute on public forums, social networking or any print or electronic media which is defamatory, malpractice with regard to training or resorting to or attempting to resort to unfair means in connection with the undergoing training or seeking exemption from undergoing training or for breach of any policy, rule or regulation of the organisation in which he is undergoing training;"
+
+3.
+
+In the said regulations, for regulation 3, the following regulation shall be substituted, namely:-
+
+"3. Register of Members.- (1) The Institute shall maintain a Register of Members in the proforma referred to in Schedule 'A' manually or electronically or in any other mode as may be determined by the Council.
+
+(2) The Register of Members shall contain full name, date of birth, domicile, professional address, residential address, membership number, date of acquiring membership, qualifications, certificate of practice number if holding, email id, mobile number, telephone number if any, and such other particulars as may be determined by the Council.
+
+(3) The member shall communicate to the Institute any change of his details entered in the Register, within thirty days of such change."
+
+4.
+
+In the said regulations, in regulation 4,-
+
+(A) in sub-regulation (1),-
+
+(i) clauses (a), (b) and (c) shall be omitted;
+
+(ii) for clause (d), the following clause shall be substituted, namely:-
+
+"(d) has passed examinations conducted by the dissolved company and has completed practical training either as prescribed in the earlier regulations or as prescribed in the Company Secretaries (Amendment) Regulations, 2020 or"
+
+(iii) in clause (e), for the words, "specified in Chapter VII of these regulations; or", the words,
+
+"prescribed in these regulations; or" shall be substituted;
+
+(iv) for clause (f), the following clause shall be substituted, namely:-
+
+"(f) has passed such other examination and completed such other training outside India as is recognised by the Central Government or the Council as being equivalent to the examination and training prescribed in these regulations; or"
+
+(v) in clause (h), for the words, brackets, letters, and figures, "clause (p) of section 2 of the Foreign Exchange Regulations Act, 1973 (46 of 1973)" the words, brackets, letters and figures
+
+"clause (w) of section 2 of the Foreign Exchange Management Act, 1999 (42 of 1999)" shall be substituted;
+
+(B) for sub-regulation (2), the following sub-regulations shall be substituted, namely:-
+
+"(2) Fellow members:
+
+(i) No person shall be entitled to have his name entered in the Register as a Fellow unless he,-
+
+(a) was a Fellow including Honorary Fellow of the dissolved company immediately before the commencement of the Act; or
+
+(b) was admitted as a Fellow under the earlier regulations; or
+
+(c) is an Associate and has been in continuous practice in India as a Company Secretary for at least five years; or
+
+(d) is an Associate for a continuous period of not less than five years and possesses such qualifications or practical experience as may be determined by the Council.
+
+(ii) No Associate member shall be admitted as a fellow member of the Institute, if; -
+
+(a) he has been found guilty of any professional or other misconduct and his name has been removed from the Register or he has been imposed fine referred in sub-section (3) of sections 21A or sub-section (3) of section 21B at any time during the preceding five years on the date of application; or
+
+(b) he has not completed such minimum numbers of Professional Development Credit Hours as may be determined by the Council:
+
+Provided that in the case of any person belonging to any of the classes mentioned in subregulations (1) and (2), who is not permanently residing in India, the Council may, by resolution, determine, such further qualifications and conditions, as it may deem necessary or expedient."
+
+5.
+
+In the said regulations, in regulation 5, in sub-regulation (1), for the words, "Every person who desires", the words "Any person who intends" shall be substituted.
+
+6.
+
+In the said regulations, in regulation 6,-
+
+(a) in sub-regulation (1), for the words, "Every person", the words "Any person" shall be substituted;
+
+(b) in sub-regulation (2), after the words "as may be determined", the words, "by notification" shall be inserted;
+
+(c) in sub-regulation (4),-
+
+(i) after the words "annual membership fee", the words, brackets and letters "along with such certificate of living and Know Your Member (KYM) declaration in appropriate Form" shall be inserted;
+
+(ii) third proviso to sub-regulation (4) shall be omitted;
+
+(iii) in fourth proviso for the words "age of seventy years or above and is not in any gainful employment or in practice", the words "age of seventy years or above" shall be substituted;
+
+(iv) the following fifth and sixth proviso shall be inserted, namely:-
+
+"Provided also that a member, who is physically challenged, irrespective of his age, shall pay half of the annual membership fee on submission of disability certificate issued by the competent authority;
+
+Provided also that if a member is physically challenged and is also of the age of seventy years or above, shall pay one-eighth of the annual membership fee on submission of a declaration and a disability certificate issued by the competent authority".
+
+7.
+
+In the said regulations, in regulation 7, after the words "fees paid by him" the words "after deducting administrative charges as may be determined by the Institute" shall be inserted.
+
+8.
+
+In the said regulations, for regulations 8, 9,10,11 and 12, the following regulations shall be substituted, namely:-
+
+"8.
+
+Non-payment of dues.- (1) Annual fee: Any person who has not paid his annual membership fee on or before thirtieth June of that year his name shall be removed from the Register from the first day of July of that year without any further notice.
+
+(2) Other dues: Any person who has not paid the fine, penalty or any other dues payable to the Institute as a member within ninety days from the date of notice of such outstanding amount, his name shall be removed from the Register on the expiry of the said period of ninety days.
+
+9.
+
+Certificate of Membership.- (1) On acceptance of application for membership by the Council, full name, date of birth, domicile, professional address, residential address, membership number, date of acquiring membership, qualifications, email id, mobile number, telephone number if any, and such other particulars as may be determined by the Council shall be entered in the Register and a Certificate of Membership in the appropriate form shall be issued to him by the Council.
+
+(2) A member whose name is removed from the Register under any of the provisions of the Act or these regulations shall surrender the Certificate of Membership then held by him to the Secretary within fifteen days from the date of receipt of notice of such removal or cancellation and shall not use or display or continue to use or display the same certificate or membership number in any manner.
+
+10.
+
+Certificate of Practice.- (1) A member, after successful completion of Orientation Programme in such manner and mode as may be determined by the Council, may apply to the Institute in the appropriate form for issue of a certificate of practise entitling him to practise as a Company Secretary anywhere in India.
+
+(2) Upon acceptance of the application by the Institute received under sub-regulation (1), the certificate shall be issued in the appropriate form which shall be valid until it is cancelled.
+
+(3) In the case of renewal of the certificate of practice, after acceptance of the application by the Institute, the Secretary shall issue a letter extending the validity period of the certificate of practice for that year in the appropriate form.
+
+(4) The request of member who surrenders his certificate of practice will be considered only on receipt of the original certificate.
+
+(5) A member who ceases to be in practice or whose certificate of practice has been cancelled under regulation 11 except clause (d) of Regulation 11 shall surrender the certificate then held by him to the Secretary within fifteen days from the date of receipt of notice of such cancellation and shall not use or display or continue to use or display the same certificate or membership number in any manner.
+
+11.
+
+Cancellation of certificate of Practice.-(1) A certificate of practice issued under sub-section (1) of section 6 of the Act shall be liable for cancellation, if –
+
+(a) the name of the holder of the certificate is removed from the Register under sub-sections
+
+(1) and (2) of section 20 of the Act; or
+
+(b) the Council is satisfied, after giving an opportunity of being heard to the person concerned, that such certificate was issued on the basis of incorrect, misleading or false information provided by the applicant, or by mistake or inadvertence on the part of the Institute ; or
+
+(c) a member who ceased to practice; or
+
+(d) a member who has surrendered his Certificate of Practice; or
+
+(e) a member who has not paid annual fee for renewal of certificate of practice till 30th day of June of the relevant year; or
+
+(f) a member who has not complied with the guidelines of the Council; or
+
+(g) a member who ceases to be an Indian National;
+
+(2) The cancellation of a certificate shall be effective, –
+
+(a) in a case falling under clause (a) of sub-regulation (1), on the date on which and during the period for which the name of the holder of the certificate was removed from the Register of members;
+
+(b) in a case falling under clause (e) of sub-regulation (1), from the 1st day of July of the relevant year without any notice; and
+
+(c) in any other case, from such date and for such period, as may be determined by the Council;
+
+When a certificate is cancelled, the date from which and the period for which the certificate shall stand cancelled shall be communicated in writing by registered post or speed post or courier or by any electronic mode to the member concerned at his professional address and email id available in the Register and may also be published in the Journal or hosted on the website of the Institute.
+
+Where a certificate of practice is cancelled under regulation 11 except clause (1)(d) of Regulation 11, the holder of such certificate shall return the certificate to the Secretary within fifteen days from the date of receipt of notice of such cancellation and shall not use or display or continue to use or display the same certificate or membership number in any manner.
+
+The request of member who surrenders his certificate of practice will be considered only on receipt of the original certificate.
+
+12.
+
+Notification of removal of Membership.—The removal of the name of any member from the Register shall be communicated in writing to him by registered post or speed post or courier or by any electronic mode at the professional address and email id available in the Register and may also be published in the Journal or hosted on the website of the Institute."
+
+9.
+
+In the said regulations, in regulation 13,-
+
+(a) in sub-regulation (2),
+
+(i) for the word "and", the words "along with" shall be substituted;
+
+(ii) in the second proviso, for the words "or the High Court", the words "or any Tribunal or a Court" shall be substituted;
+
+(b) for sub-regulation (3), the following sub-regulation shall be substituted, namely:-
+
+"(3) The restoration of a member's name to the register shall be communicated in writing to him by registered post or speed post or courier or by any electronic mode and may also be published in the journal or hosted on the website of the Institute."
+
+10.
+
+In the said regulations, in regulation 14, for sub-regulation (2), the following sub-regulation shall be substituted, namely:-
+
+"(2) On acceptance of the application for restoration, the restoration of certificate of practice shall be communicated in writing to the person concerned by registered post or speed post or courier or by any electronic mode and may also be published in the Journal or hosted on the website of the Institute."
+
+11.
+
+In the said regulations, for "Chapter IV", the following "Chapter IV" shall be substituted, namely:-
+
+"Chapter IV Registration of Students
+
+19A. Programme of Company Secretaryship Course.- The Company Secretaryship Course shall have two programmes, namely:Executive Programme; and Professional Programme:
+
+Provided that the Institute may review the Programmes mentioned above and modify the same in such manner as may be determined by the Council.
+
+20. Conditions for registration to the Executive Programme.- (1) In order to become eligible for registration as a student of Executive Programme, an applicant, who is an Indian National, shall apply in the appropriate form, along with the student registration fee, annual subscription, if applicable, education fee and such other fees, as may be determined by the Council and shall also produce proof to the satisfaction of the Council that he,-
+
+(i) has passed Senior Secondary Examination (10+2 system) conducted by an examining body constituted by law in India or an examination recognised by the Central Government or State Government or equivalent thereto for the purposes of admission to Bachelor's degree course and has complied with such requirements as may be determined by the Council; and
+
+(ii) has passed Company Secretary Executive Entrance Test (CSEET) conducted by the Institute in such manner, mode and eligibility as may be determined by the Council or any other test or examination recognised or equivalent thereto or exempted therefrom by the Council:
+
+Provided that from the date of the introduction of the Company Secretary Executive Entrance Test under these regulations, all the students of Foundation Programme having valid registrations immediately before the date of introduction of the Company Secretary Executive Entrance Test, may be given such relaxation for number of attempts in the Foundation Programme Examination or allowed to appear in the Company Secretary Executive Entrance Test as may be determined by the Council:
+
+Provided further that the number of attempt or relaxation in the Foundation Programme Examination shall in no case be beyond the date of expiry of his registration.
+
+(2) Notwithstanding anything contained in sub-regulation (1), the Council may allow a person of foreign national to seek registration in the Company Secretaryship Course.
+
+(3) A person making an application for registration shall obtain an identity card and give an undertaking that he shall, as a registered student, conduct himself in a manner befitting the ideals and standards of the profession of Company Secretaries and shall abide by the guidelines and orders of the Council.
+
+(4) Every person whose application for registration is not accepted by the Secretary for the reasons to be recorded thereon in writing shall be entitled for refund of the fee paid by him, subject to deduction of such administrative charges as the Council may determine.
+
+21.
+
+Registration of student and time limit for completing examinations.- (1) A person applying to become a registered student shall be registered in accordance with the provisions of these regulations for a period of five years from the month in which his application, complete in all respects, is accepted by the Secretary for registration.
+
+(2) A registered student shall be required to complete the Executive Programme examination and Professional Programme examination within the registration period referred in sub-regulation
+
+(1).
+
+(3) The registration of a student shall stand terminated on the expiry of said registration period of five years:
+
+Provided that he shall be required to keep the validity of registration renewed in terms of regulations 22 and 23 on payment of such fee as may be determined by the Council in order to complete the course or the training or any other requirement or for claiming exemption or for completing formalities required to be eligible to become a member of the Institute.
+
+22.
+
+Registration de novo and re-registration.- A student whose registration has been terminated under sub-regulation (3) of regulation 21, may within five years of termination of his registration, apply with such education fee, service charge and other fee, as may be determined by the Council subject to the provisions of regulation 25 in the appropriate form to become a registered student de novo, and on his application being accepted by the Secretary, he shall be deemed for all purposes to have been admitted as a fresh registered student except that he shall be entitled to claim exemption, without payment of any exemption fee, from individual subject or group or module of the Executive Programme Examination and Professional Programme Examination, previously secured by him under his former registration with the Institute, as the case may be:
+
+Provided that where a student applies after the expiry of five years period from the date of lapse of registration but has passed Intermediate Course or Executive Programme under any syllabus, he may seek re-registration to Professional Programme on the terms and conditions as may be determined by the Council.
+
+23. Continuation of registration.- A student who has passed Professional Programme examination and whose registration has been terminated under sub-regulation (3) of regulation 21 shall apply to the Institute for continuation of his registration as a student to complete the course or training or any other training related requirements or exemption thereto on payment of such fee as may be determined by the Council, so as to become entitled to be enrolled as member of the Institute.
+
+24.
+
+Status of registered student.- The registration of a person as a student shall neither confer on such person any right of a member nor entitle him to claim any form of membership of the Institute or its Regional Council or Chapter, as the case may be:
+
+Provided that such student may be permitted to borrow books from the library of the Institute, Regional Council or Chapter or participate in the activities of the Institute, its Regional Council or Chapter, as the case may, be subject to such conditions as may be determined by the Council, Regional Council or Chapter, as the case may be.
+
+25.
+
+Fees by registered student.- (1) A person registered as a student shall be required to pay such fee and other subscription as may be determined by the Council which shall be due and payable to the Institute.
+
+(2) All other fees payable by an applicant for any examination or for registration as a student or by a registered student for particular services to be rendered to him shall be such as may be determined by the Council.
+
+26.
+
+Examination requirements.-(1) A registered student shall be required to comply with such conditions relating to examinations as may be determined by the Council.
+
+(2) The Examination Committee or a person authorized by it in this behalf may, by an Order in writing and for reasons to be recorded therein,-
+
+(a) refuse to admit a candidate to an examination; or
+
+(b) admit him to an examination subject to such conditions as it or he may consider to be reasonable in the circumstances of a case; or
+
+(c) expel him from an examination, after he has been admitted to it in the usual course.
+
+(d) take any other action as may be deemed fit.
+
+(3) Notwithstanding the fact that a candidate has obtained the minimum number of marks for passing an examination, the Examination Committee may, for reasons to be recorded in writing, withhold or cancel his result.
+
+(4) Any order made under sub-regulation (2), by the person authorised by the Examination Committee may be reviewed by the Committee and any order passed by the Examination Committee may be reviewed by the Council.
+
+27.
+
+Suspension and cancellation of examination result or registration.- In the event of any misconduct by a registered student or a candidate enrolled for any examination conducted by the Institute, the Council or any Committee formed by the Council in this regard, may suo-moto or on receipt of a complaint, if it is satisfied that, the misconduct is proved after such investigation as it may deem necessary and after giving such student or candidate an opportunity of being heard, suspend or debar him from appearing in any one or more examinations, cancel his examination result, or registration as a student, or debar him from re-registration as a student, or take such action as may be deemed fit.
+
+28.
+
+Teaching and training administration.- (1) The Institute may determine and arrange for imparting teaching or training or both, for such period as may be determined by it, through postal, class room, electronic mode or any other mode.
+
+(2) The Institute for this purpose may establish and operate teaching and training administration by whatever name called, make guidelines and charge such fee as may be determined by the Council.
+
+(3) The Institute may determine the criteria for selection and registration of a trainer or an organisation or an entity for imparting training to the students.
+
+(4) The teaching and training administration shall function under the supervision, control and direction of the Institute."
+
+12.
+
+In the said regulations, for "Chapter IVA Corporate Compliance Executive Certificate – ICSI", the following, "Chapter IVA" shall be substituted, namely:-
+
+"Chapter IVA Institute of Company Secretaries of India (ICSI) - Secretarial Executive Certificate
+
+28A.
+
+Institute of Company Secretaries of India (ICSI) - Secretarial Executive Certificate.- (1) Institute may award Institute of Company Secretaries of India (ICSI) - Secretarial Executive Certificate to a student, who has:-
+
+(i) passed the Executive Programme;
+
+(ii) completed Executive Development Programme or any other equivalent programme as determined by the Council and such Practical Training as is prescribed under these regulations or exempted therefrom; and
+
+(iii) made an application in such manner and mode alongwith such fee as may be determined by the Council.
+
+(2) A student having awarded the Institute of Company Secretaries of India (ICSI) - Secretarial Executive Certificate shall be entitled to use the description "Institute of Company Secretaries of India (ICSI) - Secretarial Executive".
+
+(3) A Institute of Company Secretaries of India (ICSI) - Secretarial Executive may continue to pursue the regular Company Secretaryship course.
+
+(4) A Institute of Company Secretaries of India (ICSI) - Secretarial Executive shall secure such number of Professional Development Credit Hours on annual basis as the Council may determine, for renewal of Institute of Company Secretaries of India (ICSI) - Secretarial Executive Certificate.
+
+(5) The grant of Institute of Company Secretaries of India (ICSI) - Secretarial Executive Certificate shall neither confer on such Secretarial Executive any right of a member, nor entitle him to claim membership of the Institute:
+
+Provided that the Council may grant such recognition to the Institute of Company Secretaries of India (ICSI) - Secretarial Executive as may be determined by it.
+
+(6) Notwithstanding anything contained in this regulation, the Institute may, on fulfilling such conditions as may be determined by the Council, award Institute of Company Secretaries of India
+
+(ICSI) - Secretarial Executive Certificate to the person who is holding Corporate Compliance Executive Certificate.
+
+28B. Status of holder of Corporate Compliance Executive Certificate.- Nothing contained in this chapter shall apply to a holder of Corporate Compliance Executive Certificate.
+
+13.
+
+In the said regulations, for "Chapter VI", the following "Chapters VI" shall be substituted, namely:-
+
+"Chapter VI Examinations
+
+31.
+
+Examination of Company Secretaryship Course.- (1) The Company Secretaryship Examination shall have two stages, namely:-
+
+(i) Executive Programme Examination; and
+
+(ii) Professional Programme Examination:
+
+Provided that the Institute may review the number of stages mentioned above and modify the same in such manner as may be determined by the Council.
+
+(2) The examination shall be conducted and application for such examination be made in the following manner namely:
+
+(i) examination shall be conducted at least once in a year in such manner and at such time and place within India or abroad as the Council may determine;
+
+(ii) the date and place of examination and other information relating thereto may be hosted on the website of the Institute or published in the Journal or in the Student Company Secretary Bulletin;
+
+(iii) application for admission to an examination or for exemption from passing any examination shall be made by the candidate to the Secretary in such Form and with such fees as may be determined by the Council.
+
+32.
+
+Refund of examination fee.- Examination Fee once paid by the student shall not be refunded:
+
+Provided that where a candidate makes an application to the Institute within thirty days from the last date of the examination for considering refund of examination fee on the ground that he was prevented from appearing in the examination on account of circumstances beyond his control and produce documentary proof and information to the satisfaction of the Institute, the Institute may allow refund of fifty per cent. of the examination fee.
+
+33.
+
+Change of examination center, medium and module.- Application for change of examination centre, medium or module shall not ordinarily be entertained but in special circumstances where the application for that purpose is received by the Institute at least thirty days before the date of commencement of the examination, the Institute may allow the change on payment of such fee as may be determined by the Council.
+
+34.
+
+Travel concession.- The Institute may on an application made by the student provide a confirmation about the bonafide of such student to facilitate him to secure any travel concession for appearing in the examination of Institute or for any study tour or research tour of the Institute requiring him to travel from his place of residence to the place of examination or study or research in India.
+
+35.
+
+Enrolment for Executive Programme Examination.- (1) In order to become eligible for enrolment to the Executive Programme examination, the student shall be required to register himself for Executive Programme at least six calendar months prior to the month in which the examination is to commence, and the like, if the examination commences in December, the candidate registered upto and including month of May of that calendar year shall be allowed in such manner and mode alongwith such examination fee and other requirements, as may be determined by the Council:
+
+Provided that a student may be allowed to appear in one group or module of Executive Programme examination as may be determined by the Council, if he is registered as a student at least for a period of four calendar months prior to the month in which the examination is to commence and the like, if the examination commences in December, a candidate registered upto and including July of that year shall be allowed.
+
+The Institute may conduct pre-exam test before the Executive Programme Examination in such manner and mode as may be determined by the Council.
+
+(3) From the date of the notification of these regulations, all the students of the Executive Programme having valid registration prior to date of notification shall be governed by these regulations for all the matters except that for the training provided in Chapter VIB of these regulations.
+
+36.
+
+Course contents of Executive Programme Examination.- (1) The Council shall determine the syllabus, the number of papers and groups or modules for the Executive Programme Examination which shall be published in the Journal or hosted on the website of the Institute.
+
+(2) A candidate shall be declared pass in all groups or modules of the Executive Programme Examination, if:
+
+(i) taken simultaneously, he secures at one sitting, a minimum of forty per cent. marks in each paper in which he is required to appear and fifty per cent. marks in aggregate of all papers put together; or
+
+(ii) appears in all papers other than those individual paper(s) or group(s) or module(s) which are exempted on switchover from previous syllabus to new syllabus as per the scheme determined by the Council and secures at one sitting, a minimum of forty per cent. marks in each paper and fifty per cent. marks in aggregate of all papers put together:
+
+Provided that, where any candidate has passed any module or group under new syllabus on switchover, in that case the provisions of this sub-regulation shall not be applicable.
+
+(3) A candidate shall be declared pass in a group or module, if he secures in one sitting, a minimum of forty per cent. marks in each paper and fifty per cent. marks in the aggregate of all the papers of that group or module.
+
+(4) Where a candidate who has appeared in the papers of a group or module for which he is enrolled and has secured sixty per cent. or more marks in any paper and a minimum of twenty five per cent. marks in each of the remaining papers of the group or module, but has failed in the group or module, shall be exempted from that or those papers in which he secured sixty per cent. or more marks, in any subsequent examination.
+
+(5) Where a candidate who has appeared in all papers of the group or module for which he is enrolled without obtaining exemption in any paper of that group or module and has failed in one paper comprised in the group or module, but secured minimum of sixty per cent. of the total marks of the remaining papers of the module, all such remaining papers shall be exempted in which he secured sixty per cent. or more in total and shall be declared pass in that group or module if he reappears in the paper in which he had failed and secures at least fifty per cent. marks in any subsequent examination.
+
+(6) The exemption shall be deemed to have cancelled where a candidate appears in the exempted paper despite an endorsement to this effect on the Admission Certificate or Admit Card of the examination or the candidate has himself made an application for such cancellation before the last date of enrolment for such examination.
+
+Explanation 1.- For the purposes of this regulation, the marks obtained by a candidate in a paper or papers in which he had obtained exemption on the basis of having secured sixty per cent. or more marks shall not be taken into account for computing his result for the remaining papers of that group or module for any of the subsequent examinations.
+
+Explanation 2.- For the purposes of sub-regulation (5), the exemption shall be applicable only for a group or module with three or more papers.
+
+Explanation 3. – For the purpose of sub-regulation (5), if any candidate has been granted exemption and appears in any of the exempted paper in any subsequent examination or cancels the exemption in any paper by submitting formal request, the exemption for all such papers shall be cancelled automatically without notice.
+
+Explanation 4. - For the purposes of this regulation, where exemption is cancelled the actual marks secured on re-writing paper in the examination shall be taken into account.
+
+(7) A candidate shall be declared as pass with distinction in the Executive Programme Examination if he obtains at one sitting a minimum of sixty per cent. marks in each paper and seventy per cent. marks or above in the aggregate in all groups or modules, without obtaining exemption in any paper.
+
+(8) A candidate shall be declared to have passed the Executive Programme Examination on passing all papers, groups or modules in the manner referred to above.
+
+37.
+
+Exemption from Paper of Executive Programme Examination.- (1) The Council may determine such individual paper or group or module of the Executive Programme Examination from which exemption may be granted to such candidate who has passed such examination of any university or on reciprocal basis of such professional institute or body in India or abroad, as may be recognised by the Council.
+
+(2) The exemption under sub-regulation (1) shall be granted on payment of such exemption fees as may be determined by the Council.
+
+(3) The Council may determine the corresponding individual paper or group or module of the Executive Programme Examination from which a candidate who, on payment of such exemption fees as may be determined by the Council, is admitted as a de novo or re-registered student under regulation 22 shall be exempted on the basis of exemption from individual paper or group or module previously secured by him under his previous registration.
+
+(4) The Council may determine the individual paper or group or module of the Executive Programme Examination from which a candidate shall, on payment of such exemption fees as may be determined by the Council, be exempted on the basis of exemption from individual paper or group or module previously secured by him under the syllabus as notified by the Council.
+
+38.
+
+Admission to Professional Programme.- (1) In order to become eligible for admission to Professional Programme, a registered student shall make an application in such Form as may be determined by the Council, along with student registration fee, annual subscription, education fee and such other fee, as may be determined by the Council and submit a proof to the satisfaction of the Council that he has passed the Executive Programme of the Institute or he has been exempted therefrom.
+
+A registered student making an application for admission shall obtain an identity card and also give an undertaking that he shall, as a registered student, conduct himself in a manner befitting the ideals and standards of the profession of Company Secretaries and shall abide by guidelines and orders of the Institute.
+
+Every registered student whose application for admission is not accepted by the Secretary shall be entitled to a refund of the fee paid by him, subject to deduction of such administrative charges as the Council may determine.
+
+39.
+
+Enrolment for Professional Programme Examination.- (1) In order to become eligible for enrolment to the Professional Programme Examination, such student shall be required to register himself for Professional Programme at least six calendar months prior to the month in which the examination is to commence, and the like, if the examination commences in December, the candidate registered upto and including month of May of that calendar year shall be allowed in such manner and mode alongwith such examination fee and other requirements, as may be determined by the Council:
+
+Provided that a student may be allowed to appear in one group or module of Professional Programme examination as may be determined by the Council, if he is registered as a student at least for a period of four calendar months prior to the month in which the examination is to commence and the like, if the examination commences in December, a candidate registered upto and including July of that year shall be allowed.
+
+The Institute may conduct pre-exam test before the Professional Programme Examination in such manner and mode as may be determined by the Council.
+
+From the date of the notification of these regulations, all the students of the Professional Programme having valid registration prior to date of notification shall be governed by these regulations for all the matters except that for the training provided in Chapter VIB of these regulations.
+
+40.
+
+Course contents of Professional Programme Examination.- (1) The Council shall determine the syllabus, the number of papers and groups or modules for the Professional Programme Examination which shall be published in the Journal or hosted on the website of the Institute.
+
+(2) A candidate shall be declared pass in all groups or modules of the Professional Programme Examination, if:
+
+(i) taken simultaneously, he secures at one sitting, a minimum of forty per cent. marks in each paper in which he is required to appear and fifty per cent. marks in aggregate of all papers put together; or
+
+(ii) appears in all papers other than those individual paper(s) or group(s) or module(s) which are exempted on switchover from previous syllabus to new syllabus as per the scheme determined by the Council and secures at one sitting, a minimum of forty per cent. marks in each paper and fifty per cent. marks in aggregate of all papers put together:
+
+Provided that, where any candidate has passed any module or group under new syllabus on switchover, in that case the provisions of this sub-regulation shall not be applicable.
+
+(3) A candidate shall be declared pass in a group or module, if he secures in one sitting, a minimum of forty per cent. marks in each paper and fifty per cent. marks in the aggregate of all the papers of that group or module.
+
+(4) Where a candidate who has appeared in the papers of a group or module for which he is enrolled and has secured sixty per cent. or more marks in any paper and a minimum of twenty five per cent. marks in each of the remaining papers of the group or module, but has failed in the group or module, shall be exempted from that or those papers in which he secured sixty per cent. or more marks, in any subsequent examination.
+
+(5) Where a candidate who has appeared in all papers of the group or module for which he is enrolled without obtaining exemption in any paper of that group or module and has failed in one paper comprised in the group or module, but secured minimum of sixty per cent. of the total marks of the remaining papers of the module, all such remaining papers shall be exempted in which he secured sixty per cent. or more in total and shall be declared pass in that group or module if he reappears in the paper in which he had failed and secures at least fifty per cent. marks in any subsequent examination.
+
+(6) The exemption shall be deemed to have cancelled where a candidate appears in the exempted paper despite an endorsement to this effect on the Admission Certificate or Admit Card of the examination or the student has himself made an application for such cancellation before the last date of enrolment for such examination.
+
+Explanation 1.-For the purposes of this regulation, the marks obtained by a candidate in a paper or papers in which he had obtained exemption on the basis of having secured sixty per cent. or more marks shall not be taken into account for computing his result for the remaining papers of that group or module for any of the subsequent examinations.
+
+Explanation 2-For the purposes of sub-regulation (5), the exemption shall be applicable only for a group or module with three or more papers.
+
+Explanation 3.–For the purpose of sub-regulation (5), if any candidate has been granted exemption and appears in any of the exempted paper in any subsequent examination or cancels the exemption in any paper by submitting formal request, the exemption for all such papers shall be cancelled automatically without notice.
+
+Explanation 4.-For the purposes of this regulation, where exemption is cancelled, the actual marks secured on re-writing paper in the examination shall be taken into account.
+
+(7) A candidate shall be declared as pass with distinction in the Professional Programme Examination, if he obtains at one sitting a minimum of sixty per cent. marks in each paper and seventy per cent. marks or above in the aggregate in all groups or modules, without obtaining exemption in any paper.
+
+(8) A candidate shall be declared to have passed the Professional Programme Examination upon passing all papers, groups or modules in the manner referred to above.
+
+41.
+
+Exemption from papers of Professional Programme Examination.-(1) The Council may determine such individual paper or group or module of the Professional Programme Examination from which exemption may be granted to such candidate who has passed such examination of any university or on reciprocal basis of such professional institute or body in India or abroad, as may be recognised by the Council.
+
+(2) The exemption under sub-regulation (1) shall be granted on payment of such exemption fees as may be determined by the Council.
+
+(3) The Council may determine the corresponding individual paper or group or module of the Professional Programme Examination from which a candidate who, on payment of such exemption fees as may be determined by the Council, is admitted as a de novo or re-registered student under regulation 22 shall be exempted on the basis of exemption from individual paper or group or module previously secured by him under his previous registration.
+
+(4) The Council may determine the individual paper or group or module of the Professional Programme Examination from which a candidate shall, on payment of such exemption fees as may be determined by the Council, be exempted on the basis of exemption from individual paper or group or module previously secured by him under the syllabus as notified by the Council.
+
+42.
+
+Examination results.- (1) Every candidate shall be informed of the marks obtained in each paper and the result thereof but under no circumstances the marks obtained in individual question or section of a paper shall be furnished. The result-cum-marks statement issued by the Institute in the appropriate format shall only be conclusive proof in case of any dispute.
+
+(2) Candidate may within twenty one days from the declaration of result of his examination apply to the Institute with such fee as may be determined by the Council for verification of marks as to whether answers to each question in any particular paper at any examination have been examined and marked or not.
+
+Explanation 1.- Fee referred to in this sub-regulation is only for verifying whether the candidate's answers in any particular subject or subjects have been examined and valued and not for revaluation of the answers.
+
+Explanation 2.- For the removal of doubt, it is clarified that re-examination of answers shall not be permitted under any circumstances.
+
+(3) Every candidate passing the Professional Programme Examination shall be granted a certificate to that effect in the appropriate form or in electronic mode by the Secretary on payment of such fees as may be determined by the Council.
+
+(4) In case it is found that the result of an examination has been affected by an error or any other instance of that nature, the Examination Committee shall have power to rectify such result in such manner as may be determined by such Committee and to make such declaration as it may consider necessary in that behalf.
+
+43.
+
+Revival of exemption in examination.- If a candidate applies for and is allowed cancellation of exemption in any paper obtained by him earlier or of result of any group or module of an examination passed by him earlier under any of the regulations, he shall not be eligible for revival of such exemption or the benefit of having passed such group or modules, as the case may be, in any subsequent examination.
+
+14.
+
+In the said regulations, regulations 44, 44A, 44AA, 44B, 45, 46 and 46A shall be omitted.
+
+15.
+
+In the said regulations, after "Chapter VIA", the following "Chapter VIB" shall be inserted, namely:-
+
+"Chapter VIB Practical Experience and Training Requirements
+
+46BA. Applicability of provisions of Chapter VIB.- (1) A student who is undergoing training in accordance with the provisions of Chapter VIA or Chapter VII on the date of commencement of the provisions of this Chapter may continue and complete the training in accordance with the provisions of said Chapters:
+
+Provided that such student at his discretion may switchover to training under this Chapter in order to complete his remaining training.
+
+(2) A student who had commenced training in accordance with the provisions of Chapter VIA or Chapter VII but subsequently discontinued the same shall resume his remaining training under Chapter VIA or Chapter VII within six months from the date of commencement of this Chapter:
+
+Provided that such student at his discretion may switchover to training under this Chapter to complete his remaining training.
+
+(3) Where a student on the date of commencement of the provisions of this Chapter has passed the Executive Programme Examination and is willing to undergo practical training of two years in accordance with the provisions of Chapter VIA, he shall commence the practical training within six months from the date of commencement of the provisions of this Chapter.
+
+(4) Where a student who, irrespective of the date of his registration to Executive Programme or Professional Programme, has not commenced his training within the period prescribed in sub-regulation (3), shall undergo practical training in accordance with the provisions of this Chapter.
+
+46BB.
+
+Practical experience and training requirement.- (1) A Student shall complete the following training in such manner and mode as may be determined by the Institute, namely:-
+
+(a) Executive Development Programme (EDP) for one month duration after passing of Executive Programme examination;
+
+(b) Practical training for twenty one months after completion of Executive Development Programme on whole time basis during normal working hours,-
+
+(i) in a company having a company secretary in whole time employment or any other company fulfilling such criteria as may be determined by the Institute; or
+
+(ii) under a Company Secretary in whole-time practice fulfilling such criteria as may be determined by the Institute; or
+
+(iii) in any other body corporate or institution or organisation or entity fulfilling such criteria as may be determined by the Institute;
+
+(c) After passing the Professional Programme Examination, a Corporate Leadership Development Programme (CLDP) for not less than thirty days but not exceeding sixty days as may be determined by the Institute.
+
+46BC. Exemption from Practical training and Executive Development Programme.- (1) A student who claims to have acquired practical knowledge and skills equivalent to Executive Development Programme and Practical training referred to in regulation 46BB, may make an application for exemption from undergoing Executive Development Programme and practical training in accordance with the criteria determined by the Institute.
+
+(2) The Institute may, after considering the application, grant full or partial exemption or conditional exemption or reject the application.
+
+46BD.
+
+Proof of practical training.- (1) A student intending to seek Associate Membership shall make an application to the Institute in such Form as may be determined by the Institute.
+
+(2) Along with the application referred to in sub-regulation (1), the student shall enclose documentary proof to the satisfaction of the Institute that he has undergone the required practical training or has been exempted there from in accordance with these regulations.
+
+46BE. Disciplinary action for misconduct during training including Executive Development Programme and Corporate Leadership Development Programme.- In the event of any misconduct or violation of any code of conduct or any regulation by a student undergoing practical training or Executive Development Programme or Corporate Leadership Development Programme, the Council may suo-moto or on receipt of a complaint, if it is satisfied about the existence of misconduct or violation after such investigation as it may deem necessary and after affording an opportunity of being heard, reprimand the student or cancel or suspend his registration as a student or suspend or debar him from appearing in any one or more examinations of the Institute or direct that any period of training already undergone shall not be reckoned for the purpose of Chapter VIA, VII and this Chapter or declare such student as unfit to be admitted to the Associate Membership of the Institute."
+
+16.
+
+In the said regulations, for "Chapter VIIA", the following "Chapter VIIA" shall be substituted, namely:-
+
+"Chapter VIIA Specialised and Advanced Courses and Examinations
+
+55B.
+
+Specialised and Advanced Courses and Examinations.- The Institute may conduct one or more such specialised and advanced courses as it may consider useful for the professional development of students and members, impart practical or theoretical course, conduct examination for subjects of such specialised and advanced courses and award certificate or diploma in such manner as may be determined by the Council.
+
+55C.
+
+Award of Diploma and Certificate for Specialised and Advanced Course Examination.- A candidate successfully completing the specialised and advanced course shall be awarded a Diploma or Certificate as may be determined by the Council and he shall be entitled to use such description as may be determined by the Council in respect of such Diploma or Certificate.
+
+55D.
+
+Refresher Course.- (1) The Institute shall conduct refresher course and examination thereto for the members in such manner, mode and after such interval as may be determined by the Council.
+
+(2) It shall be mandatory for the member either to undergo such refresher course or to appear in examination conducted by the Institute.
+
+(3) A member may undergo such refresher course as well as appear in examination also:
+
+Provided that the Institute may grant exemption from undergoing refresher course to the member who fulfil such criteria as may be determined by the Council.
+
+(4) A member seeking exemption under the provision of this regulation shall make an application to the Institute in such Form, manner, mode and along with such fees as may be determined by the Council."
+
+17.
+
+In the said regulations, regulations 55E to 55S, (both inclusive), shall be omitted.
+
+18.
+
+In the said regulations, in regulation 100, in clause (e), for the word, brackets and figure "clause (1)", the word, brackets and letter "clause (h)" shall be substituted.
+
+19.
+
+In the said regulations, after regulation 105, the following regulations shall be inserted, namely:-
+
+"105A. Constitution of the Secretarial Standards Committee and the Auditing Standards Committee.- (1) The Council may constitute (a) the Secretarial Standards Committee and (b) the Auditing Standards Committee as it may deem necessary for the purposes of carrying out the functions of the Institute.
+
+(2) A Committee constituted under sub-regulation (1) shall function under the supervision, control and direction of the Council.
+
+(3) A member who has any pecuniary interest or perceived to have pecuniary interest, direct or indirect, in any such matter which is brought up for consideration of the Committee, shall disclose the nature of his interest in such matter and such disclosure shall be recorded in the proceedings of the Committee.
+
+(4) The member referred to sub-regulation (3) shall not take part in any deliberation or decision of the Committee on such matter.
+
+Explanation.- For the purposes of this regulation, "pecuniary interest" means a reasonable likelihood or expectation of appreciable financial gain.
+
+(5) Subject to the provisions of the Act and Regulations, the Committee shall have power to delegate by resolution passed at meeting, any of its duties and functions to the President or Vice-President or Council Member or Secretary or Chief Executive; or any other Officer of the Institute not below the rank of the Director, as may be deemed necessary.
+
+Except provided specifically, the provisions in respect of meetings of the Council and its Committees, notice, adjournment, rescheduling, quorum, consideration of resolution and minutes shall be mutatis mutandis applicable to the meetings of the Committee.
+
+105B. Constitution and Functions of the Academic Committee.- (1) The Council shall constitute an Academic Committee consisting of the members referred to in sub-section (2) of section 17.
+
+(2) To assist the Academic Committee, the Council may appoint such experts as it may deem necessary for the efficient discharge of its functions.
+
+(3) The President shall be the special invitee in the meetings of the Academic Committee.
+
+(4) The members of the Academic Committee shall hold office for such term as may be determined by the Council and any vacancy in the Academic Committee shall be filled by the Council in the same manner as the member whose vacancy occurred was filled.
+
+(5) The members of the Academic Committee shall be entitled to such sitting fee, travelling, conveyance and other allowances as may be determined by the Council:
+
+Provided that Council Member shall not be entitled to any sitting fee.
+
+(6) The Academic Committee shall be entrusted with the task of planning and implementation of all academic activities related to students including:-
+
+(i) scanning of the economic and regulatory environment;
+
+(ii) designing the syllabus and its contents and periodical review and revision thereof;
+
+(iii) designing mode of education;
+
+(iv) assessing and finalisation of the training requirements;
+
+(v) designing the mode of examination and evaluation system;
+
+(vi) recommending necessary changes to the Council as and when required; and
+
+(vii) any other related academic matters:
+
+Provided that the Committee shall regularly monitor the effectiveness of the above and recommend necessary changes to the Council, as and when required;
+
+Provided further that the terms of reference of the Academic Committee may include any other area as may be determined by the Council.
+
+(7) The Academic Committee shall meet as and when required, however, at least one meeting shall be held on half yearly basis and there shall be gap of atleast four months between two meetings.
+
+(8) The quorum of the Academic Committee shall not be less than one third of the total members of the Committee.
+
+(9) A member who has any pecuniary interest or perceived to have any pecuniary interest, direct or indirect, in any matter which is brought up for consideration of the Academic Committee, shall disclose the nature of his interest in such matter and such disclosure shall be recorded in the proceedings of the Committee.
+
+(10) The member referred to in sub-regulation (9), shall not take any part in any deliberation or decision of the Committee on such matter.
+
+(11) The Academic Committee shall work as per the overall policy framework and vision of the Institute as decided by the Council from time to time.
+
+(12) The Council shall have the power to review any decision taken by the Academic Committee in the performance of functions assigned or delegated to it.
+
+(13) The Council shall record the reasons in writing, where it does not accept any recommendation of the Academic Committee and shall disclose the same in the Annual Report of the Institute.
+
+(14) Subject to the provisions of the Act and Regulations, the Academic Committee may delegate by resolution, any of its duty or function to the President or Vice-President or Council Member or Secretary or Chief Executive; or any other Officer of the Institute not below the rank of the Director, as may be deemed necessary and proper."
+
+20.
+
+In the said regulations, in regulation 159, in sub-regulation (1), for the words "rupees twenty" and "rupees ten", the words "rupees two hundred" and "rupees one hundred" shall respectively be substituted.
+
+21.
+
+In the said regulations, in regulation 160.-
+
+(a) in sub-regulation (1) after the words, "by post", the words, "or speed post or courier service or permitted electronic mode or by hand delivery or by leaving it" shall be inserted.
+
+(b) for sub-regulation (2), the following sub-regulation shall be substituted, namely:-
+
+"(2) To Institute.- A notice or documents may be served on the Institute or an officer thereof by sending it to the Institute or the officer at the office of the Institute at National Capital Region by registered post or speed post or courier services or permitted electronic mode or by leaving it at its head office at National Capital Region or other offices of the Institute."
+
+22.
+
+In the said regulations, after regulation 165, the following regulation 165A, shall be inserted, namely:-
+
+"165A. Multidisciplinary Firm.- A member in practice may form multi-disciplinary firm with the member of other professional bodies as prescribed under regulations 168A and 168B in accordance with the regulating guidelines of the Council for functioning and regulation of such multidisciplinary firm.
+
+23.
+
+In the said regulations, in regulation 169.-
+
+(a) in sub-regulation (1), after the words "Company Secretary in practice", the words "or Multidisciplinary Firm" shall be inserted";
+
+(b) in sub-regulation (2), after the words "Company Secretaries in practice", the words "or Multidisciplinary Firm" shall be inserted;
+
+(c) after sub-regulation (2), the following sub-regulation shall be inserted, namely:-
+
+"(2A) An application in such Form as may be determined by the Council, is required to be made to the Institute for obtaining prior approval of the trade or firm name proposed to be used by the company secretary in practice or by a firm of Company Secretaries in practice or Multidisciplinary Firm.".
+
+24.
+
+In the said regulations, for regulation 172, the following regulation shall be substituted, namely:-
+
+"172. Mode of payment of fees.- All fees and other dues payable to the Institute shall be paid or remitted in favour of "The Institute of Company Secretaries of India", through such modes as may be determined by the Council."
+
+25.
+
+In the said regulations, in "SCHEDULE 'A' - REGISTER OF MEMBERS", in clause 6, after sub-clause b, the following sub- clauses shall be inserted, namely:-
+
+"(c) Mobile No. ……………
+
+(d) Tel. No. ………………
+
+(e) Email id. ………………".
+
+26.
+
+In the said regulations, Schedule C, Schedule CC, Schedule CCA, Schedule CCB, Schedule D, Schedule E, Schedule G and Schedule H, shall be omitted.
+
+By Order of the Council, ASHOK KUMAR DIXIT, Officiating Secy.
+
+The Institute of Company Secretaries of India
+
+[ADVT.-III/4/Exty./431/2019 Note : The principal regulations were published in the Gazette of India vide notification ICSI No.710/2
+
+(1), dated the 16th September, 1982 and subsequently amended vide:
+
+(i) Notification No. ICSI/710/2/M (1) dated the 30th March, 1984;
+
+(ii) Notification No. ICSI/710/2/M (1), dated the 3rd May, 1984;
+
+(iii) Notification No. ICSI/710/2/M (1), dated the 30th December, 1985;
+
+(iv) Notification No. ICSI/710/2/M (1), dated the 9th September, 1986;
+
+(v) Notification No. ICSI/710/2/M (1), dated the 23rd February, 1987;
+
+(vi) Notification No. ICSI/710/2/M (1), dated the 9th March, 1987;
+
+(vii) Notification No. ICSI/710/2/M (1), dated the 22nd August, 1988;
+
+(viii) Notification No. ICSI/710/2/M (1), dated the 23rd August, 1988;
+
+(ix) Notification No. ICSI/710/2/M (18), dated the 20th August, 1993 and 24th November, 1993;
+
+(x) Notification No. 710/1/M/(17), dated the 21st February, 1995;
+
+(xi) Notification No. ICSI/710/2/M (20), dated the 28th November, 1996;
+
+(xii) Notification No. ICSI/710/2/M (26), dated the 10th August, 2001;
+
+(xiii) Notification No.710/1/(M)/1, dated the 3rd May, 2006;
+
+(xiv) Notification No.710/1/(M)/1, dated the 26th June, 2006;
+
+(xv) Notification No. 710/1(M)/1, dated the 23rd July, 2010;
+
+(xvi) Notification No. 710/1(M)/2, dated the 4th June, 2012.
+
+(xvii) Notification No. 710/1(M)/1, dated the 1st April, 2014. and Published by the Controller of Publications, Delhi-110054.
+
+ALOK KUMAR
