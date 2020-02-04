@@ -1,0 +1,25 @@
+---
+title: "Incorporating Policy Condition under HSN Code 4810 of Chapter 48 of Schedule Policy I Import Policy ITC HS 2017"
+gazette_id: "CG-DL-E-04022020-215898 Download: gvGazette$ctl12$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Department of Commerce"
+notification_no: "S.O. 486(E)"
+published: "2020-02-04"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-31.215898"
+---
+
+# Incorporating Policy Condition under HSN Code 4810 of Chapter 48 of Schedule Policy I Import Policy ITC HS 2017
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department of Commerce) (DIRECTORATE GENERAL OF FOREIGN TRADE) NOTIFICATION New Delhi, the 31st January, 2020 No. 45 /2015-2020 Subject:— Incorporating Policy Condition under HSN Code 4810 of Chapter 48 of Schedule Policy I (Import Policy), ITC(HS), 2017.
+
+S.O. 486(E):—In exercise of powers conferred by Section 3 of FT (D&R) Act, 1992, read with paragraph 1.02 and 2.01 of the Foreign Trade Policy, 2015-2020, as amended from time to time, the Central Government hereby introduces a Policy Condition for items under EXIM Code 4810 of Chapter 48 of ITC
+
+(HS), 2017, Schedule – I (Import Policy).
+
+Exim Code Item Description Import Policy Policy Condition 4810 13 10 Imitation art paper Free Import of Stock Lot is Prohibited 4810 13 20 Art paper Free Import of Stock Lot is Prohibited 4810 13 30 Chrome paper or paper board Free Import of Stock Lot is Prohibited 4810 13 90 Other Free Import of Stock Lot is Prohibited 4810 14 10 Imitation art paper Free Import of Stock Lot is Prohibited 4810 14 20 Art paper Free Import of Stock Lot is Prohibited 4810 14 30 Chrome paper or paper board Free Import of Stock Lot is Prohibited 4810 14 90 Other Free Import of Stock Lot is Prohibited 4810 19 10 Imitation art paper Free Import of Stock Lot is Prohibited 4810 19 20 Art paper Free Import of Stock Lot is Prohibited 4810 19 30 Chrome paper or paper board Free Import of Stock Lot is Prohibited 4810 19 90 Other Free Import of Stock Lot is Prohibited 4810 22 00 Light-weight coated paper Free Import of Stock Lot is Prohibited 4810 29 00 Other Free Import of Stock Lot is Prohibited Free Import of Stock Lot is Prohibited 4810 31 00 Bleached uniformly throughout the mass and of which more than 95% by weight of the total fibre content consists of wood fibres obtained by a chemical process, and weighing 150 g/m2 or less Free Import of Stock Lot is Prohibited 4810 32 00 Bleached uniformly throughout the mass and of which more than 95% by weight of the total fibre content consists of wood fibres obtained by a chemical process, and weighing more than 150 g/m2 4810 39 10 Insulating paper Free Import of Stock Lot is Prohibited 4810 39 20 Electric insulating press board Free Import of Stock Lot is Prohibited 4810 39 30 Insulation boards (homogenous) Free Import of Stock Lot is Prohibited 4810 39 90 Other Free Import of Stock Lot is Prohibited 4810 92 00 Multi-ply Free Import of Stock Lot is Prohibited 4810 99 00 Other Free Import of Stock Lot is Prohibited Effect of the Notification: Import policy of Stock Lot under HSN Code 4810 of Chapter 48 of ITC(HS), 2017 is revised from 'Free' to 'Prohibited'.
+
+This issues with the approval of Minister of Commerce & Industry.
+
+[F. No. M-5975/AM-04/PC-2(A)/Vol. II/E-5984] AMIT YADAV, Director General of Foreign Trade & Ex- officio Addl. Secy.
+
+Note : The principal notification No. 36/2015-2020, dated the 17th January, 2017 was published in the Gazette of India, Extraordinary vide number S.O. 172 (E), dated the 17th January, 2017 and amended vide notification No. 27/2015-2020, dated the 21st August, 2018 was published in the Gazette of India, and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
