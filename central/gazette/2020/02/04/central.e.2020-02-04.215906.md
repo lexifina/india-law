@@ -1,0 +1,91 @@
+---
+title: "Whereas the Central Government has notified the Jute Packaging Materials JPM Compulsory Use In Packing Commodities Act"
+gazette_id: "CG-DL-E-04022020-215906 Download: gvGazette$ctl09$imgbtndownload"
+ministry: "Ministry of Textiles"
+department: "Office of the Jute Commissioner"
+notification_no: "S.O. 533(E)"
+published: "2020-02-04"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-04.215906"
+---
+
+# Whereas the Central Government has notified the Jute Packaging Materials JPM Compulsory Use In Packing Commodities Act
+
+MINISTRY OF TEXTILES (OFFICE OF THE JUTE COMMISSIONER) NOTIFICATION Kolkata, the 15th January, 2020 S.O. 533(E).—Whereas the Central Government has notified the Jute Packaging Materials (JPM) (Compulsory Use In Packing Commodities) Act, 1987 (No. 10 of 1987), dated 9th May 1987; to provide for the compulsory use of jute packaging material in the supply and distribution of certain commodities in the interests of production of raw jute and jute packaging material, and of persons engaged in the production thereof, and for matters connected therewith.
+
+And whereas, the Central Government, in exercise of powers conferred upon it vide Section 3 of the JPM Act, notifies the commodity or class of commodities or such percentage thereof, as may be specified in the order, to be packed for the purposes of its supply or distribution, in jute packaging material of required specification, as may be specified in the order.
+
+And further whereas, the Jute Commissioner has been empowered to issue orders under Section 4 (2) of the Jute & Jute Textiles Control Order 2016, with an objective of implementation of the JPM Act 1987 and any other directive of the Central Government; to direct any importers, processors, traders of raw jute and jute textiles to mark or print or brand such quantities of such specifications of jute textiles as may be specified in the order for such implementation.
+
+In view of the above and to ensure proper implementation of the JPM Act of 1987, and as a counter measure to impose checks and restrictions on use of non-eligible category of jute bags for packaging of specified class or classes of commodities and percentage thereof, as notified by the Central Government from time to time; the Jute Commissioner in pursuant to Clause 4 (2) of the Jute & Jute Textiles Control Order 2016 and in supersession of Notification No. S.O. 1724 (E) dated 23-05-2017, hereby directs all the manufacturers, importers, processors, traders of jute and jute textiles to mark/ print/ brand the items of jute and jute textiles as mentioned under Column (2) of the table below with the corresponding words as specified under Column (3):Description of Jute Textiles Words to be marked / printed / branded Sl.
+
+No.
+
+(a) ―Manufactured in India‖ on the body of the jute
+
+1.
+
+Every jute bag/sacking manufactured fully from Indian jute
+
+(a) ―Manufactured in India‖ and name of the bag / sacking.
+
+2.
+
+Every packed bale of Indian jute products manufactured fully from Indian jute. manufacturer on the pack sheet of the bale
+
+3.
+
+Every imported jute bag /sacking
+
+(a) ―Jute Bag / sacking (as may be applicable) made
+
+(a) ―Cloth made in – (Country of Origin)‖, every six in ———- (Country of Origin)‖
+
+4.
+
+Imported jute sacking cloth/fabric (in cut or roll form) feet along the length on the cloth / fabric.
+
+5.
+
+Every imported packed bale containing raw jute or jute products
+
+(a) ―Made in ————— (Country of Origin)‖
+
+(b) Name & Address of the Importer
+
+6.
+
+Imported jute yarn.
+
+(a) ―Made in ————- Country of Origin‖
+
+(b) Name & Address of the Importer on the outside
+
+(a) ―Manufactured in India (from imported jute)‖ on covers.
+
+7.
+
+Every bag manufactured in India, fully or partially from imported jute one side of the jute bag / sacking.
+
+8.
+
+Jute Sacking Cloth manufactured in India, fully or partially from imported Jute. ―Manufactured in India (From IMPORTED Jute)‖ every six feet along the length on the cloth / fabric.
+
+Jute Commissioner further directs all the manufacturers / suppliers / traders / importers of jute and jute textiles to abide by the following stipulations:-
+
+(a) Printing shall be made with indelible ink and total Marking/ Printing / branding size shall be at least 2 inches per letter,
+
+(b) In every imported jute bag / sacking/cloth of below 25 inches in width, there should be four consecutive RED warp threads, at a distance of about 150 mm from one of the edge of the jute bag / sacking / cloth, and four consecutive GREEN warp threads at a distance of about 30 cm from the other edge of the jute bag / sacking / cloth.
+
+(c) The above marking/ printing/ branding shall be applicable to every spectrum starting from Import, production, Trading, and Marketing across all the sectors.
+
+(d) Every bag or sacking or jute textile cloth or fabric shall be branded at the point of origin i.e. in production stage, whereas for raw jute, the marking/ printing /branding shall be made at the baling stage.
+
+(e) Suitable action as per provision of Jute and Jute Textiles Control Order, 2016 will be taken against manufacturers / traders / suppliers or any other person(s) associated with the business of raw jute and jute textiles for any violations of this order.
+
+(f) The aforesaid printing /marking/branding instructions shall not be applicable for jute bags meant for export purposes; i.e. for use/meant for use outside the territory of India. However, the manufacturers, processors, traders, suppliers, exporters or any other person(s) associated in the supply chain of such bags, should ensure that these bags are not used /meant to be used/supplied for use inside the territory of India, failing which suitable action against such person(s) / firm(s)/companies or any other agencies involved will be taken as per provisions under Section 7 of the Essential Commodities Act, 1955 (10 of 1955).
+
+The aforesaid order will be valid until further order(s).
+
+[F. No. Jute (T)-6/1/178/GN/2019-I] MOLOY CHANDAN CHAKRABORTTY, Jute Commissioner and Published by the Controller of Publications, Delhi-110054.
+
+ALOK KUMAR
