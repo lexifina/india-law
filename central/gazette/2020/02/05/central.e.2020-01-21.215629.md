@@ -1,0 +1,31 @@
+---
+title: "WHEREAS a request has been received from ICAR Indian Veterinary Research Institute Izatnagar Bareilly"
+gazette_id: "CG-DL-E-05022020-215629 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "MINISTRY OF FISHERIES, ANIMAL HUSBANDRY AND DAIRYING"
+department: "Department of Animal Husbandry and Dairying"
+notification_no: "S.O. 283(E)"
+published: "2020-02-05"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-21.215629"
+---
+
+# WHEREAS a request has been received from ICAR Indian Veterinary Research Institute Izatnagar Bareilly
+
+MINISTRY OF FISHERIES, ANIMAL HUSBANDRY AND DAIRYING (Department of Animal Husbandry and Dairying) NOTIFICATION New Delhi, the 20th January, 2020 S.O. 283(E).—WHEREAS a request has been received from ICAR- Indian Veterinary Research Institute, Izatnagar, Bareilly, Uttar Pradesh for inclusion of the Bachelor of Veterinary Science and Animal Husbandry degree granted by it in respect of ICAR- Indian Veterinary Research Institute, Izatnagar, Bareilly in the state of Uttar Pradesh, in the First Schedule of the Indian Veterinary Council Act, 1984 (52 of 1984);
+
+AND WHEREAS the Advisory Committee of experts constituted under rule 16 of the Veterinary Council of India (Procedure for recognition and de-recognition of Veterinary Colleges and Veterinary Qualifications) Rules, 2017 has considered and recommended for inclusion of the said degree granted by ICAR- Indian Veterinary Research Institute, Izatnagar in the First Schedule;
+
+AND WHEREAS the Central Government and the Veterinary Council of India had granted permission to ICAR- Indian Veterinary Research Institute, Izatnagar to admit students from the academic year 2015-16 and continuation of teaching programme for the First, Second , Third and Fourth year;
+
+NOW, THEREFORE, in exercise of the powers conferred by sub-section (2) of section 15 of the Indian Veterinary Council Act, 1984 (52 of 1984), read with sub-rule (5) of rule 10 of the Veterinary Council of India (Procedure for recognition and de-recognition of Veterinary Colleges and Veterinary Qualifications) Rules, 2017, the Central Government, after consulting the Veterinary Council of India, hereby makes the following further amendment in the First Schedule to the said Act, namely:—
+
+In the First Schedule to the Indian Veterinary Council Act, 1984, under sub-heading ―Degrees‖, after serial number 86 and the entries relating thereto, the following serial number and entries shall be inserted, namely:—
+
+B.V.Sc. & A.H.
+
+Bachelor of Veterinary Science and Animal Husbandry ―87. ICAR- Indian Veterinary Research Institute, Bareilly in the State of Uttar Pradesh (This qualification shall be a recognised veterinary qualification only when granted on or after the 25th June 2020)‖.
+
+[F. No. K-12052-6/5/2018-LH] UPAMANYU BASU, Jt. Secy.
+
+Note : The First Schedule to the Indian Veterinary Council Act, 1984 was subsequently amended by notification published in the Gazette of India, Extraordinary, vide number - S.O. 2841(E) , dated the 12th October, 1990 S.O. 989 (E), dated the 29th April 2010 S.O. 823(E), dated the 20th April, 1993 S.O. 570 (E), dated the 15th March 2011 S.O. 1165(E), dated the 4th April, 1995 S.O. 2315 (E), dated the 05th October 2011 S.O. 3252(E), dated the 13th November, 1995 S.O. 33 (E), dated the 28th December 2012 S.O. 1411(E), dated the 19th April, 1996 S.O.2312 (E), dated the 29th July, 2013.
+
+S.O. 268(E), dated the 28th January, 1997 S.O. 2662(E), dated the 30th August, 2013 S.O. 2082(E), dated the 15th October 1998 S.O. 1022(E), dated the 02nd April, 2014 S.O. 33(E), dated the 12th January, 2000 S.O 2518 (E), dated the 25th September, 2014 S.O. 122(E), dated the 13th February, 2001 S.O. 3007 (E), dated the 27th November, 2014 S.O. 342(E), dated the 28th March, 2002 S.O. 3318 (E), dated the 30th December, 2014 S.O. 791 (E), dated the 25th July 2002 S.O 577(E), dated the 20th February 2015 S.O. 836(E), dated the 8th August 2002 S.O.2154 (E), dated the 7th August, 2015 S.O. 1231 (E), dated the 26th November, 2002 S.O. 2395 (E), dated the 3rd September, 2015 S.O. 1371(E), dated the 27th December, 2002 S.O. 3416(E), dated 16th December 2015 S.O. 323 (E), dated the 26th March 2000 S.O.1096 (E) dated 15th March 2016 S.O. 868 (E), dated the 31st July, 2003 S.O. 198(E) dated 20th January 2017 S.O. 1226(E), dated the 22nd October, 2003 S.O. 2858 (E) dated 1st September 2017 S.O. 34 (E), dated the 12th January, 2006 S.O. 4233 (E) dated the 31st August, 2018 S.O. 1442 (E), dated the 6th September, 2006 S.O. 43 (E) dated the 04th January , 2019 S.O. 81(E), dated the 25th January, 2007 S.O. 1145 (E) dated the 07th March, 2019 S.O. 1052 (E), dated the 29th June, 2007 S.O. 1146 (E) dated the 07th March, 2019 S.O. 364 (E), dated the 19th February 2008 S.O. 1296 (E) dated the 08th March, 2019 and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
