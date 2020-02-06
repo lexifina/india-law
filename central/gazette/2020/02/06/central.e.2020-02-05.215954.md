@@ -1,0 +1,17 @@
+---
+title: "In exercise of the powers conferred by section 11 of the National Investigation Agency Act,"
+gazette_id: "CG-DL-E-06022020-215954 Download: gvGazette$ctl11$imgbtndownload"
+ministry: "Ministry of Home Affairs"
+department: "Not Applicable"
+notification_no: "G.S.R. 565(E)"
+published: "2020-02-06"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-05.215954"
+---
+
+# In exercise of the powers conferred by section 11 of the National Investigation Agency Act,
+
+MINISTRY OF HOME AFFAIRS (CTCR DIVISION) NOTIFICATION New Delhi, the 31st January, 2020 G.S.R. 565(E).—In exercise of the powers conferred by section 11 of the National Investigation Agency Act, 2008 (34 of 2008), the Central Government in supersession of the notifications of the Government of India, published in the Gazette of India, Extraordinary, Part-II, Section 3, Sub-section (ii), vide number S.O. 2159 (E), dated the 1st September, 2010 and S.O. 1661 (E), dated the 29th April, 2019, except as respects things done or omitted to be done before such supersession, the Central Government in consultation with the Hon'ble Chief Justice of the High Court of Himahcal Pradesh, hereby designates the Court of District & Sessions Judge, Shimla as the Special Court for the purpose of sub-section (1) of section 11 of the above said Act for the trial of the Scheduled Offences investigated by the National Investigation Agency.
+
+The jurisdiction of the Special Court mentioned above shall extend throughout the State of Himachal Pradesh.
+
+[F. No. 11011/06/2019/NIA (Part-I)] PIYUSH GOYAL, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
