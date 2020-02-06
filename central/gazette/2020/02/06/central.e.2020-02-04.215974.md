@@ -1,0 +1,87 @@
+---
+title: "In pursuance of notification No 60 2015 Customs N T published vide number"
+gazette_id: "CG-DL-E-06022020-215974 Download: gvGazette$ctl13$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "S.O. 563(E)"
+published: "2020-02-06"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-04.215974"
+---
+
+# In pursuance of notification No 60 2015 Customs N T published vide number
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS) (DIRECTORATE OF REVENUE INTELLIGENCE) NOTIFICATION New Delhi, the 3rd February 2020 No. 14/2020-Customs (N.T./CAA/DRI) S.O. 563(E).— In pursuance of notification No. 60/2015-Customs (N.T.), published vide number G.S.R. 453(E), dated 4th June 2015 in Gazette of India, Extra-ordinary, Part-II, section 3, sub-section (i), and as amended by notification No. 133/2015-Customs (N.T.), published vide number G.S.R. 916(E) dated 30th of India, Ministry of Finance, Department of Revenue, under clause (a) of section 152 of the Customs Act, 1962 (52 of 1962), the Director General, Revenue Intelligence, hereby appoints officers mentioned in column (5) of the Table below to act as a common adjudicating authority to exercise the powers and discharge the duties conferred or imposed on officers mentioned in column (4) of the said Table in respect of noticees mentioned in column (2) of the said Table for the purpose of adjudication of show cause notices mentioned in column (3) of the said Table, namely:TABLE Sl.
+
+No.
+
+Name of Noticee (s) and Address Name of Adjudicating Authorities Show Cause Notice Number and Date F. No. DRI/MZU/ C/Int-52/2019 dated 27.08.2019.
+
+Principal Commissioner of Customs (Nhava Sheva-III), Jawaharlal Nehru Custom House, Raigad.
+
+Common Adjudicating Authority appointed
+
+1.
+
+M/s Jupiter Stampings, F-216(A), Road No. 10, VKIA, Jaipur, Rajasthan-302013 and 3 others.
+
+F. No. DRI/MZU/ C/Int-51/2019 dated 26.08.2019.
+
+Principal Commissioner of Customs (Nhava Sheva-III), Jawaharlal Nehru Custom House, Raigad.
+
+Additional Director General (Adjudication), Directorate of Revenue Intelligence, Mumbai.
+
+(For Sl. No. 1 & 2 of the Table)
+
+2.
+
+M/s Evergreen Metal Works, 13, 4th Phase, Bommasandra Industrial Area, Hebbagodi, Bengaluru-560099 and 3 others.
+
+Erstwhile Commissioner of Customs (Export Promotion), New Custom House, Ballard Estate, Mumbai.
+
+Additional Director General (Adjudication), Directorate of Revenue Intelligence, Mumbai.
+
+Erstwhile Commissioner of Customs (Export Promotion), Jawahar Custom House, Nhava Sheva, Raigad.
+
+F. No. DRI/MZU/ D/1/2000 dated 16.07.2003.
+
+(De Novo proceedings ordered by CESTAT vide Order No.
+
+A/8938589393/17/CB dated
+
+08.08.2017)
+
+3.
+
+1. M/s Troika Exports 6th Floor, 607, Embassy Centre, Nariman Point, Mumbai-400021,
+
+2. Shri Ramesh Jhaveri, 603, Jeevan Vihar, Manav Mandir Road, Walkeshwar, Mumbai-400006,
+
+3. M/s Shalin Enterprises, Gala No. A/4, Sadguru Compound, Land Survey No. 151, Hissa No. 7, Village Rehnal, Bhiwandi, Thane,
+
+4. Shri Manharlal Hukmichand Vora, 801, Raheja Centre, Nariman Point, Mumbai-400021,
+
+5. M/s Nippon Bearings India, Gala No. A/4, Sadguru Compound,
+
+(ii) Land Survey No. 151, Hissa No. 7, Village Rehnal, Bhiwandi, Thane,
+
+6. Shri Ashwin Mehta, B-305, Chandralok Manavmandir Road, Malabar Hill, Mumbai-400006,
+
+7. Shri Nilesh V.
+
+Joshi, Block No. 6, 3rd Floor, Sundaram Apartments, Royal Park, University Road, Rajkot,
+
+8. M/s Shravan Enterprises, 2373, Gopinath Building, Shradhanand Marg, Delhi-110006.
+
+4.
+
+M/s Gupta Brothers, No. 121, Broadway, Chennai and 2 others.
+
+F. No. DRI/HQ-CI/ 50D/Int-12/2019CI dated 02.01.2020.
+
+Principal Commissioner/ Commissioner of Customs (Chennai-II), Custom House, Chennai.
+
+Principal Commissioner/ Commissioner of Customs (ChennaiII), Custom House, Chennai.
+
+Principal Commissioner/ Commissioner of Customs (Nhava Sheva-V), Jawaharlal Nehru Custom House, Raigad.
+
+[F. No. DRI/HQ-CI/50D/CAA-2/2020-CI] JASPREET SINGH SUKHIJA, Jt. Director and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
