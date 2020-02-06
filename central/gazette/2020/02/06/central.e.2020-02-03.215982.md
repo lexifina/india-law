@@ -1,0 +1,53 @@
+---
+title: "In exercise of the powers conferred by sub section 1 and sub section 2 of section"
+gazette_id: "CG-DL-E-06022020-215982 Download: gvGazette$ctl08$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "Not Applicable"
+notification_no: "G.S.R. 80(E)"
+published: "2020-02-06"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-03.215982"
+---
+
+# In exercise of the powers conferred by sub section 1 and sub section 2 of section
+
+MINISTRY OF CORPORATE AFFAIRS NOTIFICATION New Delhi, the 3rd February, 2020 G.S.R. 80(E).—In exercise of the powers conferred by sub-section (1) and sub-section (2) of section 469 read with section 230 of the Companies Act, 2013 (18 of 2013), the Central Government hereby makes the following rules further to amend the National Company Law Tribunal Rules, 2016, namely:-
+
+1. Short title and commencement.‐(1) These rules may be called the National Company Law Tribunal (Amendment) Rules, 2020.
+
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2. In the National Company Law Tribunal Rules, 2016 (hereinafter referred to as the principal rules), after rule 80, the following rule shall be inserted, namely:-
+
+"80A. Application under section 230. – An application under sub-section (12) of section 230 may be made in Form NCLT-1 and shall be accompanied with such documents as are mentioned in Annexure B.".
+
+3. In the principal rules, in the SCHEDULE OF FEES, after S.No.22 and the entries relating thereto, the following shall be inserted, namely:Rs. 5,000"
+
+"22A.
+
+Sec 230(12) Application in cases of takeover offer of companies which are not listed.
+
+(i)
+
+4. In the principal rules, in Annexure-A, under the heading Form No. NCLT.1, after the figure '80', the figure and letter "80A" shall be inserted.
+
+5. In the principal rules, in Annexure-B, after S.No.12 and the entries relating thereto, the following S.No. shall be inserted, namely:-
+
+"12A.
+
+Sec 230(12) Application in cases of takeover offer of companies which are not listed.
+
+1.Affidavit verifying the petition
+
+2.
+
+Memorandum of appearance with copy of the Board's Resolution or the executed vakalatnama, as the case may be.
+
+3. Documents in support of the grievance against the takeover.
+
+4.
+
+Any other relevant document."
+
+[F. No. 1/30/2013 -CL.V] K.V.R. MURTY, Jt. Secy.
+
+Note : The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, sub-section (i) vide number G.S.R. 716(E), dated the 21st July, 2016 and amended vide notification number G.S.R. 1159(E) dated the 20th December , 2016 and vide notification number G.S.R. 840 (E) dated 5th July, 2017 and vide notification number G.S.R 29(E) dated 15th January,2019 and vide notification number G.S.R 351(E) dated 08th May, 2019. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
