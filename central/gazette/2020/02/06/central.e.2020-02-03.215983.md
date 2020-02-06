@@ -1,0 +1,17 @@
+---
+title: "In exercise of the powers conferred by sub section 3 of section 1 of the Companies Act"
+gazette_id: "CG-DL-E-06022020-215983 Download: gvGazette$ctl06$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "Not Applicable"
+notification_no: "S.O. 525(E)"
+published: "2020-02-06"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-03.215983"
+---
+
+# In exercise of the powers conferred by sub section 3 of section 1 of the Companies Act
+
+MINISTRY OF CORPORATE AFFAIRS NOTIFICATION New Delhi, the 3rd February, 2020 S.O. 525(E).—In exercise of the powers conferred by sub-section (3) of section 1 of the Companies Act, 2013 (18 of 2013), the Central Government hereby appoints the 3rd day of February, 2020 as the date on which the provisions of sub-sections (11) and (12) of section 230 of the said Act shall come into force.
+
+[F. No. 2/31/CAA-2013-CL-V(Part)] K. V. R. MURTY, Jt. Secy. and Published by the Controller of Publications, Delhi-110054.
+
+MANOJ KUMAR VERMA VERMA
