@@ -1,0 +1,53 @@
+---
+title: "In exercise of the powers conferred by clause d and clause e of sub section"
+gazette_id: "CG-DL-E-07022020-216016 Download: gvGazette$ctl14$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Economic Affairs"
+notification_no: "G.S.R. 95(E)"
+published: "2020-02-07"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-07.216016"
+---
+
+# In exercise of the powers conferred by clause d and clause e of sub section
+
+MINISTRY OF FINANCE (Department of Economic Affairs) NOTIFICATION New Delhi, the 7th February, 2020 G.S.R. 95(E).—In exercise of the powers conferred by clause (d) and clause (e) of sub-section (2) of section 24 of the Coinage Act, 2011 (11 of 2011), the Central Government hereby makes the following rules, namely:—
+
+1. Short title and commencement.-(1) These rules may be called the Printing of One Rupee Currency Notes Rules, 2020.
+
+(2) They shall come into force from the date of their publication in the Official Gazette.
+
+2. Printing.-The One Rupee notes shall be printed at the note printing presses for issue under the authority of Government of India for circulation.
+
+3. Dimensions and compositions of One Rupee Currency Note.-The One Rupee Currency Notes shall conform to the dimensions and composition as specified in the First Schedule.
+
+4. Design.-The design of One Rupee Currency Notes shall be as specified in the Second Schedule.
+
+5. Standard weight and remedy allowed.-The standard paper weight and remedy (tolerance) allowed in printing of One Rupee Currency Notes shall be as specified in the Third Schedule.
+
+FIRST SCHEDULE (see rule 3) Shape and Size Paper Composition Denomination of the Note One Rupee Currency Note Rectangular
+
+9.7 x 6.3 cms 100 per cent. (Cotton) Rag Content.
+
+Weight of Paper:- 90 GSM (Grams per Square Meter) Thickness of Paper:- 110 microns Multi tonal Watermarks:-
+
+(i) Ashoka Pillar in the window without words „ ‟
+
+(ii) Hidden Numeral „1‟ in the centre
+
+(iii) Hidden Word „‟ vertically arranged on the right hand side.
+
+SECOND SCHEDULE (see rule 4)
+
+(1) Obverse:-
+
+(a) It contains the words „ ‟ above the words "Government of India" with the bilingual signature of Shri Atanu Chakraborty, Secretary, Ministry of Finance and with the replica of New Rupee One coin with „₹‟ symbol of 2020 issued with ' ‟ and capital Inset letter 'L' in numbering panel.
+
+(b) The numbering shall be in black at right hand bottom portion of the Note in ascending size of numerals from left to right, while the first three alphanumeric characters (prefix) remains constant in size.
+
+(2) Reverse: - It contains the words „ ‟ above the words "Government of India" with the year 2020 on the representation of the One Rupee coin with „₹‟ symbol having design of grains depicting the agricultural dominance of the country and the surrounding design consist of picture of „Sagar Samrat‟ the oil exploration platform and with the authentic rendering of value in fifteen Indian languages in language panel with the year figure shown vertically between "Sagar Samrat" and language panel in international number.
+
+(3) Overall Colour Scheme: - The colour of One Rupee Currency Note shall be predominantly pink green on observe and reverse in combination with others.
+
+THIRD SCHEDULE (see rule 5) Denomination Parameter Standard weight Remedy (Tolerance) allowed +/- 3 GSM Rupee One Grammage of Paper Used 90 GSM (Grams per Square Meter) Thickness of Paper 110 Microns +/- 5 Microns
+
+[F. No. 3/29/2019-Cy] RAJIV RANJAN SINGH, Under Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
