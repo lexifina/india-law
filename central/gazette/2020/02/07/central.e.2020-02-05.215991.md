@@ -1,0 +1,119 @@
+---
+title: "In exercise of the powers conferred by the proviso to article 309 of the Constitution and in supersession of the Income Tax"
+gazette_id: "CG-DL-E-07022020-215991 Download: gvGazette$ctl06$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "G.S.R. 88(E)"
+published: "2020-02-07"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-05.215991"
+---
+
+# In exercise of the powers conferred by the proviso to article 309 of the Constitution and in supersession of the Income Tax
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF DIRECT TAXES) NOTIFICATION New Delhi, the 31st January, 2020 G.S.R. 88(E).—In exercise of the powers conferred by the proviso to article 309 of the Constitution and in supersession of the Income Tax Department Administrative Officers (Group 'A' and 'B' Posts) Recruitment Rules, 2004, in so far as they relate to the posts of Senior Administrative Officer and Administrative Officer Grade-II, except as respects things done or omitted to be done before such supersession, the President hereby makes the
+
+(i) following rules regulating the method of recruitment to the posts of Principal Administrative Officer and Administrative Officer Grade-II in the Ministry of Finance, Department of Revenue, Central Board of Direct Taxes, namely:-
+
+1.
+
+Short title and commencement.—(1) These rules may be called the Ministry of Finance, Department of Revenue, Central Board of Direct Taxes, Administrative Officer (Group 'A' and Group 'B', Gazetted Posts) Recruitment Rules, 2020.
+
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2.
+
+Number of posts, classification and level in the pay matrix.— The number of the posts, their classification and level in the pay matrix attached thereto shall be as specified in columns (2) to (4) of the Schedule annexed to these rules.
+
+3.
+
+Method of recruitment, age-limit, qualifications, etc.—The method of recruitment, age-limit, qualifications and other matters relating thereto shall be as specified in columns (5) to (13) of the said Schedule.
+
+4.
+
+Disqualification.— No person,-
+
+(a) who has entered into or contracted a marriage with a person having a spouse living; or
+
+(b) who, having a spouse living, has entered into or contracted a marriage with any person, shall be eligible for appointment to the said posts :
+
+Provided that the Central Government may, if satisfied that such marriage is permissible under the personal law applicable to such person and the other party to the marriage and that there are other grounds for so doing, exempt any person from the operation of this rule.
+
+5.
+
+Power to relax.—Where the Central Government is of the opinion that it is necessary or expedient so to do, it may, by order and for reasons to be recorded in writing and in consultation with Union Public Service Commission, relax any of the provisions of these rules with respect to any class or category of persons.
+
+6.
+
+Saving.—Nothing in these rules shall effect reservation, relaxation of age-limit and other concessions required to be provided for the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Ex-servicemen and any other special categories of persons, in accordance with the orders issued by the Central Government from time to time in this regard.
+
+SCHEDULE Name of the post Number of post Classification Level in the Whether Selection Pay Matrix or Non-Selection post Selection Level 11 (Rs. 67700-208700)
+
+1. Principal Administrative Officer General Central Service, Group 'A', Gazetted, Ministerial 21* *Subject to variation dependent on workload.
+
+Period of probation, if any Age limit for direct recruits Educational and other qualifications required for direct recruits Whether age and educational qualifications prescribed for direct recruits will apply in the case of promotees Not Applicable Not Applicable Two Years Not Applicable In case of recruitment by promotion or deputation or absorption, grades from which promotion or deputation or absorption to be made.
+
+Method of recruitment : whether by direct recruitment or by promotion or by deputation or absorption and percentage of the posts to be filled by various methods.
+
+By promotion.
+
+Promotion :
+
+Administrative Officer, Grade-II with six years regular service in the grade and have successfully completed two to four weeks training as specified by the Central Board of Direct Taxes, Department of Revenue.
+
+Note : Where juniors who have completed their qualifying or eligibility service are being considered for promotion, their seniors would also be considered, provided they are not short of the requisite qualifying or eligibility service by more than half of such qualifying or eligibility service, or two years, whichever is less, and have successfully completed their probation period for promotion to the next higher grade along with their juniors who have already completed such qualifying or eligibility service.
+
+If a Departmental Promotion Committee exists, what is its composition Circumstances in which Union Public Service Commission to be consulted in making recruitment
+
+1. Group 'A' Departmental Promotion Committee (for considering romotion) consisting of :Consultation with Union Public Service Commission necessary for filling up of post.
+
+(1) Chairman or Member of Union Public Service Commission -Chairman;
+
+(2) Chairman, Central Board of Direct Taxes -Member;
+
+(3) Member (Administration), Central Board of Direct Taxes - Member.
+
+2. Group 'A' Departmental Confirmation Committee (for considering confirmation) consisting of):-
+
+(1) Chairman, Central Board of Direct Taxes - Chairman;
+
+(2) Member (Administration), Central Board of Direct Taxes - Member.
+
+(3) Joint Secretary (Administration), Central Board of Direct Taxes - Member.
+
+Selection.
+
+Level 8 (Rs. 47600 - 151100)
+
+2. Administrative Officer, Grade-II.
+
+General Central Service, Group 'B', Gazetted, Ministerial. 428* *Subject to variation dependent on workload.
+
+Non-Functional Selection grade in level 9 in the pay matrix on completion of four years regular service in level 8 in the pay matrix.
+
+Not Applicable.
+
+Not Applicable.
+
+Not Applicable.
+
+Not Applicable.
+
+(i) By promotion Promotion :
+
+Administrative Officer, Grade-III in level 7 in the pay matrix with two years regular service in the grade and have successfully completed two to four weeks training as specified by the Central Board of Direct Taxes, Department of Revenue.
+
+Note : Where juniors who have completed their qualifying or eligibility service are being considered for promotion, their seniors would also be considered, provided they are not short of the requisite qualifying or eligibility service by more than half of such qualifying or eligibility service, or two years, whichever is less, and have successfully completed their probation period for promotion to the next higher grade along with their juniors who have already completed such qualifying or eligibility service.
+
+Consultation with Union Public Service Commission not necessary.
+
+Group `B' Departmental Promotion Committee (for considering promotion) consisting of:-
+
+(1) The Principal Chief Commissioner of Income-tax of the region - Chairman;
+
+(2) Commissioner of Income-tax (Administration) or above post of the region -Member;
+
+(3) Additional or Joint Commissioner (Administration) of Income-tax of the region -Member;
+
+[F. No. A-35015/43/2014-Ad.VI] RITVIK PANDEY, Jt. Secy. and Published by the Controller of Publications, Delhi-110054.
+
+ALOK KUMAR
