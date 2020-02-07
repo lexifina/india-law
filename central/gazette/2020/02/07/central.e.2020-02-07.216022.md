@@ -1,0 +1,239 @@
+---
+title: "In exercise of the powers conferred by paragraphs 5 11 and 15 of the Drugs Prices Control Order"
+gazette_id: "CG-DL-E-07022020-216022 Download: gvGazette$ctl12$imgbtndownload"
+ministry: "Ministry of Chemicals and Fertilizers"
+department: "Department of Pharmaceuticals"
+notification_no: "S.O. 619(E)"
+published: "2020-02-07"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-07.216022"
+---
+
+# In exercise of the powers conferred by paragraphs 5 11 and 15 of the Drugs Prices Control Order
+
+MINISTRY OF CHEMICALS AND FERTILIZERS (Department of Pharmaceuticals) (NATIONAL PHARMACEUTICAL PRICING AUTHORITY) ORDER New Delhi, the 7th February, 2020 S.O. 619(E).—In exercise of the powers conferred by paragraphs 5, 11 and 15 of the Drugs (Prices Control) Order, 2013, read with S.O. 1394(E) dated the 30th May, 2013 and S.O. 701(E) dated 10th March, 2016 issued by the Government of India in the Ministry of Chemicals and Fertilizers, the National Pharmaceutical Pricing Authority (hereinafter referred as NPPA), hereby fixes, the price as specified in column (6) of the table herein below as the retail price, exclusive of goods and services tax, if any, in relation to the formulation specified in the corresponding entry in column (2) of the said Table with the strength, unit and name of manufacturer & marketing company, as specified in the corresponding entries in columns (3), (4) and (5) thereof;
+
+TABLE Retail Price Sl.
+
+No.
+
+Strength Unit Manufacturer & Marketing Company (Rs.) Name of the Formulation/Brand Name
+
+4795.27 Each Pack M/s. SPAL Private Limited / M/s. Intas Pharmaceuticals Pvt.
+
+Ltd.
+
+1.
+
+Paclitaxel + Human Albumin Injection (Paclitaxel Protein Bound Particles for Injectable suspension 100mg) Paclitaxel Protein Bound Particles for Injectable suspension 100mg Each Lyophilized vial contains:
+
+Paclitaxel IP 100mg Human Albumin IP 900mg per 20ml
+
+11.48
+
+2.
+
+Calcium + Vitamin D3 + Methylcobalamin + Pyridoxine + Folic Acid Tablet 1 Tablet M/s. Mascot Health Series Pvt. Ltd. / M/s. Zydus Healthcare Limited Each film coated tablet contains:
+
+Calcium Citrate USP 1000mg, Vitamin D3 200IU, Methylcobalamin IP 500mcg, Pyridoxine HCI IP 10mg, Folic Acid IP 5mg,
+
+6.14
+
+3.
+
+Vildagliptin + Metformin Tablet (INSUVIL-M) Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 500mg, 1 Tablet M/s. Pure & Cure Healthcare (P) Ltd. / M/s. Anthus Pharmaceuticals Pvt.
+
+Ltd.
+
+(ii)
+
+6.14
+
+4.
+
+Vildagliptin + Metformin Tablet 1 Tablet M/s. Skymap Pharmaceuticals Pvt.
+
+Ltd.
+
+Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 500mg,
+
+6.14
+
+5.
+
+Vildagliptin + Metformin Tablet 1 Tablet M/s. Eris Lifesciences Limited / M/s. Aprica Healthcare Pvt. Ltd.
+
+Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 500mg,
+
+6.14
+
+6.
+
+Vildagliptin + Metformin Tablet (VILDOV M 500) 1 Tablet M/s. Hetero Labs Limited / M/s. Hetero Healthcare Limited Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 500mg,
+
+6.14
+
+7.
+
+Vildagliptin + Metformin Tablet (Valdepain M 500) 1 Tablet M/s Innova Captab Ltd. / M/s Galpha Laboratories Limited Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 500mg,
+
+6.07
+
+8.
+
+Vildagliptin + Metformin Tablet (Vilason M 500) 1 Tablet M/s. Unison Pharmaceuticals Pvt.
+
+Ltd.
+
+Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 500mg,
+
+6.24
+
+9.
+
+Vildagliptin + Metformin Tablet 1 Tablet M/s. Skymap Pharmaceuticals Pvt.
+
+Ltd.
+
+Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 850mg,
+
+6.24
+
+10.
+
+Vildagliptin + Metformin Tablet 1 Tablet M/s. Eris Lifesciences Limited / M/s. Aprica Healthcare Pvt. Ltd.
+
+Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 850mg,
+
+6.24
+
+11.
+
+Vildagliptin + Metformin Tablet (Valdepain M 850) 1 Tablet M/s. Innova Captab Ltd. / M/s. Galpha Laboratories Limited Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 850mg,
+
+6.36
+
+12.
+
+Vildagliptin + Metformin Tablet 1 Tablet M/s. Skymap Pharmaceuticals Pvt.
+
+Ltd.
+
+Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 1000mg,
+
+6.36
+
+13.
+
+Vildagliptin + Metformin Tablet 1 Tablet M/s. Eris Lifesciences Limited / M/s. Aprica Healthcare Pvt. Ltd.
+
+Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 1000mg,
+
+6.36
+
+14.
+
+Vildagliptin + Metformin Tablet (VILDOV M 1000) 1 Tablet M/s. Hetero Labs Limited / M/s. Hetero Healthcare Limited Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 1000mg,
+
+6.36
+
+15.
+
+Vildagliptin + Metformin Tablet (Valdepain M 1000) 1 Tablet M/s. Innova Captab Ltd. / M/s. Galpha Laboratories Limited Each film coated tablet contains:
+
+Vildagliptin 50mg, Metformin Hydrochloride IP 1000mg,
+
+28.00
+
+16.
+
+Amoxycillin + Potassium Clavulanate Tablet (Panlactic 1000) Each film coated tablet contains:
+
+Amoxycillin Trihydrate IP eq. to Amoxycillin 875mg, Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 25mg, 1 Tablet M/s. Akums Drugs and Pharmaceuticals Ltd. / M/s. Mylan Pharmaceuticals Private Limited
+
+15.15
+
+17.
+
+Amoxycillin + Potassium Clavulanate Tablet (Panlactic 375) 1 Tablet M/s. Akums Drugs and Pharmaceuticals Ltd. / M/s. Mylan Pharmaceuticals Private Limited Each film coated tablet contains:
+
+Amoxycillin Trihydrate IP eq. to Amoxycillin 250mg, Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125mg, M/s. Serum Institute of India Pvt. Ltd.
+
+856.65 Each pack of
+
+1.25ml
+
+18.
+
+Rabies Human Monoclonal Antibody Injection (Rabishield – 50) Each ml injection contains:
+
+Rabies Human Monoclonal Antibody (rDNA) 40IU (50IU/1.25ml)
+
+3.54 Capsule
+
+19.
+
+Amoxicillin + Cloxacillin + Lactic Acid Bacillus Capsule M/s. Skymap Pharmaceuticals Pvt.
+
+Ltd.
+
+Each hard gelatine capsule contains:
+
+Amoxicillin Trihydrate IP eq. to Amoxicillin 250mg, Cloxacillin Sodium IP eq. to Cloxacillin 250mg, Lactic Acid Bacillus 2 billion spore
+
+18.44
+
+20.
+
+Metformin Hydrochloride + Evogliptin Tablet (Valera M 1000 Tablet) 1 Tablet M/s. Alkem Healthscience / M/s. Alkem Laboratories Ltd.
+
+Each film coated bilayered Tablet contains:
+
+Metformin Hydrochloride IP 1000mg (Sustained Release), Evogliptin Tartrate 6.869mg eq. to Evogliptin 5mg Tablet
+
+1.25
+
+21.
+
+Paracetamol + Caffeine Tablet (SARBYNA STRONG) Each uncoated tablets contains:
+
+Paracetamol IP 500mg Caffeine Anhydrous IP 50mg 1 Tablet M/s. Rivpra Formulation Pvt. Ltd. / M/s. Dabur India Ltd Note:
+
+(a) The manufacturer of above mentioned formulations i.e. "new drug" under paragraph 2(u) of the DPCO, 2013 shall fix the retail price as specified in column (6) of the table hereinabove.
+
+(b) The manufacturer may add goods and services tax only if they have paid actually or it is payable to the Government on the retail price mentioned in column (6) of the above said table.
+
+(c) The retail price for a pack of the aforesaid formulation shall be arrived at by the concerned manufacturer in accordance with the retail price specified in column (6) of the above table as per provisions contained in paragraph 11 of the DPCO, 2013. The manufacturer shall issue a price list in Form–V from date of Notification as per paragraph 24 of the DPCO, 2013 to NPPA through IPDMS and submit a copy to State Drug Controller and dealers.
+
+(d) As per para 24(4) of DPCO 2013, every retailer and dealer shall display price list and the supplementary price list, if any, as furnished by the manufacturer, on a conspicuous part of the premises where he carries on business in a manner so as to be easily accessible to any person wishing to consult the same.
+
+(e) The above mentioned retail price is applicable only to the individual manufacturer/marketer as mentioned above i.e. who have applied for the same by submitting Form-I for price fixation / revision as stipulated under DPCO, 2013 and subject to fulfilment of all the applicable statutory requirements as laid down by the Govt. under relevant statutes/rules, including manufacturing license permission from the Competent Authority i.e. the Central/State Licensing Authority, as may be applicable, by the concerned manufacturer/ marketing companies.
+
+(f) In case the retail price of any of the aforesaid formulations is not complied with, as per instant price notification and notes specified hereinabove, then the concerned manufacturer/marketing company shall be liable to deposit the overcharged amount along with the interest thereon under the provisions of the DPCO, 2013 read with the Essential Commodities Act, 1955.
+
+(g) Consequent to the issue of ceiling price of such formulation as specified in column (2) of the above table in this notification, the price order(s) fixing ceiling or retail price, if any, issued prior to the above said date of notification, stand(s) superseded.
+
+[PN/204/72/2020/F./F. No. 8(72)/2020/D.P./NPPA-Div.-II] PRASENJIT DAS, Assistant Director and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
