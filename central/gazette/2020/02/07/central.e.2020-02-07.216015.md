@@ -1,0 +1,155 @@
+---
+title: "In exercise of the powers conferred by the proviso to article 309 of the Constitution and in supersession"
+gazette_id: "CG-DL-E-07022020-216015 Download: gvGazette$ctl13$imgbtndownload"
+ministry: "Ministry of Mines"
+department: "Not Applicable"
+notification_no: "G.S.R. 94(E)"
+published: "2020-02-07"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-07.216015"
+---
+
+# In exercise of the powers conferred by the proviso to article 309 of the Constitution and in supersession
+
+MINISTRY OF MINES NOTIFICATION New Delhi, the 7th February, 2020 G.S.R. 94(E).—In exercise of the powers conferred by the proviso to article 309 of the Constitution and in supersession of the Indian Bureau of Mines, Ministry of Mines, (Chief Controller of Mines, Controller of Mines, Regional Controller of Mines, Deputy Controller of Mines, Senior Assistant Controller of Mines, Assistant Controller of Mines and Assistant Mining Engineer) Group 'A' and 'B' Posts Recruitment Rules, 2016 in so far as they relate to the posts of Chief Controller of Mines and Controller of Mines, except as respects things done or omitted to be done before such supersession, the President hereby makes the following rules regulating the method of recruitment to the posts of Chief Controller of Mines and Controller of Mines in Indian Bureau of Mines, Ministry of Mines, namely:-—
+
+1. Short title and commencement.— (1) These rules may be called Ministry of Mines, Indian Bureau of Mines, Chief Controller of Mines and Controller of Mines (Group 'A' Posts) Recruitment Rules, 2020.
+
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2. Application.—These rules shall apply to the posts specified in column (1) of the Schedule annexed to these rules.
+
+3. Number of posts, classification and level in pay matrix.—The number of the said posts, their classification and level in the pay matrix attached thereto shall be as specified in columns (2) to (4) of the said Schedule.
+
+4. Method of recruitment, age-limit, qualifications, etc.-— The method of recruitment, age-limit, qualifications and other matters relating to the said posts shall be as specified in columns (5) to (13) of the said Schedule.
+
+5. Disqualification. - No person,-
+
+(a) who has entered into or contracted a marriage with a person having a spouse living; or
+
+(b) who having a spouse living, has entered into or contracted a marriage with any person, shall be eligible for appointment to the said posts:
+
+Provided that the Central Government may, if satisfied that such marriage is permissible under the personal law applicable to such person and the other party to the marriage and that there are other grounds for so doing, exempt any person from the operation of this rule.
+
+6. Power to relax.—Where the Central Government is of the opinion that it is necessary or expedient so to do, it may by order and for reasons to be recorded in writing and in consultation with the Union Public Service Commission, relax any of the provisions of these rules with respect to any class or category of persons.
+
+7. Saving. —Nothing in these rules shall affect reservation, relaxation of age-limit, and other concessions required to be provided for the Scheduled Castes, the Scheduled Tribes, the Other Backward Classes, the Ex-servicemen and other special categories of persons in accordance with the orders issued by the Central Government from time to time in this regard.
+
+SCHEDULE Name of Number of Classification.
+
+Level in pay matrix.
+
+Whether selection posts. posts.
+
+Age-limit for direct recruits. post or nonselection post.
+
+Selection post.
+
+Not applicable.
+
+1. Chief Controller of Mines.
+
+Level-15 in the pay matrix (Rs. 182200224100). 2* (2020) * Subject to variation dependent on workload.
+
+General Central Service, NonMinisterial, Gazetted, Group 'A' Period of probation, if any.
+
+Educational and other qualifications required for direct recruits.
+
+Whether age and educational qualifications prescribed for direct recruits will apply in the case of the promotees.
+
+Method of recruitment: whether by direct recruitment or by promotion or by deputation/ absorption and percentage of posts to be filled by various methods.
+
+Not applicable.
+
+Not applicable.
+
+Not applicable.
+
+Promotion failing which deputation including short term contract.
+
+In case of recruitment by promotion or deputation or absorption grades from which promotion or deputation/absorption to be made.
+
+Promotion:
+
+Controller of Mines in level 14 in the pay matrix (Rs. 144200-218200) with three years of regular service in the grade after appointment thereto.
+
+Note: Where juniors who have completed their qualifying or eligibility service are being considered for promotion, their senior would also be considered provided they are not short of the requisite qualifying or eligibility service by more than half of such qualifying or eligibility service or two years, whichever is less and have successfully completed their probation period for promotion to the next higher grade along with their juniors who have already completed such qualifying or eligibility service.
+
+Deputation (Including short term contract) :
+
+Officers under the Central Government or the State Government or Union territory administration or public sector undertakings or Universities or recognised research institutions or autonomous bodies or statutory organisations-
+
+(a) (i) holding analogous post on a regular basis in the parent cadre or Department; or
+
+(ii) with three years service in the grade rendered after appointment thereto on a regular basis in posts in Level 14 in the pay matrix (Rs. 144200-218200) or equivalent in the parent cadre or Department, and
+
+(b) possessing the following educational qualifications and experience:
+
+(a) (i) Bachelor of Engineering or Technology in Mining Engineering from a recognised University or institution
+
+(ii) 18 years experience in core Mining activity in:-
+
+(b)(i) Managerial position in Metalliferous (Non-coal) mines which includes the period as graduate or management or junior trainee engineer; or
+
+(ii) Government Department dealing with mines and minerals, as Group 'A' officer dealing with mines and minerals; or
+
+(c)(a) (i) Master of Engineering or Technology in Mining Engineering from a recognised University or institution;
+
+(ii) 16 years experience in core Mining activity in:-
+
+(b)(i) Managerial position in Metalliferous (Non-Coal) mines which includes the period as graduate or management or junior trainee engineer; or
+
+(ii) Government Department dealing with mines and minerals, as Group 'A' officer dealing with mines and minerals.
+
+Note-1: The departmental officers in the feeder grade who are in direct line of promotion shall not be eligible for consideration for appointment on deputation. Similarly, deputationists shall not be eligible for consideration for appointment by promotion.
+
+Note 2: The period of deputation including short term contract in another Ex-cadre post held immediately preceding this appointment in the same or some other organisation or department of Central Government shall ordinarily not exceed five years.
+
+Note 3: The maximum age-limit for appointment by deputation including short term contract shall be not exceeding fifty-eight years as on the closing date of receipt of applications.
+
+If a Departmental Promotion Committee exists, what is its composition.
+
+Circumstances in which Union Public Service Commission is to be consulted in making recruitment.
+
+Consultation with Union Public Service Commission necessary while appointing an officer on deputation (including short-term contract) basis.
+
+Group 'A' Departmental Promotion Committee (for considering promotion) consisting of:-
+
+(1) Chairman or Member, Union Public Service Commission —Chairman;
+
+(2) Secretary, Ministry of Mines — Member;
+
+(3) Controller General, Indian Bureau of Mines — Member.
+
+Level-14 in the Selection
+
+2. Controller of Mines. post.
+
+Not applicable. pay matrix (Rs.144200218200).
+
+General Central Service, Non-Ministerial, Gazetted, Group 'A' 8* (2020) *Subject to variation dependent on workload.
+
+Not applicable.
+
+Not applicable.
+
+Not applicable.
+
+Promotion. 100 per cent.
+
+Group 'A' Departmental Promotion Committee (for considering promotion) consisting of :-
+
+1. Chairman or Member, Union Public Service Commission –Chairman;
+
+Promotion: Regional Controller of Mines in level 13 in the pay matrix (Rs. 123100-215900) with three years regular service in the grade after appointment thereto.
+
+Consultation with Union Public Service Commission is not necessary.
+
+2. Secretary, Ministry of Mines –Member;
+
+3. Chief Controller of Mines, Indian Bureau of Mines –Member.
+
+Note:
+
+Where juniors who have completed their qualifying or eligibility service are being considered for promotion, their senior would also be considered provided they are not short of the requisite qualifying or eligibility service by more than half of such qualifying or eligibility service or two years, whichever is less and have successfully completed their probation period for promotion to the next higher grade along with their juniors who have already completed such qualifying or eligibility service.
+
+[F. No. 22/1/2018-M.III] UPENDRA C. JOSHI, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
