@@ -1,0 +1,31 @@
+---
+title: "Amendment in Export Policy of Personal Protection Equipment Masks"
+gazette_id: "CG-DL-E-08022020-216026 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Department of Commerce"
+notification_no: "S.O. 620(E)"
+published: "2020-02-08"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-08.216026"
+---
+
+# Amendment in Export Policy of Personal Protection Equipment Masks
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department of Commerce) (DIRECTORATE GENERAL OF FOREIGN TRADE) NOTIFICATION New Delhi, the 8th February, 2020 No. 47/2015-2020 Subject : Amendment in Export Policy of Personal Protection Equipment/Masks S.O. 620(E).—In exercise of powers conferred by Section 3 of the Foreign Trade (Development & Regulation) Act, 1992 (No. 22 of 1992), as amended, read with Para 1.02 of the Foreign Trade Policy, 201520, the Central Government hereby makes following amendment in the Notification No. 44 dated 31.01.2020 related to export of Personal Protection Equipment and Masks:
+
+Prohibited All Personal Protection Equipments including Clothing and Masks [Coveralls (Class 2/3/4) and N-95 Masks] except the following items:
+
+Serial No.
+
+ITCHS Codes Description Present Policy 207 A 901850 901890 392690 621790 630790
+
+1. Surgical Masks/Disposable Masks (2/3 Ply)
+
+2. All Gloves (except NBR Gloves)
+
+2. Effect of this Notification:
+
+The Notification No. 44 dated 31.01.2020 is amended to the extent that the items such as Surgical Masks/Disposable Masks (2/3 Ply) and all Gloves except NBR Gloves are allowed freely for export.
+
+However, export of all other Personal Protection Equipment including N-95 and other Personal Protection Equipment accompanying Masks and Gloves not specified in the exceptions above shall remain Prohibited.
+
+[F. No. 01/91/180/21/AM20/EC] AMIT YADAV, Director General of Foreign Trade & Ex-Officio Addl. Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
