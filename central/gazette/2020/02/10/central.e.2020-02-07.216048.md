@@ -1,0 +1,29 @@
+---
+title: "WHEREAS M s Shivganga Real Estate Holders Pvt Ltd had proposed under section 3 of the Special Economic Zones Act"
+gazette_id: "CG-DL-E-10022020-216048 Download: gvGazette$ctl07$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Department of Commerce"
+notification_no: "S.O. 614(E)"
+published: "2020-02-10"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-07.216048"
+---
+
+# WHEREAS M s Shivganga Real Estate Holders Pvt Ltd had proposed under section 3 of the Special Economic Zones Act
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department of Commerce) NOTIFICATION New Delhi, the 5th February, 2020 S.O. 614(E).—WHEREAS, M/s. Shivganga Real Estate Holders Pvt. Ltd., had proposed under section 3 of the Special Economic Zones Act, 2005 (28 of 2005), (hereinafter referred to as the said Act) to set up a sector specific Special Economic Zone for Information Technology and Information Technology Enabled Services at Sargasan, (Sarkhej-Gandhinagar Highway), Taluka Gandhinagar, District Gandhinagar, in the State of Gujarat;
+
+AND, WHEREAS, the Central Government, in exercise of the powers conferred by sub-section (1) of section 4 of the said Act read with rule 8 of the Special Economic Zone Rules 2006, had notified an area of
+
+37.5556 hectares vide Ministry of Commerce and Industry Notification Number S.O. 1610(E) dated 02nd, July 2008;
+
+AND, WHEREAS, M/s. Shivganga Real Estate Holders Pvt. Ltd. has now proposed to de-notify entire area of 37.5556 hectares of the above Special Economic Zone;
+
+AND, WHEREAS, the State Government of Gujarat has given its "No Objection" to the proposal vide Memo.
+
+No. IC/INFRA/NOC/1599722 dated 23rd December, 2019;
+
+AND, WHEREAS, the Development Commissioner, Kandla, Special Economic Zone has recommended the proposal for de-notification of entire area of 37.5556 Hectares of the Special Economic Zone;
+
+NOW, THEREFORE, in exercise of the powers conferred by first proviso to rule 8 of the Special Economic Zones Rules 2006, the Central Government hereby rescinds the above notification except as respects things done or omitted to be done before such rescission.
+
+[F. No. F.2/518/2006-SEZ] B.B. SWAIN, Add. Sec. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
