@@ -1,0 +1,234 @@
+---
+title: "In exercise of the powers conferred by sub section 1 of section 406 read with sub sections 1"
+gazette_id: "CG-DL-E-07022020-216005 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "Not Applicable"
+notification_no: "G.S.R. 81(E)"
+published: "2020-02-07"
+in_force: "2020-02-10"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-03.216005"
+---
+
+# In exercise of the powers conferred by sub section 1 of section 406 read with sub sections 1
+
+MINISTRY OF CORPORATE AFFAIRS NOTIFICATION New Delhi, the 3rd February, 2020 G.S.R. 81(E).—In exercise of the powers conferred by sub-section (1) of section 406 read with subsections (1) and (2) of section 469 of the Companies Act, 2013, the Central Government hereby makes the following rules, to amend the Nidhi Rules, 2014, namely:-
+
+1. (1) These rules may be called the Nidhi (Amendment) Rules, 2020.
+
+(2) They shall come into force on 10th February, 2020.
+
+2. In the said rules, in place of Form NDH-1, NDH-2 & NDH-3 the following forms shall be substituted, namely:Return of Statutory Compliances FORM NO. NDH-1
+
+[Pursuant to section 406 of the Companies Act, 2013 and pursuant to sub rule (2) of rule 5 of the Nidhi Rules, 2014] Prefill Form language o English o Hindi Refer the instruction kit for filing the form
+
+1. (a) *Corporate Identification Number (CIN) of Nidhi
+
+(b) Global location number (GLN) of Nidhi
+
+2. (a) Name of the Nidhi
+
+(b) Address of the registered office
+
+(c) *email id
+
+(d) Phone -
+
+3. (a) *Number of subscribers to the Memorandum
+
+(b) *Number of members admitted since date of incorporation up to the end of the first financial year or second financial year, where applicable, as per rule 5(1)
+
+(c) *Number of persons who have ceased to be members up to the end of the first financial year or second financial year, where applicable, as per rule 5(1)
+
+(d) Number of members as at the end of the first financial year or second financial year, where applicable, as per rule 5(1)
+
+4. Whether the number of members as at the end of the first financial year or second financial year, where applicable, as per rule 5(1) is 200 or more o Yes o No If 'No', whether application for extension of time has been made to Regional Director o Yes o No If 'Yes', mention the SRN of application
+
+5. (i) *Paid up equity share capital
+
+(ii) *Free reserves
+
+(iii) * Less: Accumulated Losses Other intangible assets Net Owned Funds
+
+6. Unencumbered Term Deposits (See rule 14)
+
+(a) *(i) Deposit(s) in scheduled commercial Banks *(ii) Deposits in Post Office Total unencumbered term deposits
+
+(b) *Deposits outstanding at the close of business on the last working day of the second preceding month
+
+(c) Percentage of (a)/(b)
+
+7. Ratio of Net Owned Funds to Deposits Whether the ratio of Net Owned Funds to deposits as at the end of the first financial year or second financial year, where applicable, as per rule 5(1) is more than 1:20 o Yes o No If 'yes, whether application for extension of time has been made to Regional Director o Yes o No If 'Yes', mention the SRN of application
+
+8. *Financial year end date Attachments Attach Attach Attach Attach Attach
+
+1. *List of all members with PAN and complete residential address
+
+2. *Amount of deposit accepted from each member
+
+3. Break-up of deposits in Sr. No. 6(a)(i) with bank name, branch and account number
+
+4. Break-up of deposits in Sr. No. 6(a)(ii) with name and location of P.O branch
+
+5. Optional attachment(s), if any DSC BOX Declaration I am authorized by the Board of Directors of the Company vide resolution number* Dated * to sign this form and declare that all the requirements of Companies Act, 2013 and the rules made thereunder in respect of the subject matter of this form and matters incidental thereto have been complied with.
+
+I also declare that all the information given herein above is true, correct and complete including the attachments to this form and nothing material has been suppressed. It is hereby further certified that the professional (Name and Type i.e. C.A/CS/CWA/ to Given) certifying this form has been duly engaged for this purpose. *To be digitally signed by *Designation *DIN of the director; or DIN or PAN of the manager or CEO or CFO; or Membership number of the company secretary Certificate by practicing professional I declare that I have been duly engaged for the purpose of certification of this form. It is hereby certified that I have gone through the provisions of the Companies Act, 2013 and rules thereunder for the subject matter of this form and matters incidental thereto and I have verified the above particulars (including attachment(s)) from the original records maintained by the Company Which is subject matter of this form and found them to be true, correct and complete and no information material to this form has been suppressed. I further certify that;
+
+1. The said records have been properly prepared, signed by the required officers of the Company and maintained as per the relevant provisions of the Companies Act, 2013 and were found to be in order;
+
+2. All the required attachments have been completely and legibly attached to this form.
+
+3. It is understood that I shall be liable for action under Section 448 of the Companies Act, 2013 for wrong certification, if any found at any stage.
+
+Note: Attention is also drawn to provisions of Section 448 of the Act which provide for punishment for false statement and certification.
+
+Modify Check Prescrutiny Submit This eform has been taken on file maintained by the Registrar of Companies through electronic mode and on the basis of statement of correctness given by the filing company.
+
+FORM NO. NDH-2 Application for extension
+
+[Pursuant to sub-rule (3) of rule 5 of Nidhi of time Rules, 2014] Pre-Fill Form language o English o Hindi Refer the instruction kit for filing the form
+
+1. (a) * Corporate Identification Number (CIN) of Nidhi
+
+(b) Global location number (GLN) of Nidhi
+
+2. (a) Name of the Nidhi
+
+(b) Address of the registered office
+
+(c) E-mail id
+
+(d) Phone -
+
+(e) Date of incorporation
+
+3. *Financial year end date
+
+4. *Application filed for : extension of time for complying with rule o 5 (1)(a) o 5 (1)(d) o Both 5 (1)(a) & 5 (1)(d)
+
+5. Position as at the end of the previous financial year (based on audited financial statement)
+
+(a) *Number of members
+
+(b) *Ratio of Net Owned Funds to Deposits
+
+6. *Reasons for not complying with the requirements of Rule 5(1)(a) and/or Rule 5(1)(d)
+
+7. * Details of application (in brief) Attach Attach Attach Attach Attach Attach Remove Attachment Attachments List of attachments
+
+1. *Board resolution
+
+2. *Detailed application
+
+3. Audited financial statements (last available)
+
+4. *List of all members with PAN and complete residential address
+
+5. *Amount of deposit accepted from each member
+
+6. *Reasons and justification for the application Declaration I am authorized by the Board of Directors of the Company vide resolution number * Dated * to sign this form and declare that all the requirements of Companies Act, 2013 and the rules made thereunder in respect of the subject matter of this form and matters incidental thereto have been complied with. I also declare that all the information given herein above is true, correct and complete including DSC BOX the attachments to this form and nothing material has been suppressed. *To be digitally signed by *Designation *DIN of the director; or DIN or PAN of the manager or CEO or CFO; or Membership number of the company secretary Certificate by practicing professional I declare that I have been duly engaged for the purpose of certification of this form. It is hereby certified that I have gone through the provisions of the Companies Act, 2013 (18 of 2013) and rules thereunder for the subject matter of this form and matters incidental thereto and I have verified the above particulars [including attachment(s)] from the original records maintained by the Company (name of Nidhi) which is subject matter of this form and found them to be true, correct and complete and no information material to this form has been suppressed. I further certify that; a.
+
+The said records have been properly prepared, signed by the required officers of the Company and maintained as per the relevant provisions of the Companies Act, 2013 and were found to be in order; b.
+
+All the required attachments have been completely and legibly attached to this form; c.
+
+It is understood that I shall be liable for action under Section 448 of the Companies Act, 2013 for wrong certification, if any found at any stage.
+
+DSC *To be digitally signed by □ Chartered accountant (in whole-time practice) or □ Cost accountant (in whole-time practice) or □ Company secretary (in whole-time practice) *Whether associate or fellow □ Associate □ Fellow *Membership number Certificate of Practice number Note: Attention is also drawn to provisions of section 448 which provide for punishment for false statement and certification.
+
+FORM NO. NDH-3 Return of Nidhi Company for the half year ended
+
+[Pursuant rule 21 of the Nidhi Rules, 2014] Form language o English o Hindi Refer the instruction kit for filing the form All information shall be furnished for the half year ended 30th September and 31st March of every year; wherever space is not sufficient, separate sheet containing the required details shall be attached Pre-fill
+
+1. (a) *Corporate Identification Number (CIN) of the company
+
+(b) Global location number (GLN) of Nidhi
+
+2. (a) Name of the company
+
+(b) Address of the registered office of the company
+
+(c) email id
+
+3. Branch Details
+
+(i) *Total Number of branches
+
+(ii) *Number of branches opened during the half year
+
+(iii) *Number of branches closed during the half year *Name of the Branch Address *Line I Line II *City *District *State *PIN code
+
+4. Membership i. *Total number of members at the beginning of the half-year ii. *Number of persons admitted as members during the half year iii. *Number of persons who have ceased to be members during the half year iv.
+
+Total number of members at the end of the half year
+
+5. *Deposits (Amount in Rs.) Received during the half year Repaid during the half year Nature of deposits Balance of deposits at the beginning of the half year Balance of deposits at the end of the half year Fixed Deposit Recurring Deposit Savings Deposit Cumulative Deposit Others, if any TOTAL
+
+6. *Loans (Amount in Rs.) Realized during the half year Nature of Loans Balance of Loan at the beginning of the half year Disbursed during the half year Balance of Loans at the end of the half year Loans against immovable property Loans against Jewels Loans against Deposits Other loans, if Any (specify security) Loans to employees TOTAL
+
+7. *Details relating to litigation, if any At the beginning Filed during the half year Disposed of during the half year Outstanding at the end of the half year of the half year No. of cases Amount
+
+(Rs) No. of cases Amount
+
+(Rs) No. of cases Amount
+
+(Rs) No. of cases Amount
+
+(Rs) Suit filed accounts
+
+8. Financial summary
+
+(i) *Ratio of Net Owned Funds to Deposits
+
+(ii) *Total amount of unencumbered Term Deposits (Rs.)
+
+(iii) *Number of banks where deposits have been placed S.
+
+No.
+
+Address Amount of deposits (in Rupees) Name of the Scheduled Commercial Bank /Post Office
+
+(iv) *Percentage of unencumbered Term Deposits to the total deposits outstanding
+
+(v) *Paid up share capital
+
+(vi) *Amount of paid up Preference Share capital
+
+(a) Outstanding at the beginning of the half year
+
+(b) Redeemed during the period
+
+(c) Outstanding at the end of the half year
+
+9. *Half year end date Attachments Attach Attach Attach Attach Attach Attach
+
+1. Copy of advertisement alongwith copy of intimation given to Registrar;
+
+2. *List of all members with PAN and complete residential address;
+
+3. *Amount of deposit accepted from each member;
+
+4. List of all members who joined during the period with PAN and complete residential address;
+
+5. List of all members who ceased during the period with PAN and complete residential address;
+
+6. Optional attachment(s), if any DSC BOX Declaration I am authorized by the Board of Directors of the Company vide resolution number * dated * to sign this form and declare that all the requirements of Companies Act, 2013 and the rules made thereunder in respect of the subject matter of this form and matters incidental thereto have been complied with. I also declare that all the information given herein above is true, correct and complete including the attachments to this form and nothing material has been suppressed.
+
+It is hereby further certified that the professional (Name and Type i.e.
+
+C.A/CS/CWA/ to Given) certifying this form has been duly engaged for this purpose. *To be digitally signed by *Designation *DIN of the director; or DIN or PAN of the manager or CEO or CFO; or Membership number of the company secretary Certificate by practicing professional I declare that I have been duly engaged for the purpose of certification of this form. It is hereby certified that I have gone through the provisions of The Companies Act, 2013 and Rules thereunder for the subject matter of this form and matters incidental thereto and I have verified the above particulars (including attachment(s)) from the original/certified records maintained by the Company/applicant which is subject matter of this form and found them to be true, correct and complete and no information material to this form has been suppressed. I further certify that:
+
+1. The said records have been properly prepared, signed by the required officers of the Company and maintained as per the relevant provisions of The Companies Act, 2013 and were found to be in order;
+
+2. All the required attachments have been completely and legibly attached to this form;
+
+3. It is understood that I shall be liable for action under Section 448 of The Companies Act, 2013 for wrong certification, if any found at any stage.
+
+Modify Check form Prescrutiny Submit Note: Attention is also drawn to provisions of Section 448 of the Act which provide for punishment for false statement and certification.
+
+This eform has been taken on file maintained by the Registrar of Companies through electronic mode and on the basis of statement of correctness given by the filing company.
+
+[F. No.1/24/2013-CL-V(Part)] K.V.R. MURTY, Jt. Secy.
+
+Note : The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R.258 (E), dated the 31st March, 2014 and subsequently amended vide G.S.R No. 467 (E), dated 1st July, 2019. and Published by the Controller of Publications, Delhi-110054.
+
+ALOK KUMAR
