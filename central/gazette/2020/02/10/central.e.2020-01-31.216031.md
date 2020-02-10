@@ -1,0 +1,548 @@
+---
+title: "The Central Government has approved the guidelines of the Central Sector Scheme"
+gazette_id: "CG-DL-E-10022020-216031 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Department of Commerce"
+published: "2020-02-10"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-31.216031"
+---
+
+# The Central Government has approved the guidelines of the Central Sector Scheme
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department of Commerce) NOTIFICATION New Delhi, the 31st January, 2020 F. No. 17/4/2018-EP (Agri.IV). — The Central Government has approved the guidelines of the Central Sector Scheme for implementation of Agriculture Export Policy.
+
+1. Introduction A dynamic nation of 1.3 billion consumers with rising discretionary incomes, changing food patterns, vast farming area, diverse agriculture and a large population dependent on agriculture has propelled India to the world's centre stage as a big consumer market and also as a key supplier of food products. It has often been suggested that an essential element of "Make in India" has to be "Bake in India", i.e. a renewed focus on value addition and on processed agricultural products. The rapidly growing global population and shrinking farmlands, coupled with changing socio-economic, agro-climatic and dietary patterns, have challenged scientists and policymakers to reconsider how we grow and feed 7.5 billion global citizens. India's quest, then, is to grow sustainably, trade abundantly and progress harmoniously. Agriculture export, if properly supported by infrastructure, institutional back up, packaging, freight transport and connected to the internal production system backed by market access will be in a position to transform the agricultural economy.
+
+The Agriculture Export Policy (AEP) is framed with a focus on agriculture export oriented production, export promotion, better farmer realization and synchronization within policies and programmes of Government of India.
+
+2. Objectives and Vision of AEP OBJECTIVES  To double agricultural exports from present ~US$ 30+ Billion to ~US$ 60+ Billion by 2022 and reach US$ 100 Billion in the next few years thereafter, with a stable trade policy regime. • To diversify our export basket, destinations and boost high value and value added agricultural exports including focus on perishables.  To promote novel, indigenous, organic, ethnic, traditional and non-traditional Agri products exports.  To provide an institutional mechanism for pursuing market access, tackling barriers and deal with sanitary and phytosanitary issues.  To strive to double India's share in world Agri exports by integrating with global value chain at the earliest.  Enable farmers to get benefit of export opportunities in overseas market.
+
+VISION Harness export potential of Indian agriculture, through suitable policy instruments, to make India global power in agriculture and raise farmers' income.
+
+3. Scope The Scheme aims to implement various elements of the Agriculture Export Policy 2018, through the following components: i.
+
+Assistance to State Agencies:
+
+In para 5.4A of the AEP, it has been stated that a State Department/Organisation will be identified as the nodal agency for promotion of agricultural exports. The function of such nodal agency would be to remain engaged with the stakeholders, identify infrastructure and logistic bottlenecks, liaise with different Departments within the State Government to address issues faced by the exporters, identification of the schemes run by various Central Ministries and Agencies and maximize the allocation for the State Governments, organize reverse buyer-seller meet at the State level by getting buyers from abroad, encouraging State level exporters to participate in the relevant international fairs, etc.
+
+DoC will play a proactive role in capacity building, supporting and handholding such nodal agency at the State level, through Appointment of two consultants in each State with sufficient experience on Agri business, Agri exports and foreign trade. Capacity building of officials in the States (10 in each State) is also proposed. ii.
+
+Assistance for Institutional Mechanism:
+
+Para 5.4D of the AEP provides for establishment of Institutional Mechanism at Union level, State level and cluster level to support exports. A monitoring cell is to be established in DoC to follow up on deliverables by all the concerned Departments, Organisations and State Governments. A Project Monitoring Unit (PMU) would be engaged to scrutinise and monitor the applications for financial assistance under the scheme.
+
+It is also proposed to provide assistance for appointment of CEOs and the support staff for the identified clusters.
+
+Initial grant for a cluster for establishment of office, FPOs etc. is also proposed. The State Governments may support the product specific clusters which have a high potential of export and work with related agencies for facilitating export from those clusters. iii.
+
+Assistance for Clusters:
+
+Para 6.1 of the AEP emphasizes focus on export-centric cluster based approach. A more focused pre and post-harvest management of the production, upgrading the supply chain are required to attain much higher levels of export from those clusters. Initially there are 46 clusters (Annexure I) identified. Assistance for the following would be provided in the identified clusters: a.
+
+Post-harvest infrastructure in clusters b.
+
+Capacity building c.
+
+Grant towards PPP-IAD d.
+
+Laboratories e.
+
+New technology / new machinery introduction f.
+
+GAP implementation The focus in clusters is on developing export oriented infrastructure in the identified cluster areas where integrated post-harvest, processing facilities, laboratories etc. by providing assistance under this scheme and also with support from MOFPI (PMKSAMPADA) / DoC (TIES) / DAC&FW (MIDH) / DAHDF (IDMF), etc. to have export oriented farm production and processing in compliance with standardized protocols, packaging, sanitary and phyto-sanitary issues and linking and networking this to next level of marketing channel. iv.
+
+Assistance for Product Development and Value Addition:
+
+Para 6.2A of the AEP underlines the need for product development and value-addition for indigenous commodities.
+
+Assistance for new product development, developing packaging, market research, shelf life increase, research on improving production efficiency / decrease in production cost will be provided. v.
+
+Assistance for Marketing:
+
+Para 6.2B of the AEP proposes measures to give a boost to the value added organic exports. Similarly, para 6.3 suggest measures for marketing and promotion of 'Produce of India'. Assistance for shelf space, product registration, marketing campaign (print / electronic) for specific organic, value added, ethnic, GI, Region specific and branded products, Road shows / BSM in target countries, product sampling in target countries will be provided under the component.
+
+A portal to provide e-commerce platform for providing direct export linkage to farmers' cooperatives, producer societies etc. is to be created. Development, operation & maintenance of the portal and capacity building of the stakeholders would be assisted. vi.
+
+Assistance for Research & Development:
+
+Para 6.7 of the AEP focusses on Research and Development activities required to promote exports of agricultural products. Assistance for matching fund for importing germplasm and seed varieties of identified exportable focus crops from breeders across the world will be provided. The assistance may be used for royalty payment, field trials, multiplication centres, capacity building etc.
+
+4. Eligible organizations Assistance will be available to individuals, Group of farmers/ growers/ consumers, Partnership/ Proprietary firms, Self Help Groups (SHGs), Exporters, Farmers Producer Organization (FPOs), Companies, Corporations, Cooperatives, Cooperative Marketing Federations, Local bodies, Agricultural Produce Market Committees (APMC) & Marketing Boards, Agency of State Government, Public Sector Units and State Governments.
+
+Govt. of India has decided to earmark funds for extending benefit of the scheme to SC & ST. Therefore, subject to meeting the basic eligibility criteria, SC / ST beneficiaries will be given preference in sanction of the projects under the scheme to the extent of earmarked fund allocation for each category. SC or ST promoter(s), as the case may be, shall hold majority stake in the entity. Any change in the constitution / composition of such entity will be done with prior permission of Empowered Committee.
+
+5. Pattern of Assistance (Details of assistance available under different subcomponents are provided in Annexure 2)
+
+5.1 Assistance to State Agencies a. Appointment of consultants - States / UTs have been requested to identify either a Department or an Agency of the State Govt. that could be declared as a nodal body for agricultural exports. In order to support proper functioning of the nodal agency, assistance would be provided for appointment of two consultants under this component. To begin with, consultants can be appointed in those States, which have initiated cluster development activities.
+
+The consultant is expected to have minimum 15 years of experience in Agri business, Agri exports and Foreign trade. Basic Qualification has to be MBA in Agri Business or from the Indian Institute of Foreign Trade.
+
+Consultants will be appointed by the State Nodal Agency in consultation with the DoC for the implementation of the scheme. Detailed terms of reference of appointment and outcomes to be delivered by the consultant would be provided by the State nodal agency.
+
+Note : DoC will not be a party to any dispute regarding issues related to service/emoluments of the consultant to be employed and the contract will be only between the respective State nodal agency and the consultant. b. Logistics and establishment – Assistance would be provided for logistics & establishment expenses in establishing the State nodal agency. Assistance will be provided only for the specific items required for office setup. Advance approval for specific expenses under this sub-component need to be sought from the Empowered Committee. c. Capacity building of officials – About ten officials in each State would be provided training on export promotion, activities of export promotion bodies and export promotion councils. Under this sub-component, assistance would be provided for meeting expenses for capacity building in reputed institutions like IIFT, CWTOS etc.
+
+5.2 Assistance for Institutional Mechanism a.
+
+Engaging interns for Monitoring Cell – about 10 interns (on need basis) will be engaged for monitoring cell of the AEP scheme. These interns will be part of Project Monitoring Unit (PMU). Interns would be appointed by APEDA, in consultation with the DoC. Detailed terms of reference of appointment and outcomes would be devised by APEDA.
+
+Note: DoC will not be a party to any dispute regarding issues related to service/emoluments of the interns to be employed and the contract will be only between the APEDA and the interns. b.
+
+Engaging Project Monitoring Unit – A Project Monitoring Unit (PMU) will be identified for the monitoring of the AEP scheme. An open tender would be floated by APEDA for selection of the PMU. A master database with adequate filters and data columns to capture the sector-wise, product-wise progress, region-wise data and the details of value of assistance provided under this scheme on an end-to-end basis, etc. will be developed and maintained by PMU for real time monitoring of this scheme. c.
+
+Establishment Expenses – Assistance would be provided for establishment expenses of monitoring cell for AEP.
+
+Only specific items required for office setup would be eligible. Advance approval for specific expenses under this subcomponent needs to be sought from the Empowered Committee. d.
+
+Engagement of CEO for clusters – In order to support setting up / plan / coordinate activities in a cluster, assistance would be provided for appointment of a Chief Executive Officer (CEO) for each cluster. CEO would report to the nodal collector of the cluster and work in close coordination with the export promotion agency promoting export of the specific product from cluster. Initial vetting of the projects in the cluster, for eligibility for assistance under the scheme, would be done by the CEO. The CEO would also be responsible for monitoring implementation of the projects. One of the major objective of cluster based approach is to organise farmers into FPOs and integrate the farmers in the cluster with value chain for exports and possibly nurture them to become exporters and CEO will have a major role to play in this endeavour.
+
+The CEO is expected to have minimum 15 years of experience on Agri business, Agri exports and Foreign trade.
+
+Basic Qualification has to be MBA in Agri Business or from Indian Institute of Foreign trade. For dairy and marine products cluster, post-graduation in diary and fisheries respectively will also be considered. CEO will be appointed by the State Nodal Agency in consultation with the DoC for the implementation of the scheme.
+
+Detailed terms of reference of appointment and outcomes to be delivered by the CEO would be provided by the State nodal agency.
+
+Note: DoC will not be a party to any dispute regarding issues related to service/emoluments of the CEO to be employed and the contract will be only between the respective State nodal agency and the CEO. e.
+
+Engagement of staff for clusters – In order to assist CEO of a cluster and for development of cluster maximum of 2 persons per cluster will be engaged by the State nodal agency as support staff for the CEO.
+
+Detailed terms of reference of appointment and outcomes to be delivered by the staff would be provided by the State nodal agency.
+
+Note: DoC will not be a party to any dispute regarding issues related to service/emoluments of the staff to be employed and the contract will be only between the respective State nodal agency and the staff. f.
+
+Initial grant for establishment of cluster office, FPO's, etc. – Assistance would be provided for establishing the cluster office, FPO's etc. Only specific items required for office setup, organising FPOs etc. would be eligible.
+
+Advance approval for specific expenses under this subcomponent need to be sought from the Empowered Committee.
+
+5.3 Assistance for Clusters a.
+
+Post-harvest infrastructure in clusters – under this subcomponent, post-harvest management activities like handling, grading, pre-conditioning, packaging, transient storage, transportation, distribution, curing and ripening and where possible long term storage can be taken up.
+
+Projects relating to establishment of pre-cooling units, pack houses, mobile pre-cooling units, staging cold rooms, cold storage units with and without controlled atmosphere capability, integrated cold chain system, supply of energy cool chambers, preservation units, onion storage units, zero energy cool chambers, integrated packhouse, plant health treatment units like VHT, HDT, irradiation facilities, Fumigation chambers etc., processing infrastructure including IQF, blanching / cooking line, high tech packaging, high tech sorting / grading, high tech conveyor systems and such other items not specifically mentioned above but are determined to be essential for post-harvest management of agriculture products by the Empowered Committee would be eligible for assistance under the scheme. Specific requirements and conditions for the sub-component are mentioned in Annexure 3. b.
+
+Capacity building - Under this subcomponent, training of farmers, FPOs, entrepreneurs, workforce in production/processing/export activities, exporters, officers will be taken up. Programmes for providing appropriate training to participants may be taken up in the cluster or outside the cluster depending on the nature of training to be imparted. Training of trainers program is to be given focus so that a large number of farmers can be further trained. Apart from the work force, Capacity development of different food processors, particularly from MSME and unorganized segments etc. is required to enable them to tap overseas markets and global agribusiness value chain. c.
+
+Grant towards PPP-IAD - Applicant under this subcomponent is to be preferably a leading exporter of the product from India. The component will cover all types of farmer related services and other interventions leading to productivity enhancement except inputs or hardware. Applicant will have complete flexibility in designing a project for ensuring an integrated value chain approach, covering all aspects from production to marketing and export. Projects can span 3-5 years with the target of at least 5000 farmers/5000 acres for each cluster. Key interventions, which must feature in each project are: a) mobilizing farmers into producer groups and registering them in an appropriate legal form or creating informal groups as may be appropriate to the area and Project (joint stock or producer companies, cooperatives, self-help group federations etc.); b) technology infusion; c) value addition; d) marketing solutions; e) project management.
+
+The applicant would need to make efforts to bring promising/innovative technologies which can lead to increase in productivity and make value chain of particular crop or group of crop efficient and increase net income of farmers. Applicant would also need to either procure end product of the project (commodity) or they can form consortium with other end user entities, who will buy the end product. Applicant has to invest in creation of new infrastructure, to promote the agribusiness in the cluster, along with activities related to agriculture extension for increasing productivity. Applicant will indicate activities and will make commitments regarding their share in the project. Specific requirements and conditions of the sub-component are mentioned in Annexure 4. d.
+
+Laboratories – Assistance would be provided to establish laboratory infrastructure to ensure compliance of domestic/international standards on food. The laboratories can carry out screening / confirmatory tests for microbiology, chemicals etc. Assistance for operations would not be available. The applicant has to ensure adequate supply of consumables and qualified technical resources to run the laboratory. Laboratories getting assistance would have to get the required accreditation / recognition from relevant agencies within six months of commencement of their operation. The Laboratories / food testing facilities so created will be accessible to public and will be made available for testing their products at a reasonable tariff. e.
+
+Introduction of New technology / new machinery - Assistance under this subcomponent would be available for adoption/purchase of any new equipment or technology for food processing, safety and quality requirements like laser land levellers, propelled sprayers, precision seeders and planters, transplanters for seedlings, multithreshers, drones for agriculture purpose etc. in the cluster. The determination of whether a technology / machinery are new one is to be substantiated by the applicant. The proposal should be for substantial improvement in farm efficiency and reduce drudgery of farm work force. The proposals for assistance for technology / equipment / machinery, already in wide use, would not be considered. Empowered Committee would decide on whether a technology / machinery is eligible for assistance under this subcomponent. f.
+
+GAP implementation - GAP certification has been introduced to encourage farmers to adopt good agricultural practices in line with global GAP, so that farmers are able to get better price for their produce in domestic as well as international market. Proposals for certification as per IndGAP would be given preference.
+
+Certification agencies to be involved for this will be as per list approved by APEDA.
+
+5.4 Assistance for Product Development a.
+
+New Product Development – Assistance would be provided for developing new / potential product range targeted at international market / taste / preference under this subcomponent. The proposal should not be a repetition of similar works conducted in the past. The product developed should have potential for creating a new revenue stream for the applicant. Realistic projected exports for next three years of the product would need to be provided. Assistance would also be available for public sector applicants, in which case the body of work would be available to public. b.
+
+Developing packaging/shelf life increase - Assistance would be provided for exploring the new packaging/shelf life enhancement suitable for export purpose. The proposal should not be a repetition of similar works conducted in the past. The project should have potential for reducing wastage / improving quality / extend the shelf-life of product substantially. Project can be for a generic product line or even for a specific product form having good export potential. Assistance would also be available for public sector applicants, in which case the body of work would be available to public. c.
+
+Research on improving production efficiency/decrease in production cost – Assistance would be provided for projects targeting improvement in production efficiency of a product and / or interventions which would significantly bring down the production cost of a product for export. Baseline indicators and expected outcomes are to be provided along with the proposal. Assistance would also be available for public sector applicants, in which case the body of work would be available to public.
+
+5.5 Assistance for Marketing a.
+
+Shelf Space Assistance – Assistance for availing shelf space for Indian brands / produce of India would be provided in order to increase the visibility of product. Proposal for assistance should be accompanied by the invoice of the retail chains/ super markets who are charging for the shelf space. The entity, where the shelf space is sought, should be a strong player in the market in that region / country and should have at least 100 outlets.
+
+Assistance for shelf space would be provided for a specified duration of marketing cycle or a maximum of six months at a stretch. Baseline sales in the entity where shelf space is sought and expected outcomes are to be provided along with the proposal. Empowered Committee would decide on admissibility of the fresh proposal or proposal for repeated assistance. b.
+
+Product Registration – The proposal for assistance under this subcomponent should have details of the product in respect of which registration is sought, country in which registration is sought along with justification for such registration. Assistance would be available for registration of Trade Mark / IPR / GI / Patents etc. c.
+
+Marketing campaign – Assistance under this subcomponent is primarily for a sustained communication campaign in the form of a branding blitz in both digital and traditional media platforms across key targeted markets with joint efforts of exporters, autonomous bodies and IBEF. Assistance for marketing of organic, value added, ethnic, GI, region specific and branded products can be availed by the exporters. Assistance is also available for generic marketing campaign for product / sector specific campaigns done by associations, export promotion agencies. Supply of material / samples, product literature, advertisement, social media promotions etc. in international print/ electronic media etc. would be eligible for assistance under this subcomponent. d.
+
+Road Shows/BSM in Target Countries – Assistance would be provided to promote and enhance visibility of Indian products in the international market. Venue Cost, including organising expenses, publicity cost for the event, translation and Interpreters charges, freight charges for exhibits and any other specific component as approved by the Empowered Committee would be eligible for assistance. e.
+
+Assistance for Product Sampling in Target Countries – Sampling of product to potential customers at end retail points is a proven marketing tool. Assistance would be provided to exporters of Indian branded products or to associations / export promotion agencies for generic products. Organising expenses, human resources used for sampling, freight charges for exhibits would be eligible for assistance. f.
+
+Development of e-commerce Platform – AEP envisages development of e-commerce platform to enable direct linkages among producers / processors, exporters/export markets, FPO, etc. The assistance would be provided for development & operation of platform and operational expenditure of the same and capacity building/workshops for farmers, field functionaries, State officials, Exporters, etc. for operating the e-commerce platform.
+
+5.6 Assistance for R & D a. Royalty, field trials, multiplication centre, capacity building for identified products, creation/identification of disease/pests free zone - In order to maintain competitive edge in the international market and to meet the requirements / tastes of international consumers, preferences of such markets need to be kept in mind. Assistance for such initiatives by public sector / exporters would be provided under this subcomponent. The applicant would be solely responsible for selection of variety, terms and conditions of import, terms and conditions of royalty.
+
+Applicant shall take approval of the Competent Authority in India, as the case may be, for import of such planting material. Imported germplasm / seed varieties should have a strong export focus and potential for creating a new revenue stream for the applicant. Realistic projected exports for next three years of the product may be provided. Appraisal of ICAR on the need for importing a germplasm/variety would need to be obtained by the applicant. Assistance would also be available for public sector applicants, in which case the body of work would be available to public. b. Laboratory for Spices/Tea/Food Products at Guwahati - A laboratory would be set up in Guwahati for testing of Spices/Tea/Food products grown in North East Region.
+
+6. Submission of Project Proposal: i.
+
+A proposal for assistance under the scheme will be submitted by the applicant in the prescribed application format (Annexure 5) along with the information/documents required. ii.
+
+Detailed Project Report (DPR), as outlined in Annexure 6, consisting of technical, commercial, financial and management aspects of the project need to be provided along with application. iii.
+
+The project proposal is to be meticulously formulated after conducting a detailed survey and based on available data and must clearly bring out the desired objective. iv.
+
+Measurable outcome should be indicated in the project proposal, which would also be one of the main criteria for sanctioning the projects. The project proposal must spell out outcomes envisaged and the indicators that would be used to measure the impact of the project e.g. measurable outcomes such as expected increase in farmers' income. v.
+
+Application for assistance for capital expenditure should be accompanied by In-principle or final term loan sanction and a detailed appraisal note from the Bank/ Financial Institution including Non-Banking Financial Companies (NBFCs) registered with Reserve Bank of India (RBI). Final term loan sanction letter from Bank/FI should be submitted within two months from the date of issue of approval letter. vi.
+
+Applicant has to enclose Certificate of incorporation/ registration of the applicant firm, Memorandum and Articles of Association in case of Company/ Bye laws of the Society, Co-operative, Self Help Group/ Registered vii.
+
+Documents in support of net-worth of the project/entity and also promoter(s) / proposed shareholder(s) of Annual reports and Audited Financial Statement of Accounts of the applicant firm/company/cooperative/ Partnership/ Self Help Group, etc. for last three years are to be submitted. viii.
+
+Documents in support of land title in the name of the applicant or land lease, duly registered with the competent authority for not less than the 10 years to be submitted. The proposals having ownership and possession of suitable land with Change in Land Use (CLU) for the project will only be further processed for assistance under the scheme. ix.
+
+The project proposal must establish the ways to increase the farmer income, increase in export of product, increase in quality of product etc.
+
+7. Process of scrutiny and Approval i.
+
+Application for assistance under cluster development is to be submitted to both CEO of the cluster and the State Nodal Agency. ii.
+
+Application for assistance under cluster development is to be appraised by both CEO of the cluster & State Nodal Agency separately and forward it to the Export Promotion Agency. iii. The application will be further appraised and recommended by the Export Promotion Agency (Authority / Board / EPC) having the mandate for the product. iv.
+
+The CEO of the cluster, State Nodal Agency and Export Promotion Agency (Authority / Board / EPC) will be provided a time period of 45 days to process the application at their end. If no comments are received from any entity within the specified time period, it will be assumed that there is no objection on the application for assistance and the application will be processed accordingly. v.
+
+While appraising the project, the justification, including the intended benefit in terms of addressing the specific export bottleneck, will be evaluated by all the entities involved. vi.
+
+The proposal with the detailed comments and recommendation will be forwarded to the Project Monitoring Unit
+
+(PMU). vii. The proposal after appraisal will be technically and financially evaluated by the Project Monitoring Unit (PMU) within 30 days and forwarded to the Empowered Committee for their consideration. viii. The proposals of the applicants for assistance will be considered by an Empowered Committee specially constituted for this Scheme. PMU report would be put up to Empowered Committee headed by Commerce Secretary and with participation of Secretaries of DAC&FW, DAHD, DoF, DARE / ICAR, DoCA, DFPD, MoFPI, FSSAI, DGFT, Customs and representatives of concerned State Governments for the approval of the projects/schemes. The Empowered Committee will be the final authority to take a decision on the proposal. ix.
+
+The Empowered Committee can delegate the approval process for certain components of the Scheme to a SubCommittee. x.
+
+The proposal would be further processed for assistance as per the unique needs of each cluster / product / market. xi.
+
+In-Principle Approval (IPA) by monitoring unit for implementation of AEP in the Department shall be issued within six months from the date of receipt of application. Subsequent to issuance of IPA, amendments in the same can be considered on the request of the applicant but within the validity of IPA. xii. IPA issued will generally be valid for 12 months in case of infrastructure / marketing / product development and for six months in capacity building or as mentioned in the IPA. The request for extension of IPA may be considered only on case to case basis on merits before expiry of the original IPA. xiii. Department of Commerce reserves the right to get the projects appraised from an outside agency. In case the project is not found viable, the application shall not be considered. xiv. The grant of IPA shall be based on eligible items and activities only and any expenditure on ineligible items or activity shall not be considered. xv. The decision of the Empowered Committee relating to admissibility of claim shall be final and mere applying for the assistance shall not provide any right to claim financial assistance. xvi. In so far as interpretation of any of the provisions of these Guidelines is concerned, the decision of the Empowered Committee shall be final. xvii. The basic process flow of scrutiny and approval of application under cluster development is placed at Annexure 2A. xviii. The list of product-wise Export Promotion Council (EPC)/ Commodity Boards/ Export Development Authorities is available at the DGFT Website (https://dgft.gov.in/appendices) in Appendix 2T.
+
+8. Monitoring i.
+
+The Empowered committee would meet on a quarterly basis to facilitate convergence of efforts /schemes, approval of proposals for assistance under this scheme and suggest actions to be taken for achieving the objectives of AEP. ii.
+
+PMU will periodically review the progress of the projects under the Scheme. The PMU would devise a suitable project monitoring system and shall furnish monthly reports/returns to the monitoring unit for implementation of AEP in the Department on the progress of the approved projects. iii.
+
+The financial assistance given under the scheme shall be subject to audit by the CAG of India. iv.
+
+The Scheme would also be evaluated for its efficacy by an independent agency engaged by DoC, after a period of 3 years from its commencement. v.
+
+Government of India will cause physical verification and other such enquiry as deemed fit, of the projects sanctioned under the Scheme.
+
+9. Time Schedule i.
+
+The time schedule for completion and operationalization of project will be specified in the in-principal approval provided by Empowered Committee depending on the nature of the proposal. ii.
+
+The applicant shall make all possible efforts to complete the project as per the stipulated timelines committed to while seeking approval for the project. In case of non-adherence to stipulated timeline, except in case of force de majeure or reasons beyond the control of applicant, the Empowered Committee may consider imposing appropriate penalty in terms of reducing the grant amount, on case-to-case basis. iii.
+
+In case of non-adherence of time lines, a penalty of 1% of the quantum of instalment amount due for release for that instalment, will be imposed for each month's delay beyond the stipulated timeline. The maximum amount of penalty, however, shall not exceed 10% of the instalment to be released to applicant. iv.
+
+In the event of applicant withdrawing from executing the project and the project not being completed by the applicant for any reason, the grant-in-aid amount released will be returned by the applicant to the Department along with interest (as per GFR) accrued thereon within 30 days of communication of the order for refund of such grant.
+
+10. General conditions and requirements i.
+
+Application should be accompanied with the following documents duly self-certified. a.
+
+For purchase of new equipment, quotation/proforma invoice/ bills should be obtained from minimum three Original Equipment Manufacturer (OEM) or their authorized distributor/ dealer of the equipment. b. In general, the quotations shall be sought from minimum 3 suppliers. The applicant is free to place work order at any of the three bidders however, the assistance shall be computed on the lowest quoted rate. c.
+
+In case of feasibility study, the quotation has to be sought from the reputed consulting firms having experience of 5 years in the relevant field. d. The cost estimate depicting Bill of Quantity, rate/unit and total amount duly certified by a Chartered Engineer or Civil Architect shall be submitted for civil work. The estimated cost and rate thereof should be within the Standard Schedule of Rate (for basic items only) as notified by Government of India and respective State Government Public Work Department. ii.
+
+The quotations should clearly show the address, GSTN, TIN and PAN, product description with detailed specification, validity date and item/unit wise cost and total amount. Technical brochure/literature/Pamphlet depicting equipment details in case of infrastructure/laboratory equipment/any other assets etc. with clear mention of the utility. iii.
+
+Wherever civil work is involved assistance shall be restricted only to technical civil work required for the project (List of Non-technical civil work is given in the Annexure 7). iv.
+
+The financial assistance towards the civil work component of the project would be limited to a maximum of 25% of the total eligible financial assistance for that application. v. Only realistic projected exports for next three years should be mentioned year wise in quantity (MTs) and value (Rs lakh) which may be verified and reviewed through PMU for considering future assistance. vi. Application for assistance will not be considered if the applicant has availed assistance from any agency in the past and have not fulfilled the desired outcomes like not exported consecutively for 2 years after availing assistance. vii. The applicant has to submit an undertaking that they did not avail any assistance from any other agency in the past for the item/work/unit/program/project for which assistance is sought. viii. Subsequent applications under the scheme will be considered based on export performance/achieving desirable outcomes only. ix. Any change in ownership/management of the applicant is to be intimated to PMU. x. At least 10% per annum export growth for five years shall be ensured by the beneficiary subsequent to availing assistance. The Monthly Export Returns for next five years after availing financial assistance must be submitted to PMU as a mandatory condition, even if the export is nil. xi. Priority would be given to infrastructure projects involving significant contribution of stakeholders and bank financing. xii. The combined net worth of the applicant should not be less than two times of the grant amount sought. xiii. Applicant needs to bring in at least 20% of the total project cost as equity / contribution and bring in term loan from the Bank/Financial Institution for an amount not less than 20% of the project cost. xiv. Preference would be given to existing stakeholders who are already exporting agriculture products / associated with export of agriculture products for which financial assistance is sought. xv. The applicant has to comply with all the requirements of registration / license with State Government / Local bodies / FSSAI and any other regulatory authorities. The applicant will submit an undertaking with the application mentioning all these details thereof. xvi. The level of assistance would be limited to a maximum assistance for the sub-component for each proposal. xvii.
+
+For the purpose of calculating the extent of contribution of the applicant under the scheme the cost of land shall not be included in the project cost. xviii.
+
+Any organization / exporter / trader / company availing any of the provisions of the Scheme shall not be under investigation / charged / prosecuted / debarred/ black listed under the Foreign Trade Policy of India or any other law relating to export and import business.
+
+11. Guidelines regarding release of funds: i.
+
+Reimbursement of eligible assistance will be back ended, upon completion and submission of claim by applicant in accordance with terms and conditions of the IPA letter issued and subsequent physical verifications if any, by PMU. The assistance to State Governments may be provided in advance with the approval of Empowered Committee. ii.
+
+It is the responsibility of the applicant to file final claim documents complete in all respects well before the expiry of the original or extended validity, if any, of the IPA letter. iii.
+
+The funds shall ordinarily be released to the applicant for the approved projects in lump sum after completing all procedures. iv.
+
+Staggered Assistance: If assistance is to be staggered, justification for the same is to be provided. Each disbursement shall be subject to the applicant achieving financial closure of the previous tranche and observation of the PMU. The 1st instalment will be released as per approval of the proposal by the Empowered Committee. Further instalments would be released based on the observations of PMU and then further approval of the Empowered Committee. Certification of the physical and financial progress by the PMU engaged in accordance with this Scheme, would be a pre requisite for release of further instalments. v.
+
+Applicant shall submit a bond to be executed regarding utilization of funds in the prescribed format. vi.
+
+Applicant will submit a pre-receipt bill for the funds to be disbursed to it along with a certificate (in the prescribed format) that it has not indulged in corrupt practices. vii.
+
+Release of further instalments in case of public sector applicants shall be sub subject to furnishing of the complete utilization certificate, PMU report. viii.
+
+In case of any discrepancy / clarification, required documents shall be sought from the applicant. ix.
+
+The final claim documents complete in all respects, shall be processed for approval. x.
+
+The assistance amount shall be released online through NEFT / RTGS to the beneficiary, direct in their account as per detail submitted in the application. xi.
+
+Applicants who are not existing exporters or whose application is not bank linked, a bank guarantee @25% of the eligible financial assistance is to be submitted at the time of disbursement of the assistance. Bank guarantee would be released after making exports as envisaged in the terms and conditions of the scheme. xii.
+
+The actual budgetary allocation for the scheme may vary. Disbursement of assistance is subject to actual budget allocation. xiii.
+
+Financial assistance is provided subject to availability of the funds. xiv.
+
+Financial assistance is provided subject to continuation of the scheme. There shall be no claim by the applicant in carrying forward the application for financial assistance beyond the time period of the scheme. xv.
+
+Government would not be having any kind of committed liability towards any application for financial assistance.
+
+12. Assets i.
+
+The assets created by the applicant shall be owned by the applicant after the completion of project. ii.
+
+The assets acquired/created by the applicant out of government assistance shall not be disposed, encumbered or utilized for purposes other than those for which the funds have been released. iii.
+
+A register of permanent and semi-permanent assets acquired wholly or partly out of the funds provide by the Government of India should be maintained in the Form GFR19. iv.
+
+In case of cancellation of the project at any point of time, all the assets and any unutilized grant shall vest with the Government of India.
+
+13. Recall of the Central Grant Empowered committee retains the right to curtail/ recall the central grant along with applicable penal interest in case of unsatisfactory use of the grant including compromise with the quality envisaged, or partial/incomplete implementation of the project.
+
+14. Dispute Redressal Mechanism (DRM) A standing mechanism to review projects sanctioned under the scheme and to resolve disputes will be activated at the Department of Commerce with the following composition: a.
+
+Joint Secretary (EP -Agri), Department of Commerce - Chair b. Director (EP-Agri), Department of Commerce – Member Secretary c.
+
+Director (EP-MP) / Director (Plantation) (only for marine products and Plantation product cluster respectively) – Member d. Director, DAC&FW – Member e.
+
+Director, DAHD / Director, DoF (depending on the cluster) – Member f.
+
+Director, MoFPI – Member g. Representative of State Nodal Agency where the project is implemented - Member This DRM will be the forum to resolve any disputes which arise during the implementation of the projects. If this committee is unable to resolve the dispute, it will be referred to the Empowered Committee. The decision of the Empowered Committee in any matter will be final.
+
+Disclaimer: The Scheme guidelines are subject to revision from time to time as per the policy directions from GOI Annexure-1 List of clusters Product Region State District Thrissur, Wayanad, Thiruvananthapuram Kerala Andhra Pradesh Kadapa, Anantapur South Banana Tamil Nadu Trichy, Theni, Pollachi Maharashtra Jalgaon, Kolhapur, Solapur West Gujarat Bharuch, Narmada, Surat Andhra Pradesh Anantapur, Kurnool South Karnataka Belgaum, Mysore Pomegranate West Maharashtra Solapur, Ahmednagar, Pune Central Madhya Pradesh Khargone, Khandwa, Burhanpur Maharashtra Ratnagiri, Sindhudurg West Gujarat Junagarh, Valsad, Kutch, Navsari North Uttar Pradesh Saharanpur, Meerut, Lucknow Mango Telangana Rangareddy, Mehboobnagar, Warangal South Andhra Pradesh Krishna, Chittoor, Kurnool Grapes West Maharashtra Pune, Nasik, Sangli Rose Onion South Karnataka West Maharashtra Nasik Onion Central Madhya Pradesh Indore, Sagar, Damoh Uttar Pradesh North Punjab Jalandhar, Hoshiarpur, Kapurthala, Navashehar Potato West Gujarat Banaskantha, SabarKantha Central Madhya Pradesh Indore, Gwalior Tea East Assam Tinsukia, Sibsagar, Dibrugarh Coffee South Karnataka South Andhra Pradesh East Godavari, Vishakapatnam, West Godavari, Nellore Marine products East Odisha Jagatsinghpur, Bhadrak, Balasore West Gujarat Kutch, Veraval, Navasari, Valsad Telangana Khammam, Warangal Chilli South Andhra Pradesh Guntur South Telangana Nizamabad, Karimnagar Turmeric Kerala Wayanad, Alleppy Meghalaya West Jaintia Hills East East Odisha Kandhamal West Gujarat Banaskantha, Mehsana Cumin North Rajasthan Jalore, Jodhpur, Barmer, Nagaur, Pali Kerala Wayanad Pepper South South Karnataka Chikmagalur Cardamom South Kerala Isabgol North Rajasthan Jodhpur, Nagaur, Barmer, Jaisalmer Castor West Gujarat Banaskantha, Kutch, Patan, Sabarkantha, Mehsana West Maharashtra Nagpur, Amravati, Wardha Orange Central Madhya Pradesh Chindwara, Agar Malwa, Shajapur North Uttar Pradesh Mathura Dairy Products West Gujarat Banashantha North Uttar Pradesh Varanasi Fresh Vegetables (Okhra and green chilli) Poultry Products and South Tamil Nadu eggs Annexure-2 Details of assistance under different subcomponents of the scheme Sl.No. Item Assistance Pattern of Assistance Assistance for State agencies a) Appointment of one consultant each in 20 States.
+
+Rs 25 Lakh / consultant / annum
+
+(i) Maximum two consultants in a State nodal Agency.
+
+(ii)The assistance for emoluments of consultant will be transferred to State Nodal Agency for further disbursement. b) Logistics and establishment 10 Lakh The assistance of 10 lakhs will be disbursed to States Nodal Agency w.r.t. logistics & establishment expenses. c) Capacity building of officials 100% (upto 20 lakh per State) For capacity building of about 10 officials from each State in export promotion, activities of export promoting bodies and export councils Assistance for Institutional Mechanism a) Engaging 10 interns for Monitoring Cell Rs 6 lakhs / intern/ annum About 10 interns will be engaged by DoC to monitor the implementation of the scheme. b) Engaging Project Monitoring Unit 100% (upto 2 Crore) Project Monitoring Unit (PMU) will be engaged at the Centre Level by DoC for the evaluation of projects under the scheme. c) Establishment Expenses 70 Lakh For establishment expenses of monitoring cell for AEP. d) Engagement of CEO for clusters Rs. 25 lakhs / CEO / annum The assistance for emoluments of CEO will be transferred to State Nodal Agency for further disbursement. e) Engagement of staff for clusters (2 per cluster) Rs. 6 lakhs / staff / annum
+
+(i) Maximum two staff per cluster.
+
+(ii) The assistance for emoluments of staff will be transferred to State Nodal Agency for further disbursement. f) Initial grant for establishment of cluster office, FPO etc.
+
+Rs 1 crore / cluster For establishment expenses of cluster office setup, organising FPOs etc.
+
+Sl.No.
+
+Item Assistance Pattern of Assistance Assistance for Clusters
+
+(i) Each project will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 50 lakhs.
+
+(ii) about 20 projects in each of the cluster would be a) Post-harvest infrastructure in clusters Rs. 50 lakhs / project assisted.
+
+(iii) Specific requirements and conditions of the scheme are mentioned in Annexure 3. b) Capacity Building 100% (upto 20 lakh per cluster) Assistance for capacity building of farmers, FPOs, entrepreneurs, workforce in production/processing/ export activities, exporters, officers and training the trainers.
+
+(i) Assistance will be restricted to 50% of the overall per farmer investment proposed, with a ceiling of Rs. 50,000 per farmer through the project cycle subject to a maximum ceiling of 5 Crore per project which should not exceed 25% of the total cost of the project.
+
+(ii) The remaining investment should be arranged by the applicant through institutional financing and its own and farmer contributions.
+
+(iii) The project will target at least 5000 farmers c) Grant towards PPP-IAD Rs. 5 crores / Project spread over the project life.
+
+(iv) A maximum of two projects would be assisted for each cluster.
+
+(v) All assistance will be directly routed to farmers or reimbursed to applicant after verification of asset distribution to farmer.
+
+(vi) Specific requirements and conditions of the scheme are mentioned in Annexure 4.
+
+(i) Assistance up to 35% of the total cost subject to a ceiling of Rs. 25 lakhs per laboratory
+
+(ii) One laboratory per cluster would be assisted. d) Laboratories Rs. 25 lakhs / laboratory
+
+(i) Assistance up to 35% of the total cost.
+
+(ii) No specific ceiling for the items assisted. e) New Technology/Machinery Rs. 5 crores/ cluster Introduction f) GAP implementation Rs. 10000 / Hectare Assistance up to 35% of the total cost subject to maximum of 4 Hectare per farmer.
+
+S. No Item Assistance Pattern of Assistance Assistance for Product Development a) New Product Development Rs. 25 lakhs / project Each project will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 25 lakhs. b) increase Rs. 10 lakhs / project Each project will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 10 lakhs. c) Rs. 10 lakhs project Each project will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 10 lakhs.
+
+Research on improving in production cost Assistance for Marketing a) Shelf Space Assistance Rs. 10 lakhs / proposal Each proposal will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 10 lakhs. b) Product Registration Rs 1 lakh / product Each proposal will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 1 lakh. c) Marketing campaign Rs. 1 crore / proposal Each proposal will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 1 crore. d) Road Shows/BSM in Target Countries Rs. 25 lakhs / proposal Each proposal will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 25 lakhs. e) Rs. 25 lakhs / proposal Assistance for Product Sampling in Target Countries Each proposal will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 25 lakhs. f) Development of ecommerce Platform 100% Development and operation of the ecommerce platform would be assisted through APEDA.
+
+Assistance for R & D a) Rs 10 crores / proposal Each proposal will be provided an assistance up to 35% of the total cost subject to a ceiling of Rs. 10 crores.
+
+Royalty, field trials, multiplication centre, capacity building for identified products b) Rs 15 crores Construction and operation of the laboratory would be assisted through Spices Board.
+
+Laboratory for Spices/Tea/Food Products at Guwahati Annexure-2A Process of Scrutiny and Approval under Cluster Development Annexure-3 Specific Requirements and Conditions-Post-harvest infrastructure in clusters The applicant shall ensure compliance of the following specific requirements relevant to the subcomponents under Post-harvest infrastructure in clusters:
+
+A. Cold Chain / Pack house: a.
+
+The proposals for Pack houses / cold storages / pre-cooling shall minimally be based on National Council for Cold Chain Development (NCCD) cold chain technical standards as available at the link http://nccd.gov.in/. b. Requirements of importing countries have to be complied with, as per directions from Commodity Boards / EPCs from time to time. c.
+
+The applicant shall be responsible to get the facility registered with relevant authorities within 6 months of completion of project.
+
+II. Processing Facilities: a.
+
+The unit must put up a value added food processing line for export purposes. b. The unit must be HACCP / ISO 22000 certified.
+
+Annexure-4 Specific Requirements and Conditions-Grant towards PPP-IAD
+
+1. Average investment per farmer during project must be quantified, though an average of Rs. 1.00 lakh per farmer will be a desirable benchmark.
+
+2. Once the projects are approved, detailed guidelines for implementation of project will be prepared by the PMU.
+
+3. On behalf of producer farmer members FPOs can participate in PPP-IAD. Apart from activities of production they themselves or along with another end user company they should procure the end product of project.
+
+4. PPP partners should invariably procure the end product (farm produce) in the project so as to complete the value chain (end to end solution).
+
+5. Applicant will identify the regions in the cluster they wish to take up and develop the project for integrated agriculture development. The strategy & road map formulated should invariably contain information on geography & climate, potential of agriculture development, availability of land, SWOT analysis, and strategy for development and plan of action proposed to be taken to achieve goals in the identified region.
+
+The document should focus on adoption of cluster approach for production and linking with available infrastructure, or to be created, for postharvest management, processing, marketing and export.
+
+6. Growers/farmers would also be entitled for assistance under existing schemes of other Departments of Government of India so that these schemes can ensure appropriate synergy and convergence for maximum benefit in the field.
+
+7. Applicant would provide clearly verifiable indicators for tracking the progress of the project during its life cycle.
+
+8. The template for DPR would essentially include (not limited to) information on following.
+
+(i) Introduction & Background
+
+(ii) Baseline survey
+
+(iii) Applicant profile
+
+(iv) SWOT analysis
+
+(v) Objectives
+
+(vi) Scope of project
+
+(vii) Implementation plan- Component wise details, Interventions proposed for end to end value chain, Strategy for rolling out the project with availability of man power in project area
+
+(viii) Procurement plan
+
+(ix) Roles & Responsibilities of different stake holders
+
+(x) Innovations
+
+(xi) Monitoring & Evaluation
+
+(xii) Indicators for monitoring the project Annexure-5 Application Form
+
+1.
+
+Details of the applicant:
+
+S. No.
+
+Particulars Details Name of company/firm with complete contact details / address, Tel/Fax No. , Mobile No., Email i. ii.
+
+Legal status of applicant (Govt. Institution / organization / PSUs, Joint Venture, NGO, Co- operative/ Company/ partnership firm/ proprietorship, Farmer Producer Company, Self Help Group, etc.) iii.
+
+Registration No. /CIN iv.
+
+PAN / TIN /TAN v.
+
+Aadhar Registration No.
+
+E-mail
+
+2.
+
+Details of the Director(s)/ Promoter(s)/Partner(s) of Implementing agency Sl.
+
+Name of Address Tel/Fax No. / Aadhar PAN Shareholding NetNo.
+
+Promoter Mobile No. / No.
+
+No. pattern worth
+
+(s)/Partner(s) Please add additional rows, if needed.
+
+3.
+
+Experience of the lead Promoter(s)/Partner(s) of Implementing agency in Food / agro produce processing Details Supporting Sl.
+
+Name of lead Promoter (s)/ Partner(s)/Applicant Entity Details of Turnover No. of Experience (yearDocument attached, if any wise) (Yes/No)
+
+4. Profile of the proposed project:
+
+(a) Details of location.
+
+(i) Proposed location of land for agro cluster (Name Village /Dist./state)
+
+(ii) Area of Land required (In acres)
+
+(iii) Status of possession (Owned/ leased**)
+
+(iv) Status of Land Use Conversion (CLU)
+
+(v) Proof of water and power connection
+
+(vi) Availability of Approach Road
+
+(vii) Connectivity Details. Distance (in km's.) from: National Highway; State Highway;
+
+Freight corridor, Golden Quadrilateral, nearest cluster
+
+(viii) Coordinate Details (Longitude & Latitude)
+
+(ix) Agro commodities to be sourced
+
+(b). Proposed infrastructure Type of facilities Built-up No. of Days of operation of each Sl.
+
+No. proposed to be Area Estimated Investment facility in a year created * No.
+
+Total Capacity
+
+[MT, MT/Hr., where ever applicable] i. CA Store ii. Normal cold iii. Frozen store iv. Pre-cooling Chambers v. Sorting, Grading, Waxing, Weighing, Packing facility vi. Ripening Chambers vii. IQF viii. Blast Freezing ix Laboratory x.
+
+Packhouse Any other facilities as per the requirement of food processing units in the cluster * Only indicative list.
+
+5. PROJECT FINANCIALS AND BUSINESS PLAN:
+
+Estimated Project Cost Details Item Amount (Rs. in crore) Land Land development Basic enabling Infrastructure Core Processing Infrastructure Non-core Infrastructure Other Pre-operative expenses Margin money for working capital Contingencies/ pre-operative expenses Total Proposed Means of Finance Source Amount (Rs. in crore) PEA contribution / equity Bank loan Grants-in-aid from DoC Unsecured Loan/ Bridge Loan Total
+
+8.
+
+No. of farmers expected to be benefitted
+
+9.
+
+Employment Generation projections a.
+
+Direct Employment: ………………… b. Indirect Employment: ……………….
+
+Signature of the authorized representative of Applicant Date:
+
+Place:
+
+Annexure-6 Detailed Project Report format
+
+1. Context/Background: This section should provide a general description of the scheme/project being posed for appraisal.
+
+2.
+
+Problems to be addressed: This section should describe the problem to be addressed through the project/scheme at the local/regional/national level. Evidence regarding the nature and magnitude of the problems should be presented, supported by baseline data/survey/reports etc.
+
+3. Aims and Objectives: This section should indicate the development objectives proposed to be achieved, ranked in order of importance. The outputs/deliverables expected for each development objective should be spelt out clearly.
+
+4. Strategy: This section should present an analysis of alternative strategies available to achieve the development objectives. Reasons for selecting the proposed strategy should be brought out. Basis for prioritization of locations should be indicated (wherever relevant). This section should also provide a description of the ongoing initiatives, and the manner in which duplication can be avoided and synergy created with the proposed project.
+
+5. Target Beneficiaries: There should be a clear identification of target beneficiaries. Stakeholder analysis should be undertaken, including consultation with stakeholders at the time of scheme/project formulation.
+
+Impact of the project on weaker sections of society, positive or negative, should be assessed and remedial steps suggested in case of any adverse impact.
+
+6. Management: Responsibilities of different agencies for project management of scheme implementation should be elaborated. The organization structure at various levels, human resource requirements, as well as monitoring arrangements should be clearly spelt out.
+
+7. Finance: This section should focus on the cost estimates, budget for the scheme/project, means of financing and phasing of expenditure. Options for cost sharing and cost recovery (user charges) should be explored. Issues relating to project sustainability, including stakeholder commitment, operation maintenance of assets after project completion and other related issues should also be addressed in this section.
+
+8. Time Frame: This section should indicate the proposed zero date for commencement and also provide a PERT/CPM chart, wherever relevant.
+
+9. Cost Benefit Analysis: Financial and economic cost-benefit analysis of the project should be undertaken wherever such returns are quantifiable. Such an analysis should generally be possible for infrastructure projects, but may not always be feasible for public goods and social sector projects.
+
+10. Risk Analysis: This section should focus on identification and assessment of risks in implementation and how these are proposed to be mitigated. Risk analysis could include legal/contractual risks, environmental risks, revenue risks, project management risks, regulatory risks, etc.
+
+11. Outcomes: Criteria to assess success and whether or not the development objectives have been achieved should be spelt out in measurable terms. Base-line data should be available against which success of the project will be assessed at the end of the project (impact assessment). Success criterion for scheme deliverables/outcomes should also be specified in measurable terms to assess achievement against proximate goals.
+
+12. Evaluation: Evaluation arrangements for the project, whether concurrent, mid-term or post-project should be clearly spelt out. It may be noted that continuation of schemes from one period to another will not be permissible without a third-party evaluation.
+
+13. Last but not the least, a self-contained Executive Summary should be placed at the beginning of the document.
+
+Annexure-7 List of Non-Technical civil works The following items will be considered as non-technical civil works and will be considered ineligible for calculation of grant for the project (The list is only indicative and not exhaustive):
+
+1. Compound Wall
+
+3. Cost of Land
+
+4. Administrative Office Building
+
+5. Canteen
+
+6. Toilets
+
+7. Labour Rest Room and quarters for workers
+
+8. Septic tank, drainage, etc.
+
+9. Security/ Guard Room or enclosure
+
+10. Consultancy fee, taxes, etc.
+
+11. Any other Non-technical civil works which is not related to direct requirement of cold chain or storage Infrastructure.
+
+DIWAKAR NATH MISHRA, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
