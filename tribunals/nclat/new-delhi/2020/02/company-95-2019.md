@@ -1,0 +1,407 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Company) No. 95 of 2019"
+decided: "2020-02-11"
+section: "Company"
+court: "Court - 4"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/250392065e428b1e55027.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Company) No. 95 of 2019, 2020-02-11
+
+1
+Company Appeal (AT) No.95 and 103 of 2019
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+Company Appeal (AT) No. 95 of 2019
+IN THE MATTER OF:
+Shri Ravinder Kumar Magoo,
+S/o Late Sh C.L. Mangoo,
+R/o C-49, Sector 7
+Noida, UP Appellant
+Vs
+1. M/S AMA India Enterprise Pvt. Ltd.
+H.No.999/1,
+St No.4, Punjab Mata Nagar,
+Pakhowal Road,
+Ludhiana 141002
+Mr Alessandro Malavolti,
+S/o Mr. Luciano Malavolti,
+R/o San Martino in Rio (RE),
+PZA Della Porta 3, San Martino in rio
+Correspondence address in India:
+St No.4, Punjab Mata Nagar,
+Pakhowal Road,
+Luchiana 141002 Punjab India Respondent
+For Appellant: Mr. Rakesh Kumar and MR. Ankit Sharma, Advocates
+for Respondent.
+For Respondents: Mr. NPS Chawla, Mr Aaryan Sharma, Mr. Suresh Kant,
+Advocates for appellant.
+And
+Company Appeal (AT) No. 103 of 2019
+IN THE MATTER OF:
+M/S AMA India Enterprise Pvt. Ltd.
+Village Bhama Kalan, Kohara
+to Machhiwara Road,
+District Ludhiana 141113 Appellant
+
+Vs
+1. Shri Ravinder Kumar Magoo,
+S/o Late Sh C.L. Mangoo,
+
+2
+Company Appeal (AT) No.95 and 103 of 2019
+R/o C-49, Sector 7
+Noida, UP
+2. Mr Alessandro Malavolti,
+S/o Mr. Luciano Malavolti,
+R/o San Martino in Rio (RE),
+PZA Della Porta 3,
+San Martino in rio
+Correspondence address in India:
+Village Bhama Kalan, Kohara to
+Machhiwara Road,
+Distt. Ludhiana 141113 Respondent
+For Appellant: Mr. NPS Chawla, Mr Aaryan Sharma, Mr. Suresh
+Kant, Advocates for appellant.
+For Respondents: Mr. Rakesh Kumar and MR. Ankit Sharma,
+Advocates for Respondent.
+J U D G M E N T
+(11th February, 2020)
+Mr. Balvinder Singh, Member (Technical)
+1. The present set of 2 appeals has been preferred by Shri Ravinder Kumar
+Magoo (hereinafter referred to as ‘Appellant’) and M/S AMA India Enterprise
+Pvt. Ltd. (hereinafter referred to as ‘Respondent No.1’) & Mr. Alessendro
+Malavolti (hereinafter referred to as ‘Respondent No.2’) against each other.
+Appellant in Company Appeal (AT) no. 95/2019 is partly challenging the para
+17, 27 and 33 of the impugned judgement, dated 21.01.2019 passed by NCLT,
+Chandigarh Bench in CA No. 133/C-11/2015 [RT CA No. 04/CHD/PB/2017]
+in CP NO. 89(ND)/2009 (Decided Matter) which is as under:
+a) Modify the paragraph No.17, 27 and 33 of the Impugned Order
+21.1.2019 passed by the Ld NCLT, Chandigarh Bench, Chandigarh
+in CA No.133/C-II/2015 RT CA No.04/CHD/Pb/2017 in CP
+No.89(ND)/2009 titled as “Shri Ravinder Kumar Magoo Vs M/s AMA
+
+3
+Company Appeal (AT) No.95 and 103 of 2019
+India Enterprises Private Ltd & Anr” with the effect that the share
+price of the appellant be restored back to Rs.26.07 per share as per
+the valuation report of the value rated 5th February, 2016.
+2. Whereas the Appellant in Company Appeal (AT) No.103/2019 is
+challenging the above impugned judgment as a whole.
+3. The brief facts of the case are that the Respondent No. 1, M/s AMA
+India Enterprises Pvt Ltd, was incorporated on 26th day of February, 1999
+(with the 50% shareholding of Respondent No. 2 and 25% shareholding of the
+appellant(original petitioner) and 25% shareholding of one other partner,
+namely Mr Mahinder Kumar Chopra), having its registered office at H.No.
+999/1, ST. No. 4, Punjab Mata Mandir, Pakhowal Road, Ludhiana-141002
+Punjab, India with an authorised share capital of Rs.6,00,00,000/- (Rupees
+Six Crore only) divided into 60,00,000 (Sixty Lacs) Equity shares of Rs.10/-
+(Ten) each. The legally issued, subscribed and paid up capital is
+Rs.5,61,36,320/- (Rupees Five Crore Sixty One Lac Thirty Six Thousand
+Three Hundred and Twenty) divided into 56,13,632/- (Fifty Six Lacs Thirteen
+Thousand Six Hundred Thirty Two) Equity shares of Rs10/- (Ten) each.
+Respondent No. 2 is an Italian Citizen and was the CEO of Respondent No. 1
+company. Respondent No. 2(Original Respondent No.2) with the
+Appellant(original petitioner) and Mr. Mahinder Kumar Chopra formed a Joint
+Venture Company in the form of Respondent No. 1 Company.
+4. Appellant (original Petitioner in CP) filed Company Petition No. 89 of 2009
+before erstwhile Company Law Board under Section 397, 398, 402 & 408 of
+the Companies Act, 1956 alleging oppression and mismanagement by the
+Respondent No. 2 in the Respondent No. 1 Company. The said petition was
+
+4
+Company Appeal (AT) No.95 and 103 of 2019
+disposed of by then the Ld. CLB vide order dated 2nd January 2015. In
+pursuance of the said order, then the Ld. CLB had directed to provide the exit
+to the appellant from the Respondent No. 1 company on fair valuation as on
+31st March 2014. For valuation of the shares of the company M/s Seema
+Naresh Bansal & Associates (R-13 & R-14, LGF, Ansal Chamber-II, Bhikaji
+Cama Place, New Delhi) was appointed as valuer to value the shares on fair
+valuation within two months from the date of order made available to the
+parties.
+5. Accordingly the aforesaid valuer had given its report on 16th April 2015. As
+per the said report, the following value has been ascertained by the valuer:
+S.
+No.
+Description Amount as at
+31.03.2014
+audited, book
+value
+Amount of
+valuation
+adjustment
+Amount as
+adjusted fair
+value
+A. Tangible Assets
+i) Factory Land
+11353 7434 18787
+ii) Building 56844 -- 56844
+iii) Plant &
+Machinery
+12119 9603 21722
+iv) Other Tangible
+Assets
+17968 17967
+
+5
+Company Appeal (AT) No.95 and 103 of 2019
+Total of ‘A’ 98283 17037 115321
+B Other Non-Current
+Assets
+1177 -- 1177
+C Current Assets 121261 -- 121261
+D Total Assets (A+B+C) 220721 17037 237758
+E Non-Current
+Liability
+3719 -- 3719
+F Current Liabilities 112084 -- 112084
+G Total Liabilities
+(E+F)
+115803 -- 115803
+H Net Adjusted Assets
+(D-G)
+104918 17037 121955
+Represented by:
+Share Capital 56136 -- 56136
+Reserves & Surplus 48782 -- 48782
+Revaluation
+Reserves
+-- 17037 17037
+I Net Worth 104918 17037 121955
+
+6
+Company Appeal (AT) No.95 and 103 of 2019
+J No. of Equity share
+of Rs.10/- each
+5613.632 5613.632
+Value per share 18.689 21.725
+The Control premium was also given by the valuer on the basis of the
+following:
+“Control Premium:
+In the present situation where the respondent i.e. majority shareholder
+is having 75% shareholding of the company. Since after transfer of 25%
+shares from the petitioner the entire shareholding will be in the hand
+of non-resident/foreign company, who is directly benefited by way of
+full control on the Indian entity. In this case where AMA SPA Italy who
+gives the specific orders, we have been intimated that the Indian
+Company is not having any pricing policy.
+From the balance sheet analysis, it seems the Indian entity is working
+on a negligible profit. The Indian company has not readily available
+market in India, but AMA SPA Italy is a well-known company in its area
+and carrying a good reputation and ready market. It is also worth to
+mention here that the Indian company manufactured all of its products
+only for AMA SPA Italy, which will be owned by foreign promoters. It is
+also worth to mention in a transection where a holding company gave
+an open offer to a publically listed company Hindustan Liver Limited,
+with a premium of 21% (for increasing its stake to 75%).
+
+7
+Company Appeal (AT) No.95 and 103 of 2019
+In the present case it will be just and fair to assign/add a 20% control
+premium on the equity value arrived.
+Thus the Equity share value comes to under Adjusted NAV is = (21.725
++ 20%) i.e. Rs.26.07”
+6. Both the Respondent No. 2 in CA No. 133/C-II/2015 and the appellant in
+its application dated 14.07.2015 filed the objections to the valuation report.
+The said valuer resubmitted his report on 12.10.2015. However, appellant
+had withdrawn the objections on 5th February 2016 on the condition that if
+Respondent No. 2 gives immediate payment at the arrived valuation price on
+the basis of valuation report.
+7. The objection of the Respondent No. 2 in CA NO. 133/C-II/2015 was
+disposed of by the Hon’ble NCLT, Chandigarh by passing the impugned order
+dated 21.01.2019. The Hon’ble NCLT though has upheld the valuation report
+dated 12.10.2015 given by the valuer, but altered some of the valuation price
+in para 17, 27, and 33 of the impugned Order whereby share price was
+reduced from Rs.26.07 to Rs.21.483 per share.
+8. Being aggrieved with the order appellants have filed this appeal.
+9. It is stated by the appellant that he had the right in pursuance of the Joint
+Venture Agreement with respect to the affairs of Respondent No. 1 Company.
+That his position with respect to his 25% equity cannot be easily interfered
+with. Thus reduction of the control premium @20% in the valuation report
+was wrong.
+
+8
+Company Appeal (AT) No.95 and 103 of 2019
+10. The Appellant further stated that the provisions of Section 101 and section
+232 of Companies Act, 2013 which provide that for taking certain decisions,
+the majority of 90% members are required in the company. The Respondent
+No. 1 company could not take such decisions without the consent of the
+appellant because he being the 25% equity shareholder.
+11. The Appellant has also referred the ICAI Regulations on the share
+valuation which particularly refers that in case of having the controlling
+interest by the majority shareholders in the company, the controlling
+premium would be given. The said aspect has not been dealt with in the
+impugned Order. It has been further stated by the Appellant that in the year
+2009, the Respondent No. 2 had given exit to Mr. Mahinder Kumar Chopra
+on the share value of Rs.4,51,59,084/- (Rupees Four Crores Fifty One Lakhs
+Fifty Nine Thousand and Eighty Four Only). Even in the year 2009 the offer
+was made to the appellant for USD 740000.
+12. The Appellant referred to the Judgement passed by Ld. CLB of the Mumbai
+titled “Mr. Anup Bhaskaran Rana Vs, Faber - Castell Akiengesellschaft & Ors.”
+In the said matter, the valuer had not granted the control premium while
+making the exit of the petitioner in the said petition. Then the Ld. CLB had
+given the control premium to the petitioner in the said matter in the similar
+circumstances.
+13. Learned counsel for the appellant submits that the impugned order
+proceeds on an incorrect premise and the valuation adjustment from
+Rs.1,70,70,000/- (as per value report) to Rs.1,56,74,040/- on the base of cost
+inflation index of Income Tax Act, 1961, in reference to Notification No.
+44/2017 dated 5th June 2017 of Central Board of Direct Taxes, Department
+
+9
+Company Appeal (AT) No.95 and 103 of 2019
+of Revenue, Ministry of Finance. It has taken into account the Cost Inflation
+Index for the FY 2013-14 is 220 and for FY 2014-15 is 240. The Hon’ble NCLT
+has failed to consider that as on 31st March 2015 in the valuation chart, there
+was a book value of Rs.22,07,21,000/- and the adjusted value was coming to
+Rs.23,77,58,000/-. The adjusted amount was of only Rs.1,70,37,000/-. The
+said difference was due to arriving the current market value of the assets. The
+Hon’ble Tribunal has arbitrarily reduced the said price from rs.1,70,37,000/-
+to Rs.1,56,74,040/-. The view of the Hon’ble NCLT is wrong in removing of
+the controlling premium of 20% from the arrived value price of Rs.26.07 per
+share, whereby the per shareholding has been reduced to Rs.21.483 per
+share. Ld. Counsel for the appellant also submits that NCLT has also erred in
+granting the interest of 12% w.e.f. 01.03.2016, as the rate should have been
+awarded @ 18% which the recognized statutory interest even under the
+various statue.
+14. Respondents filed their reply and rebutted in brief as under: -
+a) Respondent stated that there are various discrepancies, objections
+regarding methodology and infirmities in valuation report including the
+apparent violation of the directions of the judgement.
+b) Learned counsel for the respondents stated that Hon’ble NCLT partly to
+the extent of not applying the control premium@20% is accordance with
+law & fact and circumstances of the present case and merits no
+interference. It is submitted that control premium is an amount that
+buyer is usually willing to pay over the value otherwise determined, in
+order to “acquire a controlling stake in the company”, whereas in the
+
+10
+Company Appeal (AT) No.95 and 103 of 2019
+present factual matrix of the case the Respondent No. 2 already holds
+the controlling stake.
+c) It is further stated that the ICAI regulations on share valuation which
+inter-alia refers to the controlling interest held by the majority
+shareholders in the Company, has been duly adopted and applied in
+the present case. The said regulation deal with shares carrying
+‘controlling interest’ and as already mentioned above, since the
+Respondent No. 2 already holds 75% shares of Respondent No.1, the
+controlling interest vests with respondent No. 2 without acquisition of
+25% shares of the Appellant. It is further submitted that the said
+Regulations itself provides that controlling interest is involved where
+the shares to be valued constitute more than 50% of the equity shares
+of a closely held company however in the present case the Appellant
+holds only 25% shares of Respondent No. 1 Company.
+d) Respondent also stated that past transection which was undertaken
+between Respondent No. 2 and Mr Mahinder Kumar Chopra in the year
+2008, has no relation whatsoever with the present valuation being
+conducted.
+e) Learned counsel for the Respondents submitted that Hon’ble NCLT had
+wrongly directed for the payment of interest as the amount must not
+only be owing but due to be paid. The right to claim interest will be
+dependent on the valuation report attaining finality. The amount
+became due and payable only when the impugned order was passed
+subject to the outcome of the present valuation report and therefore,
+the interest could not have been charged in retrospective manner.
+
+11
+Company Appeal (AT) No.95 and 103 of 2019
+Interest cannot be awarded to the Appellant especially when the
+Appellant has himself challenged the valuation report. Although the
+Appellant i.e. original petitioner claims to have withdrawn his
+objections to the valuation report, however, such withdrawal never
+became effective as the same was subject to the payment of the value
+as originally computed by the valuer. It is further submitted that in view
+of the matter being sub-judice as the Application challenging the
+original valuation filled by the Respondent had not been decided on
+merits before passing of the impugned order, thus no interest should
+have been awarded to the Appellant in the present case.
+f) Learned counsel for the Respondents further submitted that the valuer
+has wrongly applied the methodology for the purpose of final
+determination of the value per share as there is erroneous application
+of cost inflation index for reducing the value instead of determining the
+fair value of the equity shares of the Respondent No. 1 as on
+31.03.2014. The respondent contended that value cannot be
+determined only on the basis of the NAV method, that too when the
+valuation is not being done on liquidation basis. There is no basis at all
+for linking the Cost Inflation Index method with valuation of equity
+shares of a company.
+g) It is contended on behalf of Respondents that the valuer has
+categorically stated in its report submitted with the Hon’ble NCLT that
+the said valuation report has been prepared in conformity with the
+Corporate Affairs Standard (CAS)-1 on Business Valuation issued by
+Institute of Chartered Accountant of India(ICAI). However, from a bare
+
+12
+Company Appeal (AT) No.95 and 103 of 2019
+perusal of the provisions of the said CAS-1, it is evident that the valuer
+has not followed the provisions of CAS-1, rather has apparently
+contradicted many provisions of CAS-1.
+15. Heard learned counsel for the parties and perused the record. There can
+be no dispute with regard to the methodology adopted by the valuer in its
+valuation report. It is a well settled law that valuer being an expert, if honestly
+and in good faith fixes a value, then both the parties are bound by it because
+the parties have agreed to be bound by the decision of an expert valuer unless
+it is influenced by the fraud, collusion or partiality, that the result would be
+different. However, after going through the facts and circumstances of the
+particular case we have noticed that the calculation done by the valuer in its
+report can be relied upon except the valuation adjustment and control
+premium that was also given by the valuer to the Appellant. We note that the
+NCLT has rightly done the valuation adjustment. NCLT has rightly given his
+observations in para 17 of the Impugned Order that taking into consideration
+the increase in cost inflation index, NCLT consider it appropriate to reduce
+the valuation adjustment by8%. Adverting to the facts of the instant case be
+it seen that the Hon’ble NCLT had rightly removed the control premium of
+20% from the arrived value price of Rs.26.07 per share as Respondent No. 2
+is already holding a controlling stake (i.e. 75%) in Respondent No. 1 Company.
+NCLT has also given his observations in para 27 of the impugned order which
+are as under:
+“It is submitted that there is wrong application of control premium in the
+valuation report. It is submitted that control premium of 20% on the fair
+value has been added by the valuer which is not justified since control
+
+13
+Company Appeal (AT) No.95 and 103 of 2019
+premium is an amount that a buyer is usually willing to pay over the
+value otherwise determined, in order to acquire a controlling stake in the
+company. Xxxxx It is submitted that R-2 is already holding a control in
+stake (i.e.75%) in R1 company and by acquisition of the shares from the
+petitioner (i.e. 25%), R-2 would not acquire the control stake of the
+respondent company. Xxxxxx”
+And by acquisition of the shares from the Appellant (original petitioner)
+(i.e. 25%) Respondent No. 2 would not acquire the control stake of the
+Respondent No. 1 company. We note that M/s AMA India Enterprises Private
+company, original Respondent No.1, is an Indian Company incorporated
+under the Companies Act and Mr. Alessandro Malavolti is a foreign national,
+therefore, the original Respondent No.1 company will purchase the shares of
+original petitioner and if the original Respondent No.2 is allowed to purchase
+then it requires the permission from RBI and it will also be violation of FEMA.
+15. Learned counsel for the original petitioner has argued that NCLT has
+erred in granting the interest @ 12% from the date of 5.2.2016 as the rate
+should have been awarded @ 18% which the recognized statutory interest
+under various statue. We have considered this issue. We note that the rate
+of interest of 18% has to be the rate prevalent in the economy. These rate of
+interests have been successfully coming down in the last years whereas rate
+of 18% would be justified at one of time or 12% could be justified at another
+point of time. Seeing the overall scenario of the economy and the prevalent
+rate of interest in the market, we deem it appropriate that the rate of interest
+of 9% simple per annum is just and reasonable. Accordingly, we modify the
+impugned order to that extent.
+
+14
+Company Appeal (AT) No.95 and 103 of 2019
+16. In view of the aforegoing discussions and observations we find no merit
+to interfere in the impugned order except the rate of interest as discussed in
+para 15. Respondent company will make payment of consideration to the
+appellant (Ravinder Kumar Magoo) alongwith interest within 30 days from the
+date of receipt of this order. No order as to cost.
+(Justice Jarat Kumar Jain)
+Member (Judicial)
+(Mr. Balvinder Singh)
+Member (Technical)
+(Dr.Ashok Kumar Mishra)
+Member (Technical)
+New Delhi
+bm
