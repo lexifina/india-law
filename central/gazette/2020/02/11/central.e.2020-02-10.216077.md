@@ -1,0 +1,21 @@
+---
+title: "In exercise of the powers conferred by section 3 of the Building and Other Construction Workers"
+gazette_id: "CG-DL-E-11022020-216077 Download: gvGazette$ctl07$imgbtndownload"
+ministry: "Ministry of Labour and Employment"
+department: "Not Applicable"
+notification_no: "S.O. 636(E)"
+published: "2020-02-11"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-10.216077"
+---
+
+# In exercise of the powers conferred by section 3 of the Building and Other Construction Workers
+
+MINISTRY OF LABOUR AND EMPLOYMENT NOTIFICATION New Delhi, the 10th February, 2020 S.O. 636(E).—In exercise of the powers conferred by section 3 of the Building and Other Construction Workers' (Regulation of Employment and Conditions of Service) Act, 1996 (27 of 1996) read with rule 10 and rule 11 of the Building and Other Construction Workers' (Regulation of Employment and Conditions of Service) Central Rules, 1998, the Central Government hereby makes the following amendment in the notification of the Government of India in the Ministry of Labour and Employment number S.O. 1450(E), dated the 9th May, 2017, with effect from the date of publication of this notification, namely:—
+
+In the said notification, for serial number 3 and 4 and the entries relating thereto, the following serial number and entries shall be substituted, namely: — - Member (Member of Parliament)
+
+"(3) Shri N. Reddeppa, Member of Parliament (Lok Sabha), New Delhi - Member (Member of Parliament)".
+
+Shri Ganesh Singh, Member of Parliament (Lok Sabha), New Delhi Note : The principal notification was published in the Gazette of India, Extraordinary, Part-II, Section 3, Sub-section (ii), dated the 9th May, 2017 vide number S.O. 1450(E), dated 9th May, 2017.
+
+[F. No. Z-2011/10/2015-BL] AJAY TEWARI, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
