@@ -1,0 +1,21 @@
+---
+title: "In exercise of the powers conferred by section 3 of the Public Premises Eviction of Unauthorised Occupants Act"
+gazette_id: "CG-DL-E-12022020-216089 Download: gvGazette$ctl08$imgbtndownload"
+ministry: "MINISTRY OF HOUSING AND URBAN AFFAIRS"
+department: "Not Applicable"
+notification_no: "S.O. 649(E)"
+published: "2020-02-12"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-11.216089"
+---
+
+# In exercise of the powers conferred by section 3 of the Public Premises Eviction of Unauthorised Occupants Act
+
+MINISTRY OF HOUSING AND URBAN AFFAIRS NOTIFICATION New Delhi, the 6th February, 2020 S.O. 649(E).—In exercise of the powers conferred by section 3 of the Public Premises (Eviction of Unauthorised Occupants) Act, 1971 (40 of 1971), the Central Government hereby appoints the Officer mentioned in column (1) of the table below, being an officer of the public authority, equivalent to the rank of Gazetted Officer of the Government of India to be Estate Officer for the purposes of the said Act, who shall exercise the powers conferred and perform the duties imposed on an Estate Officer by or under the said Act within the local limits of his jurisdiction in respect of the public premises specified in column (2) of the said table : —
+
+TABLE S. No.
+
+Designation of the Officer Public Premises and local limits of jurisdiction.
+
+Shri P.K. Sharma, General Manager Premises of Delhi Metro Rail Corporation Limited (Civil, Operation and Maintenance). within National Capital Territory of Delhi Shri G.P. Bansal, General Manager Premises of Delhi Metro Rail Corporation Limited (Property Development) outside National Capital Territory of Delhi in National Capital Region.
+
+[F. No. K-14011/30/2019-MRTS-I] JAIDEEP, Officer on Special Duty (Urban Transport) & Ex-Officio Jt. Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
