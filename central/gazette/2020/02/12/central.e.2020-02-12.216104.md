@@ -1,0 +1,17 @@
+---
+title: "In exercise of the powers conferred by sub section 3 of section 3 of the Environment Protection Act"
+gazette_id: "CG-DL-E-12022020-216104 Download: gvGazette$ctl06$imgbtndownload"
+ministry: "Ministry of Environment, Forests and Climate Change"
+department: "Not Applicable"
+notification_no: "S.O. 666(E)"
+published: "2020-02-12"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-12.216104"
+---
+
+# In exercise of the powers conferred by sub section 3 of section 3 of the Environment Protection Act
+
+MINISTRY OF ENVIRONMENT, FOREST AND CLIMATE CHANGE NOTIFICATION New Delhi, the 12th February, 2020 S.O. 666(E).—In exercise of the powers conferred by sub-section (3) of section 3 of the Environment (Protection) Act, 1986 (29 of 1986) and in pursuance of the notification of the Government of India in the erstwhile Ministry of Environment and Forests, number S.O. 1533(E), dated the 14th September, 2006, the Central Government hereby makes the following amendment in the notification of the Government of India in the Ministry of Environment, Forest and Climate Change, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (ii), vide number S.O. 4001(E), dated the 20th December, 2017, namely:In the said notification, in the opening paragraph, against serial number 1, for the entry, the following entry shall be substituted, namely:……Chairman,''. ''Dr. B. Kishore, Indian Administrative Service (Retired) House No. 14, Aditya Fort View Villas, Shivalayam Road, Puppalaguda, Manikonda, Hyderabad - 500 089, Telangana
+
+[F. No. J-11013/36/ 2007- IA.II (I)] ARVIND NAUTIYAL, Jt. Secy.
+
+Note : The principal notification was published in the Gazette of India, Extraordinary, Part II, Section 3, Subsection (ii), vide number S.O. 4001(E), dated the 20th December, 2017. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR KUMAR VERMA VERMA
