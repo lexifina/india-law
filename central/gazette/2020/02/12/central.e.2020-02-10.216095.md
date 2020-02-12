@@ -1,0 +1,31 @@
+---
+title: "In exercise of the powers conferred by section 48 of the Life Insurance Corporation Act"
+gazette_id: "CG-DL-E-12022020-216095 Download: gvGazette$ctl14$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Financial Services"
+notification_no: "G.S.R. 96(E)"
+published: "2020-02-12"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-10.216095"
+---
+
+# In exercise of the powers conferred by section 48 of the Life Insurance Corporation Act
+
+MINISTRY OF FINANCE (Department of Financial Services) NOTIFICATION New Delhi, the 10th February, 2020 G.S.R. 96(E).—In exercise of the powers conferred by section 48 of the Life Insurance Corporation Act, 1956 (31 of 1956), the Central Government hereby makes the following rules further to amend the Life Insurance Corporation Rules, 1956, namely :—
+
+1. Short title and commencement.—(1) These rules may be called the Life Insurance Corporation (Amendment) Rules, 2020.
+
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2. In the Life Insurance Corporation Rules, 1956, for rule 8, the following rule shall be substituted, namely:—
+
+"8. Fees of members.—A member not being a whole-time officer of the Corporation or an officer of the Central Government shall be paid fees by the Corporation as follows :—
+
+(a) for attending meetings of the Corporation - Rs.40,000 (rupees forty thousand) for each meeting;
+
+(b) for attending meetings of the Committee constituted by the Corporation - Rs. 20,000 (rupees twenty thousand) for each meeting as well as for visit to other places in connection with the affairs of the Corporation;
+
+(c) for chairing meetings of the Corporation - Rs. 10,000 (rupees ten thousand) for each meeting in addition to (a) above;
+
+(d) for chairing meetings of any committee constituted by the Corporation- Rs. 5,000 (rupees five thousand) for each meeting in addition to (b) above, subject to an overall ceiling of Rs. 15,00,000 (rupees fifteen lakh) per annum per member."
+
+[F. No. A-15011/01/2011-Ins.-I (Part File)] LALIT KUMAR, Economic Advisor Note : The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-Section(i) vide S.R.O. 1889A dated the 28th August, 1956 and subsequently amended vide G.S.R. 317 dated the 30th April, 1958, G.S.R. 1101 dated the 8th November, 1958, G.S.R. 1568 dated the 31st October, 1964, G.S.R. 1094 dated the 22nd July, 1965, G.S.R. 1116(E) dated the 2nd December, 1988, G.S.R. 278(E) dated the 28th May, 1997, G.S.R. 474(E) dated the 26th July, 2004, G.S.R. 2 dated the 3rd January, 2012 and G.S.R. 199 dated the 24th October, 2015. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
