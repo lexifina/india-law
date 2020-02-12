@@ -1,0 +1,363 @@
+---
+title: "In exercise of powers conferred by Section 57 of Delhi Development Act"
+gazette_id: "CG-DL-E-12022020-216106 Download: gvGazette$ctl05$imgbtndownload"
+ministry: "Delhi Development Authority"
+department: "Not Applicable"
+notification_no: "S.O. 668(E)"
+published: "2020-02-12"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-12.216106"
+---
+
+# In exercise of powers conferred by Section 57 of Delhi Development Act
+
+DELHI DEVELOPMENT AUTHORITY NOTIFICATION New Delhi, the 12th February, 2020 Sub: Modifications in the Unified Building Bye-Laws (UBBL) for Delhi 2016 S.O. 668(E).—In exercise of powers conferred by Section 57 of Delhi Development Act, 1957 (61 of 1957), the Delhi Development Authority, with the prior approval of the Central Government, hereby make the following modification in the Unified Building Bye-Laws (UBBL) for Delhi 2016.
+
+Sl.
+
+No.
+
+Chapter/Para/Clause/Sub-clause of UBBL Proposed Modifications i ii iii Chapter 1
+
+1.4.18 Built up Area: The area covered by a building on all floors including cantilevered portion, mezzanine floors, if any, but except the areas excluded specifically under these Regulations.
+
+1.4.18 Built up Area: The area covered by a building on all floors within the premise, used for activities or use, including cantilevered portion, services, mezzanine floors (if any), other similar areas.
+
+1.4.57 Ground Coverage: The portion of the building within the outer surface of the structural measured at ground level excluding the permitted free from FAR and cladding/curtain wall upto 150mm shall be considered as ground coverage.
+
+1.4.57 Ground Coverage: The portion of the building within the maximum outer surface of the structural wall/column/slab measured at ground level shall be considered as ground coverage (excluding the mentioned limits of projection/ cladding/ curtain wall etc.– refer 7.17.2 &
+
+8.10)
+
+1.4.75 b. Educational Buildings: These shall include any building used for school, college or day-care purposes for more than 8 hours per week involving assembly for instruction, education or recreation.
+
+1.4.79 Parapet: A low wall or railing built along the edge of a roof or a floor. See 7.22
+
+1.4.75 b. Educational Buildings: These shall include any building used for school, college, coaching centres (for students more than 20) or day-care purposes for more than 8 hours per week involving assembly for instruction, education or recreation.
+
+1.4.79 Parapet: A low wall or railing built along the edge of a roof or a floor; maximum 1.5m for low-rise or maximum 1.8m for high-rise.
+
+1.4.133 Wheel chair: Chair used by disabled people for mobility. The sizes of wheel chairs are mentioned below:
+
+Small wheel chair: 0.75 x 1.05 m Large wheel chair: 0.80 x 1.50 m
+
+1.4.133 Wheel chair: Chair used by disabled people for mobility.
+
+1.4.134 Private establishment: means a company, firm, cooperative or other society, associations, trust, agency, institution, organization, union, factory or such other establishment as the appropriate Government may, by notification, specify.
+
+1.4.135 Public building: means a Government or private building, used or accessed by the public at large, including a building used for educational or vocational purposes, workplace, commercial activities, public utilities, religious, cultural, leisure or recreational activities, medical or health services, law enforcement agencies, reformatories or judicial foras, railway stations or platforms, roadways bus stands or terminus, airports or waterways.
+
+Chapter 2 Chapter 2
+
+2.0.1 Procedure
+
+(b) The entire process from applying for sanction of building plan to issue of occupancy-cum-completion certificate shall consist of following steps:
+
+2.0.1 Procedure
+
+(b) The entire process from applying for sanction of building plan to issue of occupancy-cum-completion certificate shall consist of following steps:
+
+(i) Submission of application for sanction of building plan in Common Application Form (CAF) along with building permit fees, drawings and documents.
+
+(i) Submission of application for sanction of building plan and NOC applications in Common Application Form (CAF) along with building permit fees, drawings and documents.
+
+(ii) Grant of sanction within stipulated
+
+(ii) Grant of sanction within stipulated period.
+
+(iii) Payment of requisite fees & charges, as period, Payment of requisite fees & charges, as applicable, and release of sanctioned building plan.
+
+(iii) Intimation of completion of work up to plinth level.
+
+(iv) Plinth level inspection and online applicable, and release of sanctioned building plan.
+
+(iv) Intimation of completion of work up to issue of plinth level inspection certificate.
+
+(v) Submission of application for issue plinth level.
+
+(v) Plinth level inspection followed by issue of Occupancy-cum-Completion Certificate (OCC) and NOCs (Fire, Water etc) in Common Occupancycum-Completion Certificate Request Form (COCCRF) along with requisite fees, drawings and documents.
+
+(vi) Single joint site inspection by all concerned departments. of plinth level inspection certificate.
+
+(vi) Submission of application for issue of Occupancy-cum-Completion Certificate
+
+(OCC) in Common Occupancy-cumCompletion Certificate Request Form (COCCRF) along with requisite fees, drawings and documents.
+
+(vii) Inspection by all concerned departments.
+
+(vii) Intimation of compounding fee and charges, if applicable, and release of OCC along with completion plan.
+
+(ii)
+
+(viii) Intimation of compounding fee and charges, if applicable, and release of OCC and completion plan.
+
+2.0.1 Procedure
+
+2.0.1 Procedure
+
+(d) Building permit not required:
+
+(d) Building permit not required i. Plastering/ cladding and patch repairs *. i.
+
+Plastering/cladding and patch repairs, except for the Heritage Buildings where Heritage Conservation Committee's permission is required. xi.
+
+For erection of lifts in existing buildings in residential plotted development (low– rise). Change/ installation/ rearranging/ relocating of fixture(s) or equipment/s property shall be permitted. xi) For erection of lifts in existing buildings in residential plotted development(low–rise). rearranging/relocation of fixture(s) or equipment/s or HVAC-MEP services, UGR, STP/ETP without hindering other's property /public property shall be permitted. xiv) Public washroom, security room, Bank xiv) Bank ATM (up to a maximum area ATM, up to a maximum area of 9.0 sqm only (permitted in setback area, provided it does not obstruct fire vehicles movement) in plot more than sqm (other than residential plotted), as per Chapter 12. of
+
+9.0 sq.m. only), Public washroom, security room /guard room are permitted in setback area, provided it does not obstruct fire vehicles movement, in plot more than 3000 sqm (other than residential plotted), as per Chapter 12. *Note: For Heritage Buildings, refer Annexure II.
+
+2.1.1 Plans and Drawings b) Layout Plan: For plots of area one hectare
+
+2.1.1 Plans and Drawings b) Layout Plan: For plots of area one and above, layout plan/ revised layout plan prepared by the sanctioning authority or by the developer shall be submitted. Layout plan prepared by the developer shall be prepared and signed as per the details specified in bye-law 2.0.4. hectare and above, layout plan/ revised layout plan prepared by the Architect/Developer/Applicant shall be submitted. Layout Plan duly approved by the Competent Authority shall be submitted by the Architect/Developer/ Applicant, along with building plan application, in case the authority to approve the layout plan is different from the authority to sanction the building plans. Layout plan submitted by the Architect/Developer/Applicant shall be prepared and signed as per the details specified in bye-law 2.0.4. f) The Architect, while submitting building plan application, shall inspect the site and ensure that the building plan submitted are as per existing site conditions including existing construction, if any.
+
+2.3.3 Approval/ NOC from external agencies
+
+2.3.3 Approval/ NOC from external agencies Note: For applicability of Environmental Conditions, See 3.2.
+
+2.5.1.1 Inspection at the time of Sanction: The first inspection by the Sanctioning Authority shall be conducted for Plinth Level as per sub-clause 2.5.2 and final inspection shall be conducted for OCC as per sub-clause 2.7.5. The responsibility of construction/deviation from plinth level to the OCC shall rest with the Architect/Engineer/ Supervisor/Structural Engineer as per the competency and the owner.
+
+(In UBBL 2016, notified on 22.03.2016, the inspection of the Sanctioning Authority for sanction of building plan of all type of buildings had been done away with).
+
+Chapter 7 General Building Requirement Chapter 7 General Building Requirement Table 7.1 Notes Table 7.1 Notes
+
+1.
+
+Maximum permissible height for all types of building components mentioned in the above table is 4.8 m finished from floor level to soffit level of ceiling. However, if the Architect/ Engineer desires more than
+
+4.8 m height of any building component in the project, the same may be permitted subject to the overall permissible height of
+
+7.2.4.2 Canopy In one storied residential buildings, only such canopy shall be permitted for each individual detached blocks. In more than one storied residential buildings, canopies shall be permitted over ground floor entrances with maximum height of 3 m. from Ground level.
+
+1.
+
+Maximum permissible height for all types of building component is 4.8 m finished from floor level to soffit level of ceiling. However, if the Architect/ Engineer desires more than 4.8 m height of any building component in the project, the double height may be permitted without counting twice in FAR, subject to the overall permissible height of building/structure.
+
+7.2.4.2 Canopy In one storied residential buildings, only such canopy shall be permitted for each individual detached blocks. In more than one storied residential buildings, two canopy shall be entrances.
+
+(Deleted) Note: Minimum 30% of the area of respective setback is to be maintained as open to sky.
+
+7.11.2 Minimum Width Provisions for Passageway/Corridors i) The additional area of and above the prescribed /permissible
+
+7.11.2 Minimum Width Provisions for Passageway/Corridors i) The area of passageway/corridor including the additional area constructed over and above the
+
+(ii) limit, should not be counted towards FAR but shall be counted in Ground Coverage (See 7.17.2.t.) not be counted towards FAR but shall be counted in Ground Coverage (See
+
+7.17.2.t.).
+
+The width of the additional area shall not be more than the double of the prescribed /permissible limit.
+
+7.17.1 Exemption to Projections in Open Spaces/Covered area Projections into open spaces: Every interior open space shall be kept, free from any erection thereon and shall be open to the sky. Nothing except cornice, chajjas or weather shade (not more than 0.75 m wide) shall overhang or project over the said open spaces so as to reduce the width to less than the minimum required.
+
+7.17.1 Exemption to Projections in Open Spaces/Covered area Projections into open spaces: Every interior open space shall be kept, free from any erection thereon and shall be open to the sky. Nothing except cornice, chajjas or weather shade (not more than 0.75 m wide) shall overhang or project over the said open spaces so as to reduce the width to less than the minimum required. Interior open to sky areas shall be allowed to cover with retractable roofing at the terrace level or at minimum double height to prevent climatic/weathering effects and the space below can be used as landscaped area, public space but can not be used for any commercial purpose.
+
+Exemption to Projections in Open Spaces/Covered area b. Pergola shall be permitted if constructed in the exterior open spaces within plot line or terrace. Such pergola shall not exceed 20% of ground coverage. Such pergolas shall have a minimum clear height of 2.2 m with 40% void. b. Pergola shall be permitted if constructed in the exterior open spaces within plot line or terrace. Such pergola shall not exceed 30% of ground coverage. Such pergolas shall have a minimum clear height of 2.2 m with 40% void. On terrace, the maximum height of the pergola shall not exceed the height of the Mumty.
+
+7.17.2 The following shall not be included in covered area for FAR and Ground Coverage calculations
+
+7.17.2 The following shall not be included in covered area for FAR and Ground Coverage calculations, subject to Fire Safety Clearance and other mandatory clearances: well and well structures, plant nursery, water pool, swimming pool at any level (if uncovered), platform around a tree, tank, fountain, bench, chabutara with open top and/ or unenclosed sides by walls, open ramps, compound wall, gate, slide swing door, fire staircase, fire towers, refuse area, fire control room, overhead water tank on top of building/open shafts, cooling towers as per fire norms. Fire tender movement shall be unhindered. b. Rockery, well, escalator/ travellator well and well structures, plant nursery, water pool, swimming pool at any level (if uncovered), platform around a tree, tank, fountain, bench, chabutara with open top and / or unenclosed sides by walls, open ramps, compound wall, gate, slide swing door, fire staircase, fire towers, refuse area, fire control room, overhead water tank on top of building/open shafts, UGR, STP, ETP, cooling towers or any other service structures as per fire norms.
+
+Fire tender movement shall be unhindered. e. Watch and ward cabins of total area not e. Watch and ward cabins of total area not more than 4.5 sqm and 6sqm with W.C each at entry and exit only, within the property line. Movable Porta cabins (max.size 2sqm) for guard room is permitted within the plot line in residential plots of size minimum 200 sqm and above. more than 4.5 sqm and 6sqm with W.C each at entry and exit only, within the property line. Porta cabins for guard room is permitted within the plot line in residential plots of size minimum 200 sqm and above. h. Covered sky bridges or intermittent floors h. Sky bridges/Sky walks (covered or as relief in high rise buildings having landscape areas, service floors in high-rise buildings, jogging tracks, swimming pools and other public spaces shall not be counted in FAR irrespective of height and not to be counted towards ground coverage. i.
+
+Architectural feature on ground or any other floor including rooftops such as swimming pool, terrace garden as approved by sanctioning authority, Delhi Urban Art Commission and Delhi Fire Service. j.
+
+Architectural elements such as louvers, end wall projected upto 900mm, pergolas, other sunshade elements (referred in clause 7.1 of these bye laws) should be free from FAR and Ground Coverage. uncovered) or intermittent floors as relief in high rise buildings having landscape areas, service floors in highrise buildings, jogging tracks, swimming pools and other public spaces shall not be counted in FAR irrespective of height and not to be counted towards ground coverage. i.
+
+Architectural and Landscape features on ground or any other floor including rooftops such as swimming pool, terrace garden or any other features, as approved by sanctioning authority, Delhi Urban Art Commission and Delhi Fire Service. j.
+
+Architectural elements such as louvers, end wall projected upto 900mm, pergolas, claddings upto 150mm in each side, other sunshade elements (referred in clause 7.1 of these bye laws) should be free from FAR and Ground Coverage. o. ESS/ Meter Room with HT/LT panel, DG o. ESS/ Meter Room with HT/LT panel, Room, AC Plant room, CC TV room/Control room, Fire Control room and similar services are permitted in the setback subject to approval of DFS and shall not be counted in ground coverage in FAR.
+
+DG Room, AC Plant room, CC TV room/Control room, Fire Control room, UGR, STP/ETP and similar services are permitted in the setback subject to approval of DFS and shall not be counted in ground coverage in FAR. p. Solar Panels at any height or p. Solar Panels on mounts at a clear height of 2m maximum from the terrace level to the springing point and subject to the max. height permitted by AAI. level(including ground level)/ terrace/roof top subject to the max. height permitted by AAI/clearance from DFS. u. Interior open to sky areas shall be allowed to cover with retractable roofing at the terrace level or at minimum double height to prevent climatic/weathering effects and the space below can be used as landscaped
+
+(ii) area, public space but cannot be used for any commercial purpose.
+
+7.19 Height Exemptions
+
+7.19 Height Exemptions (within the permissible height of AAI) vi. Solar panel at any height or level vi. Solar panel fixed on terrace as per
+
+7.17.2.(p).
+
+(including ground level)//terrace/ roof top as per 7.17.2.(p). vii. Height of Car lifts/passenger lifts including the machine room accessible to roof top/terrace. viii. Toilet in terrace (refer 7.2.2.f) ix. Pergola upto the height of the
+
+7.22 Parapet For buildings of height 24m and above, the shall be 1.5 m height subject to approval of Fire Department.
+
+Mumty, maximum 3m above the terrace of the top floor.
+
+7.22 Parapet For buildings of height 24m and above, the parapet wall/railing shall be 1.8 m subject to approval of Fire Department.
+
+7.24 Special Provisions for Other Buildings which are not covered under MPD and Building Bye Laws:
+
+7.24 Special Provisions for Other Structures/ Buildings which are not covered under MPD and Building Bye Laws:
+
+For Hospitals, Hotels & Banquets Halls, Stadiums, Jails, Court Complexes, Art Galleries, Museums, Filling Stations, Bus Terminals/ Depot, Multi-storey Parking, Sports Complexes and any other, the provisions in the following documents shall apply:
+
+For Hospitals, Hotels & Banquets Halls, Stadiums, Jails, Court Complexes, Art Galleries, Museums, Filling Stations, Bus Terminals/ Depot, Multi-storey Parking, Sports Complexes and any other special structures/ buildings, the provisions in the following documents shall apply:
+
+7.28 Lifts and Escalators Notes:
+
+7.28 Lifts and Escalators Notes: b. All the floors including basement shall b. All the floors including basement be accessible by the lifts. The lifts provided in the buildings shall not be considered as a means of escape in case of emergency
+
+8.10 General features – free from FAR calculations (subject to Fire Safety Clearance and other mandatory clearances): and roof top/terrace shall be accessible by the lifts. The lifts provided in the buildings shall not be considered as a means of escape in case of emergency.
+
+Chapter 8 Provisions for High rise Development
+
+8.10 General features – free from FAR calculations b. Architectural elements such as louvers, end wall projected upto 900mm, pergolas, other sunshade elements (referred in clause 7.1 of b. Architectural elements such as louvers, end wall projected upto 900mm, pergolas, claddings upto 150mm in each side, other sunshade elements (referred in clause 7.1 of these bye laws) should be free from FAR and Ground Coverage. these bye laws) should be free from FAR and Ground Coverage. k. Multilevel car parking with car lifts would k. Multilevel car parking with car lifts be permitted with adequate fire safety.
+
+9.3.8 Fire Check Floor/ Fire Cut off Floor would be permitted with adequate fire safety(refer 8.4.7.g.) Chapter 9 Provisions for Structural Safety, Natural Disaster, Fire and Building Services
+
+9.3.8 Fire Check Floor/ Fire Cut off Floor a. A high rise building having height more a. A high rise building having height more than 70 m shall be provided with fire check floor (entire floor) above 70 m at immediate habitable floor level and so on after every 60 meters. than 70 m shall be provided with fire check floor (entire floor) above 70 m at immediate habitable floor level and so on after every 25 meters or 8 floors, whichever is less.
+
+9.4.7 Child Care Room The Child Care Room is meant to be used for the purpose of baby care, feeding, changing room for babies/children etc. with an aim to give comfort to mother and baby/ child in all the Public Buildings and Private Establishments. a) The child care room shall be provided at convenient location on the ground floor of all the public/ private buildings, easily accessible to all including persons with disabilities. b) The location of the child care room can be provided anywhere in the floor, preferably away from the general toilets, but suitably located near common area or similar places. It should have ample visibility yet provide for adequate privacy and placed in a secure location. c) The child care room shall be free from FAR calculation. d) The minimum dimension of the child care room shall be as per habitable room as given in table 7.1 of UBBL-
+
+2016.
+
+Area 9.5sq.m Width 2.4m Height 2.75m e) The child care room shall have all the following features.
+
+(ii) i) Feeding cabin with adequate number of nursing chairs and counters. ii) One nursing counter with sink, mirror, soap dispenser and disposal bin. iii) Cradle with quilts. iv) It should be adequately ventilated. v) It should also be accessible by persons with disabilities. vi) Adequate level of privacy with curtains or any other measures shall be provided in the feeding cabin and with door at the entrance of child care room. vii) Sharp edges and hard corners shall be avoided inside the child care room. viii) Use of non slip floor surfaces, easily cleanable finishes etc. is preferable. ix) An emergency alarm bell/ button should be provided alongside the light button in case of emergency. x) The location of the child care room should be provided in way-finding signage and in site plan for its easy reach.
+
+Chapter 10 Provisions for Green Buildings
+
+10.5 Electric Vehicle Charging Infrastructure (EVCI):
+
+The Ministry of Power, Govt. of India issued Guidelines & Standards for charging infrastructure for electric vehicles on 14.12.2018 and revised guidelines on
+
+01.10.2019.
+
+These Guidelines & Standards are subject to modification from time to time and modified version of Central Government are to be referred.
+
+Based on the occupancy pattern and the total parking provisions in the premises of the various building types, charging infrastructures shall be provided only for EVs (Electric Vehicles), which is currently assumed to be 20% of all ‗vehicle holding capacity'/‗parking capacity' at the premise.
+
+Additionally, the building premise will have to have an additional power load, equivalent to the power required for all charging points {in a Public Charging Station
+
+(PCS)} to be operated simultaneously, with a safety factor of
+
+1.25 (refer 6. Explanatory Note on Electric Vehicle Charging Infrastructure - Annexure X).
+
+10.5.1 Residential Buildings (plotted house) Table 10.2: Charging Infrastructure requirements for individual house/ selfuse Building type Plotted House Ownership of Station Private (Owner) Connection and Metering Domestic meter Type of Charger Slow chargers as per owner's specific requirements Modes of Charging AC (Single charging gun) Norms of Provisions Min. 1 SC and additional provisions as per the owner individual.
+
+Note:  The Charging Infrastructure (CI) installed by a home owner shall be construed as a Private CI meant for self-use (non-commercial basis) as per the note at clause no D of the explanatory note at Annexure XAppendix II.
+
+10.5.2 All other buildings (including Group Housing) Any PCS installed at Public/Private areas or building premises of any category that caters to commercial mode of charging of EVs shall be deemed as a Public Charging Station and shall have to install the minimum requirements of chargers as specified in the Guidelines & Standards of Ministry of Power, GoI.
+
+However, in order to provide sufficient charging points for the EV share in all vehicles, ratio of types of chargers is recommended in the table below - Table 10.3: Charging Infrastructure requirements for PCS (commercial use) For table Refer Appendix I
+
+(ii) (Annexure C 9). *For Explanatory Note on Electric Vehicle Charging Infrastructure – Refer Appendix II (Annexure C 10).
+
+Chapter 11 Provisions for Universal Designs for Persons with Disabilities, Elderly and Children
+
+11.0 Applicability These regulations are applicable to all buildings and facilities used by the public such as educational, institutional, assembly, commercial, business, mercantile buildings and group housing etc. It shall apply to private residences (residential plotted development).
+
+11.0 Applicability These regulations are applicable to all buildings and facilities used by the public such as educational, institutional, assembly, commercial, business, mercantile buildings etc.
+
+It shall not apply to private residences (Residential Plotted Development). For Residential Group Housing, it shall apply to the common areas in the ground
+
+11.8 Toilet Rooms and Sanitary Rooms The accessible toilet room shall be located as close as possible to the existing toilet block and should be easy to find.
+
+11.8 Toilet Rooms and Sanitary Rooms The accessible toilet room shall be located as close as possible to the existing toilet block/near the entrance/reception/waiting be easy to find.
+
+Chapter 12 ―SWACCH DELHI‖- Provisions for Public Washroom Complexes
+
+12.2 All complexes (public toilets/ wash rooms, ATM, Guard Room) should be constructed mainly in the setback area within the plots, provided they do not obstruct the firefighting path.
+
+12.2 All complexes (public toilets/ wash rooms, ATM, Guard Room) should be constructed mainly in the setback area within the plots, provided they do not obstruct the firefighting path. These complexes shall follow the Provisions for Universal Designs for Persons with Disabilities, Elderly and Children.
+
+12.5 In such complexes, an ATM (Automated Teller Machine) room (including guard room) with a maximum floor area of not exceeding 9.0 sq.m shall also be included for usage of general public.
+
+Fees and Charges a. Building Permit Fee:
+
+12.5 In such complexes, Bank ATM (up to a maximum area of 9.0 sqm only), Public washroom, Security Room/Guard Room shall be permitted in the setback area - for usage of general public, provided it does not obstruct fire vehicles movement. (refer 2.0.d. xiv).
+
+ANNEXURE –III Fees and Charges a. Building Permit Fee: v. In case an application of building permit is rejected, then no refund shall be made. v. The fee for resubmission of rejected Building Plan application/permit shall be charged at the rate of Rs. 1/- per sqm of built up area for upto three subsequent rejections. In case the Building Plan application/permit is rejected for the fourth and fifth time, the Building permit fee shall be charged at the rate of 25% and 50% respectively of the original building permit fee (i. above) - calculated for the first time, on the same Online ID.
+
+In case, the Building Plan application/permit is rejected for the sixth time, the applicant/ architect shall have to pay 100% processing/permit fee and will have to apply with new online ID afresh.
+
+ANNEXURE –IV PENAL ACTION FOR VIOLATION OF PROVISIONS OF MASTER PLAN/ZONAL PLAN REGULATIONS/ BYE-LAWS
+
+(B) Compoundable Items
+
+(B) Compoundable Items
+
+(i) An open urinal having wall up to 1.7 m
+
+(i) Toilet constructed without sanction height-No penalty.
+
+(ii) Water storage tank over open urinal with on terrace (refer 7.2.2 f) – Rs.500/-per sqm.
+
+(deleted) walls up to 1.70 m in ht.-No penalty, if sanctioned. If not sanctioned, Rs. 500/each.
+
+(Deleted) (Since the Single Window Online Building Permit System is in place).
+
+ANNEXURE –XIV Constitution of High Powered Committeefor Single Window Plan Sanction and Completion Appendix I Table 10.3: Charging Infrastructure requirements for PCS (commercial use) Building Type Any Building type Ownership of Station Service provider Connection and Metering Commercial Metering and Payment Types of Charger as per min. requirements specified in MoP Guidelines (refer Annexure IV) Additional Chargers PCS service providers shall install additional number of kiosk/chargers beyond the minimum specified requirements to meet the ratio of charging points as prescribed below (by the type of vehicles).
+
+Norms of Provisions for charging points 2Ws 1 SC - each 2 EVs PV (Buses) 1 FC - each 10 EVs 3Ws 1 SC - each 2 EVs 4Ws 1 SC - each 3 EVs 1 FC - each 10EVs Note:  Charging bays shall be planned currently at 20% capacity of all vehicles including 2Ws and PVs(cars)  Open metering and on-spot payment options to be available for all users.  Provision of FCB CS and BS shall not be mandatory, and will be at the discretion of the service provider.
+
+(ii) Appendix II
+
+6. Explanatory Note on Electric Vehicle Charging Infrastructure A. Rationale for EVCI establishment Rapid urbanization coupled with adoption of mechanized transportation modes has resulted in high emissions of Green House Gases that goes on to impact Global warming. Unless, the global surface temperature rise is restricted to no more than 2oC compared with pre-industrial levels, the IPCC has warned that the world will see irreversible catastrophic climate change.
+
+India being a signatory to the UNFCCC, has pledged for efforts to assess the Greenhouse Gas Emissions (GHG) of anthropogenic origin and removal by sinks. India's per capita emissions are still considered low at 1.9 tonnes (2013), but its total emissions are next only to China and the US and is likely to overtake those of the EU by 2019.
+
+While comparing the Indian cities for their emission scores, Delhi is on top as the biggest emitter at over 38 38 million tonnes of carbon dioxide equivalent overall emissions, followed by Greater Mumbai at 22.7 million tonnes and Chennai at 22.1 million tonnes, Kolkata at 14.8million tonnes, Bangalore at 19.8million tonnes, Hyderabad at 13.7 million tonnes and Ahmedabad at 9million tonnes were the other cities whose emissions for the year were calculated sector wise.
+
+As per the statistics of Transport Department (GNCTD), total number of vehicles in Delhi is more than the combined total vehicles in Mumbai, Chennai and Kolkata. Delhi has 85 private cars per 1000 population against the national average of 8 cars per 1000 population. In terms of CO2 emissions due to motor vehicles, Delhi emits about 12.4 million tonnes while the city of Bengaluru emits about 8.6 million tonnes.
+
+Therefore, addressing the quantum of emissions from the ―Transport‖ and ―Domestic‖ sector emerges to be the high priority subjects under the overarching umbrella of "Climate change mitigation" as committed to the UNFCC.
+
+Encouraging ―Electric Vehicles‖ as a viable option for phased transportation in terms of short and long distance trips with appropriate ―Charging Infrastructure‖ is therefore, the pre-condition for this paradigm shift / phased migration to sustainable transportation.
+
+For this changes are required in Infrastructure provisions (at Regional and City levels) and in Development Control Regulations (in terms of provisions therein) to include the formulations of norms and standards for ―Charging Infrastructure" in the said Mater Plan Regulations and State ByeLaws for adoption across the country suiting local conditions.
+
+B. EV Charging Technology B.1 Electric Vehicle Supply Equipment (EVSE):
+
+An EVSE is a wall mounted box that supplies electric energy for recharging of electric vehicle batteries. Also EVSEs have a safety lock-out feature that does not allow current to flow from the device until the plug is physically inserted into the car.
+
+EVSEs can be customized with added features like:  Authentication  Integrated payment gateways  Software for remote monitoring.
+
+As electric vehicle charging technology continues to advance, several standards and guidelines have become widely accepted across the industry. This section gives a brief overview of charging infrastructure technology, standards, and terminology.
+
+B.2 Different types of EVSE:
+
+Charging speeds- Charging power, which determines the time required to charge a vehicle, can vary by orders of magnitude across charge points, as shown in Table 1. A small household outlet may charge as slowly as 1.2 kW, while the most advanced rapid charging stations can charge at up to 350 kW. Charging infrastructure is broadly broken into three categories based on speed: Level 1, Level 2, and direct current (DC) fast charging (sometimes referred to as Level 3).
+
+Private Charging Charging batteries of privately owned cars through domestic charging points. Billing is mostly part of home/domestic metering.
+
+AC "Slow" Charging:
+
+The home private chargers are generally used with 230V/15A single phase plug which can deliver a maximum of up to about 2.5KW of power. The EVSE supplies AC current to the vehicle's onboard charger which in turn converts the AC power to DC allowing the battery to be charged.
+
+Public Charging For charging outside the home premises, electric power needs to be billed and payment needs to be collected. The power drawn by these chargers may need to be managed from time to time.
+
+DC ―Fast‖ Charging:
+
+DC current is sent to the electric car's battery directly via the charge port. FC chargers (usually 50 KW or more) can supply 100 or more kilometers of range per hour of charging. The fast chargers would generally be used as a top-up, rather than fully charging vehicles. These are important for cab companies and corporate users who have a fleet of electric cars.
+
+C. Options for EV Charging There is an urgent need to offer flexible charging infrastructure for different vehicle segments to drive adoption of EVs. Charging infrastructure is the most crucial enabler in the entire EV value chain. The exploration of different charging models according to the local conditions shall enable faster deployment of electric vehicles in the country.
+
+EV share in all vehicles - It has been broadly projected that by the current rate of adoption of EVs, about 15% of all vehicles in the country would be EVs by the year 2020. Therefore, while assuming percentage composition of all proposed capacities in Public facilities of vehicle holding capacity, the Metropolitan and ‗Tier I' cities will be assumed to have a higher percentage share of EVs, say 20% for now. The charging infrastructure prescriptions in all urban development guidelines shall, therefore, be in consonance with the said percentage.
+
+Power Load sanction to premises – While adding these Charging Infrastructures to the proposed set of building types of the Indian cities, enhanced Power Load shall have to be had for each such building type by the Power DISCOMs, commensurate to the total additional power requirement of simultaneous operation of all the prescribed charging points in the premise. With further advancement of charging technologies and the enhanced capacity of chargers to draw more power, it is advised that the load capacity assigned to each premise should be kept with a safety factor of 1.25 with a long-term vision of 30 years.
+
+Table 12: EVs charging ―modes‖ and ‗availability' Vehicle type Slow Charging Fast Charging Public CI 2 Wheelers Y N Yes/Limited 3 Wheelers Y N Yes/Limited PVs (Cars) Y Y Yes PVs (Buses) N Y Yes Table 13: Charging options for EV types (by ownership) Vehicle type Private CI Public CS Predominant place of charging 2 Wheelers SC/BS SC Point of residence / Work 3 Wheelers SC/BS SC/BS Residence / Parking stations PVs (Cars) SC/BS FC Residence / Point of work / other public places PVs (Buses) - FC/BS Bus Terminals/Depots
+
+(ii) Note:  The option of Battery Swapping (BS) for privately owned 2Ws and PV(Cars) is limited to Private CI.  For 3 Ws the BS is proposed to be made available in PCS, for faster recharge experience only  For PV (Buses), Captive Fast charging infrastructure for 100% internal use for fleets may be adopted by privately owned Depots/Garages.
+
+Based on the above stated EV charging technologies available and the current trend of evolving technologies of faster charging experience, the Ministry of Power has issued Guidelines and Standards for setting up Charging Infrastructure for Electric Vehicles for charging infrastructure to be installed at every Public Charging Station (PCS).‗Connectivity regulations and Safety norms' shall be defined by respective authorities such as Central Electric Authority/MoP for grid access to such PCS / any other charging station/infrastructure.
+
+D. Charger Specifications and PCS Infrastructure Any installed PCS shall have one or more electric kiosk/boards with installation of all charger models as prescribed in the Guidelines and Standards notified by Ministry of Power, dated 14 December 2018 and revised Guidelines & Standards, dated 1st October 2019 for "Charging Infrastructure for EVs", with other necessary arrangements as deemed necessary.
+
+Public Charging Station service providers shall be free to create charging hubs and to install additional number of kiosk/chargers in addition to the minimum chargers prescribed vide the MoP Guidelines, including options for installation of additional chargers, if required.
+
+Note:
+
+1. Minimum infrastructure requirements do not apply to Private Charging Points meant for selfuse of individual EV owners (non-commercial basis).
+
+2. Captive charging infrastructure for 100% internal use for a company's own fleet will not be required to install all type of chargers and to have NSP tie ups.
+
+E. Location of PCS / FCB CS in local area / building precincts In accordance with the Guidelines issued by the Ministry of Power (MoP), following minimum standards with regard to density of/distance between PCS in local level facilities in building premise/urban precincts shall be followed. i.
+
+At the Local levels (within the urban area):  At least 1Public Charging Station is to be available within a grid of 3Km. x 3Km. ii.
+
+At the Building premise levels (for various building types)  Private charging infrastructure (non-commercial use) for individuals.  For all commercial modes of charging EVs, at least 1PCS, as per minimum specifications laid under MoP guidelines.  Standalone Battery Swapping Stations may be added with the PCs.
+
+Abbreviations:
+
+UNFCC - United Nations Framework Convention on Climate Change IPCC - Intergovernmental Panel on Climate Change GHG - Green House Gases 2Ws - Two wheelers 3Ws - Three wheelers 4Ws - Four wheelers / PV(cars) PVs - Passenger Vehicles CVs - Commercial Vehicles EV - Electric Vehicle EVSE - Electric Vehicle Supply Equipment SC - Slow Charger / Slow Charging (AC) FC - Fast Charger / Fast Charging (DC and a few AC ones) BS - Battery Swap PCS - Public Charging Stations PCI - Public Charging Infrastructure Private CI - Private Charging Infrastructure URDPFI - Urban and Regional Development Plan Formulation and Implementation Guidelines, 2014 NSP - Network Service Provider (information network) SP - Service Provider FCB CS - Fluid Cooled Battery Charging Station
+
+[No. F. 15(06)2016/MP/Pt./06] D. SARKAR, Commissioner-cum-Secretary and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
