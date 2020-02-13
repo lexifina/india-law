@@ -1,0 +1,34 @@
+---
+title: "In exercise of powers conferred under paragraph 2 04 of the Foreign Trade Policy 2015 2020"
+gazette_id: "CG-DL-E-13022020-216117 Download: gvGazette$ctl09$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Department of Commerce"
+published: "2020-02-13"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-10.216117"
+---
+
+# In exercise of powers conferred under paragraph 2 04 of the Foreign Trade Policy 2015 2020
+
+MINISTRY OF COMMERCE & INDUSTRY (Department of Commerce) (DIRECTORATE GENERAL OF FOREIGN TRADE) PUBLIC NOTICE New Delhi, the 10th February, 2020 No. 60/2015-2020 Subject:—Amendment in Appendix 2E (List of agencies authorized to issue Certificate of Origin-Non Preferential) regarding incorporation of name of M/s Visvesvaraya Trade Promotion Centre and its branches.
+
+F. No. 01/93/180/49/AM-13/PC-II (B)/P-1 8833.—In exercise of powers conferred under paragraph
+
+2.04 of the Foreign Trade Policy 2015-2020, the Director General of Foreign Trade hereby makes the following addition at S.No. 9 under sub-heading Karnataka in Appendix 2E (List of agencies authorized to issue Certificate of Origin-Non Preferential) of the Foreign Trade Policy, 2015-2020.
+
+Visvesvaraya Trade Promotion Centre 3rd floor, A Block, BMTC Complex, Shanthinagar, Bengaluru-560027 Tel- 080-22534444, 080-22210644 Email: vtpckarnataka@gmail.com and its branches at:
+
+I. 1st floor, DIC Building, Rayapur, Dharwad-580009 Tel- 0836-2222600 Email: vtpcdwd@gmail.com II.
+
+CTI Building, SayyajiRao Road, Mysuru-570001 Tel- 0821-4253409 Email: vtpcmysore@gmail.com
+
+2.
+
+Accordingly, name of the above agency along with its branches has been added at S.No. 9 (Karnataka) of Appendix 2E (List of agencies authorized to issue Certificate of Origin-Non Preferential) to Foreign Trade Policy, 2015-2020 (Appendices & ANFs).
+
+3.
+
+Effect of this Public Notice: In continuation with the Public Notice No.11/2009-2014 dated
+
+07.05.2013, M/s Visvesvaraya Trade Promotion Centre along with its branches have been added under Appendix 2E of Foreign Trade Policy, 2015-2020 for issuing Certificate of Origin, Non-Preferential.
+
+AMIT YADAV, Director General of Foreign Trade & Ex-officio Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
