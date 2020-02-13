@@ -1,0 +1,159 @@
+---
+title: "In exercise of the powers conferred by section 37 of the Banning of Unregulated Deposit Schemes Act"
+gazette_id: "CG-DL-E-13022020-216125 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Financial Services"
+notification_no: "S.O. 663 (E)"
+published: "2020-02-13"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-12.216125"
+---
+
+# In exercise of the powers conferred by section 37 of the Banning of Unregulated Deposit Schemes Act
+
+MINISTRY OF FINANCE (Department of Financial Services) NOTIFICATION New Delhi, the 12th February, 2020 S.O. 663 (E).— In exercise of the powers conferred by section 37 of the Banning of Unregulated Deposit Schemes Act, 2019 (21 of 2019), the Central Government hereby makes the following rules, namely:-
+
+1. Short title and commencement.–(1) These rules may be called the Banning of Unregulated Deposit Schemes Rules, 2020.
+
+(2) These rules shall come into force on the date of their publication in the Official Gazette.
+
+2. Definitions.– (1) In these rules, unless the context otherwise requires,– a) ―Act‖ means the Banning of Unregulated Deposit Schemes Act, 2019 (21 of 2019); b) ―application‖ means an application filed by the Competent Authority under section 14 of the Act; c) ―authority‖ means the authority designated under section 9 of the Act; d) ―Competent Authority‖ means an authority appointed by the appropriate Government under section 7 of the Act; and e) ―Designated Court‖ means a Designated Court constituted by the appropriate Government under section 8 of the Act.
+
+(2) The words and expressions used herein and not defined but defined in the Act shall have the meanings assigned to them in the Act.
+
+3. Information and particulars to be considered.– The information and particulars which the Competent Authority shall consider for provisionally attaching the property of the deposit taker shall include, namely:–
+
+(a) any complaint against the promotion or operation of an Unregulated Deposit Scheme, whether the complainant is a depositor in the said Unregulated Deposit Scheme or not;
+
+(b) any information received from the Central Government, or any State Governments or Union territory Administrations, or any law enforcement authority or agency or body under the charge of such Governments or Administrations, regarding the promotion or operation of an Unregulated Deposit Scheme;
+
+(c) information of any advertisement, whether in print or electronic media or both, inducing another person to invest in, or become a member or participant of any Unregulated Deposit Scheme; and
+
+(d) any other information that the Competent Authority has, that a deposit taker is soliciting or accepting deposits in contravention of the provisions of the Act.
+
+4. Manner of provisional attachment and administration of provisionally attached property.– (1) A copy of the order of provisional attachment shall be served on the owner of the property, or any person who claims to be in possession of the property or any other person who has an interest in the said property.
+
+(2) The order of provisional attachment shall be published in a leading newspaper (both in vernacular and in English) having wide circulation in the area or jurisdiction in which the deposit taker is located.
+
+(3) Where the Competent Authority is not able to serve the order of provisional attachment to a person specified in sub-rule (1), then such person shall be deemed to be served the order by the publication of the order in the manner provided under sub-rule (2).
+
+(4) The Competent Authority shall take possession of the immoveable property by affixing the order of provisional attachment at a conspicuous place of such immoveable property.
+
+(5) Where the property to be attached is a moveable property, the Competent Authority shall take actual physical possession of such property and retain it in his custody or the custody of any other officer appointed to assist him.
+
+(6) The Competent Authority shall maintain a record of the property provisionally attached which shall include details of any expenditure incurred or any costs of management of the property and of any income received from the property.
+
+(7) The Competent Authority shall assess the assets and the liabilities of the deposit taker and prepare a complete record of depositors from whom the deposit taker has collected deposits pursuant to an Unregulated Deposit Scheme.
+
+(8) The Competent Authority may appoint a valuer for the purposes of assessing the assets and liabilities of the deposit taker under sub-rule (7).
+
+(9) Where any property of which possession has been taken is of a perishable nature, the Competent Authority may sell the same keeping in mind the best interest of the depositors.
+
+(10) The details and proceeds of the sale under sub-rule (9) shall be entered separately by the Competent Authority and maintained in the record as specified in sub-rule (6).
+
+5. Impounding and retention of records.– (1) The person from whose custody records are impounded under sub-section (8) of section 7 of the Act may make copies thereof, or take extracts therefrom, in the presence of an officer authorised by the Competent Authority, at such place and time as the Competent Authority may appoint in this behalf.
+
+(2) The officer appointed under sub-section (2) of section 7 shall retain such records in his custody without taking approval from the Competent Authority for a period upto three months, and if the records are necessary to be retained beyond the said period, approval of the Competent Authority shall be required.
+
+(3) If the person from whose custody records are impounded objects for any reason to the records being impounded, he may make an application to the Competent Authority stating therein the reasons for such objection and requesting for the return of the records, and the Competent Authority may, after giving the applicant an opportunity of being heard, pass such orders as he thinks fit.
+
+(4) The officer shall ensure the safe custody of the records impounded and retained in his custody.
+
+6. Central Database.– (1) The authority may require any Regulator or the Competent Authority or any other entity or person to submit to it any information in its possession relating to deposit takers in India.
+
+(2) The designated authority shall operate a portal accessible to the public, containing information relating to deposit takers, which shall include the following, namely:–
+
+(i) list of deposit takers operating in India, the extent and areas of their operation;
+
+(ii) any action taken under any law for the time being in force against any deposit taker for collection of deposits; and
+
+(iii) updates regarding proceedings for restitution of depositors under Chapter V of the Act.
+
+7. Form and manner of intimation.– (1) Every deposit taker commencing business shall submit an intimation in the Form annexed to these rules to the authority specified in sub-rule (1) of rule 6, within a period of thirty days from the commencement of the business.
+
+(2) In case of any change in any particulars submitted to the said authority, the deposit taker shall intimate the authority of such change within a period of thirty days from the date of the change.
+
+8. Application for confirmation of provisional attachment.– The Competent Authority shall file an application before the Designated Court for making the provisional attachment absolute, containing the following particulars, namely:–
+
+(a) a complete list of the property, money or deposits attached;
+
+(b) in case of immoveable property, the name or names and particulars of the owner of the property, any person who claims to be in possession of the property, and any other person who has an interest in the said property;
+
+(c) the record of the provisionally attached property specified in sub-rule (6) of rule 4 and the valuation report, if any, specified in sub-rule (8) of rule 4;
+
+(d) a list of the depositors from whom the deposit taker has accepted or collected deposits; and
+
+(e) a list of dues owed to depositors including amounts that may be realised from sale of any attached property of the deposit taker.
+
+9. Procedure to be adopted by Designated Court.– (1) The Designated Court may regulate its own procedure and shall be guided by the principles of natural justice and the procedure contained in the Code of Civil Procedure, 1908.
+
+(2) The Designated Court shall,–
+
+(a) consider the objections to the show cause notice issued under sub-section (1) or sub-section
+
+(2) of section 15 of the Act;
+
+(b) hear the aggrieved person and the Competent Authority or advocates representing these parties; and
+
+(c) take into account all relevant materials placed on record before it.
+
+10. Authorisation for search and seizure.– For the purpose of an investigation into any offence under the Act, the officer-in-charge of a police station may, with the written authorisation, search for the following, namely:–
+
+(a) any record, whether physical or electronic, which is used, intended to be used, or suspected to be used, in connection with the promotion or operation of an Unregulated Deposit Scheme;
+
+(b) any books of account maintained in connection with an Unregulated Deposit Scheme;
+
+(c) any deposits acquired or suspected to be acquired in connection with the promotion or operation of an Unregulated Deposit Scheme;
+
+(d) any valuable securities maintained or suspected to be maintained in connection with the promotion or operation of an Unregulated Deposit Scheme;
+
+(e) record of any property, whether movable or immovable, acquired either in the name of the deposit taker or in the name of any other person on behalf of the deposit taker, which is suspected to be acquired in connection with an Unregulated Deposit Scheme;
+
+(f) record of any account with a bank or financial or market establishment, which is suspected to be used in connection with an Unregulated Deposit Scheme; and
+
+(g) any other thing which is suspected to be used in connection with an Unregulated Deposit Scheme.
+
+11. Retraction of advertisement.– (1) The appropriate Government shall direct the owner of any newspaper or other publication of any nature either in print or in electronic form, to publish a full and fair retraction, unequivocally withdrawing any offer, promotion or inducement made earlier in any advertisement, statement or information to any person to become a member of any Unregulated Deposit Scheme.
+
+(2) The retraction shall be as prominent as the original advertisement, statement or information and be in such a format and font that immediately catches the attention of any reader or recipient.
+
+(3) The retraction shall be published free of cost within two days from the date of the direction of the appropriate Government.
+
+(4) Where the appropriate Government is of the view that the retraction published has not sufficiently engaged the attention of the readers of the newspaper or such other publication, that Government may direct re-publication of the retraction.
+
+[F.No.6/7/2019-BO.II] Dr. MADNESH KUMAR MISHRA, Jt. Secy.
+
+FORM (See rule 7) INTIMATION TO BE SUBMITTED TO THE AUTHORITY
+
+1.
+
+Name of deposit taker.
+
+2.
+
+Registered address of the deposit taker.
+
+3.
+
+Address of branches of the deposit taker (if any).
+
+4.
+
+Unique Identification No. of Registration / Incorporation under applicable law.
+
+5.
+
+Authority to carry on deposit taking.
+
+6.
+
+Name and address of persons responsible for the management of the deposit taker (CEO and Directors/ Partners, Proprietors / Board).
+
+7.
+
+PAN number of the deposit taker.
+
+I solemnly affirm to the best of my knowledge and belief, that the information given in this Form is correct, and that nothing material has been concealed therefrom.
+
+Date:
+
+Authorised Signatory Place: and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
