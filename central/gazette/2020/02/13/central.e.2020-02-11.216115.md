@@ -1,0 +1,30 @@
+---
+title: "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules 2018"
+gazette_id: "CG-DL-E-13022020-216115 Download: gvGazette$ctl09$imgbtndownload"
+ministry: "Bureau of Indian Standards"
+department: "Not Applicable"
+published: "2020-02-13"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-11.216115"
+---
+
+# In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules 2018
+
+NOTIFICATION New Delhi, the 24th January, 2020 Ref: Pub 3/5/2019-20.—In pursuance of Sub-rule (1) of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that amendments to the Indian Standards, particulars of which are given in the Schedule hereto annexed have been issued:
+
+SCHEDULE No. Year and Title of the Date till which the Sl.
+
+No.
+
+Indian Standards No. and year of the Amendment Date of Establishment Standard without Amendment as of the Amendment at Column (3) mentioned at Column (3) shall Amendment No. 4 21 Jan 2020 20 Feb 2020 remain in force
+
+1.
+
+IS 5297 : 1977 Specification for Perchloroethylene January 2020 (Tetrachloroethylene), Technical (Second Revision) Amendment No. 1 21 Jan 2020 20 Feb 2020
+
+2.
+
+IS 12345 : 1988 Specification for Vinyl Acetate January 2020 Monomer (First Revision) Copy of these Amendments are available for sale with the Bureau of Indian Standards, Manak Bhavan, 9, Bahadur Shah Zafar Marg, New Delhi-110002 and Regional Offices: New Delhi, Kolkata, Chandigarh, Chennai, Mumbai and also Branch Offices: Ahmedabad, Bangalore, Bhopal, Bhubaneswar, Coimbatore, Guwahati, Hyderabad, Jaipur, Nagpur, Kanpur, Patna, Pune, Kochi. Online purchase of Indian Amendments can be made at http://www.standardbis.in.
+
+Dr. R. K. BAJAJ, Sc-G & DDG (Stdn.)
+
+[ADVT.-III/4/Exty./438/19] and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
