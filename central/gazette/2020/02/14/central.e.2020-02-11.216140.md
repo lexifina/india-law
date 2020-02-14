@@ -1,0 +1,20 @@
+---
+title: "Bureau of Indian Standards hereby makes the following AMENDMENT to the NOTIFICATION"
+gazette_id: "CG-DL-E-14022020-216140 Download: gvGazette$ctl05$imgbtndownload"
+ministry: "Bureau of Indian Standards"
+department: "Not Applicable"
+published: "2020-02-14"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-11.216140"
+---
+
+# Bureau of Indian Standards hereby makes the following AMENDMENT to the NOTIFICATION
+
+CORRIGENDUM New Delhi, the 17th January, 2020 Ref: PUB/3/7/2019-20.—Bureau of Indian Standards hereby makes the following AMENDMENT to the NOTIFICATION of Government of India under the Ministry of Consumer Affairs, Food & Public Distribution (Department of Consumer Affairs) published in Part III, Section 4 of the Gazette of India, Rule 15 of the Bureau of Indian Standards Rules, 2018, of the Gazette of India.
+
+(Sl.no. 1), column (5) of schedule – Substitute "31 Mar 2020" for "23 June 2019" Dr. R.K. BAJAJ, Sc.-G & DDG(Stdn.)
+
+[Advt. III/4/Exty./439/19] CORRIGENDUM New Delhi, the 13th January, 2020 Ref: PUB/3/7/2019-20.—Bureau of Indian Standards hereby makes the following AMENDMENT to the NOTIFICATION of Government of India under the Ministry of Consumer Affairs, Food & Public Distribution (Department of Consumer Affairs) published in Part III, Section 4 of the Gazette of India, rule (1) of Rule 15 of the Bureau of Indian Standards Rules, 2018, of the Gazette of India.
+
+Sl.no. 1), column (5) of schedule – Substitute "30 Sep 2020" for "11 July 2019" Sl.no. 2), column (5) of schedule – Substitute "30 Sep 2020" for "11 July 2019" MAMTA UPADHYAY LAL, IOFS Addl. Dir. General
+
+[ADVT. III/4/Exty./439/19] and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
