@@ -1,0 +1,39 @@
+---
+title: "In exercise of the powers conferred by proviso to sub section 2 of section 139AA read with section 295 of the Income tax Act"
+gazette_id: "CG-DL-E-14022020-216151 Download: gvGazette$ctl11$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "G.S.R. 112(E)"
+published: "2020-02-14"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-13.216151"
+---
+
+# In exercise of the powers conferred by proviso to sub section 2 of section 139AA read with section 295 of the Income tax Act
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF DIRECT TAXES) NOTIFICATION New Delhi, the 13th February, 2020 G.S.R. 112(E).—In exercise of the powers conferred by proviso to sub-section (2) of section 139AA read with section 295 of the Income-tax Act, 1961 (43 of 1961), the Central Board of Direct Taxes hereby makes the following rules further to amend Income-tax Rules, 1962, namely:-
+
+1.
+
+Short title and commencement. - (1) These rules may be called the Income-tax (5th Amendment) Rules, 2020.
+
+(2) They shall come into force from the date of their publication in the Official Gazette.
+
+2.
+
+In the Income-tax Rules, 1962, after rule 114AA, the following rule shall be inserted, namely:-
+
+"114AAA. Manner of making permanent account number inoperative. (1) Where a person, who has been allotted the permanent account number as on the 1st day of July, 2017 and is required to intimate his Aadhaar number under sub-section (2) of section 139AA, has failed to intimate the same on or before the 31st day of March, 2020, the permanent account number of such person shall become inoperative immediately after the said date for the purposes of furnishing, intimating or quoting under the Act.
+
+(2) Where a person, whose permanent account number has become inoperative under sub-rule (1), is required to furnish, intimate or quote his permanent account number under the Act, it shall be deemed that he has not furnished, intimated or quoted the permanent account number, as the case may be, in accordance with the provisions of the Act, and he shall be liable for all the consequences under the Act for not furnishing, intimating or quoting the permanent account number.
+
+(3) Where the person referred to in sub-rule (1) has intimated his Aadhaar number under sub-section
+
+(2) of section 139AA after the 31st day of March, 2020, his permanent account number shall become
+
+(i) operative from the date of intimation of Aadhaar number for the purposes of furnishing, intimating or quoting under the Act and provisions of sub-rule (2) shall not be applicable from such date of intimation.
+
+(4) The Principal Director General of Income-tax (Systems) or Director General of Income-tax (Systems) shall specify the formats and standards along with the procedure for verifying the operational status of permanent account number under sub-rule (1) and sub-rule (2).".
+
+[Notification No.11/2020/F.No. 370149/166/2019-TPL] ANKUR GOYAL, Under Secy.
+
+Note : The principal rules were published in the Gazetted of India, Extraordinary, Part-II, Section-3, Sub - section (ii) vide number S.O. 969 (E), dated the 26th March, 1962 and were last amended vide notification number G.S.R. 110(E), dated the 12th February, 2020. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
