@@ -1,0 +1,49 @@
+---
+title: "In exercise of the powers conferred by the proviso to rule 54 of the Narcotic Drugs and Psychotropic"
+gazette_id: "CG-DL-E-14022020-216165 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "S.O. 714(E)"
+published: "2020-02-14"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-14.216165"
+---
+
+# In exercise of the powers conferred by the proviso to rule 54 of the Narcotic Drugs and Psychotropic
+
+MINISTRY OF FINANCE (Department of Revenue) NOTIFICATION New Delhi, the 14th February, 2020 S.O. 714(E).—In exercise of the powers conferred by the proviso to rule 54 of the Narcotic Drugs and Psychotropic Substances Rules, 1985, the Central Government hereby notifies that the manufacturers mentioned in the Table below are permitted to import morphine, codeine, thebaine and their salts for use in manufacture of products to be exported, after following the procedure specified in rule 55 of the said rules and subject to such conditions as may be specified in the import certificate issued in Form No. 4A annexed to the aforesaid rules, namely:—
+
+Sl. No.
+
+Name and Address of manufacturers
+
+1.
+
+M/s. Adcock Ingram Limited, 49-C and D, Bommasandra Industrial Area, Anekal Taluk, Bangalore-560099.
+
+2.
+
+M/s. Rusan Pharma Ltd., 58-D, Government Industrial Estate, Charpok, Kandivali (W), Mumbai-400067.
+
+3.
+
+M/s. Sanofi India Limited, D-2, Unit No. 5 and 6, 2nd floor, Southern Park, Saket District Centre, New Delhi-110017.
+
+4.
+
+M/s. Sun Pharmaceuticals Industries Ltd. Acme Plaza, Andheri Kurla Road, Andheri
+
+(East), Mumbai-400059.
+
+5.
+
+M/s. Verve Human Care Laboratories, Plot No. 15-A, Pharmacity, Selaqui, Dehradun248011 Uttrakhand.
+
+6.
+
+M/s. Wockhardt Limited, Wockhardt Towers, Bandra Kurla Complex, Mumbai-400051.
+
+2.
+
+This notification shall remain in force from the date of its publication in the Official Gazette till the 31st day of December, 2022.
+
+[F. No. N-11012/1/2013-NC-II] BISWAJIT SARKAR, Under Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
