@@ -1,0 +1,41 @@
+---
+title: "In exercise of the powers conferred by section 41 read with section 469 of the Companies Act,"
+gazette_id: "CG-DL-E-14022020-216159 Download: gvGazette$ctl08$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "Not Applicable"
+notification_no: "G.S.R. 111(E)"
+published: "2020-02-14"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-13.216159"
+---
+
+# In exercise of the powers conferred by section 41 read with section 469 of the Companies Act,
+
+MINISTRY OF CORPORATE AFFAIRS NOTIFICATION New Delhi, the 13th February, 2020 G.S.R. 111(E).—In exercise of the powers conferred by section 41 read with section 469 of the Companies Act, 2013 (18 of 2013), the Central Government hereby makes the following rules to amend the Companies (Issue of Global Depository Receipts) Rules, 2014, namely:-
+
+1. Short title and commencement.‐ (1) These rules may be called the Companies (Issue of Global Depository Receipts) Amendment Rules, 2020.
+
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2. In the Companies (Issue of Global Depository Receipts) Rules, 2014 (hereinafter referred to as the said rules), in rule 2,-
+
+(i) for the words, brackets and figures "Foreign Currency Convertible Bonds and Ordinary Shares (Through Depository Receipt Mechanism) Scheme, 1993" at both the places where they occur, the words and figures "Depository Receipts Scheme, 2014" shall be substituted;
+
+(ii) in sub-rule (1), after clause (a), the following clause shall be inserted, namely:„(aa) „‟overseas depository" or "overseas depository bank" shall mean „foreign depository‟ as defined in the Scheme.‟.
+
+3. In the said rules, in rule 5,-
+
+(i) for sub-rule (1), the following sub-rule shall be substituted, namely:-
+
+"(1) The depository receipts can be issued by way of public offering or private placement or in any other manner prevalent in the concerned jurisdiction and may be listed or traded on the listing or trading platform in the concerned jurisdiction.";
+
+(ii) in sub-rule (3), the word "abroad" shall be omitted.
+
+4. In the said rules, in rule 7, the following proviso shall be inserted, namely:-
+
+"Provided that proceeds of issue of depository receipts may be remitted in an International Financial Services Centre Banking Unit (IBU) and utilised in accordance with the instructions issued by the Reserve Bank of India from time to time.".
+
+5. In the said rules, in rule 9, in sub-rule (1), the word "abroad" shall be omitted.
+
+[F. No. 1/21/2013-CL-V-part] K.V.R. MURTY, Jt. Secy.
+
+Note : The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide notification number G.S.R. 252(E), dated the 31st March, 2014. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA
