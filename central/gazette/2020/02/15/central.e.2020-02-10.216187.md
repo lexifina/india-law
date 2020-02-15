@@ -1,0 +1,486 @@
+---
+title: "The Institute of Teaching and Research in Ayurveda Act, 2020."
+gazette_id: "CG-DL-E-15022020-216187 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Lok Sabha Secretariat"
+department: "Not Applicable"
+published: "2020-02-15"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-10.216187"
+---
+
+# The Institute of Teaching and Research in Ayurveda Act, 2020.
+
+LOK SABHA The following Bill was introduced in Lok Sabha on 10th February, 2020:—
+
+BILL NO. 33 OF 2020 A Bill to provide for the establishment of an Institute of Teaching and Research in Ayurveda and to declare it as an Institution of national importance for the promotion of quality and excellence in education, research and training in Ayurveda and allied disciplines and for matters connected therewith or incidental thereto.
+
+BE it enacted by Parliament in the Seventy-first Year of the Republic of India as follows:—
+
+CHAPTER I PRELIMINARY Short title and commencement.
+
+1. (1) This Act may be called the Institute of Teaching and Research in Ayurveda Act, 2020.
+
+(2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different provisions of this Act.
+
+2. It is hereby declared that the Institute of Teaching and Research in Ayurveda incorporated under this Act shall be an Institution of national importance.
+
+Declaration of Institute of Teaching and Research in Ayurveda as an institution of national importance.
+
+Definitions.
+
+3. In this Act, unless the context otherwise requires,—
+
+(a) "Anteceding Institutions" means the Institute of Post Graduate Teaching and Research in Ayurveda, Jamnagar, Shree Gulabkunverba Ayurved Mahavidyalaya, Jamnagar and the Indian Institute of Ayurvedic Pharmaceutical Sciences, Jamnagar;
+
+(b) "Department of Swasthvritta" means the Maharishi Patanjali Institute for Yoga Naturopathy Education and Research, Jamnagar, a constituent institute of the Gujarat Ayurveda University, to be established as a Department of the Institute;
+
+(c) "Director" means the Director of the Institute appointed under sub-section (1) of section 11;
+
+(d) "Fund" means the Fund of the Institute maintained under section 15;
+
+(e) "Governing Body" means the body constituted under sub-section (1) of section 10;
+
+(f) "Gujarat Ayurved University" means the University established and incorporated under the Gujarat Ayurved University Act, 1965;
+
+Gujarat Act
+
+(g) "Indian Institute of Ayurvedic Pharmaceutical Sciences, Jamnagar" means an institution established by the Gujarat Ayurveda University for conducting Pharmacy courses in Ayurveda and includes the Pharmacy Unit established for preparation of Ayurvedic drugs for use in hospital of the Institute;
+
+(h) "Institute" means the Institute of Teaching and Research in Ayurveda established by conglomerating Anteceding Institutions and incorporated under section 4;
+
+(i) "Institute of Post Graduate Teaching and Research in Ayurveda, Jamnagar" means a national Institute for postgraduate courses in Ayurveda established and funded by the Government of India, but maintained by the Gujarat Ayurveda University under a lease agreement entered between the Government of India and that University;
+
+( j)"member" means a member of the Institute;
+
+(k) "prescribed" means prescribed by rules made under this Act;
+
+(l) "regulation" means a regulation made by the Institute.
+
+(m) "Shree Gulabkunverba Ayurved Mahavidyalaya, Jamnagar" means a constituent Institute of the Gujarat Ayurveda University for conducting undergraduate courses in Ayurveda.
+
+CHAPTER II
+
+THE INSTITUTE
+
+4. (1) The Anteceding Institutions, namely, the Institute of Post Graduate Teaching and Research in Ayurveda, Jamnagar, Shree Gulabkunverba Ayurved Mahavidyalaya, Jamnagar and the Indian Institute of Ayurvedic Pharmaceutical Sciences, Jamnagar are hereby conglomerated and established as a body corporate under this Act and on such incorporation be called the Institute of Teaching and Research in Ayurveda.
+
+Establishment and incorporation of Anteceding Institutions as Institute of Teaching and Research in Ayurveda.
+
+(2) The Institute shall have perpetual succession and a common seal, with power to acquire, hold and dispose of property, both movable and immovable, and to contract, and may by that name sue or be sued.
+
+5. On and from the commencement of this Act,—
+
+(a) any reference in any law, other than this Act, or in any contract or other instrument to Anteceding Institutions shall be deemed as a reference to the Institute;
+
+(b) all property, movable and immovable, of or belonging to Anteceding Institutions shall vest in the Institute;
+
+Effect of incorporation of Anteceding Institutions as Institute of Teaching and Research in Ayurveda.
+
+(c) all the rights and liabilities of Anteceding Institutions shall be transferred to, and be the rights and liabilities of, the Institute;
+
+(d) every person who is employed in the Anteceding Institutions immediately before such commencement shall, subject to the provisions of this Act, become the employee of the Institute and hold his office or service therein by the same tenure, at the same remuneration and upon the same terms and conditions and with the same rights and privileges as to pension, leave, gratuity, provident fund, and other matters as he would have held the same if this Act had not been passed, and shall continue to do so unless and until his employment is terminated or until such tenure, remuneration and terms and conditions are duly altered by regulations:
+
+Provided that if the alteration so made is not acceptable to such employee, his employment may be terminated by the Institute in accordance with the terms of the contract with the employee or, if no provision is made therein in this behalf, on payment to him by the Institute of compensation equivalent to not less than three months' remuneration in the case of permanent employees and not less than one month's remuneration in the case of other employees;
+
+(e) the Director of the Institute of Post Graduate Teaching and Research in Ayurveda, Jamnagar shall be deemed to have been appointed as the Director of the Institute under this Act and shall hold office for a period of five years with effect from such commencement or until he attains the age of sixty-five years, whichever is earlier;
+
+(f) the Directors of Shree Gulabkunverba Ayurved Mahavidyalaya, Jamnagar and the Indian Institute of Ayurvedic Pharmaceutical Sciences, Jamnagar shall be deemed to have been appointed as Deputy Director (Undergraduate) and Deputy Director (Pharmacy), respectively, under this Act and shall hold office for a period of five years with effect from such commencement or until they attain the age of sixty-five years, whichever is earlier;
+
+(g) every person pursuing any academic or research course in Anteceding Institutions before such commencement, shall be deemed to have migrated and registered with the Institute at the same level of course in the Institute;
+
+(h) all suits and other legal proceedings instituted or which could have been instituted by or against Anteceding Institutions, immediately before such commencement, shall be continued or instituted by or against the Institute.
+
+6. (1) The Institute shall consist of the following members, namely:—
+
+Composition of Institute.
+
+(a) the Minister in charge of the Ministry of AYUSH, ex officio;
+
+(b) the Secretary to the Government of India in the Ministry of AYUSH, ex officio;
+
+(c) the Secretary, Department of Health, Government of Gujarat, ex officio;
+
+(d) the Director of the Institute, ex officio;
+
+(e) the technical head of Ayurveda, not below the level of Advisor (Ayurveda), Ministry of AYUSH, ex officio;
+
+(f) the Secretary to the Government of India or his nominee (not below the rank of Joint Secretary) Ministry of Finance, Department of Expenditure, ex officio;
+
+(g) the Vice-Chancellor of Gujarat Ayurved University, Jamnagar, ex officio;
+
+(h) the Director-General, Central Council for Research in Ayurveda, ex officio;
+
+(i) the Secretary to the Government of India or his nominee (not below the rank of Joint Secretary) in the Department of Higher Education, Ministry of Human Resource Development, ex officio;
+
+(j) three experts in Ayurveda, having special knowledge and experience in the field of education, industry and research, to be nominated by the Central Government;
+
+(k) three Members of Parliament, of whom two shall be elected from among themselves by the members of the House of the People and one from among themselves by members of the Council of States.
+
+(2) It is hereby declared that the office of member of the Institute shall not disqualify its holder for being chosen as, or for being, a member of either House of Parliament.
+
+7. (1) Save as otherwise provided in this section, the term of office of a member including nominated or elected member of the Institute shall be five years from the date of his nomination or election.
+
+Terms of office of, and vacancies among, members.
+
+(2) The term of office of a member elected under clause (k) of sub-section (1) of section 6 shall come to an end as soon as he becomes a Minister or Minister of State or Deputy Minister or the Speaker or the Deputy Speaker of the House of the People or the Deputy Chairman of the Council of States or ceases to be a member of the House from which he was elected.
+
+(3) The term of office of an ex officio member shall continue so long as he holds the office by virtue of which he is a member.
+
+(4) The term of office of a member nominated or elected to fill a causal vacancy shall continue for the remainder of the term of the member in whose place he has been nominated or elected.
+
+(5) An outgoing member shall, unless the Central Government otherwise directs, continue in office until another person is nominated or elected as a member in his place.
+
+(6) A member may resign his office by writing under his hand addressed to the Central Government but he shall continue in office till his resignation is accepted by that Government.
+
+(7) The manner of filling vacancies among members shall be such as may be prescribed.
+
+President of Institute.
+
+8. (1) There shall be a President of the Institute who shall be nominated by the Central Government from among the members other than the Director of the Institute.
+
+(2) The President shall exercise such powers and discharge such functions as are laid down in this Act or as may be prescribed.
+
+(3) The President and other members shall receive such allowances from the Institute as may be prescribed.
+
+Meetings of Institute.
+
+9. The Institute shall hold its first meeting at such time and place as may be appointed by the Central Government and shall observe such rules of procedure in regard to the transaction of business at the first meeting as may be laid down by that Government, and thereafter, the Institute shall meet at such times and places and observe such rules of procedure in regard to the transaction of business at its meetings (including quoram) as may be specified by regulations.
+
+10. (1) There shall be a Governing Body of the Institute which shall be constituted by the Institute in such manner as may be specified by regulations.
+
+Governing Body and other committees of Institute.
+
+(2) The Governing Body shall be the executive committee of the Institute and shall exercise such powers and discharge such functions as the Institute may, by regulations made in this behalf, confer or impose upon it.
+
+(3) The President of the Institute shall be the Chairperson of the Governing Body and as Chairperson thereof shall exercise such powers and discharge such functions as may be specified by regulations.
+
+(4) The procedure to be followed in the exercise of its powers and discharge of its functions by the Governing Body, and the term of office of, and the manner of filling vacancies among, the members of the Governing Body shall be such as may be specified by regulations.
+
+(5) Subject to such control and restrictions as may be prescribed, the Institute may constitute as many standing committees and ad hoc committees as it thinks fit for exercising any power or discharging any function of the Institute or for inquiring into, or reporting or advising upon, any matter which the Institute may refer to them, in such manner as may be specified by regulations.
+
+(6) The Chairperson and members of the Governing Body and the Chairperson and the members of a standing committee or an ad hoc committee shall receive such allowances, as may be specified by regulations.
+
+Staff of Institute.
+
+11. (1) There shall be a chief executive officer of the Institute who shall be designated as the Director of the Institute and shall, subject to such rules as may be made by the Central Government in this behalf, be appointed by the Institute:
+
+Provided that the Director of the Institute of Post Graduate Teaching and Research in Ayurveda, Jamnagar shall be deemed to have been appointed as the first Director of the Institute.
+
+(2) The Director shall hold office for a term of five years from the date on which he enters upon his office or until he attains the age of sixty-five years, whichever is earlier.
+
+(3) The Director shall exercise such powers and discharge such functions as may be specified by regulations or as may be delegated to him by the Institute or the President of the Institute or the Governing Body or the Chairperson of the Governing Body.
+
+(4) Subject to such rules as may be made by the Central Government in this behalf, the Institute may appoint Deputy Director (Undergraduate), Deputy Director (Postgraduate) and Deputy Director (Pharmacy) and such number of other officers and employees as may be necessary for the exercise of its powers and discharge of its functions and the designations and grades of other officers and employees shall be such as may be specified by regulations:
+
+Provided that the Director of Shree Gulabkunverba Ayurved Mahavidyalaya, Jamnagar shall be deemed to have been appointed as the first Deputy Director (Undergraduate) of the Institute:
+
+Provided further that the Director of the Indian Institute of Ayurvedic Pharmaceutical Sciences, Jamnagar shall be deemed to have been appointed as the first Deputy Director (Pharmacy) under this Act.
+
+(5) The Director, Deputy Director (Undergraduate), Deputy Director (Postgraduate) and Deputy Director (Pharmacy) and other officers and employees of the Institute shall be entitled to such salary and allowances and shall be governed by such conditions of service in respect of leave, pension, provident fund and other matters as may be specified by regulations.
+
+12. The objects of the Institute shall be—
+
+Objects of Institute.
+
+(a) to develop patterns of teaching in undergraduate and postgraduate medical education in Ayurveda and Pharmacy so as to demonstrate a high standard of such medical education to all medical colleges and other allied institutions of Ayurveda in India;
+
+(b) to bring together in one place educational facilities of the highest order for the training of personnel in all important branches of Ayurveda including Pharmacy;
+
+(c) to attain self-sufficiency in postgraduate education to meet the country's needs for specialists and medical teachers in Ayurveda;
+
+(d) to make an in-depth study and research in the field of Ayurveda.
+
+Functions of Institute.
+
+13. With a view to the promotion of the objects specified in section 12, the Institute may—
+
+(a) provide for undergraduate and postgraduate teaching in Ayurveda, including Pharmacy;
+
+(b) provide facilities for research in the various branches of Ayurveda including Pharmacy;
+
+(c) prescribe courses and curricula for both undergraduate and postgraduate studies in Ayurveda including Pharmacy;
+
+(d) notwithstanding anything contained in any other law for the time being in force, establish and maintain—
+
+(i) one or more Ayurveda medical colleges with different Departments including department of Swasthvritta and such other departments as may deemed to be necessary for scientific validation of Ayurveda, implementing Ayurveda principles and theories in public health and further expansion of Ashtanga Ayurveda with the help of modern scientific advances sufficiently staffed and equipped to undertake undergraduate and postgraduate Ayurveda education including Pharmacy;
+
+(ii) one or more well-equipped hospitals;
+
+(iii) colleges for Ayurveda supporting staffs such as nurses, Pharmacists, Panchakarma technicians or therapists and such other allied disciplines of Ayurveda sufficiently staffed and equipped for training such students;
+
+(iv) rural and urban health organisations which will form centres for the field training in Ayurveda and for research into community health problems; and
+
+(v) other institutions for the training of different types of health workers, such as physiotherapists, occupational therapists and Ayurvedic medical technicians of various kinds;
+
+(e) train teachers for the different Ayurveda colleges in India;
+
+(f) hold examinations (including for admissions) and grant degrees, diplomas and other academic distinctions and titles in undergraduate and postgraduate education in Ayurveda and Pharmacy as may be laid down in the regulations;
+
+(g) institute, and appoint persons to professorships, readerships, lectureships and posts of any description in accordance with regulations;
+
+(h) receive grants from the Government and gifts, donations, benefactions, bequests and transfers of properties, both movable and immovable, from donors, benefactors, testators or transferors, as the case may be;
+
+(i) deal with any property belonging to, or vested in, the Institute in any manner which is considered necessary for promoting the objects specified in section 12;
+
+(j) demand and receive such fees and other charges as may be specified by regulations;
+
+(k) construct quarters for its staff and allot such quarters to the staff in accordance with such regulations as may be made in this behalf;
+
+(l) establish, maintain and manage halls and hostels for the residence of students;
+
+(m) supervise and control the residence and regulate the discipline of students of the Institute and to make arrangements for promoting their health, general welfare and cultural and corporate life;
+
+(n) institute and award fellowships, scholarships, exhibitions, prizes and medals;
+
+(o) borrow money, with the prior approval of the Central Government, on the security of the property of the Institute;
+
+(p) to perform all such things as may be necessary, incidental or conducive to the attainment of all or any of the objects of the Institute.
+
+Payment to Institute.
+
+14. The Central Government may, after due appropriation made by Parliament by law in this behalf, pay to the Institute in each financial year such sums of money and in such manner as may be considered necessary for the exercise of its powers and discharge of its functions under this Act.
+
+15. (1) The Institute shall maintain a Fund to which shall be credited—
+
+Fund of Institute.
+
+(a) all moneys provided by the Central Government;
+
+(b) all fees and other charges received by the Institute;
+
+(c) all moneys received by the Institute by way of grants, gifts, donations, benefactions, bequests or transfers; and
+
+(d) all moneys received by the Institute in any other manner or from any other source.
+
+(2) All moneys credited to the Fund shall be deposited in such banks or invested in such manner as the Institute may, with the approval of the Central Government, decide.
+
+(3) The Fund shall be utilised towards meeting the expenses of the Institute including expenses incurred in the exercise of its powers and discharge of its duties under section 13.
+
+Budget of Institute.
+
+16. The Institute shall prepare in such form and at such time every year a budget in respect of the financial year next ensuing showing the estimated receipts and expenditure of the Institute and shall forward to the Central Government such number of copies thereof as may be prescribed.
+
+Accounts and audit.
+
+17. (1) The Institute shall maintain proper accounts and other relevant records and prepare an annual statement of accounts including the balance-sheet, in such form as the Central Government may prescribe by rules, and in accordance with such general directions as may be issued by that Government, in consultation with the Comptroller and Auditor-General of India.
+
+(2) The accounts of the Institute shall be audited by the Comptroller and Auditor-General of India and any expenditure incurred by him in connection with such audit shall be payable by the Institute to the Comptroller and Auditor-General of India.
+
+(3) The Comptroller and Auditor-General of India and any person appointed by him in connection with the audit of the accounts of the Institute shall have the same rights, privileges and authority in connection with such audit as the Comptroller and Auditor-General of India has in connection with the audit of the Government accounts, and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect the offices of the Institute.
+
+(4) The accounts of the Institute as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before both the Houses of Parliament.
+
+Annual report.
+
+18. The Institute shall prepare for every year a report of its activities during that year and submit the report to the Central Government in such form and on or before such date as may be prescribed and a copy of this report shall be laid before both Houses of Parliament within one month of its receipt.
+
+Pension and provident funds.
+
+19. (1) The Institute shall constitute for the benefit of its officers, teachers and other employees, in such manner and subject to such conditions as may be specified by regulations, such pension and provident funds as it may deem fit:
+
+Provided that the pension and provident fund constituted by the Anteceding Institutions before the commencement of this Act shall be deemed to be the pension and provident fund under this section.
+
+(2) Where any such provident fund has been constituted, the Central Government may declare that the provisions of the Provident Funds Act, 1925 shall apply to such fund as if it were a Government Provident Fund.
+
+Authentication of orders and instruments of Institute.
+
+20. All orders and decisions of the Institute shall be authenticated by the Director or any other member authorised by the Institute in this behalf and all other instruments shall be authenticated by the signature of the Director or such other officers as may be authorised by the Institute.
+
+21. No act done or proceeding taken by the Institute, Governing Body or any standing or ad hoc committee under this Act shall be questioned on the ground merely of the existence of any vacancy in, or defect in the constitution of the Institute, Governing Body or such standing or ad hoc committee.
+
+Acts and proceedings not to be invalidated by vacancies, etc.
+
+22. Notwithstanding anything contained in any other law for the time being in force, the Institute shall have power to grant medical degrees, diplomas and other academic distinctions and titles under this Act.
+
+Grant of degrees, diplomas, etc., by Institute.
+
+Recognition of medical qualifications granted by Institute.
+
+23. Notwithstanding anything contained in the Indian Medicine Central Council Act, 1970 and the University Grants Commission Act, 1956, the medical degrees or diplomas granted by the Institute under this Act shall be recognised medical qualifications for the purposes of the Acts aforesaid and shall be deemed to be included in the Schedule to the respective Acts.
+
+24. The Institute shall carry out such directions as may be issued to it from time to time by the Central Government for the efficient administration of this Act.
+
+Control by Central Government.
+
+Resolution of differences.
+
+25. If in, or in connection with, the exercise of its powers and discharge of its functions by the Institute under this Act, any dispute or difference arises between the Institute and the Central Government, the decision of the Central Government thereon shall be final.
+
+Returns and information.
+
+26. The Institute shall furnish to the Central Government such reports, returns and other information as that Government may require from time to time.
+
+27. (1) The Central Government may make rules to carry out the purposes of this Act.
+
+Power to make rules.
+
+(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—
+
+(a) the manner of filling vacancies among members of the Institute under sub-section (7) of section 7;
+
+(b) the powers and functions to be exercised and discharged by the President of the Institute under sub-section (2) of section 8;
+
+(c) the allowances, if any, to be paid to the President and members of the Institute under sub-section (3) of section 8;
+
+(d) the control and restrictions in relation to the constitution of standing committees and ad hoc committees under sub-section (5) of section 10;
+
+(e) the form in which and the time at which the budget showing the estimated receipts and expenditure of the Institute shall be prepared by the Institute and the numbers of copies thereof to be forwarded to the Central Government under section 16;
+
+(f) the form in which annual report shall be prepared and the date before which such report shall be submitted to the Central Government under section 18;
+
+(g) any other matter which has to be or may be prescribed.
+
+Power to make regulations.
+
+28. (1) The Institute, with the previous approval of the Central Government may, by notification in the Official Gazette, make regulations consistent with this Act and the rules made thereunder to carry out the purposes of this Act, and without prejudice to the generality of this power, such regulations may provide for:—
+
+(a) the summoning and holding of meetings other than the first meeting of the Institute, the time and place where such meetings are to be held, the conduct of business at such meetings and the number of members necessary to form a quorum under section 9;
+
+(b) the manner of constituting the Governing Body under sub-section (1) of section 10;
+
+(c) the powers and functions to be exercised and discharged by the Governing Body under sub-section (2) of section 10;
+
+(d) the powers and functions to be exercised and discharged by the President of the Institute under sub-section (3) of section 10;
+
+(e) the procedure to be followed by the Governing Body, the term of office of, and the manner of filling vacancies among, the members of the Governing Body under sub-section (4) of section 10;
+
+(f) the manner of constituting standing committees and ad hoc committees under sub-section (5) of section 10;
+
+(g) the allowances, if any, to be paid to the Chairperson and the members of the Governing Body and of standing committee and ad hoc committee under sub-section (6) of section 10;
+
+(h) the powers and functions to be exercised and discharged by the Director of the Institute under sub-section (3) of section 11;
+
+(i) the designations and grades of other officers and employees under sub-section (4) of section 11;
+
+(j) the salaries and allowances and other conditions of services of the Director, Deputy Director (Undergraduate), Deputy Director (Postgraduate) and Deputy Director (Pharmacy) and other officers and employees of the Institute under sub-section (5) of section 11;
+
+(k) the examinations which may be held and the degrees, diplomas and other academic distinctions and titles which may be granted by the Institute under clause (f) of section 13;
+
+(l) the professorships, readerships, lectureships and other posts which may be instituted and persons who may be appointed to such professorships, readerships, lectureships and other posts under clause (g) of section 13;
+
+(m) the fees and other charges which may be demanded and received by the Institute under clause (j) of section 13;
+
+(n) the construction of quarters for the staff and allotment of such quarters under clause (k) of section 13;
+
+(o) the manner in which, and the conditions subject to which, pension and provident funds may be constituted for the benefit of officers, teachers and other employees of the Institute under sub-section (1) of section 19;
+
+(p) any other matter for which provisions under this Act may be made by regulations.
+
+(2) Until the Institute is established under this Act, any regulation which may be made under sub-section (1) may be made by the Central Government; and any regulation so made may be altered or rescinded by the Institute in exercise of its powers under sub-section (1).
+
+Rules and regulations to be laid before Parliament.
+
+29. Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days, which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.
+
+Power to remove difficulties.
+
+30. (1) If any difficulty arises is giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not inconsistent with the purposes of this Act, as appear to it to be necessary or expedient for removing the difficulty:
+
+Provided that no such order shall be made after the expiry of two years from the date of commencement of this Act.
+
+(2) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.
+
+31. Notwithstanding anything contained in this Act,—
+
+Transitional provisions.
+
+(a) the Board of Governors or any other governing system of the Anteceding Institutions functioning as such immediately before the commencement of this Act shall continue to so function until a Governing Body is constituted for the Institute under this Act, but on the constitution of a new Governing Body under this Act, the members of the Board holding office before such constitution shall, unless otherwise provided in this Act, cease to hold office;
+
+(b) the committees constituted in relation to the Anteceding Institutions before the commencement of this Act shall be deemed to be constituted under this Act until new committees are constituted for the Institute.
+
+STATEMENT OF OBJECTS AND REASONS India is the country of origin of Ayurveda. World is looking up to India to showcase state of art institutions providing international level education and training in Ayurveda.
+
+There is rising interest and demand for knowledge and services of Ayurveda all over the world.
+
+2. It is proposed to conglomerate certain Ayurveda institutes in the campus of Gujarat Ayurved University at Jamnagar, namely, (i) the Institute for Post Graduate Teaching and Research in Ayurveda; (ii) Shree Gulabkunverba Ayurved Mahavidyalaya; and (iii) the Indian Institute of Ayurvedic Pharmaceutical Sciences (including pharmacy Unit) by establishing them as one institution in the name of the Institute of Teaching and Research in Ayurveda, Jamnagar and to confer the status of Institution of National Importance on it. It is also proposed to subsume the Maharshi Patanjali Institute for Yoga and Naturopathy Education and Research into the proposed Institute and establish it as a Department of Swasthvritta.
+
+3. The Institute will be elevated to the status of Institution of National Importance which will provide autonomy to it to upgrade standards of Ayurveda education, to frame various courses in Ayurveda as per national and international demand and to adopt advanced evaluation methodology.
+
+4. Conferring the status of Institute of National Importance to the Institute of Teaching and Research in Ayurveda, Jamnagar will also facilitate (a) to develop patterns of teaching in undergraduate and postgraduate medical education in Ayurveda and Pharmacy so as to demonstrate a high standard of such medical education to all medical colleges and other allied institutions of Ayurveda in India; (b) to bring together in one place educational facilities of the highest order for the training of personnel in all important branches of Ayurveda, including Pharmacy; (c) to attain self-sufficiency in postgraduate education to meet the country's needs for specialists and medical teachers in Ayurveda; and (d) to make an in-depth study and research in the field of Ayurveda.
+
+5. The Bill seeks to achieve the above objects.
+
+NEW DELHI;
+
+SHRIPAD NAIK.
+
+The 3rd February, 2020.
+
+Notes on clauses Clause 3 of the Bill seeks to define certain words and expressions.
+
+Clause 4 of the Bill provides for establishment and incorporation of the Institute of Teaching and Research in Ayurveda by conglomerating the Institute for Post Graduate Teaching and Research in Ayurveda; Shree Gulabkunverba Ayurved Mahavidyalaya; and the Indian Institute of Ayurvedic Pharmaceutical Sciences (including pharmacy Unit).
+
+Clause 5 of the Bill defines the effect of incorporation of Anteceding Institutions as Institute of Teaching and Research in Ayurveda.
+
+Clause 6 of the Bill seeks to provide for the composition of the Institute.
+
+Clause 7 of the Bill seeks to provide for the terms of office of, and vacancies among members.
+
+Clause 8 of the Bill seeks to provide for nomination of the President of the Institute.
+
+Clause 9 of the Bill seeks to provide for the meetings of the Institute in regard to the transaction of business.
+
+Clause 10 of the Bill seeks to provide for constitution of Governing Body and other committees of the Institute.
+
+Clause 11 of the Bill seeks to provide for composition of staff of the Institute.
+
+Clause 12 of the Bill seeks to provide for the objective of the Institute.
+
+Clause 13 of the Bill seeks to provide for functioning of the Institute to fulfil the objectives.
+
+Clause 14 of the Bill seeks to provide for the payment to be made by the Central Government to the Institute for the discharge of its functions.
+
+Clause 15 of the Bill seeks to provide for fund management of the Institute.
+
+Clause 16 of the Bill seeks to provide for preparation of Budget for the Institute.
+
+Clause 17 of the Bill seeks to provide for maintaining proper Accounts and Audit of the Institute.
+
+Clause 18 of the Bill seeks to provide for preparation of Annual Report.
+
+Clause 19 of the Bill seeks to provide for pension and provident funds for its employees.
+
+Clause 20 of the Bill seeks to provide for authentication of orders and instruments of the Institute.
+
+Clause 21 of the Bill seeks to provide for Acts and proceedings not to be invalidated by vacancies, etc.
+
+Clause 22 of the Bill seeks to provide for grant of degrees, diplomas, etc., by the Institute.
+
+Clause 23 of the Bill seeks to provide for recognition of medical qualifications granted by the Institute.
+
+Clause 24 of the Bill seeks to provide for control of the Institute by the Central Government.
+
+Clause 25 of the Bill seeks to provide for resolution of differences between the Central Government and the Institute.
+
+Clause 26 of the Bill seeks to provide for furnishing of returns and information to the Central Government.
+
+Clause 27 of the Bill seeks to provide for power to make rules by the Central Government.
+
+Clause 28 of the Bill seeks to provide for power to make regulations for the Institute.
+
+Clause 29 of the Bill seeks to provide for laying of every rule and every regulation made under this Act before each House of Parliament.
+
+Clause 30 of the Bill seeks to provide for power to remove difficulties.
+
+Clause 31 of the Bill seeks to provide for transitional provisions.
+
+FINANCIAL MEMORANDUM Clause 4 of the Bill provides for declaration of the Institute of Teaching and Research in Ayurveda incorporated under this Act as an Institution of National Importance. Consequent upon absorption of two Institutes namely, Shree Gulabkunverba Ayurved Mahavidyalaya and the Indian Institute of Ayurvedic Pharmaceutical Sciences into the proposed Institute of Teaching and Research in Ayurveda, a total of additional financial implication of Rs. 35.71 crore, spreading over a period of three financial years, 2019-20, 2020-21 and 2021-22, may arise.
+
+At this stage, it is not practicable to make an estimate of recurring and non-recurring expenditure of the Institute. However, the expenditure would be met from the Consolidated Fund of India through budgetary provisions of the Ministry of AYUSH.
+
+MEMORANDUM REGARDING DELEGATED LEGISLATION Clause 27 of the Bill empowers the Central Government to make rules in respect of matters which, inter alia, include (i) the manner of filling vacancies among members of the Institute; (ii) the powers and functions of the President of the Institute;
+
+(iii) allowances to be paid to the President and members of the Institute; (iv) the control and restrictions for the constitutions of standing committees and ad hoc committees;
+
+(v) the form for preparation of budget and annual report and other matters.
+
+2. Clause 28 of the Bill empowers the Institute, with previous approval of the Central Government to make regulations, consistent with the Act and the rules made thereunder, in respect of matters which, inter alia, include (i) the summoning and holding of the meetings of the Institute; (ii) the manner of constituting Governing Body; (iii) the powers and functions of the Governing Body; (iv) the powers and functions of the President of the Institute; (v) the procedure to be followed by the Governing Body, the term of office and the manner of filling vacancies; (vi) the manner of constituting standing committee and ad hoc committee; (vii) the allowances to be paid to Chairperson and members of the Governing Body, standing committee and ad hoc committee; (viii) the powers and functions of the Director of the Institute; (ix) the designation and grades of the officers and employees; (x) the salaries and allowances and other conditions of service of officers and employees of the Institute; (xi) the examination to be held and the degrees, diplomas and other academic distinctions and titles to be granted by the Institute; (xii) the professorship, readership, lectureship and other posts to be instituted and persons to be appointed to such posts; (xiii) the fees and other charges to be demanded and received by the Institute; (xiv) the construction of quarters for staff and its allotment; (xv) the manner of constitution of pension and provident fund for teachers, officers and other employees of the Institute; (xvi) and other matters.
+
+3. Clause 29 provides that every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days, which may be comprised in one or in two or more successive sessions, etc. Both Houses agree in making any modification in the rule or regulation and otherwise, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be.
+
+4. The matters for which rules or regulations may be made are matters of procedures or details and it is not possible to provide for them in the Bill. The delegation of legislative powers is, therefore, of normal character.
+
+SNEHLATA SHRIVASTAVA, Secretary-General.
+
+UPLOADED BY THE MANAGER, GOVERNMENT OF INDIA PRESS, MINTO ROAD, NEW DELHI–110002 AND PUBLISHED BY THE CONTROLLER OF PUBLICATIONS, DELHI–110054.
+
+BANSHI DHAR DUBEY BANSHI DHAR DUBEY
