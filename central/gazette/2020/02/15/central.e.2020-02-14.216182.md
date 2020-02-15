@@ -1,0 +1,23 @@
+---
+title: "In exercise of the powers conferred by sub section 1 of section 406 read with sub sections"
+gazette_id: "CG-DL-E-15022020-216182 Download: gvGazette$ctl14$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "Not Applicable"
+notification_no: "G.S.R. 114(E)"
+published: "2020-02-15"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-14.216182"
+---
+
+# In exercise of the powers conferred by sub section 1 of section 406 read with sub sections
+
+MINISTRY OF CORPORATE AFFAIRS NOTIFICATION New Delhi, the 14th February, 2020 G.S.R. 114(E).—In exercise of the powers conferred by sub-section (1) of section 406 read with sub-sections (1) and (2) of section 469 of the Companies Act, 2013 (18 of 2013), the Central Government hereby makes the following rules further to amend the Nidhi Rules, 2014, namely:—
+
+1. (1) These rules may be called the Nidhi (Second Amendment) Rules, 2020.
+
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2. In the Nidhi Rules, 2014, in rule 23A, for the words "six months" the words "nine months" shall be substituted.
+
+[F. No. 1/24/2013-CL.V (Part-1)] K. V. R. MURTY, Jt. Secy.
+
+Note : The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 258(E), dated the 31st March, 2014 and subsequently amended vide notification number G.S.R. 467(E), dated the 1st July, 2019 and vide notification number G.S.R. 81(E) dated the 3rd February, 2020. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA
