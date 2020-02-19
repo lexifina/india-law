@@ -1,0 +1,125 @@
+---
+title: "In exercise of the powers conferred by sections 396 398 399 403 and 404 read with sub sections"
+gazette_id: "CG-DL-E-19022020-216274 Download: gvGazette$ctl06$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "Not Applicable"
+notification_no: "G.S.R. 127(E)"
+published: "2020-02-19"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-18.216274"
+---
+
+# In exercise of the powers conferred by sections 396 398 399 403 and 404 read with sub sections
+
+MINISTRY OF CORPORATE AFFAIRS NOTIFICATION New Delhi, the 18th February, 2020 G.S.R. 127(E).—In exercise of the powers conferred by sections 396, 398, 399, 403 and 404 read with sub-sections (1) and (2) of section 469 of the Companies Act, 2013 (18 of 2013), the Central Government hereby makes the following rules further to amend the Companies (Registration Offices and Fees) Rules, 2014, namely:-
+
+1. (1) These rules may be called the Companies (Registration Offices and Fees) Amendment Rules,
+
+2020.
+
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2. For form No. GNL-2, the following form shall be substituted, namely,Form for submission of documents with the Registrar
+
+"FORM NO. GNL-2
+
+[Pursuant to the rule 12(2) of the Companies (Registration Offices and Fees) Rules, 2014] Note - All fields marked in * are to be mandatorily filled.
+
+Form language o English o Hindi 1 (a). * Corporate identity number (CIN) of company Pre-Fill
+
+(b). Global location number (GLN) of company 2 (a). Name of the company
+
+(b). Address of the registered office of the company
+
+3. *Please indicate the document being filed o Prospectus o Red Herring Prospectus o Information Memorandum o Private placement offer letter or Record of a private placement offer to be kept by the company o Form 149 of the Companies (Court) Rules, 1959 o Form 152 of the Companies (Court) Rules, 1959 o Form 153 of the Companies (Court) Rules, 1959 o Form 154 of the Companies (Court) Rules, 1959 o Form 156 of the Companies (Court) Rules, 1959 o Form 157 of the Companies (Court) Rules, 1959 o Form 158 of the Companies (Court) Rules, 1959 o Form 159 of the Companies (Court) Rules, 1959 o Others
+
+4. If Others, then specify
+
+5.(a) Service request number of Form MGT-14
+
+(b) Date of passing special or ordinary resolution (DD/MM/YYYY)
+
+(c) Date of filing Form MGT-14 (DD/MM/YYYY)
+
+6. Section(s) of the Companies Act, 2013 or the Companies Act, 1956 under which the document is being filed
+
+7. *Details of the documents being filed
+
+8. *Date of event (DD/MM/YYYY)
+
+9. *Financial year to which the document relates
+
+(a) From (DD/MM/YYYY) (b) To (DD/MM/YYYY) Attach Attachments
+
+1. Copy of prospectus or red herring prospectus or information memorandum or private placement offer letter or record of private placement offer letter to be kept by the company Attach
+
+2. Form 149 or form 152 or form 153 or form 154 or form 156 or form 157 or form 158 or form 159 of the Companies (Court) Rules, 1959 Attach
+
+3. Optional attachment(s) - if any DSC BOX Verification To the best of my knowledge and belief, the information given in this form and its attachments is correct and complete.
+
+I have been authorised by the board of directors' resolution dated * (DD/MM/YYYY) to sign and submit this form.
+
+To be digitally signed by Director or manager or secretary or CEO/CFO of the company Designation Director identification number of the director or membership number of the secretary or DIN/PAN of the Manager/CEO/CFO Verification To the best of my/our knowledge and belief, the information given in this form and its attachments is correct and complete. I am/ We are duly authorised to sign and submit this form.
+
+OR This eForm has been taken on file maintained by the registrar of companies through electronic mode and on the basis of statement of correctness given by the filing company."
+
+[F.No.01/16/2013 CL-V (Pt-I)] K.V.R. MURTY, Jt. Secy.
+
+Note: The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 268(E), dated the 31st March, 2014 and subsequently amended by:
+
+Serial Number Notification Number Notification Date
+
+1.
+
+G.S.R. 297(E) 28-04-2014
+
+2.
+
+G.S.R. 122(E) 24-02-2015
+
+3.
+
+G.S.R. 438(E) 29-05-2015
+
+4.
+
+G.S.R. 493(E) 06-05-2016
+
+5.
+
+G.S.R. 48(E) 20-01-2018
+
+6.
+
+G.S.R. 435(E) 07-05-2018
+
+7.
+
+G.S.R. 616(E) 05-07-2018
+
+8.
+
+G.S.R. 797(E) 21-08-2018
+
+9.
+
+G.S.R. 905(E) 20-09-2018
+
+10.
+
+G.S.R. 143(E) 21-02-2019
+
+11.
+
+G.S.R. 329(E) 25-04-2019
+
+12.
+
+G.S.R. 340(E) 30-04-2019
+
+13.
+
+G.S.R. 527(E) 25-07-2019
+
+14.
+
+G.S.R. 749(E) 30-09-2019 and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
