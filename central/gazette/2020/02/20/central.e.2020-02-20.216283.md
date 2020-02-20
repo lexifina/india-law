@@ -1,0 +1,29 @@
+---
+title: "In exercise of the powers conferred by section 6A read with sub section 1 of section 7 of the Employees Provident Funds and Miscellaneous Provisions Act"
+gazette_id: "CG-DL-E-20022020-216283 Download: gvGazette$ctl05$imgbtndownload"
+ministry: "Ministry of Labour and Employment"
+department: "Not Applicable"
+notification_no: "G.S.R.132 (E)"
+published: "2020-02-20"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-20.216283"
+---
+
+# In exercise of the powers conferred by section 6A read with sub section 1 of section 7 of the Employees Provident Funds and Miscellaneous Provisions Act
+
+MINISTRY OF LABOUR AND EMPLOYMENT NOTIFICATION New Delhi, the 20th February, 2020 G.S.R.132 (E).—In exercise of the powers conferred by section 6A read with sub-section (1) of section 7 of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952), the Central Government hereby makes the following Scheme further to amend the Employees' Pension Scheme, 1995, namely:-
+
+1.
+
+(l) This Scheme may be called the Employees' Pension (Amendment) Scheme, 2020.
+
+(2) It shall come into effect from the date of its publication in the Official Gazette.
+
+2.
+
+In the Employees' Pension Scheme, 1995, after paragraph 12, the following paragraph shall be inserted, namely:–
+
+"12B. Restoration to normal pension in cases of grant of commutation. – The normal pension in respect of those members who availed the benefit of commutation of pension under the erstwhile paragraph 12A of this Scheme, on or before the 25th day of September, 2008, shall be restored after completion of fifteen years from the date of such commutation.".
+
+[F. No. R-15011/01/2019-SS-II (Pt.)] R.K. GUPTA, Jt. Secy.
+
+Note : The Employees' Pension Scheme, 1995 was published in the Gazette of India, Extraordinary, Part II, section 3, sub-section (i) vide notification number G.S.R. 748(E), dated the 16th November, 1995 and was last amended vide notification number G.S.R. 285(E), dated the 4th April, 2019. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA KUMAR VERMA
