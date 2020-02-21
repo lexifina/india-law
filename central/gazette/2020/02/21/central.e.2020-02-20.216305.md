@@ -1,0 +1,128 @@
+---
+title: "In accordance with the provisions of sub paragraph 1 of paragraph 4 read with paragraph 5 of the Employees Provident Funds Scheme 1952"
+gazette_id: "CG-DL-E-21022020-216305 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Employees Provident Fund Organisation"
+department: "Not Applicable"
+published: "2020-02-21"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-20.216305"
+---
+
+# In accordance with the provisions of sub paragraph 1 of paragraph 4 read with paragraph 5 of the Employees Provident Funds Scheme 1952
+
+NOTIFICATION New Delhi, the 12th February, 2020 F. No. Conf. 5(20)2008/Tripura/10847.— In accordance with the provisions of sub-paragraph (1) of paragraph 4 read with paragraph 5 of the Employees' Provident Funds Scheme 1952, hereinafter referred to as
+
+"Scheme", and in supersession of the Notification No. Conf.5(20)2008/Tripura/24879 dated 27.02.2012 issued by the Central Provident Fund Commissioner, New Delhi, the Chairman, Central Board of Trustees, (EPF) hereby sets up a Regional Committee of the State of Tripura consisting of the following persons, namely:Appointment As (under Sl. No.
+
+Name & designation of the member Chairman
+
+[Under Para 4(1)(a)] relevant Para)
+
+1.
+
+Secretary, Labour, Labour Department, Government of Tripura, Secretariat, New Capital Complex, Agartala.
+
+2.
+
+Labour Commissioner, Labour Directorate, Government of Tripura, Agartala.
+
+Members recommended by the State Government
+
+[Under Para 4(1)(b)]
+
+3.
+
+Director of Industries & Commerce, Govt. of Tripura, Department of Industries & Commerce, Pt.
+
+Nehru Complex, Agartala.
+
+4.
+
+Sri Anjan Kr Das, Tripura Tea Association of India, Tripura Branch, C/o Sova Tea Estate, P.O. Kailasahar, North Tripura – 799277.
+
+Employer's Representatives
+
+[Under para 4(1)(c)]
+
+5.
+
+Managing Director, Tripura Forest Development & Plantation Corporation Ltd.
+
+6.
+
+Sri Pijush Kanti Nag, President of CITU, Tripura State Committee, Office Lane, Agartala-799001.
+
+Employees' Representatives
+
+[Under Para 4(1)(d)]
+
+7.
+
+Sri Nirode Baran Das, Tripura Cha Majdoor Union, Krishna Nagar (Nutun Palli), Agartala Tripura West, Pin -799001.
+
+8.
+
+The non-official members of the Central Board ordinarily resident in the State.
+
+Non-Official Members of CBT (EPF)
+
+[Under Para 4(1)(e)]
+
+9.
+
+Sri Kajal Deb, Asst. Man. Pran Beverage India Pvt. Ltd., Bodhjungnagar, Agartala, Pin -799210.
+
+Additional Employers' Representatives
+
+10.
+
+Sri Tapesh Debnath, Pran Beverage India Pvt. Ltd., Chittaranjan Road, Shibnagar, Agartala, Pin -799001.
+
+[Under proviso to Para 4(1)]
+
+11.
+
+Sri Shibu Shaha, Pran Beverage India Pvt. Ltd., Chittaranjan Road, Shibnagar, Agartala. Pin – 799001.
+
+12.
+
+Smt Debsree Kalai (Mob. 7005364132) Vill. North Taidu, Post Taidu Barar, Police Station, Distt. Gomati 799101 (Tripura).
+
+13.
+
+Sri Swapan Debnath, CITU Office, C/o CITU, Udaipur.
+
+Additional Employees' Representatives
+
+[Under proviso to Para 4(1)]
+
+14.
+
+Sri Tapan Das, CITU Office, C/o CITU Office, Jirania.
+
+15.
+
+Sri Amitabha Datta, Ex-MLA, Dharmanagar.
+
+16.
+
+Sri Tapan Das (Mob-9436494508) Indranagar, Ward No. 5, Near Indranagar High School, (Radha Gobinda Mandir), Agartala, West Tripura-799006.
+
+17.
+
+Sri Pranab Deb Barma (Mob-8132002181) Qtr. No. Type-II/Block-F/4, New Capital Complex, Kurjaban Extension, P.O. Kunjaban, Tripura-799006.
+
+2.
+
+The Regional Provident Fund Commissioner in charge of the Regional Office in the State of Tripura shall be the Secretary of the Regional Committee of the State of Tripura.
+
+3.
+
+The term of office of the Chairman and every member of the Regional Committee shall be three years commencing on and from the date on which their appointment is notified in the Official Gazette. However, every member shall continue to hold office until the appointment of his successor is notified in the Official Gazette.
+
+4.
+
+This will come into force with immediate effect.
+
+SUNIL BARTHWAL, Central Provident Fund Commissioner
+
+[ADVT.-III/4/Exty./455/19] . and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
