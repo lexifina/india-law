@@ -1,0 +1,20 @@
+---
+title: "In exercise of powers conferred under paragraph 2 04 of the Foreign Trade Policy 2015 2020"
+gazette_id: "CG-DL-E-21022020-216294 Download: gvGazette$ctl13$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Department of Commerce"
+published: "2020-02-21"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-19.216294"
+---
+
+# In exercise of powers conferred under paragraph 2 04 of the Foreign Trade Policy 2015 2020
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department of Commerce) PUBLIC NOTICE New Delhi, the 19th February, 2020 No. 64 /2015-2020 Subject: Amendment of Para 2.54 (d)(v)iv in Handbook of Procedures, 2015-2020.
+
+F. No. 01/89/180/53/AM-01/PC-2[B]/Vol.VIII/E-2382.—In exercise of powers conferred under paragraph 2.04 of the Foreign Trade Policy, 2015-2020, the Director General of Foreign Trade hereby amends the Para No. 2.54 (d)(v)( iv) by inserting Kattupalli to the list of sea ports where Pre-shipment Inspection Certificate (PSIC) is exempted in case of import of metallic scrap coming from safe countries/regions. The amended para will read as under:
+
+Amended para 2.54(d)(v)(iv): Import consignments of metallic waste and scrap shall be subject to preshipment inspection certificate (PSIC) from the country of origin. However, metallic waste and scrap (both shredded and unshredded) imported from safe countries/region i.e. the USA, the UK, Canada, New Zealand, Australia and the EU will not require PSIC if consignments are cleared through eight (8) ports namely, Chennai, Tuticorin, Kandla, JNPT, Mumbai, Krishnapatnam, Mundra and Kattupalli. Consignments from these six countries / region will be accompanied by certificate from the supplier/scrap yard authority to the effect that it does not contain any radioactive materials/ explosives. These will however be subject to radiation and explosive checks through portal monitors and container scanner at these ports. Trans-shipments through these countries /regions will not be allowed this facility. Import through remaining eight(8) other ports (for both shredded and unshredded scrap/waste), irrespective of country of origin, will be subject to PSIC.
+
+2. Effect of this Notification: As per the amendment, import of metallic scarp from the aforementioned safe countries/regions without PSIC can now be facilitated through Kattapulli Port as well. As a result, the total number of sea ports for imports of metallic scrap under para 2.54 of HTP have increased from 15 to 16.
+
+AMIT YADAV, Director General of Foreign Trade & Ex-officio Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
