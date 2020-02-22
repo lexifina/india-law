@@ -1,0 +1,138 @@
+---
+title: "In pursuance of sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules"
+gazette_id: "CG-DL-E-22022020-216332 Download: gvGazette$ctl12$imgbtndownload"
+ministry: "Bureau of Indian Standards"
+department: "Not Applicable"
+published: "2020-02-22"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-20.216332"
+---
+
+# In pursuance of sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules
+
+NOTIFICATION New Delhi, the 3rd February, 2020 Ref: PUB/3/3/2019-20.—In pursuance of sub-rule (1) of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that the Indian Standards, particulars of which are given in the second column of schedule hereto annexed has been established on the date indicated against it in third column. The particulars of the standards, if any, which are given in the fourth column shall also remain in force concurrently till they are cancelled on the date indicated against them in the fifth column..—
+
+SCHEDULE No, Year & Title of the Indian No. Year & Title of Sl.
+
+No.
+
+Standards Established Date of Establishment Date of Cancellation the Indian Standards to be Cancelled, if any 30 Jan 2020 NA NA
+
+1.
+
+IS/ISO 11137-3 : 2017 Sterilization of Health Care Products ─ Radiation Part 3 Guidance on Dosimetric Aspects of Development, Validation and Routine Control 30 Jan 2020 NA NA
+
+2.
+
+IS/ISO 11418-1 : 2016 Containers and Accessories for Pharmaceutical Preparations Part 1 Drop-Dispensing Glass 30 Jan 2020 NA NA
+
+3.
+
+IS/ISO 11418-2 : 2016 Containers and Accessories for Pharmaceutical Preparations Part 2 Screw-Neck Glass Bottles for Syrups 30 Jan 2020 NA NA
+
+4.
+
+IS/ISO 11418-3 : 2016 Containers and Accessories for Pharmaceutical Preparations Part 3 Screw-Neck Glass Bottles (Veral) for Solid and Liquid Dosage Forms 30 Jan 2020 NA NA
+
+5.
+
+IS/ISO 11418-5 : 2015 Containers and Accessories for Pharmaceutical Preparations Part 5 Dropper Assemblies No, Year & Title of the Indian No. Year & Title of Sl.
+
+No.
+
+Standards Established Date of Establishment Date of Cancellation the Indian Standards to be Cancelled, if any 30 Jan 2020 NA NA
+
+6.
+
+IS/ISO/IEC 14496-4 : 2004 Information Technology ─ Coding of Audio-Visual Objects Part 4 Conformance Testing 30 Jan 2020 NA NA
+
+7.
+
+IS/ISO/IEC 14496-5 : 2001 Information Technology ─ Coding of Audio-Visual Objects Part 5 Reference Software 30 Jan 2020 NA NA
+
+8.
+
+IS/ISO 15378 : 2017 Primary Packaging Materials for Medicinal Products ─ Particular Requirements for the Application of ISO 9001 : 2015, with Reference to Good Manufacturing Practice (GMP)
+
+9.
+
+IS 17064 (Part 3) : 2020/IEC 30 Jan 2020 NA NA 61810-3 : 2015 Electromechanical Elementary Relays Part 3 Relays with Forcibly Guided (Mechanically Linked) Contacts 30 Jan 2020 NA NA
+
+10.
+
+IS 17259 : 2020/ISO 28881 : 2013 Machine Tools ─ Safety ─ ElectroDischarge Machines
+
+11.
+
+IS 17271 : 2020/ISO 6416 : 2017 30 Jan 2020 NA NA Hydrometry ─ Measurement of Discharge by Ultrasonic Transit Time (Time of Flight) Method 30 Jan 2020 NA NA
+
+12.
+
+IS 17342 : 2020 Determination of Ethyl Alcohol Concentration by Digital Densitometer 30 Jan 2020 NA NA
+
+13.
+
+IS 17368 : 2020 Geosynthetics ─ Determination of Damage to Geosynthetic Caused During Installation 30 Jan 2020 NA NA
+
+14.
+
+IS 17371 : 2020 Geosynthetics ─ Geogrids for Flexible Pavements ─ Specification 30 Jan 2020 NA NA
+
+15.
+
+IS 17372 : 2020 Geosynthetics ─ Polymeric Strip/Geostrip used as Soil Reinforcement in Retaining Structures ─ Specification
+
+16.
+
+IS 17373 : 2020 30 Jan 2020 NA NA No, Year & Title of the Indian No. Year & Title of Sl.
+
+No.
+
+Standards Established Date of Establishment Date of Cancellation the Indian Standards to be Cancelled, if any Geosynthetics ─ Geogrids used in Reinforced Soil Retaining Structures ─ 30 Jan 2020 NA NA Specification
+
+17.
+
+IS 17374 : 2020 Geosynthetics ─ Reinforced HDPE Membrane for Effluents and Chemical Resistance Lining ─ Specification 30 Jan 2020 NA NA
+
+18.
+
+IS/ISO/IEC 19794-5 : 2011 Information Technology ─ Biometric Data Interchange Formats Part 5 Face Image Data 30 Jan 2020 NA NA
+
+19.
+
+IS/ISO/IEC 19794-6 : 2011 Information Technology ─ Biometric Data Interchange Formats Part 6 Iris Image Data
+
+20.
+
+IS/IEC 60255-21-2 : 1988 30 Jan 2020 NA NA Electric Relays Part 21 Vibration, Shock, Bump and Seismic Tests on Measuring Relays and Protection Equipment Section 2 Shock and Bump Tests 30 Jan 2020 NA NA
+
+21.
+
+IS/IEC 60255-149 : 2013 Measuring Relays and Protection Equipment Part 149 Functional Requirements for Thermal Electrical Relays 30 Jan 2020 NA NA
+
+22.
+
+IS/IEC 60255-181 : 2019 Measuring Relays and Protection Equipment Part 181 Functional Requirements for Frequency Protection
+
+23.
+
+IS/IEC/IEEE 60255-118-1 : 2018 30 Jan 2020 NA NA Measuring Relays and Protection Equipment Part 118 Synchrophasor for Power Systems Section 1 Measurements
+
+24.
+
+IS/IEC 61400-23 : 2014 30 Jan 2020 NA NA Wind Turbines Part 23 Full-Scale Structural Testing of Rotor Blades 30 Jan 2020 NA NA
+
+25.
+
+IS/IEC 61800-3 : 2017 Adjustable Speed Electrical Power Drive Systems Part 3 EMC Requirements and Specific Test Methods No, Year & Title of the Indian No. Year & Title of Sl.
+
+No.
+
+Standards Established Date of Establishment Date of Cancellation the Indian Standards to be Cancelled, if any 30 Jan 2020 NA NA
+
+26.
+
+IS/IEC 61800-4 : 2002 Adjustable Speed Electrical Power Drive Systems Part 4 General Requirements ─ Rating Specifications for a.c. Power Drive Systems above 1 000 V a.c. and not Exceeding 35 kV Copies of these standards are available for sale with Bureau of Indian Standards, Manak Bhawan, 9 Bahadur Shah Zafar Marg, New Delhi-110002 ; Regional Offices: Kolkata, Chandigarh, Chennai, Mumbai and Branch Offices: Ahmedabad, Bengaluru, Bhopal, Bhubaneshwar, Coimbatore, Guwahati, Hyderabad, Jaipur, Nagpur, Kanpur, Patna, Pune, Kochi. Online purchase of Indian Standards can be made at http://www.standardsbis.in.
+
+J. ROY CHOWDHURY, Sc.-G & DDG (Stdn.-P & M)
+
+[ADVT.-III/4/Exty./463/19] and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
