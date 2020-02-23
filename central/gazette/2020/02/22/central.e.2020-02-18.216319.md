@@ -1,0 +1,307 @@
+---
+title: "In exercise of the powers conferred by sub sections 1 and 2 of section 469 of the Companies Act"
+gazette_id: "CG-DL-E-22022020-216319 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "Not Applicable"
+published: "2020-02-22"
+in_force: "2020-02-23"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-18.216319"
+---
+
+# In exercise of the powers conferred by sub sections 1 and 2 of section 469 of the Companies Act
+
+MINISTRY OF CORPORATE AFFAIRS NOTIFICATION New Delhi, the 18th February, 2020 G.S.R 128(E).—In exercise of the powers conferred by sub-sections (1) and (2) of section 469 of the Companies Act, 2013 (18 of 2013), the Central Government hereby makes the following rules further to amend the Companies (Incorporation) Rules, 2014, namely: -
+
+1. Short title and commencement.- (1) These rules may be called the Companies (Incorporation) Amendment Rules, 2020.
+
+They shall come into force with effect from the 23rd February, 2020.
+
+2. In the Companies (Incorporation) Rules, 2014 (hereinafter referred to as the said rules), for rule 9, the following rule shall be substituted, namely:-
+
+"9. Reservation of name or change of name.- An application for reservation of name shall be made through the web service available at www.mca.gov.in by using web service SPICe+ (Simplified Proforma for Incorporating Company Electronically Plus: INC-32), and for change of name by using web service RUN (Reserve Unique Name) along with fee as provided in the Companies (Registration Offices and Fees) Rules, 2014, which may either be approved or rejected, as the case may be, by the Registrar, Central Registration Centre after allowing re-submission of such web form within fifteen days for rectification of the defects, if any, with effect from the 23rd February, 2020."
+
+3. In the said rules, in rules 10, 12, sub-rule (1) of rule 19, sub-rules (1),(2),(3), (4), (7) and (9) of rule 38, for the words, letters, figures and brackets,, "Form No INC-32 (SPICe), wherever they occur, the letters, brackets, words and figures "SPICe+ (Simplified Proforma for Incorporating Company Electronically Plus: INC-32)" shall be substituted with effect from the 23rd February, 2020
+
+4. In the said rules, in rule 38, in the marginal heading, for the word, brackets and letters "Electronically
+
+(SPICE)", the words, brackets and letters "Electronically Plus (SPICE+)" shall be substituted with effect from the 23rd February, 2020.
+
+5. In the said rules, in rule 38A,-
+
+(i) in the marginal heading, for the words, brackets and letters "and Employees' Provident Fund Organisation
+
+(EPFO) Registration", the words, brackets and letters ",Employees' Provident Fund Organisation (EPFO) Registration and Profession Tax Registration and Opening of Bank Account" shall be substituted;
+
+(ii) for the letters "AGILE", the letters "AGILE-PRO", shall be substituted;
+
+(iii) after clause (c), the following clauses shall be inserted, namely:-
+
+"(c) Profession Tax Registration with effect from the 23rd February, 2020
+
+(d) Opening of Bank Account with effect from 23rd February, 2020.".
+
+6. In the said rules, in the annexure,-
+
+(i) for forms "RUN, e-form No INC-32 (SPICe), and e-form No.INC-35 (AGILE), the following forms shall be substituted, namely:-
+
+"[Pursuant to sections 4, 7, 8(1), 12, 152 and 153 of the Companies Act, 2013 read with rules made thereunder] – FORM NO. INC-32 SPICe+ S(Simplified Proforma for Incorporating Company Electronically Plus)
+
+PART – A
+
+1. (a) Type of Company LLPIN
+
+(b) Class of Company
+
+(c) Category of Company
+
+(d) Sub-category of Company
+
+2. Main division of industrial activity of the company Description of the main division
+
+3. Particulars of the proposed or approved name i. ii
+
+PART - B II. Structure of the Company
+
+4. Whether Articles of Association is entrenched o Yes o No Number of Articles to which provisions of entrenchment shall be applicable Details of such articles Sr. No.
+
+Article Number Short description on entrenchment of the clause
+
+5. *
+
+6. *Capital structure of the company Total authorized share capital (in Rupees) Authorized share capital Equity Preference Unclassified Number of shares Nominal amount per share (in Rupees) Total amount (in Rupees) Total subscribed share capital (in Rupees) Subscribed share capital Equity Preference Number of shares Nominal amount per share (in Rupees) Total amount (in Rupees)
+
+(ii) *Details of number of members
+
+(a) Enter the maximum number of members
+
+(b) Maximum number of members excluding proposed employees
+
+(c) Number of members
+
+(d) Number of members excluding proposed employee(s) III. Address of the Company
+
+7. (a) *Correspondence address *Line I Line II *City *State/Union Territory * Pin code *District *Phone (with STD code) - Fax *email ID of the company
+
+(b) *Whether the address for correspondence is the address of registered office of the company o Yes o No
+
+(c) *Name of the office of the Registrar of Companies in which the proposed company is to be registered IV. Subscriber and Directors Details
+
+8. (a) *Number of first subscriber(s) to MOA and directors of the company Having valid DIN Not having valid DIN Total number of first subscribers (non-individual + individual) Number of non-individual first subscriber(s) Number of individual first subscriber(s) cum director(s) Total number of directors (director(s) who is/are not subscriber(s) + subscriber(s) cum director(s) as mentioned in above Row no. 3)
+
+(b) *Particulars of non-individual first subscriber(s) *Category *Corporate identity number(CIN) or foreign company Pre-Fill registration number(FCRN) or any other registration number *Name of the body corporate Registered office address or Principal place of business in India or Principal place of business outside India *Line I Line II *City *State /Union Territory *Pin code *ISO Country code Country *Phone (With STD/ISD code) - Fax *email id Particulars of the authorised person *First Name Middle Name *Surname *Father's First Name Father's Middle Name *Father's Surname * Gender *Date of Birth *Nationality □ PAN □ Passport number Verify Details Aadhaar number *Place of Birth (District & State) *Occupation type *Area of Occupation *Educational qualification Present Address *Line I Line II *City *State /Union Territory *Pin code ISO Country code Country *Phone (With STD/ISD code) - Mobile Fax *email id Kind of shares subscribed Number of subscribed Amount of shares shares subscribed Equity shares Preference shares
+
+(c) *Particulars of individual first subscriber(s) (other than subscriber cum director) I *Director Identification number (DIN) Pre-Fill *Name Kind of shares Number of subscribed Amount of shares subscribed shares subscribed Equity shares Preference shares I *First Name Middle Name *Surname *Father's first name Father's middle name *Father's surname *Gender *Date of Birth *Nationality Place of Birth Occupation type o Self Employed o Professional o Homemaker o Student o Serviceman Area of Occupation If 'Others' selected, please specify Educational Qualification Verify Details * □ PAN □ Passport number Aadhaar number *email ID Permanent Address *Line I Line II *City * State/ Union Territory Pin code *P *ISO Country code Country *Phone (with STD/ISD code) - Whether present residential address same as permanent residential address o Yes o No Present address Line I Line II *City *State/ Union Territory *Pin code *ISO Country code Country *Phone (with STD/ISD code *Duration of stay at present address Years Months If Duration of stay at present address is less than one year then address of previous residence *Proof of identity *Residential Proof Submit the proof of identity and proof of address under attachments.
+
+Kind of shares Number of subscribed Amount of shares subscribed shares subscribed Equity shares Preference shares
+
+(d) *Particulars of individual first subscriber(s) cum directors I *Director Identification number (DIN) Pre-Fill *Name *Gender *Date of Birth *Nationality *Designation *Category Whether □ Chairman □ Executive director □ Non-executive director *Name of the company or institution whose nominee the appointee is *email ID Kind of shares Number of subscribed shares Amount of shares subscribed subscribed Equity shares Preference shares Number of entities in which director have interest (Need not to mention if such entity is having CIN/FCRN/LLPIN) *Registration number *Name *Address Nature of *Designation interest Percentage of Shareholding Amount Others (specify) I *First Name Middle Name *Surname *Father's first name Father's middle name *Father's surname *Gender *Date of Birth *Nationality *Place of Birth Whether citizen of India o Yes o No Whether resident in India o Yes o No Occupation type o Self Employed o Professional o Homemaker o Student o Serviceman Area of Occupation If 'Others' selected, please specify Educational Qualification Verify Details * □ PAN □ Passport number *Designation *Category Whether □ Chairman □ Executive director □ Non-executive director *Name of the company or institution whose nominee the appointee is *email ID Permanent Address *Line I Line II *City * State/ Union Territory *Pin code *ISO Country code Country *Phone (with STD/ISD code) - Whether present residential address same as permanent residential address o Yes o No Present address Line I Line II *City *State/ Union Territory *Pin code *ISO Country code Country *Phone (with STD/ISD code *Duration of stay at present address Years Months If Duration of stay at present address is less than one year then address of previous residence *Proof of identity *Residential Proof Voter's identity card number Driving license number Aadhaar Number Submit the proof of identity and proof of address under attachments.
+
+Kind of shares Number of subscribed shares Amount of shares subscribed subscribed Equity shares Preference shares Number of entities in which director have interest *Registration number *Name *Address Nature of *Designation interest Percentage of Shareholding Amount Others (specify)
+
+(e) *Particulars of directors (other than first subscribers) I *Director Identification number (DIN) Pre-Fill *Name *Gender *Date of Birth *Nationality *Designation *Category Whether □ Chairman □ Executive director □ Non-executive director *Name of the company or institution whose nominee the appointee is *email ID Number of entities in which director have interest (Need not to mention if such entity is having CIN/FCRN/LLPIN) *Registration number *Name *Address Nature of *Designation interest Percentage of Shareholding Amount Others (specify) I *First Name Middle Name *Surname *Father's first name Father's middle name *Father's surname *Gender *Date of Birth *Nationality *Place of Birth *Whether citizen of India o Yes o No *Whether resident in India o Yes o No *Occupation type o Self Employed o Professional o Homemaker o Student o Serviceman *Area of Occupation If 'Others' selected, please specify *Educational Qualification Verify Details * □ PAN □ Passport number *Designation *Category Whether □ Chairman □ Executive director □ Non-executive director *Name of the company or institution whose nominee the appointee is *email ID Permanent Address *Line I Line II *City * State/ Union Territory *Pin code *ISO Country code Country *Phone (with STD/ISD code) - *Whether present residential address same as permanent residential address o Yes o No Present address *Line I Line II *City *State/ Union Territory *Pin code *ISO Country code Country *Phone (with STD/ISD code) - *Duration of stay at present address Years Months If Duration of stay at present address is less than one year then address of previous residence *Proof of identity *Residential Proof Voter's identity card number Driving license number Aadhaar Number Submit the proof of identity and proof of address under attachments.
+
+Number of entities in which director have interest *Registration number *Name *Address Nature of *Designation interest Percentage of Shareholding Amount Others (specify) V. OPC Nomination
+
+9. (a) *Nomination I * , the subscriber to the memorandum of association of do hereby nominate * who shall become the member of the company in the event of my death or incapacity to contract. I declare that the nominee is eligible for nomination within the meaning of Rule 3 of the Companies (Incorporation) Rules, 2014.
+
+(b) *Particulars of the Nominee Director Identification number(DIN) Pre-Fill *First Name Middle Name *Surname *Father's First Name Father's Middle Name *Father's Surname *Gender *Date of Birth Nationality *Income- tax PAN Verify Details Aadhaar number *Place of Birth (District & State) *Occupation type *Area of Occupation *Educational qualification Permanent Address *Line I Line II *City *State /Union Territory *Pin code *ISO Country code Country *Phone (With STD/ISD code) - Mobile Fax *email id *Whether present address is same as the permanent address □ Yes □ No Present Address *Line I Line II *City *State/Union Territory *Pin code *ISO Country code Country Phone (With STD/ISD code) Mobile Fax *Duration of stay at present address Years Months If Duration of stay at present address is less than one year then address of previous residence *Proof of identity *Residential Proof VI. Stamp Duty
+
+10. Particulars of payment of stamp duty VII. PAN/ TAN Information
+
+11. *Additional Information for applying Permanent Account Number (PAN) and Tax Deduction Account Number (TAN) Information specific to PAN Information specific to TAN Source of Income □ Income from Business/profession □ Capital Gains □ Income from house property □ Income from other source □ No Income Business/Profession code VIII. Attachments Attachments List of attachments Attach Attach Attach
+
+1. *Memorandum of association;
+
+2. *Articles of Association;
+
+3.
+
+Declaration by first subscriber(s) and director(s) (Affidavit is not required to be attached);
+
+4.
+
+Proof of Office address (Conveyance/Lease deed/Rent Attach Attach Agreement along with rent receipts);
+
+5.
+
+Copy of the utility bills (not older than two months);
+
+6.
+
+Copy of certificate of incorporation of the foreign Attach Attach body corporate and resolution passed by foreign company or authority given through constitutional document;
+
+Attach Attach Attach Attach Attach Attach Attach Attach Attach Remove attachment
+
+7.
+
+Resolution passed by promoter company;
+
+8.
+
+Interest of first director(s) in other entities;
+
+9.
+
+Consent of Nominee (INC-3);
+
+10. Proof of identity & residential address of subscribers;
+
+11. Proof of identity & residential address of nominee;
+
+12. Proof of identity and address of Applicant I;
+
+13. Proof of identity and address of Applicant II;
+
+14. Proof of identity and address of Applicant III;
+
+15. Resolution of unregistered companies in case of Chapter XXI (Part I) companies
+
+16. Declaration in Form No. INC-14
+
+17. Declaration in Form No. INC-15
+
+18. Optional attachment(s), (if any)
+
+19. Attachment – Part A IX. Declaration Declaration  I have gone through the provisions of the Companies Act, 2013, the rules thereunder and prescribed guidelines framed thereunder in respect of reservation of name, understood the meaning thereof and the proposed name is in conformity thereof.  I have used the search facilities available on the portal of the Ministry of Corporate Affairs
+
+(MCA) for checking the resemblance of the proposed name with the companies and Limited Liability Partnerships (LLPs) respectively already registered or the names already approved. I have also used the search facility for checking the resemblances of the proposed name with registered trademarks and trade mark subject of an application under the Trade Marks Act, 1999 and other relevant search for checking the resemblance of the proposed name to satisfy myself with the compliance of the provisions of the Act for resemblance of name and Rules thereof.  The proposed name is not in violation of the provisions of Emblems and Names (Prevention of Improper Use) Act, 1950 as amended from time to time.  The proposed name is not offensive to any section of people, e.g. proposed name does not contain profanity or words or phrases that are generally considered a slur against an ethnic group, religion, gender or heredity.  The proposed name is not such that its use by the company will constitute an offence under any law for the time being in force.  I undertake to be fully responsible for the consequences in case the name is subsequently found to be in contravention of the provisions of section 4(2) and section 4(4) of the Companies Act, 2013 and rules thereto and I have also gone through and understood the provisions of section 4(5) (ii) (a) and (b) of the Companies Act, 2013 and rules thereunder and fully declare myself responsible for the consequences thereof.  *I , a person named in the articles as a director of the company has been duly authorized by the promoters of the company to sign this form and declare that all the requirements of the Companies Act, 2013 and the rules made thereunder in respect of Director Identification Number (DIN), registration of the company and matters precedent or incidental thereto have been complied with.  I am authorized by the promoter subscribing to the Memorandum of Association and Articles of Association and the first director(s) to give this declaration and to sign and submit this Form.  I further declare that, company shall not commence its business, unless all the required approval from the sectoral Regulators such as RBI, SEBI etc. have been obtained;  I on behalf of the promoters and the first directors, hereby declare that the registered office is capable of receiving and acknowledging all communications and notices addressed to the proposed company on incorporation , shall be maintained at the given address at item 7 of this form;  *I, on behalf of all the first director(s) named in the Articles of Association of the proposed company, solemnly declare, that the declaration given herein as stated above are true to the best of my knowledge and belief, the information given in this integrated application form for incorporation and attachments thereto are correct and complete, and nothing relevant to this form has been suppressed. All the required attachments have been completely, correctly and legibly attached to this form and are as per the original records maintained by the promoters subscribing to the Memorandum of Association and Articles of Association.  I, on behalf of the proposed Directors whose particulars for allotment of DIN are filled as above, hereby confirm and declare that they are not restrained, disqualified, removed for being appointed as Director of a company under the provisions of the Companies Act, 2013 including sections 164 and 169, and have not been declared as proclaimed offender by any Economic Offence Court or Judicial Magistrate Court or High Court or any other Court, and not been already allotted a Director Identification Number (DIN) under section 154 of the Companies Act, 2013, and I further declare that I have read and understood the provisions of Sections 154, 155, 447 and 448 read with Sections 449, 450 and 451 of the Companies Act,
+
+2013.  * , having Membership number and/or certificate of practice number has been engaged to give declaration under section 7(1) (b) and such declaration is attached.
+
+Note: Attention is drawn to the provisions of sections 7(5) and 7(6) which, inter-alia, provides that furnishing of any false or incorrect particulars of any information or suppression of any material information shall attract punishment for fraud under section 447. Attention is also drawn to provisions of section 448 and 449 which provide for punishment for false statement and punishment for false evidence respectively. *To be digitally signed by director DSC BOX *DIN / PAN X. Declaration and Certification by Professional Declaration and Certification by Professional I , member of having office at * Who is engaged in the formation of the company declare that I have been duly engaged for the purpose of certification of this form. It is hereby also certified that I have gone through the provisions of the Companies Act, 2013 and rules thereunder for the subject matter of this form and matters incidental thereto and I have verified the above particulars (including attachment(s)) from the original/certified records maintained by the applicant which is subject matter of this form and found them to be true, correct and complete and no information material to this form has been suppressed. I further certify that;
+
+(i) the draft memorandum and articles of association have been drawn up in conformity with the provisions of sections 4 and 5 and rules made thereunder; and
+
+(ii) all the requirements of Companies Act, 2013 and the rules made thereunder relating to registration of the company under section 7 of the Act and matters precedent or incidental thereto have been complied with. The said records have been properly prepared, signed by the required officers of the Company and maintained as per the relevant provisions of the Companies Act, 2013 and were found to be in order;
+
+(iii) I have opened all the attachments to this form and have verified these to be as per requirements, complete and legible;
+
+(iv) I further declare that I have personally visited the premises of the proposed registered office given in the form at the address mentioned herein above and verified that the said proposed registered office of the company will be functioning for the business purposes of the company (wherever applicable in respect of the proposed registered office has been given).
+
+(v) It is understood that I shall be liable for action under Section 448 of the Companies Act, 2013 for wrong certification, if any found at any stage.
+
+AGILE-PRO (Application for Goods and services tax Identification number, employees state Insurance FORM NO. INC-35
+
+[Pursuant to rule 38A of the Companies (Incorporation) Rules, 2014] corporation registration pLus Employees provident fund organization registration, Profession tax Registration and Opening of bank account) (This AGILE-PRO form is part of SPICe+ form for GSTIN / EPFO / ESIC/ Profession Tax/ Bank Account) *Name of the company
+
+1. * Do you want to apply for GSTIN ʘ Yes O No
+
+2. * State (Same as entered in SPICe+)
+
+3. * District (Same as entered in SPICe+)
+
+4. * State Jurisdiction * Sector / Circle / Ward /Charge / Unit
+
+5. * Center Jurisdiction Commissionerate Division Range Voluntary
+
+6. * Reason to Obtain Registration
+
+7. *Whether The Establishment On Lease O Yes ʘ No * Leased From Date To Date
+
+(a). * Nature of possession of premises
+
+(b) * Proof of Principal Place of Business
+
+(c) * Whether the building/premises of Establishment.is owned or hired. * If hired or there is a change in the name of Unit/ownership, please indicate * Leased From Date To Date
+
+8. * Option for Composition O Yes ʘ No a) Composition Declaration I hereby declare that aforesaid business shall abide by the conditions and restrictions specified in the Act or Rules for opting to pay tax under the composition levy. b) Category of Registered Person Manufacturer of non-notified goods -alcoholic drinks
+
+9. * Nature of Business Activity being carried out at above mentioned Premises (Please tick applicable) Wholesale Business Retail Business Factory / Manufacturing Warehouse/Depot Bonded Warehouse Supplier of services Office/Sale Office Leasing Business Recipient of goods or services EOU/ STP/ EHTP Works Contract Export Import Others (specify), If others, please specify _____________
+
+(A). * Primary Business Activity *If Others selected, please specify
+
+(B) * Exact nature of work / business * Work Sub-category * Nature of work business
+
+10. *Details of the Goods supplied by the Business HSN Code (Four digit) Pre-fill Description of Goods
+
+11. *Details of Services supplied by the Business.
+
+Pre-fill Service Accounting Code Description of Services
+
+12. Directors / Primary Owners / Office Bearer/ Authorised Signatory for Banks and Profession Tax Details (Minimum number of directors to be entered for OPC shall be 1, 2 in case of private company, 3 in case of public limited company and 5 in case of Producer Company) Number of Director details to be entered
+
+(A) *Enter Director details who is also an Authorised Signatory / Primary Owner / Office Bearer * ʘ Directors Identification Number (DIN) O Permanent Account Number (PAN) Pre-fill Photograph *DIN *PAN *First Name Middle Name Attach Photograph Remove Photograph *Last Name Attach a latest passport size photograph by clicking the above box *Personal Mobile Number +91 Send OTP *Personal Email Id *Enter OTP for Mobile Number Verify OTP *Enter OTP for Email Id
+
+(B) *Director Details other than Authorised Signatory / Primary Owner / Office Bearer * ʘ Directors Identification Number O Permanent Account Number / Passport Number (in case of foreign national Photograph Pre-fill *DIN *PAN / Passport Number *First Name Middle Name *Last Name Remove Photograph Attach Photograph *Personal Mobile Number *Personal Email ID Attach a latest passport size photograph by clicking the above box
+
+13. * Police Station
+
+14. * Employer's Particulars * Select Appropriate Branch Office * Select Inspection Office
+
+15. *Bank Particulars * Select Bank Name List of Attachments Attachments Attach
+
+1. *Proof of Principal place of business Attach
+
+2. *Proof of appointment of Authorized Signatory for GSTN Attach (Either of the following document can be attached.
+
+Letter of Authorisation/ Copy of Resolution passed by BoD/ Managing Committee and Acceptance letter)
+
+3. *Proof of Identity of Authorized Signatory for opening Bank Account
+
+4. *Proof of Address of Authorized Signatory for opening Attach Remove attachment Bank Account Attach
+
+5. *Specimen Signature of Authorized Signatory for EPFO GST Declaration (By Authorized Signatory) e information given herein above is true and correct to the best of my knowledge and belief and nothing has been concealed therefrom. *ESIC Declaration (By Office Bearer) I hereby declare that the statement given above is correct to the best of my knowledge and belief. I also undertake to intimate changes if any, promptly to the Regional Office/Sub Regional Office, ESI Corporation as soon as such change takes place.
+
+Profession Tax Declaration The above information is true to the best of my knowledge and belief. *EPFO Declaration (By Primary Owner) correct to the best of my knowledge and belief and nothing has been concealed therefrom *Bank Declaration (By Authorized Signatory) Director I hereby solemnly affirm and declare that the information given herein above is true and correct to the best of my knowledge and belief and nothing has been concealed therefrom.
+
+I authorize ………………… Bank and its officials to contact me/us on phone/ email/ sms for the purpose of opening of bank account.
+
+I understand that the bank account number generated through this process will be shared with MCA by the banks.
+
+I/we undertake to complete all documentary requirements as per bank KYC norms before activation of the account.
+
+Place Date Designation *To be digitally signed by director (who has signed the SPICe+ form) DSC BOX * DIN/PAN (Authorized Signatory / Primary Owner / Office Bearer signing the AGILE-PRO form shall provide his Permanent Account Number)" (For change of name only) Service Request Number: Dated:
+
+Company Details New Request Resubmission SRN Enter SRN which is under RSUB status Pre-fill CIN Enter CIN for change of name for an existing company.
+
+Proposed Name 1 Enter your proposed name.
+
+Proposed Name 2 Enter your proposed name.
+
+Auto Check Comments Please mention any relevant comments. Please attach Sectoral Regulator approvals, NOCs or any other required documents below, if applicable.
+
+No file chosen Choose File Once you have submitted the name reservation request for change of name of company it will then be checked and, if found feasible, approved by the Central Registration Centre (CRC). You will receive an email from the CRC advising the outcome of the name reservation request.
+
+Submit FORM NO. INC-9 Declaration by Subscribers
+
+(ii) for form No.INC-9, the following form shall be substituted, namely:''Pursuant to Sections 7(1)(c) to the Companies Act, 2013 and rule 15 of the Companies (Incorporation) Rules, 2014 and First Directors
+
+1. Name of the Company This declaration is in respect of:
+
+Having valid DIN Not having valid DIN Total number of first subscribers (non-individual + individual) Number of non-individual first subscriber(s) Number of individual first subscriber(s) cum director(s) Total number of directors (director(s) who is/are not subscriber(s) + subscriber(s) cum director(s) as mentioned in above Row no. 3) 2(b) Authorized person of non-individual first subscriber(s) I. Income-tax permanent account number (PAN) Declaration I being the subscriber to the memorandum, of the above named proposed company, hereby solemnly declare and affirm that:
+
+DSC BOX □ I have not been convicted of any offence in connection with the promotion, formation or management of any company during the preceding five years; and □ I have not been found guilty of any fraud or misfeasance or of any breach of duty to any company under this Act or any previous company law during the preceding five years; and □ All the documents filed with the Registrar for registration of the company contain information that is correct and complete and true to the best of my knowledge and belief.
+
+DSC 2(c) Particulars of individual first subscriber(s) (other than subscriber cum director) I. Director Identification Number(DIN) Declaration I being the subscriber to the memorandum, of the above named proposed company, hereby solemnly declare and affirm that:
+
+DSC BOX □ I have not been convicted of any offence in connection with the promotion, formation or management of any company during the preceding five years; and □ I have not been found guilty of any fraud or misfeasance or of any breach of duty to any company under this Act or any previous company law during the preceding five years; and □ All the documents filed with the Registrar for registration of the company contain information that is correct and complete and true to the best of my knowledge and belief.
+
+DSC II. Income-tax permanent account number (PAN) Declaration I being the subscriber to the memorandum, of the above named proposed company, hereby solemnly declare and affirm that:
+
+DSC BOX □ I have not been convicted of any offence in connection with the promotion, formation or management of any company during the preceding five years; and □ I have not been found guilty of any fraud or misfeasance or of any breach of duty to any company under this Act or any previous company law during the preceding five years; and □ All the documents filed with the Registrar for registration of the company contain information that is correct and complete and true to the best of my knowledge and belief.
+
+DSC 2(d) Particulars of individual first subscriber(s) cum directors I. Director Identification Number(DIN) Declaration I being the subscriber to the memorandum and named as first director in the articles, of the above named proposed company, hereby solemnly declare and affirm that: □ I have not been convicted of any offence in connection with the promotion, formation or management of any company during the preceding five years; and □ I have not been found guilty of any fraud or misfeasance or of any breach of duty to any company under this Act or any previous company law during the preceding five years; and □ All the documents filed with the Registrar for registration of the company DSC BOX contain information that is correct and complete and true to the best of my knowledge and belief.
+
+DSC II. Income-tax permanent account number (PAN) Declaration I being the subscriber to the memorandum and named as first director in the articles, of the above named proposed company, hereby solemnly declare and affirm that: □ I have not been convicted of any offence in connection with the promotion, formation or management of any company during the preceding five years; and □ I have not been found guilty of any fraud or misfeasance or of any breach of duty to any company under this Act or any previous company law during the preceding five years; and □ All the documents filed with the Registrar for registration of the company contain information that is correct and complete and true to the best of my knowledge and belief.
+
+DSC DSC BOX 2(e) Particulars of directors (other than first subscribers) I. Director Identification Number(DIN) Declaration I being named as first director in the articles, of the above named proposed company, hereby solemnly declare and affirm that:
+
+DSC BOX □ I have not been convicted of any offence in connection with the promotion, formation or management of any company during the preceding five years; and □ I have not been found guilty of any fraud or misfeasance or of any breach of duty to any company under this Act or any previous company law during the preceding five years; and □ All the documents filed with the Registrar for registration of the company contain information that is correct and complete and true to the best of my knowledge and belief.
+
+DSC II. Income-tax permanent account number (PAN) Declaration I being named as first director in the articles, of the above named proposed company, hereby solemnly declare and affirm that:
+
+DSC BOX □ I have not been convicted of any offence in connection with the promotion, formation or management of any company during the preceding five years; and □ I have not been found guilty of any fraud or misfeasance or of any breach of duty to any company under this Act or any previous company law during the preceding five years; and □ All the documents filed with the Registrar for registration of the company contain information that is correct and complete and true to the best of my knowledge and belief.
+
+DSC ''
+
+(iii) in form No. INC-33, the letters, words and brackets "MOA language 0 English 0 Hindi SRN of form (RUN)" shall be omitted;
+
+(iv) in form No. INC-34, the letters, words and brackets "AOA language 0 English 0 Hindi SRN of form (RUN)" shall be omitted;
+
+(v) in Form No.URC-1, the words and letters "Form language 0 English 0 Hindi SRN of RUN" shall be omitted.
+
+[F. No. 1/13/2013 CL-V, Vol.IV] K.V.R. MURTY, Jt. Secy.
+
+Note: The principal rules were published in the Gazette of India, 250(E), dated the 31st March, 2014 and last amended vide number G.S.R.793 (E) dated the 16th October, 2019. and Published by the Controller of Publications, Delhi-110054.
+
+ALOK KUMAR
