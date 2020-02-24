@@ -1,0 +1,162 @@
+---
+title: "In exercise of the powers conferred by sub section 1 and clause a of sub section 2 of section"
+gazette_id: "CG-DL-E-24022020-216321 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Ministry of Science and Technology"
+department: "Department of Science and Technology"
+published: "2020-02-24"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-20.216321"
+---
+
+# In exercise of the powers conferred by sub section 1 and clause a of sub section 2 of section
+
+MINISTRY OF SCIENCE AND TECHNOLOGY (Department of Science and Technology) (TECHNOLOGY DEVELOPMENT BOARD) NOTIFICATION New Delhi, the 20th February, 2020 F.No. TDB/14/2019-Admin.(E).—In exercise of the powers conferred by sub-section (1) and clause
+
+(a) of sub-section (2) of section 22 read with sub-section (2) of section 4 of the Technology Development Board Act, 1995 (44 of 1995), the Technology Development Board, with the approval of the Central Government, hereby makes the following regulations further to amend the Technology Development Board (Terms and conditions of service of Secretary and employees) Regulations, 2002, namely:-
+
+1. (1) These regulations may be called the Technology Development Board (Terms and conditions of service of Secretary and employees) Amendment Regulations, 2020.
+
+(2) These regulations shall come into force on the date of their publication in the Official Gazette.
+
+2. In the Technology Development Board (Terms and conditions of service of Secretary and employees) Regulations, 2002 (hereinafter referred to as the said regulations) in regulation 2,-
+
+(i) for clause (b), the following clause shall be substituted, namely: - '(b) "appointing authority" means the authority designated as such under regulation 7;';
+
+(ii) for clause (e), the following clause shall be substituted, namely: - '(e) "employee" means any officer or other employee appointed as a staff of the Board;';
+
+(iii) clause (f) shall be omitted.
+
+3. In the said regulations, in regulation 4, for the word "Schedule – I", the word "Schedule" shall be substituted.
+
+4. In the said regulations, in regulation 5:-
+
+(i) for the words "scales of pay", the words "levels in pay matrix" shall be substituted;
+
+(ii) for the word "Schedule – I" the word "Schedule" shall be substituted.
+
+5. In the said regulations, for regulation 6, the following regulation shall be substituted, namely: -
+
+"6. Recruitment.-The method of recruitment, eligibility conditions and other matters concerning appointments to various posts shall be as specified by the Board keeping in view the qualification, experience and other requirements as provided for similar or comparable posts in the Central Government Institutions: provided that in respect of recruitment to the post of Secretary, prior approval of the Central Government shall be required".
+
+6. In the said regulations, for regulation 7, the following regulation shall be substituted, namely: -
+
+"7. Appointing authority.-Appointing authorities for various posts in the Technology Development Board shall be as under:
+
+Secretary Sl. No.
+
+Level in Pay Matrix / Posts Appointing authority
+
+1.
+
+Up to Pay Level 11, i.e., up to the level of Under Secretary Chairperson
+
+2.
+
+Pay Levels 12, 13 and 13A i.e., Deputy Secretary or Director or Scientists (D, E and F)
+
+3.
+
+Pay Level 14 i.e., Scientist 'G' Board
+
+4.
+
+Secretary Board with prior approval of the Central Government".
+
+7. In the said regulations, in regulation 8,-
+
+(i) sub-regulation (1) shall be omitted;
+
+(ii) sub-regulations (2) to (5) shall be re-numbered as sub-regulations (1) to (4) thereof;
+
+(iii) after re-numbering sub-regulations (1) to (4) thereof,-
+
+(a) in sub-regulations (1), for the words "scale of pay", the words levels in pay matrix" shall be substituted;
+
+(b) in sub-regulations(4), for the words "pay scales", the words "levels in pay matrix" shall be substituted.
+
+8. In the said regulations, for regulation 9, the following regulation shall be substituted, namely: -
+
+"9. Conduct and discipline. - (1) The Central Civil Service (Conduct) Rules 1964 and the Central Civil Service (Classification, Control and Appeal) Rules, 1965, as amended from time to time, shall mutatis mutandis apply to the posts of Secretary and other employees of the Board.
+
+(2) The disciplinary authority, appellate authority and reviewing authority in respect of various posts in the Technology Development Board shall be as under:
+
+Appellate Authority Reviewing Authority Level in pay matrix of posts Disciplinary Authority Up to Pay Level 11 Secretary Chairperson Board Pay Levels 12, 13 and 13A Chairperson Board Central Government Pay Level 14 Board Central Government N.A.
+
+Secretary Board Central Government N.A.
+
+(3) In respect of employees of the Central or state Governments working in the Board on deputation or otherwise, the provisions of Rules 20 and 21 of the Central Civil Service (Classification, Control and Appeal) Rules, 1965 shall apply and the Board shall exercise the powers of the appointing authority and of the disciplinary authority, as the case may be, for the purpose of the aforesaid rules.".
+
+9. In the said regulations, for Schedule I and Schedule II, the following Schedule shall be substituted, namely:-
+
+"SCHEDULE (see regulations 4 and 5) Posts in Technology Development Board and Levels in Pay Matrix.
+
+Sl. No.
+
+Name of the post Classification / Group Levels in pay matrix
+
+1.
+
+Secretary General, Group 'A' 15 or 14
+
+2.
+
+Scientist 'G' Scientific, Group 'A'
+
+3.
+
+Scientist 'F' Scientific, Group 'A' 13A
+
+4.
+
+Scientist 'E' Scientific, Group 'A'
+
+5.
+
+Scientist 'D' Scientific, Group 'A'
+
+6.
+
+Director General, Group 'A'
+
+7.
+
+Deputy Legal Adviser Legal, Group 'A'
+
+8.
+
+Under Secretary General, Group 'A'
+
+9.
+
+Principal Private Secretary General, Group 'A'
+
+10.
+
+Accounts Officer General, Group 'B'
+
+11.
+
+Section Officer General, Group 'B'
+
+12.
+
+Executive Assistant General, Group 'B'
+
+13.
+
+Personal Assistant General, Group 'B'
+
+14.
+
+Lower Division Clerk General, Group 'C'
+
+15.
+
+Staff Car Driver General, Group 'C'
+
+16.
+
+Messenger General, Group 'C' NEERAJ SHARMA, Secy. to the Board
+
+[ADVT.-III/4/Exty./464/19] Note:- The principal regulations were published in the Gazette of India vide notification No.F.No.TDB/Admn.1(7)(30)/02-03, dated the 6th November, 2002 and last amended vide notification No. TDB/64/2017/RR/Admin, dated the 17th July, 2018. and Published by the Controller of Publications, Delhi-110054.
+
+ALOK KUMAR
