@@ -1,0 +1,27 @@
+---
+title: "In exercise of the powers conferred by sub section 1 of section 70 of the Information Technology Act"
+gazette_id: "CG-DL-E-24022020-216371 Download: gvGazette$ctl07$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Economic Affairs"
+notification_no: "S.O. 840(E)"
+published: "2020-02-24"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-24.216371"
+---
+
+# In exercise of the powers conferred by sub section 1 of section 70 of the Information Technology Act
+
+MINISTRY OF FINANCE (Department of Economic Affairs) NOTIFICATION New Delhi, the 24th February, 2020 S.O. 840(E).—In exercise of the powers conferred by sub-section (1) of section 70 of the Information Technology Act, 2000 (21 of 2000), the Central Government hereby declares the Bombay Stock Exchange Online Trading System (BOLTPlus) and its underlying computer resources, of the Bombay Stock Exchange Limited (BSE) to be a protected system for the purposes of the said Act.
+
+[F. No. 1/11/SM/2019] ANAND MOHAN BAJAJ, Jt. Secy.
+
+NOTIFICATION New Delhi, the 24th February, 2020 S.O. 841(E).—In exercise of the powers conferred by sub-section (1) of section 70 of the Information Technology Act, 2000 (21 of 2000), the Central Government hereby declares the Clearing and Settlement System (CLASS) and its underlying computer resources, of the Indian Clearing Corporation Limited (ICCL) to be a protected system for the purposes of the said Act.
+
+[F. No. 1/11/SM/2019] ANAND MOHAN BAJAJ, Jt. Secy.
+
+NOTIFICATION New Delhi, the 24th February, 2020 S.O. 842(E).—In exercise of the powers conferred by sub-section (1) of section 70 of the Information Technology Act, 2000 (21 of 2000), the Central Government hereby declares the Trading System and its underlying computer resources, of the National Stock Exchange of India Limited (NSEIL) to be a protected system for the purposes of the said Act.
+
+[F. No. 1/11/SM/2019] ANAND MOHAN BAJAJ, Jt. Secy.
+
+NOTIFICATION New Delhi, the 24th February, 2020 S.O. 843(E).—In exercise of the powers conferred by sub-section (1) of section 70 of the Information Technology Act, 2000 (21 of 2000), the Central Government hereby declares the Clearing and Settlement System and its underlying computer resources, of the National Stock Exchange Clearing Limited (NCL) to be a protected system for the purposes of the said Act.
+
+[F. No. 1/11/SM/2019] ANAND MOHAN BAJAJ, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
