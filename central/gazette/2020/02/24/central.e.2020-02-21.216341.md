@@ -1,0 +1,37 @@
+---
+title: "In exercise of the powers conferred by section 11 sub sections a of the Kalakshetra Foundation Act,"
+gazette_id: "CG-DL-E-24022020-216341 Download: gvGazette$ctl14$imgbtndownload"
+ministry: "Ministry of Culture"
+department: "Not Applicable"
+notification_no: "S.O. 799(E)"
+published: "2020-02-24"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-21.216341"
+---
+
+# In exercise of the powers conferred by section 11 sub sections a of the Kalakshetra Foundation Act,
+
+MINISTRY OF CULTURE NOTIFICATION New Delhi the 18th February, 2020 S.O. 799(E).—In exercise of the powers conferred by section 11 sub-sections (a) of the Kalakshetra Foundation Act, 1993, the Central Government hereby makes the appointment of the following person as the Chairman of the Governing Board of the Kalakshetra Foundation, Chennai for a term of five years from the date of publication of this notification in the Official Gazette.
+
+Shri S. Ramadorai Chairman Also in exercise of the powers conferred by section 11 sub-sections (b) of the Kalakshetra Foundation Act, 1993, the Central Government hereby makes the following nominations in place of three vacancies in the Governing Board of the Kalakshetra Foundation till the term of the present Governing Board, i.e.
+
+09.11.2020.
+
+Members nominated to the Governing Board under Section 11 (b) S. No.
+
+Name Designation In place of
+
+1.
+
+Smt. Anupama Hoskere Member Vid. Smt. S. Saumya
+
+2.
+
+Shri Neyveli Santhanagopalan Member Shri Gangai Amaren
+
+3.
+
+Dr. Sudha Raghunathan Member Late C. K. Balagopalan
+
+2. The term of the members of the Governing Board shall be governed by the Section 12 and Section 15(2) respectively of the Kalakshetra Foundation Act, 1993.
+
+[F. No. 11/05/2019-Adad.] NIRUPAMA KOTRU, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
