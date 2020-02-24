@@ -1,0 +1,186 @@
+---
+title: "The sanction of the President is hereby accorded to the constitution of the Twenty second Law Commission of India"
+gazette_id: "CG-DL-E-24022020-216372 Download: gvGazette$ctl10$imgbtndownload"
+ministry: "Ministry of Law and Justice"
+department: "Department of Legal Affairs"
+published: "2020-02-24"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-21.216372"
+---
+
+# The sanction of the President is hereby accorded to the constitution of the Twenty second Law Commission of India
+
+MINISTRY OF LAW AND JUSTICE (Department of Legal Affairs) ORDER New Delhi, the 21st February, 2020 Subject:
+
+Constitution of Twenty-second Law Commission of India for a term of three years – reg.
+
+F. No. A-45012/1/2018-Admn. III (LA).—The sanction of the President is hereby accorded to the constitution of the Twenty-second Law Commission of India for a period of three years from the date of publication of this Order in the Official Gazette consisting of:
+
+(i) a full-time Chairperson;
+
+(ii) four full-time Members (including Member-Secretary);
+
+(iii) Secretary, Department of Legal Affairs as ex officio Member;
+
+(iv) Secretary, Legislative Department as ex officio Member; and
+
+(v) not more than five part-time Members.
+
+2.
+
+The Headquarters of the Law Commission shall be at New Delhi.
+
+3.
+
+Sanction of the President is also accorded to the following terms and conditions of appointment of the above-mentioned full-time Chairperson and Members (including Member-Secretary) and part-time Members: -
+
+(A) FULL-TIME CHAIRPERSON/ MEMBERS
+
+(a) SERVING JUDGES OF SUPREME COURT/HIGH COURT
+
+(i) The Chairperson/Members of the Law Commission shall perform their functions on a whole-time basis up to the date of retirement from the Supreme Court/High Court or expiry of the term of the Commission, whichever be earlier.
+
+(ii) The time spent in the performance of such functions as Chairperson/ Member of the Commission shall be treated as ―actual service‖ for purposes of: -
+
+(a) in the case of a Supreme Court Judge, Section 2(b)(i) of the Supreme Court Judges (Salaries and Conditions of Service) Act, 1958, as amended from time to time;
+
+(b) in the case of a High Court Judge, Section 2(c)(i) of the High Court Judges (Salaries and Conditions of Service) Act, 1954, as amended from time to time.
+
+(iii) No additional remuneration apart from the salary, as a Judge of the Supreme Court or High Court, as the case may be, shall be admissible for performing the functions and duties of Chairperson/ Member of the Commission.
+
+(iv) For journeys performed in connection with the work of the Commission during the period of his assignment, the Chairperson/Member shall be entitled to draw travelling allowance at the same rate as admissible as a Judge of the Supreme Court or High Court, as the case may be and in all other matters, the Chairperson/Member will be governed by:
+
+(a) the Supreme Court Judges (Salaries and Conditions of Service) Act, 1958 and the Supreme Court Judges (Travelling Allowance) Rules, 1959, in the case of a Judge of the Supreme Court;
+
+(b) the High Court Judges (Salaries and Conditions of Service) Act, 1954 and the High Court Judges (Travelling Allowance) Rules, 1956, in the case of a Judge of a High Court.
+
+(v) The Chairperson/Member shall be his own Controlling Officer for the purpose of travelling allowance.
+
+(b) OTHER CATEGORY OF PERSONS
+
+(i) The Chairperson shall be paid Rs. 2,50,000/- (Rupees Two Lakh Fifty Thousand only) (fixed) per month. In case of Members, a pay of Rs. 2,25,000/- (Rupees Two lakh twenty-five thousand only) (fixed) per month will be admissible. In the case of a retired person (including retired judges) the pay (including pension or pension equivalent to the retirement benefits) not exceeding Rs. 2,50,000/- or Rs. 2,25,000/- per month, as the case may be, shall be admissible as per existing Government instructions.
+
+(ii) The Chairperson/Member shall be entitled to allowances and other terms and conditions as are admissible to an officer of the Central Government getting equal pay.
+
+(iii) The Chairperson/Member shall be entitled to make contributions to the contributory provident fund from the date of appointment in accordance with the Contributory Provident Fund Rules (India), 1962, subject to such conditions as are applicable to re-employed Central Government servant.
+
+(iv) The Chairperson/Member shall be his own controlling officer for the purpose of travelling allowance.
+
+(v) The Chairperson/Member shall be entitled to leave as admissible to a Government servant under the Central Civil Services (Leave) Rules, 1972 and shall also be entitled to encashment of leave at the end of tenure in the Commission, provided that the total number of days of encashment of leave taken on retirement from Government (in case of retired Government servant) and at the end of tenure in the Commission shall be restricted to 300 days.
+
+(B) FULL-TIME MEMBER-SECRETARY/ SECRETARY
+
+(i) Full-time Member-Secretary shall be a serving Member of the Indian Legal Service in the rank of Secretary to the Government of India.
+
+(C) PART-TIME MEMBERS
+
+(i) A Part Time Member shall be paid an honorarium of Rs. 50,000/- (Rupees Fifty thousand only) per month.
+
+(ii) For the journeys performed in connection with the work of the Commission, the travelling allowance of the part-time Members who are non-officials shall be as admissible to officers of the level of Joint Secretary in the Government of India.
+
+(iii) If the journey is performed by air, the Chairperson and Member-Secretary / Secretary, shall decide the class of travel i.e. economy class or executive class and in the case of part-time Members, who are Government servants, the travelling allowance for journeys in respect of the work of the Commission shall be governed by the relevant rules applicable to them as Government servant. ]
+
+(iv) The Chairperson of the Commission shall be the controlling officer for the purpose of the travelling allowance of the part-time Members.
+
+(v) In the case of Part-time Members of the Commission, the ordinary place of their residence, to be named in advance shall be their respective Headquarters for the purpose of travelling allowance.
+
+(D) The Chairperson and Members (excluding the Member Secretary) of the Commission, while holding the office shall not act as arbitrator in any matter. However, the Central Government may permit them to complete pending arbitrations with them at the time of their appointment, within a period not exceeding six months.
+
+4.
+
+The terms of reference of the Twenty-second Law Commission shall be as under:
+
+A.
+
+Review/Repeal of obsolete laws:
+
+(i) Identify laws which are no longer needed or relevant and can be immediately repealed.
+
+(ii) Identify laws which are not in harmony with the existing climate of economic liberalisation and need change.
+
+(iii) Identify laws which otherwise require changes or amendments and to make suggestions for their amendment.
+
+(iv) Consider in a wider perspective the suggestions for revision/amendment given by Expert Groups in various Ministries/Departments with a view to coordinating and harmonizing them.
+
+(v) Consider references made to it by Ministries/Departments through the Department of Legal Affairs, Ministry of Law and Justice, in respect of legislations having bearing on the working of more than one Ministry/Department.
+
+(vi) Suggest suitable measures for quick redressal of citizens grievances, in the field of law.
+
+B.
+
+Law and Poverty:
+
+(i) Examine the laws which affect the poor and carry out post-audit for socio-economic legislations.
+
+(ii) Take all such measures as may be necessary to harness law and the legal process in the service of the poor.
+
+C.
+
+Keep under review the system of judicial administration to ensure that it is responsive to the reasonable demands of the times and in particular to secure:
+
+(i) elimination of delays, speedy clearance of arrears and reduction in costs so as to secure quick and economical disposal of cases without affecting the cardinal principle that decision should be just and fair.
+
+(ii) simplification of procedure to reduce and eliminate technicalities and devices for delay so that it operates not as an end in itself but as a means of achieving justice.
+
+(iii) improvement of standards of all concerned with the administration of justice.
+
+D.
+
+Examine the existing laws in the light of Directive Principles of State Policy and to suggest ways of improvement and reform and also to suggest such legislations as might be necessary to implement the Directive Principles and to attain the objectives set out in the Preamble of the Constitution.
+
+E.
+
+Examine the existing laws with a view for promoting gender equality and suggesting amendments thereto.
+
+F.
+
+Revise the Central Acts of general importance so as to simplify them and to remove anomalies, ambiguities and inequities.
+
+G.
+
+Recommend to the Government measures for making the statute book up to date by repealing obsolete laws and enactments or parts thereof which have outlived their utility.
+
+H.
+
+Consider and convey to the Government its views on any subject relating to law and judicial administration that may be specifically referred to it by the Government through Ministry of Law and Justice (Department of Legal Affairs).
+
+I.
+
+Consider the requests for providing research to any foreign countries as may be referred to it by the Government through Ministry of Law and Justice (Department of Legal Affairs).
+
+J.
+
+Examine the impact of globalization on food security, unemployment and recommend measures for the protection of the interests of the marginalised.
+
+5.
+
+The Commission shall concretise its recommendations after consultation with the nodal Ministry/Department(s) and such other stakeholders as the Commission may deem necessary for the purpose.
+
+6.
+
+The Commission shall devote its time bound attention to all issues relating to item ‗A' of the terms of reference as indicated above, viz., review/repeal of obsolete laws and shall make its recommendations to Government for repeal of obsolete laws and for appropriate amendments in others as may be found necessary on top priority basis.
+
+7.
+
+The Commission shall submit its reports in Hindi and English with sufficient number of copies for being placed on Tables of both houses of Parliament and shall also make its reports available through website or otherwise as soon as reports are submitted to the Government.
+
+8.
+
+Various Law Commissions have given 277 Reports so far. All of them are made available on the website of Law Commission. Since many of the Reports are voluminous it will be difficult for researchers to read an entire Report online. To facilitate the researchers to choose the topics of their area and to create awareness amongst Judges, Lawyers, Law Teachers and Students on the various recommendations of the Law Commission, a brief summary of all the Reports of the Law Commission shall be made available by the Law Commission, online.
+
+9.
+
+The Commission may develop partnership network with reputed Law Universities/Law Schools and policy research institutions in the country and abroad. The Commission may also provide opportunities to fresh graduates/students in law from recognized law colleges/schools/universities in India, under its voluntary internship programme, the details of which may be given on its website.
+
+10.
+
+The Commission may also engage consultants / legal consultants for specific projects depending on the nature and urgency of the topics referred to it.
+
+11.
+
+The expenditure involved is debitable to the Major Head 2070 – Other Administrative Services – Minor Head 00.105 – Special Commissions of Enquiry – 01 – Law Commission, under Demand No.61, Ministry of Law and Justice, in so far as the current financial year 2019-2020 is concerned. As regards the financial years 2020-2021, 2021-2022 and 2022-2023, the expenditure will be met from the corresponding Grants that may be voted by Parliament for those years.
+
+12.
+
+This order issues with the concurrence of the Ministry of Finance (Department of Expenditure) vide their OM No. 3(4)E. Coord/2018 Dated 17th September, 2019 and also with the approval of the Cabinet vide their communication No. 7/CM/2020 Dated 21st February, 2020.
+
+Dr. RAJIV MANI, Jt. Secy. & Legal Adviser and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA
