@@ -1,0 +1,653 @@
+---
+title: "Whereas the draft of certain rules further to amend the Ancient Monuments and Archaeological Sites and Remains Rules 1959"
+gazette_id: "CG-DL-E-25022020-216385 Download: gvGazette$ctl06$imgbtndownload"
+ministry: "Ministry of Culture"
+department: "Archaeological Survey of India"
+notification_no: "G.S.R. 133(E)"
+published: "2020-02-25"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-21.216385"
+---
+
+# Whereas the draft of certain rules further to amend the Ancient Monuments and Archaeological Sites and Remains Rules 1959
+
+MINISTRY OF CULTURE (ARCHAEOLOGICAL SURVEY OF INDIA) NOTIFICATION New Delhi the 21st February, 2020 G.S.R. 133(E).— Whereas the draft of certain rules further to amend the Ancient Monuments and Archaeological Sites and Remains Rules, 1959, were published as required under sub - section (1) of section 38 of the Ancient Monuments and Archaeological Sites and Remains Act, 1958 (24 of 1958) in the Gazette of India, Extraordinary, Part II, Section 3, Sub - section (i), dated the 12 th April, 2019 vide notification of the Government of India, in the Ministry of Culture, Archaeological Survey of India, number G.S.R. 303 (E), dated the 8 t h April, 2019 for the information of all persons likely to be affected thereby and notice was given that the said draft rules shall come into force after the expiry of a period of forty five days from the date on which the copies of the Official Gazette of these draft rules are made available to the public;
+
+And whereas, the copies of the draft rules were made available to the general public from the date of its publication in the Official Gazette;
+
+And whereas no objection or suggestion has been received from the public within the said stipulated period;
+
+Now, therefore, in exercise of the powers conferred by section 38 of the Ancient Monuments and Archaeological Sites and Remains Act, 1958 (24 of 1958), the Central Government hereby makes the following rules further to amend the Ancient Monuments and Archaeological Sites and Remains Rules, 1959, namely:—Short title and commencement : -
+
+1. (i) These rules shall be called the Ancient Monuments and Archaeological Sites and Remains (Amendment) Rules, 2020.
+
+(ii) They shall come into force on the date of their publication in the Official Gazette.
+
+2. In the Ancient Monuments and Archaeological Sites and Remains Rules,1959, for the second Schedule, the following Schedule shall be substituted, namely:-
+
+"Second Schedule (See rule 6) Part-I Category 'A' Monuments Sl. No.
+
+State District Locality Name of Monument
+
+1.
+
+Gujarat Godhra Pavagarh Champaner Monuments
+
+2.
+
+Karnataka Bellary Hampi Group of monuments Kamalapuram Krishnapuram Venkatapuram
+
+3.
+
+Karnataka Bagalkot Pattadkal Group of monuments
+
+4.
+
+Maharashtra Aurangabad Ajanta Ajanta Caves
+
+5.
+
+Maharashtra Aurangabad Ellora Ellora Caves Gharapuri Elephanta
+
+6.
+
+Maharashtra Bombay (Kolaba)
+
+7.
+
+Madhya Pradesh Chhattarpur Khajuraho Western group of monuments
+
+8.
+
+Madhya Pradesh Raisen Sanchi Buddhist monuments
+
+9.
+
+National capital Delhi Delhi Zail Humayun's Tomb Territory of Delhi
+
+10.
+
+National capital Delhi Mehrauli Qutab, Archaeological Territory of area Delhi
+
+11.
+
+National capital Delhi Delhi Zail Delhi Fort Territory of Delhi
+
+12.
+
+Odisha Puri Konarak Sun Temple
+
+13.
+
+Tamil Nadu Kanchipuram Mahabalipuram Group of monuments at Mahabalipuram
+
+14.
+
+Uttar Pradesh Agra Agra Agra Fort
+
+15.
+
+Uttar Pradesh Agra Agra Taj Group of monuments
+
+16.
+
+Uttar Pradesh Agra Fatehpur Fatehpur Sikri
+
+17.
+
+Bihar Nalanda Nalanda Excavated site
+
+18.
+
+Gujarat Patan Patan Rani-ki-vav
+
+19.
+
+Rajasthan Chittorgarh Chittorgarh Chittorgrh Fort
+
+20.
+
+Rajasthan Rajsamand Kumbalgarh Kumbalgarh Fort Part-II Category 'B' Monuments
+
+1.
+
+Andhra Pradesh Chittoor Chandragiri Raja and Rani Mahal
+
+2.
+
+Andhra Pradesh Guntur Amaravati Ruined Buddhist Stupa and other remains
+
+3.
+
+Andhra Pradesh Guntur Undavalli Four- storied rock-cut
+
+(i) Hindu Temple
+
+4.
+
+Andhra Pradesh West Godavari Guntapalle Buddhist Monuments
+
+5.
+
+Andhra Pradesh Guntur Pullareddigudem Hill of Nagarjunakonda (Agraharam) (Agraharam) with the ancient remains
+
+6.
+
+Assam Sibsagar Garhagaon Ahom Raja's Palace
+
+7.
+
+Assam Sibsagar Joysagar Karanghar Palace
+
+8.
+
+Assam Sibsagar Joysagar Rang-ghar Pavallion
+
+9.
+
+Assam Sibsagar Joysagar Bishnudol
+
+10.
+
+Assam Sibsagar Charaideo Group of four Maidan
+
+11.
+
+Bihar Patna Kumrahar Site of Mauryan Palace
+
+12.
+
+Bihar Rohtas Sasaram Shershah Suri Tomb
+
+13.
+
+Bihar Vaishali Chakramdas Ancient ruins, Vaishali
+
+14.
+
+Bihar Bhagalpur Antichak Excavated site
+
+15.
+
+Chhattisgarh Mahasamund Sirpur Laxman Temple
+
+16.
+
+Gujarat Mehsana Modhera Sun Temple
+
+17.
+
+Gujarat Junagarh Junagarh Buddhist Caves
+
+18.
+
+Gujarat Junagarh Junagarh Ashokan Rock Edicts
+
+19.
+
+Gujarat Junagarh Junagarh Baba Pyare and Khapra Kodiya Caves
+
+20.
+
+Gujarat Gandhinagar Gandhinagar Rudabai Step Well, Adalaj
+
+21.
+
+Goa Goa Goa Upper Fort Aguada
+
+22.
+
+Haryana Kurukshetra Thanesar Sheikh Chilli's Tomb
+
+23.
+
+Haryana Faridabad Lakarpur Suraj kund Monastery
+
+24.
+
+Himachal Pradesh Kangra Kangra Fort
+
+25.
+
+Himachal Pradesh Kangra Masrur Rock cut temple with sculptures
+
+26.
+
+Jammu and Kashmir Udhampur Kiramchi Group of temples
+
+27.
+
+Jammu and Kashmir Udhampur Ramnagar Ramnagar Palace
+
+28.
+
+Jammu and Kashmir Leh Leh Palace Group of temples
+
+29.
+
+Jammu and Kashmir Pulwama Avantipura awantiswami temple
+
+30.
+
+Karnataka Mandya Srirangapatna Daria Daulat Bagh
+
+31.
+
+Karnataka Mysore Somanathapur Keshva Temple
+
+32.
+
+Karnataka Bangalore Bangalore Tipu Sultan Palace
+
+33.
+
+Karnataka Chitradurga Chitradurga Fort
+
+34.
+
+Karnataka Bellary Bellary Fort
+
+35.
+
+Karnataka Bagalkot Aihole Durga Temple
+
+36.
+
+Karnataka Bagalkot Badami Jaina and Vishnu Caves
+
+37.
+
+Karnataka Bijapur Bijapur Gol Gumbaz
+
+38.
+
+Karnataka Bijapur Bijapur Ibrahim Rouza
+
+39.
+
+Karnataka Dharwad Temple and sculpture Gallery
+
+40.
+
+Kerala Kasargod Pallkere Bekal Fort
+
+41.
+
+Kerala Kerala Kerala
+
+42.
+
+Kerala Kannur Kannur Fort St. Angelo, Kannur
+
+43.
+
+Madhya Pradesh Burhanpur Burhanpur Shahi Quila
+
+44.
+
+Madhya Pradesh Dhar Bagh Buddhist Caves number 1 to 7
+
+45.
+
+Madhya Pradesh Dhar Mandu Royal Complex
+
+46.
+
+Madhya Pradesh Dhar Mandu Rani Roopmati Pavilion
+
+47.
+
+Madhya Pradesh Dhar Mandu Hoshang Shah's Tomb
+
+48.
+
+Madhya Pradesh Gwalior Gwalior Fort
+
+49.
+
+Madhya Pradesh Mandsaur Dhamnar, Tehsil Buddhist Cave number Garoth 1 to 51, Dhamnar, Tehsil Garoth
+
+50.
+
+Madhya Pradesh Ashok Nagar Chanderi Badal Mahal Gateway, Chanderi
+
+51.
+
+Madhya Pradesh Anuppur Amarkantak Group of temple, Parameshvar Shiv and Karan Temple, Amarkantak
+
+52.
+
+Madhya Pradesh Hoshangabad Hoshangabad Ancient Site and Adamgarh rock shelter, Kalamdi Rasuliya and Kishanpur
+
+53.
+
+Madhya Pradesh Vidisha Vidisha Caves number 1 to 20 Udaygiri, Vidisha
+
+54.
+
+Madhya Pradesh Datia Datia Bir Singh Palace Datia
+
+55.
+
+Maharashtra Aurangabad Daultabad Daultabad Fort
+
+56.
+
+Maharashtra Aurangabad Aurangabad Bibi-ka-Maqbara
+
+57.
+
+Maharashtra Aurangabad Aurangabad Aurangabad Caves
+
+58.
+
+Maharashtra Nasik Pithardi Pandav Lena Caves Kanheri Kanheri Caves
+
+59.
+
+Maharashtra Bombay Suburban
+
+60.
+
+Maharashtra Pune Karla Karla Caves
+
+61.
+
+Maharashtra Pune Junar Junnar Caves and inscriptions
+
+62.
+
+Maharashtra Raigad Raigad Raigad Fort
+
+63.
+
+Maharashtra Pune Pune Shaniwar Wada
+
+64.
+
+Maharashtra Kolaba Alibad Hirakota Old Fort
+
+65.
+
+Maharashtra Sholapur Sholapur Old Fort
+
+66.
+
+Maharashtra Pune Bhaja Caves, Temple and Inscriptions
+
+(i)
+
+67.
+
+Maharashtra Pune Pune Agha khan palace
+
+68.
+
+Maharashtra Raigad Raigad Janjira Fort, Murd
+
+69.
+
+Maharashtra Mumbai Subrban Mumbai Subrban Kondiote Caves
+
+70.
+
+Maharashtra Pune Pune Lohgad Fort
+
+71.
+
+Maharashtra Amravati Amravati Gawilgarh Fort
+
+72.
+
+Maharashtra Nagpur Mansar Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions etc. Mansar Delhi Lodhi Road Tomb of Safdarjung
+
+73.
+
+National capital Territory of Delhi Delhi Purana Qila Old Fort
+
+74.
+
+National capital Territory of Delhi Delhi Connaught Place Jantar Mantar
+
+75.
+
+National capital Territory of Delhi Delhi Nizamuddin Rahim-Khan-i-Khana
+
+76.
+
+National capital Territory of Delhi Tomb Delhi Nalikpur Kohi Sulatangiri Tomb
+
+77.
+
+National capital Territory of Delhi Delhi Tughlaqabad Fort
+
+78.
+
+National capital Territory of Delhi Delhi Delhi Ferozshah kotla
+
+79.
+
+National capital Territory of Delhi Delhi Delhi Hauzkhas
+
+80.
+
+National capital Territory of Delhi
+
+81.
+
+Odisha Khorda Bhubaneswar Raja rani Mahal
+
+82.
+
+Odisha Puri Jagmaa Udaygiri and Khandagiri
+
+83.
+
+Odisha Cuttack Ratanagiri Excavated sites
+
+84.
+
+Odisha Cuttack Lalitgiri Excavated sites
+
+85.
+
+Rajasthan Bharatpur Deeg Deeg Palace
+
+86.
+
+Rajasthan Ajmer Ajmer Marble Pavilion and balustrade on the Ana Sagar bund and ruins of the marble Hammam behind the Ana Sagar Bund
+
+87.
+
+Rajasthan Dausa Dausa Baori at Abhaneri
+
+88.
+
+Rajasthan Alwar Alwar Ancient Site, Bhangarh
+
+89.
+
+Telangana Hyderabad Golkonda Golkonda Fort
+
+90.
+
+Telangana Warangal Warangal Warangal Fort
+
+91.
+
+Telangana Hyderabad Hyderabad Charminar
+
+92.
+
+Tamil Nadu Dindigul Dindigul Fort
+
+93.
+
+Tamil Nadu Villupuram Ginjee Rajagiri fort and Krishnagiri Fort
+
+94.
+
+Tamil Nadu Tirchinapalli Kalumbalur Muvarkoil
+
+95.
+
+Tamil Nadu Chennai Fort St. George Fort St. George
+
+96.
+
+Tamil Nadu Pudukottai Tirumayam Fort
+
+97.
+
+Tamil Nadu Pudukottai Sittanvasal Rock-cut Jain temples
+
+98.
+
+Tamil Nadu Pudukottai Sittanvasal Natural caves called Eladipattanam
+
+99.
+
+Tamil Nadu Kanyakumari Kanyakumari Fort Vattakottai
+
+100.
+
+Tamil Nadu Virudunagar Virudunagar Tirumalai Nayak's Palace, Srivilliputhur
+
+101.
+
+Tamil Nadu Kanchipuram Kanchipuram Tiger headed Rock cut temple & two other monuments, Saluvankuppam
+
+102.
+
+Uttar Pradesh Banda Kalinjar Kalinjar Fort
+
+103.
+
+Uttar Pradesh Agra Agra Group of monuments at Ram Bagh
+
+104.
+
+Uttar Pradesh Agra Agra Itmad-ud-Daula's Tomb
+
+105.
+
+Uttar Pradesh Agra Sikandara Marriyam's tomb
+
+106.
+
+Uttar Pradesh Agra Sikandara Akbar's tomb
+
+107.
+
+Uttar Pradesh Agra Agra Mehtab Bagh
+
+108.
+
+Uttar Pradesh Ghazipur Ghazipur Lord Cornwallis Tomb
+
+109.
+
+Uttar Pradesh Jaunpur Jaunpur Old Fort
+
+110.
+
+Uttar Pradesh Varanasi Varanasi Observatory of Man singh
+
+111.
+
+Uttar Pradesh Varanasi Sarnath Excavated sites
+
+112.
+
+Uttar Pradesh Jhansi Jhansi Rani Jhansi Mahal
+
+113.
+
+Uttar Pradesh Sravasti Sahet- Mahat Monuments of Sravasti
+
+114.
+
+Uttar Pradesh Jhansi Jhansi Jhansi Fort
+
+115.
+
+Uttar Pradesh Lucknow Lucknow Residency
+
+116.
+
+Uttar Pradesh Varanasi Varanasi Tomb of Lal Khan
+
+117.
+
+Uttar Pradesh Varanasi Varanasi Ancient Buddhist Site know as Chaukhandi Stupa
+
+118.
+
+Uttar Pradesh Siddharth Nagar Siddharth Nagar Piprahwa and Ganwaria
+
+119.
+
+Uttar Pradesh Lalitpur Lalitpur Gupta Temple and Varah Temple, Deogarh
+
+120.
+
+West Bengal Bankura Bishnupur Group of Temples at Bishnupur
+
+121.
+
+West Bengal Cooch Behar Cooch Behar Cooch Behar Palace
+
+122.
+
+West Bengal Murshidabad Hazarduari Hazarduari Palace
+
+123.
+
+West Bengal Kolkata Strand Road Kolkata Metcalfe Hall"
+
+[F. No. 9/2/2017-M ] USHA SHARMA, Director General
+
+(i) Section (ii) dated 15th October, 1959 at pages 519-525 and subsequently amended vide:-
+
+1. No. S.O. 3520, dated the 20th November, 1966
+
+2. No. G.S.R. 663, dated the 1st May, 1967
+
+3. No. S.O. 935, dated the 16th February, 1971
+
+4. No. G.S.R. 90, dated the 30th January, 1991
+
+5. No. G.S.R. 306, dated the 10th July, 1996
+
+6. No. G.S.R. 799(E), dated the 17th October, 2000
+
+7. No. G.S.R. 800(E), dated the 17th October, 2000
+
+8. No. G.S.R. 848(E), dated the 3rd November, 2000
+
+9. No. S.O. 10(E), dated the 5th January, 2001
+
+10. No. G.S.R. 688(E), dated the 24th September, 2001
+
+11. No. G.S.R. 372(E), dated the 30th April, 2003
+
+12. No. G.S.R. 112(E), dated the 27th February, 2008
+
+13. No. G.S.R. 164(E), dated the 5th March, 2008
+
+14. No. G.S.R. 436(E), dated the 3rd June, 2008
+
+15. No.G.S.R.631 (E), dated the 13th August, 2012
+
+16. No.G.S.R.391 (E), dated the 31st March, 2016
+
+17. No.G.S.R.1539 (E), dated the 21st December, 2017
+
+18. No.G.S.R.98 (E), dated the 24th January, 2018
+
+19. No. G.S.R. 726(E), dated the 30th July, 2018
+
+20. No. G.S.R.879 (E), dated the 13th September, 2018
+
+21. No. G.S.R. 1171 (E), dated 4 December, 2018
+
+22. No. G.S.R. 276 (E), dated 1st April, 2019 and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
