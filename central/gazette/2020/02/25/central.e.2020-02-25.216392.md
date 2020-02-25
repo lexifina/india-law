@@ -1,0 +1,15 @@
+---
+title: "In exercise of the powers conferred by sub clause iv of clause m of sub section 1 of section"
+gazette_id: "CG-DL-E-25022020-216392 Download: gvGazette$ctl16$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Financial Services"
+notification_no: "S.O. 856(E)"
+published: "2020-02-25"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-25.216392"
+---
+
+# In exercise of the powers conferred by sub clause iv of clause m of sub section 1 of section
+
+MINISTRY OF FINANCE (Department of Financial Services) NOTIFICATION New Delhi, the 24th February, 2020 S.O. 856(E).—In exercise of the powers conferred by sub-clause (iv) of clause (m) of subsection (1) of section 2 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002), and in supersession of the notifications of the Government of India, Ministry of Finance numbers S.O. 2641(E), dated the 5th August, 2016, S.O. 4176 (E) dated the 27th August, 2018, and S.O. 5391(E) dated 24th October, 2018, except as respects things done or omitted to be done before such supersession, the Central Government hereby specifies such nonbanking financial companies as defined in clause (f) of section 45-I of the Reserve Bank of India Act, 1934 (2 of 1934), having assets worth rupees one hundred crore and above, which shall be entitled for enforcement of security interest in secured debts of rupees fifty lakh and above, as financial institutions for the purposes of the said Act.
+
+[F. No. 31/52/2018-DRT] VANDITA KAUL, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
