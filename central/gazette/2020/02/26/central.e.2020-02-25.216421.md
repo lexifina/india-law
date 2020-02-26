@@ -1,0 +1,47 @@
+---
+title: "In exercise of powers conferred by Section 3 of the Foreign Trade Development Regulation Act"
+gazette_id: "CG-DL-E-26022020-216421 Download: gvGazette$ctl08$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Department of Commerce"
+notification_no: "S.O. 854(E)"
+published: "2020-02-26"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-25.216421"
+---
+
+# In exercise of powers conferred by Section 3 of the Foreign Trade Development Regulation Act
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department of Commerce) (DIRECTORATE GENERAL OF FOREIGN TRADE) NOTIFICATION New Delhi, the 25th February, 2020 No. 48/2015-2020 Subject : Amendment in Export Policy of Personal Protection Equipment/Masks S.O. 854(E).—In exercise of powers conferred by Section 3 of the Foreign Trade (Development & Regulation) Act, 1992 (No. 22 of 1992), as amended, read with Para 1.02 of the Foreign Trade Policy, 2015-20, the Central Government hereby makes following amendment in the Notification No. 47 dated
+
+08.02.2020 related to export of Personal Protection Equipment and Masks:
+
+Sl. No.
+
+ITC HS Codes Description Present Policy Prohibited All Personal Protection Equipment including Clothing and Masks [Coveralls (Class 2/3/4) and N-95 Masks].
+
+However, the following items are freely exportable: 207 A 901850 901890 392690 621790 630790
+
+1. Surgical Masks/Disposable Masks (2/3 Ply)
+
+2. All Gloves except NBR Gloves.
+
+3. All Ophthalmic instruments and appliances under ITCHS 901850 except Medical Goggles
+
+4. Surgical Blades
+
+5. Non-Woven Shoe covers (Disposable)
+
+6. Breathing appliances used by Airmen, Divers, mountaineers or Firemen
+
+7. Gas Masks with chemical absorbent for filtration against poisonous vapour, smoke, gases
+
+8. HDPE Tarpaulin/Plastic Tarpaulin
+
+9. PVC conveyor belt
+
+10. Biopsy Punch
+
+3. Effect of this Notification:
+
+The Notification No. 47 dated 08.02.2020 is amended to the extent that the items specified under Serial No. 1 to 10 above are allowed freely for export. However, export of all other Personal Protection Equipment including N-95 masks or other items not specified in the exceptions above, shall remain Prohibited.
+
+[F. No. 01/91/180/21/AM20/EC] AMIT YADAV, Director General of Foreign Trade & Ex-Officio Addl. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
