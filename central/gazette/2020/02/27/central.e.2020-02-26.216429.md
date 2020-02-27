@@ -1,0 +1,17 @@
+---
+title: "In exercise of the powers conferred by clause g of sub section 4 of section 293 of the Code of Criminal Procedure"
+gazette_id: "CG-DL-E-27022020-216429 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Ministry of Home Affairs"
+department: "Not Applicable"
+notification_no: "S.O. 861(E)"
+published: "2020-02-27"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-26.216429"
+---
+
+# In exercise of the powers conferred by clause g of sub section 4 of section 293 of the Code of Criminal Procedure
+
+MINISTRY OF HOME AFFAIRS NOTIFICATION New Delhi, the 18th February, 2020 S.O. 861(E).—In exercise of the powers conferred by clause (g) of sub-section (4) of section 293 of the Code of Criminal Procedure, 1973 (2 of 1974), the Central Government hereby specifies the (i) Associate Professor/ Sr. Faculty of Institute of Forensic Science, Gujarat Forensic Science University
+
+(GFSU) – Deputy Director cum Scientist 'D', (ii) Assistant Professor – Institute of Forensic Science, Gujarat Forensic Science University (GFSU) - Assistant Director cum Scientist 'C', and (iii) Scientific Officer of Institute of Forensic Science, Gujarat Forensic Science University (GFSU) – Assistant Chemical Examiner to Government cum Scientist 'B' of the Institute of Forensic Science, Gujarat Forensic Science University (GFSU), Gandhinagar as the Government scientific experts for Narcotic Drug and Psychotropic Substances (NDPS) for the purposes of section 293 of the said Code, with effect from the date of publication of this notification in the Official Gazette.
+
+[F. No. 25013/23/2019 WS-III] PUNYA SALILA SRIVASTAVA, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
