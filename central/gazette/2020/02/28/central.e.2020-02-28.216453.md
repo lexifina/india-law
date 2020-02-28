@@ -1,0 +1,63 @@
+---
+title: "Whereas under the provisions of article 82 and clause 3 of article 170 of the Constitution as amended by the Constitution"
+gazette_id: "CG-DL-E-28022020-216453 Download: gvGazette$ctl15$imgbtndownload"
+ministry: "Ministry of Law and Justice"
+department: "Legislative Department"
+notification_no: "S.O. 903(E)"
+published: "2020-02-28"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-28.216453"
+---
+
+# Whereas under the provisions of article 82 and clause 3 of article 170 of the Constitution as amended by the Constitution
+
+MINISTRY OF LAW AND JUSTICE (Legislative Department) ORDER New Delhi, the 28th February, 2020 S.O. 903(E).—Whereas under the provisions of article 82 and clause (3) of article 170 of the Constitution, as amended by the Constitution (Eight-fourth Amendment) Act, 2001, Parliament has enacted the Delimitation Act, 2002 and a Delimitation Commission was set up to readjust the division of each State and Union territory into territorial constituencies for the purpose of elections to the House of the People and to the State Legislative Assemblies on the basis of census figures as ascertained at the census taken in the year 2001;
+
+And whereas the Delimitation Commission completed the delimitation exercise and the Delimitation Order, 2008 in respect of all States, except Assam, Arunachal Pradesh, Manipur and Nagaland, was published on 26th November, 2008;
+
+And whereas the President in exercise of powers conferred by sub-section (1) of section 10A of the Delimitation Act, 2002 (33 of 2002), and on being satisfied that a situation had arisen where the unity and integrity of India was likely to be threatened and there was serious threat to the peace and public order, deferred the delimitation exercise in the State of Assam vide notification number S.O. 283(E), dated the 8th February, 2008;
+
+And whereas there is a significant improvement in the security situation in the State of Assam.
+
+There is also reduction in insurgency incidents and improvement in law and order of these States making the situation conducive for carrying out the delimitation exercise which was deferred in the State in the year 2008. Therefore, it appears that the circumstances that led to the deferring of the delimitation exercise in the State of Assam have ceased to exist and that the delimitation of the constituencies as envisaged under the Delimitation Act, 2002 could be carried out now.
+
+Now, the President, being satisfied that the circumstances that led to the deferring of the delimitation exercise in the State of Assam have ceased to exist, is pleased to rescind the notification number S.O. 283(E), dated the 8th February, 2008 so as to readjust the division of the State of Assam into territorial constituencies for the purpose of elections to the House of the People and to the State Legislative Assembly in accordance with the provisions of the Delimitation Act, 2002 (33 of 2002).
+
+[F. No. H-11019/3/2019-Leg.II] Dr. G. NARAYANA RAJU, Secy.
+
+ORDER New Delhi, the 28th February, 2020 S.O. 904(E).—Whereas under the provisions of article 82 and clause (3) of article 170 of the Constitution, as amended by the Constitution (Eight-fourth Amendment) Act, 2001, Parliament has enacted the Delimitation Act, 2002 and a Delimitation Commission was set up to readjust the division of each State and Union territory into territorial constituencies for the purpose of elections to the House of the People and to the State Legislative Assemblies on the basis of census figures as ascertained at the census taken in the year 2001;
+
+And whereas the Delimitation Commission completed the delimitation exercise and the Delimitation Order, 2008 in respect of all States, except Assam, Arunachal Pradesh, Manipur and Nagaland, was published on 26th November, 2008;
+
+And whereas the President in exercise of powers conferred by sub-section (1) of section 10A of the Delimitation Act, 2002 (33 of 2002), and on being satisfied that a situation had arisen where the unity and integrity of India was likely to be threatened and there was serious threat to the peace and public order, deferred the delimitation exercise in the Sate of Arunachal Pradesh vide notification number S.O. 284(E), dated the 8th February, 2008;
+
+And whereas there is a significant improvement in the security situation in the State of Arunachal Pradesh. There is also reduction in insurgency incidents and improvement in law and order of the State making the situation conducive for carrying out the delimitation exercise which was deferred in the State in the year 2008. Therefore, it appears that the circumstances that led to the deferring of the delimitation exercise in the State of Arunachal Pradesh have ceased to exist and that the delimitation of the constituencies as envisaged under the Delimitation Act, 2002 could be carried out now.
+
+Now, the President, being satisfied that the circumstances that led to the deferring of the delimitation exercise in the State of Arunachal Pradesh have ceased to exist, is pleased to rescind the notification number S.O. 284(E), dated the 8th February, 2008 so as to readjust the division of the State of Arunachal Pradesh into territorial constituencies for the purpose of elections to the House of the People and to the State Legislative Assembly in accordance with the provisions of the Delimitation Act, 2002 (33 of 2002.).
+
+[F. No. H-11019/3/2019-Leg.II] Dr. G. NARAYANA RAJU, Secy.
+
+ORDER New Delhi, the 28th February, 2020 S.O. 905(E).—Whereas under the provisions of article 82 and clause (3) of article 170 of the Constitution, as amended by the Constitution (Eight-fourth Amendment) Act, 2001, Parliament has enacted the Delimitation Act, 2002 and a Delimitation Commission was set up to readjust the division of each State and Union territory into territorial constituencies for the purpose of elections to the House of the People and to the State Legislative Assemblies on the basis of census figures as ascertained at the census taken in the year 2001;
+
+And whereas the Delimitation Commission completed the delimitation exercise and the Delimitation Order, 2008 in respect of all States, except Assam, Arunachal Pradesh, Manipur and Nagaland, was published on 26th November, 2008;
+
+And whereas the President in exercise of powers conferred by sub-section (1) of section 10A of the Delimitation Act, 2002 (33 of 2002), and on being satisfied that a situation had arisen where the unity and integrity of India was likely to be threatened and there was serious threat to the peace and public order, deferred the delimitation exercise in the State of Manipur vide notification number S.O. 286(E), dated the 8th February, 2008;
+
+And whereas there is a significant improvement in the security situation in the State of Manipur.
+
+There is also reduction in insurgency incidents and improvement in law and order of the State making the situation conducive for carrying out the delimitation exercise which was deferred in the State in the year 2008. Therefore, it appears that the circumstances that led to the deferring of the delimitation exercise in the State of Manipur have ceased to exist and that the delimitation of the constituencies as envisaged under the Delimitation Act, 2002 could be carried out now.
+
+Now, the President, being satisfied that the circumstances that led to the deferring of the delimitation exercise in the State of Manipur have ceased to exist, is pleased rescind the notification number S.O. 286(E), dated the 8th February, 2008 so as to readjust the division of the State of Manipur into territorial constituencies for the purpose of elections to the House of the People and to the State Legislative Assembly in accordance with the provisions of the Delimitation Act, 2002 (33 of 2002).
+
+[F. No. H-11019/3/2019-Leg.II] Dr. G. NARAYANA RAJU, Secy.
+
+ORDER New Delhi, the 28th February, 2020 S.O. 906(E).—Whereas under the provisions of article 82 and clause (3) of article 170 of the Constitution, as amended by the Constitution (Eight-fourth Amendment) Act, 2001, Parliament has enacted the Delimitation Act, 2002 and a Delimitation Commission was set up to readjust the division of each State and Union territory into territorial constituencies for the purpose of elections to the House of the People and to the State Legislative Assemblies on the basis of census figures as ascertained at the census taken in the year 2001;
+
+And whereas the Delimitation Commission completed the delimitation exercise and the Delimitation Order, 2008 in respect of all States, except Assam, Arunachal Pradesh, Manipur and Nagaland, was published on 26th November, 2008.
+
+And whereas the President in exercise of powers conferred by sub-section (1) of section 10A of the Delimitation Act, 2002 (33 of 2002), and on being satisfied that a situation had arisen where the unity and integrity of India was likely to be threatened and there was serious threat to the peace and public order, deferred the delimitation exercise in the Sate of Nagaland vide notification number S.O. 285(E), dated the 8th February, 2008;
+
+And whereas there is a significant improvement in the security situation in the State of Nagaland. There is also reduction in insurgency incidents and improvement in law and order of the State making the situation conducive for carrying out the delimitation exercise which was deferred in the State in the year 2008. Therefore, it appears that the circumstances that led to the deferring of the delimitation exercise in the State of Nagaland have ceased to exist and that the delimitation of the constituencies as envisaged under the Delimitation Act, 2002 could be carried out now.
+
+Now, the President, being satisfied that the circumstances that led to the deferment of the delimitation exercise in the State of Nagaland have ceased to exist, is pleased to rescind the notification number S.O. 285(E), dated the 8th February, 2008 so as to readjust the division of the State of Nagaland into territorial constituencies for the purpose of elections to the House of the People and to the State Legislative Assembly in accordance with the provisions of Delimitation Act, 2002 (33 of 2002).
+
+[F. No. H-11019/3/2019-Leg.II] Dr. G. NARAYANA RAJU, Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
