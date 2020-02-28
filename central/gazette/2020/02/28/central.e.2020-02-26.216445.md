@@ -1,0 +1,95 @@
+---
+title: "In exercise of the powers conferred by section 2 of the United Nations Security Council Act"
+gazette_id: "CG-DL-E-28022020-216445 Download: gvGazette$ctl11$imgbtndownload"
+ministry: "Ministry of External Affairs"
+department: "Not Applicable"
+notification_no: "S.O. 860(E)"
+published: "2020-02-28"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-26.216445"
+---
+
+# In exercise of the powers conferred by section 2 of the United Nations Security Council Act
+
+MINISTRY OF EXTERNAL AFFAIRS ORDER New Delhi, the 26th February, 2020 S.O. 860(E).—In exercise of the powers conferred by section 2 of the United Nations (Security Council) Act, 1947 (43 of 1947), the Central Government hereby makes the following Order to amend the Implementation of the United Nations Security Council Resolutions on Libya Order, 2016, namely :-
+
+1.
+
+Short title and commencement.-(1) This Order may be called the Implementation of the United Nations Security Council Resolutions on Libya (Amendment) Order, 2019.
+
+(2) It shall come into force on the date of its publication in the Official Gazette.
+
+2.
+
+In the Implementation of the United Nations Security Council Resolution on Libya Order, 2016,-
+
+(a) in the long title, in the fourth paragraph, after the brackets and figures (2015), the figures, brackets and word "2214 (2015) and 2362 (2017)" shall be inserted;
+
+(b) in clause 2, in sub-clause (1), in item (a),-
+
+(i) after the figures and brackets 2214(2015), the figures and brackets "2362 (2017)" shall be inserted;
+
+(ii) after the words "adopted by the Security Council", the following shall be inserted, namely:-
+
+"and includes notification numbers SC/12314 (1 April 2016), SC/12586 (11 November 2016), SC/13371 (7 June 2018), SC/13497 (11 September 2018), SC/13508 (17 September 2018) and SC/13587 (16 November 2018) issued by the Securtiy Counciul pursuant to the said Resolutions;";
+
+(c) in the Schedule, in Annexure 3 under the heading 'A. Individuals',-
+
+(i) for paragraph LYi.019 and the entries relating thereto, the following paragraph shall be subsituted, namely:-
+
+"LYi. 019 Name: 1: SAFIA 2: FARKASH 3: AL-BARASSI 4: na Title: na Designation: na DOB:
+
+Approximately 1952 POB: Al Bayda, Libya Good quality a.k.a.: Safia Farkash Mohammed AlHadad, born 1 Jan. 1953 (Oman passport No. 03825239, date of issue 4 May 2014, expiry 3 May
+
+2024.) Low quality a.k.a. : na Nationality: na Passport No: 03825239 National identification No: Omani ID No. 98606491 Address: a) Sultanate of Oman b) (Believed location - Egypt) Listed on: 24 Jun. 2011 (amended on: 13 Feb. 2012, 2 Apr. 2012, 4 Sep. 2013, 26 Sep. 2014, and 26 Mar. 2015 and 1 Apr. 2016) Other information: Listed pursuant to paragraph 15 of resolution 1970 and paragraph 19 of resolution 1973 (Travel Ban, Asset Freeze).";
+
+(ii) for paragraph LYi.006 and the entries relating thereto, the following paragraph shall be subsituted, namely:-
+
+"LYi. 006 Name: 1: ABU 2: ZAYD 3: UMAR 4: DORDA Title: na Designation: a) Position:
+
+Director, External Security Organisation. b) Head of external intelligence agency. DOB: 4 Apr. 1944 na POB: na Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no.: na National identification no.: na Address: Libya (Believed status/location: in custody in Libya) Listed on: 26 Feb. 2011 (amended on: 27 Jun. 2014 and 1 Apr. 2016) Other information: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).";
+
+(iii) for paragraph LYi.003 and the entries relating thereto, the following paragraph shall be subsituted namely:-
+
+"LYi. 003 Name: 1: SAYYID 2: MOHAMMED 3: QADHAF AL-DAM 4: na Title: na Designation: na DOB: 1948 POB: a) Sirte, Libya b) Egypt Good quality a.k.a.: Sayed M. Gaddef Eddam Low quality a.k.a.: na Nationality: na Passport no: Libyan passport No. 513519 National identification no: na Address: na Listed on: 26 Feb. 2011 (amended on: 1 Apr. 2016) Other information: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban).";
+
+(iv) for paragraph LYi.009 and the entries relating thereto, the following paragraph shall be subsituted, namely:-
+
+"LYi.009 Name: 1: AISHA 2: MUAMMAR MUHAMMED 3: ABU MINYAR 4: QADHAFI Title: na Designation: na DOB: 1978 POB: Tripoli, Libya Good quality a.k.a.: Aisha Muhammed Abdul Salam (Libya Ppassport number: 215215) Low quality a.k.a.: na Nationality: na Passport no: Libya 428720 National identification no: na Address: Sultanate of Oman (Believed status/location: Sultanate of Oman) Listed on: 26 Feb. 2011 ( amended on 11 Nov. 2016, 26 Sep. 2014, 21 Mar. 2013 and 2 Apr. 2012) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).";
+
+(v) for paragraph LYi.010 and the entries relating thereto, the following paragraph shall be subsituted, namely:-
+
+"LYi.010 Name: 1: HANNIBAL 2: MUAMMAR 3: QADHAFI 4: na Title: na Designation: na DOB: 20 Sep. 1975 POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: Libya B/002210 National identification no: na Address: Lebanon (in custody)Algeria (Believed status/location: Algeria) Listed on: 26 Feb. 2011 (amended on 11 Nov. 2016, 26 Sep. 2014 and 2 Apr. 2012) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).";
+
+(vi) for paragraph LYi. 014 and the entries relating thereto, the following paragraph shall be subsituted, namely:-
+
+"LYi. 014 Name: 1: MUTASSIM 2: QADHAFI 3: na 4: na Title: na Designation: National Security Adviser DOB: a) 1976 b) 5 Feb. 1974 POB: Tripoli, Libya Good quality a.k.a.: a) Almuatesem Bellah Muammer Qadhafi b) Mutassim Billah Abuminyar Qadhafi Low quality a.k.a.: a) Muatasmblla b) Muatasimbllah c) Moatassam Nationality: na Passport no: Libyan passport No. B/001897 National identification no: na Address: na Listed on: 26 Feb. 2011 (amended on: 2 Apr. 2012, and 26 Sep. 2014 and 1 Apr. 2016) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze). Believed status/location: deceased. Reportedly deceased in Sirte, Libya, on 20 October 2011.";
+
+(vii) for paragraph LYi. 017 and the entries relating thereto, the following paragraph shall be subsituted, namely:-
+
+"LYi. 017 Name: 1: SAIF AL-ISLAM 2: QADHAFI 3: na 4: na Title: na Designation: Director, Qadhafi Foundation DOB: 25 Jun. 1972 POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: Libya B014995 National identification no: na Address:
+
+Libya (Believed status/location: in custody in Libya. restricted freedom of movement in Zintan, Libya) Listed on: 26 Feb. 2011 ( amended on 11 Nov. 2016, 26 Sep. 2014 and 2 Apr. 2012) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).";
+
+(viii) for paragraph LYi. 020 and the entries relating thereto, the following paragraph shall be subsituted, namely:-
+
+"LYi. 020 Name: 1: ABDELHAFIZ 2: ZLITNI 3: na 4: na Title: na Designation: a) Minister for Planning and Finance in Colonel Qadhafi's Government. b) Secretary of the General People's Committee for Finance and Planning c) Temporary head of the Central Bank of Libya DOB: 1935 POB: na Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: na Libya Listed on: 24 Jun. 2011 (amended on 11 Nov. 2016 and 26 Sep. 2014) Other information: Listed pursuant to paragraph 15 of resolution 1970 and paragraph 19 of resolution 1973 (Travel Ban, Asset Freeze).";
+
+(ix) after the paragraph LYi.020 and the entries relating thereto. the following paragraphs shall be inserted, namely :-
+
+"LYi. 021 Name: 1: Ermias 2: Alem 3: na 4: na Name (original script): ኤርሚኣስ ግርማይ (Tigrinya) Title: na Designation: Leader of a transnational trafficking network DOB:
+
+Approximately 1980 POB: Eritrea Good quality a.k.a.: Ermias Ghermay, Guro Low quality a.k.a.: a) Ermies Ghermay b) Ermias Ghirmay Nationality: Eritrea Passport no: na National identification no: na Address: (Known address: Tripoli, Tarig sure no. 51, likely moved to Sabratha in 2015.) Listed on: 7 June 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze) LYi. 022 Name: 1: Fitiwi 2: Abdelrazak 3: na 4: na Name (original script): ፍትዊ ዓብዱረዛቕ (Tigrinya) Title: na Designation: Leader of a transnational trafficking network DOB:
+
+Approximately (30-35 years old) POB: Massaua, Eritrea Good quality a.k.a.: Abdurezak, Abdelrazaq, Abdulrazak, Abdrazzak Low quality a.k.a.: Fitwi Esmail Abdelrazak Nationality:
+
+Eritrea Passport no: na National identification no: na Address: na Listed on: 7 June 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze) LYi. 023 Name: 1: Ahmad 2: Oumar 3: Imhamad 4: al-Fitouri Name (original script): احمد عمر امحمد الفيتوري (Arabic) Title: na Designation: Commander of the Anas al-Dabbashi militia, Leader of a transnational trafficking network DOB: 7 May 1988, POB: (possibly Sabratha, Talil neighbourhood) Good quality a.k.a.: na Low quality a.k.a.: a) Al-Dabachi b) Al Ammu c) The Uncle d) Al-Ahwal e)Al Dabbashi Nationality: Libya Passport no: na National identification no: na Address: a) Garabulli, Libya b) Zawiya, Libya Listed on: 7 June 2018 Other information:
+
+Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze) LYi.024 Name: 1: Mus'ab 2: Mustafa 3: Abu al Qassim 4: Omar Name (original script): مصعب مصطفى ابو القاسم عمر (Arabic) Title: na Designation: Leader of a transnational trafficking network DOB: 19 Jan. 1983 POB: Sabratha, Libya Good quality a.k.a.: Mus'ab Abu Qarin Low quality a.k.a.: a) ABU-AL QASSIM OMAR Musab Boukrin b) The Doctor c) Al-Grein Nationality: Libya Passport no: a) 782633, issued on 31 May 2005 b) 540794, issued on 12 Jan. 2008 National identification no: na Address: na Listed on: 7 June 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze) LYi.025 Name: 1: Mohammed 2: al-Hadi 3: al-Arabi 4: Kashlaf Name (original script): محمد الهادي العربي كشالف (Arabic) Title: na Designation: Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery Guard of Zawiya's refinery DOB: 15 November 1988 POB: Zawiya, Libya Good quality a.k.a.: na Low quality a.k.a.: a) Kashlaf b) Koshlaf c) Keslaf d) al-Qasab Nationality: Libya Passport no: HR8CHGP8; Date of issue: 27 April 2015; Place of issue:
+
+Zawiyah National identification no:a) 119880210419 b) Personal Identification Card no: 728498; Date of issue: 24 February 2007). Address: Zawiya, Libya Listed on: 7 June 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze) LYi.026 Name: 1: Abd 2: Al-Rahman 3: al-Milad 4: na Title: na Designation: Commander of the Coast Guard in Zawiya DOB: Approximately (29 years old) POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: a) Rahman Salim Milad b) al-Bija Nationality: Libya Passport no: na National identification no: na Address: Zawiya, Libya Listed on: 7 June 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze) LYi.027 Name: 1: Ibrahim 2: Saeed 3: Salim 4: Jadhran Title: na Designation: Leader of armed militias DOB: 1982 POB: na Good quality a.k.a.: na Low quality a.k.a.: na Nationality: Libya Passport no: na National identification no: na Address: na Listed on: 11 Sept. 2018 Other information: name of mother Salma Abdula Younis. Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).
+
+INTERPOL-UN Security Council Special Notice web link:
+
+LYi.28 Name: 1: Salah 2: Badi 3: na 4: na Title: na Designation: Senior commander of the armed antiGNA Al-Somood front, also known as Fakhr or 'Pride of Libya', and the Misratan Al Marsa Central Shield brigade DOB: na POB: na Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: na Listed on: 16 Nov. 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).".
+
+[F. No. U.II/152/30/2015] SANJAY RANA, Jt. Secy. (UNP) Note : The Principal Order was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (ii) vide notification number S.O. 2158(E), dated the 20th June, 2016. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
