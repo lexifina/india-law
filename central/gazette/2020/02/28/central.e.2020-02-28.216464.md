@@ -1,0 +1,17 @@
+---
+title: "In exercise of the powers conferred by Sub Section 1 a and Sub Section 4 of Section 4 of the Securities and Exchange Board of India Act"
+gazette_id: "CG-DL-E-28022020-216464 Download: gvGazette$ctl13$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Economic Affairs"
+notification_no: "S.O. 911(E)"
+published: "2020-02-28"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-28.216464"
+---
+
+# In exercise of the powers conferred by Sub Section 1 a and Sub Section 4 of Section 4 of the Securities and Exchange Board of India Act
+
+MINISTRY OF FINANCE (Department of Economic Affairs) (FINANCIAL MARKET DIVISION) NOTIFICATION New Delhi, the 28th February, 2020 S.O. 911(E).—In exercise of the powers conferred by Sub-Section (1)(a) and Sub-Section (4) of Section 4 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), read with Rule 3 of the Securities and Exchange Board of India (Terms and Conditions of Service of Chairman and Members) Rules, 1992, the Central Government hereby extends the term of appointment of Shri Ajay Tyagi as Chairman of the Securities and Exchange Board of India for a period of six months beyond
+
+29.02.2020 or until further orders, whichever is earlier.
+
+[F. No. 2/16/2019-RE] ANAND MOHAN BAJAJ, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
