@@ -1,0 +1,31 @@
+---
+title: "Whereas on 10th October 2019 the Medical Advisory Council of the National Medical Commission was constituted in exercise of the powers"
+gazette_id: "CG-DL-E-02032020-216486 Download: gvGazette$ctl04$imgbtndownload"
+ministry: "Ministry of Health and Family Welfare"
+department: "Department of Health and Family Welfare"
+notification_no: "S.O. 897(E)"
+published: "2020-03-02"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-28.216486"
+---
+
+# Whereas on 10th October 2019 the Medical Advisory Council of the National Medical Commission was constituted in exercise of the powers
+
+MINISTRY OF HEALTH AND FAMILY WELFARE (Department of Health and Family Welfare) NOTIFICATION New Delhi, the 24th February, 2020 S.O. 897(E).—Whereas on 10th October, 2019, the Medical Advisory Council of the National Medical Commission was constituted in exercise of the powers conferred by Section 11 of the National Medical Commission Act, 2019.
+
+And whereas the Central Government, in pursuance of the clause (c) of Sub-section (2) of Section 11 of the National Medical Act, 2019 and on the recommendation of the then State of Jammu & Kashmir, appointed Dr. Manoj Kumar Dhar, Vice Chancellor, Health University, Jammu & Kashmir as a member in Medical Advisory Council representing State of Jammu & Kashmir.
+
+And whereas, with the Jammu & Kashmir Reorganization Act, 2019 coming into force, the State has been reconstituted into two Union Territories namely Union Territories of Jammu & Kashmir and Union Territories of Ladakh. Therefore, Dr. Manoj Kumar Dhar has ceased to be a member of the Medical Advisory Council representing State of Jammu & Kashmir.
+
+And whereas, Ministry of Home Affairs, Government of India, in pursuance of the clause (d) of subsection (2) of section 11 of the National Medical Act, 2019 has nominated Dr. Manoj Kumar Dhar, Vice Chancellor, Health University, Union Territory of Jammu & Kashmir and Shri Chewang Phunsog (IAS Retd.), Vice Chancellor of University of Ladakh as the representatives of Union Territory of Jammu & Kashmir and Union Territory of Ladakh respectively in the Medical Advisory Council of National Medical Commission.
+
+Now, therefore, in the notification of the Government of India in the Ministry of Health and Family Welfare number S.O. 3659(E) dated 10th October, 2019 published in Gazette of India, Extraordinary, Part II, Section 3, the following amendments are hereby made:-
+
+(i) Under paragraph (3) in the table the entry at serial number10 in respect of Jammu & Kashmir shall be deleted.
+
+(ii) Sub-section (ii) under paragraph (4), in the Table, after serial number 5 and the entries relating thereto, the following serial numbers and entries shall be inserted, namely:—
+
+Serial No.
+
+Name of Union Territory Details of the Nominated Member 5A Jammu & Kashmir Dr. Manoj Kumar Dhar, Vice Chancellor, Health University, UT of Jammu & Kashmir 5B Ladakh Shri Chewang Phunsog (IAS Retd.), Vice Chancellor of University of Ladakh
+
+[F. No.V.11013/01/2019-MEP] NIPUN VINAYAK, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
