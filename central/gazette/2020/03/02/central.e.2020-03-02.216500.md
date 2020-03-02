@@ -1,0 +1,15 @@
+---
+title: "Shri Suchindra Misra Joint Secretary in the Department of Financial Services Ministry of Finance"
+gazette_id: "CG-DL-E-02032020-216500 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Economic Affairs"
+notification_no: "S.O. 931(E)"
+published: "2020-03-02"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-02.216500"
+---
+
+# Shri Suchindra Misra Joint Secretary in the Department of Financial Services Ministry of Finance
+
+MINISTRY OF FINANCE (Department of Financial Services) NOTIFICATION New Delhi, the 2nd March, 2020 S.O. 931(E).—Shri Suchindra Misra, Joint Secretary in the Department of Financial Services, Ministry of Finance, Government of India is designated by the Central Government to decide the appeal of an Asset Reconstruction Company under the provisions of sub-section (2) of section 4 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002). This is published for general information.
+
+[F. No. 31/52/2019 –DRT] SUBHASHCHANDRA AMIN, Under Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA KUMAR VERMA
