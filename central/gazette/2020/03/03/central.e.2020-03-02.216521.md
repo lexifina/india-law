@@ -1,0 +1,29 @@
+---
+title: "In exercise of the powers conferred by section 164 of the Central Goods and Services Tax Act"
+gazette_id: "CG-DL-E-03032020-216521 Download: gvGazette$ctl09$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "G.S.R. 147(E)"
+published: "2020-03-03"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-02.216521"
+---
+
+# In exercise of the powers conferred by section 164 of the Central Goods and Services Tax Act
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS) NOTIFICATION New Delhi, the 2nd March, 2020 (No. 08/2020–Central Tax) G.S.R. 147(E).—In exercise of the powers conferred by section 164 of the Central Goods and Services Tax Act, 2017 (12 of 2017), the Central Government, on the recommendations of the Council, hereby makes the following rules further to amend the Central Goods and Services Tax Rules, 2017, namely:-
+
+1.
+
+(1) These rules may be called the Central Goods and Services Tax (Second Amendment) Rules, 2020.
+
+(2) Save as otherwise provided in these rules, they shall come into force on the date of their publication in the Official Gazette.
+
+2.
+
+In the Central Goods and Services Tax Rules, 2017, with effect from the 1st March, 2020, in rule 31A, for sub-rule (2), the following sub-rule shall be substituted, namely:-
+
+"(2) The value of supply of lottery shall be deemed to be 100/128 of the face value of ticket or of the price as notified in the Official Gazette by the Organising State, whichever is higher.
+
+Explanation:–For the purposes of this sub-rule, the expression "Organising State" has the same meaning as assigned to it in clause (f) of sub-rule (1) of rule 2 of the Lotteries (Regulation) Rules, 2010.".
+
+[F. No. 20/06/03/2020 – GST] PRAMOD KUMAR, Director Note : The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide notification No. 3/2017-Central Tax, dated the 19th June, 2017, vide number G.S.R. 610(E), dated the 19th June, 2017 and last amended vide notification No. 02/2020 -Central Tax, dated the 01st January, 2020, published vide number G.S.R. 4(E), dated the 01st January, 2020. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
