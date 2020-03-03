@@ -1,0 +1,264 @@
+---
+title: "Preamble The Government of India recognizes the need to evolve a participatory process of decision"
+gazette_id: "CG-DL-E-03032020-216519 Download: gvGazette$ctl10$imgbtndownload"
+ministry: "Ministry of Home Affairs"
+department: "Disaster Management Division"
+published: "2020-03-03"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-02.216519"
+---
+
+# Preamble The Government of India recognizes the need to evolve a participatory process of decision
+
+MINISTRY OF HOME AFFAIRS (DISASTER MANAGEMENT DIVISION) RESOLUTION New Delhi, the 26th February, 2020 No. 47-31/2012-DM-III.—Preamble: The Government of India recognizes the need to evolve a participatory process of decision making in disaster management with active involvement of the Central & State Governments and stakeholders including people representing different interests in the field of disaster management.
+
+An institutional mechanism to address this need will not only strengthen the disaster management structure and institutions all over the Country but also will strengthen the federal polity and democratic governance in the larger interest of its people.
+
+Accordingly, a multi-stakeholders and multi-sectoral National Platform for Disaster Risk Reduction (NPDRR) was constituted by Government of India vide resolution dated 26th February, 2013. The original Resolution was amended from time to time in order to have wider participation of different stakeholders. It was followed by successive revision and a comprehensive Resolution dated 05.07.2017 on constitution of the NPDRR was notified. The Resolution dated 05.07.2017 was further amended on 03.09.2019. The Government of India has again reviewed the list of members of NPDRR and it has been decided to consolidate all the previous amendments and to issue a revised comprehensive Resolution on constitution of the NPDRR.
+
+Resolution:
+
+In supersession of Ministry of Home Affairs' Revised Resolution dated 5th July, 2017 and 3rd September, 2019 except as respect things done or omitted to be done before such supersession, the Government of India has decided to reconstitute the multi-stakeholders National Platform for Disaster Risk Reduction (NPDRR). A list of Members of NPDRR is at Annexure-I.
+
+2.
+
+The functions of the NPDRR shall be – i.
+
+To review the progress made in the field of disaster management from time to time. ii.
+
+To appraise the extent and manner in which the Disaster Management Policy has been implemented by the Central and State Governments, and other concerned agencies, and to give appropriate advice in the matter. iii.
+
+To advise regarding coordination between the Central and State Governments/UT Administrations, State Governments, local Governments and civil society organisations for development of Disaster Risk Reduction. iv.
+
+To advise suo-moto or on a reference made by the Central Government or any State Government or a Union Territory Administration on any question pertaining to disaster management. v.
+
+To review the Disaster Management Policy.
+
+3.
+
+For the discharge of these functions, the Platform may i. call for information and comments from any government institution, any other organization or an individual. ii. appoint committees or groups comprising members of the Platform and/or others as may be necessary, and iii. commission through the Central Government or any other agency, studies, research or reports on any specific issue requiring the attention of the Platform or its Committees or groups.
+
+4. a) Tenure:
+
+The tenure of the platform shall be upto 2030. b) Casual Vacancies: i.
+
+All casual vacancies among the members, other than ex-officio members shall be filled by the Authority or body which nominated or elected the members whose place falls vacant. ii.
+
+The person nominated or elected to a casual vacancy shall be a member of the Platform for the residue of the term for which the member whose place he fills would have been a member. c) Meeting:
+
+The Platform shall meet once in three years. However, the power to relax the condition shall rest with the Chairman of NPDRR. d) Agenda: i.
+
+The Agenda, the explanatory Memorandum and the Record of proceeding / Minutes of the meeting shall be prepared and circulated by the Ministry of Home Affairs (Disaster Management Division). ii.
+
+The Agenda and the explanatory Memorandum will ordinarily be circulated to all the members at least 10 days before the date of the Meeting of the Platform. e) Procedure:
+
+The Platform will adopt its own procedures in respect of matters not provided for above. f) General:
+
+No proceedings of the Platform shall be invalid merely on the ground of procedural defect or vacancy under any category of membership.
+
+SANJEEV KUMAR JINDAL, Jt. Secy.
+
+Annexure-I Composition of the National Platform for Disaster Risk Reduction (NPDRR)
+
+1.
+
+Chairperson The Union Home Minister
+
+2.
+
+Vice Chairperson i.
+
+Minister of State in charge of Disaster Management in the Ministry of Home Affairs ii.
+
+Vice-Chairman, National Disaster Management Authority
+
+3. Representatives of the Government of India i.
+
+Minister of Defence ii.
+
+Minister of Finance iii.
+
+Minister of External Affairs iv.
+
+Minister of Agriculture Cooperation and Farmers Welfare v.
+
+Minister of Human Resource Development vi.
+
+Minister of Health & Family Welfare vii.
+
+Minister of Housing and Urban Affairs viii.
+
+Minister of Rural Development ix.
+
+Minister of Environment, Forest and Climate Change x.
+
+Minister of Jal Shakti xi.
+
+Minister of Science & Technology xii.
+
+Minister of Earth Sciences xiii.
+
+Minister of Women & Child Development xiv.
+
+Minister of Mines xv.
+
+Minister of Panchayati Raj xvi.
+
+Vice Chairman, NITI Aayog
+
+4. Representatives of State Governments & Union Territories Administrations i.
+
+Minister of each State Government /Union Territory dealing with the subject Disaster Management ii.
+
+One Member (preferably Vice Chairman) of State Disaster Management Authority of each States/UTs
+
+5. Representatives of Local Self Governments i.
+
+Mayors of Delhi, Mumbai, Kolkata, Chennai, Bangalore and Hyderabad ii.
+
+Municipal Commissioners of Delhi, Kolkata, Mumbai, Chennai, Bangalore and Hyderabad iii. 10 Chairpersons of Urban Local bodies (To be nominated by Ministry of Urban Development) iv. 10 representatives of Panchayat Raj Institutions (To be nominated by Ministry of Panchayat Raj)
+
+6. Representatives from Parliament i.
+
+Four members of Parliament from Lok Sabha (To be nominated by the Speaker) ii.
+
+Two members of Parliament from Rajya Sabha (To be nominated by the Chairperson)
+
+7. Ex-Officio Members i.
+
+Union Home Secretary ii.
+
+Secretary, Department of Atomic Energy iii.
+
+Secretary, Ministry of Agriculture Cooperation and Farmers Welfare iv.
+
+Secretary, Ministry of Earth Sciences v.
+
+Secretary, Ministry of Environment Forest and Climate Change vi.
+
+Secretary, Ministry of Health and Family Welfare vii.
+
+Secretary, Ministry of Mines viii.
+
+Secretary, Ministry of Skill Development and Entrepreneurship ix.
+
+Secretary, Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment x.
+
+Secretary, Department of Empowerment of Persons with Disabilities (Divyangjan), Ministry of Social Justice and Empowerment xi.
+
+Secretary/ Member Secretary, National Disaster Management Authority xii.
+
+Chairman, Railway Board xiii.
+
+Chairman, Central Water Commission xiv.
+
+Chairman, ISRO xv.
+
+Chairman, Insurance Regulatory & Development Authority xvi.
+
+Chairman, National Highways Authority of India (NHAI) xvii.
+
+Chairman, UGC xviii.
+
+Members of NDMA (Full time) xix.
+
+Members of Advisory Committee of NDMA xx.
+
+Director General, NDRF xxi.
+
+Director General (Fire Services, Civil Defence and Home Guards) xxii.
+
+Director General, Civil Aviation xxiii.
+
+Director General, Defence Research & Development Organization xxiv.
+
+DG, Indian Meteorological Department xxv.
+
+DG, Geological Survey of India xxvi.
+
+Chief of Integrated Defence Staff (CIDS) of the Chief of Staff Committee
+
+8. Heads of Institutions of National Importance i.
+
+Director, Central Building Research Institute, Roorkee ii.
+
+Director, Centre for Snow and Avalanche Study Establishment, Chandigarh iii.
+
+Director, National Centre for Oceanic Information Services, Hyderabad iv.
+
+Director, National Fire Service College, Nagpur v.
+
+Director, National Disaster Response Force Academy, Nagpur vi.
+
+Director, GAIL Training Institute, Noida vii.
+
+Director, Wadia Institute of Himalayan Geology, Dehradun viii.
+
+Chief Controller of Explosive, Nagpur under Department of Industrial Policy & Promotion, New Delhi ix.
+
+Executive Director, National Institute of Disaster Management, New Delhi x.
+
+Executive Director, Building Materials and Technology Promotion Council xi.
+
+Director, National Remote Sensing Centre xii.
+
+Ten IITs/ NITs/ Central Universities, to be nominated by NDMA xiii.
+
+Five Medical Institutes/ hospitals, to be nominated by NDMA xiv.
+
+Five Agriculture Institutes, to be nominated by NDMA
+
+9. Persons representing industry i.
+
+President, Associated Chamber of Commerce and Industry, New Delhi. ii.
+
+President, Confederation of Indian Industry, New Delhi. iii.
+
+Director General, Federation of Indian Chambers of Commerce and Industries, New Delhi.
+
+10. Media representatives i.
+
+Principal DG, PIB ii.
+
+CEO, Prasar Bharti iii.
+
+President, Editors Guild of India representing Editors from Publications iv.
+
+President, Indian Newspaper Society v.
+
+President, National Broadcasting Association vi.
+
+President, Indian Broadcasting Federation
+
+11. Representatives of Civil Society Organizations i.
+
+Rama Krishna Mission, Kolkata ii.
+
+UNNATI, Gujarat iii.
+
+Aga Khan Foundation, New Delhi iv.
+
+Rural Volunteet Centre, Dhemaji, Assam v.
+
+Shanta memorial Rehabilitation Centre, Odisha
+
+12. International Representatives i.
+
+UN Resident Coordinator, New Delhi ii.
+
+UNDP Country Director, New Delhi iii.
+
+Representative of UNDDR iv.
+
+Country Director, World Bank v.
+
+Representative of Asian Development Bank vi.
+
+Representative of WHO
+
+13. Special Invitee i.
+
+Dr. P K Mishra, Principal Secretary to the Prime Minister ii.
+
+Any other special invitee with the permission of the Chair
+
+14. Convenor Special Secretary/ Additional Secretary/ Joint Secretary - in charge of Disaster Management Division in the Ministry of Home Affairs and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
