@@ -1,0 +1,47 @@
+---
+title: "In exercise of the powers conferred by clauses a and b of sub section 1 and in pursuance of sub section"
+gazette_id: "CG-DL-E-03032020-216527 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Ministry of Corporate Affairs"
+department: "Not Applicable"
+notification_no: "G.S.R. 151(E)"
+published: "2020-03-03"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-03.216527"
+---
+
+# In exercise of the powers conferred by clauses a and b of sub section 1 and in pursuance of sub section
+
+MINISTRY OF CORPORATE AFFAIRS NOTIFICATION New Delhi, the 2nd March, 2020 G.S.R. 151(E).—In exercise of the powers conferred by clauses (a) and (b) of sub-section (1) and in pursuance of sub-section (2) of section 462 of the Companies Act, 2013 (18 of 2013), the Central Government, in the public interest, hereby makes the following further amendments in the notification of the Government of India, in the Ministry of Corporate Affairs, number G.S.R. 463(E), dated the 5th June, 2015, published in the Gazette of India, Extraordinary, Part-II, Section 3, Subsection (i), dated the 5th June 2015, namely:In the said notification, in the Table:-
+
+(i) for serial number 1 and the entries relating thereto, the following serial numbers and entries shall be substituted, namely:-
+
+"1.
+
+Chapter I, clause (45) of section 2.
+
+In clause (45), the following Explanation shall be inserted, namely:-
+
+Explanation.- For the purposes of this clause, the "paid-up share capital" shall be construed as "total voting power", where shares with differential voting rights have been issued.
+
+1A.
+
+Chapter II, section 4.
+
+In section 4, in sub-section (1), in clause (a), the words „in the case of a public limited company, or the last words "Private Limited" in the case of a private limited company‟ shall be omitted.";
+
+(ii) for serial number 26 and the entries relating thereto, the following serial number and entries shall be substituted, namely:Shall not apply to -
+
+"26.
+
+Chapter XII, first and second proviso to subsection (1) of section
+
+188.
+
+(a) a Government company in respect of contracts or arrangements entered into by it with any other Government company, or with Central Government or any State Government or any combination thereof;
+
+(b) a Government company, other than a listed company, in respect of contracts or arrangements other than those referred to in clause (a), in case such company obtains approval of the Ministry or Department of the Central Government which is administratively in charge of the company, or, as the case may be, the State Government before entering into such contract or arrangement.".
+
+[F. No. 1/2/2014-CL-V] K.V.R. MURTY, Jt. Secy.
+
+Note : 1. A copy of this notification has been laid in draft before both Houses of Parliament as required by sub-section (2) of section 462 of the aforesaid Act.
+
+2. The principal notification was published in the Gazette of India, Extraordinary, Part II, section 3, sub-section (i) vide number G.S.R. 463(E), dated the 5th June, 2015 and was subsequently amended vide number G.S.R. 582 (E), dated the 13th June, 2017 and also vide number S.O. 802(E), dated the 23rd February, 2018. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
