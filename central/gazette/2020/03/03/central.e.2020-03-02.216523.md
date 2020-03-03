@@ -1,0 +1,115 @@
+---
+title: "In exercise of the powers conferred by section 3 of the Seeds Act 1966 54 of 1966 the Central Government hereby nominates the following persons"
+gazette_id: "CG-DL-E-03032020-216523 Download: gvGazette$ctl08$imgbtndownload"
+ministry: "Ministry of Agriculture and Farmers Welfare"
+department: "Department of Agriculture, Cooperation and Farmers Welfare"
+notification_no: "S.O. 932(E)"
+published: "2020-03-03"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-02.216523"
+---
+
+# In exercise of the powers conferred by section 3 of the Seeds Act 1966 54 of 1966 the Central Government hereby nominates the following persons
+
+MINISTRY OF AGRICULTURE AND FARMERS WELFARE (Department of Agriculture, Co-operation and Farmers Welfare) NOTIFICATION New Delhi, the 2nd March, 2020 S.O. 932(E).—In exercise of the powers conferred by section 3 of the Seeds Act, 1966 (54 of 1966), the Central Government hereby nominates the following persons as Chairman and Members and appoints the Secretary to the Central Seed Committee for a period of two years with effect from the date of publication of this notification in the Official Gazette, namely :A. Nominated under clause (i) of sub-section (2) of section 3:
+
+1. Secretary (Agriculture, Co-operation and Farmers Welfare), - Chairman Ministry of Agriculture and Farmers Welfare,
+
+(ii)] Department of Agriculture, Co-operation and Farmers Welfare, Krishi Bhawan, New Delhi-110 001.
+
+B. Nominated under clause (ii) of sub-section (2) of section 3:
+
+2. Additional Secretary (In-charge Seeds), - Member Ministry of Agriculture and Farmers Welfare, Department of Agriculture, Co-operation and Farmers Welfare, Krishi Bhawan, New Delhi-110 001.
+
+3. Agriculture Commissioner, - Member Ministry of Agriculture and Farmers Welfare, Department of Agriculture, Co-operation and Farmers Welfare, Krishi Bhawan, New Delhi-110 001.
+
+4. Deputy Director General (Horticulture), - Member Indian Council of Agricultural Research, Krishi Anusandhan Bhawan-II, Pusa, New Delhi-110 012.
+
+5. Deputy Director General (Crop Sciences), - Member Indian Council of Agricultural Research, Krishi Bhawan, Pusa, New Delhi-110 001.
+
+6. Joint Secretary (Seeds), - Member Ministry of Agriculture and Farmers Welfare, Department of Agriculture, Co-operation and Farmers Welfare, Krishi Bhawan, New Delhi-110 001.
+
+7. Chairman and Managing Director, - Member National Seeds Corporation Limited, Beej Bhawan, Pusa Complex, New Delhi-110 012.
+
+8. Representative of growers of seed - Member (Vacant)
+
+9. Representative of growers of seed - Member (Vacant) C. Nominated under clause (iii) of sub-section (2) of section 3:
+
+10. Joint Director of Agriculture (Seeds), O/o Commissioner and Director of Agriculture, - Member Govt. of Andhra Pradesh, Department of Agriculture, Guntur, Andhra Pradesh.
+
+11. Secretary (Agriculture), - Member Andaman and Nicobar Islands, Department of Agriculture, Port Blair.
+
+12. Joint Director of Agriculture, - Member Government of Arunachal Pradesh, Department of Agriculture, Itanagar, Arunachal Pradesh.
+
+13. Joint Secretary to the Government of Assam - Member and Managing Director, Assam Seed Corporation Limited, Dispur, Assam.
+
+14. Director of Agriculture, - Member Government of Bihar, Department of Agriculture, Patna, Bihar.
+
+15. A representative of the Union territory of Chandigarh, - Member District Agriculture-cum-Block Development and Panchayat Office, Chandigarh.
+
+16. Managing Director, - Member State Seed Certification Agency, Government of Chhattisgarh, Raipur, Chhattisgarh.
+
+17. A representative of the Union Territory of Dadra and Nagar Haveli - Member and Daman and Diu, Department of Agriculture, Daman.
+
+18. A representative of the Union Territory of Ladakh, - Member Department of Agriculture, Leh.
+
+19. Joint Director (Agriculture), - Member Development Department, Government of National Capital Territory of Delhi, Delhi.
+
+20. Managing Director of Gujarat - Member Land Development Corporation, Government of Gujarat, Agriculture and Co-operation Department, Krishi Bhawan, Gandhinagar, Gujarat.
+
+21. Secretary (Agriculture), - Member Department of Agriculture, Government of Goa, Panji.
+
+22. A representative of the Government of Haryana, - Member Department of Agriculture, Panchkula, Haryana.
+
+23. Director, Himachal Pradesh State Seed and - Member Organic Produce Certification Agency, Shimla, Himachal Pradesh.
+
+24. Director (Seeds and Farm), - Member Birsa Agriculture University, Kanke, Ranchi.
+
+25. Seed Certification Officer, - Member Directorate of Agriculture, Union Territory of Jammu and Kashmir, Jammu.
+
+26. Additional Director of Agriculture (Organic Farming), - Member Government of Karnataka, Department of Agriculture, Bengaluru, Karnataka.
+
+27. A representative of the Union territory - Member of Lakshadweep, Department of Agriculture, Kavarati.
+
+28. Assistant Director of Agriculture, Agriculture (P.P.M. Cell) - Member Department of Agriculture, Government of Kerala, Thiruvananthapuram, Kerala.
+
+(ii)]
+
+29. Director (Farmer's Welfare and Agriculture Department) - Member Government of Madhya Pradesh, Department of Agriculture, Bhopal, Madhya Pradesh.
+
+30. Commissioner (Agriculture), - Member Government of Maharashtra, Department of Agriculture, Pune.
+
+31. A representative of the Government of Manipur, - Member Department of Agriculture, Imphal, Manipur.
+
+32. Director of Agriculture, - Member Government of Meghalaya, Department of Agriculture, Shillong, Meghalaya.
+
+33. Director of Agriculture, - Member Government of Mizoram, Department of Agriculture, Aizwal, Mizoram.
+
+34. Director of Agriculture, - Member Directorate of Agriculture, Government of Nagaland, Kohima, Nagaland.
+
+35. Principal Secretary, - Member Agriculture Department, Government of Odisha, Bhubneshwar, Odisha.
+
+36. Chief Seed Certification Officer, - Member Puducherry Seed Certification Agency, Puducherry.
+
+37. Director of Agriculture, - Member Directorate of Agriculture, Government of Punjab, Chandigarh, Punjab.
+
+38. Director/Commissioner of Agriculture, - Member Department of Agriculture, Government of Rajasthan, Pant Krishi Bhawan, Jaipur, Rajasthan.
+
+39. Director, Food Security, - Member Agriculture Department, Government of Sikkim,
+
+40. Director of Seed Certification and Organic Certification, - Member Government of Tamil Nadu, Coimbatore, Tamil Nadu.
+
+41. Director of Agriculture, - Member Department of Agriculture, Government of Tripura, Agartala, Tripura.
+
+42. Director, - Member Telangana State Seed Organic Certification Authority, House No.5-1—193, 1st Floor, HACA Complex, Opp. Public Garden, Hyderabad-500 029.
+
+43. A representative of the Government - Member of Uttar Pradesh, Department of Agriculture, Government of Uttar Pradesh, Lucknow, Uttar Pradesh.
+
+44. Director of Agriculture, - Member Government of Uttarakhand, Directorate of Agriculture, Dehradun, Uttarakhand.
+
+45. A representative of the Government - Member of West Bengal, Department of Agriculture, Government of West Bengal, Kolkata, West Bengal.
+
+D. Appointed under sub-section (7) of section 3:
+
+46. Deputy Commissioner (Quality - Secretary Control and Certification), Ministry of Agriculture and Farmers Welfare, Department of Agriculture, Co-operation and Farmers Welfare, Shastri Bhawan, New Delhi - 110 001.
+
+[F. No. 3-57/2017-SD.IV] ASHWANI KUMAR, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
