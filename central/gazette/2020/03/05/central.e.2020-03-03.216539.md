@@ -1,0 +1,509 @@
+---
+title: "In exercise of the powers conferred by paragraphs 5 11 and 15 of the Drugs Prices Control Order"
+gazette_id: "CG-DL-E-05032020-216539 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Ministry of Chemicals and Fertilizers"
+department: "Department of Pharmaceuticals"
+notification_no: "S.O. 956(E)"
+published: "2020-03-05"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-03.216539"
+---
+
+# In exercise of the powers conferred by paragraphs 5 11 and 15 of the Drugs Prices Control Order
+
+MINISTRY OF CHEMICALS AND FERTILIZERS (Department of Pharmaceuticals) (NATIONAL PHARMACEUTICAL PRICING AUTHORITY) ORDER New Delhi, the 3rd March, 2020 S.O. 956(E).—In exercise of the powers conferred by paragraphs 5, 11 and 15 of the Drugs (Prices Control) Order, 2013, read with S.O. 1394(E) dated the 30th May, 2013 and S. O. 701(E) dated 10th March, 2016 issued by the Government of India in the Ministry of Chemicals and Fertilizers, the National Pharmaceutical Pricing Authority (hereinafter referred as NPPA), hereby fixes, the price as specified in column (6) of the table herein below as the retail price, exclusive of goods and services tax, if any, in relation to the formulation specified in the corresponding entry in column (2) of the said Table with the strength, unit and name of manufacturer & marketing company, as specified in the corresponding entries in columns (3), (4) and (5) thereof;
+
+Retail TABLE Sl.
+
+No.
+
+Name of the Formulation / Brand Strength Unit Manufacturer & Marketing Company Price Name
+
+17.48 (Rs.)
+
+1.
+
+Calcium Carbonate + Vitamin D3 + Methylcobalamine + L-Methylfolate Calcium + Pyridoxal5 Phosphate Tablet 1 Tablet M/s Eris Lifesciences Ltd.
+
+Each film coated Tablet contains:
+
+Calcium Carbonate IP 1250mg eq. to Elemental Calcium 500mg, Vitamin D3 IP 2000IU, Methylcobalamine IP 1500mcg, L-Methylfolate Calcium 1mg, Pyridoxal-5 Phosphate 20mg
+
+17.48 1 Tablet M/s Windlas Biotech Private Limited /M/s Wockhardt Limited
+
+2.
+
+Calcium + Vitamin D3 + Methylcobalamine + L-Methylfolate Calcium + Pyridoxal5 Phosphate Tablet (CC 74 Xtra) Each uncoated chewable tablet contains:
+
+Coral Calcium eq. to elemental Calcium 500mg, Vitamin D3 IP 2000IU, Mecobalamin (Methylcobalamin) IP 1500mcg, L-Methylfolate Calcium 1mg, Pyridoxal-5-phosphate 20mg
+
+3.68
+
+3.
+
+Clopidogrel + Aspirin Tablet (Clopigal-AP75) 1 Tablet M/s Rhydburg Pharmaceuticals Ltd. / M/s Galpha Laboratories Limited Each film coated tablet contains:
+
+Clopidogrel Bisulphate IP eq. to Clopidogrel 75mg, Aspirin IP 75mg
+
+10.80
+
+4.
+
+Cilnidipine + Telmisartan + Chlorthalidone Tablet Each Film Coated Tablet contains:
+
+Cilnidipine IP 10mg, Telmisartan IP 40mg, Chlorthalidone IP 6.25mg 1 Tablet M/s Pure and Cure Healthcare Pvt.
+
+Limited / M/s Torrent Pharmaceuticals Limited
+
+20.42
+
+5.
+
+Thiocolchicoside + Aceclofenac + Paracetamol Tablet 1 Tablet M/s Akums Drugs & Pharmaceuticals Ltd. / M/s Lupin Limited Each Film Coated Tablet contains:
+
+Thiocolchicoside IP 8mg, Aceclofenac IP 100mg, Paracetamol IP 325mg
+
+13.28
+
+6.
+
+Thiocolchicoside + Aceclofenac + Paracetamol Tablet 1 Tablet M/s Akums Drugs & Pharmaceuticals Ltd. / M/s Lupin Limited Each Film Coated Tablet contains:
+
+Thiocolchicoside IP 4mg, Aceclofenac IP 100mg, Paracetamol IP 325mg
+
+0.80
+
+7.
+
+Paracetamol + Chlorpheniramine + Phenylephrine Suspension 1ML M/s Hema Laboratories Pvt. Ltd. / M/s Zydus Healthcare Limited Each 5 ml suspension contains:
+
+Paracetamol IP 125mg, Chlorpheniramine Maleate IP 1mg, Phenylephrine Hydrocloride IP 5mg
+
+3.12
+
+8.
+
+Paracetamol + Chlorpheniramine + Phenylephrine oral drops 1 ML M/s Hema Laboratories Pvt. Ltd. / M/s Zydus Healthcare Limited Each ml oral drop contains:
+
+Paracetamol IP 125mg, Chlorpheniramine Maleate IP 1mg, Phenylephrine Hydrocloride IP 2.5mg
+
+11.19
+
+9.
+
+Cefixime Trihydrate + Ofloxacin Tablet Each film coated Tablet contains:
+
+Cefixime Trihydrate IP eq. to Anhydrous Cefixime 200mg, Ofloxacin IP 200mg. 1 Tablet M/s Rivpra Formulations Pvt. Ltd. / M/s Cadila Pharmaceuticals Limited
+
+54.44 1 Tablet M/s Laurus Labs Ltd. / M/s Emcure Pharmaceuticals Ltd.
+
+10.
+
+Efavirenz + Lamivudine + Tenofovir Disoproxil fumarate Tablet Each film coated tablet contains:
+
+Efavirenz IP 400mg Lamivudine IP 300mg Tenofovir Disoproxil fumarate IP 300mg eq. to Tenofovir Disoproxil 245mg
+
+4.86
+
+11.
+
+Ranitidine + Dicyclomine + Simethicone Tablet (Rantac Spas) 1 Tablet M/s Windlas Biotech Pvt. Ltd. / M/s J. B.
+
+Chemicals & Pharmaceuticals Limited Each film coated tablet contains:
+
+Ranitidine Hydrochloride IP eq to Ranitidine 150mg, Dicyclomine Hydrochloride IP 10mg, Simethicone IP 20mg,
+
+1.08 1 ML M/s Akums Drugs & Pharmaceuticals Ltd. / M/s Blue Cross Laboratories Pvt. Ltd.
+
+12.
+
+Paracetamol + Phenylephrine HCl + Chlorpheniramine Maleate + Sodium Citrate + Ammonium Chloride + Menthol Suspension (KOLQ Plus) Each 5ml suspension contains:
+
+Paracetamol IP 250mg, Phenylephrine HCl IP 5mg, Chlorpheniramine Maleate IP 2mg Sodium Citrate IP 60mg, Ammonium Chloride IP 120mg, Menthol IP 1mg Note:
+
+(a) The manufacturer of above mentioned formulations i.e. "new drug" under paragraph 2(u) of the DPCO, 2013 shall fix the retail price as specified in column (6) of the table hereinabove.
+
+(b) The manufacturer may add goods and services tax only if they have paid actually or it is payable to the Government on the retail price mentioned in column (6) of the above said table.
+
+(c) The retail price for a pack of the aforesaid formulation shall be arrived at by the concerned manufacturer in accordance with the retail price specified in column (6) of the above table as per provisions contained in paragraph 11 of the DPCO, 2013. The manufacturer shall issue a price list in Form–V from date of Notification as per paragraph 24 of the DPCO, 2013 to NPPA through IPDMS and submit a copy to State Drug Controller and dealers.
+
+(d) As per para 24(4) of DPCO 2013, every retailer and dealer shall display price list and the supplementary price list, if any, as furnished by the manufacturer, on a conspicuous part of the premises where he carries on business in a manner so as to be easily accessible to any person wishing to consult the same.
+
+(e) The above mentioned retail price is applicable only to the individual manufacturer / marketer as mentioned above i.e. who have applied for the same by submitting Form-I for price fixation / revision as stipulated under DPCO, 2013 and subject to fulfilment of all the applicable statutory requirements as laid down by the Govt. under relevant statutes/ rules, including manufacturing license permission from the Competent Authority i.e. the Central/State Licensing Authority, as may be applicable, by the
+
+(f) In case the retail price of any of the aforesaid formulations is not complied with, as per instant price notification and notes specified hereinabove, then the concerned manufacturer/marketing company shall be liable to deposit the overcharged amount along with the interest thereon under the provisions of the DPCO, 2013 read with the Essential Commodities Act, 1955.
+
+(g) Consequent to the issue of ceiling price of such formulation as specified in column (2) of the above table in this notification, the price order(s) fixing ceiling or retail price, if any, issued prior to the above said date of notification, stand(s) superseded.
+
+[PN/205/73/2020/F/F. No. 8(73)/2020/D.P./NPPA-Div.-II] PRASENJIT DAS, Assistant Director
+
+1.
+
+11.54
+
+13.18
+
+3.
+
+39.98
+
+4.
+
+42.01
+
+5.
+
+40.44
+
+6.
+
+39.98
+
+7.
+
+42.01
+
+8.
+
+40.44
+
+9.
+
+30.88
+
+10.
+
+32.45
+
+11.
+
+25.66 V I
+
+[II] ORDER New Delhi, the 3rd March, 2020 S.O. 957(E).—In exercise of the powers conferred by paragraphs 5, 11 and 15 of the Drugs (Prices Control) Order, 2013, read with S.O. 1394(E) dated the 30th May, 2013 and S.O. 701(E) dated 10th March, 2016 issued by the Government of India in the Ministry of Chemicals and Fertilizers, the National Pharmaceutical Pricing Authority (hereinafter referred as NPPA), hereby fixes, the price as specified in column (6) of the table herein below as the retail price, exclusive of goods and services tax, if any, in relation to the formulation specified in the corresponding entry in column (2) of the said Table with the strength, unit and name of manufacturer & marketing company, as specified in the corresponding entries in columns (3), (4) and (5) thereof;
+
+TABLE Name of the Strength Unit Manufacturer & Retail Price Sl.
+
+No.
+
+Marketing (Rs.) Scheduled Formulation / Company Brand Name
+
+11.54
+
+1.
+
+Remogliflozin + Metformin Tablet Each tablet contains:
+
+Remogliflozin 100 mg 1 Tablet M/s Glenmark Pharmaceuticals Ltd Metformin 500 mg
+
+13.18 Remogliflozin + Metformin Tablet 1 Tablet M/s Glenmark Pharmaceuticals Ltd Each tablet contains:
+
+Remogliflozin mg Metformin 1000 mg Each tablet contains:
+
+39.98
+
+3.
+
+Dapagliflozin + Metformin Tablet 1 Tablet M/s Sun Pharma Laboratories Ltd.
+
+Dapagliflozin 5mg Metformin 1000mg Each tablet contains:
+
+42.01
+
+4.
+
+Dapagliflozin + Metformin Tablet 1 Tablet M/s Sun Pharma Laboratories Ltd.
+
+Dapagliflozin 10mg Metformin 1000mg Each tablet contains:
+
+40.44
+
+5.
+
+Dapagliflozin + Metformin Tablet 1 Tablet M/s Sun Pharma Laboratories Ltd.
+
+Dapagliflozin 10mg Metformin 500mg Each tablet contains:
+
+39.98
+
+6.
+
+Dapagliflozin + Metformin Tablet 1 Tablet M/s Abbott Healthcare Pvt. Ltd.
+
+Dapagliflozin 5mg Metformin 1000mg Each tablet contains:
+
+42.01
+
+7.
+
+Dapagliflozin + Metformin Tablet 1 Tablet M/s Abbott Healthcare Pvt. Ltd.
+
+Dapagliflozin 10mg Metformin 1000mg Each tablet contains:
+
+40.44
+
+8.
+
+Dapagliflozin + Metformin Tablet 1 Tablet M/s Abbott Healthcare Pvt. Ltd.
+
+Dapagliflozin 10mg Metformin 500mg Each tablet contains:
+
+30.88
+
+9.
+
+Empagliflozin + Metformin Tablet Empagliflozin 12.5mg 1 Tablet Boehringer Ingelheim India Pvt. Ltd. / M/s Lupin Ltd.
+
+Metformin 500mg Each tablet contains:
+
+32.45
+
+10.
+
+Empagliflozin + Metformin Tablet Empagliflozin 12.5mg 1 Tablet Boehringer Ingelheim India Pvt. Ltd. / M/s Lupin Ltd.
+
+Metformin 1000mg Each tablet contains:
+
+25.66
+
+11.
+
+Empagliflozin + Metformin Tablet Empagliflozin 5mg 1 Tablet Boehringer Ingelheim India Pvt. Ltd. / M/s Lupin Ltd.
+
+Metformin 500mg Note:
+
+(a) The manufacturer of above mentioned formulations i.e. "new drug" under paragraph 2(u) of the DPCO, 2013 shall fix the retail price as specified in column (6) of the table hereinabove.
+
+(b) The manufacturer may add goods and services tax only if they have paid actually or it is payable to the Government on the retail price mentioned in column (6) of the above said table.
+
+(c) The retail price for a pack of the aforesaid formulation shall be arrived at by the concerned manufacturer in accordance with the retail price specified in column (6) of the above table as per provisions contained in paragraph 11 of the DPCO, 2013. The manufacturer shall issue a price list in Form–V from date of Notification as per paragraph 24 of the DPCO, 2013 to NPPA through IPDMS and submit a copy to State Drug Controller and dealers.
+
+(d) As per para 24(4) of DPCO 2013, every retailer and dealer shall display price list and the supplementary price list, if any, as furnished by the manufacturer, on a conspicuous part of the premises where he carries on business in a manner so as to be easily accessible to any person wishing to consult the same.
+
+(e) The above mentioned retail price is applicable only to the individual manufacturer / marketer as mentioned above i.e. who have applied for the same by submitting Form-I for price fixation / revision as stipulated under DPCO, 2013 and subject to fulfilment of all the applicable statutory requirements as laid down by the Govt. under relevant statutes/ rules, including manufacturing license permission from the Competent Authority i.e. the Central/State Licensing Authority, as may be applicable, by the
+
+(f) In case the retail price of any of the aforesaid formulations is not complied with, as per instant price notification and notes specified hereinabove, then the concerned manufacturer/marketing company shall be liable to deposit the overcharged amount along with the interest thereon under the provisions of the DPCO, 2013 read with the Essential Commodities Act, 1955.
+
+(g) Consequent to the issue of ceiling price of such formulation as specified in column (2) of the above table in this notification, the price order(s) fixing ceiling or retail price, if any, issued prior to the above said date of notification, stand(s) superseded.
+
+[PN/205/73/2020/F/F. No. 8(73)/2020/D.P./NPPA-Div.-II] PRASENJIT DAS, Assistant Director I I I
+
+1.
+
+0.23
+
+2.
+
+80.05 II I IIIII IIIV ORDER New Delhi, the 3rd March, 2020 S.O. 958(E).—Whereas, the Department of Pharmaceuticals (hereinafter referred as DOP) has amended Schedule I of the Drugs Price Control Order (hereinafter referred as DPCO) 2013 vide S.O. 701(E) dated 10.03.2016 based on revised National List of Essential Medicine (hereinafter referred as NLEM) 2015;
+
+02. And whereas on amendment of the list of scheduled formulations, paragraph 17 of the DPCO 2013 requires fixation of the ceiling prices of formulations (i.e. medicines) added in the Schedule I to be fixed as per the provisions of the DPCO, 2013 within a period of sixty days from the date of amendment;
+
+03. And whereas the National Pharmaceutical Pricing Authority (hereinafter referred as NPPA) initiated the process of the ceiling price fixation in March 2016. In this connection, NPPA vide its various Office Memorandums (OMs) had uploaded list of the scheduled formulations for which reference market based data required for price fixation was not available. Copies of the aforesaid OMs were also sent to Drugs Manufacturers Associations requesting for submission of market based data and whereas NPPA had also suggested the Department of Pharmaceuticals to amend DPCO 2013 so as to facilitate consideration of the State Institutional Procurement Price for such scheduled formulations where market based data are not available to facilitate ceiling price fixation;
+
+04. And whereas on the basis of inputs from the manufacturer and official data collection agency viz AIOCD AWACS in respect of certain scheduled formulations where market based prices could be traced, NPPA has fixed the ceiling prices of such scheduled formulations. NPPA has so far fixed the ceiling prices of 861 formulations on the basis of available data. However, even after a number of attempts made to obtain the relevant and reliable market based data, NPPA has not been able to fix the ceiling prices of remaining scheduled formulation for the want of requisite market data;
+
+05. And whereas, it is obligatory on the part of the NPPA to revise the ceiling prices of all the drugs notified under the Schedule I of DPCO, 2013 so as to ensure the benefit of fair and reasonable ceiling prices to the consumers of such essential medicines to protect public interest, there is a necessity to adopt alternative methods of price fixation;
+
+06. And whereas, based on the communication of Department of Pharmaceuticals (DOP) dated 05.02.2019, NPPA had taken extra efforts to collect the institutional data. Letters were issued to Director General Health Services (DGHS), Central drug procurement agencies; state drug procurement agencies, state drug controller
+
+(SDC), Central/State Government Hospitals and private Hospitals, etc in order to obtain the data from the required Institutions. NPPA had also noted the representations received from Confederation of Indian Industry
+
+(CII), New Delhi and Indian Pharmaceutical Alliance (IPA), Mumbai for providing 24% margin.
+
+07. And now, in exercise of the powers conferred by paragraphs 19 of the Drugs (Prices Control) Order, 2013, read with S.O. 1394(E) dated the 30th May, 2013 and S.O. 701(E) dated 10th March, 2016 issued by the Government of India in the Ministry of Chemicals and Fertilizers, the National Pharmaceutical Pricing Authority (hereinafter referred as NPPA) hereby fixes the prices as specified in column (5) of the table herein below as ceiling price exclusive of goods and services tax applicable, if any, in respect of the Scheduled formulations specified in the corresponding entry in column (2) of the said Table with the dosage form & strength and unit specified respectively in the corresponding entries in columns (3) and (4) thereof:
+
+TABLE Sl.
+
+No.
+
+Name of the Scheduled Formulation Dosage form & Strength Unit Ceiling Price (Rs.)
+
+3. Ferrous Salt (A) + Folic Acid (B) Tablet 100 mg elemental iron (A) + 500 mcg (B) 1 Tablet
+
+0.23
+
+4. All-trans Retinoic Acid Capsule 10 mg 1 Capsule
+
+80.05 Note:
+
+(a) All manufacturers of scheduled formulations, selling the branded or generic or both the versions of scheduled formulations at a price higher than the ceiling price (plus goods and services tax as applicable) so fixed and notified by the Government, shall revise the prices of all such formulations downward not exceeding the ceiling price specified in column (5) in the above table plus goods and services tax as applicable, if any.
+
+(b) All the existing manufacturers of above mentioned scheduled formulations having MRP lower than the ceiling price specified in column (5) in the above table plus goods and services tax as applicable, if any, shall continue to maintain the existing MRP in accordance with paragraph 13 (2) of the DPCO, 2013.
+
+(c) The manufacturers may add goods and services tax only if they have paid actually or if it is payable to the Government on the ceiling price mentioned in column (5) of the above said table.
+
+(d) The ceiling price for a pack of the scheduled formulation shall be arrived at by the concerned manufacturer in accordance with the ceiling price specified in column (5) of the above table as per provisions contained in paragraph 11 of the Drugs (Prices Control) Order, 2013. The manufacturer shall issue a price list in Form–V from date of Notification as per paragraph 24 of the DPCO, 2013 to NPPA through IPDMS and submit a copy to State Drug Controller and dealers.
+
+(e) As per para 24(4) of DPCO 2013, every retailer and dealer shall display price list and the supplementary price list, if any, as furnished by the manufacturer, on a conspicuous part of the premises where he carries on business in a manner so as to be easily accessible to any person wishing to consult the same.
+
+(f) Where an existing manufacturer of scheduled formulation with dosage or strength or both as specified in the above table launches a new drug as per paragraph 2 (u) of the DPCO, 2013 such existing manufacturer shall apply for prior price approval of such new drug to the NPPA in Form I as specified under Schedule-II of the DPCO, 2013.
+
+(g) The manufacturers of above said scheduled formulations shall furnish quarterly return to the NPPA, in respect of production / import and sale of scheduled formulations in Form-III of Schedule-II of the DPCO, 2013 through IPDMS. Any manufacturer intending to discontinue production of above said scheduled formulation shall furnish information to the NPPA, in respect of discontinuation of production and / or import of scheduled formulation in Form-IV of Schedule-II of the DPCO, 2013 at least six months prior to the intended date of discontinuation.
+
+(h) The manufacturers not complying with the ceiling price and notes specified hereinabove shall be liable to deposit the overcharged amount along with interest thereon under the provisions of the Drugs (Prices Control) Order, 2013 read with Essential Commodities Act, 1955.
+
+(i) Consequent to the issue of ceiling price of such formulation as specified in column (2) of the above table in this notification, the price order(s) fixing ceiling or retail price, if any, issued prior to the above said date of notification, stand(s) superseded.
+
+[PN/205/73/2020/F/F. No. 8(73)/2020/D.P./NPPA-Div.-II] PRASENJIT DAS, Assistant Director I I I %
+
+1. %
+
+1.69
+
+2.
+
+IV
+
+0.41
+
+3.
+
+237.98 V II I IIIII IIIV ORDER New Delhi, the 3rd March, 2020 S.O. 959(E).—Whereas, the Department of Pharmaceuticals (hereinafter referred as DOP) has amended Schedule I of the Drugs Price Control Order (hereinafter referred as DPCO) 2013 vide S.O. 701(E) dated 10.03.2016 based on revised National List of Essential Medicine (hereinafter referred as NLEM) 2015;
+
+02. And whereas on amendment of the list of scheduled formulations, paragraph 17 of the DPCO 2013 requires fixation of the ceiling prices of formulations (i.e. medicines) added in the Schedule I to be fixed as per the provisions of the DPCO, 2013 within a period of sixty days from the date of amendment;
+
+03. And whereas the National Pharmaceutical Pricing Authority (hereinafter referred as NPPA) initiated the process of the ceiling price fixation in March 2016. In this connection, NPPA vide its various Office Memorandums (OMs) had uploaded list of the scheduled formulations for which reference market based data required for price fixation was not available. Copies of the aforesaid OMs were also sent to Drugs Manufacturers Associations requesting for submission of market based data and whereas NPPA had also suggested the Department of Pharmaceuticals to amend DPCO 2013 so as to facilitate consideration of the State Institutional Procurement Price for such scheduled formulations where market based data are not available to facilitate ceiling price fixation;
+
+04. And whereas on the basis of inputs from the manufacturer and official data collection agency viz AIOCD AWACS in respect of certain scheduled formulations where market based prices could be traced, NPPA has fixed the ceiling prices of such scheduled formulations. NPPA has so far fixed the ceiling prices of 861 formulations on the basis of available data. However, even after a number of attempts made to obtain the relevant and reliable market based data, NPPA has not been able to fix the ceiling prices of remaining scheduled formulation for the want of requisite market data;
+
+05. And whereas, it is obligatory on the part of the NPPA to revise the ceiling prices of all the drugs notified under the Schedule I of DPCO, 2013 so as to ensure the benefit of fair and reasonable ceiling prices to the consumers of such essential medicines to protect public interest, there is a necessity to adopt alternative methods of price fixation;
+
+06. And whereas, based on the communication of Department of Pharmaceuticals (DOP) dated 05.02.2019, NPPA had taken extra efforts to collect the institutional data. Letters were issued to Director General Health Services (DGHS), Central drug procurement agencies; state drug procurement agencies, state drug controller
+
+(SDC), Central/State Government Hospitals and private Hospitals, etc in order to obtain the data from the required Institutions. NPPA had also noted the representations received from Confederation of Indian Industry
+
+(CII), New Delhi and Indian Pharmaceutical Alliance (IPA), Mumbai for providing 24% margin.
+
+07. And now, in exercise of the powers conferred by paragraphs 19 of the Drugs (Prices Control) Order, 2013, read with S.O. 1394(E) dated the 30th May, 2013 and S.O. 701(E) dated 10th March, 2016 issued by the Government of India in the Ministry of Chemicals and Fertilizers, and in supersession of the Order of the Government of India in the Ministry of Chemicals and Fertilizers (National Pharmaceutical Pricing Authority) No. S. O. 1486(E) dated 29.03.2019, the National Pharmaceutical Pricing Authority (hereinafter referred as NPPA) hereby fixes the prices as specified in column (5) of the table herein below as ceiling price exclusive of goods and services tax applicable, if any, in respect of the Scheduled formulations specified in the corresponding entry in column (2) of the said Table with the dosage form & strength and unit specified respectively in the corresponding entries in columns (3) and (4) thereof:
+
+TABLE Sl.
+
+No.
+
+Name of the Scheduled Formulation Per pack
+
+237.98 Dosage form & Strength Unit Ceiling Price (Rs.)
+
+1. Calcium Carbonate Tablet 500mg 1 Tablet
+
+1.69
+
+2. Ethyl Alcohol (Denatured) Solution 70% 1 ML
+
+0.41
+
+3. Daunarubicin Powder for I.V. Injection 20 mg Note:
+
+(a) All manufacturers of scheduled formulations, selling the branded or generic or both the versions of scheduled formulations at a price higher than the ceiling price (plus goods and services tax as applicable) so fixed and notified by the Government, shall revise the prices of all such formulations downward not exceeding the ceiling price specified in column (5) in the above table plus goods and services tax as applicable, if any.
+
+(b) All the existing manufacturers of above mentioned scheduled formulations having MRP lower than the ceiling price specified in column (5) in the above table plus goods and services tax as applicable, if any, shall continue to maintain the existing MRP in accordance with paragraph 13 (2) of the DPCO, 2013.
+
+(c) The manufacturers may add goods and services tax only if they have paid actually or if it is payable to the Government on the ceiling price mentioned in column (5) of the above said table.
+
+(d) The ceiling price for a pack of the scheduled formulation shall be arrived at by the concerned manufacturer in accordance with the ceiling price specified in column (5) of the above table as per provisions contained in paragraph 11 of the Drugs (Prices Control) Order, 2013. The manufacturer shall issue a price list in Form–V from date of Notification as per paragraph 24 of the DPCO, 2013 to NPPA through IPDMS and submit a copy to State Drug Controller and dealers.
+
+(e) As per para 24(4) of DPCO 2013, every retailer and dealer shall display price list and the supplementary price list, if any, as furnished by the manufacturer, on a conspicuous part of the premises where he carries on business in a manner so as to be easily accessible to any person wishing to consult the same.
+
+(f) Where an existing manufacturer of scheduled formulation with dosage or strength or both as specified in the above table launches a new drug as per paragraph 2 (u) of the DPCO, 2013 such existing manufacturer shall apply for prior price approval of such new drug to the NPPA in Form I as specified under Schedule-II of the DPCO, 2013.
+
+(g) The manufacturers of above said scheduled formulations shall furnish quarterly return to the NPPA, in respect of production / import and sale of scheduled formulations in Form-III of Schedule-II of the DPCO, 2013 through IPDMS. Any manufacturer intending to discontinue production of above said scheduled formulation shall furnish information to the NPPA, in respect of discontinuation of production and / or import of scheduled formulation in Form-IV of Schedule-II of the DPCO, 2013 at least six months prior to the intended date of discontinuation.
+
+(h) The manufacturers not complying with the ceiling price and notes specified hereinabove shall be liable to deposit the overcharged amount along with interest thereon under the provisions of the Drugs (Prices Control) Order, 2013 read with Essential Commodities Act, 1955.
+
+(i) Consequent to the issue of ceiling price of such formulation as specified in column (2) of the above table in this notification, the price order(s) fixing ceiling or retail price, if any, issued prior to the above said date of notification, stand(s) superseded.
+
+[PN/205/73/2020/F F. No. 8(73)/2020/D.P./NPPA-Div.-II] PRASENJIT DAS, Assistant Director . .
+
+23.51
+
+40.08
+
+51.07
+
+89.77 . .
+
+V II I IIIII IIIV ORDER New Delhi, the 3rd March, 2020 S. O.960 (E).—In implementation of directions given in line with review orders issued vide orders no. 31015/76/2017-Pricing dated 21.03.2018, 31015/81/2017-Pricing dated 21.03.2018, 31015/84/2017-Pricing dated 21.03.2018, 31015/82/2017-Pricing dated 21.03.2018 and 31015/79/2017-Pricing dated 21.03.2018, the matter was placed before the Multidisciplinary Committee of Experts for examination under para 11(3&4) of DPCO 2013.
+
+And whereas the Multidisciplinary Committee of Experts examined and noted that the ringer lactate injection in packages having special features have a minor innovation in the packaging like (i) self collapsibility and self-sealability (ii) not having air-vent and (iii) there is no chance of contamination during manufacture / infusion/admixing levels, which may hereinafter referred to as pack having special features.
+
+And whereas, the Multidisciplinary Committee of Experts recommended that an increase of 15% over and above the ceiling price notified for ringer lactate injection may be allowed to the products of the companies for which the review orders have been issued by Department of Pharmaceuticals.
+
+Therefore, in exercise of powers, conferred by sub paragraph (3) and (4) of paragraph 11 of the Drugs (Prices Control) Order, 2013, read with S.O. 1394(E) dated the 30th May, 2013, S.O. 1192(E) dated 22nd March, 2016 issued by the Government of India in the Ministry of Chemicals and Fertilizers in so far as it relates to ringer lactate injection in pack having special features like (i) self collapsibility and self-sealability (ii) not having air-vent and (iii) there is no chance of contamination during manufacture / infusion/admixing levels, manufactured by the manufacturers specified in Table 'B', the National Pharmaceutical Pricing Authority (hereinafter referred as NPPA) hereby fixes the price as specified in column (5) of the table 'A' herein below as ceiling price exclusive of goods and services tax applicable, if any, in respect of the Scheduled formulation specified in the corresponding entry in column (2) of the said Table with the dosage form & strength and unit/packaging specified respectively in the corresponding entries in columns (3) and (4) thereof:
+
+TABLE 'A' Name of the Scheduled Dosage form and Unit Ceiling Sl.
+
+No.
+
+Formulation Strength Price excluding GST (Rs.)
+
+23.51 Ringer lactate Injection100 ml Each 100 ml pack having special features
+
+40.08 Ringer lactate Injection 250 ml Each 250 ml pack having special features
+
+51.07 Ringer lactate Injection 500 ml Each 500 ml pack having special features
+
+89.77 Ringer lactate Injection 1000 ml Each 1000 ml pack having special features Table 'B' Sl. No.
+
+Name of Manufacturer M/s Albert David Ltd M/s Aculife Healthcare Pvt. Ltd M/s B. Braun Medical (India) Pvt. Ltd M/s Fresenius Kabi India Pvt. Ltd M/s Ostuka Pharmaceuticals India Pvt. Ltd Note:
+
+(a) All the existing manufacturers of scheduled formulations, selling the branded or generic or both the versions of scheduled formulations at a price higher than the ceiling price (plus goods and services tax as applicable) so fixed and notified by the Government, shall revise their prices of all such formulations downward not exceeding the ceiling price specified in column (5) in the above table plus local taxes as applicable, if any.
+
+(b) The manufacturers may add goods and services tax only if they have paid actually or if it is payable to the Government on the ceiling price mentioned in column (5) of the above said table.
+
+(c) The manufacturer shall issue a price list in Form-V in compliance from date of this notification as per paragraph 24 of the DPCO, 2013.
+
+(d) As per para 24(4) of DPCO 2013, every retailer and dealer shall display price list and the supplementary price list, if any, as furnished by the manufacturer, on a conspicuous part of the premises where he carries on business in a manner so as to be easily accessible to any person wishing to consult the same.
+
+(e) Any other manufacturer claiming separate ceiling price for ringer lactate injection in pack having special features like (i) self collapsibility and self-sealability (ii) not having air-vent and (iii) there is no chance of contamination during manufacture / infusion/admixing levels shall apply to NPPA for separate ceiling price approval.
+
+(f) For other special features claimed or any other pack size manufactured, the manufacturer shall approach the NPPA for specific price approval for its formulation.
+
+(g) Where an existing manufacturer of scheduled formulation with dosage or strength or both as specified in the above table, launches a new drug as per paragraph 2 (u) of the DPCO, 2013 such existing manufacturer shall apply for prior price approval of such new drug to the NPPA in Form I as specified under Schedule-II of the DPCO, 2013.
+
+(h) The manufacturers of above said scheduled formulations shall furnish quarterly return to the NPPA, in respect of production / import and sale of scheduled formulations in Form-III of Schedule-II of the DPCO, 2013.
+
+Any manufacturer intending to discontinue production of above said scheduled formulation shall furnish information to the NPPA, in respect of discontinuation of the production and / or import of scheduled formulation in Form-IV of Schedule-II of the DPCO, 2013 at least six months prior to the intended date of discontinuation.
+
+(i) The manufacturers not complying with the ceiling price and notes specified hereinabove shall be liable to deposit the overcharged amount along with interest thereon under the provisions of the Drugs (Price Control) Order, 2013 read with Essential Commodities Act, 1955.
+
+(j) Consequent to the issue of ceiling prices of such formulations for specified in column (2) of the above Table A in this notification, the price order(s) fixing ceiling or retail price, if any, issued prior to the above said date of notification, stand(s) superseded.
+
+[PN/205/73/2020/F/F.No. 8(73)/2020/D.P./NPPA-Div.II] PRASENJIT DAS, Assistant Director
+
+0.74
+
+16.
+
+0.74
+
+16.
+
+[II] ADDENDUM New Delhi, the 3rd March, 2020 S.O.961(E).—In the National Pharmaceutical Pricing Authority's notification S.O. 416(E), dated 28th January 2020 relating to the retail price, published in the Gazette of India, Extraordinary, the Entry at Sl.
+
+No. 16 of the Table, both in Hindi & English version, be read as follows :
+
+Instead of Retail Sl.
+
+No.
+
+Name of the Formulation / Brand Strength Unit Manufacturer & Marketing Company Price Name
+
+0.74 1 ml M/s Zydus Healthcare Limited (Rs.)
+
+16.
+
+Dextromethorpran Hydrobromide + Chlorpheniramine Maleate Syrup Each 5ml Syrup contains:
+
+Dextromethorpran Hydrobromide IP 10mg Chlorpheniramine Maleate IP 5mg Read as Retail Sl.
+
+No.
+
+Name of the Formulation / Brand Strength Unit Manufacturer & Marketing Company Price Name
+
+0.74 1 ml M/s Zydus Healthcare Limited (Rs.)
+
+16.
+
+Dextromethorpran Hydrobromide + Chlorpheniramine Maleate Syrup Each 5ml Syrup contains:
+
+Dextromethorpran Hydrobromide IP 10mg Chlorpheniramine Maleate IP 4mg All the notes and other contents mentioned in the original order S.O. 416(E) dated 28th January 2020 shall remain same.
+
+[PN/205/73/2020/F/F. No. 8(73)/2020/D.P./NPPA-Div.-II] PRASENJIT DAS, Assistant Director and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
