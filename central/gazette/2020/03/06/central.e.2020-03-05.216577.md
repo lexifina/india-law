@@ -1,0 +1,19 @@
+---
+title: "In pursuance of notification No 60 2015 Customs N T published vide number GSR 453 E dated 4th June 2015 in Gazette of India"
+gazette_id: "CG-DL-E-06032020-216577 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "S.O.981(E)"
+published: "2020-03-06"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-05.216577"
+---
+
+# In pursuance of notification No 60 2015 Customs N T published vide number GSR 453 E dated 4th June 2015 in Gazette of India
+
+MINISTRY OF FINANCE (Department of Revenue) (CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS) (DIRECTORATE OF REVENUE INTELLIGENCE) NOTIFICATION New Delhi, the 3rd March, 2020 No. 17/2020-Customs (N.T./CAA/DRI) S.O.981(E).—In pursuance of notification No. 60/2015-Customs (N.T.), published vide number G.S.R. 453(E), dated 4th June 2015 in Gazette of India, Extra-ordinary, Part-II, section 3, sub-section (i), and as amended by notification No. 133/2015-Customs (N.T.), published vide number G.S.R. 916(E) dated 30th November 2015 in Gazette of India, Extra-ordinary, Part-II, section 3, sub-section (i), issued by the Government of India, Ministry of Finance, Department of Revenue, under clause (a) of section 152 of the Customs Act, 1962 (52 of 1962), the Director General, Revenue Intelligence, hereby makes the following amendment in the Notification No. 13/2020-Customs (N.T./CAA/DRI) dated 03.02.2020 published vide S.O. 562 (E) dated 04.02.2020.
+
+In the Table to the said notification, against serial number 10, in column 3 for the existing entry,
+
+"F. No. DRI/MZU/CI/Int-41/2016-Pt.I dated 20.12.2019 read with corrigendum dated 10.02.2020" shall be substituted.
+
+[F. No. DRI/HQ-CI/50D/CAA-51/2019-CI] PARAS MAL SANKHLA, Jt. Director and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
