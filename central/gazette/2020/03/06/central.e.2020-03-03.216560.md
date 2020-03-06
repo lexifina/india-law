@@ -1,0 +1,21 @@
+---
+title: "In exercise of the powers conferred by sub clause ii of clause e of section 3 of the Insecticides Act,"
+gazette_id: "CG-DL-E-06032020-216560 Download: gvGazette$ctl10$imgbtndownload"
+ministry: "Ministry of Agriculture and Farmers Welfare"
+department: "Department of Agriculture, Cooperation and Farmers Welfare"
+notification_no: "S.O. 954(E)"
+published: "2020-03-06"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-03.216560"
+---
+
+# In exercise of the powers conferred by sub clause ii of clause e of section 3 of the Insecticides Act,
+
+MINISTRY OF AGRICULTURE AND FARMERS WELFARE (Department of Agriculture, Co-operation and Farmers Welfare) NOTIFICATION New Delhi, the 2nd March, 2020 S.O. 954(E).—In exercise of the powers conferred by sub-clause (ii) of clause (e) of section 3 of the Insecticides Act, 1968 (46 of 1968), the Central Government, after consultation with the Central Insecticide Board, hereby makes the following amendment in the list of existing insecticides included in the Schedule to the said Act, namely:In the Schedule to said Act, for the words "Florpyauxifen-benzyl", the words
+
+"Florpyrauxifen-benzyl" shall be substituted.
+
+[F. No. 13035/19/2015-PP-I] ATISH CHANDRA, Jt. Secy.
+
+Note.- The Principal notification was published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 9(E), dated the 9th January, 1974 and subsequently amended vide the following:G.S.R. 823(E), dated the 28th September, 1976, G.S.R. 200(E), dated the 29th March, 1978, G.S.R. 574(E), dated the 6th October, 1979, G.S.R. 32(E), dated the 12th February, 1980, G.S.R. 501(E), dated the 17th July, 1982, G.S.R. 500(E), dated the 18th June, 1985, G.S.R. 839(E), dated the 14th November, 1985, G.S.R. 31(E), dated the 15th January, 1987, G.S.R. 511(E), dated the 22nd May, 1987, G.S.R.. 858(E), dated the 12th August, 1988, G.S.R.. 13(E), dated the 5th January, 1990, G.S.R.. 987(E), dated the 20th December, 1990, G.S.R. 576(E), dated the 26th August, 1993, G.S.R. 577(E), dated the 26th August, 1993, G.S.R. 730(E), dated the 30th October, 1995, G.S.R. 10(E), dated the 3rd January, 1996, G.S.R. 538(E), dated the 21st November, 1996, G.S.R. 621(E), dated the 27th October, 1997, G.S.R. 224(E), dated the 26th March, 1999, G.S.R. 672(E), dated the 28th September, 1999, G.S.R. 868(E), dated the 15th November, 2000, G.S.R. 69(E), dated the 5th February, 2001, G.S.R. 181(E), dated the 13th March, 2001, G.S.R. 291(E), dated the 19th April, 2002, G.S.R. 772(E), dated the 18th November, 2002, G.S.R. 523(E), dated the 3rd July, 2003, G.S.R. 378(E), dated the 24th June, 2004, G.S.R. 744(E), dated the 16th November, 2004, G.S.R. 198(E), dated the 31st March, 2005, G.S.R. 651(E), dated the 31st October, 2005, G.S.R. 51(E), dated the 6th February, 2006, G.S.R. 683(E), dated the 31st October, 2006, G.S.R. 631(E), dated the 28th September, 2007, G.S.R. 650(E), dated the 11th September, 2008, G.S.R. 799(E), dated the 19th November, 2008, G.S.R. 384(E), dated the 4th June, 2009, G.S.R. 5(E), dated the 5th January, 2010, G.S.R. 316(E), dated the 13th April, 2010, G.S.R. 764(E),dated the 15th September, 2010, G.S.R. 400(E), dated the 25th May, 2011 , G.S.R. 908(E), dated the 29th December, 2011, G.S.R. 380 (E), dated the 24th May, 2012, G.S.R. 111 (E), dated the 20th February, 2013 , G.S.R. 446 (E), dated the 28th June, 2013, G.S.R. 313(E), dated the 6th May, 2014, G.S.R. 790 (E), dated the 11th November, 2014, S.O. 3385(E), dated 27th October, 2016, S.O. 3304(E), dated 6th October, 2017, S.O. 45(E), dated 4th January, 2019, S.O. 1767 (E) dated 17th May, 2019 and S.O. 296(E) dated 22nd January, 2020 and Published by the Controller of Publications, Delhi-110054.
+
+ALOK KUMAR
