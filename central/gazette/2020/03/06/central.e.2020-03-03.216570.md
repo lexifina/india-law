@@ -1,0 +1,36 @@
+---
+title: "In exercise of the powers conferred by Section 49 of the Major Port Trusts Act, 1963"
+gazette_id: "CG-MH-E-06032020-216570 Download: gvGazette$ctl07$imgbtndownload"
+ministry: "Tariff Authority for Major Ports"
+department: "Not Applicable"
+published: "2020-03-06"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-03.216570"
+---
+
+# In exercise of the powers conferred by Section 49 of the Major Port Trusts Act, 1963
+
+TARIFF AUTHORITY FOR MAJOR PORTS NOTIFICATION Mumbai, the 24th February, 2020 No. TAMP/56/2014-CHPT.—In exercise of the powers conferred by Section 49 of the Major Port Trusts Act, 1963 (38 of 1963), the Tariff Authority for Major Ports hereby extends the validity of the Schedule of rate
+
+(SOR) for Chennai Port Trust (CHPT) estate, as in the Order appended hereto.
+
+Tariff Authority for Major Ports Case No. TAMP/56/2014-CHPT Chennai Port Trust —Applicant QUORUM
+
+(i) Shri T.S. Balasubramanian, Member (Finance)
+
+(ii) Shri Rajat Sachar, Member (Economic) ORDER (Passed on this 20th day of February 2020) This case relates to a proposal received from Chennai Port Trust (CHPT) for extension of the validity of estate rentals of CHPT.
+
+2. The schedule of estate rentals of CHPT was last approved by this Authority vide Order No. TAMP/56/2014-CHPT dated 20 December 2014. This Order was notified in the Gazette of India on 9 January 2015 vide Gazette No 13. The Schedule of rate (SOR) approved for CHPT estate came into effect after expiry of 15 days from the date of notification of the Order in the Gazette i.e. from 24 January 2015 and was valid for a period of 5 years i.e. up to 23 January 2020.
+
+3. In this backdrop, the CHPT vide its letter no. A.O. (SoR)/Estate Rental/2019/F dated 6 February 2020 has conveyed that valuation of lands and buildings by engaging approved valuer has been completed and the proposal for revision of SOR for CHPT estate is under process and will be filed shortly. Hence, the CHPT has requested to extend the validity of the existing SOR for CHPT estate with 5% annual escalation for a period of 3 months or till effective date of implementation of revised SOR whichever is earlier.
+
+4. Since the validity of the existing SOR of CHPT has already expired on 23 January 2020 and considering the time required for processing the proposal to be received from the CHPT for revision of SOR of Estate and in order to avoid a vacuum in the SOR of CHPT, it is felt appropriate to extend the validity of the existing SOR for further period of 3 months or till effective date of implementation of revised SOR whichever is earlier.
+
+5. In view of the above, this Authority is inclined to extend the validity of the existing SOR of CHPT estate for a period of 3 months or till the effective date of implementation of the revised SOR, whichever is earlier, as requested by CHPT.
+
+6. Further, the existing Rent Schedule for the CHPT estate already prescribes an annual escalation @ 5% in the rentals, based on the stipulation contained in the Land Policy Guidelines of 2014. Therefore, the said annual escalation @ 5% shall continue to apply during the extended validity period of the Rent Schedule for the estate of CHPT.
+
+7. In the result, and for the reasons given above and based on the collective application of mind, this Authority extends the validity of the existing SOR for estate of CHPT till 23 April 2020 or till the effective date of implementation of the revised SOR based on the proposal to be filed by CHPT, whichever is earlier. The CHPT is advised to file its proposal for revision of its estate rentals latest by 13 March 2020. The annual escalation of 5 % in the rentals shall continue to apply during the extended validity period.
+
+T.S. BALASUBRAMANIAN, Member (Finance)
+
+[ADVT.-III/4/Exty./477/19] and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
