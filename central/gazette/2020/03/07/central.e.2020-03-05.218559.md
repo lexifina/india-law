@@ -1,0 +1,53 @@
+---
+title: "In exercise of the powers conferred by the proviso to article 309 of the Constitution the President hereby makes the following rules"
+gazette_id: "CG-DL-E-07032020-218559 Download: gvGazette$ctl04$imgbtndownload"
+ministry: "Ministry of Communications"
+department: "Department of Posts"
+notification_no: "G.S.R. 157(E)"
+published: "2020-03-07"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-05.218559"
+---
+
+# In exercise of the powers conferred by the proviso to article 309 of the Constitution the President hereby makes the following rules
+
+MINISTRY OF COMMUNICATIONS (Department of Posts) NOTIFICATION New Delhi, the 5th March, 2020 G.S.R. 157(E).—In exercise of the powers conferred by the proviso to article 309 of the Constitution, the President hereby makes the following rules to amend the Department of Posts Postman and Mail Guard (Group ‗C' post) Recruitment Rules, 2018, namely:-
+
+1. Short title and commencement.– These rules may be called the Department of Posts Postman and Mail Guard (Group ‗C' post) Recruitment (Amendment) Rules, 2020.
+
+They shall come into force on the date of their publication in the Official Gazette.
+
+2.
+
+In the Department of Posts Postman and Mail Guard (Group ‗C' post) Recruitment Rules, 2018, in the
+
+SCHEDULE,–
+
+(A) in serial number 1 relating to the post of Postman, under column (7), for the existing entries, the following entries shall be substituted, namely:―(a) 12th standard pass from a recognised Board;
+
+(b) 10th standard pass from a recognised Board for the persons who are working as Gramin Dak Sevak.
+
+The candidate shall also possess the following, namely:-
+
+(i) knowledge of local language of the concerned Postal Circle or Division and the candidate should have studied local language upto 10th standard.
+
+(ii) knowledge of working on computer.
+
+Note 1: The local language of a Postal Circle or Division shall be published by the Department of Posts.
+
+Note 2: The person appointed to the post of Postman shall acquire a driving licence to drive two wheeler or three wheeler or light motor vehicle within a period of two years from the date of his appointment. However, persons with disability shall be exempted from the requirement of driving licence.
+
+Note 3: A candidate not having valid driving license at the time of appointment shall not earn periodical increment in pay till production of such license or for a period of five years from the date of appointment whichever is earlier and after production of such license or expiry of such five years period, pay shall be restored prospectively to the level pay would have reached had the periodical increment in pay was not withheld and no arrears of pay shall be paid for the intervening period.";
+
+(B) in serial number 2 relating to the post of Mail Guard, under column (7), for the existing entries, the following entries shall be substituted, namely:―(a) 12th standard pass from a recognised Board;
+
+(b) 10th standard pass from a recognised Board for the persons who are working as Gramin Dak Sevak.
+
+The candidate shall also possess the following, namely:-
+
+(i) knowledge of local language of the concerned Postal Circle or Division and the candidate should have studied local language up to 10th standard;
+
+(ii) knowledge of working on computer.
+
+Note: The local language of a Postal Circle or Division shall be published by the Department of Posts.‖.
+
+[F. No. 03-02/2017-SPN-I] SATYA NARAYANA DASH, Director (SPN) Footnote: - The principal notification was published in the Gazette of India, Extraordinary, Part-II, Section 3, Sub-section (i), vide number G.S.R. 899(E), dated the 20th September, 2018. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
