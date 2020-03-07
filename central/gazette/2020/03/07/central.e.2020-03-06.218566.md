@@ -1,0 +1,18 @@
+---
+title: "In pursuance of section 21 and in exercise of the powers conferred by sub section 1 of section 22 of the Representation of the People Act"
+gazette_id: "CG-DL-E-07032020-218566 Download: gvGazette$ctl04$imgbtndownload"
+ministry: "Election Commission of India"
+department: "Not Applicable"
+published: "2020-03-07"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-06.218566"
+---
+
+# In pursuance of section 21 and in exercise of the powers conferred by sub section 1 of section 22 of the Representation of the People Act
+
+ELECTION COMMISSION OF INDIA NOTIFICATION New Delhi, the 6th March, 2020 O.N. 5(E).— In pursuance of section 21, and in exercise of the powers conferred by sub-section (1) of section 22, of the Representation of the People Act, 1951 (43 of 1951), the Election Commission of India, in consultation with the Government of the State of Haryana, hereby-
+
+(i) designates the officer, specified in column (1) of the TABLE below, to be the Returning Officer; and
+
+(ii) appoints the officer, specified in column (2) of the said TABLE, to be the Assistant Returning Officer to assist the Returning Officer in the performance of his functions; in respect of the bye-election to the Council of States, to be held in the State in pursuance of the Commission's Notification, published in the Gazette of India on 06th March, 2020: - TABLE Officer Designated as Returning Officer Officer Appointed as Assistant Returning Officer Sh. Naren Dutt, Joint Secretary, Haryana Legislative Assembly Sh. Ajit Balaji Joshi, IAS, Director General, Higher and Technical Education, Haryana and Secretary to Govt. Haryana, Higher and Technical Education Department
+
+[No. 100/CS-HR/01/2020(2)] By Order, SUMAN KUMAR DAS, Secy. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
