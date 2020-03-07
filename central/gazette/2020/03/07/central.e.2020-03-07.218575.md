@@ -1,0 +1,45 @@
+---
+title: "And whereas, on the basis of aforesaid findings of the designated authority,"
+gazette_id: "CG-DL-E-07032020-218575 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Department of Revenue"
+notification_no: "G.S.R. 164(E)"
+published: "2020-03-07"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-07.218575"
+---
+
+# And whereas, on the basis of aforesaid findings of the designated authority,
+
+MINISTRY OF FINANCE (Department of Revenue) NOTIFICATION New Delhi, the 7th March, 2020 No. 05/2020-Customs (ADD) G.S.R. 164(E).—Whereas, in the matter of import of 'Chlorinated Polyvinyl Chloride Resin
+
+(CPVC)-whether or not further processed into compound' (hereinafter referred to as the subject goods), falling under heading 3904 of the First Schedule to the Customs Tariff Act, 1975 (51 of 1975) (hereinafter referred to as the said Customs Tariff Act), originating in, or exported from China PR and Korea RP (hereinafter referred to as the subject countries) and imported into India, the designated authority vide its preliminary findings No. 6/3/2019-DGTR, dated the 12th July, 2019, published in the Gazette of India, Extraordinary, Part I, Section 1, dated the 12th July, 2019, had recommended imposition of provisional anti-dumping duty on the imports of subject goods, originating in or exported from subject countries;
+
+And whereas, on the basis of aforesaid findings of the designated authority, the Central Government had imposed provisional anti-dumping duty on the subject goods vide notification of the Government of India in the Ministry of Finance (Department of Revenue), No. 33/2019-Customs
+
+(ADD), dated the 26th August, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G. S. R. 600 (E), dated the 26th August, 2019;
+
+And whereas, the designated authority in its final findings vide notification No. 6/3/2019DGTR, dated the 19th February, 2020, published in the Gazette of India, Extraordinary, Part I, Section 1, dated the 19th February, 2020, has come to conclusion that-
+
+(i) the product under consideration has been exported to India from the subject countries below normal value;
+
+(ii) such dumped imports of the subject goods from the subject countries have caused material retardation to the establishment of the domestic industry; and has recommended imposition of definitive anti-dumping duty equal to the lesser of the margin of dumping and the margin of injury, so as to remove the injury to the domestic industry;
+
+Now, therefore, in exercise of the powers conferred by sub-sections (1) and (5) of section 9A of the said Customs Tariff Act, read with rules 18 and 20 of the Customs Tariff (Identification, Assessment and Collection of Anti-dumping Duty on Dumped Articles and for Determination of Injury) Rules, 1995, the Central Government, on the basis of the aforesaid final findings of the designated authority, hereby imposes on the subject goods, the description of which is specified in column (3) of the Duty Table below, falling under tariff items of the First Schedule to the said Customs Tariff Act as specified in the corresponding entry in column (2), originating in the countries as specified in the corresponding entry in column (4), and exported from the countries as specified in the corresponding entry in column (5), produced by the producers as specified in the corresponding entry in column (6), having specifications as specified in the corresponding entry in column (7), and imported into India, a definitive anti-dumping duty at the rate equal to the difference between the landed value of the subject goods and the amount, currency and per unit of measurement as specified in the corresponding entry in column (8) provided that the landed value is less than the amount indicated in column (8), of the said Duty Table:Duty Table S.No.
+
+HS Code Description of goods Country of origin Country of Export Producer Specification Amount in USD/MT CPVC Resin 2,087 China PR Any country including China PR Shandong Gaoxin Chemical Co Ltd., 2,717 CPVC Compound 1A 3904 10 10 3904 10 20 3904 10 90 3904 21 00 3904 22 00 3904 90 10 3904 90 90 Chlorinated Polyvinyl Chloride Resin
+
+(CPVC) - whether or not further processed into compound 1B China PR Any country including China PR CPVC Resin 2,053 Shandong Pujie rubber and plastic Co. Ltd., 2A China PR Any country including China PR 2,853 CPVC Compound 2B China PR Any country including China PR CPVC Resin 2,045 3A China PR Any country including China PR Shandong XiangshengNew Materials Technology Co., Ltd., 2,853 CPVC Compound 3B China PR Any country including China PR CPVC Resin 2,025 4A China PR Any country including China PR Weifang Sundow Chemical Co.
+
+Ltd., 2,853 CPVC Compound 4B China PR Any country including China PR CPVC Resin 2,057 Shandong Xuye New Materials Co. Ltd., 5A China PR Any country including China PR 2,657 CPVC Compound 5B China PR Any country including China PR CPVC Resin 2,161 6A China PR Any country including China PR Any Producer other than mentioned above 2,853 6B CPVC Compound China PR Any CPVC Resin 2,161 7A Any country other than China PR and Korea 2,853 7B RP CPVC Compound Any Producer CPVC Resin 2,024 2,853 8B CPVC Compound 8A Korea RP Any country including Korea PR Korea RP Any Producer CPVC Resin 2,024 2,853 9B CPVC Compound 9A Any country other than China PR and Korea RP
+
+2.
+
+The anti-dumping duty imposed under this notification shall be effective for a period of 5 years (unless revoked, amended or superseded earlier) from the date of imposition of the provisional anti-dumping duty, that is, the 26th August, 2019 and shall be payable in Indian currency:
+
+Provided that the said anti-dumping duty shall not be levied for the period commencing from the date of the lapse of the provisional anti-dumping duty, that is the 26th February, 2020 up to the preceding day of the publication of this notification in the Official Gazette.
+
+Explanation 1.- For the purposes of this notification, rate of exchange applicable for the purposes of calculation of such anti-dumping duty shall be the rate which is specified in the notification of the Government of India, in the Ministry of Finance (Department of Revenue), issued from time to time, in exercise of the powers conferred by section 14 of the Customs Act, 1962 (52 of 1962), and the relevant date for the determination of the rate of exchange shall be the date of presentation of the bill of entry under section 46 of the said Customs Act.
+
+Explanation 2. - The landed value of imports for the purpose of this notification shall be the assessable value as determined by the Customs under Customs Act, 1962 and applicable level of customs duties except duties levied under Section 3, 8B, 9, 9A of the said Customs Tariff Act.
+
+[F. No. 354/110/2019–TRU] GAURAV SINGH, Dy. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA
