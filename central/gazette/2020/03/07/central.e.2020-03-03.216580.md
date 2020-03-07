@@ -1,0 +1,408 @@
+---
+title: "In exercise of the powers conferred by Section 49 of the Major Port Trusts Act"
+gazette_id: "CG-MH-E-07032020-216580 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Tariff Authority for Major Ports"
+department: "Not Applicable"
+published: "2020-03-07"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-03.216580"
+---
+
+# In exercise of the powers conferred by Section 49 of the Major Port Trusts Act
+
+TARIFF AUTHORITY FOR MAJOR PORTS NOTIFICATION Mumbai, the 25th February, 2020 No. TAMP/48/2019-CHPT.—In exercise of the powers conferred by Section 49 of the Major Port Trusts Act, 1963 (38 of 1963), the Tariff Authority for Major Ports hereby disposes of the proposal received from the Chennai Port Trust for revision of land lease charges for the land acquired by the port at Mappedu near Sriperumbudur, as in the Order appended hereto.
+
+TARIFF AUTHORITY FOR MAJOR PORTS Case No. TAMP/48/2019-CHPT Chennai Port Trust - - - Applicant QUORUM
+
+(i).
+
+Shri. T.S. Balasubramanian, Member (Finance)
+
+(ii).
+
+Shri. Rajat Sachar, Member (Economic) O R D E R (Passed on this 20th day of February 2020) This case relates to a proposal received from Chennai Port Trust (CHPT) for revision of land lease charges for the land acquired by the port at Mappedu near Sriperumbudur.
+
+2. The lease rent for CHPT lands at Sriperumbudur was fixed for the first time vide Order No. TAMP/64/2012CHPT dated 24 January 2013 at `.1078/- per 100 sqm per month. This Order was notified in the Gazette of India on 21 March 2013 vide Gazette No.76. The lease rent had come into effect on 20 April 2013 and was valid for a period of five years i.e. till 19 April 2018.
+
+3. When no proposal was received from CHPT for revision of lease rent for the period beyond 19 April 2018, even after the expiry of the validity of the lease rent, the CHPT was requested vide letter no. TAMP/64/2012CHPT dated 31 October 2018 to file its proposal, following the Land Policy Guidelines of 2014.
+
+4.1. In this backdrop, the CHPT vide its letter No. MP4/7089/07/E dated 11 September 2019 has filed a proposal for revision of land lease charges for the land at Mappedu near Sriperumbudur. The submissions made by CHPT in its proposal dated 11 September 2019 are summarised below:
+
+(i).
+
+The CHPT had acquired 121.74 acres of land at Mappedu near Sriperumbudur from State Industries Promotion Corporation of Tamil Nadu (SIPCOT) on 99 years lease basis for development of Dry Port and Multimodal Logistics Hub on Build Operate and Transfer (BOT) Basis under PPP model.
+
+(ii).
+
+Accordingly, the land lease charges for the said land has been fixed by TAMP vide notification G.No. 76 dated 21.03.2013, in accordance with Land Policy Guidelines, 2010, at `.1078/- per 100 sq.m. per month, subject to the condition that the rate is to be escalated by 2% per annum and also subject to revision every five years.
+
+(iii).
+
+The said rent schedule came into effect after expiry of 30 days from the date of notification of the order in the Gazette of India and remained in force till April, 2018.
+
+(iv).
+
+In order to revise the rent schedule (license fee for the development of land at Mappedu), the land lease charges have been worked out under various factors prescribed under clause 13(a) of the Policy Guidelines for Land Management by Major Ports, 2015.
+
+(v).
+
+The CHPT has furnished the detailed workings for determination of land rentals for the land at Sriperumbudur under each options, as given below : ` 58956000 Extent of land to be leased is 14.96 Acres and 34.17 Acres
+
+49.13 Acres Lease period 30 years Sub lease Charge to be paid to SIPCOT for the land to an extent of 49.13 Acres (@0.5% of the original cost [(973920000/121.74) x 0.5%] i.e. `.40,000/- per Acre per year) =
+
+2000000.00 Expenditure incurred by Port for the Land till date Amount in ` DPR Consultant WAPCOS
+
+2850000.00 Tariff Consultant, IMU
+
+550000.00 FA & TA Ernest & Young
+
+4700000.00 Expenditure towards security arrangements to be paid to SIPCOT. (Two security personnel @ ` 600/- per day i.e. 600x30x12x8yrs) = ` 17,28,000/- ` 20,00,000/- approx..
+
+Expenditure proposed to be incurred by Port for Security arrangements
+
+1131000.00
+
+206.89 Construction of proposed Compound wall
+
+1000000.00 Additional expenditure incurred towards the land [4+5+6+7+8+9]
+
+12231000.00 Additional expenditure incurred towards the land per Acre
+
+100468.21 Additional expenditure incurred towards the land per Sq.m/year
+
+24.83 Additional expenditure incurred towards the land per Sq.m/month
+
+2.07 Total Additional expenditure incurred towards the land per 100 Sq.m/month in `. i. Factor – I – state Government ready Reckoner Amount in ` Government Guideline Value of the Plot of Land (per sq.m)
+
+1445.00 Lease Rental @ 6%
+
+86.70 Lease Rental per Sq. m. per month (Gv x 6%)/12
+
+7.23 Lease rental per 100 Sq m per month
+
+723.00 Total Additional expenditure incurred towards the land per 100 Sq.m/ month
+
+206.89 Total
+
+929.89 ii. Factor-II Highest rate of actual transaction registered in the last three years in the Vicinity of Mappedu Transaction for last 3 years (2017-2019) Year of transaction 2019 `.
+
+205.00 Sale value of the plot of land (Per Sq.ft) (Highest rate of actual Transaction)
+
+8929800.00 Sale value of the plot of land (Per Sq.m) (Highest rate of actual Transaction (205 x sale value of the plot of land (per acre) Highest rate of actual sale value 2019 (per acre)
+
+8929800.00 Highest rate of actual sale value of 2019 (per sq.m)
+
+2206.60 Lease Rental @ 6%
+
+132.40 Lease Rental per Sq. per month
+
+11.03 Lease Rental per 100 sq.m per month
+
+1103.30 Total Additional Expenditure incurred towards the land per 100 sq.m /month
+
+206.89 `.
+
+Total
+
+1310.19 iii. Factor – III Highest accepted tender-cum-auction rate of Port land for similar transactions Highest accepted tender-cum-auction rate as on 2014 for similar transaction
+
+1454.00 After escalation @ 2% for the year 2015
+
+1483.08 After Escalation @ 2% for the year 2016
+
+1512.74 After Escalation @ 2% for the year 2017
+
+1543.00 After Escalation @ 2% for the year 2018
+
+1573.86 After Escalation @ 2% for the year 2019
+
+1605.33 Lease rental per 100 sq. m per month
+
+1605.33 Total additional expenditure incurred towards the land
+
+206.89 Total
+
+1812.22 iv. Factor- IV rate arrived by an approved value NA v. Factor – V- Any other relevant factor that may be identified by the port
+
+2000000.00 a) Actual Cost of acquisition of land on lease from SIPCOT ` Actual cost of 121.74 acres of land in the year
+
+973920000.00 Stamp duty
+
+19478400.00 Registration
+
+23100.00 Cost of 121.74 acres of land
+
+993421500.00 Cost of land after escalation @ 2% for the year 2011
+
+1013289930.00 Cost of land after escalation @ 2% for the year 2012
+
+1033555728.60 Cost of land after escalation @ 2% for the year 2013
+
+1054226843.17 Cost of land after escalation @ 2% for the year 2014
+
+1075311380.04 Cost of land after escalation @ 2% for the year 2015
+
+1096817607.64 Cost of land after escalation @ 2% for the year 2016
+
+1118753959.79 Cost of land after escalation @ 2% or the year 2017
+
+1141129038.98 Cost of land after escalation @ 2% or the year 2018
+
+1163951619.76 Cost of land after escalation @ 2% or the year 2019
+
+1187230652.16 Expenditure to be incurred towards security arrangements (Two security personnel @ ` 600/- per day i.e.
+
+Expenditure proposed to be incurred by Port for security
+
+1131000.00 DPR Consultant WAPCOS
+
+2850000.00 Tariff Consultant, IMU
+
+550000.00 FA & TA Ernst and Young
+
+4700000.00 Construction of proposed Compound wall
+
+1000000.00 Cost of land per acre
+
+9852650.34 Cost of land per Sqm
+
+2434.64 Lease Rental @ 6% per annum
+
+146.08 Lease Rental per sq.m per month
+
+12.17 Lease Rental per 100 sq.m per month
+
+1217.32 b) TAMP rate for Dry port vicinity `.
+
+TAMP rate as on 2013 for 100 Sqm pre month Cost of land after escalation @ 2% for the year 2014
+
+1099.56 Cost of land after escalation @ 2% for the year 2015
+
+1121.55 Cost of land after escalation @ 2% for the year 2016
+
+1143.98 Cost of land after escalation @ 2% for the year 2017
+
+1166.86 Cost of land after escalation @ 2% for the year 2018
+
+1190.20 Cost of land after escalation @ 2% for the year 2019
+
+1214.00 Lease rent per 100 sq.m per month
+
+1214.00 Total additional Expenditure incurred towards the land
+
+206.89 Total
+
+1420.89
+
+(v).
+
+The Land Allotment Committee (LAC) has recommended for the rate of `.1420.89 per 100 sq.m. or part thereof per calendar month or part thereof, as per factor V, i.e. any other relevant factor as is identified by the LAC in accordance with clause 13 (b) of the Policy Guidelines for Land Management by Major Ports, 2015. A copy of the minutes of the LAC meeting held on 20.06.2019 is furnished.
+
+(vi).
+
+The matter was placed before the Chennai Port Board in its meeting held on 26.08.2019. The CHPT Board has approved to fix the rent schedule @ `.1420.89 per 100 sq.m per calendar month for allotment of land at Mappedu as on 01.04.2019 and to forward the proposal to TAMP for its approval.
+
+4.2.
+
+Thus, the CHPT has requested to approve the revised rent schedule of ` 1420.89 per 100 sq.m. or part thereof per calendar month or part thereof for allotment of land at Mappedu, Sriperumbudur, as per the Draft Rent Schedule given below: ― Rent Schedule for the allotment of land at Mappedu, Sriperumbudur Item Description of Unit License Fee No.
+
+Space ` 1420.89 per calendar month or part thereof
+
+1.
+
+Open space 100 sq.m. or part thereof Notes :
+
+(i).
+
+The above land area was acquired by the port on long term lease from SIPCOT.
+
+Since, the land has been taken by the Port on lease basis from SIPCOT any charges levied by SIPCOT shall be borne by the Allottee proportionately.
+
+(ii).
+
+The Allottee shall use the land allotted for the purpose for which it is intended.
+
+(iii).
+
+The General Note and conditions for Licensing of space application for allotment of port lands prevailing in the existing scale of rates will be applicable for the above said land to the extent possible.
+
+(iv).
+
+The rate is subject to revision every five years.
+
+(v).
+
+The rate is to be escalated by 5% per annum.
+
+4.3. The CHPT vide its letter dated 04 October 2019 has furnished a copy of the Board Resolution No. 51 dated 26 August 2019.
+
+5. In accordance to the consultative procedure followed, a copy of the CHPT proposal dated 11 September 2019 was forwarded to the relevant users/ user organisations including additional users/ user organisations / ICD / CFS, as suggested by CHPT for their comments. None of the users except for Federation of Indian Export Organisations (FIEO) which has furnished its comments. A copy of the comments received from the FIEO was forwarded to the CHPT as feedback information. The CHPT has responded to the comments of the FIEO vide its letter dated 23 January 2020.
+
+6. A joint hearing on the case in reference was held on 17 December 2019 at the CHPT premises. The CHPT made a power point presentation of its proposal. At the joint hearing, CHPT and users / user organisations have made their submissions.
+
+7. The proceedings relating to consultation in this case are available on records at the office of this Authority.
+
+An excerpt of the comments received and arguments made by the concerned parties will be sent separately to the relevant parties. These details will also be made available at our website http://tariffauthority.gov.in.
+
+8. With reference to the totality of the information collected during the processing of the case, the following position emerges:
+
+(i).
+
+In the year 2012, the CHPT had acquired 121.74 acres of land at Sriperumbudur from the State Industries Promotion Corporation of Tamilnadu (SIPCOT) on 99 years lease basis, to be allotted by the CHPT to the Concessionaire who would be developing and operating the Dry Port under Public Private Partnership (PPP) mode. The rental for the said land was fixed for the first time by this Authority vide Order No. TAMP/64/2012-CHPT dated 24 January 2013 at `. 1078/- per 100 sqm per month, for a period of five years. Considering that the validity of the said rentals has already expired in April 2018, the CHPT has now come up with the proposal for revision of land lease charges. The proposal of the CHPT has the approval of the Board of Trustees of CHPT.
+
+(ii).
+
+The CHPT has filed its proposal in September 2019. The said proposal of CHPT alongwith the information/ clarification collected during the processing of the case, is being considered in this analysis.
+
+(iii).
+
+This Authority is mandated to follow the Land Policy Guidelines issued by the Government from time to time for the purpose of determining lease rentals for the lands belonging to the Port Trusts. The Ministry of Shipping in the Government of India has announced Land Policy Guidelines for Major Ports, 2014 in January 2014 which has come into effect from 2 January
+
+2014. Subsequently, the Ministry of Shipping has issued amended Land Policy Guidelines, 2014 under Section of the MPT Act, 1963 for implementation with effect from 17 July 2015.
+
+The CHPT has, thus, come up with the subject proposal, based on the provisions of the Land Policy Guidelines for Major Port Trusts, 2014, as amended in July 2015.
+
+(iv).
+
+As per clause 13(a) read with clause 11.2(e) of the Land Policy Guidelines 2014, a Land Allotment Committee (LAC) constituted by the Port Trust Board consisting of Deputy Chairman of the Port, and Heads of Departments of Finance, Estate and Traffic shall determine the market value of land as per the methodology prescribed in clause 13(a). In the case of CHPT, a LAC was constituted under the Chairmanship of Deputy Chairman with Chief Engineer, Traffic Manager, F.A. & C.A.O. and Secretary, as Members of the Committee.
+
+(v).
+
+Para 13(a) of the Land policy guidelines of July 2015 prescribes the methodology for determination of market value of the land based on the five factors as prescribed therein. In terms of the said para of the amended Land policy guidelines of 2014, the LAC may normally take into account the highest of the factors mentioned therein, viz. (i). State Government ready reckoner of land values in the area if available for similar classification/ activities, (ii). Highest rate of actual relevant transactions registered in the last three years in the Port's vicinity with an appropriate annual escalation rate to be approved the Port Trust Board, (iii). Highest accepted tender-cum-auction rate of Port land for similar transactions, updated on the basis of the annual escalation rate approved by the Port Trust Board, (iv). Rate arrived at by an approved valuer appointed for the purpose by the Port and (v). Any other relevant factor as is identified by the Port. The amended Land Policy guidelines of 2014 also stipulates that in case the LAC is not choosing the highest factor, the reasons for the same have to be recorded.
+
+(vi).
+
+(a).
+
+From the LAC Report as furnished by the port, it is seen that the LAC has taken into consideration all the factors as listed in the Land Policy Guidelines except for determining the rental based on the Valuation undertaken by an approved Valuer. In its Report, the LAC has considered the lease rent worked out based on the State Government Ready Reckoner, Highest rate of actual relevant transactions registered in the last three years in the vicinity of Mappedu and Highest accepted tender-cumauction rate of Port land for similar transactions. Further, under 'any other factor identified by the port', the CHPT has determined the rental based on two methods viz., lease rent based on the actual cost of acquisition of land with additional expenditure incurred / to be incurred by the CHPT and lease rent after applying an annual escalation of 2% on the lease rent fixed by this Authority in the year 2013.
+
+(b).
+
+In the lease rent determined as per each of the methods as indicated above, the LAC is seen to have added the component of ` 206.89 per 100 sq.m per month, to take into account the actual expenditure incurred by the port till date towards engagement of Consultants, Security arrangement Expenditure paid to SIPCOT as well as security expenditure incurred by the Port and the cost of Construction of proposed Compound wall.
+
+(c).
+
+The following table gives the list of the lease rent determined by the CHPT as per the various factors and the final lease rent as calculated by the port, after considering the additional cost component.
+
+Final lease rent as (Rate in ` per 100 sq.m per month No.
+
+Particulars Lease Rent as derived by the Port Component of actual expenditure incurred/ to considered by the based on various be incurred by the Port LAC factors State Government Ready
+
+723.00
+
+206.89
+
+929.89 Reckoner
+
+1103.30
+
+206.89
+
+1310.19 Highest rate of actual relevant transactions registered in the last three years in the vicinity of Mappedu
+
+1605.33
+
+206.89
+
+1812.22 Highest accepted tender-cumauction rate of Port land for similar transactions Any other factor identified by the port -
+
+(a) lease rent based on the actual cost
+
+1010.43
+
+206.89
+
+1217.32 of acquisition of land
+
+(b) lease rent after applying an annual
+
+1214.00
+
+206.89
+
+1420.89 escalation of 2% on the lease rent fixed by the Authority in the year
+
+(d).
+
+The market value of the land determined by the Port under the four factors as listed in the Land Policy Guidelines captures the basic market value of the land and the value of add on facilities viz, consultancy, security costs, building of compound wall which is unique to the CHPT land at Mappedu. The LAC is specific that the expenditure on land parcel needs to be included.
+
+Since the methodology adopted by the LAC has been approved by the Board of Trustees of CHPT and since there are no pointed objections from the users regarding the methodology adopted of adding of the cost component to the market value of the land determined under various factors, this Authority is inclined to consider the methodology as adopted by the LAC to determine the lease rent for the land at Mappedu at Sriperumbudur.
+
+(e).
+
+As seen from the above table, though the lease rent as arrived based on the Highest accepted tender-cum-auction rate of Port land for similar transactions at `1812.22 per 100 sq.m per month is seen to be highest lease rent amongst all the factors as adopted by the CHPT to determine the lease rent for the land at Mappedu, the LAC in its Report has observed that the offer was received from only one firm and even that offer did not materialise due to demand of sub lease charges by SIPCOT. The LAC has also observed that for the past five years, the port has not been able to allot or lease the land at the lease rent approved by this Authority earlier in the year 2013.
+
+(f).
+
+Clause 13(a) of the Land Policy Guidelines stipulates that LAC may normally take into account the highest of the factors to determine the latest market value of Port land and in case the LAC is not choosing the highest factor, the reasons for the same have to be recorded in writing. The LAC, for the reasons given in the preceding paragraph, has felt that it would not be prudent to consider the rental based on the highest amongst the various factors. Thus, the LAC in its Report has recommended to consider the lease rent of ` 1420.89 per 100 sq.m per month, which has been determined after applying an annual escalation of 2% on the lease rent fixed by this Authority in the year 2013. The recommendation of the LAC has been approved by the Board of Trustees of CHPT and has been proposed by the CHPT in its proposal for fixtion of lease rent for the land of CHPT at Mappedu.
+
+(vii).
+
+All the users who have been consulted in the proceedings relating to the case in reference have objected to the lease rent of `1420.89 per 100 sq.m per month, on the ground that it is very exorbitant. In this regard, it is to state that though the Port had an option to fix the lease rent at ` 1812.22 per 100 sq.m per month, being the highest lease rent amongst all the factors as stipulated in the Land Policy Guidelines, the port, keeping in view the interest of the Trade, has taken a conscious decision to fix the lease rent at ` 1420.89 per 100 sq.m per month. The said lease rent has been arrived based on the lease rent as approved by this Authority in the year 2013 at `1078/- per 100 sq.m per month and thereafter considering an escalation of 2% per annum upto the year 2019 to arrive at the lease rent of ` 1214/- per 100 sq.m per month.
+
+Further, a component of actual cost incurred/ to be incurred at ` 206.89 per 100 sq.m per month has been added to the escalated lease rent, to determine the proposed lease rent at `1420.89 per 100 sq.m per month.
+
+(viii).
+
+Since the lease rent as recommended by the LAC is an extrapolation of the lease rent as approved in the year 2013 and has the approval of the Board of Trustees of CHPT, this Authority is inclined to prescribe the reserve price in terms of annual lease rent for the land at Mappedu at Sriperumbudur at `1420.89 per 100 sq.m per month, as proposed by the Port.
+
+(ix).
+
+The CHPT has proposed a note to the effect that land area was acquired by the port on long term lease from SIPCOT. Since the land has been taken by the Port on lease basis from SIPCOT any charges levied by SIPCOT shall be borne by the Allottee proportionately. Since the proposed note gives clarity, the said note is approved.
+
+(x).
+
+The CHPT has proposed a note to the effect that the Allottee shall use the land allotted for the purpose for which it is intended. The said note is approved.
+
+(xi).
+
+The CHPT has proposed a note to the effect that the General Note and conditions for Licensing of space application for allotment of port lands prevailing in the existing scale of rates will be applicable for the above said land to the extent possible. Since the proposed note clearly brings out the conditions that would be applicable incase of land allotted at Mappedu, the proposed note is approved.
+
+(xii).
+
+The CHPT in the Scale of Rates has proposed a note to the effect that the rate is to be escalated by 5% per annum. In this regard, it is relevant here to mention that Clause 18(c) of the Land Policy Guidelines of 2014 gives flexibility to the ports to fix annual escalation which would not be less than 2%. Accordingly, the CHPT has proposed 5% annual escalation. Since the annual escalation rate of 5% is approved by the CHPT Board of Trustees and is as per the provision of the Land Policy guidelines of 2014, the proposed rate of 5% annual escalation is approved.
+
+(xiii).
+
+Clause 13 (C) of the amended Land Policy Guidelines, 2014 stipulates that the rates will be revised once in every five years by this Authority. Accordingly, the port has proposed a note to the effect in the Rent Schedule, has proposed a note to the effect that the rate is subject to revision every five years. The proposed note is approved.
+
+(xiv).
+
+As brought out earlier, the lease rent for CHPT lands at Sriperumbudur as fixed vide Order No. TAMP/64/2012-CHPT dated 24 January 2013 had come into effect on 20 April 2013 and was valid till 19 April 2018. Since the Land Policy Guidelines requires this Authority to fix lease rentals for every five years, the lease rent approved now should have come into effect from 20 April 2018 (immediately after the expiry of the last tariff validity period) and should have been valid for a period of 5 years i.e. upto 19 April 2023. However, in the case in reference, considering that the lease rent as proposed by the port has been arrived based on the lease rent as approved by this Authority in the year 2013 and thereafter considering an escalation of 2% per annum upto the year 2019, the CHPT is seen to have proposed for the rental approved to come into effect from 01 April 2019. Prescription of lease rent from 01 April 2019 would not put the CHPT in a disadvantageous position, as the escalation in rental for the intervening period from April 2018 and March 2019 has been captured by the Port while determining the rental to be effective from 01 April 2019 onwards. In view of the above position, this Authority is inclined to approve the lease rent to come into effect for a period of five years with effect from 01 April 2019.
+
+9.1. In the result, and for the reasons given above, and based on a collective application of mind, the following is approved:
+
+Rent Schedule for the allotment of land at Mappedu, Sriperumbudur Item Description of Unit License Fee No.
+
+Space `.1420.89 per calendar month or part thereof
+
+1.
+
+Open space 100 sq.m. or part thereof Notes :
+
+(i).
+
+The above land area was acquired by the port on long term lease from SIPCOT. Since, the land has been taken by the Port on lease basis from SIPCOT any charges levied by SIPCOT shall be borne by the Allottee proportionately.
+
+(ii).
+
+The Allottee shall use the land allotted for the purpose for which it is intended.
+
+(iii).
+
+The General Notes and conditions for Licensing of space for allotment of port lands prevailing in the existing scale of rates will be applicable for the above said land to the extent possible.
+
+(iv).
+
+The rate is subject to revision every five years.
+
+(v).
+
+The rate is to be escalated by 5% per annum.
+
+9.2. The above Rent Schedule is deemed to have come into effect from 01 April 2019 and shall be in force for a period of five years. The approval accorded will automatically lapse thereafter unless specifically extended by this Authority.
+
+T.S. BALASUBRAMANIAN, Member (Finance)
+
+[ADVI-III/4/Exty/481/19] and Published by the Controller of Publications, Delhi-110054.
+
+ALOK KUMAR
