@@ -1,0 +1,64 @@
+---
+title: "In exercise of powers conferred by Section 33 of the Indian Medical Council Act"
+gazette_id: "CG-DL-E-07032020-218571 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Medical Council of India"
+department: "Not Applicable"
+published: "2020-03-07"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-04.218571"
+---
+
+# In exercise of powers conferred by Section 33 of the Indian Medical Council Act
+
+BOARD OF GOVERNORS IN SUPERSESSION OF MEDICAL COUNCIL OF INDIA NOTIFICATION New Delhi, the 24th February, 2020 No. MCI-12(2)/2019-Med.Misc./193707.—In exercise of powers conferred by Section 33 of the Indian Medical Council Act, 1956 (102 of 1956), in Supersession of the Medical Council of India with the previous sanction of the Central Government hereby makes the following Regulations to further amend the
+
+"Minimum Qualifications for Teachers in Medical Institutions Regulations 1998, namely:-
+
+1. (i) These regulations may be called the "Minimum Qualifications for Teachers in Medical Institutions (Amendment) Regulations, 2019".
+
+(ii) They shall come into force from the date of their publication in the Official Gazette.
+
+2.
+
+In the "Minimum Qualifications for Teachers in Medical Institutions Regulations, 1998", in Schedule I, in the department of 'Nuclear Medicine' the table containing qualifications & teaching/research experience be substituted as under: - NUCLEAR MEDICINE
+
+(i) Associate Professor in the subject for 3 Post Academic Qualification Teaching/Research Experience Professor M.D. (Nuclear Medicine) / M.D.(RadioTherapy) with two years experience in Nuclear Medicine in a recognised centre/M.D.(Medicine) with DRM OR DNM/M.D. (Radio-Diagnosis) with two years experience in Nuclear Medicine in a recognised centre/M.D.(Bio-Physics) or its equivalent qualification in Bio- Physics with DRM or DNM/ DNB (Nuclear Medicine) as per notification dated 01.11.2018 years in a with three Research publications (atleast two as Associate Professor) (only original papers, meta-analysis, systematic reviews, and case series that are published in journals included in Medline, Pubmed Central, Citation index, Sciences Citation index, Expanded Embase, Scopus, Directory of Open access journals (DoAJ) will be considered).
+
+The author must be amongst first three or should be the Corresponding author.
+
+(ii) Should have completed the Basic course in Medical Education Technology from Institution(s) designated by MCI.
+
+(iii) Should have completed the Basic course - Do -
+
+(i) As Assistant Professor in the subject for in biomedical research from Institution(s) designated by MCI.
+
+Further provided that for the transitory period of 2 years w.e.f. the date of this notification, the appointment/ promotion to the post of Professor can be made by the institution in accordance with the
+
+"Minimum Qualifications for Teachers in Medical Institutions Regulations, 1998" as prevailing before issuance of this notification.
+
+Associate Professor 4 years in a permitted/approved/ with one Research publication (only original papers, meta-analysis, systematic reviews, and case series that are published in journals included in Medline, Pubmed Central, Citation index, Sciences Citation index, Expanded Embase, Scopus, Directory of Open access journals (DoAJ) will be considered).
+
+The author must be amongst first three or should be the Corresponding author.
+
+(ii) Research project in lieu of can be considered only if the person is Principal or Co-Principal investigator ] (P1/CoPI) of a research project funded by a national research body such as Indian Council for Medical Research
+
+(ICMR), Department of Science & Technology (DST), Department of Bio-Technology (DBT) or any such body.
+
+(iii) Should have completed the Basic course in Medical Education Technology from Institution(s) designated by MCI.
+
+(iv) Should have completed the Basic course in biomedical research from Institution(s) designated by MCI.
+
+Further provided that for the transitory period of 2 years w.e.f. the date of this notification, the appointment/ promotion to the post of Associate Professor can be made by the institution in accordance with the "Minimum Qualifications for Teachers in Medical Institutions Regulations, 1998" as prevailing before issuance of this notification .
+
+Assistant Professor - Do - years Junior Resident in a recognized/permitted medical college in the concerned subject and one year as Senior Resident in the concerned subject in a In case of DNB candidate equated to MD/MS in terms of clause 4A of Schedule-I, in addition to 3 year teaching experience in the subject as Resident/Registrar/ Demonstrator/ Tutor/ or work experience gained during DNB training, one year as Senior Resident in the concerned subject in a Senior Resident MD/DNB (Nuclear Medicine) Senior Resident is one who is doing his/her residency in the concerned post graduate subject after obtaining PG degree/Diploma (MD/MS/DNB) and is below 45 years of age.
+
+NOTE: The essential qualification for a faculty in the Department of Nuclear Medicine shall be MD (Nuclear Medicine)/DNB (Nuclear Medicine) only and shall be made applicable w.e.f. one year from the date of this notification.
+
+DR. R.K. VATS, Secy. General
+
+[ADVT.-III/4/Exty./486/19] Footnote:
+
+The Principal Regulations namely, "Minimum Qualifications for Teachers in Medical Institutions Regulations 1998" were published in Part- III, Section (4) of the Gazette of India on the 5thDecember, 1998 and amended vide MCI notifications dated 16/03/2005, 21/07/2009, 28/10/2009, 15/12/2009, 03.11.2010, 08.07.2011, 12.06.2012, 06.09.2012, 01.10.2012,
+
+16.05.2015, 13.07.2016, 11.03.2017, 08.06.2017, 23.01.2018, 01.11.2018, 07/06/2019 and 19/08/2019. and Published by the Controller of Publications, Delhi-110054.
+
+MANOJ KUMAR VERMA VERMA
