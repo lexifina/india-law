@@ -1,0 +1,116 @@
+---
+title: "In exercise of the powers conferred by section 30 read with clause c of sub section 2 of section 11 of the Securities and Exchange Board of India Act"
+gazette_id: "CG-MH-E-09032020-218577 Download: gvGazette$ctl06$imgbtndownload"
+ministry: "Securities and Exchange Board of India"
+department: "Not Applicable"
+published: "2020-03-09"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-06.218577"
+---
+
+# In exercise of the powers conferred by section 30 read with clause c of sub section 2 of section 11 of the Securities and Exchange Board of India Act
+
+SECURITIES AND EXCHANGE BOARD OF INDIA NOTIFICATION Mumbai, 06th March, 2020 SECURITIES AND EXCHANGE BOARD OF INDIA (MUTUAL FUNDS) (AMENDMENT) REGULATIONS, 2020 No. SEBI/LAD/NRO/GN/2020/07.— In exercise of the powers conferred by section 30, read with clause
+
+(c) of sub-section (2) of section 11 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), the Board hereby makes the following regulations to further amend the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996, namely:—
+
+1. These Regulations may be called the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2020.
+
+2. They shall come into force on the date of their publication in the Official Gazette.
+
+3. In the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996, - I. in regulation 26,i. first proviso to sub-regulation (1) shall be substituted by the following clause, namely,-
+
+"Provided that in case of a gold exchange traded fund scheme, the assets of the scheme being gold or gold related instruments may be kept in the custody of a custodian registered with the Board".
+
+II. in regulation 28, - i. sub-regulation (4) shall be substituted by the following clause, namely,-
+
+"28(4). The sponsor or asset management company shall invest not less than one percent of the amount which would be raised in the new fund offer or fifty lakh rupees, whichever is less, and such investment shall not be redeemed unless the scheme is wound up:
+
+Provided that the investment by the sponsor or asset management company shall be made in such option of the scheme, as may be specified by the Board." AJAY TYAGI, Chairman
+
+[ADVT.-III/4/Exty./490/19] Footnote:
+
+1. The Securities and Exchange Board of India (Mutual Funds) Regulations, 1996, the Principal Regulations, were published in the Gazette of India on December 9, 1996 vide S.O. No. 856 (E).
+
+2. The Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 were subsequently amended– on April 15, 1997 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 1997 vide S.O. No.327 (E). on January 12, 1998 by the Securities and Exchange Board of India (Mutual Funds)(Amendment) Regulations, 1998 vide S.O. No.32 (E). ] on December 08, 1999 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 1999 vide S.O. No.1223 (E). on March 14, 2000 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2000 vide S.O. No.235 (E). on March 28, 2000 by the Securities and Exchange Board of India (Appeal to the Securities Appellate Tribunal) (Amendment) Regulations, 2000 vide S.O. No.278 (E). on May 22, 2000 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2000 vide S.O. No.484 (E). on January 23, 2001 by the Securities and Exchange Board of India (Mutual Funds)(Amendment) Regulations, 2001 vide S.O. No.69 (E). on May 29, 2001 by the Securities and Exchange Board of India (Investment Advice by Intermediaries) (Amendment) Regulations, 2001 vide S.O. No.476 (E). on July 23, 2001 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2001 vide S.O. No.698 (E).
+
+(10) on February 20, 2002 by the Securities and Exchange Board of India (Mutual Funds)(Amendment) Regulations, 2002 vide S.O. No.219 (E).
+
+(11) on June 11, 2002 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2002 vide S.O. No.625 (E).
+
+(12) on July 30, 2002 by the Securities and Exchange Board of India (Mutual Funds) (Third Amendment) Regulations, 2002 vide S.O. No.809 (E).
+
+(13) on September 9, 2002 by the Securities and Exchange Board of India (Mutual Funds)(Fourth Amendment) Regulations, 2002 vide S.O. No.956 (E).
+
+(14) on September 27, 2002 by the Securities and Exchange Board of India (Procedure for Holding Enquiry by Enquiry Officer and Imposing Penalty) Regulations, 2002 vide S.O. No.1045 (E).
+
+(15) on May 29, 2003 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2003 vide S.O. No. 632 (E).
+
+(16) on January 12, 2004 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2004 vide F.No. SEBI/LAD/DOP/4/2004.
+
+(17) on March 10, 2004 by the Securities and Exchange Board of India (Criteria for Fit and Proper Person) Regulations, 2004 vide S.O. No. 398 (E).
+
+(18) on January 12, 2006 by the Securities and Exchange Board of India (Mutual Funds)(Amendment) Regulations, 2006 vide S.O. No. 38 (E).
+
+(19) on May 22, 2006 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2006 vide S.O. No. 783 (E).
+
+(20) on August 3, 2006 by the Securities and Exchange Board of India (Mutual Funds) (Third Amendment) Regulations, 2006 vide S.O. No. 1254 (E).
+
+(21) on December 27, 2006 by the Securities and Exchange Board of India (Mutual Funds) (Fourth Amendment) Regulations, 2006 vide F. No. SEBI/LAD/DOP/82534/2006.
+
+(22) on December 27, 2006 by the Securities and Exchange Board of India (Mutual Funds) (Fifth Amendment) Regulations, 2006 vide F. No. SEBI/LAD/DOP/83065/2006.
+
+(23) on May 28, 2007 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2007 vide F. No. 11/LC/GN/2007/2518.
+
+(24) on October 31, 2007 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2007 vide F. No. 11/LC/GN/2007/4646.
+
+(25) on March 31, 2008 by the Securities and Exchange Board of India (Payment of Fees) (Amendment) Regulations, 2008 vide F. No. 11/LC/GN/2008/21669.
+
+(26) on April 16, 2008 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2008 vide F. No. LADNRO/ GN/2008/03/123042.
+
+(27) on May 22, 2008 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2008 vide No. LADNRO/GN/2008/09/126202.
+
+(28) on September 29, 2008 by the Securities and Exchange Board of India (Mutual Funds) (Third Amendment) Regulations, 2008 vide No. LADNRO/ GN/2008/24/139426.
+
+(29) on April 8, 2009 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2009 vide No. LAD-NRO/GN/2009-10/01/159601.
+
+(30) on June 5, 2009 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2009 vide No. LAD- NRO/GN/2009-10/07/165404.
+
+(31) on July 29, 2010 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2010 vide No. LAD-NRO/GN/2010-11/13/13945.
+
+(32) on August 30, 2011 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2011 vide No. LAD-NRO/GN/2011-12/27668.
+
+(33) on February 21, 2012 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2012 vide No. LAD-NRO/GN/2011-12/38/4290.
+
+(34) on 26th September, 2012 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2012 vide No. LAD-NRO/GN/2012-13/17/21502.
+
+(35) on 16th April, 2013 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2013 vide No. LAD-NRO/GN/2013-14/03/5652.
+
+(36) on 19th June, 2013 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2013 vide No. LAD-NRO/GN/2013-14/12/6108.
+
+(37) on 19th August, 2013 by the Securities and Exchange Board of India (Mutual Funds) (Third Amendment) Regulations, 2013 vide No. LAD-NRO/GN/2013-14/18/6384.
+
+(38) on 6th May, 2014 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2014 vide No. LAD-NRO/GN/2014-15/01/1039.
+
+(39) on 23rd May, 2014 by the Securities and Exchange Board of India (Payment of Fees) (Amendment) Regulations, 2014 vide No. LAD-NRO/GN/2014-15/03/1089.
+
+(40) on 30th December, 2014 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2014 vide No. LAD-NRO/GN/2014-15/19/1973.
+
+(41) on 15th May, 2015 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2015 No. NROOIAE/GN/2015-16/005.
+
+(42) on 12th February, 2016 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2016 vide No. SEBI/LAD-NRO/GN/2015-16/034.
+
+(43) on 15th February, 2017 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2017 vide No. SEBI/LAD/NRO/GN/2016-17/031.
+
+(44) on 13th March, 2018 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2018 vide No. SEBI/LAD-NRO/GN/2018/02.
+
+(45) on 30th May, 2018 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2018 vide No. SEBI/LAD-NRO/GN/2018/14.
+
+(46) on 6th December, 2018 by the Securities and Exchange Board of India (Mutual Funds) (Third Amendment) Regulations, 2018 vide No. SEBI/LAD-NRO/GN/2018/50.
+
+(47) on 13th December, 2018 by the Securities and Exchange Board of India (Mutual Funds) (Fourth Amendment) Regulations, 2018 vide No. SEBI/LAD-NRO/GN/2018/51.
+
+(48) on 1st January, 2019 by the Securities and Exchange Board of India (Custodian of Securities) (Amendment) Regulations, 2018 vide No. SEBI/LAD-NRO/GN/2019/01.
+
+(49) on 26th April, 2019 by the Securities and Exchange Board of India (Mutual Funds) (Amendment) Regulations, 2019 vide No. SEBI/LAD-NRO/GN/2019/011.
+
+(50) On 23rd September, 2019 by the Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2019 vide No. SEBI/LAD-NRO/GN/2019/37. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA KUMAR VERMA
