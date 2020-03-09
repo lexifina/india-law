@@ -1,0 +1,343 @@
+---
+title: "Whereas, an Agreement between the Government of the Republic of India and the Government of Brunei Darussalam for the exchange"
+gazette_id: "CG-DL-E-09032020-218578 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Ministry of Finance"
+department: "Not Applicable"
+notification_no: "S.O. 1009(E)"
+published: "2020-03-09"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-06.218578"
+---
+
+# Whereas, an Agreement between the Government of the Republic of India and the Government of Brunei Darussalam for the exchange
+
+MINISTRY OF FINANCE (Department of Revenue) NOTIFICATION New Delhi, the 4th March, 2020 S.O. 1009(E).—Whereas, an Agreement between the Government of the Republic of India and the Government of Brunei Darussalam for the exchange of information and assistance in collection with respect of taxes (hereinafter referred to as the said Agreement) as set out in the annexure to this notification, was signed at New Delhi, India on the 28th day of February, 2019;
+
+And whereas, the said Agreement entered into force on the 30th January, 2020 being the thirtieth day after the date of the later of the notifications of the completion of the procedures required by the respective laws for bringing into force the said Agreement, in accordance with Article 12 of the said Agreement;
+
+Now, therefore, in exercise of the powers conferred by sub-section (1) of section 90 of the Income-tax Act, 1961 (43 of 1961), the Central Government hereby notifies that all the provisions of the said Agreement, as annexed hereto, shall have effect in the Union of India.
+
+ANNEXURE AGREEMENT BETWEEN
+
+THE GOVERNMENT OF THE REPUBLIC OF INDIA AND
+
+THE GOVERNMENT OF HIS MAJESTY THE SULTAN AND YANG DI-PERTUAN OF BRUNEI DARUSSALAM FOR THE EXCHANGE OF INFORMATION AND ASSISTANCE IN COLLECTION WITH RESPECT TO TAXES The Government of the Republic of India and the Government of His Majesty the Sultan and Yang DiPertuan of Brunei Darussalam, desiring to facilitate the exchange of information and assistance in collection with respect to taxes, have agreed as follows:
+
+Article 1 Object and Scope of the Agreement The competent authorities of the Contracting Parties shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Contracting Parties concerning taxes covered by this Agreement. Such information shall include information that is foreseeably relevant to the determination, assessment and collection of such taxes, the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in Article 8.
+
+The competent authorities shall also lend assistance to each other in the collection of tax claims. The rights and safeguards secured to persons by the laws or administrative practice of the requested Party remain applicable to the extent that they do not unduly prevent or delay effective exchange of information.
+
+Article 2 Jurisdiction A Contracting Party is not obligated to provide information which is neither held by its authorities nor in the possession or control of persons who are within its territorial jurisdiction.
+
+Article 3 Taxes Covered
+
+1.
+
+The taxes which are the subject of this Agreement are:
+
+(a) in the case of Brunei Darussalam, all taxes imposed or administered by the Government of Brunei Darussalam;
+
+(b) in the case of India, taxes of every kind and description imposed by the Central Government or the Governments of political subdivisions or local authorities, irrespective of the manner in which they are levied.
+
+2.
+
+This Agreement shall also apply to any identical taxes imposed after the date of signature of this Agreement in addition to, or in place of, the existing taxes. This Agreement shall also apply to any substantially similar taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes if the competent authorities of the Contracting Parties so agree. The competent authorities of the Contracting Parties shall notify each other of any substantial changes to the taxation and related information gathering measures and assistance in collection measures which may affect the obligations of that Party pursuant to this Agreement.
+
+Article 4 Definitions
+
+1.
+
+For the purposes of this Agreement, unless otherwise defined:
+
+(a) the term "Brunei Darussalam" means the territory of Brunei Darussalam including its territorial sea, extending to the airspace above such territory, over which it exercises sovereignty, and the maritime area beyond its territorial sea, including sea-bed and subsoil, which has been or may hereafter be designated under the laws of Brunei Darussalam as an area over which it exercises sovereign rights and jurisdiction in accordance with international law;
+
+(b) the term "India" means the territory of India and includes the territorial sea and airspace above it, as well as any other maritime zone in which India has sovereign rights and jurisdiction, according to the Indian law and in accordance with international law, including the U.N.
+
+Convention on the Law of the Sea;
+
+(c) the term "Contracting Party" means Brunei Darussalam or India as the context requires;
+
+(d) the term "competent authority" means
+
+(i) in the case of Brunei Darussalam, the Minister of Finance or his authorized representative;
+
+(ii) in the case of India, the Finance Minister, Government of India, or his authorized representative;
+
+(e) the term "person" includes an individual, a company, a body of persons and any other entity which is treated as a taxable unit under the taxation laws in force in the respective Contracting Parties;
+
+(f) the term "company" means any body corporate or any entity that is treated as a body corporate for tax purposes;
+
+(g) the term "publicly traded company" means any company whose principal class of shares is listed on a recognised stock exchange provided its listed shares can be readily purchased or sold by the public. Shares can be purchased or sold "by the public" if the purchase or sale of shares is not implicitly or explicitly restricted to a limited group of investors;
+
+(h) the term "principal class of shares" means the class or classes of shares representing a majority of the voting power and value of the company;
+
+(i) the term "recognised stock exchange" means the National Stock Exchange of India, the Bombay Stock Exchange, any other stock exchange recognised by the Securities and Exchange Board of India, and any other stock exchange agreed upon by the competent authorities of the Contracting Parties;
+
+(j) the term "collective investment fund or scheme" means any pooled investment vehicle, irrespective of legal form;
+
+(k) the term "public collective investment fund or scheme" means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
+
+(l) the term "tax" means any tax to which this Agreement applies;
+
+(m) the term "requesting Party" means the Contracting Party requesting information or submitting a request for assistance in collection of tax to the requested Party;
+
+(n) the term "requested Party" means the Contracting Party requested to provide information or assistance in collection of tax;
+
+(o) the term "information gathering measures" means laws and administrative or judicial procedures that enable a Contracting Party to obtain and provide the requested information;
+
+(p) the term "assistance in collection measures" means laws and administrative or judicial procedures as provided by the domestic law of a Contracting Party that enable the Contracting Party to collect and remit the requested tax claim; and
+
+(q) the term "information" means any fact, statement, document or record in whatever form.
+
+2.
+
+As regards the application of this Agreement at any time by a Contracting Party, any term not defined therein shall, unless the context otherwise requires or the competent authorities agree to a common meaning pursuant to the provisions of Article 11 of this Agreement, have the meaning that it has at that time under the law of that Party, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Party.
+
+Article 5 Exchange of Information Upon Request
+
+1.
+
+The competent authority of the requested Party shall provide upon request information for the purposes referred to in Article 1. Such information shall be exchanged without regard to whether the requested Party needs such information for its own tax purposes or whether the conduct being investigated would constitute a crime under the laws of the requested Party if such conduct occurred in the requested Party.
+
+2.
+
+If the information in the possession of the competent authority of the requested Party is not sufficient to enable it to comply with the request for information, that Party shall use all relevant information gathering measures to provide the requesting Party with the information requested, notwithstanding that the requested Party may not need such information for its own tax purposes.
+
+3.
+
+If specifically requested by the competent authority of the requesting Party, the competent authority of the requested Party shall provide information under this Article, to the extent allowable under its domestic laws, in the form of depositions of witnesses and authenticated copies of original records.
+
+4.
+
+Each Contracting Party shall ensure that its competent authority, for the purposes specified in Article 1 of this Agreement, has the authority to obtain and provide upon request:
+
+(a) information held by banks, other financial institutions, and any person, acting in an agency or fiduciary capacity including nominees and trustees;
+
+(b) information regarding the legal and beneficial ownership of companies, partnerships, collective investment funds or schemes, trusts, foundations, "Anstalten" and other persons, including, within the constraints of Article 2, ownership information on all such persons in an ownership chain; in the case of collective investment funds or schemes, information on shares, units and other interests; in the case of trusts, information on settlors, trustees and beneficiaries; in the case of foundations, information on founders, members of the foundation council and beneficiaries; and equivalent information in case of entities that are neither trusts nor foundations.
+
+5.
+
+This Agreement does not create an obligation on the Contracting Parties to obtain or provide ownership information with respect to publicly traded companies or public collective investment funds or schemes unless such information can be obtained without giving rise to disproportionate difficulties.
+
+6.
+
+The competent authority of the requesting Party shall provide the following information to the competent authority of the requested Party when making a request for information under this Agreement to demonstrate the foreseeable relevance of the information to the request:
+
+(a) the identity of the person under examination or investigation;
+
+(b) the period for which the information is requested;
+
+(c) a statement of the information sought including its nature and the form in which the requesting Party wishes to receive the information from the requested Party;
+
+(d) the tax purpose for which the information is sought;
+
+(e) grounds for believing that the information requested is present in the requested Party or is in the possession or control of a person within the jurisdiction of the requested Party;
+
+(f) to the extent known, the name and address of any person believed to be in possession or control of the requested information;
+
+(g) a statement that the request is in conformity with the laws and administrative practices of the requesting Party, that if the requested information was within the jurisdiction of the requesting Party then the competent authority of the requesting Party would be able to obtain the information under the laws of the requesting Party or in the normal course of administrative practice and that it is in conformity with this Agreement;
+
+(h) a statement that the requesting Party has pursued all means available in its own territory to obtain the information, except those that would give rise to disproportionate difficulties.
+
+7.
+
+The competent authority of the requested Party shall forward the requested information as promptly as possible to the requesting Party. To ensure a prompt response, the competent authority of the requested Party shall:
+
+(a) Confirm receipt of a request in writing to the competent authority of the requesting Party and shall notify the competent authority of the requesting Party of deficiencies in the request, if any, within 60 days of the receipt of the request.
+
+(b) If the competent authority of the requested Party has been unable to obtain and provide the information within 90 days of receipt of the request, including if it encounters obstacles in furnishing the information or it refuses to furnish the information, it shall immediately inform the requesting Party, explaining the reason for its inability, the nature of the obstacles or the reasons for its refusal.
+
+Article 5A Automatic Exchange of Information With respect to categories of cases and in accordance with procedures which they shall determine by mutual agreement, the Contracting Parties shall automatically exchange information for the purposes referred to in Article 1.
+
+Article 6 Tax Examinations Abroad
+
+1.
+
+At the request of the competent authority of the requesting Party, the requested Party may allow representatives of the competent authority of the requesting Party to enter the territory of the requested Party, to the extent permitted under its domestic laws, to interview individuals and examine records with the prior written consent of the individuals or other persons concerned. The competent authority of the requesting Party shall notify the competent authority of the requested Party of the time and place of the intended meeting with the individuals concerned.
+
+2.
+
+At the request of the competent authority of the requesting Party, the requested Party may allow representatives of the competent authority of the requesting Party to be present at the appropriate part of a tax examination in the requested Party.
+
+3.
+
+If the request referred to in paragraph 2 is acceded to, the competent authority of the requested Party conducting the examination shall, as soon as possible, notify the competent authority of the requesting Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the requested Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the Party conducting the examination.
+
+Article 7 Possibility of Declining a Request for Information
+
+1.
+
+A Contracting Party shall not be required to obtain or provide information that the other Contracting Party would not be able to obtain under its own laws for purposes of the administration or enforcement of its own tax laws. The competent authority of a Contracting Party may decline to assist where the request is not made in conformity with this Agreement.
+
+2.
+
+The provisions of this Agreement shall not impose on a Contracting Party the obligation to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process. Notwithstanding the foregoing, information of the type referred to in Article 5, paragraph 4 shall not be treated as such a secret or trade process merely because it meets the criteria in that paragraph.
+
+3.
+
+The provisions of this Agreement shall not impose on a Contracting Party the obligation to obtain or provide information, which would reveal confidential communications between a client and an attorney, solicitor or other admitted legal representative where such communications are:
+
+(a) produced for the purposes of seeking or providing legal advice; or
+
+(b) produced for the purposes of use in existing or contemplated legal proceedings.
+
+4.
+
+A Contracting Party may decline a request for information if the disclosure of the information would be contrary to public policy (ordre public).
+
+5.
+
+A request for information shall not be refused on the ground that the tax claim giving rise to the request is disputed.
+
+6.
+
+A Contracting Party may decline a request for information if the information is requested by the other Contracting Party to administer or enforce a provision of the tax law of that other Contracting Party, or any requirement connected therewith, which discriminates against a national of the first-mentioned Contracting Party as compared with a national of the other Contracting Party in the same circumstances.
+
+Article 8 Confidentiality Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the Contracting Party providing the information.
+
+Article 8A Assistance in the Collection of Tax Claims
+
+1.
+
+The Contracting Parties shall, to the extent permitted by their respective domestic law, lend assistance to each other in the collection of tax claims.
+
+2.
+
+The term "tax claim" as used in this Article means any amount owed in respect of the following taxes imposed by the Contracting Parties, together with interest, administrative penalties and costs of collection or conservancy related to such amount:
+
+(a) in the case of Brunei Darussalam,
+
+(i) income tax imposed under Income Tax Act (Cap. 35); and
+
+(ii) petroleum profits tax imposed under Income Tax (Petroleum) Act (Cap. 119);
+
+(b) in the case of India,
+
+(i) income tax (including any surcharge thereon) imposed under the Income Tax Act, 1961;
+
+(ii) tax imposed under The Black Money (Undisclosed Foreign Income And Assets) and Imposition of Tax Act, 2015; and
+
+(iii) wealth tax imposed under Wealth Tax Act, 1957.
+
+3.
+
+When a tax claim of a Contracting Party is enforceable under the laws of that Party and is owed by a person who, at that time, cannot, under the laws of that Party, prevent its collection, that tax claim shall, at the request of the competent authority of that Party, be accepted for purposes of collection by the competent authority of the other Contracting Party. That tax claim shall be collected by that other Party in accordance with the provisions of its laws applicable to the enforcement and collection of its own taxes as if the tax claim were a tax claim of that other Party.
+
+4.
+
+When a tax claim of a Contracting Party is a claim in respect of which that Party may, under its law, take measures of conservancy with a view to ensure its collection, that tax claim shall, at the request of the competent authority of that Party, be accepted for purposes of taking measures of conservancy by the competent authority of the other Contracting Party. That other Party shall take measures of conservancy in respect of that tax claim in accordance with the provisions of its laws as if the tax claim were a tax claim of that other Party even if, at the time when such measures are applied, the tax claim is not enforceable in the first-mentioned Party or is owed by a person who has a right to prevent its collection.
+
+5.
+
+When a Contracting Party, under its law, takes interim measures of conservancy by freezing of assets before a tax claim is raised against a person, the competent authority of the other Contracting Party if requested by the competent authority of the first-mentioned Contracting Party shall take measures for freezing the assets of that person in that Contracting Party in accordance with the provisions of its law.
+
+6.
+
+Notwithstanding the provisions of paragraphs 3 and 4, a tax claim accepted by a Contracting Party for purposes of paragraph 3 or 4 shall not, in that State, be subject to the time limits or accorded any priority applicable to a tax claim under the laws of that State by reason of its nature as such. In addition, a tax claim accepted by a Contracting Party for the purposes of paragraph 3 or 4 shall not, in that State, have any priority applicable to that tax claim under the laws of the other Contracting Party.
+
+7.
+
+Proceedings with respect to the existence, validity or the amount of a tax claim of a Contracting Party shall only be brought before the courts or administrative bodies of that Party. Nothing in this Article shall be construed as creating or providing any right to such proceedings before any court or administrative body of the other Contracting Party.
+
+8.
+
+Where, at any time after a request has been made by a Contracting Party under paragraph 3 or 4 and before the other Contracting Party has collected and remitted the relevant tax claim to the first-mentioned Party, the relevant tax claim ceases to be:
+
+(a) in the case of a request under paragraph 3, a tax claim of the first-mentioned Party that is enforceable under the laws of that Party and is owed by a person who, at that time, cannot, under the laws of that Party, prevent its collection, or
+
+(b) in the case of a request under paragraph 4, a tax claim of the first-mentioned Party in respect of which that Party may, under its laws, take measures of conservancy with a view to ensure its collection, the competent authority of the first-mentioned Party shall promptly notify the competent authority of the other Party of that fact and, at the option of the other Party, the first-mentioned Party shall either suspend or withdraw its request.
+
+9.
+
+In no case shall the provisions of this Article be construed so as to impose on a Contracting Party the obligation:
+
+(a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting Party;
+
+(b) to carry out measures which would be contrary to public policy (ordre public);
+
+(c) to provide assistance if the other Contracting Party has not pursued all reasonable measures of collection or conservancy, as the case may be, available under its laws or administrative practice;
+
+(d) to provide assistance in those cases where the administrative burden for that Party is clearly disproportionate to the benefit to be derived by the other Contracting Party.
+
+Article 9 Costs
+
+1.
+
+Unless the competent authorities of the Contracting Parties otherwise agree, ordinary costs incurred in providing assistance shall be borne by the requested Party, and subject to the provisions of this Article, costs incurred in providing assistance shall, if they exceed US dollars, be borne by the requesting Party.
+
+2.
+
+The competent authorities will consult each other, in advance, in any particular case where extraordinary costs are likely to exceed 500 US dollars to determine whether the requesting Party will continue to pursue the request and bear the cost.
+
+3.
+
+The competent authorities shall consult from time to time with regard to this Article.
+
+4.
+
+Ordinary costs include internal administration costs, any minor external costs and overhead expenses incurred by the requested Party in reviewing and responding to requests submitted by the requesting Party.
+
+Examples of extraordinary costs incurred in providing assistance include, but are not limited to the following:
+
+(a) reasonable fees charged by third parties for copying documents on behalf of the requested Party;
+
+(b) reasonable costs of engaging interpreters, translators or other agreed experts;
+
+(c) reasonable costs of conveying documents to the requesting Party;
+
+(d) reasonable litigation costs of the requested Party in relation to a specific request for information; and
+
+(e) reasonable costs for obtaining depositions or testimony.
+
+Article 10 Implementation Legislation The Contracting Parties shall enact any legislation necessary to comply with, and give effect to, the terms of this Agreement.
+
+Article 11 Mutual Agreement Procedure
+
+1.
+
+Where difficulties or doubts arise between the Contracting Parties regarding the implementation or interpretation of this Agreement, the competent authorities shall endeavour to resolve the matter by mutual agreement.
+
+2.
+
+In addition to the agreements referred to in paragraph 1, the competent authorities of the Contracting Parties may mutually agree on the procedures to be used under Articles 5, 5A, 6 and 8A of this Agreement.
+
+3.
+
+The competent authorities of the Contracting Parties may communicate with each other directly for purposes of reaching agreement under this Article.
+
+Article 12 Entry into Force
+
+1.
+
+The Contracting Parties shall notify each other in writing, through diplomatic channels, of the completion of the procedures required by the respective law for the entry into force of this Agreement.
+
+2.
+
+This Agreement shall enter into force on the thirtieth day after the date of the later of the notifications referred to in paragraph 1 of this Article and shall thereupon have effect forthwith.
+
+3.
+
+The provisions of this Agreement shall have effect with respect to the automatic exchange of information foreseen in Article 5A for taxable periods beginning on or after 1 January 2017, or where there is no taxable period, for all charges to tax arising on or after 1 January 2017.
+
+Article 13 Termination
+
+1.
+
+This Agreement shall continue in effect indefinitely, but either of the Contracting Party may, after the expiration of three years from the date of its entry into force, give to the other Contracting Party, through the diplomatic channel, written notice of termination.
+
+2.
+
+Such termination shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of notice of termination by the other Contracting Party. All requests received up to the effective date of termination shall be dealt with in accordance with the provisions of this Agreement.
+
+3.
+
+Notwithstanding any termination of this Agreement, the Contracting Parties shall remain bound by the provisions of Article 8 with respect to any information obtained under this Agreement.
+
+In witness whereof, the undersigned, being duly authorised thereto, have signed this Agreement.
+
+DONE in duplicate at New Delhi this 28th day of February 2019, each in the Malay, Hindi and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.
+
+FOR THE GOVERNMENT OF
+
+THE REPUBLIC OF INDIA FOR THE GOVERNMENT OF HIS MAJESTY THE SULTAN AND YANG DI-PERTUAN OF BRUNEI DARUSSALAM MR. PRAMOD CHANDRA MODY CHAIRMAN CENTRAL BOARD OF DIRECT TAXES MINISTRY OF FINANCE DATO PADUKA HAJI SIDEK BIN ALI AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY BRUNEI DARUSSALAM
+
+[Notification No. 14/2020 F.No.503/02/2012-FTD-II] RASMI RANJAN DAS, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA
