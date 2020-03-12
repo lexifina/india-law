@@ -1,0 +1,91 @@
+---
+title: "Notification to be published in Gazette of India Extraordinary Part ll section 3 sub section ii regarding us"
+gazette_id: "CG-DL-E-12032020-218612 Download: gvGazette$ctl02$imgbtndownload"
+ministry: "Ministry of Micro, Small and Medium Enterprises"
+department: "Not Applicable"
+notification_no: "S.O. 974(E)"
+published: "2020-03-12"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-04.218612"
+---
+
+# Notification to be published in Gazette of India Extraordinary Part ll section 3 sub section ii regarding us
+
+MINISTRY OF MICRO, SMALL AND MEDIUM ENTERPRISES NOTIFICATION New Delhi, the 28th February, 2020 S.O. 974(E).—Whereas, the use of Aadhaar as identity document for delivery of services or benefits or subsidies simplifies the Government delivery processes, brings in transparency and efficiency, and enables beneficiaries to get their entitlements directly in a convenient and seamless manner and Aadhaar obviates the need for producing multiple documents to prove one's identity;
+
+And whereas, the Ministry of Micro, Small and Medium Enterprise (hereinafter referred to as the Ministry) in the Government of India is administering a Central Sector Scheme of "Prime Minister Employment Generation Program (PMEGP) (hereinafter referred to as the Scheme) by providing capital subsidy (hereinafter referred to as the benefit) to individuals (hereinafter referred to as the beneficiary) for starting a new enterprise or upgrading the existing enterprise setup under PMEGP and MUDRA by taking a loan from the bank;
+
+And whereas, the Scheme is implemented through the Khadi and Village Industries Commission (KVIC), as the single nodal agency at the national level. At the State level, the Scheme is implemented through State KVIC Directorates, State Khadi and Village Industries Boards (KVIBs) and District Industries Centers (DICs) and Banks (hereinafter together referred to as the Implementing Agencies). As per the extant Scheme guidelines, the Government subsidy under the Scheme is routed by KVIC through the identified Banks for eventual distribution to the beneficiaries/entrepreneurs in their Bank accounts.
+
+And whereas, the aforesaid Scheme involves expenditure incurred from the Consolidated Fund of India;
+
+Now, therefore, in pursuance of the provisions of section 7 of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016) (hereinafter referred to as the said Act), the Central Government hereby notifies the following, namely: -
+
+1. (1) A beneficiary desirous of receiving the benefits under the Scheme is hereby required to furnish proof of possession of Aadhaar or undergo Aadhaar authentication.
+
+(2) A beneficiary desirous of receiving the benefits under the Scheme who does not possess the Aadhaar number or, who has not yet enrolled for Aadhaar, shall be required to make an application for Aadhaar enrolment, and in case, he or she is entitled to obtain Aadhaar as per the provisions of section 3 of the said Act, such individuals may visit any Aadhaar enrolment centre.
+
+The list of centres is available at Unique Identification Authority of India (UIDAI) website (www.uidai.gov.in) to get enrolled for Aadhaar.
+
+(3) As per regulation 12 of the Aadhaar (Enrolment and Update) Regulations, 2016, the Ministry. through its Implementing Agencies, is required to offer Aadhaar enrolment facilities for the beneficiaries who are not enrolled for Aadhaar, and in case there is no Aadhaar enrolment centre located in the respective Block or Taluka or Tehsil, the Ministry through its Implementing Agencies shall provide Aadhaar enrolment facilities at convenient locations in coordination with the existing Registrars of UIDAI or by itself becoming the Unique Identification Authority of India (UIDAI) Registrar:
+
+Provided that till the time Aadhaar is assigned to the individual, benefits under the Scheme shall be given to such individual, subject to the production of the following documents, namely:-
+
+(a)
+
+(i) If he or she has enrolled for Aadhaar, his or her Aadhaar Enrolment ID slip; or
+
+(ii) A copy of the request made for Aadhaar enrolment, as specified in sub-paragraph (2) of paragraph 2; and
+
+(b) any one of the following documents, namely :-
+
+(i) Voter Identity Card issued by the Election Commission of India; or
+
+(ii) Driving license issued by the Licensing Authority under the Motor Vehicles Act, 1988 (59 of 1988);or
+
+(iii) Certificate of identity having photo of such individual issued by a Gazetted Officer or a Tehsildar on an official letter head; or
+
+(iv) Permanent Account Number (PAN) Card issued by the Income-tax department; or
+
+(v) Passport; or
+
+(vi) Ration Card; or
+
+(vii) Bank Passbook or Post Office Passbook with photo; or
+
+(viii) any other document specified by the Ministry:
+
+Provided further that the above documents shall be checked by an officer specifically designated by the Ministry through its Implementing Agencies for that purpose.
+
+2.
+
+In order to provide convenient and hassle free benefits to the beneficiaries under the Scheme, the Ministry through its Implementing Agencies shall make all the required arrangements including the following, namely:-
+
+(1) wide publicity through media and individual notices shall be given to the beneficiaries to make them aware of the requirement of Aadhaar to receive the benefits under the Scheme and, in case they are not enrolled, they may be advised to get themselves enrolled at the nearest Aadhaar enrolment centre available in their areas and the list of locally available enrolment centers shall be made available to them.
+
+(2) in case, the beneficiaries are not able to enroll due to non-availability of the enrolment centers in the vicinity such as in the Block or Taluka or Tehsil, the Ministry through its Implementing Agencies shall provide Aadhaar enrolment facilities at convenient locations and the beneficiaries may register their requests for enrolment by giving their names, addresses, mobile number and other details as specified in the first proviso to sub-paragraph (3) of paragraph 1, with the designated officials of the Implementing Agencies or through the web portal provided for the purpose.
+
+(3) in case, the beneficiaries under the Scheme have enrolled for Aadhaar, however, are not able to produce Aadhaar number for any reason whatsoever, the Ministry through its Implementing Agencies shall provide "Search My Aadhaar" facility through the Unique Identification Authority of India's Enrolment and Update Client by facilitating Aadhaar enrolment facilities at convenient locations and the beneficiaries may be requested to search their Aadhaar in assisted mode by giving their names, addresses, mobile numbers, finger prints and other details, with the operator required to search beneficiaries Aadhaar, subject to the provisions of the said Act and regulations made there under with respect to restriction on sharing, circulating or publishing, of Aadhaar number.
+
+3.
+
+(1) In all cases, where Aadhaar authentication fails due to poor biometrics of beneficiaries or due to any other reason, the following exception handling mechanisms shall be adopted, namely:-
+
+(a) in case of poor fingerprint quality, iris scan facility shall be adopted for authentication, thereby the Ministry through its Implementing Agencies shall make provisions for iris scanners along with finger print scanners for delivery of benefits in seamless manner;
+
+(b) in case of difficulty in fingerprints or iris authentication of the beneficiaries, face authentication shall be used and the Ministry through its Implementing Agencies shall make arrangements for face authentication wherever feasible, for those senior citizens or those beneficiaries whose other modes of authentication fail.
+
+(c) in case of biometric authentication through finger prints or iris or face authentication is not successful, wherever feasible and admissible, authentication by Aadhaar One Time Password (OTP) or Time-based One Time Password (TOTP) with limited time validity, as the case may be, shall he preferred;
+
+(d) in all other cases where biometric or OTP or TOTP authentication is not possible, services or benefits may be given on the basis of physical Aadhaar letter whose authenticity can be verified through the Quick Response (QR) code printed on the Aadhaar letter.
+
+(2) For the purpose of clause (d), the Ministry through its Implementing Agencies shall provide QR code readers at point of service delivery to read QR code printed on Aadhaar letter or E-Aadhaar which allows verifying the authenticity of Aadhaar number in an offline manner.
+
+(3) The QR code shall preferably be read through Secure QR code reader developed by the Unique Identification Authority of India (UIDAI) as it provides digitally signed details of Aadhaar holder and in all such cases the benefits or services may be provided after duly recording the transaction in the exception handling register made for this purpose, which is to be reviewed and audited periodically by the Ministry through its Implementing Agencies, and maintenance of these registers and periodic inspection shall be an essential component of exception handling mechanism.
+
+4.
+
+This notification shall come into effect from the date of its publication in the Official Gazette in all the States and Union territories, except the States of Assam and Meghalaya.
+
+[F. No. A/54/1270/2018-DATC(UIDAI)/PMEGP] SUDHIR GARG,Jt. Secy. and Published by the Controller of Publications, Delhi-110054.
+
+ALOK KUMAR
