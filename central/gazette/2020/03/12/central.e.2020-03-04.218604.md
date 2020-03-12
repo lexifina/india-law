@@ -1,0 +1,84 @@
+---
+title: "Bill was introduced in Lok Sabha on 04th March 2020"
+gazette_id: "CG-DL-E-12032020-218604 Download: gvGazette$ctl03$imgbtndownload"
+ministry: "Lok Sabha Secretariat"
+department: "Not Applicable"
+published: "2020-03-12"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-03-04.218604"
+---
+
+# Bill was introduced in Lok Sabha on 04th March 2020
+
+LOK SABHA The following Bill was introduced in Lok Sabha on 04th March, 2020:—
+
+BILL NO. 61 OF 2020 A Bill further to amend the Indian Institutes of Information Technology Act, 2014 and to amend the Indian Institutes of Information Technology (Public-private Partnership) Act, 2017.
+
+BE it enacted by Parliament in the Seventy-first Year of the Republic of India as follows:—
+
+CHAPTER I PRELIMINARY Short title and commencement.
+
+1. (1) This Act may be called the Indian Institutes of Information Technology Laws (Amendment) Act, 2020.
+
+(2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.
+
+[PART II—
+
+CHAPTER II AMENDMENT TO THE INDIAN INSTITUTES OF INFORMATION TECHNOLOGY ACT, 2014
+
+2. In the Indian Institutes of Information Technology Act, 2014, in section 41, in sub-section (3), for the word "elected" at both the places where they occur, the word
+
+"nominated" shall be substituted.
+
+Amendment of section 41 of Act 30 of
+
+CHAPTER III AMENDMENT TO THE INDIAN INSTITUTES OF INFORMATION TECHNOLOGY (PUBLIC-PRIVATE PARTNERSHIP) ACT, 2017
+
+3. In the Schedule to the Indian Institutes of Information Technology (Public-private Partnership) Act, 2017,—
+
+Amendment of Schedule to Act
+
+(a) after serial number 2 and the entries relating thereto, the following shall be inserted, namely:—
+
+Bihar Indian Institute Indian Indian Institute of Information Institute of of Information Technology, Information Technology, Bhagalpur Technology, Bhagalpur."; being a society Bhagalpur registered under the Societies Registration Act, 1860
+
+(b) after serial number 3 and the entries relating thereto, the following shall be inserted, namely:—
+
+Gujarat Indian Institute Indian Indian Institute of Information Institute of of Information Technology, Information Technology, Surat being Technology, Surat."; a society Surat registered under the Societies Registration Act, 1860
+
+(c) after serial number 7 and the entries relating thereto, the following shall be inserted, namely:—
+
+"7A. Karnataka Indian Institute Indian Indian Institute of Information Institute of of Information Technology, Information Technology, Raichur being a Technology, Raichur."; society registered Raichur under the Societies Registration Act, 1860
+
+(d) after serial number 8 and the entries relating thereto, the following shall be inserted, namely:—
+
+Madhya Indian Institute Indian Indian Institute Pradesh of Information Institute of of Information Technology, Information Technology, Bhopal Technology, Bhopal."; being a society Bhopal registered under the Societies Registration Act, 1860
+
+(e) after serial number 13 and the entries relating thereto, the following shall be inserted, namely:—
+
+"13A. Tripura Indian Institute Indian Indian Institute of Information Institute of of Information Technology, Information Technology, Agartala Technology, Agartala.". being a society Agartala registered under the Societies Registration Act, 1860
+
+[PART II—
+
+STATEMENT OF OBJECTS AND REASONS The Indian Institutes of Information Technology (Public-private Partnership) Act, 2017 (the said Act) was enacted to declare certain Indian Institutes of Information Technology established under Public-private Partnership mode as institutions of national importance, with a view to develop new knowledge in information technology and to provide manpower of global standards for the information technology industry and to provide for certain other matters connected with such institutions or incidental thereto.
+
+2. The said Act was enacted in pursuance of a scheme approved by the Government to set up twenty Indian Institutes of Information Technology in Public-private Partnership mode. Fifteen such institutes were incorporated as institutions of national importance under the said Act. The Government has decided to include five more institutes which have been subsequently established as societies at Bhagalpur (Bihar), Surat (Gujarat), Raichur (Karnataka), Bhopal (Madhya Pradesh) and Agartala (Tripura), also within the ambit of the said Act to be institutions of national importance.
+
+3. The proposed legislation also provides for rectifying a patent error in sub-section (3) of section 41 of the Indian Institutes of Information Technology Act, 2014 so as to substitute the word "elected" with "nominated", for clarity.
+
+4. The Bill seeks to achieve the above objectives.
+
+NEW DELHI;
+
+RAMESH POKHRIYAL 'NISHANK'.
+
+The 21st February, 2020.
+
+FINANCIAL MEMORANDUM The five institutes proposed to be included in the Schedule to the Indian Institutes of Information Technology (Public-private Partnership) Act, 2017 are already being provided budgetary support in accordance with the scheme approved by the Government.
+
+2. The Bill does not involve any other additional expenditure of recurring or non-recurring nature.
+
+SNEHLATA SHRIVASTAVA, Secretary-General.
+
+UPLOADED BY THE MANAGER, GOVERNMENT OF INDIA PRESS, MINTO ROAD, NEW DELHI–110002 AND PUBLISHED BY THE CONTROLLER OF PUBLICATIONS, DELHI–110054.
+
+SUBIR NARAYAN GARAI Digitally signed by SUBIR NARAYAN GARAI
