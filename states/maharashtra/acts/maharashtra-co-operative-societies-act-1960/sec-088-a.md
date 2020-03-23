@@ -1,3 +1,0 @@
-# Section 88A
-
-88A. Deposit towards fees of inquiry.— Where the Registrar on his own motion decides and orders an inquiry under section 83 or proceeds or authorises to make inquiry under section 88, he may, having regard to the nature of allegations, and the inquiry involved, require the society concerned to deposit with him such sum of money as he may determine, towards the cost of inquiry. If the sum so determined is not deposited with the Registrar within 15 days from the date of receipt of the order requiring the society to deposit the sum, it shall on a certificate issued by the Registrar, be recoverable as an arrears of land revenue.]

@@ -1,3 +1,0 @@
-# Section 160B
-
-160B. Members of committees not entitled to travelling allowance, daily allowance, etc., at a rate higher than the maximum prescribed.— Subject to the provisions of section 160A, no member of the committee of any society shall be entitled to receive from the society the travelling allowance, the daily allowance or such other allowances or fees which are paid to the members for attending meetings of its committee or for performing any other functions as such members, at a rate higher than the maximum rate prescribed in this behalf, and different maximum rates may be prescribed for different societies or class of societies or for different purposes.]
