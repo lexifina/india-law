@@ -1,0 +1,28 @@
+---
+title: "In pursuance of sub clause iv of clause b of section 3 of the Drugs and Cosmetics Act"
+gazette_id: "CG-DL-E-11022020-216073 Download: gvGazette$ctl12$imgbtndownload"
+ministry: "Ministry of Health and Family Welfare"
+department: "Department of Health and Family Welfare"
+notification_no: "S.O. 648(E)"
+published: "2020-02-11"
+in_force: "2020-04-01"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-11.216073"
+---
+
+# In pursuance of sub clause iv of clause b of section 3 of the Drugs and Cosmetics Act
+
+MINISTRY OF HEALTH AND FAMILY WELFARE (Department of Health and Family Welfare) NOTIFICATION New Delhi, the 11th February, 2020 S.O. 648(E).— In pursuance of sub-clause (iv) of clause (b) of section 3 of the Drugs and Cosmetics Act, 1940 (23 of 1940), the Central Government, after consultation with the Drugs Technical Advisory Board, hereby specifies the following devices intended for use in human beings or animals as drugs with effect from the 1st day of April, 2020, namely:― All devices including an instrument, apparatus, appliance, implant, material or other article, whether used alone or in combination, including a software or an accessory, intended by its manufacturer to be used specially for human beings or animals which does not achieve the primary intended action in or on human body or animals by any pharmacological or immunological or metabolic means, but which may assist in its intended function by such means for one or more of the specific purposes of ―
+
+(i) diagnosis, prevention, monitoring, treatment or alleviation of any disease or disorder;
+
+(ii) diagnosis, monitoring, treatment, alleviation or assistance for, any injury or disability;
+
+(iii) investigation, replacement or modification or support of the anatomy or of a physiological process;
+
+(iv) supporting or sustaining life;
+
+(v) disinfection of medical devices; and
+
+(vi) control of conception.
+
+[F.No. X.11035/281/2018-DRS] Dr. MANDEEP K. BHANDARI, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
