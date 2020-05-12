@@ -1,0 +1,3 @@
+# Section 31A
+
+31A. Facility of digital payment to recipient.— The Government may, on the recommendations of the Council, prescribe a class of registered persons who shall provide prescribed modes of electronic payment to the recipient of supply of goods or services or both made by him and give option to such recipient to make payment accordingly, in such manner and subject to such conditions and restrictions, as may be prescribed.]
