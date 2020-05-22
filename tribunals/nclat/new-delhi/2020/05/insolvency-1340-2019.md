@@ -1,0 +1,304 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 1340 of 2019"
+decided: "2020-05-22"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/8903326715ef46fb6dbb93.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 1340 of 2019, 2020-05-22
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+(Arising out of Order dated 26th September, 2019 passed by the
+Adjudicating Authority (National Company Law Tribunal), Ahmedabad
+Bench, Ahmedabad in C.P. No. (IB) 182/9/NCLT/AHM/2018)
+IN THE MATTER OF:
+Ritu Murli Manohar Goyal ...Appellant
+Vs.
+SVG Fashions Ltd. & Anr. ...Respondents
+Present: For Appellant: - Mr. Keith Varghese, Advocate.
+For Respondents: - Mr. Rakesh Kumar and Mr. Ankit
+Sharma, Advocates.
+Mr. Sumit Kansal, Advocate for Respondent No.2-
+‘Interim Resolution Professional’.
+J U D G M E N T
+Bansi Lal Bhat, J.
+Application of Respondent No.1- ‘M/s. SVG Fashions Ltd.’
+(‘Operational Creditor’) under Section 9 of the Insolvency and
+Bankruptcy Code, 2016 (“I&B Code” for short) came to be admitted at
+the hands of the Adjudicating Authority (National Company Law
+Tribunal), Ahmedabad Bench, Ahmedabad in terms of the order dated
+26th September, 2019 impugned in the instant appeal preferred by ‘Ritu
+
+2
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+Murli Manohar Goyal’, one of the Shareholders and Director of the
+‘Corporate Debtor’- ‘M/s. Arpita Filaments Private Limited’ primarily on
+the ground that the claim was barred by limitation and initiation of the
+‘Corporate Insolvency Resolution Process’ could not be sustained.
+2. The broad features of the case may be briefly adverted to. ‘M/s.
+SVG Fashions Ltd.’ (‘Operational Creditor’) asserted before the
+Adjudicating Authority that it was engaged in the business of supply of
+various fabrics and had been doing business with the ‘Corporate
+Debtor’ since the year 2013 regularly supplying various fabrics in
+respect whereof bills were raised from time to time which were cleared
+by the ‘Corporate Debtor’ without raising any dispute in regard to the
+quality of the products supplied by the ‘Operational Creditor’. However,
+since August, 2013, the ‘Corporate Debtor’ started making irregular
+payments and the bills were not cleared in time. As the ‘Operational
+Creditor’ raised issue regarding payments with the ‘Corporate Debtor’,
+in the year 2015, the ‘Corporate Debtor’ issued signed cheques as
+security, but since no payment was forthcoming, ‘Operational Creditor’
+was constrained to issue Demand Notice under Section 8 of the ‘I&B
+Code’ calling upon the ‘Corporate Debtor’ to pay aggregate amount of
+Rs. 43,96,593/- towards bills raised from 11th August, 2013 to 2nd
+September, 2013 amounting to Rs. 21,08,821/- plus interest of Rs.
+22,87,772/-. Demand Notice dated 19th March, 2018 was duly delivered
+at the registered office of the ‘Corporate Debtor’ but the ‘Corporate
+
+3
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+Debtor’ chose not to reply the same, thereby prompting the ‘Operational
+Creditor’ to approach the Adjudicating Authority for triggering of
+‘Corporate Insolvency Resolution Process’.
+3. The ‘Corporate Debtor’, while denying its liability qua claim of
+operational debt, raised the plea before the Adjudicating Authority that
+six cheques had been found missing from its cheque book and it had
+issued letters to ‘Surat National Co.op. Bank Ltd.’ requesting to stop
+payment. The Adjudicating Authority directed the ‘Corporate Debtor’ to
+place on record the original letters addressed to the Bank. It is noticed
+in paragraph 18 of the impugned order that the original date of
+issuance of a letter dated 1st January, 2008 has been struck off and
+replaced by 4th March, 2017. The comparison made by the Adjudicating
+Authority raised suspicion about genuineness of such letters. That
+apart, ‘Corporate Debtor’ failed to produce credible proof in regard to
+missing of cheques and subsequent issuance of letters of stoppage of
+payments to the Bank. Thus, the Adjudicating Authority arrived at the
+conclusion that the ‘Corporate Debtor’ had committed default in respect
+of the operational debt arising out of supply of goods by the ‘Operational
+Creditor’ and had fabricated the aforesaid plea raised to defeat
+triggering of ‘Corporate Insolvency Resolution Process’ at the instance of
+‘Operational Creditor’.
+4. Learned counsel for the Appellant submitted that the date of
+default mentioned in the application is 7th October, 2013 while the
+
+4
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+application was filed on 20th April, 2018 and in view of Article 137 of the
+Limitation Act, the application filed by the ‘Operational Creditor’ was
+time barred. Per contra, learned counsel for the ‘Operational Creditor’
+submitted that the cheques were issued in acknowledgment of the debt
+within the period of limitation and the cheques having been
+dishonoured, ‘Corporate Insolvency Resolution Process’ was initiated
+after issuance of Demand Notice within the prescribed period of
+limitation. It is further submitted on behalf of the ‘Operational Creditor’
+that the ‘Corporate Debtor’ had denied the very transaction of supply of
+goods as also issuance of cheques by falsely claiming that the cheques
+had been lost and the same plea was found to be without substance. It
+is further submitted that the ‘Corporate Debtor’ had neither complied
+with the Demand Notice nor raised any dispute in regard to supply or
+quality of goods as the Demand Notice was not at all responded to by
+the ‘Corporate Debtor’.
+5. Having heard learned counsel for the parties and fathomed
+through the records, we find that the appeal bears merit for the reasons
+we would be adverting to.
+6. It is the settled proposition of law that an application under
+Section 9 of the ‘I&B Code’ is governed by Article 137 of the Limitation
+Act, 1963, which is reproduced hereunder:
+
+5
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+Part II-OTHER APPLICATION
+Description of application Period of Limitation Time from which
+period begins to run
+137. Any other application for which
+no period of limitation is provided
+elsewhere in this division.
+Three years When the right to
+apply accrues
+The period prescribed under this Article being three years, the
+‘Operational Creditor’ is required to satisfy the Adjudicating Authority
+that the ‘Corporate Insolvency Resolution Process’ is sought to be
+initiated by filing application within the prescribed period of three years.
+7. Form 3 is the Demand Notice issued by the ‘Operational Creditor’
+which is at Page 119 of the Appeal paper book. Its perusal brings to fore
+that the total amount of debt on account of goods supplied by the
+‘Operational Creditor’ to the ‘Corporate Debtor’ under various invoices
+has been calculated at Rs. 42,67,640/- in respect whereof the
+‘Corporate Debtor’ is stated to have issued six cheques dated 5th
+December, 2017 for an aggregate amount of Rs. 5,37,206/- towards
+part payment which were dishonoured when presented by the
+‘Operational Creditor’ for encashment before the Bank.
+8. It is manifestly clear that the six cheques claimed to have been
+issued by the ‘Corporate Debtor’ towards part payment of the liability
+arising out of outstanding operational debt were issued on 5th
+
+6
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+December, 2017 as per admission of the ‘Operational Creditor’, this fact
+having been incorporated in Form 3 i.e., the Demand Notice dated 22nd
+December, 2017. In so far as liability arising out of operational debt is
+concerned, the invoices raised in regard to the outstanding operational
+debt covers the period from 11th August, 2013 to 2nd September, 2013.
+This fact is clearly emerging from paragraph 3 of Form 5 i.e., the
+application filed by the ‘Operational Creditor’ before the Adjudicating
+Authority for triggering of ‘Corporate Insolvency Resolution Process’ (at
+Page 39 of the Appeal paper book).
+9. The ‘Operational Creditor’ while placing these facts before the
+Adjudicating Authority has clearly described the date of default as 7th
+October, 2013 (Page 46 of the Appeal paper book). The ‘Operational
+Creditor’ cannot escape from the factual assertion incorporated in
+Demand Notice and the application filed before the Adjudicating
+Authority. A combined reading of the Demand Notice and the
+application filed for triggering of ‘Corporate Insolvency Resolution
+Process’ at the instance of ‘Operational Creditor’ clearly establishes that
+the default had occurred on 7th October, 2013 and the application for
+triggering of ‘Corporate Insolvency Resolution Process’ under Section 9
+of the ‘I&B Code’ was filed before the Adjudicating Authority on 20th
+April, 2018 i.e. well after the prescribed period of three years in terms of
+provisions of residuary clause engrafted under Article 137 of the
+Limitation Act, 1963. Viewed thus, there can be no hesitation in
+
+7
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+holding that the application filed by the ‘Operational Creditor’ under
+Section 9 of the ‘I&B Code’ was barred by limitation.
+10. The next question arising for attention is whether issuance of six
+cheques by the ‘Corporate Debtor’ towards the part payments of the
+outstanding operational debt would amount to an acknowledgment of
+debt thereby giving fresh lease of life to the claim of ‘Operational
+Creditor’ qua such operational debt. On this issue, it would be
+appropriate to notice that the general principle embodied in Section 3 of
+the Limitation Act, 1963 providing that every suit, appeal or application
+filed after the prescribed period of limitation shall be dismissed
+irrespective of the fact that limitation has not been set up as a defence
+is subject to the provisions contained in Sections 4 to 24 (inclusive) of
+the Limitation Act, 1963. These Sections carve out exceptions by
+providing exclusion and extension on various grounds enumerated
+therein.
+11. Section 18 of the Limitation Act, 1963 deals with “effect of
+acknowledgment in writing”. It is reproduced as under:
+“18. Effect of acknowledgment in writing.—(1)
+Where, before the expiration of the prescribed period
+for a suit or application in respect of any property or
+right, an acknowledgment of liability in respect of
+such property or right has been made in writing
+
+8
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+signed by the party against whom such property or
+right is claimed, or by any person through whom he
+derives his title or liability, a fresh period of
+limitation shall be computed from the time when the
+acknowledgment was so signed.
+(2) Where the writing containing the
+acknowledgment is undated, oral evidence may be
+given of the time when it was signed; but subject to
+the provisions of the Indian Evidence Act, 1872 (1 of
+1872), oral evidence of its contents shall not be
+received.
+Explanation.—For the purposes of this
+section,—
+(a) an acknowledgment may be sufficient
+though it omits to specify the exact nature of
+the property or right, or avers that the time
+for payment, delivery, performance or
+enjoyment has not yet come or is
+accompanied by a refusal to pay, deliver,
+perform or permit to enjoy, or is coupled with
+a claim to set off, or is addressed to a person
+other than a person entitled to the property
+or right,
+
+9
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+(b) the word “signed” means signed either
+personally or by an agent duly authorised in
+this behalf, and
+(c) an application for the execution of a
+decree or order shall not be deemed to be an
+application in respect of any property or
+right.”
+12. A bare look at the provision engrafted in this Section brings it to
+fore that an acknowledgment of liability in respect of a right made in
+writing by a person against whom such right is claimed shall have the
+effect of computation of fresh period of limitation from the time of
+signing of such acknowledgment provided such acknowledgment of
+liability has been made before the expiration of the prescribed period of
+limitation for a suit or application in respect of such right. The provision
+is in the nature of extension of period of limitation having the effect of
+the period of limitation being reckoned afresh from the date of such
+acknowledgment in writing being signed by the person of incidence.
+However, such acknowledgment will take effect only if the liability in
+respect of such right is acknowledged in writing and signed by the
+person of incidence before the expiration of the prescribed period of
+limitation for such suit or application in respect of such right. Applying
+the dictum of this provision in the facts and circumstances of instant
+case, it is manifestly clear that in respect of the invoices raised in the
+
+10
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+year 2013 the prescribed period of limitation being three years in terms
+of Article 137 of the Limitation Act, 1963 expired in the year 2016 and
+the issuance of cheques by the ‘Corporate Debtor’ in the year 2017
+being well beyond the prescribed period of three years would not be
+construed as an acknowledgment in writing within the prescribed
+period of limitation in terms of Section 18 of the Limitation Act, 1963.
+The situation would have been different if such cheques issued by the
+‘Corporate Debtor’ towards the part payment of the operational debt
+had been issued prior to 7th October, 2016 as the date of default
+occurred on 7th October, 2013 which fact is admitted by the
+‘Operational Creditor’ in Form 5 (Page 46 of the Appeal paper book).
+13. In this factual background and on the very basis of what was
+placed by the ‘Operational Creditor’ before the Adjudicating Authority,
+issuance of six cheques dated 5th December, 2017 by the ‘Corporate
+Debtor’ towards part payment of the operational debt in respect of
+invoices with last one raised on 2nd September, 2013 cannot be termed
+as an acknowledgment of debt within the ambit of Section 18 of the
+Limitation Act, 1963. The inescapable conclusion is that the operational
+debt in respect whereof the ‘Operational Creditor’ sought triggering of
+‘Corporate Insolvency Resolution Process’, was neither due nor payable
+in law on the date when such ‘Corporate Insolvency Resolution Process’
+was sought to be initiated by the ‘Operational Creditor’.
+
+11
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+14. We accordingly, uphold the contention raised in this Appeal that
+application under Section 9 was hit by limitation. That being so, the
+impugned order admitting the petition under Section 9 of the ‘I&B Code’
+at the instance of the ‘Operational Creditor’ cannot be sustained. The
+appeal is allowed and the impugned order is set aside.
+15. In effect, order (s), passed by the Adjudicating Authority
+appointing ‘Interim Resolution Professional’, declaring moratorium,
+freezing of account, and all other order (s) passed by the Adjudicating
+Authority pursuant to impugned order and action, if any, taken by the
+‘Interim Resolution Professional’, including the advertisement, if any,
+published in the newspaper calling for applications, all such orders and
+actions are declared illegal and are set aside. The application preferred
+under Section 9 of the ‘I&B Code’ is dismissed. Learned Adjudicating
+Authority will now close the proceeding. The ‘Corporate Debtor’
+(company) is released from all the rigours of law and is allowed to
+function independently through its Board of Directors from immediate
+effect.
+16. The Adjudicating Authority will fix the fee of the ‘Interim
+Resolution Professional’, and the ‘Operational Creditor’ will pay the fees
+of the ‘Resolution Professional’, for the period he has functioned.
+
+12
+Company Appeal (AT) (Insolvency) No. 1340 of 2019
+The appeal is allowed with aforesaid observations. However, in
+the facts and circumstances of the case, there shall be no order as to
+cost.
+[Justice Bansi Lal Bhat]
+Member (Judicial)
+[ V.P. Singh]
+Member (Technical)
+[ Shreesha Merla ]
+Member (Technical)
+NEW DELHI
+22nd May, 2020
+AR
