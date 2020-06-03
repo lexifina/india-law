@@ -1,0 +1,765 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Company) No. 29 of 2020"
+decided: "2020-06-03"
+section: "Company"
+court: "Court - 4"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/9242703225ed781a93b227.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Company) No. 29 of 2020, 2020-06-03
+
+1
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+NEW DELHI
+COMPANY APPEAL (AT) No.365 of 2019
+(Arising out of order dated 10th December, 2019 passed by the National
+Company Law Tribunal, Bench II, Mumbai in Company Petition No.447 of
+2018)
+In the matter of:
+Jayshree Damani
+6A Shanaz, 90,
+Napeansea Road,
+Mumbai 400006 Appellant No.1
+Yashita Damani
+Minor through her mother,
+Mrs Jayshree Damani
+6A Shanaz, 90, Napeansea Road,
+Mumbai 400006 Appellant No.2.
+Vs
+Atlas Copco (India) Ltd
+Sevanagar,
+Dapodi,
+Pune, Maharashtra 411012 Respondent
+Mr Abhijeet Sinha, Mr Mahesh Agarwal, Mr. Mantul Bajpai, Mr. Divyanshu
+Chandiramani, MR Saikat Sarkar, Advocates for appellant.
+Mr. A.S. Chandiok, Sr. Advocate, Mr. Hemant Sethi, Mr. Gaurav Sethi, Ms
+Shweta, Ms Neelam Deol, Ms Shruti Sharma, Advocates for Respondent.
+And
+COMPANY APPEAL (AT) No.366 of 2019
+In the matter of:
+Janak Mathuradas Appellant
+187, Lohar Chawl, Manhar Building,
+2nd Floor, Mumbai 400002 Appellant
+Vs
+Atlas Copco (India) Ltd
+Sevanagar,
+Dapodi,
+Pune, Maharashtra 411012 Respondent
+
+2
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+Mr Sudipto Sarkar, Sr. Advocate, Mr Mahesh Agarwal, Mr. Mantul Bajpai, Mr.
+Divyanshu Chandiramani, Advocates for appellant.
+Mr. A.S. Chandiok, SR. Advocate, Mr. Hemant Sethi, Mr. Gaurav Sethi, Ms
+Shweta, Ms Neelam Deol, Ms Shruti Sharma, Advocates for Respondent.
+and
+COMPANY APPEAL (AT) NO.24 OF 2020
+In the matter of:
+Sanjay Asher,
+32, Mody Street,
+Fort, Mumbai 400001 Appellant
+Vs
+Atlas Copco (India) Ltd
+Sevanagar,
+Dapodi,
+Pune, Maharashtra Respondents
+Mr Shikhil Suri, Mr Shiv Kr Suri, Ms Nikita Thapar, Vinati Bhola and Ms
+Shilpa Jaini, Advocates for appellant.
+Mr. Hemant Sethi, Mr. Gaurav Sethi, Advocates for Respondent.
+And
+COMPANY APPEAL (AT) No.27 of 2020
+In the matter of:
+Arun Kejriwal
+302, Bharat Apartments,
+Gandhigram Road,
+Near ISCKON Temple,
+Juhu, Mumbai
+Maharashtra 400049 Appellant
+Vs
+Atlas Copco (India) Ltd
+Sevanagar,
+Dapodi,
+Pune, Maharashtra 411012 Respondent
+Mr Amit Singh Chadha, Sr. Advocate with Mr. Pranjit Bhattacharya,
+Advocates for appellant.
+Mr. Hemant Sethi, Mr. Gaurav Sethi, Advocates for Respondent.
+And
+COMPANY APPEAL (AT) No.28 of 2020
+
+3
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+In the matter of:
+Sudhir Haribhai Patel
+C/4 Mehta Estate,
+262 Thakurdwar Road,
+Mumbai 400002 Appellant
+Vs
+Atlas Copco (India) Ltd
+Sevanagar,
+Dapodi,
+Pune, Maharashtra 411012 Respondent
+Mr Abhijit Sinha, with Mr. Pranjit Bhattacharya, Mr Saikat Sarkar, Advocates
+for appellant.
+Mr. Hemant Sethi, Mr. Gaurav Sethi, Advocates for Respondent.
+and
+COMPANY APPEAL (AT) No.29 of 2020
+In the matter of:
+Deep Janak
+187, Lohar Chawl, Manhar Building,
+Gandhigram Road,
+Near ISCKON Temple,
+2nd Floor, Mumbai 400002 Appellant
+Vs
+Atlas Copco (India) Ltd
+Sevanagar,
+Dapodi,
+Pune, Maharashtra 411012 Respondent
+Mr. Pranjit Bhattacharya, Advocate for appellant.
+Mr. Hemant Sethi, Mr. Gaurav Sethi, Advocates for Respondent.
+And
+COMPANY APPEAL (AT) No.30 of 2020
+In the matter of:
+Jawahir Jagatsinh Merchant, Adult,
+Sheel Chambers, 2nd floor,
+10 Cawasji Patel Street,
+Fort, Mumbai 400001 Appellant
+
+4
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+Vs
+Atlas Copco (India) Ltd
+Sevanagar,
+Dapodi,
+Pune, Maharashtra 411012 Respondent
+Mr Sudipto Sarkar, Sr. Advocate, Mr. Pranjit Bhattacharya, Advocates for
+appellant.
+Mr. Hemant Sethi, Mr. Gaurav Sethi, Advocates for Respondent.
+JUDGEMENT
+(3rd June, 2020)
+MR. BALVINDER SINGH, MEMBER (TECHNICAL)
+The present seven appeals have been preferred by the appellants under
+Section 421 of the Companies Act, 2013 against the order dated 10th
+December, 2019 passed by the National Company Law Tribunal, Bench II,
+Mumbai in Company Petition No.4475 of 2018.
+2. The brief facts of the case are that the Respondent company is a
+company incorporated under the provisions of the Companies Act, 1956
+carrying the business of manufacturing and selling industrial gas and air
+compressors, vacuum solutions, industrial tools and solutions, mobile airs,
+tools, power pumps and light towers. The issued, subscribed and paid up
+share capital of the Respondent company before filing the Company Petition
+before the NCLT was Rs.22,56,15,640/- comprising of 22561564 equity
+shares of Rs.10/- each. 96.32% shares of the company were held by the
+holding company viz Atlas Copco AB and the remaining 3.68% shares were
+held by public shareholders and group companies of the Respondent
+
+5
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+Company. The shares of the Respondent company were listed on BSE and
+Pune Stock Exchange. In May, 2011 the equity shares of the Respondent
+company were delisted from the Bombay and Pune Stock Exchange.
+3. Respondent company issued a notice dated 18.9.2018 to its
+shareholders convening an EOGM on 25.10.2018 to consider a special
+resolution approving reduction of the paid up equity share capital held by the
+public shareholders and extinguishing their entire shareholding in the
+Respondent company. The special resolution was passed on 25th October,
+2018 by the shareholders whereby the shareholding of the company would
+get reduced from 22,561,564 fully paid up shares of Rs.10/- each to
+2,17,31,951 fully paid up shares of Rs.10/- each.
+4. In the EOGM held on 25th October, 2018 all except 37 shareholders
+representing 34,476 equity shares (the objecting shareholders) i.e
+representing about 0.15% of the total equity Shares have voted for approving
+the proposed reduction of the Respondent Company. After getting approval
+from the shareholders the Respondent Company filed Company Petition
+No.4475/2018 before the NCLT Mumbai for getting its approval under Section
+66 of the Companies Act, 2013 and the Rules framed thereunder and
+Reduction of Equity Share capital of Respondent Company.
+5. Before the NCLT, Mumbai, out of 37 shareholders, only 4 shareholders
+namely (1) Mr.Janak Mathuradas, (2)Mr. Arun Kejriwal, (3)Mr. Monish
+Bhandari and (4) Oswal Trading Co Pvt ltd filed an objection to the proposed
+reduction before the NCLT, Mumbai. The Respondent company gave price of
+Rs.2100/-per share, offering the objectors to exit. The Respondent company
+had obtained a fair equity value of Rs.1854 per share given my M/s BSR &
+
+6
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+Associates LLP, after utilizinag different valuation methods. The company
+added premium of Rs.246/- per share to the fair value of each share thereby
+improving the value to Rs.2100/- per share. The appellant had mentioned
+that the price offered per share is on the lower side and also station that it is
+against the spirit of Section 66 of the Companies Act. 46 other shareholders
+of the Respondent Company also filed objections supporting the objections
+raised by Mr. Janak Mathuradas against the proposed reduction stating that
+the reduction is unfair. Their main objection was that the proposed reduction
+is unfair.
+6. The Respondent Company stated that the objections of appellants no
+longer survive as the Respondent company has given an undertaking that the
+appellants can continue as a shareholder.
+7. After hearing the parties the NCLT, Mumbai passed the following order:
+“Application for the reduction of share capital allowed subject to the
+directions given hereinabove. All concerned regulatory authorities to act
+on production of certified copy of this order.”
+8. Being aggrieved by the said impugned order the appellants have
+preferred the present appeal by challenging the impugned order.
+Company Appeal (AT) No.365 of 2019
+9. The appellants stated that the appellant No.1 and appellant No2 hold
+3703 and 1761 equity shares of the Respondent company. Appellants stated
+that the Company issued a notice dated 18.9.2018 to its shareholders
+convening an EOGM on 25th October, 2018 to consider a special resolution in
+reduction of capital of the company and that such reduction be effected by
+cancelling and extinguishing 3.68% of the total issued, subscribed and paid
+
+7
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+up equity shares capital of the company (Non-Promoter shares which are held
+by the public shareholders. Appellants stated that on perusal of the
+explanatory statement under Section 102 of the Act, there was no option
+available to any minority or public shareholder to exercise the option of
+remaining a shareholder. Appellants stated that in other words the resolution
+proposed and the explanatory statement of reduction of share capital was
+mandatory for all minority or public shareholders. Appellants stated that they
+were opposed to their shareholding being compulsorily extinguished as also
+to the value of Rs.2100/- per equity share. Appellants stated that they hold
+only 5464 equity shares and the 96.32% of the total share capital is held by
+the Respondent company, they realised that the appellants will be outvoted
+despite genuine concerns regarding reduction and extinguishment and value
+offered to each shareholder. Therefore, the appellants did not attend the
+EGOM held on 25th October, 2018. Appellants stated that the Meeting was
+held and several minority or public shareholders voiced their concern against
+the capital reduction and voted against the resolution. Appellants stated that
+the Resolution was passed and the Respondent filed company petition for
+approval before the NCLT, Mumbai. Appellants further stated that they came
+to know that one Mr. Janak Mathuradas filed objections to the Company
+Petition before the NCLT, Mumbai, therefore, the appellants by duly sworn
+affidavits 11th October, 2019 duly supported that objections filed by Mr.
+Janak Mathuradas. Appellants stated that the Company has stated that the
+Respondent shall unconditionally permit such minority or public
+shareholders who had attended the EGM and voted against the resolution to
+remain shareholders of the company but since the appellants had voted in
+
+8
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+favour of the resolution, they were precluded from objecting the Company
+Petition before the NCLT and the option to remain shareholders shall not be
+extended to them. Appellants stated that they filed Misc Application No.3869
+of 2019 and 3911 of 2019 before the NCLT Mumbai pointing out that the
+Appellants did not attend the EGM and hence the question of voting in favour
+of the Resolution did not arise.
+10. Reply on behalf of the Respondents have been filed. The Respondent
+stated that the appellants through the electronic voting facility made available
+by the Respondent to its shareholders prior to EGM, voted in favour of the
+resolution approving the said reduction. Respondent further stated that Mr.
+Sanjay Damani, husband of appellant No.1 and father of appellant No.2,
+attended the EGM held on 25th October, 2019 and recorded his presence at
+the EGM by signing the attendance slip. Respondent has stated that the
+certificate issued by Scrutinizer and the attendance slip is placed herewith.
+Respondent stated that the appellants and their family members substantially
+increased their shareholding in the Respondent company after fully knowing
+the Resolution passed in the EOGM on 25th October, 2018. Respondent
+stated that the appellants and his family members had acquired/purchased
+more than 7000 shares approx. post 25.10.2018. Respondent statd that the
+appellant has not disclosed at which price they have purchased these 7000
+shares. Respondent stated that Sanjay Damani is a professional stock broker
+and is selling the Respondents shares on his own website at a price of INR
+2125 per share while at the same time alleging that the Respondent’s offer
+price of INR 2100 is grossly undervalued. Respondent submitted that the
+appellants have themselves admitted themselves decided to object the said
+
+9
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+reduction only on 11.10.2019, almost a year after the resolution. Respondent
+stated that Mr. Janak Mathuradas sent email dated 7th October, 2019 to
+appellants and other public shareholders to support his objections before the
+NCLT, Mumbai. Respondent stated the appellants are falsely alleging that the
+Respondent has modified the resolution passed in EGM by an undertaking in
+the affidavit 8th November, 2019 filed by Respondent. Respondent stated that
+the said undertaking was filed at the directions of the NCLT Mumbai and there
+has been no modification of the Resolution. Respondent further stated that
+who want to participate in the said reduction and have not appealed against
+the impugned order, they are approaching the Company for release of
+payment but the Respondent company is unable to release in view of the stay
+on the implementation of impugned order. Respondent further state that the
+Respondent is also facing financial losses and the company has transferred
+the consideration amount to a separate non-interest being bank account as
+of date. Respondent stated that they have already filed certified copy of the
+impugned order with ROC and a certificate confirming registration of the
+impugned order has also been issued by ROC Pune on 27.12.2019.
+12. In Rejoinder filed by the appellant, appellant stated that the respondent
+has no answer to the ground raised that had the option of retaining shares
+been part of the Explanatory Statement to the notice convening the EGM, the
+minority shareholders would have voted differently. Appellant further stated
+that the respondent has not disputed the fact that the actual undertaking
+dated 8th November, 2019 was substantially and materially different from the
+undertaking expressed by the respondent before NCLT. Appellant stated that
+the resolution can be modified only by the shareholders after taking a
+
+10
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+conscious decision taking into consideration all the relevant and important
+aspects of the resolution affecting their rights. Appellant stated that a special
+resolution cannot be amended without giving sufficient notice to all the
+shareholders for the amendment. Appellant stated that there is no power
+granted to NCLT or Board of Directors to modify/amend the resolution.
+Appellant stated that at the time of passing of the resolution the shareholders
+did not have any information regarding the future modification which the
+Respondent will propose, the modification can not take place. Appellant
+stated that the alleged certificate issued by the Scrutinizer is incorrect.
+Appellant stated that the appellants herein have not voted in favour of the
+resolution by electronic voting or any other means. Appellant stated that this
+certificate has been made on the request of the Respondent. Appellant stated
+that had the appellants known that voting against the resolution would entitle
+them to retain the shares, the appellants would have voted against the
+resolution.
+Company Appeal (AT) No.366 of 2019
+13. The appellant stated that he holds 1372 equity shares since its
+incorporation. Appellant stated that the Company issued a notice dated
+18.9.2018 to its shareholders convening an EOGM on 25th October, 2018 to
+consider a special resolution in reduction of capital of the company and that
+such reduction be effected by cancelling and extinguishing 3.68% of the total
+issued, subscribed and paid up equity shares capital of the company (Non-Promoter shares which are held by the public shareholders. Appellant stated
+that on perusal of the explanatory statement under Section 102 of the Act,
+there was no option available to any minority or public shareholder to exercise
+
+11
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+the option of remaining a shareholder. Appellant stated that in other words
+the resolution proposed and the explanatory statement of reduction of share
+capital was mandatory for all minority or public shareholders. Appellant
+stated that he attended the EGOM held on 25th October, 2018. Appellant
+stated that the Meeting was held and several minority or public shareholders
+voiced their concern against the capital reduction and voted against the
+resolution. Appellant stated that he voted against the resolution. Appellant
+stated that the Resolution was passed and the Respondent filed company
+petition for approval before the NCLT, Mumbai. Appellant stated that during
+the EGM the appellant requested for copies of the valuation report as well as
+the Fairness Opinion procured by Respondent in support of the valuation of
+Rs.1854/- per equity share sought to be assigned to the equity shares of the
+Respondent. Appellants stated that the Respondent required the appellant to
+sign a ‘confidentiality and hold harmless letter’ before providing the
+documents on the ground that the said documents were confidential in
+nature. Appellant stated that he filed objections to the Company Petition filed
+by Respondent under Section 66 of the Act for sanction of resolution for
+capital reduction passed at the EOGM. Appellant stated that the valuation
+issued by the BSR & Associates LLP dated 14.9.2018. The date for valuation
+is taken as 31st March, 2018 which is much prior to the date of valuation
+report. Appellant stated that prior to valuation i.e. in November, 2017 the
+mining and excavation business of the Respondent was hived off to another
+company namely Epiroc Mining India Ltd. Appellant stated that the Scheme
+as confirmed is unfair and inequitable and in any case does not provide for a
+fair value for the share capital which is sought to be reduced by confirmation
+
+12
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+of the Scheme. Appellant stated that the Scheme was confirmed in respect of
+8,29,613 issued subscribed and fully paid up equity shares of Rs.10/- each
+held by the non-promoter public shareholders of the Respondent Company
+but at the time hearing of the petition it was suggested that the shares of
+dissenting shareholders that were opposed to the Scheme would not be the
+subject matter of reduction, yet the minutes which form part of the impugned
+order refers to the entirety of the share capital held by the minority
+shareholders of the Respondent and the words “not exceeding” have been
+added. Appellant stated that when a resolution is passed by the shareholders
+it can only be modified by the shareholders in a legally convened general
+meeting. Appellant stated that the Respondent company cannot by way of an
+affidavit filed in Court seek to modify the resolution. Appellant stated that
+the Respondent’s suggestion that any modification to the Resolution was
+suggested by the Tribunal is incorrect. The modification was sought by the
+Respondent company. The changes that were proposed by the Company to
+resolution are factual in nature. Appellant stated that the company under
+the garb of modification by the Tribunal itself purported to modify the
+Resolution for the benefit and interest of its promoters. Appellant stated that
+the Tribunal is vested with the responsibility of protecting the minority
+shareholders from oppression of majority promoter shareholders in the
+matters of reduction of share capital. Appellant stated that as per Section
+188 of the Act only the meeting of the affected parties i.e. the non promoter
+minority shareholders should have been conducted and the special resolution
+for reduction of share capital should have been put to vote. Appellant stated
+that an option to remain with the Company was never disclosed to its
+
+13
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+shareholders before the EGM. Appellant stated that valuation report issued
+by Valuer is admitted based only on the information provided by the Compan
+and valuer has admittedly not even independently verified or checked the
+accuracy or timelines of the same. The valuer has not done necessary due
+diligence. Appellant stated that the business plan, assumptions and otaher
+information relied in the valuation report are not even placed before NCLT so
+as to enable it to verify the reasonableness of the assumptions. Appellant
+stated that the valuer has even ignored the anticipated enhanced revenues
+and operational efficiency which the Company expects to derive. Appellant
+stated that due to the amendment in 2019 to Income Tax Act 1961 corporate
+tax rates have been reduced, however, the valuation proceeds on the basis of
+old rates. The fair market value of shares of the company needs to be
+determined after taking into account the provisions for taxation applicable as
+on date. Appellant has stated that the appellant had the shares independently
+valued at Rs.3627/- per share as against the valuation of Rs.1854/-
+14. In reply on behalf of the Respondents, the Respondent stated that the
+appellant hold 885 shares of the Respondent company and is attempting to
+override the collective wisdom and decision taken by the NCLT and 99.84% of
+the shareholders as well as the majority of the non-promoter. Respondent
+stated that the appellant has admitted that the appellant can choose not to
+participate in the said reduction and continue to retain his shares in the
+Respondent as per the impugned order and Respondent’s letter dated 13th
+December, 2019 if he feels that the said reduction is unfair or prejudicial to
+his interest. Respondent stated that the appellant did not even intimate the
+Respondent regarding the filing of the said appeal and a copy of the said
+
+14
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+appeal was only delivered to Respondent on 26.12.2019 and obtained ex parte
+stay on 20th December, 2019 from the Hon’ble Appellate Tribunal.
+Respondent further stated that there has been no modification of the
+resolution at the EOG and the acceptance of the undertaking by the Tribunal
+is just one of the terms and conditions subject to which Hon’ble Tribunal has
+approved the said reduction in accordance with Section 66(3) of the Act.
+Respondent further stated that who want to participate in the said reduction
+and have not appealed against the impugned order, they are approaching the
+Company for release of payment but the Respondent company is unable to
+release in view of the stay on the implementation of impugned order.
+Respondent further stated that the Respondent is also facing financial losses
+and the company has transferred the consideration amount to a separate
+non-interest being bank account as of date. Respondent stated that they have
+already filed certified copy of the impugned order with ROC and a certificate
+confirming registration of the impugned order has also been issued by ROC
+Pune on 27.12.2019. Respondent stated that the appellant is well known for
+and has extensive history of objecting to all capital reduction schemes
+undertaken by companies in which he is a shareholder. Respondent stated
+that the appellant follows a set pattern of placing a frivolous and biased
+valuation report before the Courts to cast doubts and aspersions on the
+valuation exercise conducted by company and then raises the same frivolous
+and baseless allegations to challenge the legality of the capital reduction
+process despite being well aware of judicial precedents to the contrary.
+Respondent stated that the appellant sent an email to other shareholders,
+after obtaining Register of Members of the Respondent from ROC, requesting
+
+15
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+them to support his objections before NCLT Mumbai. Respondent stated that
+Section 66 does not distinguish between promoter and public shareholding or
+require a separate meeting of any class of shareholders to be convened as
+sought by the appellants. Respondent stated that once a notice has been duly
+served on the parties and they choose not to attend or vote at the meeting it
+must be presumed that they have no objection the scheme and have given
+their implied consent thereto. Respondent stated that they have received
+various requests and email from public shareholders requesting for an exist.
+Respondent stated that the NCLT has been vested with wide substantive
+powers under Section 66(3) of the Act whereby it can make an order approving
+reduction of share capital on such terms and conditions as it may deem fit.
+Respondent stated that this power has been reiterated under Rule 6 of the
+Reduction Rules and also finds mention in Form RSC-6 thereby fortifying he
+fact that the NCLT’s powers are wide and substantive. Respondent stated
+that vide Board Resolution dated 18th September, 2018, the company
+secretary was granted authority to furnish undertaking affidavit as directed
+by NCLT, Mumbai. Respondent stated that the mining and rock excavation
+equipment business was demerged into Epiroc Mining India Ltd in November,
+2017 and the shareholders were issued shares at a 1:1 ratio of Epiroc as part
+of the demerger.
+15. Rejoinder has been filed by the appellant. Appellant stated that the
+respondent has no answer to the ground raised that had the option of
+retaining shares been part of the Explanatory Statement to the notice
+convening the EGM, the minority shareholders would have voted differently.
+Appellant further stated that the respondent has not disputed the fact that
+
+16
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+the actual undertaking dated 8th November, 2019 was substantially and
+materially different from the undertaking expressed by the respondent before
+NCLT. Appellant stated that the resolution can be modified only by the
+shareholders after taking a conscious decision taking into consideration all
+the relevant and important aspects of the resolution affecting their rights.
+Appellant stated that a special resolution cannot be amended without giving
+sufficient notice to all the shareholders for the amendment. Appellant stated
+that there is no power granted to NCLT or Board of Directors to modify/amend
+the resolution. Appellant stated that at the time of passing of the resolution
+the shareholders did not have any information regarding the future
+modification which the Respondent will propose, the modification can not take
+place. Appellant further stated that it is wrong that the appellant is
+attempting to override the collective wisdom of the decision of 99.84% of the
+shareholders. Appellant stated that majority of the shareholding of the
+Respondent company are held by Atlas Copco AB, who has voted in favour of
+the resolution. Appellant stated that the challenge before this Appellate
+Tribunal is on the patent incorrectness and manifest unfairness in the
+valuation arrived by the valuer at the instance of Respondent company.
+Appellant stated that it is wrong that the valuation report put up by him is
+frivolous or biased.
+16. In all other five appeals namely Company Appeal (AT) No.24, 27, 28, 29
+and 30 of 2020 the facts, grounds, prayer are similar as are in Company
+Appeal (AT) No.366 of 2019. The only difference is that in one appeal the
+appellant acquired/shares after the resolution was passed; in another appeal
+the appellant did not attend the meeting to cast their votes; in another appeal
+
+17
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+the appellant voted against the resolution for some shares and for some
+shares the appellant did not vote and in other case the appellant cast invalid
+votes. But the relief sought in these appeals are similar as sought in the
+earlier appeal. The following reliefs have been sought in the present appeals:-
+a) Hon’ble Tribunal be pleased to quash and set aside the impugned
+order dated 10th December, 2019 and be further pleased to reject the
+petition for capital reduction of Respondent.
+b) Hon’ble Tribunal be pleased to appoint an independent valuer to
+value the shares of the Respondent for the purpose of the selective
+capital reduction and after consideration of the report of such
+independent valuer, this Hon’ble Tribunal be further pleased to pass
+such orders as this Hon’ble Tribunal deems fit.
+c) That without prejudice to prayer (a) above and in the alternative to
+prayer clause (b), this Hon’ble Tribunal be pleased to direct the
+Respondent to extend the option to continue as shareholders to all
+minority or public shareholders including the appellants.
+d) Pending the hearing and final disposal of the appeal, the effect,
+implementation and operation of the impugned order dated 10th
+December, 2019 be stayed;
+e) Ad-interim reliefs; costs; etc.
+17. We have heard the learned counsel for the parties and perused the
+record.
+18. Before we proceed further we want to place undisputed facts. It is
+correct that the Respondent company was a listed company and later on the
+
+18
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+equity shares of the Respondent Company were delisted from BSE Ltd and
+Pune Stock Exchange in May, 2011. Post the delisting, the investment made
+by the non-promoter public shareholders of the Respondent Company are
+locked and these shareholders do not have an opportunity to liquidate their
+shareholding or realize their investment easily in the Respondent company.
+Various non-promoter public shareholders approached Respondent Company
+to provide them an exit route. Considering the request, the Respondent
+Company convened a EOG Meeting on 25th October, 2018 wherein the
+shareholders of the company had approved the reduction in the issued,
+subscribed and paid-up equity shares capital of the Respondent Company by
+cancelling and extinguishing the 3.68% equity shares held by non-promoter
+in the Company.
+19. In the EOGM, all except 37 shareholders representing 34,476 equity
+shares have voted for approving the proposed reduction by the Respondent
+Company. Out of the 37 objecting shareholders only 4 shareholders namely
+Mr Janak Mathuradas, Mr Arun Kejriwal, Mr Monish Bhandari and Oswal
+Trading Co Pvt filed objection to the proposed reduction before the NCLT
+Mumbai. Out of these 4, only Mr Janak Mathurdas filed Company Appeal
+challenging the order of NCLT, Mumbai.
+20. Other 6, namely Mr. Arun Kejriwal, Mr Jayshree Damani & Ors,
+Mr Sanjay Asher, Mr Jawahr Jagatsinh Merchant, Mr Deep Janak, Mr Sudhir
+Haribhai Patel have also filed Company Appeal challenging the order of the
+NCLT.
+21. Learned counsel for the appellants in Company Appeal (AT)
+No.365/2019 has argued that the appellants did not attend the EOGM dated
+
+19
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+25th October, 2018 for reduction of share capital and did not voted in favour
+of Resolution. Learned counsel for the appellants further argued that they
+vide email dated 25th November, 2019 and reminder dated 27th November,
+2019 called upon the Respondent to provide evidence in this regard but
+Respondent company neglected to provide any such details.
+22. Learned counsel for the Respondent argued that the report submitted
+by Mr. Shalesh Indapurkar & Associates, Company Secretaries, who was
+appointed to scrutinize the e-voting process and ballot process in relation to
+the propose capital reduction has submitted his report which states that e-voting period commenced from 20th October, 2018 (9 AM) till 24th October,
+2018 (5PM) and the shareholders who have voted in favour of the proposed
+capital reduction considered and approved at the EGM includes the name of
+Mrs Jayshree Sanjay Damani holding 1892 shares and Ms Yashita Sanjay
+Damani 261 shares at the time. Learned counsel for the Respondent also
+argued and shown attendance slip duly signed by Sanjay Damani who
+attended the meeting on behalf of Yashita Damani.
+23. We have considered the submission of the parties on this issue and
+perused Annexure 1 and Annexure-2 at Pages 11 to 13 of Counter affidavit
+filed by Respondent. We note that attendance slip has been duly signed by
+Sanjay Damani who attended Meeting on behalf of his daughter Yashita
+Damani. In this attendance slip it is clearly mentioned No of shares held is
+261. We also perused letter dated 3rd December, 2019 issued by Scrutinizer.
+The said letter clearly states that Mrs Jayshree Sanjay Damani holding 1892
+shares and Ms Yashita Sanjay Damani holding 261 shares voted in favour of
+the proposed capital reduction through e-voting. Therefore, we are satisfied
+
+20
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+that the meeting was attended and voting was done through evoting in favour
+of the resolution by the appellants.
+24. Learned counsel for the appellant in Company Appeal (AT) No.28 of
+2020 argued that he is holding 500 shares in demat form and did not attend
+the EGM held on 25th October,2018 for consideration of the proposed
+resolution for reduction of share capital.
+25. Learned counsel for the Respondent argued that the appellants
+admittedly acquired/purchases share only in May,2019 i.e. after 7 months
+after EGM and he was fully aware of the reduction. Learned counsel for the
+Respondent argued that when the appellants were not holding any share as
+on 25th October, 2018 how he can attend the Meeting.
+26. We have considered the submissions of the parties. We have gone
+through at para 7(vii) of the Appeal filed by the appellants wherein it is stated
+“It is solely due to this reason that the appellant did not attend the EGM held
+on 25th October, 2018 for consideration of the proposed resolution for reduction
+of share capital.” We have also perused Page No.343 of Company Appeal (AT)
+No.366 of 2019 wherein the status of shareholders who have filed an affidavit
+in support is given which is part of NCLT. We are satisfied that the argument
+of appellant has no force as he purchased/acquired the shares in May 2019
+knowing fully well that the reduction in shareholding has been approved in
+the EOGM on 25th October, 2018.
+27. Similarly we have perused the record in the other company appeals also
+and we noticed that in Company Appeal (AT) No.366/2019, the appellant has
+885 shares held at the EGM and voted against for all shares. In Company
+Appeal (AT) No.24/2020, the appellants have 18434 shares at the time of EGM
+
+21
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+and he voted against for 17858 shares and did not vote for 576 shares. In
+Company Appeal (AT) No.27 of 2020 the appellant has 348 shares and voted
+against for all shares. In Company Appeal (AT) No.29 of 2020 the appellant
+voted against 219 shares and cast an invalid votes for 594 shares.
+28. Learned counsel for the appellants argued that they are the minority
+shareholders and have opposed the scheme but despite such opposition the
+scheme has been approved on a valuation report dated 14th September, 2018
+and the date of valuation is taken as 31st March, 2018. Learned counsel for
+the appellants further argued that prior to valuation, in November 2017 the
+mining and excavation business of the Respondent was hived off to another
+company namely Epiroc Mining Ltd. Learned counsel for the appellant further
+argued that an independent valuer. Learned counsel further argued that the
+valuation is on lower side as he got done the valuation from Jayesh Desai &
+Co which has valued Rs.3627/- as against Respondent valuation of Rs.2100/-
+per share.
+29. Learned counsel for the Respondent argued that appellant has
+deliberately concealed the fact when the mining and excavation business of
+the Respondent was hived off to another company, the Respondent had issued
+share at a 1:1 ratio of Epiroc as part of the demerger. Learned counsel for the
+Respondent argued that Section 66 does not require the company to
+undertake any valuation exercise for implementing a capital reduction unlike
+Section 230 and other provisions of the Act. Learned counsel for the
+Respondent argued that it is settled law that under Section 66 it is for the
+appellant to establish that the valuation obtained by the Respondent is
+unreasonable and perverse and in absence thereof the Respondents’ valuation
+
+22
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+has to be accepted by the Court. Learned counsel for the Respondent argued
+that some of the appellants or their family members have acquired 7734
+shares post the EGM and deliberately suppressed the purchase price of per
+share. Learned counsel for the Respondent argued that the father/husband
+of Appellants in CA No.365/2019 is a professional stock broker and is selling
+the Respondents shares on his own website at a price of INR 2125 per share
+and alleging that the Respondents’ offer price of Rs.2100/- is grossly
+undervalued.
+30. We note that the mining business and other business of the Respondent
+company was hived off and the shares at a 1:1 ratio were issued. Appellant
+has not touched this argument that the shares were issued. However,
+demergers involve issue of shares of new company to existing shareholders
+and it is not a relevant issue for purpose of this appeal.
+31 We also note that at the time of arguments a pamphlet was given by the
+Respondent to prove that Mr. Sanjay Damani, husband and father of
+appellants in Company Appeal (AT) No.365 of 2019 is offering Respondents’
+share at a price of Rs.2125/-. We also note that the actual price of share is
+determined by the market but as the shares are already delisted, therefore,
+the Respondent has got the valuation of shares for the benefit of minority
+shareholders. We also note from the record that various shareholders are
+approaching to Respondent for surrendering their shares in lieu of
+consideration. Further the Respondent has also clarified that the
+shareholders who has voted against the resolution can hold the shares for
+which the Respondent has filed an affidavit before the NCLT Mumbai and also
+argued before this Tribunal.
+
+23
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+32. We note that to ensure fairness a fair play of the share purchase is
+necessary. The company appointed M/s BSR & Associates LLP to do the
+valuation of share of the company. The company also added valuation taking
+into consideration the past performance as well as future projection by expert.
+33. We find no irregularity in the valuation done by the valuer.
+34. Further the data of the company is available with the Management and
+the same has been provided to the valuer to done the valuation. An outsider
+may have some data of company, in other words it can be said the outsider
+has the incomplete data. We also note that if an outsider has incomplete
+data, he will get the valuation done on that incomplete data which is of no
+use. We also note that the appellant in Company Appeal (AT) No.366/2019
+has voted against the resolution and as per the affidavit of Respondent the
+appellant can hold the shares of Respondent company. If the appellant, Mr.
+Janak Mathuradas feels that the offer price is less and the valuation got done
+by him is the best, then we allow him to purchase/acquire the shares of other
+minority shareholders at a price of Rs.2100/- and can hold it as per his wish.
+35. Learned counsel for the appellants argued that the special resolution
+passed at EGM was illegally modified. Learned counsel for the appellants
+further argued that the resolution can not be modified by filing undertaking
+and it can only be modified by shareholders. Learned counsel for the
+appellants further argued that the NCLT or Board of Directors have no power
+to modify the same. Learned counsel for the appellant argued that the
+company by way of affidavit is creating a class within the class of
+shareholders.
+
+24
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+36. Learned counsel for the Respondent argued that this contention has
+been raised by the appellant for the first time and this was not urged before
+the NCLT. Learned counsel for the respondent argued that any such fresh
+submission/contention taken for the first time at this stage is barred by law
+and cannot be contended. Learned counsel argued that the factum of this
+special resolution under Section 114 of the Act is not in dispute before NCLT
+or NCLAT. Learned counsel submitted that the affidavit has been filed based
+on the directions given by the NCLT to the Respondent during the course of
+final hearing on 8th November, 2019. Learned counsel argued that vide Board
+Resolution dated 18th September, 2018, Company Secretary was given
+authority to file the same. Learned counsel further argued that the resolution
+specifically provides that the said reduction is being approved by the
+shareholders subject to any terms, modifications or conditions that the NCLT
+Mumbai may impose and the Board of Directors of the Respondent may agree
+(Page 61 para 1 of CA 365/2019). Learned counsel for the respondent further
+argued that NCLT Mumbai has the power to approve the said reduction on
+such terms and conditions as it may deem fit under the Act and the Reduction
+Rules and the NCLT Mumbai has considered/approved to include while
+sanctioning the said reduction.
+37. We have considered the submissions made by the parties. We note that
+undertaking affidavit was filed as per the direction of the NCLT Mumbai, when
+the Respondent company stated that the shareholders who have voted against
+the resolution can continue to hold the shares of Respondent company. We
+also note that the special resolution specifically provides that the said
+reduction is being approved by the shareholders subject to any terms,
+
+25
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+modifications or conditions that the NCLT Mumbai may impose and the Board
+of Directors of the Respondent may agree. We note from the record that the
+NCLT has given directions and the same has been approved by the Board of
+Directors of the company.
+38. If the contention of the appellant is that NCLT or Board of Directors on
+instructions from NCLT has not power to modify the Scheme as approved by
+the Shareholders, it will destroy the case of appellant altogether that even if
+he has been given an opportunity to continue as a shareholder of the company
+it would destroy his option to retain his shares as the shareholders in the
+EOGM has already approved the scheme for acquisition of the shares. We
+may state here that the NCLT has the powers, therefore, the Company has
+approached for approval of the same and the objectors have objected to the
+Scheme and the modification has been done. The same modification has been
+ratified by the Board of Directors. Therefore, it can not be said the NCLT has
+no power. If we assume that the NCLT has no power then it means that the
+scheme approved by the shareholders, whether wrong or right, the NCLT has
+to approve. We are not satisfied with the argument of the appellants that the
+NCLT has no power.
+39. Thus, we also note that the directions issued by the NCLT and
+modification proposed by the Board of Directors are the practical method to
+ensure that the shareholders who want to retain his shares are able to do so
+which does prejudice them. We also note that the Board has already
+approved the terms of the impugned order, ratified all actions and steps taken
+for procuring and implementing the impugned order and also caused a copy
+of the impugned order to be filed with the ROC, Pune.
+
+26
+Company Appeal (AT) No.365 and 366 of 2019 and 24,27,28,29,30 of 2020
+40. The other issues raised by some of the appellants that they did not
+attend the meeting and the resolution has been modified and they may be
+given another option to vote for the same. On this issue we are of the opinion
+that the appellants are shareholders of the company and they were issued
+notice to attend the EOGM and they did not attend the same. The company
+has done its duty as per statutory requirements by intimating their
+shareholders, if the shareholder has not attended the EOGM it is their sweet
+will but they have to go with decision taken in the matter.
+41. We also note that the other issues have been dealt with by the NCLT,
+Mumbai and no serious challenge has been raised to upset the position and
+we agree to the same.
+42. In view of the aforegoing observations and discussions we find no merit
+in the appeals and accordingly they are dismissed. Interim order passed by
+this Tribunal, if any, is vacated. No order as to costs.
+(Justice Jarat Kumar Jain)
+Member (Judicial)
+(Mr. Balvinder Singh)
+Member (Technical)
+(Dr. Ashok Kumar Mishra)
+Member (Technical)
+Bm/kam
