@@ -1,0 +1,364 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 748 of 2019"
+decided: "2020-06-24"
+section: "Insolvency"
+court: "Court - 4"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/5504481085f0da20b28a82.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 748 of 2019, 2020-06-24
+
+1
+Company Appeal (AT)(Ins) No. 748 of 2019
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+Company Appeal (AT)(Ins) No. 748 of 2019
+IN THE MATTER OF:
+Mr. R.R. Gopaljee
+Son of Mr. Raghavan
+No. 57, Second Floor, Pantheon Road
+Egmore, Chennai …Appellant
+Versus
+1. Indian Overseas Bank
+Nehru Park Branch
+Represented by its Assistant General Manager
+Mr. S. Ramachandran
+No. 856 A, Poonamalle High Road,
+Chennai-600010 …Respondent No. 1
+2. Mr. Radhakrishnan Dharmarajan
+Interim Resolution Professional
+Malar Energy & Infrastructure Pvt. Ltd.
+D-3, Triumphs Apartments,
+114 Jawaharlal Nehru Salai
+Arumbakkam, Chennai- 600106 … Respondent No. 2
+3. Malar Energy & Infrastructure Pvt. Ltd.
+Through Interim Resolution Professional
+Having Registered Office At:
+No. 57, First Floor, Pantheom Road … Respondent No. 3
+4. Shriram City Union Finance Limited … Respondent No. 4
+Present:
+For Appellant:- Mr. Kaushik. N. Sharma and Mr. Sudhanshu Suman,
+Advocates for Appellant.
+For Respondent:- Mr. Kunal Tandon with Ms. Richa, Advocates for
+Respondent No. 1
+Mr. K.V.Balakrishnan, Advocate for IRP.
+
+2
+Company Appeal (AT)(Ins) No. 748 of 2019
+Mrs. Anasuya Choudhary, Advocate for Respondnet No.4
+Impleader.
+JUDGEMENT
+(24.06.2020)
+Jarat Kumar Jain. J
+The Respondent No. 1 Indian Overseas Bank (Financial Creditor) filed
+an Application under Section 7 of the Insolvency and Bankruptcy Code,
+2016 (In short I&B Code) for initiation of the Corporate Insolvency
+Resolution Process (In short CIRP) against the Malar Energy and
+Infrastructure Pvt. Ltd. (Respondent No. 3) Corporate Debtor. The
+Adjudicating Authority (National Company Law Tribunal) Special Bench,
+Chennai, by order dated 05.07.2019 admitted the Application. The Appellant
+promotor and Shareholder of Respondent No. 3 has filed this Appeal under
+Section 61(1) of I&B Code, against the impugned order dated 05.07.2019.
+2. In this Appeal, Financial Creditor is Respondent No. 1, IRP is
+Respondent No. 2, Corporate Debtor is Respondent No. 3. During the
+pendency of Appeal, we have permitted to implead Shriram City Union
+Finance Limited as Respondent No. 4 because Respondent No. 4’s
+Application under Section 7 of I&B Code, has been disposed of by the
+Adjudicating Authority Chennai, in the light of impugned order, with the
+direction to file the claim before the IRP i.e. Respondent No. 2.
+3. Brief facts of this case are that at the request of Corporate Debtor,
+Financial Creditor i.e. Indian Overseas Bank granted financial assistance at
+
+3
+Company Appeal (AT)(Ins) No. 748 of 2019
+various dates between 13.06.2011 to 29.052015 and the Corporate Debtor
+disbursed the loan. The Corporate Debtor Respondent No. 3 defaulted in
+payment of loan, therefore, on 01.04.2015 Corporate Debtor was declared
+as a Non-Performing Asset (In short NPA). Subsequently, the Financial
+Creditor had sent a legal notice dated 15.03.2017 demanding the repayment
+of Rs. 21,86,26,661/- alongwith interest. The Corporate Debtor in his reply
+to notice dated 27.03.2017 acknowledged the debt and stated that they are
+in process of settling their dues to the Financial Creditor. Thereafter,
+Corporate Debtor sent One Time Settlement Proposal on 13.04.2017. The
+Financial Creditor accepted the proposal on certain terms and conditions
+vide letter dated 03.07.2017. Thereafter, the Corporate Debtor requested for
+extension of One Time Settlement period vide letter dated 05.08.2017. The
+Financial Creditor vide letter dated 28.08.2017 extended the time for
+payment of One Time Settlement. However, the Corporate Debtor has not
+repaid the loan amount as per One Time Settlement. Hence, vide letter dated
+22.11.2017 the financial Creditor has cancelled the One Time Settlement
+Proposal. Thereafter, Financial Creditor initiated recovery proceedings
+under Section 19 of the Recovery of Debts and Bankruptcy Act, 1993 and
+also under SARFAESI Act, 2002 but the proceedings cannot be reached to a
+logical end. Therefore, the Financial Creditor has filed the application under
+Section 7 of I&B Code, on 15.03.2019.
+
+4
+Company Appeal (AT)(Ins) No. 748 of 2019
+4. After, hearing the Learned Counsel for the parties, the Adjudicating
+Authority by the impugned order admitted the application to initiate CIRP
+against the Corporate Debtor and issued Moratorium and appointed Mr.
+Radha Krishnan Dharamrajan as Interim Resolution Professional. Being
+aggrieved with this order R.R. Gopaljee promoter and shareholder of the
+Corporate Debtor Company filed this Appeal.
+5. Learned Counsel for the Appellant submitted that the Adjudicating
+Authority did not observe the principle of Natural Justice and had passed
+the order for commencement of CIRP in nearly three days without even
+providing an opportunity to file written submissions or objections on
+application under Section 7 of I&B Code. The Application itself is defective
+because in the Application the date of default is not disclosed. The date of
+default is a crucial date on that basis the period of limitation has to be
+determined. In the demand notice under Section 13(2) of SARFAESI Act,
+dated 09.07.2015 sent by Financial Creditor, NPA date is mentioned as
+30.06.2015 whereas, in the Additional Affidavit filed before the Adjudicating
+Authority NPA date is disclosed as 01.04.2015. Thus, what is the correct
+date of NPA is not cleared by the Financial Creditor. In both cases either
+NPA date is 01.04.2015 or 30.06.2015 the debt is time barred as the
+application under Section 7 of I&B Code, is filed on 15.03.2019.
+6. Learned counsel for the Appellant contended that as per Item No. 2
+Part IV of the Application, term loan of 15 crores disbursed on 29.05.2015.
+
+5
+Company Appeal (AT)(Ins) No. 748 of 2019
+Whereas, the Corporate Debtor’s account was declared NPA on 01.04.2015
+this itself shows that the NPA date 01.04.2015 is not correct.
+7. Learned Counsel for the Appellant contended that the Adjudicating
+Authority had relied on a letter dated 27.03.2017 as an acknowledgement of
+debt by the Corporate Debtor, which only states that the Corporate Debtor
+will settle issue with the Financial Creditor and there is no specific
+acknowledgement of Debt. The Adjudicating Authority has failed to
+understand that for the purpose of acknowledgement of debt it has to be
+specifically, admitted and clearly stated as the exact amount of debt due and
+the timeline for payment. The Adjudicating Authority had also relied on a
+letter dated 13.04.2017 which is not in existence as no such letter has been
+annexed with the Application. Hon’ble Delhi High Court in the Case of
+Dorham Carelline India Ltd. Vs. Studio Line 2009 DLT 123 held that Section
+18 of Limitation Act, requires (i) An admission or acknowledgement (ii) that
+such acknowledgement must be in respect of a property or right (iii) that it
+must be made before the expiry of limitation (iv) that it should be in writing
+and signed by the party against whom such property or right is claimed.
+None of these conditions are fulfilled by the letter dated 27.03.2017.
+Therefore, the acknowledgement of debt is not proved. Hence, the claim is
+apparently, barred by time.
+
+6
+Company Appeal (AT)(Ins) No. 748 of 2019
+8. Learned Counsel for the Appellant contended that Hon’ble Supreme
+Court in the case of State of Kerala Vs. T.M. Chacko, (2000) 9 SCC 722 held
+that
+“The person acknowledging must be conscious of his liability and
+commitment should be made towards that liability. It need not be
+specific, but if necessary facts which constituted the liability are
+admitted, an acknowledgement may be inferred from such an
+admission.”
+In this Case, the reply to notice by Corporate Debtor dated 27.03.2017 does
+not specify any commitment towards any liability and is merely reply stating
+certain meetings with the officials of the Financial Creditor, therefore, it
+cannot be treated as acknowledgement.
+9. On the other hand, learned counsel for the Financial Creditor
+Respondent No. 1 supported the findings of the Adjudicating Authority and
+submitted that the Application under Section 7 of I&B Code, filed on
+15.03.2019 and after granting proper opportunity the Adjudicating
+Authority has passed the order on 05.07.2019. It is admitted fact that
+Financial Creditor has granted Financial Assistance by way of term loan on
+different dates and on the date of Application claimed total amount is Rs.
+29,96,10,603.01/-. The Corporate Debtor has committed default in
+repayment. Therefore, on 15.03.2017, Financial Creditor has sent a legal
+notice and in reply to notice dated 27.03.2017 the Corporate Debtor
+
+7
+Company Appeal (AT)(Ins) No. 748 of 2019
+acknowledged the claim. Thereafter, Corporate Debtor has sent One Time
+Settlement Proposal which was accepted by the Financial Creditor and
+thereafter, at the request of Corporate Debtor the One Time Settlement
+period was extended. However, the Corporate Debtor has failed to make
+repayment, therefore, the Financial Creditor has filed this Application under
+Section 7 of I&B Code.
+10. The Respondent No. 2 is IRP and Respondent NO. 3 is the Corporate
+Debtor Company they are the Proforma Respondents and they have not
+made any submissions.
+11. The Respondent No. 4 submitted that the Corporate Debtor had
+borrowed a sum of Rs. 11 Crores from Respondent No. 4, in order to clear
+the amount due to M/s Shriram Housing Finance Limited. The Corporate
+Debtor failed to repay the amount, hence, the Respondent No. 4 filed an
+Application under Section 7 of I&B Code, (Company Petition No.
+1239/IBC/CB/2018) before the Adjudicating Authority Chennai, in the
+month of November, 2018. In the light of the impugned order dated
+05.07.2019 the Adjudicating Authority Chennai, has disposed of the
+Company Petition filed by Respondent No. 4 with a direction to file a claim
+before the IRP. i.e. Respondent No. 2. In this context, the Respondent No. 4
+supports the impugned order.
+12. After hearing Learned Counsel for the parties we have gone the
+through the record.
+
+8
+Company Appeal (AT)(Ins) No. 748 of 2019
+13. It is admitted fact that Financial Creditor granted Financial Assistance
+to Corporate Debtor as term loan of different amount at different dates as
+mentioned in serial No. 1 Part IV of the Application under Section 7 of I&B
+Code, and in serial No. 2 Part IV of the Application amount claimed to be in
+default is shown Rs. 29,96,10,603.01/- as on 28.02.2019 but date of default
+is not mentioned. In the Additional Affidavit filed on behalf of the Financial
+Creditor date of default is shown as 01.04.2015. However, in the notice
+under Section 13(2) of SURFAESI Act, 2002 dated 09.07.2015 NPA DATE is
+shown as 30.06.2015. The Adjudicating Authority considered the objection
+and held that according to the Corporate Debtor, the Bank has declared it
+as NPA on 30.06.2015. We are agreed with the finding of Adjudicating
+Authority that the NPA date is 30.06.2015. The Application under Section 7
+of I&B Code is filed on 15.03.2019 i.e. after three years from the date of
+default. Therefore, the question for consideration is whether the Corporate
+Debtor has acknowledged the debt as per the requirement of under Section
+18 of Limitation Act, only then, the date of default can be forwarded to a
+future date as held by this Appellate Tribunal in Sh. G Eswara Rao Vs.
+Stressed Assets Stabilisation fund [Company Appeal (At) (Ins) No. 1097 of
+2019] decided on 07.02.2020.
+14. Hon’ble Supreme Court in the case of J.C. Budhraja Vs. Chairman,
+Orissa Mining Corporation Ltd. (2008) 2 SCC 444 held that:
+
+9
+Company Appeal (AT)(Ins) No. 748 of 2019
+“20. Section 18 of the Limitation Act, 1963 deals with effect of
+acknowledgment in writing. Sub-section (1) thereof provides that
+where, before the expiration of the prescribed period for a suit or
+application in respect of any right, an acknowledgment of liability
+in respect of such right has been made in writing signed by the
+party against whom such right is claimed, a fresh period of
+limitation shall be computed from the time when the
+acknowledgment was so signed. The explanation to the section
+provides that an acknowledgment may be sufficient though it omits
+to specify the exact nature of the right or avers that the time for
+payment has not yet come or is accompanied by a refusal to pay,
+or is coupled with a claim to set off, or is addressed to a person
+other than a person entitled to the right. Interpreting Section 19 of
+the Limitation Act, 1908 (corresponding to Section 18 of the
+Limitation Act, Company Appeal (AT) (Insolvency) No. 1182 of 2019
+Page 8 of 18 1963) this Court in Shapoor Freedom Mazda v. Durga
+Prosad Chamaria [AIR 1961 SC 1236] held: (AIR p. 1238, paras 6-
+7).
+“6. … acknowledgment as prescribed by Section 19 merely renews
+debt; it does not create a new right of action. It is a mere
+acknowledgment of the liability in respect of the right in question; it
+need not be accompanied by a promise to pay either expressly or
+even by implication. The statement on which a plea of
+acknowledgment is based must relate to a present subsisting
+liability though the exact nature or the specific character of the said
+liability may not be indicated in words. Words used in the
+acknowledgment must, however, indicate the existence of jural
+relationship between the parties such as that of debtor and creditor,
+and it must appear that the statement is made with the intention to
+admit such jural relationship. Such intention can be inferred by
+implication from the nature of the admission, and need not be
+expressed in words. If the statement is fairly clear then the
+intention to admit jural relationship may be implied from it. The
+admission in question need not be express but must be made in
+circumstances and in words from which the court can reasonably
+infer that the person making the admission intended to refer to a
+subsisting liability as at the date of the statement. … Stated
+
+10
+Company Appeal (AT)(Ins) No. 748 of 2019
+generally courts lean in favour of a liberal construction of such
+statements though it does not mean that where no admission is
+made one should be inferred, or where a Company Appeal (AT)
+(Insolvency) No. 1182 of 2019 Page 9 of 18 statement was made
+clearly without intending to admit the existence of jural relationship
+such intention could be fastened on the maker of the statement by
+an involved or farfetched process of reasoning. … In construing
+words used in the statements made in writing on which a plea of
+acknowledgment rests oral evidence has been expressly excluded
+but surrounding circumstances can always be considered.
+7. … The effect of the words used in a particular document must
+inevitably depend upon the context in which the words are used
+and would always be conditioned by the tenor of the said
+document….”
+21. It is now well settled that a writing to be an
+acknowledgment of liability must involve an admission of a
+subsisting jural relationship between the parties and a conscious
+affirmation of an intention of continuing such relationship in regard
+to an existing liability. The admission need not be in regard to any
+precise amount nor by expressed words. If a defendant writes to
+the plaintiff requesting him to send his claim for verification and
+payment, it amounts to an acknowledgment. But if the defendant
+merely says, without admitting liability, it would like to examine
+the claim or the accounts, it may not amount to acknowledgment.
+In other words, a writing, to be treated as an acknowledgment of
+liability should consciously admit his liability to pay or admit his
+intention to pay the debt.
+15. It is now well settled that a writing to be an acknowledgement of
+liability must involve an admission of subsisting Jural relationship between
+the parties and a conscious affirmation of an intention of continuing such
+relationship in regard to an existing liability. The Admission need not be in
+regard to any precise amount nor by expressed words. If a defendant writes
+
+11
+Company Appeal (AT)(Ins) No. 748 of 2019
+to the plaintiff requesting him to send his claim for verification of payment
+it amounts to an acknowledgement. The Hon’ble Supreme Court in the
+aforesaid judgment also held that in construing words used in the
+statement made in writing on which a plea of acknowledgement rest oral
+evidence has been expressly excluded but surrounding circumstances can
+always be considered. It is also held that the statement of which a plea of
+acknowledgement is based must relate to a person subsisting liability
+though the exact nature or the specific character of the said liability may
+not be indicated in words.
+16. We will now examine this case with reference to the said principle. In
+this Case Respondent for the purpose of acknowledgement placed reliance
+on the reply to demand notice dated 27.03.2017, the One Time Settlement
+Proposal dated 13.04.2017 and subsequent correspondence between the
+Appellant and Respondent.
+17. In reply to demand notice dated 27.03.2017 the Appellant has
+admitted the subsisting Jural relationship between the parties and a
+conscious affirmation of an intention of continuing such relationship in
+regard to an existing liability. The Financial Creditor in demand notice dated
+15.03.2017 called upon the Corporate Debtor to pay sum of Rs.
+21,86,26,661/- along with further interest till date of payment. The
+Corporate Debtor in his reply to the notice did not dispute the amount and
+admitted the liability and stated that they are in process of settling the dues
+
+12
+Company Appeal (AT)(Ins) No. 748 of 2019
+of Financial Creditor. It is also mentioned in the reply that they have visited
+number of times to the officials of Financial Creditor. The reply to the notice
+is signed by the Director of Corporate Debtor. Thereafter, on 13.04.2017 the
+Corporate Debtor sent a One Time Settlement Proposal to the Financial
+Creditor. It is true that this letter is not on record, however, the Corporate
+Debtor does not deny that it has not sent One Time Settlement Proposal (in
+brief OTS) on 13.04.2017 to the Financial Creditor. On 03.07.2017 the
+Financial Creditor has accepted the (OTS) proposal of the Corporate Debtor
+on certain terms and conditions. (See page 185-186 Appeal paper book) One
+of the condition is that the Corporate Debtor shall pay the entire One Time
+Settlement amount of Rs. 17 Crores within 30 days from the date of
+communication of this sanction. Thereafter, on 05.08.2017 Corporate
+Debtor requested for extension of OTS period by another 45 days (See page
+187 of Appeal Paper Book). On 28.08.2017 the Financial Creditor extended
+the time limit for payment of OTS amount on or before 13.09.2017 (See page
+190 of Appeal Paper Book). However, the Corporate Debtor has failed to pay
+the amount even after lapse of more than four months. Therefore, the
+Financial Creditor has cancelled the OTS vide letter dated 22.11.2017 (See
+page 191 of Appeal Paper Book)
+18. With the aforesaid discussion it is proved that the Corporate Debtor
+has acknowledged the debt within three years i.e, before the expiration of
+the prescribed period for a suit or application. Thus, we are of the
+
+13
+Company Appeal (AT)(Ins) No. 748 of 2019
+considered view that Learned Adjudicating Authority has rightly held that
+the Application under Section 7 of I & B Code is well within limitation.
+Therefore, no interference is called for in this Appeal. Interim order passed
+in this Appeal Vacated.
+19. Respondent No. 4 Shriram City Union Finance Limited can file its
+claim before the IRP as per the direction dated 10.07.2019 by the
+Adjudicating Authority, Chennai, in Company Petition No.
+1239/IBC/CB/2018 filed by Respondent No. 4.
+Thus, as aforesaid the Appeal is dismissed. However, no order as to
+cost.
+(Justice Jarat Kumar Jain)
+Member (Judicial)
+(Mr. Balvinder Singh)
+Member (Technical)
+(Dr. Ashok Kumar Mishra)
+Member (Technical)
+NEW DELHI
+SC
