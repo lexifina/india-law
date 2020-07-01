@@ -1,0 +1,70 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "296"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 296 FTX 56-2017-304 Dated 01-07-20"
+published: "2020-07-01"
+in_force: "2020-07-01"
+in_force_evidence: "published in the Gazette 2020-07-01; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._296_ftx_56-2017-304_dated_01-07-20.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2020-07-01.296"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+FINANCE (TAXATION) DEPARTMENT
+NOTIFICATION-STATE6TAX
+The 1st July, 2020
+
+1082 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1083
+
+1084 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1085
+
+1086 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1087
+
+1088 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1089
+
+1090 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1091
+
+1092 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1093
+
+1094 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1095
+
+1096 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1097
+
+1098 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1099
+
+1100 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1101
+
+1102 THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JULY 15, 2020 1103
+SHYAM6JAGANNATHAN,
+Commissioner & Secretary to the Government of Assam,
+Finance Department.
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 591 - 100 + 10 - 15 - 07- 2020. (visit at– dpns.assam.gov.in)
