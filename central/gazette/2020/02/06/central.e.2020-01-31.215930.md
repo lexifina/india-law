@@ -1,0 +1,32 @@
+---
+title: "In exercise of the powers conferred by sub sections 1 and 2 of section 16 read with sub section 3 of section 25 of the Bureau of Indian Standards Act"
+gazette_id: "CG-DL-E-06022020-215930 Download: gvGazette$ctl06$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Not Applicable"
+notification_no: "S.O. 478(E)"
+published: "2020-02-06"
+in_force: "2020-08-01"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-01-31.215930"
+---
+
+# In exercise of the powers conferred by sub sections 1 and 2 of section 16 read with sub section 3 of section 25 of the Bureau of Indian Standards Act
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department for Promotion of Industry and Internal Trade) ORDER New Delhi, the 28th January, 2020 S.O. 478(E).—In exercise of the powers conferred by sub-sections (1) and (2) of section 16 read with sub-section (3) of section 25 of the Bureau of Indian Standards Act, 2016 (11 of 2016), the Central Government, after consulting the Bureau of Indian Standards, is of the opinion that it is necessary in the public interest, hereby makes the following Order, namely:-
+
+1. Short title and commencement.—(1) This Order may be called the Rubber Hose for Liquefied Petroleum Gas
+
+(LPG) (Quality Control) Order, 2020.
+
+(2) It shall come into force with effect from 1st August 2020.
+
+2. Compulsory use of Standard Mark.—Goods or articles specified in column (1) of the below mentioned Table shall conform to the corresponding Indian Standard as specified in column (2) of the said Table and shall bear the Standard Mark under a licence from the Bureau as per Scheme –I of Schedule II of Bureau of Indian Standards (Conformity Assessment) Regulations, 2018:
+
+Provided that nothing in this Order shall apply to goods or articles meant for export.
+
+3. Certification and Enforcement Authority.—The Bureau shall be the certifying and enforcement authority for goods or articles specified in the column (1) of the Table.
+
+TABLE Goods or articles Indian Standard Title of Indian Standard Rubber Hose for Liquefied Petroleum Gas (LPG) IS 9573 (Part 1):2017 Rubber Hose for Liquefied Petroleum Gas(LPG)Specification Part-1 Industrial Application IS 9573 (Part 2):2017 Rubber Hose for Liquefied Petroleum Gas (LPG)Specification Part-2 Domestic and Commercial Application Note: For the purpose of this Table, the latest version of Indian Standards including the amendments issued thereof as may be notified by the Bureau of Indian Standards from time to time, shall apply from the date of such notification.
+
+[F. No.10(49)/2015-LR] ANIL AGRAWAL, Jt Secy.
+
+ALOK KUMAR and Published by the Controller of Publications, Delhi-110054.
