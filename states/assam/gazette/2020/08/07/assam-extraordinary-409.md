@@ -1,0 +1,65 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "409"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 409 UDD(M) 107-2020-17 Dated 07-08-2020"
+published: "2020-08-07"
+in_force: "2020-08-07"
+in_force_evidence: "published in the Gazette 2020-08-07; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._409_uddm_107-2020-17_dated_07-08-2020.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2020-08-07.409"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+URBAN DEVELOPMENT DEPARTMENT
+NOTIFICATION
+The 7th August, 2020
+
+1826 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1827
+
+1828 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1829
+
+1830 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1831
+
+1832 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1833
+
+1834 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1835
+
+1836 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1837
+
+1838 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1839
+
+1840 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1841
+
+1842 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1843
+
+1844 THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020
+
+THE ASSAM GAZETTE, EXTRAORDINARY, OCTOBER 5, 2020 1845
+ROBINSON4MOCHAHARI,
+Secretary to the Government of Assam,
+Urban Development Department.
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 817 - 25 + 10 - 05 - 10- 2020. (visit at– dpns.assam.gov.in)
