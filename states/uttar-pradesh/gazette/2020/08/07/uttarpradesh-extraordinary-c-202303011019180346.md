@@ -1,0 +1,1750 @@
+---
+kind: "gazette-notification"
+gazette: "Uttar Pradesh Gazette"
+gazette_type: "Extraordinary"
+issuer: "Government of Uttar Pradesh"
+department: "Industrial Development Department"
+published: "2020-08-07"
+in_force: "2020-08-07"
+in_force_evidence: "published in the Gazette 2020-08-07; no other commencement day stated"
+official_text: "https://dpsup.up.gov.in/app/writereaddata/UploadGazette/corrigendum/pdf/C_202303011019180346.pdf"
+mirror: "https://archive.org/details/in.gazette.uttarpradesh_extraordinary.2020-08-07.c_202303011019180346"
+language: "English text only"
+---
+
+—
+¼ifjfu;r vkns'k½
+
+&&&&&&
+vf/klwpuk
+
+4-4251 gsDVs;j] vdcsyiqj eq0 xksjgjiqj esa 4-5188 gsDVs;j] ijkuiqj esa 0-3521 gsDVs;j] <ks<uiqj esa 0-2343
+
+120 eh0 pkSM+kbZ dh Hkwfe iV~Vh ij lapkfyr dh tk jgh gSA bl izdkj ;g ifj;kstuk] fdlh xzke ds
+iwfrZ gksxhA
+ifjogu dks Hkh c<+kok feysxkA
+yksd iz;kstu gsrq vko';drk gS%&
+156 RPH (audyogik vikas) Data 4e
+
+vuqlwph
+
+la[;k ¼gs0eas½
+vktex<+ cw<+uiqj vrjkSfy;k jkeiqj eq0 23 0.0008
+xuiriqj
+33 0.0534
+34 0.1340
+36 0.0702
+0.2584 ;ksx
+vktex<+ cw<+uiqj vrjkSfy;k xuiriqj 254 0.3527
+278 0.1184
+119 0.2409
+154 0.2686
+165 0.0850
+167 0.3380
+168 0.0391
+170 0.1250
+171 0.0186
+163 0.0032
+164 0.0708
+174 0.1039
+215 0.0025
+214 0.1509
+;ksx 1.9176
+;ksx 0.0525
+44 0.0268
+45 0.0055
+;ksx 0.3760
+10 0.0023
+12 0.0004
+13 0.0025
+31 0.0073
+;ksx 0.0375
+pRrqjiqj
+vktex<+ cw<+uiqj vrjkSfy;k 546 0.1020
+e/kbZiV~Vh
+542 0.0010
+;ksx 0.1030
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ cw<+uiqj vrjkSfy;k tksxhiqj 355 1.2843
+330 0.0046
+364 0.3642
+362 0.0025
+365 0.0110
+366 0.0038
+369 0.0602
+370 0.0271
+373 0.0325
+375 0.1959
+331 0.0210
+;ksx 2.0071
+279 0.3383
+280 0.0003
+270 0.4727
+277 0.0388
+267 0.1170
+265 0.0878
+264 0.0716
+268 0.0620
+269 0.0630
+261 0.2278
+262 0.2340
+263 0.0930
+271 0.0390
+272 0.1380
+274 0.1213
+275 0.0639
+258 0.0560
+257 0.0020
+256 0.0020
+255 0.0790
+254 0.1120
+253 0.0790
+252 0.0296
+234 0.1020
+
+156 RPH (audyogik vikas) Data 4e
+
+199 0.0891
+198 0.0429
+197 0.3812
+196 0.0750
+204 0.0294
+248 1.2140
+247 0.0019
+245 0.6162
+241 0.1750
+240 0.0200
+194 0.7450
+193 0.0529
+192 0.0622
+39 0.3741
+38 1.1818
+36 0.1070
+48 0.0127
+50 0.0188
+51 0.2148
+5 1.5402
+9.6931 ;ksx
+pRrqjiqj
+333 0.1160
+335 0.0120
+336 0.0040
+339 0.1050
+222 0.1130
+223 0.3013
+88 0.0826
+268 0.0757
+369 0.3863
+pRrqjiqj
+277 0.0130
+278 0.0130
+285 0.0135
+288 0.0140
+290 0.0515
+;ksx 1.3430
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ cw<+uiqj vrjkSfy;k 2 0.0127 lksekiqj
+3 0.0342
+4 0.0830
+5 0.3409
+6 0.0750
+7 0.1590
+9 0.1380
+10 0.1800
+11 0.0900
+12 0.0690
+14 0.2456
+15 0.0025
+17 0.5827
+26 0.0487
+28 0.0744
+29 0.1305
+30 0.0044
+63 0.0469
+64 0.4029
+66 0.0530
+69 0.0015
+;ksx 2.7749
+2 0.2070 vktex<+ cw<+uiqj vrjkSfy;k jlwyiqj
+3 0.2240
+5 0.0710
+6 0.0800
+vktex<+ cw<+uiqj vrjkSfy;k 7 0.1299 jlwyiqj
+13 0.3157
+14 0.4202
+15 0.0885
+16 0.0766
+9 0.0860
+10 0.2250
+11 0.0467
+;ksx 1.9706
+5 0.0677 vktex<+ cw<+uiqj vrjkSfy;k e.Mksgh
+6 0.0454
+86 0.0228
+9 0.2244
+10 0.1894
+11 0.3020
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ cw<+uiqj vrjkSfy;k 12 0.3650 e.Mksgh
+15 0.0138
+16 0.0231
+17 0.1463
+18 0.2310
+19 0.0800
+20 0.2643
+27 0.0010
+28 0.3627
+29 0.1130
+31 0.3053
+35 0.0660
+38 0.0100
+40 0.1020
+42 0.4555
+43 0.2693
+44 0.1535
+48 0.6010
+49 0.0800
+51 0.0122
+;ksx 4.5067
+6 0.0060
+8 0.3081
+;ksx 0.3938
+115 0.2347
+171 0.0522
+122 0.0694
+172 0.0053
+;ksx 0.4721
+131 0.0024 xksbth tehu
+xksbth
+173 0.6169
+148 0.5258
+178 0.4125
+167 0.0546
+118 0.1286
+;ksx 1.7408
+3 0.1116 vktex<+ cw<+uiqj vrjkSfy;k Hkhmiqj
+;ksx 0.1116
+7 0.0858
+156 RPH (audyogik vikas) Data 4e
+
+13 0.0158
+16 0.0029
+;ksx 0.3416
+327 0.3508
+328 0.0210
+329 0.1270
+331 0.1750
+332 0.1403
+333 0.1532
+335 0.0882
+336 0.0702
+337 0.0735
+340 0.0525
+341 0.0509
+369 0.0606
+370 0.1364
+0.2846 371
+0.3275 372
+374 0.0738
+375 0.0637
+376 0.1482
+377 0.2096
+;ksx 2.6966
+50 0.0217
+51 0.0140
+53 0.2707
+65 0.0230
+143 0.0008
+144 0.0015
+145 0.0035
+147 0.1370
+43 0.0283
+55 0.2326
+56 0.0020
+64 0.0250
+80 0.2920
+89 0.0640
+81 0.0050
+74 0.0407
+0.0209 75
+156 RPH (audyogik vikas) Data 4e
+
+88 0.2229
+89 0.0640
+110 0.0050
+129 0.1361
+130 0.1962
+125 0.1626
+126 0.0177
+127 0.0022
+121 0.1497
+122 0.0500
+148 0.0695
+153 0.1666
+0.0285 118
+0.0044 119
+120 0.0130
+109 0.0035
+150 0.1579
+154 0.1739
+206 0.0108
+207 0.0900
+208 0.1013
+209 0.3143
+210 0.4110
+211 0.0034
+213 0.0110
+216 0.0795
+217 0.0842
+218 0.0126
+219 0.0465
+220 0.0369
+221 0.0083
+222 0.0261
+235 0.0329
+236 0.0303
+237 0.0667
+238 0.0260
+239 0.0102
+;ksx 4.8918
+70 0.0320
+41 0.0220
+0.0180 53
+156 RPH (audyogik vikas) Data 4e
+
+54 0.0230
+55 0.0240
+58 0.0126
+60 0.0190
+17 0.0121
+18 0.0070
+11 0.3450
+12 0.1018
+235 0.0047
+236 0.0368
+5 0.0107
+7 0.0017
+8 0.0060
+9 0.0124
+19 0.0060
+21 0.0140
+0.0552 22
+0.0270 23
+30 0.0120
+43 0.0016
+42 0.0016
+40 0.0011
+46 0.0004
+191 0.0090
+1 0.0731
+2 0.0025
+6 0.0005
+13 0.0009
+29 0.0005
+31 0.0004
+45 0.0037
+15 0.0502
+;ksx 1.0460
+367fe 0.1336
+363 0.2210
+366 0.0204
+;ksx 0.3994
+149@261 0.0106 vktex<+ cw<+uiqj vrjkSfy;k ekW>hiqj
+149 0.0063
+237 0.0032
+238 0.0159
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ cw<+uiqj vrjkSfy;k 239 0.0858 ekW>hiqj
+241 0.0263
+251 0.8166
+259 0.2272
+;ksx 1.1919
+529 0.1082
+429 0.0015
+430 0.0462
+432 0.1045
+;ksx 0.2605
+68 0.0082
+70 0.0004
+71 0.0084
+74 0.0033
+75 0.0016
+76 0.0025
+0.0240 77
+0.0185 78
+122 0.0075
+124 0.0171
+;ksx 0.0948
+14 0.0279
+15 0.1070
+16 0.1050
+17 0.2000
+19 0.0036
+
+57 0.0370
+
+66 0.3657
+
+68 0.3357
+
+71 0.0806
+82 0.0050
+
+83 0.2400
+84 0.2270
+85 0.0569
+86 0.1190
+134 0.1097
+142 0.0001
+;ksx 2.0216
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ cw<+uiqj vrjkSfy;k 4 0.1715 egknsoiqj
+23 0.4284
+27 0.1207
+39 0.1534
+42 0.1150
+43 0.3219
+49 0.0490
+53 0.1353
+54 0.1546
+128 0.2359
+129 0.0335
+131 0.5864
+132 0.0066
+133 0.0472
+134 0.0440
+135 0.0845
+136 0.0438
+137 0.3560
+138 0.0477
+142 0.0395
+143 0.0378
+144 0.0200
+0.0304 145
+147 0.2684
+172 0.2189
+174 0.1610
+175 0.2470
+176 0.0610
+177 0.0240
+178 0.0360
+179 0.1110
+180 0.1230
+181 0.0110
+182 0.0290
+183 0.0112
+184 0.0168
+186 0.2292
+187 0.0340
+188 0.0390
+189 0.0040
+191 0.2196
+197 0.0371
+;ksx 5.1443
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ cw<+uiqj vrjkSfy;k 379 0.5568 lsuiqj
+380 0.1100
+381 0.1100
+382 0.0080
+385 0.0005
+386 0.0190
+387 0.3680
+388 0.5770
+389 0.2000
+390 0.0120
+391 0.0010
+392 0.0070
+394 0.0240
+0.1663 462
+2.1596 ;ksx
+111 0.1963
+112 0.1896
+113 0.1882
+114 0.0018
+117 0.1305
+118 0.0340
+157 0.0096
+159 0.2810
+130 0.0605
+143 0.0080
+;ksx 1.2145
+294 0.1390 QRrsgiqj eq0
+lw[khiqj
+299 0.0179
+300 0.1196
+301 0.1435
+302 0.1150
+
+308 0.0580
+
+0.0170
+312 0.0170
+
+313 0.0750
+
+291 0.1925
+
+307 0.0890
+
+293 0.0482
+;ksx 1.0317
+156 RPH (audyogik vikas) Data 4e
+
+48 0.1160
+417 0.4276
+401 0.1214
+392 0.2832
+390 0.1207
+387 0.0548
+340 0.0540
+341 0.0270
+342 0.0270
+349 0.0003
+351 0.0116
+354 0.0263
+46 0.0611
+228 0.2563
+173 0.0964
+174 0.0510
+0.5730 175
+1.2778 191
+;ksx 3.7486
+vktex<+ cw<+uiqj vrjkSfy;k 3 0.0800 xnuiqj
+4 0.0520
+4 0.1438
+5 0.1170
+6 0.0900
+7 0.0750
+8 0.0200
+10 0.0750
+11 0.0310
+12 0.0110
+13 0.0110
+14 0.0120
+15 0.1864
+69 0.1759
+70 0.4500
+72 0.2090
+73 0.0490
+74 0.0690
+74 0.0690
+74 0.0700
+75 0.3688
+0.0173 88
+0.0140 91
+156 RPH (audyogik vikas) Data 4e
+
+92 0.0235 vktex<+ cw<+uiqj vrjkSfy;k xnuiqj
+93 0.0951
+95 0.0937
+96 0.3041
+104 0.0827
+105 0.0887
+0.1076 106
+111 0.0036
+112 0.0500
+113 0.0115
+114 0.2054
+117 0.0274
+118 0.0178
+120 0.0224
+121 0.6445
+122 0.9360
+125 0.3726
+126 0.0230
+0.2014 127
+129 0.0318
+130 0.0376
+131 0.0242
+132 0.0293
+133 0.0054
+138 0.0220
+137 0.0220
+139 0.0210
+140 0.0175
+142 1.4427
+144 0.1780
+145 0.0880
+146 0.1010
+147 0.2000
+148 0.1010
+149 0.0570
+150 0.3468
+152 0.0550
+0.0010 40
+60 0.2585
+49 0.0001
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ cw<+uiqj vrjkSfy;k 52 0.0099 xnuiqj
+53 0.0250
+54 0.0051
+55 0.0075
+;ksx 8.7946
+2 0.8050 dqdqjhiqj
+eq0pRrqjiqj
+3 0.4740
+4 0.1559
+6 0.0135
+9 0.4483
+10 0.0550
+11 0.0530
+17 0.0001
+18 0.0421
+22 0.0160
+23 0.0004
+27 0.0104
+28 0.2834
+30 0.0380
+0.1099 47
+0.0005 48
+53 0.0648
+70 0.0357
+71 0.1208
+74 0.3420
+75 0.2034
+77 0.0250
+78 0.0120
+79 0.0194
+80 0.0250
+0.0770 81
+83 0.0850
+85 0.1323
+86 0.0873
+87 0.0740
+88 0.0790
+;ksx 3.8882
+320 0.1027
+408 0.9561
+433 0.0010
+432 0.0005
+156 RPH (audyogik vikas) Data 4e
+
+430 0.0011
+436 0.2410
+437 0.2370
+438 0.2370
+439 0.4050
+;ksx 2.2157
+2 0.0449 vdcsyiqj
+eq0gSnjiqj
+3 0.1840
+6 0.0160
+7 0.0177
+14 0.2840
+15 0.2852
+16 0.0510
+0.0430 17
+0.0344 18
+22 0.1040
+23 0.1040
+26 0.2460
+27 0.2000
+28 0.2020
+31 0.5180
+35 0.0027
+36 0.2281
+37 0.2200
+38 0.2200
+39 0.0490
+40 0.0420
+41 0.0730
+42 0.0730
+49 0.0100
+50 0.0120
+51 0.0040
+52 0.0040
+53 0.0070
+54 0.0100
+58 0.0190
+59 0.0098
+0.0210 60
+0.0210 61
+0.0200 62
+64 0.1050
+156 RPH (audyogik vikas) Data 4e
+
+65 0.0836 vdcsyiqj
+eq0gSnjiqj
+67 0.0202
+71 0.0080
+73 0.1083
+85 0.1066
+86 0.0647
+87 0.0660
+88 0.0450
+89 0.0449
+90 0.0500
+91 0.0310
+92 0.0304
+93 0.0074
+94 0.2742
+;ksx 4.4251
+38 0.0031 vdcsyiqj
+eq0xksjgjiqj
+40 0.1336
+41 0.2280
+44 0.0406
+48 0.0290
+50 0.6566
+133 0.4355
+136 0.2339
+139 0.2437
+140 0.1549
+0.2191 142
+143 0.0830
+148 0.0335
+130 0.1840
+129 0.3727
+128 0.0006
+127 0.2334
+125 0.1249
+0.0210 113
+99 0.1770
+98 0.4710
+
+79 0.0004
+95 0.2824
+0.1491 94
+92 0.0078
+;ksx 4.5188
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ cw<+uiqj vrjkSfy;k 8 0.0064 ijkuiqj
+10 0.0005
+17 0.0002
+22 0.0280
+33 0.0040
+34 0.0270
+39 0.0012
+45 0.0026
+46 0.0710
+47 0.0336
+57 0.0610
+63 0.0144
+64 0.0940
+73 0.0004
+25 0.0047
+26 0.0031
+;ksx 0.3521
+130 0.2257 vktex<+ cw<+uiqj vrjkSfy;k <ks<uiqj
+0.0086 127
+0.2343 ;ksx
+4 0.0940
+5 0.0680
+53 0.2859
+54 0.2400
+55 0.2060
+59 0.0366
+62 0.0832
+66 0.0123
+67 0.0755
+68 0.1430
+88 0.0025
+90 0.0388
+92 A 0.1150
+115 0.0109
+;ksx 1.4525
+4 fe0 0.0400 vktex<+ Qwyiqj ekgqy pfd;k
+4 fe0 0.0800
+4 fe0 0.0800
+4 fe0 0.0800
+4 fe0 0.2450
+4 fe0 0.0250
+0.1210 4 fe0
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ Qwyiqj ekgqy 4 fe0 0.2620 pfd;k
+4 fe0 0.1210
+4 fe0 0.1000
+4 fe0 0.0673
+4 fe0 0.1100
+4 fe0 0.1130
+4 fe0 0.1000
+4 fe0 0.1070
+4 fe0 0.0800
+4 fe0 0.0800
+162 0.2880
+163 0.0120
+164 0.0180
+194 0.0320
+258 0.1480
+39fe0 0.0470
+157fe0 0.1096
+43 0.0300
+173 0.0222
+174 0.0383
+175 0.0090
+177 0.5320
+0.0180 179
+180 0.0180
+181 0.0170
+182 0.0190
+185 0.0100
+188 0.0060
+192 0.0144
+193 0.0150
+170 0.0635
+125 1.0010
+242 0.1430
+
+243 0.3010
+
+258 0.1480
+261 0.0280
+
+284 0.2120
+
+169 0.0070
+
+159 0.0009
+
+44 0.1880
+;ksx 5.3072
+156 RPH (audyogik vikas) Data 4e
+
+vktex<+ Qwyiqj ekgqy 298 0.0190 eqrdYyhiqj
+307 0.0407
+608 0.0178
+604 0.8691
+619 0.0150
+628 0.1099
+;ksx 1.0715
+
+fnukad ls Hkwfe vf/kxzg.k dh dk;Zokfg;ka iw.kZ gksus rd dysDVj ds iwoZ vuqeksnu ds fcuk izkjfEHkd vf/klwpuk esa
+
+vkKk ls]
+vkyksd dqekj]
+&&&&&&
+IN pursuance of the provisions of clause (3) of Article 348 of the Constitution, the Governor is
+pleased to order the publication of the following English translation of notification no. 1450/LXXVII-3–
+2020-57(M)-2020, dated August 7, 2020:
+No. 1450/LXXVII-3–2020-57(M)-2020
+Dated Lucknow, August 7, 2020
+UNDER sub-section (1) of section 11 of the Right to Fair Compensation and Transparency in Land
+Acquisition, Rehabilitation and Resettlement Act, 2013 (Act no. 30 of 2013) (hereinafter referred to as the
+said Act), whereas the Government of Uttar Pradesh is satisfied that a total of 86.2616 Hectares of land is
+required in the village Rampur Mu. Ganpatpur Area 0.2584 hect., Ganpatpur-1.9176 hect., Fulwariya-
+0.0525 hect., Katava Rasulpur- 0.3760 hect., Nandana- 0.0375 hect., Chatturpur Madhai Patti- 0.1030
+hect., Jogipur- 2.0071 hect., Gorthani- 9.6931 hect., Shekhpur m. Chatturpur- 1.3430 hect., Somapur-
+2.7749 hect., Rasulpur- 1.9706 hect., Mandohi- 4.5067 hect., Pahiya Bhadeva- 0.3938 hect., Rithia-
+0.4721 hect., Goiji Jamin Goiji- 1.7408 hect., Bhiupur- 0.1116 hect., Pahiya Bujurg- 0.3416 hect.,
+Sukhipur- 2.6966 hect., Manshapatti- 4.8918 hect., Jamin Nandana- 1.0460 hect., Bodhi Patti- 0.3994
+hect., Majhipur- 1.1919 hect., Agaya Jamin Agaya- 0.2605 hect., Mukunda Patti- 0.0948 hect.,
+Khiridiha-2.0216 hect., Mahadevpur- 5.1443 hect., Senpur- 2.1596 hect., Banvari Patti- 1.2145 hect.,
+Fattehpur Mu. Sukhipur- 1.0317 hect., Maniyarpur- 3.7486 hect., Gadanpur- 8.7946 hect., Kukuripur Mu.
+Chatturpur- 3.8882 hect., Haidarpur Khas- 2.2157 hect., Akbelpur Mu. Haidarpur- 4.4251 hect., Akbelpur
+156 RPH (audyogik vikas) Data 4e
+
+mu. Goraharpur- 4.5188 hect, Paranpur- 0.3521 hect, Dhodhanpur- 0.2343 hect, Itauri Khalishpur- 1.4525
+hect, Chakiya- 5.3072 hect, Mutakallipur- 1.0715 hect, Tehsil-Burhanpur /Phoolpur, District Azamgarh for
+public purpose, namely Gorakhpur Link Expressway Project through the Uttar Pradesh Expressways
+Industrial Development Authority.
+2. Social Impact Assessment study was carried out by the State Social Impact Assessment Agency
+and submitted its recommendations to the Government of Uttar Pradesh which has approved its
+recommendation on date 27-07-2020.
+3. In brief, the recommendations of Multi Disciplinary Expert group regarding Social Impact
+Assessment report and Social Impact Management Plan is as follows-
+(a) Gorakhpur Link Expressway is a linear project which is being run upon a land stretch in
+maximum 120 mt. width in any affected village. In this way this project is not affecting
+major or total area of any village. So that the displacement from this project is negligible.
+(b) Though this project is likely to reduce the cultivable area in the concerned villages but
+compensation equal to four times of the circle rate of the land will help the farmers to
+upgrade the farms, increase in farm machinery and development of irrigation facilities.
+(c) The compensation of the land acquisition is likely to develop alternate employment
+measures, construction of better houses, development of means of transport and agriculture
+technology. This will compensate the loss due to reduction in land holdings.
+(d) This long distance project is likely to connect the remote areas of Uttar Pradesh with the
+state capital Lucknow reducing the time and cost and improving the commercial activities
+in the remote areas. It will cause convenience in transporting milk and milk products,
+fruits and vegetables and other perishable items to big markets and this will help in
+agricultural and allied purposes.
+(e) Growth of fast and better means of transport will help in development of tourism, medical
+attendance as well as interstate transport.
+(f) Therefore, the recommendation of Multi Disciplinary Expert group is as follows:-
+(i) It is in the public interest to acquire land for the purpose of Gorakhpur Link Expressway
+Project in District Azamgarh and it serves the public purpose.
+(ii) The probable benefits from this project are more than the social expenditure and adverse
+Social Impact and total land to be acquired is much less than the total land required for this
+project.
+4. In reference with the above recommendations of the committee, it is worthy to be noted that the
+revision of circle rate for the area effected by Gorakhpur Link Expressway project, will be done by Stamp
+and Registration Department/Collector, Azamgarh as per the stipulated procedure.
+Procedure for determination of market value of land by Collector is mentioned in section-26 of
+the said Act. It is also mentioned in clause (b) of sub-section(1) of the said section, that average sale price
+for similar type of land, situated in the nearest vicinity area will be determined by the Collector.
+5. No family is likely to be displaced, due to land acquisition for this project.
+6. Therefore, the Governor is pleased to notify for general information that the land mentioned in
+the schedule below, is needed for public purpose:-
+SCHEDULE
+AREA BE
+DISTRICT TAHSIL PARGANA VILLAGE PLOT NO. ACQUIRE
+D
+23 0.0008
+RAMPUR M
+AZAMGARH BURHANPUR ATRAULIA
+GANPATPUR
+33 0.0534
+34 0.1340
+36 0.0702
+TOTAL 0.2584
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH BURHANPUR ATRAULIA GANPATPUR 254 0.3527
+278 0.1184
+119 0.2409
+154 0.2686
+165 0.0850
+167 0.3380
+168 0.0391
+170 0.1250
+171 0.0186
+163 0.0032
+164 0.0708
+174 0.1039
+215 0.0025
+214 0.1509
+TOTAL 1.9176
+FULWARIYA 4 0.0525 AZAMGARH BURHANPUR ATRAULIA
+TOTAL 0.0525
+KATWA 42 0.3437
+AZAMGARH BURHANPUR ATRAULIA
+RASULPUR
+44 0.0268
+45 0.0055
+TOTAL 0.3760
+NANDANA 9 0.0250 AZAMGARH BURHANPUR ATRAULIA
+10 0.0023
+12 0.0004
+13 0.0025
+31 0.0073
+TOTAL 0.0375
+CHATTURPUR 546 0.1020
+AZAMGARH BURHANPUR ATRAULIA
+MADHAI PATTI
+542 0.0010
+TOTAL 0.1030
+AZAMGARH BURHANPUR ATRAULIA JOGIPUR 355 1.2843
+330 0.0046
+364 0.3642
+362 0.0025
+365 0.0110
+366 0.0038
+369 0.0602
+370 0.0271
+373 0.0325
+375 0.1959
+331 0.0210
+TOTAL 2.0071
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH BURHANPUR ATRAULIA GORTHANI 283 0.0512
+279 0.3383
+280 0.0003
+270 0.4727
+277 0.0388
+267 0.1170
+265 0.0878
+264 0.0716
+268 0.0620
+269 0.0630
+261 0.2278
+262 0.2340
+263 0.0930
+271 0.0390
+272 0.1380
+274 0.1213
+275 0.0639
+258 0.0560
+257 0.0020
+256 0.0020
+255 0.0790
+254 0.1120
+253 0.0790
+252 0.0296
+234 0.1020
+200 0.0576
+199 0.0891
+198 0.0429
+197 0.3812
+196 0.0750
+204 0.0294
+248 1.2140
+247 0.0019
+245 0.6162
+241 0.1750
+240 0.0200
+194 0.7450
+193 0.0529
+192 0.0622
+39 0.3741
+38 1.1818
+36 0.1070
+48 0.0127
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH BURHANPUR ATRAULIA GORTHANI 50 0.0188
+51 0.2148
+5 1.5402
+TOTAL 9.6931
+SHEKHPUR MU. 332 0.0016
+AZAMGARH BURHANPUR ATRAULIA
+CHATTURPUR
+333 0.1160
+335 0.0120
+336 0.0040
+339 0.1050
+222 0.1130
+223 0.3013
+88 0.0826
+268 0.0757
+369 0.3863
+375 0.0405
+277 0.0130
+278 0.0130
+285 0.0135
+288 0.0140
+290 0.0515
+TOTAL 1.3430
+SOMAPUR 2 0.0127 AZAMGARH BURHANPUR ATRAULIA
+3 0.0342
+4 0.0830
+5 0.3409
+6 0.0750
+7 0.1590
+9 0.1380
+10 0.1800
+11 0.0900
+12 0.0690
+14 0.2456
+15 0.0025
+17 0.5827
+26 0.0487
+28 0.0744
+29 0.1305
+30 0.0044
+63 0.0469
+64 0.4029
+66 0.0530
+69 0.0015
+TOTAL 2.7749
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH BURHANPUR ATRAULIA RASULPUR 2 0.2070
+3 0.2240
+5 0.0710
+6 0.0800
+7 0.1299
+13 0.3157
+14 0.4202
+15 0.0885
+16 0.0766
+9 0.0860
+10 0.2250
+11 0.0467
+TOTAL 1.9706
+MANDOHI 5 0.0677 AZAMGARH BURHANPUR ATRAULIA
+6 0.0454
+86 0.0228
+9 0.2244
+10 0.1894
+11 0.3020
+12 0.3650
+15 0.0138
+16 0.0231
+17 0.1463
+18 0.2310
+19 0.0800
+20 0.2643
+27 0.0010
+
+28 0.3627
+
+29 0.1130
+
+31 0.3053
+
+35 0.0660
+
+38 0.0100
+
+40 0.1020
+
+42 0.4555
+
+43 0.2693
+
+44 0.1535
+
+48 0.6010
+
+49 0.0800
+
+51 0.0122
+
+TOTAL 4.5067
+156 RPH (audyogik vikas) Data 4e
+
+PAHIYA
+AZAMGARH BURHANPUR ATRAULIA 2 0.0797
+BHADEVA
+6 0.0060
+8 0.3081
+TOTAL 0.3938
+RITHIYA 112 0.1105 AZAMGARH BURHANPUR ATRAULIA
+115 0.2347
+171 0.0522
+122 0.0694
+172 0.0053
+TOTAL 0.4721
+GOYIJI JAMIN 131 0.0024
+AZAMGARH BURHANPUR ATRAULIA
+GOYIJI
+173 0.6169
+148 0.5258
+178 0.4125
+167 0.0546
+118 0.1286
+TOTAL 1.7408
+BHIUPUR 3 0.1116 AZAMGARH BURHANPUR ATRAULIA
+TOTAL 0.1116
+PAHIYA 2 0.1896
+AZAMGARH BURHANPUR ATRAULIA
+BUJURG
+7 0.0858
+11 0.0475
+13 0.0158
+16 0.0029
+TOTAL 0.3416
+AZAMGARH BURHANPUR ATRAULIA SUKHIPUR 325mi 0.0896
+327 0.3508
+328 0.0210
+329 0.1270
+331 0.1750
+332 0.1403
+333 0.1532
+335 0.0882
+336 0.0702
+337 0.0735
+340 0.0525
+341 0.0509
+369 0.0606
+370 0.1364
+371 0.2846
+372 0.3275
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH BURHANPUR ATRAULIA SUKHIPUR 374 0.0738
+375 0.0637
+376 0.1482
+377 0.2096
+TOTAL 2.6966
+AZAMGARH BURHANPUR ATRAULIA MANSHAPATTI 43 0.0383
+50 0.0217
+51 0.0140
+53 0.2707
+65 0.0230
+143 0.0008
+144 0.0015
+145 0.0035
+147 0.1370
+43 0.0283
+55 0.2326
+56 0.0020
+64 0.0250
+80 0.2920
+89 0.0640
+81 0.0050
+74 0.0407
+75 0.0209
+86 0.6451
+88 0.2229
+89 0.0640
+110 0.0050
+129 0.1361
+130 0.1962
+125 0.1626
+126 0.0177
+127 0.0022
+121 0.1497
+122 0.0500
+148 0.0695
+153 0.1666
+118 0.0285
+119 0.0044
+120 0.0130
+109 0.0035
+150 0.1579
+154 0.1739
+206 0.0108
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH BURHANPUR ATRAULIA MANSHAPATTI 207 0.0900
+208 0.1013
+209 0.3143
+210 0.4110
+211 0.0034
+213 0.0110
+216 0.0795
+217 0.0842
+218 0.0126
+219 0.0465
+220 0.0369
+221 0.0083
+222 0.0261
+235 0.0329
+236 0.0303
+237 0.0667
+238 0.0260
+239 0.0102
+TOTAL 4.8918
+JAMIN 92 0.0145
+AZAMGARH BURHANPUR ATRAULIA
+NANDANA
+70 0.0320
+41 0.0220
+53 0.0180
+51 0.0830
+54 0.0230
+55 0.0240
+58 0.0126
+60 0.0190
+17 0.0121
+18 0.0070
+11 0.3450
+12 0.1018
+235 0.0047
+236 0.0368
+5 0.0107
+7 0.0017
+8 0.0060
+9 0.0124
+19 0.0060
+21 0.0140
+22 0.0552
+23 0.0270
+156 RPH (audyogik vikas) Data 4e
+
+JAMIN 30 0.0120
+AZAMGARH BURHANPUR ATRAULIA
+NANDANA
+43 0.0016
+42 0.0016
+40 0.0011
+46 0.0004
+191 0.0090
+1 0.0731
+2 0.0025
+6 0.0005
+13 0.0009
+29 0.0005
+31 0.0004
+45 0.0037
+15 0.0502
+TOTAL 1.0460
+AZAMGARH BURHANPUR ATRAULIA BODHI PATTI 361 0.0244
+367fe 0.1336
+363 0.2210
+366 0.0204
+TOTAL 0.3994
+AZAMGARH BURHANPUR ATRAULIA MANJHIPUR 149/261 0.0106
+149 0.0063
+237 0.0032
+238 0.0159
+239 0.0858
+241 0.0263
+251 0.8166
+259 0.2272
+TOTAL 1.1919
+AGAYA JAMIN 454 0.0001
+AZAMGARH BURHANPUR ATRAULIA
+AGAYA
+529 0.1082
+429 0.0015
+430 0.0462
+432 0.1045
+TOTAL 0.2605
+MUKUNDA 54 0.0033
+AZAMGARH BURHANPUR ATRAULIA
+PATTI
+68 0.0082
+70 0.0004
+71 0.0084
+74 0.0033
+75 0.0016
+156 RPH (audyogik vikas) Data 4e
+
+MUKUNDA 76 0.0025
+AZAMGARH BURHANPUR ATRAULIA
+PATTI
+77 0.0240
+78 0.0185
+122 0.0075
+124 0.0171
+TOTAL 0.0948
+KHIRIDIHA 9 0.0014 AZAMGARH BURHANPUR ATRAULIA
+14 0.0279
+15 0.1070
+16 0.1050
+17 0.2000
+19 0.0036
+57 0.0370
+66 0.3657
+68 0.3357
+71 0.0806
+82 0.0050
+83 0.2400
+84 0.2270
+85 0.0569
+86 0.1190
+134 0.1097
+142 0.0001
+TOTAL 2.0216
+MAHADEVPUR 4 0.1715 AZAMGARH BURHANPUR ATRAULIA
+23 0.4284
+27 0.1207
+39 0.1534
+42 0.1150
+43 0.3219
+49 0.0490
+53 0.1353
+54 0.1546
+128 0.2359
+129 0.0335
+131 0.5864
+132 0.0066
+133 0.0472
+134 0.0440
+135 0.0845
+136 0.0438
+137 0.3560
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH BURHANPUR ATRAULIA MAHADEVPUR 138 0.0477
+142 0.0395
+143 0.0378
+144 0.0200
+145 0.0304
+147 0.2684
+172 0.2189
+174 0.1610
+175 0.2470
+176 0.0610
+177 0.0240
+178 0.0360
+179 0.1110
+180 0.1230
+181 0.0110
+182 0.0290
+183 0.0112
+184 0.0168
+186 0.2292
+187 0.0340
+188 0.0390
+189 0.0040
+191 0.2196
+197 0.0371
+TOTAL 5.1443
+AZAMGARH BURHANPUR ATRAULIA SENPUR 379 0.5568
+380 0.1100
+381 0.1100
+382 0.0080
+385 0.0005
+386 0.0190
+387 0.3680
+388 0.5770
+389 0.2000
+390 0.0120
+391 0.0010
+392 0.0070
+394 0.0240
+462 0.1663
+TOTAL 2.1596
+BANAVARI 110 0.1150
+AZAMGARH BURHANPUR ATRAULIA
+PATTI
+111 0.1963
+156 RPH (audyogik vikas) Data 4e
+
+112 0.1896
+113 0.1882
+114 0.0018
+117 0.1305
+118 0.0340
+157 0.0096
+159 0.2810
+130 0.0605
+143 0.0080
+TOTAL 1.2145
+FATTEHPUR MU. 294 0.1390
+AZAMGARH BURHANPUR ATRAULIA
+SUKHIPUR
+299 0.0179
+300 0.1196
+301 0.1435
+302 0.1150
+308 0.0580
+311 0.0170
+312 0.0170
+313 0.0750
+291 0.1925
+307 0.0890
+293 0.0482
+TOTAL 1.0317
+MANIYARPUR 45 0.1631 AZAMGARH BURHANPUR ATRAULIA
+48 0.1160
+417 0.4276
+401 0.1214
+392 0.2832
+390 0.1207
+387 0.0548
+340 0.0540
+341 0.0270
+342 0.0270
+349 0.0003
+351 0.0116
+354 0.0263
+46 0.0611
+228 0.2563
+173 0.0964
+174 0.0510
+175 0.5730
+191 1.2778
+TOTAL 3.7486
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH BURHANPUR ATRAULIA GADANPUR 3 0.0800
+4 0.0520
+4 0.1438
+5 0.1170
+6 0.0900
+7 0.0750
+8 0.0200
+10 0.0750
+11 0.0310
+12 0.0110
+13 0.0110
+14 0.0120
+15 0.1864
+69 0.1759
+70 0.4500
+72 0.2090
+73 0.0490
+74 0.0690
+74 0.0690
+74 0.0700
+75 0.3688
+88 0.0173
+91 0.0140
+92 0.0235
+93 0.0951
+95 0.0937
+96 0.3041
+104 0.0827
+105 0.0887
+106 0.1076
+111 0.0036
+112 0.0500
+113 0.0115
+114 0.2054
+117 0.0274
+118 0.0178
+120 0.0224
+121 0.6445
+122 0.9360
+125 0.3726
+126 0.0230
+127 0.2014
+129 0.0318
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH BURHANPUR ATRAULIA GADANPUR 130 0.0376
+131 0.0242
+132 0.0293
+133 0.0054
+138 0.0220
+137 0.0220
+139 0.0210
+140 0.0175
+142 1.4427
+144 0.1780
+145 0.0880
+146 0.1010
+147 0.2000
+148 0.1010
+149 0.0570
+150 0.3468
+152 0.0550
+40 0.0010
+60 0.2585
+49 0.0001
+52 0.0099
+53 0.0250
+54 0.0051
+55 0.0075
+TOTAL 8.7946
+KUKURIPUR
+AZAMGARH BURHANPUR ATRAULIA MU. 2 0.8050
+CHATTURPUR
+3 0.4740
+4 0.1559
+6 0.0135
+9 0.4483
+10 0.0550
+11 0.0530
+17 0.0001
+18 0.0421
+22 0.0160
+23 0.0004
+27 0.0104
+28 0.2834
+30 0.0380
+47 0.1099
+48 0.0005
+53 0.0648
+156 RPH (audyogik vikas) Data 4e
+
+KUKURIPUR
+AZAMGARH BURHANPUR ATRAULIA MU. 70 0.0357
+CHATTURPUR
+71 0.1208
+74 0.3420
+75 0.2034
+77 0.0250
+78 0.0120
+79 0.0194
+80 0.0250
+81 0.0770
+83 0.0850
+85 0.1323
+86 0.0873
+87 0.0740
+88 0.0790
+TOTAL 3.8882
+HAIDARPUR 318 0.0337
+AZAMGARH BURHANPUR ATRAULIA
+KHAS
+320 0.1027
+408 0.9561
+433 0.0010
+432 0.0005
+431 0.0006
+430 0.0011
+436 0.2410
+437 0.2370
+438 0.2370
+439 0.4050
+TOTAL 2.2157
+AKBELPUR MU. 2 0.0449
+AZAMGARH BURHANPUR ATRAULIA
+HAIDARPUR
+3 0.1840
+6 0.0160
+7 0.0177
+14 0.2840
+15 0.2852
+16 0.0510
+17 0.0430
+18 0.0344
+22 0.1040
+23 0.1040
+26 0.2460
+27 0.2000
+28 0.2020
+156 RPH (audyogik vikas) Data 4e
+
+AKBELPUR MU.
+AZAMGARH BURHANPUR ATRAULIA 31 0.5180
+HAIDARPUR
+35 0.0027
+36 0.2281
+37 0.2200
+38 0.2200
+39 0.0490
+40 0.0420
+41 0.0730
+42 0.0730
+49 0.0100
+50 0.0120
+51 0.0040
+52 0.0040
+53 0.0070
+54 0.0100
+58 0.0190
+59 0.0098
+60 0.0210
+61 0.0210
+62 0.0200
+64 0.1050
+65 0.0836
+67 0.0202
+71 0.0080
+73 0.1083
+85 0.1066
+86 0.0647
+87 0.0660
+88 0.0450
+89 0.0449
+90 0.0500
+91 0.0310
+92 0.0304
+93 0.0074
+94 0.2742
+TOTAL 4.4251
+AKBELPUR MU. 38 0.0031
+AZAMGARH BURHANPUR ATRAULIA
+GORAHARPUR
+40 0.1336
+41 0.2280
+44 0.0406
+48 0.0290
+50 0.6566
+156 RPH (audyogik vikas) Data 4e
+
+AKBELPUR MU. 133 0.4355
+AZAMGARH BURHANPUR ATRAULIA
+GORAHARPUR
+136 0.2339
+139 0.2437
+140 0.1549
+142 0.2191
+143 0.0830
+148 0.0335
+130 0.1840
+129 0.3727
+128 0.0006
+127 0.2334
+125 0.1249
+113 0.0210
+99 0.1770
+98 0.4710
+79 0.0004
+95 0.2824
+94 0.1491
+92 0.0078
+TOTAL 4.5188
+PARANPUR 8 0.0064 AZAMGARH BURHANPUR ATRAULIA
+10 0.0005
+17 0.0002
+22 0.0280
+33 0.0040
+34 0.0270
+39 0.0012
+45 0.0026
+46 0.0710
+47 0.0336
+57 0.0610
+63 0.0144
+64 0.0940
+73 0.0004
+25 0.0047
+26 0.0031
+TOTAL 0.3521
+DHODHANPUR 130 0.2257 AZAMGARH BURHANPUR ATRAULIA
+127 0.0086
+TOTAL 0.2343
+156 RPH (audyogik vikas) Data 4e
+
+ITAURI
+AZAMGARH BURHANPUR ATRAULIA 3 0.0408
+KHALISPUR
+4 0.0940
+5 0.0680
+53 0.2859
+54 0.2400
+55 0.2060
+59 0.0366
+62 0.0832
+66 0.0123
+67 0.0755
+68 0.1430
+88 0.0025
+90 0.0388
+92 A 0.1150
+115 0.0109
+TOTAL 1.4525
+AZAMGARH PHULPUR MAHUL CHAKIYA 4M 0.0400
+4M 0.0800
+4M 0.0800
+4M 0.0800
+4M 0.2450
+4M 0.0250
+4M 0.1210
+4M 0.2620
+4M 0.1210
+4M 0.1000
+4M 0.0673
+4M 0.1100
+4M 0.1130
+4M 0.1000
+4M 0.1070
+4M 0.0800
+4M 0.0800
+162 0.2880
+163 0.0120
+164 0.0180
+194 0.0320
+258 0.1480
+39M 0.0470
+157M 0.1096
+43 0.0300
+173 0.0222
+174 0.0383
+175 0.0090
+177 0.5320
+179 0.0180
+156 RPH (audyogik vikas) Data 4e
+
+AZAMGARH PHULPUR MAHUL CHAKIYA 180 0.0180
+181 0.0170
+182 0.0190
+185 0.0100
+188 0.0060
+192 0.0144
+193 0.0150
+170 0.0635
+125 1.0010
+242 0.1430
+243 0.3010
+258 0.1480
+261 0.0280
+284 0.2120
+169 0.0070
+159 0.0009
+44 0.1880
+TOTAL 5.3072
+AZAMGARH PHULPUR MAHUL MUTKALLIPUR 298 0.0190
+307 0.0407
+608 0.0178
+604 0.8691
+619 0.0150
+628 0.1099
+TOTAL 1.0715
+GRANT 86.2616
+
+TOTAL
+
+7. The Governor is also pleased to authorize the Collector for the purpose of land acquisition to
+take necessary steps to enter upon and survey of land, take levels of any land, dig and do all the Acts
+required for the proper execution of work as provided and specified under section 12 of the said Act.
+8. Under section 15 of the said Act, any person interested in the land may within 60 days after the
+publication of this notification, make an objection to the acquisition of land in the locality in writing to the
+Collector.
+9. Under section 11 (4) of the said Act, no person shall make any transaction or cause any
+transaction of land i.e. sale/purchase, specified in the preliminary notification or create any encumbrances
+on such land from the date of publication of such notification till such time as the proceedings of land
+acquisition is completed, without prior approval of the Collector.
+
+Note: A site Plan of the land may be inspected in the office of the Collector, Azamgarh.
+
+By order,
+ALOK KUMAR,
+Upar Mukhya Sachiv.
+
+156 RPH (audyogik vikas) Data 4e
