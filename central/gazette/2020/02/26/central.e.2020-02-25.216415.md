@@ -1,0 +1,50 @@
+---
+title: "In exercise of the powers conferred by sub sections 1 and 2 of section 16 read with section 17 and sub section 3"
+gazette_id: "CG-DL-E-26022020-216415 Download: gvGazette$ctl13$imgbtndownload"
+ministry: "Ministry of Commerce and Industry"
+department: "Not Applicable"
+notification_no: "S.O. 853(E)"
+published: "2020-02-26"
+in_force: "2020-09-01"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-25.216415"
+---
+
+# In exercise of the powers conferred by sub sections 1 and 2 of section 16 read with section 17 and sub section 3
+
+MINISTRY OF COMMERCE AND INDUSTRY (Department for Promotion of Industry and Internal Trade) ORDER New Delhi, the 25th February, 2020 S.O. 853(E).—In exercise of the powers conferred by sub-sections (1) and (2) of section 16 read with section 17 and sub-section (3) of section 25 of the Bureau of Indian Standards Act, 2016 (11 of 2016), the Central Government, after consulting the Bureau, is of the opinion that it is necessary and expedient so to do in the public interest, hereby makes the following Order, namely:—
+
+1. Short title and commencement.—(1) This Order may be called the Toys (Quality Control) Order, 2020.
+
+(2) It shall come into force with effect from 01.09.2020.
+
+2.
+
+Application.-In this order, unless the context otherwise requires—
+
+(a) This Quality Control Order shall apply to (Toys) Product or material designed or clearly intended, whether or not exclusively, for use in play by children under 14 years of age or any other product as notified by the Central Government from time to time;
+
+(b) This order shall apply to Toys as they are initially received by the children and, in addition, this shall apply after a toy is subjected to reasonably foreseeable conditions of normal use and abuse unless specifically noted otherwise.
+
+3. Conformity to standard and compulsory use of Standard Mark.—The goods or articles specified in the column (1) of the Table below shall conform to the corresponding Indian Standard (s) mentioned in the column (2) of the Table and shall bear the Standard Mark under a licence from the Bureau as per Scheme-I of Schedule-II of BIS (Conformity Assessment) Regulations, 2018:
+
+Provided that nothing in this order shall apply to goods or articles meant for export.
+
+4. Certification and enforcement authority.—The Bureau shall be the certifying and enforcement authority for the goods or articles specified in column (1) of the following Table.
+
+TABLE Goods or Indian Standard Title of Indian Standard articles Toys IS 9873 (Part 1) : 2018 Safety of Toys Part l Safety Aspects Related to Mechanical and Physical Properties.
+
+IS 9873 (Part 2) : 2017 Safety of Toys Part 2 Flammability.
+
+IS 9873 (Part 3) : 2017 Safety Requirements for Toys Part 3 Migration of Certain Elements.
+
+IS 9873 (Part 4) : 2017 Safety of Toys Part 4 Swings, Slides and Similar Activity Toys for Indoor and Outdoor Family Domestic Use.
+
+IS 9873 (Part 7) : 2017 Safety of Toys Part 7 Requirements and Test Methods for Finger Paints.
+
+IS 9873 (Part 9) : 2017 Safety of Toys Part 9 Certain Phthalates Esters in Toys and Children's Products.
+
+IS 15644: 2006 Safety of Electric Toys.
+
+Note : For the purposes of Table, the latest version of Indian Standards including the amendments issued thereof, as notified by the Bureau from time to time, shall apply from date of such notification.
+
+[F. No. 11(4)/2017-C.I] MANMEET K. NANDA, Jt. Secy. and Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR VERMA VERMA
