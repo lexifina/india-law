@@ -1,0 +1,1069 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 533 of 2020"
+decided: "2020-09-09"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/14782901055f58d18395f9f.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 533 of 2020, 2020-09-09
+
+1
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL NEW DELHI
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+[Arising out of Order dated 06.05.2020 & 30.04.2020 passed by the
+Adjudicating Authority (National Company Law Tribunal), Principal Bench
+in CP (IB) 1830/MB/2018 & Miscellaneous Application No. 1751/2019]
+IN THE MATTER OF:
+1.Makalu Trading Ltd.
+1, Pearl Mansion,
+(N), M.Karve Road,
+Marine Lines, Mumbai 400 020 …Appellant No.1
+2.Superways Enterprises Pvt. Ltd
+1, Pearl Mansion,
+(N), M.Karve Road,
+Marine Lines, Mumbai 400 020 …Appellant No.2
+3.Dilshad Trading Company Pvt. Ltd
+1, Pearl Mansion, (N),
+M.Karve Road,
+Marine Lines, Mumbai 400 020 …Appellant No.3
+4.Shrilekha Trading Pvt. Ltd.
+1, Pearl Mansion,
+(N), M.Karve Road,
+Marine Lines, Mumbai 400 020 …Appellant No.4
+5.M/s.Subhkaran and Sons
+1, Pearl Mansion,
+(N), M.Karve Road,
+Marine Lines, Mumbai 400 020 …Appellant No.5
+Versus
+1.Rajiv Chakraborty,
+Resolution Professional for
+Uttam Value Steel Ltd
+2, Sukhdev Vihar, 1st Floor,
+New Delhi – 110 025 …Respondent No.1
+
+2
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+2.Committee of Creditors
+Of Uttam Value Steels Limited
+Through State bank of India,
+State bank of India,
+Stressed Asset Management
+Branch – II, Raheja Chambers,
+Ground Floor, Nariman Point,
+Mumbai – 400 021 …Respondent No.2
+3.CarVal Investors
+CarVal Investors, 461,
+Fifth Avenue
+New York, NY 10017,
+United States of America …Respondent No.3
+Present:
+For Appellant : Mr. Zal Andhyarujina, Senior Advocate with Ms. Akanksha
+Agarwal, Mr. Bharat Merchant and Mr. Neerav Merchant, Advocates
+For Respondents: Ms. Fatema Kachwah, Advocates for R-1.
+Mr. Arun Kathpalia, Senior Advocate with Mr. Vaijyant, Advocate for R-2,
+Mr. Rajiv Chakraborthy, Resolution Professional, Mr. Dheeraj and Mr.
+Rohan Rajadhyaksha, Advocates for R-3.
+J U D G M E N T
+DR. ASHOK KUMAR MISHRA, TECHNICAL MEMBER
+1. The Appellants – ‘Makalu Trading Ltd. & Ors., have filed an Appeal Under
+Section 61 of the ‘Insolvency and Bankruptcy Code’, 2016 (for short ‘I&B
+
+3
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Code,’ 2016) against the impugned order dated 06.05.2020 and
+30.04.2020 in ‘CP(IB)1830/MB/2018’ & ‘Miscellaneous Application
+No.1751/2019’ passed by the Adjudicating Authority (‘National Company
+Law Tribunal’), Principal Bench, New Delhi.
+2. The Appellants pray for the following reliefs:
+ Stay the operation of the Impugned orders dated 30.04.2020 and
+06.05.2020 passed by the Ld. Principal Bench, NCLT for the
+aforementioned reasons till the disposal of the Appeal;
+ Stay Carval/consortium of Carval/Nithia (in short ‘Carval’) and its
+Directors/managers/Officers/representatives/agents/affiliates/sis
+ter concerns/partners/assigns etc., by whatever name called from
+given effect to the Order dated 30.05.2020 and 06.05.2020 passed
+by the Ld. Principal bench, NCLT and refrain Carval and its
+directors/managers/Officers/representatives/agents/affiliates/sist
+er concerns/partners/assigns etc. by whatever name called from
+alienating, transferring, selling, encumbering, leasing or creating or
+any third party interest, whether directly or indirectly, in any
+moveable or immovable asset of the Corporate Debtor till the
+disposal of the Appeal;
+ Set aside the order dated 30.04.2020 and 06.05.2020 passed by the
+Principal bench, NCLT approval Carval’s Resolution Plan etc.
+3. The Appellants have raised the following issues for quashing the above
+order passed by the Adjudicating Authority:
+
+4
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+a. It is well settled principle in law that when a statutory provision sets
+out a particular procedure to be followed, it should be done in that
+particular manner and that failure to do so, shall result in a nullity of
+the act and that the failure to obtain “prior” approval, results in a
+nullity in the acts of the Resolution Professional and the Committee of
+Creditors (for short ‘CoC’). Since obtaining the permission of the
+‘Competition Commission of India’ (for short ‘CCI’) is a condition
+precedent which has not been fulfilled, therefore, approving of the Plan
+by the CoC is in contravention of the provisions of the Code. As such,
+the final approval by the Adjudicating Authority of Carval’s Resolution
+Plan on 30.04.2020 and 06.05.2020 is contrary to the Code and
+requires to be immediately set aside on the ground alone. It is also
+important to note that on 19.04.2019, i.e. the date on which e-voting
+on Carval’s Plan dated 15.04.2019 was scheduled for approval, neither
+did Carval have the mandatory prior approval from the CCI, nor had
+Carval even made an application for approval to the CCI, knowing this
+fact, certain CoC members started secretly negotiating certain terms of
+its Plan with Carval under the garb of “improving” the Plan, and
+therefore sought cancellation of the e-voting scheduled on 19.04.2019.
+These negotiations seeking improvement of Carval’s Plan were clearly
+entered into by certain CoC members to push back the e-voting
+scheduled on 19.04.2019. By getting the e-voting scheduled on
+19.04.2019 cancelled and by holding the next CoC meeting on
+
+5
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+21.04.2019, the RP and the CoC gave Carval an opportunity to at least
+file an application before the CCI in terms of the proviso to Section 31(4)
+of the I&B Code, 2016. Carval pounced on this opportunity and filed
+the application before the CCI on 20.04.2019, i.e. a day before the CoC
+meeting held on 21.04.2019. Thereafter, the Resolution Professional at
+the behest of certain CoC Members called the 15th CoC meeting on
+21.04.2019 to approve the revised Resolution Plan submitted by
+Carval. Though the Appellant and various other CoC members objected
+this hijacking of the proceedings and the decision to vote on the revised
+plan, yet the certain CoC Members at whose behest the 15th CoC
+Meeting was called decided to hold physical voting to approve the
+revised Plan. At the 15th CoC Meeting held on 21.04.2019, the CoC
+approved the revised Resolution Plan submitted by Carval by a majority
+of 81.29% without there being the prior CCI’s mandatory approval. The
+CoC, therefore, on 21.04.2019 is guilty of approving a Resolution Plan
+that was contrary to the provision to Section 31(4) of the Code that
+required prior “mandatory” approval from the CCI, which is
+impermissible. It is well settled position of law decided by the Supreme
+Court that –
+When the statute prescribed a particular method for doing something,
+that thing can only be done by that method and if that thing is done in
+some other manner such action is null and void and nugatory, held in
+Para 42 and 43 of Mackinnon Mackenzie ltd Vs. Mackinnon
+
+6
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Employees Union, (2015) 4 SCC 544; “Prior” permission cannot never
+be equated with subsequent permission. As such, the subsequent
+permission where the statute prescribes a prior permission is no
+permission in law at all, held in the judgment relied upon hereinabove
+HMT House Building Cooperative Society Vs. Syed Khader and
+Ors. 1995 SCC (2) 677- Para 19, followed in the case of Bangalore City
+Cooperative Housing Society Ltd Vs. State of Karnataka & Ors.
+(2012) 3 SCC 727 – Para 34 & 68. The Prior permission of the CCI is, in
+fact, a statutory precondition and as such in the nature of a
+jurisdictional fact, the absence of which denudes the CoC from any
+power/authority/jurisdiction to vote on the proposed Resolution Plan
+as held in Arun Kumar and Ors. Vs. Union of India and Ors. 2007
+(1) SCC 732- para 74 – 76. That the entire purpose of the Proviso was
+to make an exception concerning the permission of the CCI in the event
+of the Resolution Plan containing a provision of combination, the
+legislative mechanism of making such exceptions by inserting a proviso
+is a well settled and well established legislative tool, held in
+S.Sundaram Pillai Vs. V.R. Pattabiraman, (1985) 1 SCC 591- Para
+28, 37 and 43.
+b. The Appellants submit that apart from the ‘Resolution Plan’ in
+contravention of several provisions of the Code and the CIRP
+Regulations, there has been blatant suppression of material facts
+before the Adjudicating Authority. The Resolution Professionals has
+
+7
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+also acted in breach of his duties and obligations and there is grave
+irregularity in the exercise of his powers. The Resolution Plan,
+therefore, by no stretch and imagination can be said to be to the
+satisfaction of the ‘Adjudicating Authority’ under the relevant
+provisions of the Code and therefore, ought to be rejected in the interest
+of the Corporate Debtor and all its Creditor.
+c. The Appellant has also alleged that Carval is ineligible as per Regulation
+39 (1)(c) of IBBI Insolvency Resolution Process for Corporate Person
+Regulation, 2016 (hereinafter, “CIRP Regulations”). Since it has
+knowingly submitted a Resolution Plan with false information and as
+such, its plan could not have even been placed before the CoC by the
+Resolution Professional, let alone be approved by the Adjudicating
+Authority. Carval had represented that One Dr.Johannes Sittard was a
+Director of Nithia Capital Resources Advisors LLP (an entity of the
+Consortium of Carval) in its revised bids on 19.04.2029 and again on
+15.05.2019. This was completely false to the knowledge of Carval as
+Mr. Johannes Sittard had resigned as a Director from Nithia with effect
+from 01.04.2018, which was much prior to 19.04.2019 and 15.05.2019
+and was being falsely represented. As represented in Annexure-2 of the
+Resolution Plan, of the “Management Team” of Mr.Johannes Sittard
+and Mr.Jai Saraf, Mr.Johannes Sittard was the only person having any
+technical knowledge in the field of mining and metals and has prior
+work experience in Arcelor Mittal. Whereas, Mr.Jai Saraf is Chartered
+
+8
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Accountant (CA) by profession and handles only finances. As such.
+Carval was only a financing partner of Carval Consortium who had
+provided the Standby Letter of Credit on behalf of Nithia Capital. After
+Mr. Johannes Sittard’s resignation in 2018, the working partner of
+Nithia capital is a CA and CARVAL, being an investment fund, there is
+an absence of technical expert which raises a question on the running
+of the said plants slated to be taken over. The Books of Account of
+Nithia Capital make, it is evidenced that the total capital invested in
+Nithia since inception is only 1000 pounds i.e. Rs. 93,000 as on date
+and is being managed by persons having only financial knowledge i.e.
+Mr.Jai Saraf and his wife. Thus, Carval’s Resolution Plan clearly
+violated the terms of Regulation 39(1) (c) of the CIRP Regulations.
+Though the violation of Regulation 39(1) (c) automatically made Carval
+ineligible to continue with the insolvency process and attracted penal
+action against it, despite this, Carvals’ plan was approved by the CoC
+on 21.04.2019 and by the Adjudicating Authority on 30.04.2020 and
+06.05.2020. The Appellant had further placed on record that Carval
+was guilty of suppressing material information at the time of filing its
+Resolution Plan as such the Directors who were referred to as a part of
+the Applicant’s team had in fact resigned much prior to the date on
+which the Plan was submitted, and as such Carval was guilty of
+violating Regulation 39(1) (c) of the CIRP Regulations.
+
+9
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+d. The Appellants have also alleged that Bank Guarantee not provided by
+the Resolution Applicant in terms of RFRP, Contravention of the
+provisions of the Code and Regulations, material irregularity in exercise
+of powers by the Resolution Professional and fraudulent suppression of
+facts – the Resolution Applicant was required to provide a Bank
+Guarantee as per the Request for Resolution Plan (“RFRP”), the relevant
+clause being 3.4.2. A Performance Bank Guarantee of Rs. 250 Crores
+(the Bank Guarantee) was provided by the Resolution Applicant which
+was valid till 30 April, 2020, after which it was required to be
+extended/renewed till the Upfront Payment Date and/or realization of
+Rs. 250 Crores, whichever was later. In accordance with the RFRP, the
+Upfront Payment Date is 30 days from the date of approval of the
+Resolution Plan on 06.05.2020 i.e. 05.06.2020. Therefore, the Upfront
+Payment of Rs. 275 Crore (provided in the Resolution Plan) ought to
+have been received by Corporate Debtor by 05.06.2020. it is pertinent
+to note that under RFRP, this Upfront Payment was secured by the
+bank Guarantee to Rs. 250 Crores. Therefore, in the event of a default
+of payment of the Upfront Payment, the creditors would be entitled to
+invoke the Bank Guarantee of Rs. 250 Crores. On the issue of dilution
+in the value of the Bank Guarantee from Rs. 250 Crores to Rs. 50
+crores, decided unilaterally by certain “Financial Creditors” which had
+been suppressed by the Resolution Applicant, Resolution Professional
+and the “Financial Creditor” before the Adjudicating Authority and from
+
+10
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+the Appellants. Moreover, the said reduction in the amount of the Bank
+Guarantee is in complete breach of the conditions provided in the
+RFRP. In event of a default in payment of the Upfront Payment Amount
+and/or any other default as per the terms of the RFRP, the creditors
+will not be in a position to invoke the Bank Guarantee for Rs. 250
+Crores, but only in Rs.50 Crores, causing loss to all creditors of the
+Corporate Debtor. In deliberate suppression of the aforesaid, during the
+hearing before the Adjudicating Authority on 27.04.2020, 28.04.2020
+and 30.04.2020 for approval of the Resolution Plan, the Resolution
+Applicant, Resolution Professional and the “Financial Creditor” did not
+reveal the fact of reducing the Bank Guarantee before the Adjudicating
+Authority. The aforesaid facts were not revealed to the Adjudicating
+Authority in blatant and fraudulent suppression of facts. During the
+course of the entire hearing, the Resolution Applicant, Resolution
+Professional and the “Financial Creditors” led the Adjudicating
+Authority to believe that the Bank Guarantee of Rs. 250 Crores was
+being extended, in accordance with the RFRP. Moreover, the Resolution
+Professional had filed an application for an urged hearing of the MA No.
+1751 of 2019 before the Adjudicating Authority, on the ground that the
+Bank Guarantee of Rs. 250 Crores would expired on 30.04.2020, which
+clearly was false to his knowledge. The Respondents’ attempts to
+suppress the above facts are evident from the fact that the Resolution
+Professional and CoC deliberately did not respond to the Appellants’
+
+11
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+emails dated 02.05.2020, 07.05.2020, 10.06.2020 and 11.06.2020
+enquiring about the Bank Guarantee. (The said emails are annexed on
+page 807 and 809 of the Appeal). It is submitted that the said reduction
+is illegal and not in accordance with the law and as such is null and
+void. As such, the Respondents failure to continue to Bank Guarantee
+in terms of the RFRP has also rendered the Resolution Plan null and
+void. Moreover, the reduction is a breach of the substantive law and is
+not a commercial decision of the CoC. It is in fact as is evident is a
+breach of the substantive law is not a commercial decision of the CoC
+at all merely that of the “Financial Creditor”. The illegal actions being
+ratified by the Resolution Professional are also a material irregularity
+in his exercise of powers. The Appellants, further, submitted that the
+Adjudicating Authority has also failed to discharge its statutory duty
+under the Proviso to Section 31, as the Resolution Plan cannot be said
+to satisfy the provisions of effective implementation without a Bank
+Guarantee. The ‘Resolution Professional’, ‘Financial Creditor’ and the
+‘Resolution Applicant’ are also in breach of the following provisions of
+the Code (viz. Section 24(6), Section 25 (2)(f), Section 208) as well as
+IBBI (Insolvency Resolution Process for Corporate Persons)
+Regulations, 2016 (“CIRP Regulations”) Regulation 25. The Appellants
+submit that, contrary to the arguments of the counsel for the CoC, the
+purpose of the Bank Guarantee is not to secure the Financial Creditors
+alone, but for securing the entire CIRP. The Bank Guarantee is a
+
+12
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+document which provides security and financial solvency and
+capability of the ‘Resolution Applicant’ and binds the ‘Resolution
+Applicant’ to the bid. The argument made by the CoC before this
+Appellate Tribunal that the Resolution Applicant was forced to adopt a
+pragmatic approach in view of the on-going pandemic was, in fact,
+never made before the Adjudicating Authority nor was it a part of their
+pleadings before the Adjudicating Authority, which were filed in April
+i.e. after the pandemic situation had already escalated in India. In fact,
+the Legislature has made amendments to the on account of the on-going pandemic but no amendments have been providing any
+concessions in reduction/dilution of payments or guarantees etc.
+4. The Resolution Professional/Respondent No.1 has submitted that :
+a) The issue of prior approval from the CCI under Proviso to Section
+31(4) of the I&B Code, 2016 is incorrect and CCI approval is not a
+condition precedent for the approval of the Resolution Plan. The CCI
+Approval has been procured on June 4, 2019 in compliance with the
+provisions of the Code. It is submitted that condition requiring CCI
+Approval is “directory” and having obtained the same, the provisions
+Section 31 (4) have been complied with. The Law is amply clear from
+the judgment of this Appellate Tribunal in the matter of
+Arcelormittal India Pvt. Ltd. Vs. Abhijeet Guhathakurta & Ors. 2019
+SCC Online NCLAT 920, which states as under:
+
+13
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+“15. We have noticed and hold that proviso to sub-section (4) of section
+31 of the ‘I&B Code’ which relates to obtaining the approval from the
+‘Competition Commission of India’ under the Competition Act, 2002
+prior to the approval of such ‘Resolution Plan’ by the ‘Committee of
+Creditors’ is directory and not mandatory. It is always open to the
+‘Committee of Creditors’, which looks into viability, feasibility and
+commercial aspect of the ‘Resolution Plan’ to approve the ‘Resolution
+Plan’ subject to the approval by the Commission, which may be
+obtained prior to the approval of the plan by the Adjudicating
+Authority under Section 31 of the ‘I&B Code’. In the present matter,
+already approval of the Competition Commission of India has been
+taken to the ‘Resolution Plan”.
+b) It is further submitted that the law laid down by this Tribunal is not
+new law which is to operate from the date of its order, but is always
+the law. The court merely declares the law as it always is. This is
+succinctly stated in the following judgment of CIT Vs. Saurashtra
+Kutch Stock Exchange Ltd., (2008) 14 SCC 171.
+“Para : 35 – In our judgment, it is also well settled that a judicial
+decision acts retrospectively. Accordingly to Blackstonian theory, it
+is not the function of the court to pronounce a “new rule” but to
+maintain and expound the “old one”. In other words, judges do not
+make law, they only discover or find the correct law. The law has
+always been the same. If a subsequent decision alters the earlier
+
+14
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+one, it (the later decision) does not make new law. It only discovers
+the correct principle of law which has to be applied retrospectively.
+To put if differently, even where an earlier decision of the court
+operated for quite some time, the decision rendered later on would
+have retrospective effect clarifying the legal position which was
+earlier not correctly understood.
+Para :36 - Salmond in his well known work states:
+“The theory of case law is that a judge does not make law; he merely
+declares it; and the overruling of a previous decision is a declaration
+that the supposed rule never was law. Hence, any intermediate
+transactions made on the strength of the supposed rule are governed
+by the law established in the overruling decision. The overruling is
+retrospective, except as regards matters that are res judicatae or
+accounts that have been settled in the meantime”.
+Since the CCI Approval for the Resolution Plan has already been
+obtained on June 4, 2019 the same is not in violation of the
+provisions of the Code. The Objection is without any merit or legal
+basis and must be rejected. Further, under the provisions of the I&B
+Code, 2016, the CIRP is a time bound process. Any delay in approval
+of the plan would have resulted in liquidation of the Corporate
+Debtor. It is pertinent to note that the Respondent No.2 had
+approved the said plan, subject to CCI’s approval. Vide email dated
+June 4, 2019, the successful Resolution Applicant informed
+
+15
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Respondent No.1 that the CCI approval has been obtained. It is
+submitted that the provisions of the Code are to be construed
+harmoniously with the intent of the legislature, which is definitely
+not to push the Corporate Debtor into liquidation.
+c) As far as Extension of Performance Bank Guarantee (‘PBG’) is
+concerned, the Respondent No.1/Resolution Professional has
+submitted that the ‘Performance Bank Guarantee’ (“PBG”) was
+maintained by the Resolution Applicant/Respondent No.3 for
+almost a period of one year from approval of the Resolution Plan. In
+light of the financial crisis faced by several companies in view of the
+pandemic, COVID-19, Respondent No.3 requested for a reduction in
+the amount of the PBG. It is submitted that by this time, the
+contesting Resolution Applicant, the Consortium of Investment
+Opportunities IV Pte. Ltd., Singapore, Synergy Metals and Mining
+Fund LLP, Dubai and Art Special Finance (India) Limited, New Delhi
+(“SSG”) had already withdrawn its bid for Corporate Debtor.
+Therefore, Respondent No.3, was the only resolution applicant for
+the Corporate Debtor. In the interest of the Successful Resolution of
+the Corporate Debtor, Respondent No.2 accepted the request of
+Respondent No.3 seeking reduction in the amount of the PBG. It is
+submitted that the decision of the Respondent No.2 permitting
+reduction of the amount of the PBG, is the commercial decision of
+
+16
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Respondent No.2 taken in concurrence with other members of the
+CoC, in the interest of all the stakeholders of the Corporate Debtor.
+d) As regards failure to appoint Dr. Johannes Sittard for
+implementation of the Resolution Plan is concerned, the Respondent
+No.1/Resolution Professional has contended that one Dr. Johannes
+Sittard who was material to the implementation of the Resolution
+Plan left the organization of the Respondent No.3, which in turn will
+prejudice the successful implementation of the Resolution Plan. The
+Appellant has misrepresented the facts of the matter. Respondent
+No.1 had in fact examined the Resolution Plan of Respondent No.3
+to confirm that the same provides for the management of the
+debtor’s affairs after the approval of such plan. Annexure 2 of the
+Resolution Plan clearly sets out that Dr. Johannes Sittard and Jai
+Saraf both have been key players and instrumental in laying the
+initial foundation and shaping the success story for the largest steel
+company in the world – Arcelor Mittal and its predecessors Mittal
+Steels and Ispat International NV. It is further to be noted that Dr.
+Johannes Sittard was in any case holding a non-executive position
+on the board of Nithia Capital and it is Mr. Saraf who is the Founder
+CEO and Director of Nithya Capital. Therefore, the allegations of the
+Appellant in this regard are completely baseless.
+5. It was stated by Committee of Creditors (CoC)/Respondent No.2 that:
+
+17
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+a. On the issue of approval from the CCI is concerned, it is based primarily
+on interpretation of proviso to Section 31(4) of the Code which provides
+that the approval of the CCI shall be obtained prior to approval of the
+Resolution Plan by the Committee of Creditors. It is also submitted that
+this issue is, no longer, res integra and has been settled by this
+Appellate Tribunal in Arcelor Mittal India Pvt. Ltd. Vs. Abjijit
+Guhathakurta, 2019 SCC Online NCLAT 920 (“Arcelor decision”). In the
+said case, this Appellate Tribunal has categorically held that the proviso
+to Section 31(4) is “directory” and “not mandatory” in nature. The
+Appellate Tribunal has further clarified that as long as the approval
+from the CCI has been obtained, prior to approval of the Resolution
+Plan by the Adjudicating Authority, such an action would not be in
+contravention of the provisions of the Code. In the present case, the
+Successful Resolution Applicant had applied for the approval from CCI
+prior to the Resolution Plan having been put to vote by the CoC. The
+approval from CCI is dated 03.06.2019. the final orders in M.A 1751 of
+2019 in CP(IB) No. 1830 of 2017 i.e. Resolution Plan approval
+application, were pronounced on 30.04.2020 and the judgment was
+made available on 06.05.2020. Thus, clearly, the Resolution Plan by
+the Adjudicating Authority has been approved only after the CCI
+approval and thus, the requirement of CCI approval for a combination
+under the Competition Act, 2002, is complied with, albeit after CoC
+approval of the Resolution Plan. This is however, permissible in terms
+
+18
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+of the Arcelor decision cited above. Even otherwise, it is trite law that
+mere usage of the term “shall” does not make a provision ‘mandatory’.
+Ordinarily, a matter of process, especially when there is no
+consequence/penalty stipulated on account of non-compliance of such
+process, is treated as ‘directory’ and ‘not mandatory’, as held by this
+Appellate Tribunal in decision cited above. Lastly, the interpretation of
+the Appellants would also defeat the purpose of resolution under the
+Code, if the argument of the Appellants is accepted, it would make the
+entire provision un-workable and several resolution plans would not
+get approved because of lack of CCI approval prior to approval by the
+CoC. In fact, the strict timelines contemplated under the Code are not
+in consonance with the timelines provided under the Competition Act,
+2002. In terms of Section 31(11) of the Competition Act, 2002, CCI is
+required to give its approval for a combination, which in its opinion will
+not have an appreciate adverse effect on competition within 210 days
+at the end of which the ‘combination’ would be deemed to have been
+approved. The I&B Code on the other hand contemplates that the entire
+CIRP should ideally be concluded within 180 days and a maximum
+extension of 90 days may be granted to deserving cases. Thus, in any
+event the entire process should be concluded within 270 days. Thus, if
+the approval of CCI is taken to be a mandatory requirement even prior
+to the approval of the Resolution Plan by the CoC, it would be extremely
+difficult for the CoC to consider any Resolution Plan that triggers
+
+19
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+requirement of CCI approval under the Competition Act, 2002. To put
+the matter in context, it may be noted that the model timelines of a
+CIRP prescribed by Regulation 40A of the IBBI (Insolvency Resolution
+Process for a Corporate Persons) Regulations, 2016 provides that the
+Invitation of Expression of Interest (EOI) is to be published by the 75th
+day of the insolvency commencement, the final resolution plans must
+be submitted by the 135th day and the resolution plans, approved by
+the CoC are required to be submitted to Adjudicating Authority by the
+165th day. Thus, only a period of 90 days is available from date of EOI
+till submission of the Resolution Plans for approval of the Adjudicating
+Authority.
+b. As far as the Variation to the terms of the Performance Bank Guarantee
+is concerned, it is submitted that the present process has been marred
+by unprecedented circumstances which were not contemplated at any
+stage by any of the stakeholders. As per the provisions of the Code, the
+entire CIRP including the approval of the Resolution Plan by the
+Adjudicating Authority should have concluded within a maximum
+period of 330 days. In fact, clause 3.4.2 of the RFRP itself contemplates
+that the initial validity period of PBG shall be six months (Approx. 180
+days) and the same shall be renewed/extended for further periods are
+required, so that the same is valid uptil the payment of upfront payment
+amounts or payment of Rs.250 Crores by the Successful Resolution
+Applicant, whichever is later. The CoC, however, in exercise of its right
+
+20
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+under Clause 6.4 of the RFRP (see page 157 of the Appeal), agreed to
+allow modification in the validity period of PBG i.e. allowing a validity
+period of one year till 30.04.2020. The said fact, alongwith the minutes
+of the 16th meeting of the CoC where decision to allow 1 year validity
+period was taken by the CoC and the copy of the PBG, were duly placed
+on record of the Adjudicating Authority as part of the Application for
+approval of the Resolution Plan. It is expressly denied that any unfair
+advantage was conferred on the successful Resolution Applicants since
+the PBG was for the full amount of Rs. 250 Crores for a period of one
+whole year. At that stage parties had not contemplated that the
+exceptional circumstances which have marred the present case and
+resulted into a process which did not culminate into approval of the
+Resolution Plan by the Adjudicating Authority even after one whole
+year. In any event, clause 6.4 (a) of the RFRP grants right to the
+Resolution Professional acting on the instruction of the CoC to amend
+or modify the terms and conditions as set out in the RFRP. Thus, the
+amendment to the validity period of PBG has been within the four
+corners of the terms of the RFRP and hence, the PBG has been
+appropriately amended by the CoC keeping in mind commercial
+exigency of the matters in hand. In the present case the application
+seeking approval of the Resolution Plan i.e. M.A 1751 of 2019 in CP(IB)
+No.1830 of 2017 was filed by the Resolution Professional on
+07.05.2019, the arguments of the Resolution Professional and the
+
+21
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+objectors on procedural issues were heard and reserved for orders on
+08.08.2019 by the NCLT Mumbai. However, on 31.12.2019, the Hon’ble
+Members of NCLT, Mumbai who had heard the matter, delivered a split
+verdict in the matter. This issue was accordingly, placed before the
+Hon’ble President of the NCLT, who decided the issues on which the
+Hon’ble Members of the NCLT, Mumbai had given conflicting decision
+vide his judgment dated 13.04.2020. Unfortunately, in the meantime
+the entire world was hit by the coronavirus pandemic, which naturally
+created enormous uncertainties for all stakeholders. The Resolution
+Professional accordingly filed an application seeking urgent hearing of
+MA 1751 of 2019 in CP(IB) No. 1830 of 2017 before the Adjudicating
+Authority, since the PBG was set to expire on 30.04.2020. In parallel,
+the financial creditors had also started negotiations with Respondent
+No.3 for renewal of the PBG. The fact that the renewal of the PBG was
+being negotiated with the Respondent No.3 was also duly informed to
+the Adjudicating Authority. In the above background of exceptional
+delay in approval of the Resolution Plan, the pandemic and the market
+conditions, the financial creditors in exercise of their commercial
+wisdom considered it appropriate to accept PBG for an amount of Rs.
+50 Crores, issued on 30.04.2020, instead of the initially contemplated
+Rs. 250 Crores. Such an action cannot be said to have provided undue
+advantage to the Respondent No.3. In any event, by this stage the only
+other resolution application in fray had expressly withdrawn their
+
+22
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Resolution Plan, after having bitterly contested approval process and
+litigation thereto.
+c. On the issue of Resignation of Johannes Sittard, at the outset it is
+submitted that the Respondent No.3 has specifically clarified during
+their arguments that the understanding of the Appellants regarding
+resignation of Mr. Johannes Sittard is completely incorrect. Even
+otherwise, the understanding of the Appellants that Mr. Johannes
+Sittard is the only person who has the technical knowledge to
+implement the Resolution Plan is without basis or cause. The
+Resolution Plan neither contemplates that it would be technically not
+feasible to implement the Resolution Plan without Mr. Johannes Sittard
+nor had CoC made any such assumptions as the basis of the approval
+of the Resolution Plan. In any case, viability and feasibility of a
+Resolution Plan falls within the commercial domain of CoC and no
+ground of challenge on this count is within the limits of judicial review.
+6. While the Respondent No.3/Successful Resolution Applicant have
+submitted that:
+a) The Successful Resolution Applicant/Respondent No.3 has adopted
+the submissions made by the counsel for CoC/Respondent No.2 on
+the aspect of approval of CCI as contained in Section 31(4) of the
+Code.
+b) On the issue of Successful Resolution Application lacks the
+expertise for effective implementation of the Resolution Plan, it is
+
+23
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+stated by the Respondent No.3/Resolution Applicant that in support
+of the contention, that Appellants seem to have relied upon a filing
+dated 05.02.2019, (annexed to the appeal at page No.486 of the
+Appeal paper Book) made by Nithia Capital Resources i.e. ‘LLPSC07’
+is the ‘Notice of ceasing to be person with significant control (PSC)
+of a Limited Liability Partnership’. The said allegation is completely
+misconceived. It is submitted that Nithia Capital Resources is a
+Limited Liability partnership registered under the laws of United
+Kingdom, Dr. Sittard was a partner of Nithia Capital Resources and
+was internally designated as ‘Non-Executive Chairman and Director’
+Dr. Sittard’s designation as Director of Nithia Capital Resources was
+only for the purposes of internal hierarchy and such designation was
+not in nature of a director as is in a company under Indian Company
+Law. Nithia Capital Resources being a limited liability partnership
+registered in United Kingdom could never have a designated director
+(as is the case in a company under the Indian Company Law). As is
+evident from abovementioned filing dated February 5, 2019 made by
+Nithia Capital Resources, Dr. Sittard resigned only as a partner of
+Nithia Capital Resources on April 1, 2018. It is important to note
+that despite his resignation as a partner, Dr. Sittard continued to be
+associated with Nithia Capital Resources in his capacity and
+designation was Non-Executive Chairman and Director of Nithia
+Capital Resources and as on date he continues to hold the
+
+24
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+designation of Non-Executive Chairman and Director of Nithia
+Capital Resources. In the Resolution Plan of Successful Resolution
+Applicant which was approved by the Adjudicating Authority on
+06.05.2019, the Successful Resolution Applicant has stated that Dr.
+Sittard is the Non-Executive Chairman and Director of Nithia
+Capital Resources. In view of the aforesaid this statement was fully
+accurate and continues to be as on date. Therefore, it is submitted
+that the Appellants have made false and misleading allegations that
+the Successful Resolution Applicant has given a false undertaking
+with respect to Dr. Sittard.
+7. It seems that the Appellants are aggrieved with the allocation of tiny
+amount of 0.18% of the outstanding dues. The collective admitted
+operational Debt of the Appellant was Rs.423.82 Crore which was 80.88%
+of the total Operational Debt of the Corporate Debtor total being Rs.524
+Crore (as per data submitted). The Appellant was also representative of the
+Operational Creditor in the meeting of CoC, being holder of more than 10%
+of the total admitted debt of Rs.3003 Crores. They have also alleged that
+the Adjudicating Authority has approved the Resolution Plan, where the
+Appellant is getting hardly 0.18%/0.19% of its claims. The Appellant is
+logically upset that they are paid 0.19% whereas the Financial
+Creditors (CoC decision takers) are getting 41.75% of their claims.
+The figure cited by the Operational Creditor, that the Financial
+Creditor have got Rs.1035 Crore from an admitted debt of Rs.2479
+
+25
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Crore (41.75%). The details of amount admitted/amount provided under
+the plan etc. are available at Para-8 & Para 20 of the Adjudicating
+Authority order dated 30.04.2020. The Adjudicating Authority has cited
+the provisions of Section 30(2)(b) of the I&B Code, 2016 read with Section
+53 (1) of the I&B Code, 2016 has disposed of the matter. The Adjudicating
+Authority has also cited the Hon’ble Supreme Court Judgment like
+K.Sasidhar Vs. Indian Overseas Bank (2019 SCC Online SC 257); Swiss
+Ribbons Private Limited Vs. Union of India (2019 SCC Online SC 17); CoC of
+Essar Steel India Limited Vs. Satish Kumar Gupta (2019 SCC Online SC
+1478, that the commercial decision with regard to the approval of the plan
+is within the domain of the CoC and the Adjudicating Authority is not
+permitted to transgress into the commercial wisdom of CoC in approving
+the Plan. The Appellant has raised the issue of bona fide on the part of the
+Respondents in being unfair and unequitable. No doubt, if out of balance
+of Rs.100 Crores Operational Debtor, there are some Micro, Small,
+and Medium Enterprises (‘MSME’) or Small and Medium Enterprises
+(‘SME’), their business will collapse in the present economy scenario.
+The purpose of IBC, so far as, promoting entrepreneurship will be
+failed to achieve “Ease of doing business and facilitating more
+investments leading to higher economic Growth and Development”.
+However, these issues for judicial review fall within the domain of
+Hon’ble Supreme Court under Article 142 of the Constitution of India.
+Hence, presently we will have to go by the Hon’ble Supreme Court
+
+26
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+judgment CoC of Essar India Limited Vs. Satish Kumar Gupta 2019
+SCC online SC 1478 which has held that the different classes of
+Creditors can be paid different amounts and as long as minimum
+payments in terms of Section 30(2)(b) of the Code are made to
+operational Creditor, Resolution Plan shall be treated as compliant as
+submitted by Respondent No.2/CoC.
+8. Section 30 & Section 31 of I&B Code, 2016 are enumerated below:
+Section 30: Submission of Resolution Plan:-. (1) A resolution applicant may
+submit a resolution plan to the resolution professional prepared on the basis
+of the information memorandum.
+(2) The resolution professional shall examine each resolution plan received
+by him to confirm that each resolution plan—
+(a) provides for the payment of insolvency resolution process costs in a
+manner specified by the Board in priority to the repayment of other debts of
+the corporate debtor;
+(b) provides for the repayment of the debts of operational creditors in such
+manner as may be specified by the Board which shall not be less than the
+amount to be paid to the operational creditors in the event of a liquidation of
+the corporate debtor under section 53;
+(c) provides for the management of the affairs of the Corporate debtor after
+approval of the resolution plan;
+(d) the implementation and supervision of the resolution plan;
+
+27
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+(e) does not contravene any of the provisions of the law for the time being in
+force;
+(f) conforms to such other requirements as may be specified by the Board.
+(3) The resolution professional shall present to the committee of creditors for
+its approval such resolution plans which confirm the conditions referred to
+in sub-section (2).
+(4) The committee of creditors may approve a resolution plan by a vote of not
+less than seventy five per cent. of voting share of the financial creditors.
+(5) The resolution applicant may attend the meeting of the committee of
+creditors in which the resolution plan of the applicant is considered:
+Provided that the resolution applicant shall not have a right to vote at the
+meeting of the committee of creditors unless such resolution applicant is also
+a financial creditor.
+(6) The resolution professional shall submit the resolution plan as approved
+by the committee of creditors to the Adjudicating Authority.
+Section 31: Approval of Resolution Plan - (1) If the Adjudicating Authority is
+satisfied that the resolution plan as approved by the committee of creditors under
+sub-section (4) of section 30 meets the requirements as referred to in sub-section
+(2) of section 30, it shall by order approve the resolution plan which shall be binding
+on the corporate debtor and its employees, members, creditors, guarantors and
+other stakeholders involved in the resolution plan.
+
+28
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+(2) Where the Adjudicating Authority is satisfied that the resolution plan does not
+confirm to the requirements referred to in sub-section (1), it may, by an order, reject
+the resolution plan.
+(3) After the order of approval under sub-section (1),—
+(a) the moratorium order passed by the Adjudicating Authority under section 14
+shall cease to have effect; and
+(b) the resolution professional shall forward all records relating to the conduct of
+the corporate insolvency resolution process and the resolution plan to the Board to
+be recorded on its database.
+9. Regulation 39 and Regulation 40 of IBBI (Insolvency Resolution Process
+for corporate persons ) Regulation 2016 are enumerated below:
+Regulation 39 - Approval of resolution plan.
+(1) A prospective resolution applicant in the final list may submit resolution plan
+or plans prepared in accordance with the Code and these regulations to the
+resolution professional electronically within the time given in the request for
+resolution plans under regulation 36B along with
+(a) an affidavit stating that it is eligible under section 29A to submit resolution
+plans;
+[***]
+(c) an undertaking by the prospective resolution applicant that every information
+and records provided in connection with or in the resolution plan is true and
+correct and discovery of false information and record at any time will render the
+applicant ineligible to continue in the corporate insolvency resolution process,
+forfeit any refundable deposit, and attract penal action under the Code.
+(1A) A resolution plan which does not comply with the provisions of sub-regulation
+(1) shall be rejected.]
+(2) [The resolution professional shall submit to the committee all resolution plans
+which comply with the requirements of the Code and regulations made
+thereunder along with the details of following transactions, if any, observed,
+found or determined by him: -
+
+29
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+(a) preferential transactions under section 43;
+(b) undervalued transactions under section 45;
+(c) extortionate credit transactions under section 50; and
+(d) fraudulent transactions under section 66, and the orders, if any, of the
+adjudicating authority in respect of such transactions.]
+(3) The committee shall-
+(a) evaluate the resolution plans received under sub-regulation (2) as per
+evaluation matrix;
+(b) record its deliberations on the feasibility and viability of each resolution plan;
+and
+(c) vote on all such resolution plans simultaneously.
+(3A) Where only one resolution plan is put to vote, it shall be considered approved
+if it receives requisite votes.
+(3B) Where two or more resolution plans are put to vote simultaneously, the
+resolution plan, which receives the highest votes, but not less than requisite votes,
+shall be considered as approved:
+Provided that where two or more resolution plans receive equal votes,
+but not less than requisite votes, the committee shall approve any one of them,
+as per the tie-breaker formula announced before voting:
+Provided further that where none of the resolution plans receives
+requisite votes, the committee shall again vote on the resolution plan that received
+the highest votes, subject to the timelines under the Code.
+Illustration. - The committee is voting on two resolution plans, namely, A
+and B, simultaneously. The voting outcome is as under:
+Volume
+Outcome
+
+1
+% of votes in favour of Status of approval
+Plan A
+55
+Plan B
+60
+No Plan is approved, as neither of the Plans
+received requisite votes. The committee
+shall vote again on Plan B, which received
+the higher votes, subject to the timelines
+under the Code.
+
+2
+70 75 Plan B is approved, as it received higher
+votes, which is not less than requisite votes.
+
+3
+75 75 The committee shall approve either Plan A
+or Plan B, as per the tie-breaker formula
+announced before voting.]
+***]
+[(4) The resolution professional shall endeavour to submit the resolution
+plan approved by the committee to the Adjudicating Authority at least fifteen days
+before the maximum period for completion of corporate insolvency resolution
+process under section 12, along with a compliance certificate in 68[Form H of the
+
+30
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Schedule and the evidence of receipt of performance security required under sub-regulation (4A) of regulation 36B.]]
+(5)The resolution professional shall forthwith send a copy of the order of
+the Adjudicating Authority approving or rejecting a resolution plan to the
+participants and the resolution applicant.
+(6)A provision in a resolution plan which would otherwise require the
+consent of the members or partners of the corporate debtor, as the case may be,
+under the terms of the constitutional documents of the corporate debtor,
+shareholders’ agreement, joint venture agreement or other document of a similar
+nature, shall take effect notwithstanding that such consent has not been
+obtained.
+(7)No proceedings shall be initiated against the interim resolution
+professional or the resolution professional, as the case may be, for any actions of
+the corporate debtor, prior to the insolvency commencement date.
+(8)A person in charge of the management or control of the business and
+operations of the corporate debtor after a resolution plan is approved by the
+Adjudicating Authority, may make an application to the Adjudicating Authority
+for an order seeking the assistance of the local district administration in
+implementing the terms of a resolution plan.
+[(9) A creditor, who is aggrieved by non-implementation of a resolution
+plan approved under sub-section (1) of section 31, may apply to the Adjudicating
+Authority for directions.]
+40. Extension of the corporate insolvency resolution process period- (1) The
+committee may instruct the resolution professional to make an application to the
+Adjudicating Authority under section 12 to extend the insolvency resolution process
+period.
+(2) The resolution professional shall, on receiving an instruction from the committee
+under this Regulation, make an application to the Adjudicating Authority for such
+extension.
+10. Section 5 & Section 31 of the Competition Act, 2002 are enumerated
+below:
+
+31
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Section 5 – Combination:—The acquisition of one or more enterprises by one or more
+persons or merger or amalgamation of enterprises shall be a combination of such
+enterprises and persons or enterprises, if—
+(a) any acquisition where—
+ (i) the parties to the acquisition, being the acquirer and the enterprise, whose control,
+shares, voting rights or assets have been acquired or are being acquired jointly have,—
+ (A) either, in India, the assets of the value of more than rupees one thousand crore or
+turnover more than rupees three thousand crore; or
+ (B) in India or outside India, in aggregate, the assets of the value of more than five
+hundred million US dollars or turnover of more than fifteen hundred million US dollars;
+or
+(ii) the group, to which the enterprise whose control, shares, assets or voting rights have
+been acquired or are being acquired, would belong after the acquisition, jointly have or
+would jointly have,—
+ (A) either in India, the assets of the value of more than rupees four thousand crore or
+turnover of more than rupees twelve thousand crore; or
+ (B) in India or outside India, in aggregate, the assets of the value of more than two
+billion US dollars or turnover of more than six billion US dollars; or
+(b) acquiring of control by a person over an enterprise when such person has already
+direct or indirect control over another enterprise engaged in production, distribution or
+trading of a similar or identical or substitutable goods or provision of a similar or identical
+or substitutable service, if—
+ (i) the enterprise over which control has been acquired along with the enterprise over
+which the acquirer already has direct or indirect control jointly have,—
+ (A) either in India, the assets of the value of more than rupees one thousand crore or
+turnover of more than rupees three thousand crore; or
+
+32
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+ (B) in India or outside India, in aggregate, the assets of the value of more than five
+hundred million US dollars or turnover more than fifteen hundred million US dollars; or
+ (ii) the group, to which enterprise whose control has been acquired, or is being
+acquired would belong after the acquisition, jointly have or would jointly have,—
+ (A) either in India, the assets of the value of more than rupees four thousand crore or
+turnover of more than rupees twelve thousand crore; or
+ (B) in India or outside India, in aggregate, the assets of the value of more than two
+billion US dollars or turnover of more than six billion US dollars; or
+(c) any merger or amalgamation in which—
+ (i) the enterprise remaining after merger or the enterprise created as a result of the
+amalgamation, as the case may be, have,—
+ (A) either in India, the assets of the value of more than rupees one thousand crore or
+turnover of more than rupees three thousand crore; or
+ (B) in India or outside India, in aggregate, the assets of the value of more than five
+hundred million US dollars or turnover of more than fifteen hundred million US dollars;
+or
+ (ii) the group, to which the enterprise remaining after the merger or the enterprise
+created as a result of the amalgamation, would belong after the merger or the
+amalgamation, as the case may be, have or would have,—
+ (A) either in India, the assets of the value of more than rupees four thousand crore or
+turnover of more than rupees twelve thousand crore; or
+ (B) in India or outside India, the assets of the value of more than two billion US dollars
+or turnover of more than six billion US dollars. Explanation.—For the purposes of this
+section,—
+(a) “control” includes controlling the affairs or management by—
+ (i) one or more enterprises, either jointly or singly, over another enterprise or group;
+
+33
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+ (ii) one or more groups, either jointly or singly, over another group or enterprise;
+(b) “group” means two or more enterprises which, directly or indirectly, are in a position
+to—
+ (i) exercise twenty-six per cent. or more of the voting rights in the other enterprise; or
+ (ii) appoint more than fifty per cent. of the members of the board of directors in the
+other enterprise; or
+ (iii) control the management or affairs of the other enterprise;
+(c) the value of assets shall be determined by taking the book value of the assets as shown,
+in the audited books of account of the enterprise, in the financial year immediately
+preceding the financial year in which the date of proposed merger falls, as reduced by any
+depreciation, and the value of assets shall include the brand value, value of goodwill, or
+value of copyright, patent, permitted use, collective mark, registered proprietor, registered
+trade mark, registered user, homonymous geographical indication, geographical
+indications, design or layout-design or similar other commercial rights, if any, referred to
+in sub-section (5) of section 3.
+Section 31- Orders of Commission on certain combinations.—
+(1) Where the Commission is of the opinion that any
+combination does not, or is not likely to, have an appreciable adverse
+effect on competition, it shall, by order, approve that combination
+including the combination in respect of which a notice has been given
+under sub-section (2) of section 6.
+(2) Where the Commission is of the opinion that the combination
+has, or is likely to have, an appreciable adverse effect on competition,
+it shall direct that the combination shall not take effect.
+(3) Where the Commission is of the opinion that the combination
+has, or is likely to have, an appreciable adverse effect on competition
+but such adverse effect can be eliminated by suitable modification to
+
+34
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+such combination, it may propose appropriate modification to the
+combination, to the parties to such combination.
+(4) The parties, who accept the modification proposed by the
+Commission under sub-section (3), shall carry out such modification
+within the period specified by the Commission.
+(5) If the parties to the combination, who have accepted the
+modification under sub-section (4), fail to carry out the modification
+within the period specified by the Commission, such combination shall
+be deemed to have an appreciable adverse effect on competition and the
+Commission shall deal with such combination in accordance with the
+provisions of this Act.
+(6) If the parties to the combination do not accept the
+modification proposed by the Commission under sub-section (3), such
+parties may, within thirty working days of the modification proposed by
+the Commission, submit amendment to the modification proposed by the
+Commission under that sub-section.
+(7) If the Commission agrees with the amendment submitted by
+the parties under sub-section (6), it shall, by order, approve the
+combination.
+(8) If the Commission does not accept the amendment submitted
+under sub-section (6), then, the parties shall be allowed a further period
+of thirty working days within which such parties shall accept the
+modification proposed by the Commission under sub-section (3).
+(9) If the parties fail to accept the modification proposed by the
+Commission within thirty working days referred to in sub-section (6) or
+within a further period of thirty working days referred to in sub-section
+(8), the combination shall be deemed to have an appreciable adverse
+effect on competition and be dealt with in accordance with the
+provisions of this Act.
+(10) Where the Commission has directed under sub-section (2)
+that the combination shall not take effect or the combination is deemed
+
+35
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+to have an appreciable adverse effect on competition under sub-section
+(9), then, without prejudice to any penalty which may be imposed or any
+prosecution which may be initiated under this Act, the Commission may
+order that—
+(a) the acquisition referred to in clause (a) of section 5; or
+(b) the acquiring of control referred to in clause (b) of section
+5; or
+(c) the merger or amalgamation referred to in clause (c) of section 5,
+shall not be given effect to: Provided that the Commission may, if it
+considers appropriate, frame a scheme to implement its order under this
+sub-section.
+(11) If the Commission does not, on the expiry of a period of
+ninety working days from the date of publication referred to in sub-section (2) of section 29, pass an order or issue direction in accordance
+with the provisions of sub-section (1) or sub-section (2) or sub-section
+(7), the combination shall be deemed to have been approved by the
+Commission. Explanation.—For the purposes of determining the period
+of ninety working days specified in this sub-section, the period of thirty
+working days specified in sub-section (6) and a further period of thirty
+working days specified in sub-section (8) shall be excluded.
+(12) Where any extension of time is sought by the parties to the
+combination, the period of ninety working days shall be reckoned after
+deducting the extended time granted at the request of the parties.
+(13) Where the Commission has ordered a combination to be void,
+the acquisition or acquiring of control or merger or amalgamation
+referred to in section 5, shall be dealt with by the authorities under any
+other law for the time being in force as if such acquisition or acquiring
+of control or merger or amalgamation had not taken place and the
+parties to the combination shall be dealt with accordingly.
+
+36
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+(14) Nothing contained in this Chapter shall affect any proceeding
+initiated or which may be initiated under any other law for the time
+being in force.
+11. We have gone through the various submissions including citations
+made by the Appellants and Respondents and also the various orders of
+the Adjudicating Authority. On the issue of prior permission of the CCI
+was not obtained under Proviso to Section 31(4) is a material irregularity
+by the Respondents and contravention of Section 30 of the I&B Code,
+2016; it seems that the purpose of the IBC is to ensure that wherever a
+“Combination” as referred in Section 5 of the Competition Act, 2002 the
+requirement is the concerned Resolution Applicant shall obtain the
+approval of CCI prior to the approval of such Resolution plan by the CoC.
+The purpose is complied with in the present case, the approval from CCI
+has been obtained in June, 2019 and approval of the Resolution plan has
+been made by the Adjudicating Authority in April, 2020/May, 2020, this
+aspect has been taken care of by the Adjudicating Authority. The
+Adjudicating Authority, while approving the plan has also stated vide its
+order dated 30.04.2020 para 17(2) that wherever approval/ permissions
+are required the same is to be obtained within a period of one year from
+the date of the approval of the Resolution Plan. In Para 17 of the impugned
+order dated 30.04.2020, the Adjudicating Authority has provided various
+directions to various authorities to assist the Corporate Debtors, so that
+the Resolution Plan is operational. All this suggests that the Adjudicating
+
+37
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+Authority was conscious of CCI approval and hence, ignoring the fact that
+CCI approval has been obtained post CoC approval of the Resolution Plan
+is in order and is reiterating the view taken by this Tribunal in P.T.Ranjan
+Vs. T.P.M Sahir & Ors. 2003 8 SCC 498, para 45 Sharif-Ud-Din-V Abdul
+Gani Lone 1980 1 SCC 403, para 9 and Arcelor Mittal India Pvt. Ltd. Vs.
+Abjijit Guhathakurta, 2019 SCC Online NCLAT 920 (“Arcelor decision”) and
+we find this is in order.
+12. Another issue of Suppression of Fact regarding implementation of
+Resolution Plan resulting from resignation of Mr.Johannes Sittard on
+01.04.2018 and being only a person technically competent to run the
+Corporate Debtor was also examined and it is found that Dr. Sittard
+resigned only as a partner of Nittah Capital Resources on 01.04.2018 but
+he is still associated with Nittah Capital Resources in his capacity and
+designation as Non-Executive Chairman and Director Nittah Capital
+Resources and as on date he continues to hold the designation of Non-Executive Chairman and Director of Nittah Capital Resources. However,
+the Adjudicating Authority has already made appropriate arrangement by
+putting a specific condition that the Resolution Applicant would appoint
+an observer. In any case, individual can come and go and Company is to
+run. However, a responsibility is fixed on the Resolution
+Applicant/Respondent No.3 that Dr. Sittard should continue for next
+one year or for such extended period till the Corporate Debtor stands
+on its feet.
+
+38
+Company Appeal (AT) (Insolvency) No. 533 of 2020
+13. As far as the issue of extension of Performance Bank Guarantee and
+its variation in terms of the Request for Resolution Plan (RFRP) is
+concerned, it is found that the Bank Guarantee for the requisite amount
+was kept for one year for full amount of Rs. 250 Crore but after one year
+due to the financial crisis faced by pandemic Covid-19, the Resolution
+Applicant requested for reduction of amount of Performance Bank
+Guarantee and CoC has accepted the lower amount of Rs. 50 Crore in
+place of PBG of Rs. 250 Crore as required by RFRP after expiry of the PBG
+on 30.04.2020. the CoC has exercised its right under Clause 6.4 of the
+RFRP, agreed to allow for modification in the validity period of PBG. The
+Adjudicating Authority has elaborately covered this issue in para 61 of its
+order dated 30.04.2020.
+14. With aforesaid observations, we find that there is no merit in this
+Appeal and the Appeal is hereby dismissed. Pending IA, if any, are
+disposed of in terms of above observations and directions. Interim orders,
+if any, stand vacated. There shall be no order as to costs.
+[Justice Bansi Lal Bhat]
+Acting Chairperson
+[Justice Anant Bijay Singh]
+Member (Judicial)
+[Dr. Ashok Kumar Mishra]
+Member (Technical)
+New Delhi
+9th September, 2020
+RK
