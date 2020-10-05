@@ -1,0 +1,3 @@
+# Section 3A
+
+3A. Joint Charity Commissioners.– 3[(1)] The State Government may, by notification in the Official Gazette, appoint one or more officers to be called Joint Charity Commissioner, who shall subject to the control of the Charity Commissioner and such general or special orders as the State Government may pass, exercise all or any of the powers and perform all or any of the duties and functions, of the Charity Commissioner.] 4[(2)The State Government may, by general or special order, declare a Joint Charity Commissioner to be the regional head to superintend, subject to the control of the Charity Commissioner, the administration in one or more regions or sub-regions, as may be specified in such order.]

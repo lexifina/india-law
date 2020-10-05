@@ -1,0 +1,5 @@
+# Section 41A
+
+41A. Power of Commissioner to issue directions 5[for proper administration of the trust.— (1) Subject to the provisions of this Act, the Charity Commissioner may from time to time issue directions to any trustee of a public trust or any person connected therewith, to ensure that the trust is properly administered, and the income thereof is properly accounted for or duly appropriated and applied to the objects and for the purposes of the trust; and the Charity Commissioner may also give directions to the trustees or such person that if he finds any property of the trust is in danger of being wasted, damaged, alienated or wrongfully sold, removed or disposed of : 6[Provided that, if any application is made by the trustee of any trust for seeking directions under sub-section (1), the Charity Commissioner shall decide such application within three months form the date of its receipt and if it is not practicable so to do, the Charity Commissioner shall record the reasons for the same.]
+
+(2) It shall be the duty of every trustee or of such person to comply with the directions issued under sub-section (1).

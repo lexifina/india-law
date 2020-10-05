@@ -1,0 +1,13 @@
+# Section 36B
+
+36B. Register of movable and immovable properties.— (1) A public trust shall prepare and maintain a register of all moveable and immovable properties (not being property of a trifling value) of such trust in such form or forms giving all such information, as may be prescribed by the Charity Commissioner.
+
+(2) Such register shall show the jewels, gold, silver, precious stones, vessels and utensils and all other moveable property belonging to the trust with their description, weight and estimated value.
+
+(3) Such register shall be prepared within three months from the expiry of the accounting year after the commencement of the Bombay Public Trusts (Amendment) Act, 1970 (Mah. XX of 1971).
+
+(4) Such register shall be signed by all the trustees or by any person duly authorised by trustees in this behalf after verifying its correctness, and shall be made available to the auditor for the purpose of auditing if the accounts are required to be audited under the provisions of this Act. Where the accounts are not required to be audited, the trustees shall file a copy of such register duly signed and verified, with the Deputy or Assistant Charity Commissioner of the region.
+
+(5) The auditor shall mention in the audit report whether such register is properly maintained or not, and the defects or inaccuracies, if any, in the said register and the trustees shall comply with the suggestions made by the auditor and rectify the defects or inaccuracies mentioned in the audit report within a period of three months from the date on which the report is sent to the trustees.
+
+(6) Every year within three months from the date of balancing the accounts, the trustee or any person authorised by him shall scrutinize such register, and shall bring it up-to-date by showing alterations, omissions or additions to the same, and such changes shall be reported to the Deputy or Assistant Charity Commissioner in the manner provided in section 22.]
