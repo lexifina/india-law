@@ -1,0 +1,3 @@
+# Section 6B
+
+6B. Cost of pay pension, etc. of charity commissioner, etc., to be paid to Government out of the Public Trusts Administration Fund.— There shall be paid every year out of the Public Trusts Administration Fund to the State Government such cost as the State Government may determine on account of the pay, pension, leave and other allowances of the Charity Commissioner, 5[the Joint Charity Commissioner,] the Deputy and Assistant Charity Commissioners, 6[the Director of Accounts, the Assistant Directors and Accounts,] the Inspectors and other subordinate officers and servants appointed under the Act.]
