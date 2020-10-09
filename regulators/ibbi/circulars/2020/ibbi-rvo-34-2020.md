@@ -1,0 +1,94 @@
+---
+title: "Circular - Meetings of the Disciplinary Committee and Appellate Panel of the RVOs"
+kind: "circular"
+number: "IBBI/RVO/34/2020"
+issued: "2020-10-09"
+in_force: "2020-10-09"
+issuer: "Insolvency and Bankruptcy Board of India"
+source_url: "https://ibbi.gov.in/legal-framework/circulars?page=4"
+official_text: "https://ibbi.gov.in/uploads/legalframwork/2020-10-15-160549-spb4h-cf9ad8a8390be1d25f9443da720c11c5.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Circular - Meetings of the Disciplinary Committee and Appellate Panel of the RVOs
+
+Insolvency and Bankruptcy Board of India
+7th Floor, Mayur Bhawan, Connaught Place, New Delhi-110001
+
+                                CIRCULAR
+
+No. IBBI/RVO/34/2020                                                09th October, 2020
+
+To
+All Recognised Registered Valuers Organisations (RVOs)
+(By mail to registered email addresses and on website of the IBBI)
+
+Subject: Meetings of the Disciplinary Committee and Appellate Panel of the RVOs.
+
+Madam / Sir,
+
+The Registered Valuers Organisations (RVOs) act as front line regulators under the Companies
+(Registered Valuers and Valuation) Rules, 2017. They provide the institutional arrangement for
+oversight, including the development and regulation of the registered valuers (RV). They grant
+membership to valuers, who comply with the eligibility requirements as provided in the Rules,
+conduct the educational courses in valuation and provide the training to the individual members.
+
+2. Clause 8 (d) of Model Bye laws forming part of the Companies (Registered Valuers and
+Valuation) Rules, 2017 provides that the Governing Board of the RVO shall constitute one or more
+Disciplinary Committee (DCs) consisting of at least one member nominated by the authority.
+
+3. Further, Clause 25 (1) of Model Bye-Laws forming part of the Companies (Registered Valuers
+and Valuation) Rules, 2017 provides that the Governing Board shall constitute an Appellate Panel
+(AP) consisting of one independent director of the Organisation, one member each from amongst
+the persons of eminence having experience in the field of law and field of valuation, and one
+member nominated by the authority.
+
+4. It has been observed that the RVOs have been following different practices in conducting the
+meetings of the DC and AP. Accordingly, the Board advises the RVOs to ensure the following
+while conducting the meetings of the DC and AP of the RVOs:
+
+    a. Meetings of the DC and AP should be held only if there is an agenda for the meeting.
+         Accordingly, the meeting of the DC will be held for considering the issue or disposal of a
+         show cause notice (SCN) to a member. The meeting of an AP would be held to consider
+         the issues raised in the appeal filed by the aggrieved against the order passed by the DC;
+
+    b. Meetings are to be held preferably, through an appropriate Video Conferencing (VC)
+         facility, keeping in view the current pandemic;
+
+    c. One week’s notice is to be given to all the members for holding any meeting and notice for
+         the same is to be sent through email;
+
+    d. The minutes shall be signed by the members of the committee present during the meeting;
+
+                                                               1
+
+    e. The quorum for the meeting should be as provided in the Bye laws of the RVO but should
+         be a minimum of two members including the Chairperson and;
+
+    f. If a member of the committee is related to the person against whom action is proposed by
+         the DC or AP, or there is any other issue of conflict of interest, the member shall recuse
+         himself/herself from the proceedings.
+
+    g. Other conditions:
+    i. Governing Board of the RVO shall be the sole authority for fixing the amount of sitting
+
+          fee to be paid to the members of the DC and AP, but it cannot be less than the
+          amount payable to the independent director as sitting fee;
+   ii. In case, any of the member who has been nominated by the IBBI does not agree to the
+          amount of fee proposed to be paid, than RVO shall bring this fact to the notice of IBBI
+          within seven days, upon which another person will be nominated; and
+  iii. The tenure of IBBI's nominee shall, in general be for two years from the date of
+          appointment, unless decided otherwise by the IBBI.
+5. This circular is prepared in consultation with the RVOs.
+6. This Circular is issued in exercise of the powers under clauses (e) and (i) of rule 14 of the
+Companies (Registered Valuers and Valuation) Rules, 2017.
+
+                                                                                                 Yours faithfully,
+                                                                                                                Sd/-
+
+                                                                                     (Debajyoti Ray Chaudhuri)
+                                                                                         Chief General Manager
+
+                                                                              Email: dr.chaudhuri@ibbi.gov.in
+
+                                                               2
