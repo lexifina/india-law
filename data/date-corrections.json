@@ -72,6 +72,18 @@
    "supersedes": "none",
    "kind": "redate",
    "written": "2026-11-23"
+  },
+  {
+   "act": "central/acts/recycling-of-ships-act-2019",
+   "misdated": "fa5971764d405b34c0fe57f41e33ca061939f4e7",
+   "recorded_day": "2025-12-24",
+   "in_force": "2020-10-27",
+   "corrects": "2020-10-27..2025-12-23",
+   "evidence": "S.O.3838(E) of 2020-10-27 (commencement notification, Gazette Id CG-DL-E-27102020-222772): section 3 in force from the date of its publication, 2020-10-27",
+   "reason": "misdated: dated by S.O.5942(E) of 2025, the last commencement stage; section 3 came into force on 2020-10-27 (S.O.3838(E)) and sections 6, 30 and 42 on 2021-02-25 (S.O.889(E))",
+   "supersedes": "none",
+   "kind": "redate",
+   "written": "2026-11-23"
   }
  ]
 }
