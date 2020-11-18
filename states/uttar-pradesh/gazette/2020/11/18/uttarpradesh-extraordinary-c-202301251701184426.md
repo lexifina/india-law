@@ -1,0 +1,1168 @@
+---
+kind: "gazette-notification"
+gazette: "Uttar Pradesh Gazette"
+gazette_type: "Extraordinary"
+issuer: "Government of Uttar Pradesh"
+department: "Industrial Development Department"
+published: "2020-11-18"
+in_force: "2020-11-18"
+in_force_evidence: "published in the Gazette 2020-11-18; no other commencement day stated"
+official_text: "https://dpsup.up.gov.in/app/writereaddata/UploadGazette/corrigendum/pdf/C_202301251701184426.pdf"
+mirror: "https://archive.org/details/in.gazette.uttarpradesh_extraordinary.2020-11-18.c_202301251701184426"
+language: "English text only"
+---
+
+—
+¼ifjfu;r vkns'k½
+
+la[;k 2401/77-3–2020-57¼,e½-2020
+&&&&&&&&&
+vf/klwpuk
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+vuqlwph&d
+¼izLrkfor vtZuk/khu&Hkwfe½
+1 2 3 4 5 6 7
+71 0.0084
+122 0.0075
+124 0.0204
+;ksx 0.0385
+134 0.0103
+57 0.0185
+59 0.0185
+142 0.0001
+84 0.0757
+;ksx 0.2421
+3 vktex<+ cw<+uiqj vrjkSfy;k egknsoiqj 27 0.0603
+42 0.1150
+54 0.0402
+137 0.3560
+147 0.2590
+186 0.0868
+189 0.0040
+191 0.2196
+183 0.0040
+184 0.0049
+131 0.3909
+181 0.0546
+176 0.0100
+133 0.0314
+180 0.0574
+188 0.0130
+178 0.0120
+135 0.0282
+136 0.0219
+145 0.0101
+;ksx 1.7793
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+e/kbZiV~Vh
+;ksx 0.1020
+5 vktex<+ cw<+uiqj vrjkSfy;k ek¡>hiqj 204 0.0591
+259mi 0.0604
+;ksx 0.1195
+15mi 0.1250
+17mi 0.0016
+18mi 0.0016
+11 0.2760
+5 0.0032
+8 0.0016
+19 0.0016
+30 0.0032
+235 0.0023
+236 0.0184
+1 0.0365
+21 0.0070
+22 0.0276
+23 0.0135
+42 0.0018
+43 0.0014
+25 0.0168
+28 0.0107
+91 0.0040
+;ksx 0.5582
+7 vktex<+ cw<+uiqj vrjkSfy;k tksxhiqj 373 0.0325
+375 0.1959
+330 0.0046
+331 0.0210
+355 0.6422
+364 0.4020
+369 0.0482
+;ksx 1.3464
+8 vktex<+ cw<+uiqj vrjkSfy;k ijkuiqj 8 0.0033
+63 0.0091
+45 0.0013
+86 0.0066
+22 0.0280
+12 0.0351
+;ksx 0.0834
+279 0.0939
+280 0.0003
+267 0.0195
+265 0.0878
+262 0.0884
+271 0.0260
+258 0.0373
+257 0.0020
+200 0.0072
+198 0.0160
+197 0.2859
+204 0.0294
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+248 1.2140
+245 0.6162
+241 0.0292
+194 0.3725
+192 0.0622
+48 0.0127
+5 1.6402
+;ksx 4.6492
+10 vktex<+ cw<+uiqj vrjkSfy;k lksekiqj 2 0.0127
+3 0.0342
+4 0.0830
+5 0.3409
+6 0.0500
+10 0.0900
+14 0.2456
+11 0.0900
+15 0.0025
+17 0.5827
+26 0.0487
+28 0.0744
+29 0.1305
+30 0.0044
+63 0.0469
+64 0.4029
+66 0.0530
+69 0.0015
+;ksx 2.2939
+pRrqjiqj
+333 0.1160
+335 0.0096
+336 0.0032
+339 0.1591
+221 0.0420
+222 0.1130
+223 0.3013
+268 0.0759
+369 0.3863
+275 0.0455
+277 0.0130
+278 0.0130
+285 0.0134
+290 0.5153
+;ksx 1.8082
+12 vktex<+ cw<+uiqj vrjkSfy;k jlwyiqj 2 0.2070
+3 0.1120
+7 0.0571
+13 0.3157
+14 0.2101
+15 0.0885
+16 0.0766
+9 0.0860
+10 0.1969
+11 0.0467
+;ksx 1.3966
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+13 vktex<+ cw<+uiqj vrjkSfy;k QRrsgiqj eq0 293 0.0120
+lw[khiqj
+299 0.0179
+300 0.1196
+301 0.1435
+302 0.0766
+311 0.0112
+312 0.0112
+313 0.0500
+;ksx 0.4420
+14 vktex<+ cw<+uiqj vrjkSfy;k lsuiqj 379 0.5568
+380 0.1100
+381 0.1100
+382 0.0052
+385 0.0002
+388 0.5770
+389 0.2000
+390 0.0030
+391 0.0010
+392 0.0070
+394 0.0120
+;ksx 1.5822
+130 0.0828
+118 0.0328
+114 0.0018
+;ksx 0.2324
+16 vktex<+ cw<+uiqj vrjkSfy;k xnuiqj 3 0.0800
+4mi 0.0520
+4mi 0.1438
+5 0.1170
+6 0.0900
+7 0.0750
+8 0.0200
+10 0.0750
+11 0.0310
+12 0.0110
+13 0.0110
+14 0.0120
+15 0.1864
+69 0.1759
+70 0.4500
+72 0.2090
+73 0.0490
+74 0.2080
+75 0.3688
+88 0.0173
+91 0.0140
+92 0.0235
+93 0.0951
+95 0.0937
+96 0.3041
+104 0.0827
+105 0.0887
+106 0.1076
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+111 0.0036
+113 0.0075
+112 0.0659
+114 0.2054
+117 0.0274
+118 0.0178
+120 0.0224
+121 0.6445
+122 0.9360
+125 0.3726
+126 0.0230
+127 0.2014
+129 0.0318
+130mi 0.0270
+130mi 0.0106
+131 0.0242
+132 0.0293
+133 0.0054
+137 0.0220
+138 0.0220
+140 0.0063
+142 1.4427
+144 0.1780
+145 0.0880
+146 0.1010
+147 0.2000
+148 0.1010
+150 0.3468
+152 0.0275
+40 0.0010
+60 0.2585
+49 0.0001
+54 0.0051
+55 0.0075
+;ksx 8.6549
+17 2 0.8050 vktex<+ cw<+uiqj vrjkSfy;k dqdqjhiqj eq0
+pRrqjiqj
+3 0.4740
+4 0.1559
+6 0.0135
+9 0.4483
+10 0.0550
+11 0.0530
+17 0.0001
+18 0.0421
+22 0.0160
+30 0.0380
+23 0.0004
+27 0.0104
+28 0.2834
+47 0.1099
+48 0.0005
+53 0.0648
+70 0.0357
+71 0.1208
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+74 0.3420
+75 0.2034
+77 0.0250
+78 0.0120
+79 0.0194
+80 0.0250
+81 0.0770
+83 0.0850
+85 0.0073
+86 0.0408
+87 0.0740
+88 0.0790
+;ksx 3.7167
+18 vktex<+ cw<+uiqj vrjkSfy;k vdcsyiqj eq0 2 0.0224
+gSnjiqj
+14 0.2840
+15 0.2852
+18 0.0344
+23 0.1040
+26 0.2460
+27 0.2000
+28 0.2020
+31 0.5180
+39 0.0490
+51 0.0040
+52 0.0040
+60 0.0210
+64 0.1050
+65 0.0836
+85 0.0356
+87 0.0660
+88 0.0450
+89 0.0449
+90 0.0500
+91 0.0310
+92 0.0304
+93 0.0074
+94 0.2742
+36 0.2281
+37 0.2200
+38 0.2200
+41 0.0730
+42 0.0730
+;ksx 3.5612
+19 vktex<+ cw<+uiqj vrjkSfy;k vdcsyiqj eq0 40 0.1336
+xksjgjiqj
+41 0.2280
+44 0.0406
+50 0.6168
+133 0.2488
+139 0.2437
+140 0.1549
+142 0.2191
+143 0.0830
+130 0.1840
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+125 0.0798
+113 0.0126
+98 0.4710
+79 0.0004
+92 0.0068
+;ksx 2.7231
+320 0.1027
+408 0.5461
+433 0.0010
+432 0.0005
+431 0.0006
+430 0.0011
+436 0.2410
+438 0.2370
+439 0.4050
+;ksx 1.5687
+21 vktex<+ cw<+uiqj vrjkSfy;k jkeiqj eq0 23 0.0008
+xuiriqj
+33 0.0534
+;ksx 0.0542
+;ksx 0.3437
+23 vktex<+ cw<+uiqj vrjkSfy;k xuiriqj 254 0.3527
+278 0.1183
+259 0.4814
+154 0.3926
+156 0.0855
+119 0.2758
+165 0.0850
+167 0.3380
+168 0.0175
+170 0.1250
+171 0.0106
+163 0.0047
+214 0.0980
+215 0.0018
+164 0.1788
+174 0.1125
+;ksx 2.6782
+[kkfyliqj
+4 0.1775
+5 0.0534
+53 0.2859
+54 0.2400
+55 0.2060
+66 0.0123
+92 0.1150
+115 0.0180
+;ksx 1.1301
+16 0.0007
+;ksx 0.0482
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+331 0.1596
+353 0.0124
+;ksx 0.1930
+51 0.0140
+54 0.0030
+43 0.0637
+55 0.1780
+57 0.0044
+64 0.0250
+65 0.0184
+81 0.0050
+74 0.0436
+75 0.0273
+86 0.0684
+89 0.0213
+129 0.0680
+130 0.0036
+127 0.0022
+119 0.0044
+145 0.0035
+147 0.0381
+211 0.0034
+215 0.0089
+222 0.0261
+235 0.0329
+239 0.0102
+46 0.0004
+143 0.0004
+206 0.0054
+53 0.0226
+;ksx 0.7196
+122 0.0346
+172 0.0053
+;ksx 0.2323
+29 vktex<+ cw<+uiqj vrjkSfy;k Hkhmiqj 3 0.1116
+;ksx 0.1116
+30 vktex<+ cw<+uiqj vrjkSfy;k xksbth tehu 178 0.4125
+xksbth
+118 0.1285
+;ksx 0.5410
+32 0.0535
+34 0.0063
+40 0.0144
+45 0.1222
+46 0.0611
+48 0.0580
+417 0.4276
+415 0.0400
+401 0.1212
+399 0.0310
+392 0.2832
+390 0.1005
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+387 0.0068
+386mi 0.0007
+366 0.0231
+369 0.0181
+338 0.0197
+340 0.0540
+341 0.0270
+342 0.0270
+349 0.0003
+351 0.0116
+354 0.0263
+360mi 0.0150
+217mi 0.0001
+218 0.0064
+235 0.0039
+228 0.1709
+178 0.0033
+;ksx 1.7349
+32 vktex<+ cw<+uiqj vrjkSfy;k e.Mksgh 86 0.0228
+9 0.2244
+10 0.1894
+11 0.0251
+12 0.1826
+19 0.0800
+20 0.2643
+29 0.0283
+31 0.2544
+35 0.0320
+38 0.0051
+40 0.0850
+43 0.2693
+44 0.1023
+48 0.5090
+49 0.0800
+;ksx 2.3540
+6 0.0045
+;ksx 0.0079
+37mi 0.0010
+;ksx 0.0296
+35 vktex<+ Qwyiqj pfd;k 4 fe0 0.0250
+162 0.2880
+163 0.0120
+164 0.0180
+194 0.0320
+258 0.1480
+39 fe 0.0470
+157fe 0.1096
+43 0.0300
+173 0.0222
+174 0.0383
+175 0.0090
+177 0.5320
+179 0.0180
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+180 0.0180
+181 0.0170
+182 0.0190
+185 0.0100
+188 0.0060
+192 0.0144
+193 0.0150
+170 0.0635
+125 1.0010
+242 0.1430
+243 0.3010
+258 0.1480
+261 0.0280
+284 0.2120
+169 0.0070
+159 0.0009
+44 0.1880
+37 0.0700
+;ksx 3.5909
+36 vktex<+ Qwyiqj eqrdYyhiqj 298 0.0190
+307 0.0407
+608 0.0178
+604 0.8691
+619 0.0150
+628 0.1099
+;ksx 1.0715
+vuqlwph&[k
+gs0 esa
+1 2 3 4 5 6
+
+vkKk ls]
+vkyksd dqekj]
+––––––
+IN pursuance of the provisions of clause (3) of Article 348 of the Constitution, the Governor is
+pleased to order the publication of the following English translation of notification no. 2401/LXXVII-
+3&2020-57(M)-2020, dated November 18, 2020 :
+No. 2401/LXXVII-3–2020-57(M)-2020
+Dated Lucknow, November 18, 2020
+
+WHEREAS preliminary notification no.1450/LXXVII-3&2020-57(M)-2020, dated August 7, 2020
+was issued under sub-section (1) of section 11 of the Right to Fair Compensation and Transparency in
+Land Acquisition, Rehabilitation and Resettlement Act, 2013 (Act no. 30 of 2013) hereinafter referred to
+as the said Act, in respect of total 86.2616 Hectares of land in the village Rampur Mu. Ganpatpur
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+Area 0.2584 hect, Ganpatpur-1.9176 hect, Fulwariya- 0.0525 hect, katava rasulpur- 0.3760 hect,
+Nandana- 0.0375 hect, Chatturpur madhai patti- 0.1030 hect, Jogipur- 2.0071 hect, Gorthani- 9.6931 hect,
+Shekhpur m. Chatturpur- 1.3430 hect, Somapur- 2.7749 hect, Rasulpur- 1.9706 hect, Mandohi- 4.5067
+hect, Pahiya Bhadeva- 0.3938 hect, Rithia- 0.4721 hect, Goiji jamin goiji- 1.7408 hect, Bhiupur- 0.1116
+hect, Pahiya Bujurg- 0.3416 hect, Sukhipur- 2.6966 hect, Manshapatti- 4.8918 hect, Jamin Nandana-
+1.0460 hect, BodhiPatti- 0.3994 hect, Majhipur- 1.1919 hect, Agaya jamin agaya- 0.2605 hect, Mukunda
+Patti- 0.0948 hect, Khiridiha-2.0216 hect, Mahadevpur- 5.1443 hect, Senpur- 2.1596 hect, Banvari Patti-
+1.2145 hect, Fattehpur mu. sukhipur- 1.0317 hect, Maniyarpur- 3.7486 hect, Gadanpur- 8.7946 hect,
+Kukuripur mu. Chatturpur- 3.8882 hect, Haidarpur Khas- 2.2157 hect, Akbelpur mu. Haidarpur- 4.4251
+hect, Akbelpur mu. Goraharpur- 4.5188 hect, Paranpur- 0.3521 hect, Dhodhanpur- 0.2343 hect, Itauri
+Khalishpur- 1.4525 hect, Chakiya- 5.3072 hect, Mutakallipur- 1.0715 hect, Tehsil-Burhanpur/Phoolpur,
+District Azamgarh for public purpose, namely Gorakhpur Link Expressway Project through the Uttar
+Pradesh Expressways Industrial Development Authority and lastly published on dated August 07, 2020.
+Deputy Collector/Assistant Collector Burhanpur/Phoolpur, District Azamgarh was appointed as
+Administrator for the purpose of Rehabilitiation and Resettlement of the project affected families.
+NOW THEREFORE, after considering the report of the Collector submitted in pursuance to
+provision under sub section (2) of section 15 of the said Act, the Governor is pleased to declare under
+sub-section (1) of section 19 of the said Act that he is satisfied that the area of the land mentioned in
+the Schedule “A” is below needed for public purpose and no land in the Village, Paragana and District as
+given in Schedule “B” has been identified for Rehabilitation and Resettlement of the displaced families
+(No family is likely to be displaced due to land acquisition for this project).
+The Governor is further pleased under sub-section (2) of section 19 of the said Act to direct the
+Collector of Azamgarh to publish a summary of the Rehabilitation and Resettlement Scheme with
+publication of the declaration to this effect. The summary of the Rehabilitation and Resettlement scheme
+is attached herewith. (No family is likely to be displaced due to land acquisition for Gorakhpur Link
+Expressway Project in district Azamgarh. Hence there is no need for identification of any land for
+Rehabilitation & Resettlement and publication of summary of Rehabilation and Resettlement Scheme).
+SCHEDULE-A
+Land Under Proposed Acquisition
+
+S. DISTRICT TAHSIL PARGANA VILLAGE PLOT AREA BE
+No. NO. ACQUIRED
+1 2 3 4 5 6 7
+1 AZAMGARH BURHANPUR ATARAULIYA MUKUNDAPATTI 54 0.0022
+71 0.0084
+122 0.0075
+124 0.0204
+Total 0.0385
+2 AZAMGARH BURHANPUR ATARAULIYA K H I R I D I H A 86 0.1190
+134 0.0103
+57 0.0185
+59 0.0185
+142 0.0001
+84 0.0757
+Total 0.2421
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+3 AZAMGARH BURHANPUR ATARAULIYA MAHADEVPUR 27 0.0603
+42 0.1150
+54 0.0402
+137 0.3560
+147 0.2590
+186 0.0868
+189 0.0040
+191 0.2196
+183 0.0040
+184 0.0049
+131 0.3909
+181 0.0546
+176 0.0100
+133 0.0314
+180 0.0574
+188 0.0130
+178 0.0120
+135 0.0282
+136 0.0219
+145 0.0101
+Total 1.7793
+4 AZAMGARH BURHANPUR ATARAULIYA CHATURPUR 346 0.1020
+MADHAI PATTI
+Total 0.1020
+5 AZAMGARH BURHANPUR ATARAULIYA MAJHIPUR 204 0.0591
+259mi 0.0604
+Total 0.1195
+6 AZAMGARH BURHANPUR ATARAULIYA JAMIN 58 0.0044
+NANDANA
+15mi 0.1250
+17mi 0.0016
+18mi 0.0016
+11 0.2760
+5 0.0032
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+8 0.0016
+19 0.0016
+30 0.0032
+235 0.0023
+236 0.0184
+1 0.0365
+21 0.0070
+22 0.0276
+23 0.0135
+42 0.0018
+43 0.0014
+25 0.0168
+28 0.0107
+91 0.0040
+Total 0.5582
+7 AZAMGARH BURHANPUR ATARAULIYA JOGIPUR 373 0.0325
+375 0.1959
+330 0.0046
+331 0.0210
+355 0.6422
+364 0.4020
+369 0.0482
+Total 1.3464
+8 AZAMGARH BURHANPUR ATARAULIYA PARANPUR 8 0.0033
+63 0.0091
+45 0.0013
+86 0.0066
+22 0.0280
+12 0.0351
+Total 0.0834
+9 AZAMGARH BURHANPUR ATARAULIYA GORTHANI 283 0.0085
+279 0.0939
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+280 0.0003
+267 0.0195
+265 0.0878
+262 0.0884
+271 0.0260
+258 0.0373
+257 0.0020
+200 0.0072
+198 0.0160
+197 0.2859
+204 0.0294
+248 1.2140
+245 0.6162
+241 0.0292
+194 0.3725
+192 0.0622
+48 0.0127
+5 1.6402
+Total 4.6492
+10 AZAMGARH BURHANPUR ATARAULIYA SOMAPUR 2 0.0127
+3 0.0342
+4 0.0830
+5 0.3409
+6 0.0500
+10 0.0900
+14 0.2456
+11 0.0900
+15 0.0025
+17 0.5827
+26 0.0487
+28 0.0744
+29 0.1305
+30 0.0044
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+63 0.0469
+64 0.4029
+66 0.0530
+69 0.0015
+Total 2.2939
+SHEKHPUR MU.
+11 AZAMGARH BURHANPUR ATARAULIYA 332 0.0016
+CHATTURPUR
+333 0.1160
+335 0.0096
+336 0.0032
+339 0.1591
+221 0.0420
+222 0.1130
+223 0.3013
+268 0.0759
+369 0.3863
+275 0.0455
+277 0.0130
+278 0.0130
+285 0.0134
+290 0.5153
+Total 1.8082
+12 AZAMGARH BURHANPUR ATARAULIYA RASULPUR 2 0.2070
+3 0.1120
+7 0.0571
+13 0.3157
+14 0.2101
+15 0.0885
+16 0.0766
+9 0.0860
+10 0.1969
+11 0.0467
+Total 1.3966
+FATTEPUR
+13 AZAMGARH BURHANPUR ATARAULIYA 293 0.0120
+MU.SUKHIPUR
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+299 0.0179
+300 0.1196
+301 0.1435
+302 0.0766
+311 0.0112
+312 0.0112
+313 0.0500
+Total 0.4420
+14 AZAMGARH BURHANPUR ATARAULIYA SENPUR 379 0.5568
+380 0.1100
+381 0.1100
+382 0.0052
+385 0.0002
+388 0.5770
+389 0.2000
+390 0.0030
+391 0.0010
+392 0.0070
+394 0.0120
+Total 1.5822
+BANAVARI
+15 AZAMGARH BURHANPUR ATARAULIYA 110 0.1150
+PATTI
+130 0.0828
+118 0.0328
+114 0.0018
+Total 0.2324
+16 AZAMGARH BURHANPUR ATARAULIYA GADANPUR 3 0.0800
+4mi 0.0520
+4mi 0.1438
+5 0.1170
+6 0.0900
+7 0.0750
+8 0.0200
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+10 0.0750
+11 0.0310
+12 0.0110
+13 0.0110
+14 0.0120
+15 0.1864
+69 0.1759
+70 0.4500
+72 0.2090
+73 0.0490
+74 0.2080
+75 0.3688
+88 0.0173
+91 0.0140
+92 0.0235
+93 0.0951
+95 0.0937
+96 0.3041
+104 0.0827
+105 0.0887
+106 0.1076
+111 0.0036
+113 0.0075
+112 0.0659
+114 0.2054
+117 0.0274
+118 0.0178
+120 0.0224
+121 0.6445
+122 0.9360
+125 0.3726
+126 0.0230
+127 0.2014
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+129 0.0318
+130mi 0.0270
+130mi 0.0106
+131 0.0242
+132 0.0293
+133 0.0054
+137 0.0220
+138 0.0220
+140 0.0063
+142 1.4427
+144 0.1780
+145 0.0880
+146 0.1010
+147 0.2000
+148 0.1010
+150 0.3468
+152 0.0275
+40 0.0010
+60 0.2585
+49 0.0001
+54 0.0051
+55 0.0075
+Total 8.6549
+17 AZAMGARH BURHANPUR ATARAULIYA KUKURIPUR MU. 2 0.8050
+CHATURPUR
+3 0.4740
+4 0.1559
+6 0.0135
+9 0.4483
+10 0.0550
+11 0.0530
+17 0.0001
+18 0.0421
+22 0.0160
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+30 0.0380
+23 0.0004
+27 0.0104
+28 0.2834
+47 0.1099
+48 0.0005
+53 0.0648
+70 0.0357
+71 0.1208
+74 0.3420
+75 0.2034
+77 0.0250
+78 0.0120
+79 0.0194
+80 0.0250
+81 0.0770
+83 0.0850
+85 0.0073
+86 0.0408
+87 0.0740
+88 0.0790
+Total 3.7167
+18 AZAMGARH BURHANPUR ATARAULIYA AKABELPUR MU. 2 0.0224
+HAIDARPUR
+14 0.2840
+15 0.2852
+18 0.0344
+23 0.1040
+26 0.2460
+27 0.2000
+28 0.2020
+31 0.5180
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+39 0.0490
+51 0.0040
+52 0.0040
+60 0.0210
+64 0.1050
+65 0.0836
+85 0.0356
+87 0.0660
+88 0.0450
+89 0.0449
+90 0.0500
+91 0.0310
+92 0.0304
+93 0.0074
+94 0.2742
+36 0.2281
+37 0.2200
+38 0.2200
+41 0.0730
+42 0.0730
+Total 3.5612
+19 AZAMGARH BURHANPUR ATARAULIYA AKABELPUR MU. 40 0.1336
+GORHARPUR
+41 0.2280
+44 0.0406
+50 0.6168
+133 0.2488
+139 0.2437
+140 0.1549
+142 0.2191
+143 0.0830
+130 0.1840
+125 0.0798
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+113 0.0126
+98 0.4710
+79 0.0004
+92 0.0068
+Total 2.7231
+20 AZAMGARH BURHANPUR ATARAULIYA HAIDARPUR 318 0.0337
+KHAS
+320 0.1027
+408 0.5461
+433 0.0010
+432 0.0005
+431 0.0006
+430 0.0011
+436 0.2410
+438 0.2370
+439 0.4050
+Total 1.5687
+RAMPUR MU.
+21 AZAMGARH BURHANPUR ATARAULIYA 23 0.0008
+GANPATPUR
+33 0.0534
+Total 0.0542
+KATAVA
+22 AZAMGARH BURHANPUR ATARAULIYA 42 0.3437
+RASULPUR
+Total 0.3437
+23 AZAMGARH BURHANPUR ATARAULIYA GANPATPUR 254 0.3527
+278 0.1183
+259 0.4814
+154 0.3926
+156 0.0855
+119 0.2758
+165 0.0850
+167 0.3380
+168 0.0175
+170 0.1250
+171 0.0106
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+163 0.0047
+214 0.0980
+215 0.0018
+164 0.1788
+174 0.1125
+Total 2.6782
+24 AZAMGARH BURHANPUR ATARAULIYA ITAURI 3 0.0220
+KHALISPUR
+4 0.1775
+5 0.0534
+53 0.2859
+54 0.2400
+55 0.2060
+66 0.0123
+92 0.1150
+115 0.0180
+Total 1.1301
+25 AZAMGARH BURHANPUR ATARAULIYA PAHIYA BUJURG 11 0.0475
+16 0.0007
+Total 0.0482
+26 AZAMGARH BURHANPUR ATARAULIYA SUKHIPUR 328 0.0210
+331 0.1596
+353 0.0124
+Total 0.1930
+27 AZAMGARH BURHANPUR ATARAULIYA MANSHAPATTI 50 0.0174
+51 0.0140
+54 0.0030
+43 0.0637
+55 0.1780
+57 0.0044
+64 0.0250
+65 0.0184
+81 0.0050
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+74 0.0436
+75 0.0273
+86 0.0684
+89 0.0213
+129 0.0680
+130 0.0036
+127 0.0022
+119 0.0044
+145 0.0035
+147 0.0381
+211 0.0034
+215 0.0089
+222 0.0261
+235 0.0329
+239 0.0102
+46 0.0004
+143 0.0004
+206 0.0054
+53 0.0226
+Total 0.7196
+28 AZAMGARH BURHANPUR ATARAULIYA RITHIA 112 0.1924
+122 0.0346
+172 0.0053
+Total 0.2323
+29 AZAMGARH BURHANPUR ATARAULIYA BHIUPUR 3 0.1116
+Total 0.1116
+GOYIJI JAMIN
+30 AZAMGARH BURHANPUR ATARAULIYA 178 0.4125
+GOYIJI
+118 0.1285
+Total 0.5410
+31 AZAMGARH BURHANPUR ATARAULIYA MANIYARPUR 30 0.0017
+32 0.0535
+34 0.0063
+40 0.0144
+45 0.1222
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+46 0.0611
+48 0.0580
+417 0.4276
+415 0.0400
+401 0.1212
+399 0.0310
+392 0.2832
+390 0.1005
+387 0.0068
+386mi 0.0007
+366 0.0231
+369 0.0181
+338 0.0197
+340 0.0540
+341 0.0270
+342 0.0270
+349 0.0003
+351 0.0116
+354 0.0263
+360mi 0.0150
+217mi 0.0001
+218 0.0064
+235 0.0039
+228 0.1709
+178 0.0033
+Total 1.7349
+32 AZAMGARH BURHANPUR ATARAULIYA MANDOHI 86 0.0228
+9 0.2244
+10 0.1894
+11 0.0251
+12 0.1826
+19 0.0800
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+20 0.2643
+29 0.0283
+31 0.2544
+35 0.0320
+38 0.0051
+40 0.0850
+43 0.2693
+44 0.1023
+48 0.5090
+49 0.0800
+Total 2.3540
+PAHIYA
+33 AZAMGARH BURHANPUR ATARAULIYA 2 0.0034
+BHADEVA
+6 0.0045
+Total 0.0079
+34 AZAMGARH BURHANPUR ATARAULIYA NANDANA 26 0.0286
+37mi 0.0010
+Total 0.0296
+35 AZAMGARH PHOOLPUR CHAKIYA 4 mi 0.0250
+162 0.2880
+163 0.0120
+164 0.0180
+194 0.0320
+258 0.1480
+39 mi 0.0470
+157 mi 0.1096
+43 0.0300
+173 0.0222
+174 0.0383
+175 0.0090
+177 0.5320
+179 0.0180
+180 0.0180
+181 0.0170
+
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
+
+1 2 3 4 5 6 7
+182 0.0190
+185 0.0100
+188 0.0060
+192 0.0144
+193 0.0150
+170 0.0635
+125 1.0010
+242 0.1430
+243 0.3010
+258 0.1480
+261 0.0280
+284 0.2120
+169 0.0070
+159 0.0009
+44 0.1880
+37 0.0700
+Total 3.5909
+36 AZAMGARH PHOOLPUR MUTKALLIPUR 298 0.0190
+307 0.0407
+608 0.0178
+604 0.8691
+619 0.0150
+628 0.1099
+Total 1.0715
+Grand Total 51.7392
+SCHEDULE-B
+(Land Identified as Settlement Area for Displaced Families)
+District Tehsil Village Plot No. Area Earmarked
+for
+Rehabilitation
+(In hect.)
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+(No family is likely to be displaced, due to land acquisition for this project)
+Note : A site Plan of the land may be inspected in the Office of the Collector, Azamgarh.
+
+By order,
+ALOK KUMAR,
+Apar Mukhya Sachiv.
+379 RPHAudyogik Vikas anu-3-2020 data-8 d
