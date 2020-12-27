@@ -1,0 +1,12 @@
+# Section 150A
+
+150A. Levy of penalty on unpaid amount of bill.– (1) The amount of first half-yearly tax as specified in the bill which has been served as aforesaid shall be paid within three months from the date of service of the bill and for the second half-yearly tax as specified in the bill shall be paid before the 31st December of each year; and if a person liable to pay tax does not pay the same as required as aforesaid, then he shall be liable to pay by way of penalty in addition to the amount of such tax or part thereof which has remained unpaid, a sum equal to two per cent. of such tax for each month or part thereof after the last date by which he should have paid such tax and shall continue to be liable to pay such penalty until the full amount as per the bill is paid :
+
+Provided that, if any property tax for which a bill is served under this Act before the date of commencement of the Bombay Provincial Municipal Corporations, the City of Nagpur Corporation, the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships, the Maharashtra (Urban Areas) Protection and Preservation of Trees and the Maharashtra Tax on Buildings (with larger Residential Premises) (Re-enacted) (Amendment) Act, 2009 (Mah. X of 2010.), (hereinafter in this section referred to as "the Amendment Act of 2009") has remained unpaid in full or in part, a person who has not paid such tax shall be liable to pay penalty as provided under this section, on and from the date of commencement of the said Amendment Act of 2009. 2 Sub-section (2A) was inserted by Mah. 10 of 2010, s. 95 (2).
+
+(2) If the other taxes or dues claimed in the bill are not paid by the date specified in the bill, the provisions of sub-section (1) shall, mutatis mutandis, apply to the amount which has so remained unpaid.
+
+Notes in the official text:
+
+- 1 These words were added by Mah. 10 of 2010, s. 95 (1).
+- 3 Sections 150A and 150 B were inserted by Mah. 10 of 2010, s. 96.

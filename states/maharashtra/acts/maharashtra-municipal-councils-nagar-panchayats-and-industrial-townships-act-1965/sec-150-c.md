@@ -1,0 +1,3 @@
+# Section 150C
+
+150C. Power to assess in case of escape from assessment.– Notwithstanding anything to the contrary contained in this Act or the rules made thereunder, if for any reason any person liable to pay any of the taxes or fees leviable under this Chapter has escaped assessment in any year, the Chief Officer may, at any time within six years from the date on which such person should have been assessed, serve on such person a notice assessing him to the tax or fee due and demanding payment thereon within 15 days from the date of such service; and the provisions of this Act and the rules made thereunder shall, so far as may be, apply as if assessment was made in the year to which the tax or fee relates.]

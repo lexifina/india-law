@@ -1,6 +1,6 @@
-# Section 90J. Annual statement to be prepared by Chief Officer
+# Section 90J
 
-90J. (1) The Chief Officer shall, at the end of each year, prepare a statement showing,—
+90J. Annual statement to be prepared by Chief Officer.— (1) The Chief Officer shall, at the end of each year, prepare a statement showing,—
 
 (a) the loans borrowed in previous years for which the Council is liable and which have not been completely repaid before the commencement of the year, with particulars of the amount outstanding at the commencement of the year, the date of borrowing and the annual loan charges ;
 

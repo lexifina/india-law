@@ -1,6 +1,6 @@
-# Section 87A. Disclosure of supecified information
+# Section 87A
 
-87A. (1) The Council shall maintain and publish all its record duly catalogued and indexed in a manner, and form which enables the Council to disclose the information, specified in sub-section (3).
+87A. Disclosure of supecified information.— (1) The Council shall maintain and publish all its record duly catalogued and indexed in a manner, and form which enables the Council to disclose the information, specified in sub-section (3).
 
 (2) The manner of disclosure of information shall include the publication of the information—
 
@@ -8,9 +8,7 @@
 
 (ii) on Internet ;
 
-(iii) on Notice boards of the Council at its Head Office as well as other offices, if any ;
-
-(iv) by such other mode, as may be prescribed :
+(iii) on Notice boards of the Council at its Head Office as well as other offices, if any ; iv) by such other mode, as may be prescribed :
 
 Provided that, the information shall be disclosed in the language in which it is available with the Council.
 
@@ -38,9 +36,9 @@ Provided that, the information shall be disclosed in the language in which it is
 
 (xi) the details of the municipal funds, i.e. income generated in the previous year by the following :—
 
-(a) taxes, duties, cess and surcharge, rent from the properties, fees from licenses and permissions ;
+(a) taxes, duties, 1[***] and surcharge, rent from the properties, fees from licenses and permissions ;
 
-(b) taxes, duties, cess and surcharge, rent from the properties, fees from licenses and permission that remain uncollected and the reasons thereof ;
+(b) taxes, duties, 2[***] and surcharge, rent from the properties, fees from licenses and permission that remain uncollected and the reasons thereof ;
 
 (c) share of taxes levied by the State Government and transferred to the Council and the grants released to the Council ;
 
@@ -54,4 +52,6 @@ Provided that, the information shall be disclosed in the language in which it is
 
 Notes in the official text:
 
-- 1 Chapter VI-A was inserted by Mah. 33 of 2007, s. 5.
+- 1 The figures and word "52 or" were deleted by Mah. 31 of 1999, s. 3.
+- 2 Section 86 was deleted by Mah. 41 of 1994, s. 146.
+- 3 Chapter VI-A was inserted by Mah. 33 of 2007, s. 5.

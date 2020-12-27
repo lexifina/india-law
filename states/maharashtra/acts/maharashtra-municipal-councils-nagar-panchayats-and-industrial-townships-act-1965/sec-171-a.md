@@ -1,0 +1,3 @@
+# Section 171A
+
+171A. Power of Chief Officer to make fresh assessment.– Where the decision of the Magistrate or Bench of Magistrates is not final by virtue of the provisions of section 171 which provides for revision by the Court, and in pursuance of this provision if a revision or any further proceeding is filled and is pending, then, notwithstanding anything contained in this Act, it shall be lawful for the Chief Officer to assess the property taxes, from year to year, on the basis of rateable value or the capital value, as the case may be, determined under the provisions of this Act, subject, however, to the provisions of sections 169 and 170.]

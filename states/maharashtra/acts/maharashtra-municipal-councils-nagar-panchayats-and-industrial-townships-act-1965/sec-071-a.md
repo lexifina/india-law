@@ -1,0 +1,3 @@
+# Section 71A
+
+71A. Powers and functions of Standing Committee or Special Committee to be exercised or performed by Council or Special Subjects Committee, if necessary.—— If for any reason the Standing Committee or any Subjects Committee is unable to exercise any powers or to perform any duties and functions conferred or imposed on it by or under this Act, the Council may, with the previous sanction of the Director, exercise such powers or perform such duties and functions or may, with like sanction, appoint a Special Subjects Committee and direct that the powers and duties and functions of the Standing Committee or the Subjects Committee, as the case may be, shall be exercised or performed by such Special Subjects Committee.]
