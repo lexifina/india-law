@@ -4,59 +4,57 @@
 
 PART I Articles which shall not be kept without a licence in or upon any premises in quantities exceeding at any one time the respective maximum quantities hereunder specified opposite such articles.
 
-Article Maximum quantity which may be kept at any one time without a licence. }
+Maximum quantity which may be kept at any one Article time without a licence.
 
-(1) Bamboos . . . . kg.
+(१) Bamboos . . . . 500 kg.
 
-(2) Bidi leaves . . . . kg.
+(२) Bidi leaves . . . . 50 kg.
 
-(3) Camphor . . . . kg.
+(३) Camphor . . . . 2 kg.
 
-(4) Celluloid . . . .
+(४) Celluloid . . . . 25 kg.
 
-(5) Celluloid goods . . . . kg.
+(५) Celluloid goods . . . .
 
-(6) Cinematograph film . . . . kg.
+(६) Cinematograph film . . . . 1 kg.
 
-(7) Copra . . . . kg.
+(७) Copra . . . . 50 kg.
 
-(8) Cotton refuse and waste . . kg.
+(८) Cotton refuse and waste . . . . 50 kg.
 
-(9) Cotton seed . . . . kg.
+(९) Cotton seed . . . . 200 kg.
 
-(10) Dry leaves (Patravali, etc.) . . kg.
+(१०) Dry leaves (Patravali, etc.) . . . . 25 kg.
 
-(11) Fish (dried) . . . . kg.
+(११) Fish (dried) . . . . 500 kg.
 
-(12) Gun-powder . . . . gms.
+(१२) Gun-powder . . . . 500 gms.
 
-(13) Matches for lighting . . . . gross boxes.
+(१३) Matches for lighting . . . . 1 gross boxes.
 
-(14) Methylated spirit and denatured litres. spirit.
+(१४) Methylated spirit and denatured spirit. . . . . 5 litres.
 
-(15) Paints . . . . kg.
+(१५) Paints . . . . 50 kg.
 
-(16) Petroleum as defined in the. . litres.
+(१६) Petroleum as defined in the Petroleum Act, 1934 . . . . 25 litres.
 
-Petroleum Act, 1934
+(१७) Oil (other sorts) . . . . 25 litre.
 
-(17) Oil (other sorts) . . . . litre.
+(१८) Oil seeds other than cotton seed . . . . 500 kg.
 
-(18) Oil seeds other than cotton seed kg.
+(१९) Oil paper (waste) including newspapers, periodicals, magazines, etc. . . . . 50 kg.
 
-(l9) Oil paper (waste) including kg. newspapers, periodicals, magazines, etc.
+(२०) Rags . . . . 500 kg.
 
-(20) Rags . . . . kg.
+(२१) Sulphur . . . . 2 kg.
 
-(21) Sulphur . . . . kg.
+(२२) Tat, pitch, dammer or bitumen . . . . 5 kg.
 
-(22) Tat, pitch, dammer or bitumen kg.
+(२३) Turpentine . . . . 5 liters.
 
-(23) Turpentine . . . . liters.
+(२४) Varnish . . . . 10 liters.
 
-(24) Varnish . . . . liters.
-
-(25) Wool (raw) . . . . kg.
+(२५) Wool (raw) . . . . 50 kg.
 
 SCHEDULE IX—contd.
 
@@ -106,8 +104,4 @@ PART II Articles which shall not be kept without a licence in or upon any premis
 
 (21) Timber.
 
-Maharashtra Government Publication
-
-Notes in the official text:
-
-- GOVERNMENT CENTRAL PRESS, MUMBAI
+GOVERNMENT CENTRAL PRESS, MUMBAI

@@ -1,6 +1,6 @@
-# Section 90C. Powers of Council to borrow money
+# Section 90C
 
-90C. (1) The Council may, from time to time, borrow or re-borrow and take up at interest from the State Government or from any financial institution with the previous sanction of the State Government, by the issue of debentures or otherwise on the security of any immovable property vested in the Council or proposed to be acquired by it under this Act or of all the taxes or of any tax which it is authorised to levy for the purposes of this Act or of all or any of those securities, any sum necessary for the purpose of,—
+90C. Powers of Council to Borrow money.— (1) The Council may, from time to time, borrow or reborrow and take up at interest from the State Government or from any financial institution with the previous sanction of the State Government, by the issue of debentures or otherwise on the security of any immovable property vested in the Council or proposed to be acquired by it under this Act or of all the taxes or of any tax which it is authorised to levy for the purposes of this Act or of all or any of those securities, any sum necessary for the purpose of,—
 
 (a) defraying any costs, charges or expenses, incurred or to be incurred by it, in the execution of this Act,
 

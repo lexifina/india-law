@@ -1,0 +1,3 @@
+# Section 341F
+
+341F. Specification of Industrial Township.– The State Government may, having regard to the factors mentioned in the proviso to clause (1) of article 243-Q of the Constitution of India and location of any particular industrial area developed by the Maharashtra Industrial Development Corporation constituted under the Maharashtra Industrial Development Act, 1961 (Mah. III of 1962) 1[City and Industrial Development Corporation of Maharashtra Limited incorporated under the 2Companies Act, 1956 (1 of 1956)] or by a Co-operative Society formed for developing a Co-operative Industrial Estate, specify, by notification in the Official Gazette, any urban area or part thereof, to be an Industrial Township.

@@ -1,5 +1,5 @@
 # Chapter IX
 
-MUNICIPAL TAXATION.
+MUNICIPAL TAXATION
 
 (1) Imposition of compulsory and voluntary taxes.

@@ -1,6 +1,6 @@
 # Section 78C
 
-78C. (1) Every Municipal Officer and servant shall be bound to discharge his official duties and the official work assigned or pertaining to him most diligently and as expeditiously as feasible :
+78C. Disciplinary action.—— (1) Every Municipal Officer and servant shall be bound to discharge his official duties and the official work assigned or pertaining to him most diligently and as expeditiously as feasible :
 
 Provided that, normally no file shall remain pending with any Municipal Officer or servant in any Department or officer under the Corporation for more than seven working days :
 

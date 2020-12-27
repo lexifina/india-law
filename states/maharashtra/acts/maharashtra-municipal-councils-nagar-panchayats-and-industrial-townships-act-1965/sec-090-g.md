@@ -1,6 +1,6 @@
-# Section 90G. Annual examination of sinking funds
+# Section 90G
 
-90G. (1) all sinking funds established or maintained under this Act shall be subject to annual examination by the Director, Local Fund Accounts Audit, who shall ascertain whether the cash and the value of the securities belonging thereto are actually equal to the amount which should be at the credit of such funds had investments been regularly made and had the rate of interest as originally estimated been obtained therefrom.
+90G. Annual examination of sinking funds.— (1) all sinking funds established or maintained under this Act shall be subject to annual examination by the Director, Local Fund Accounts Audit, who shall ascertain whether the cash and the value of the securities belonging thereto are actually equal to the amount which should be at the credit of such funds had investments been regularly made and had the rate of interest as originally estimated been obtained therefrom.
 
 (2) The amount which should be at the credit of a sinking fund shall be calculated on the basis of the present value of all future payments required to be made to such fund under the provisions of this Act, on the assumption that all investments are regularly made and the rate of interest as originally estimated is obtained therefrom.
 

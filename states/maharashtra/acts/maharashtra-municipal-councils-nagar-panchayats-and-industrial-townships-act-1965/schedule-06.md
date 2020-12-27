@@ -1,4 +1,4 @@
-# Schedule Vii.
+# Schedule Vii
 
 (See section 280) Purposes for which any premises shall not be used without a licence.
 
@@ -38,4 +38,4 @@ Explanation.—For the purpose of item (16), nuisance shall include any contamin
 
 Notes in the official text:
 
-- The words "of demand" were deleted by Mah. 10 of 2010, s. 112.
+- 1 The words "of demand" were deleted by Mah. 10 of 2010, s. 112.

@@ -1,6 +1,6 @@
-# Section 90F. Investment of sinking fund
+# Section 90F
 
-90F. (1) All money paid into a sinking fund shall within one month of the date on which the payment was due to be made under subsection (1) of section 90E be invested in public securities.
+90F. Investment of sinking fund.— (1) All money paid into a sinking fund shall within one month of the date on which the payment was due to be made under subsection (1) of section 90E be invested in public securities.
 
 (2) All interest and other sums received in respect of any such investment shall be paid into the sinking fund and shall, within one month of receipt, be invested in the manner provided by sub-section (1).
 

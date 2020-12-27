@@ -1,6 +1,6 @@
-# Section 78D. Nonapplication of provisions of section 78C in certain circumstances
+# Section 78D. H 250-11
 
-78D. Nothing in section 78C shall apply to,—
+78D. Non-application of provisions of section 78C in certain circumstances.—— Nothing in section 78C shall apply to,—
 
 (i) sub-judice matters;
 

@@ -1,8 +1,8 @@
-# Section 194A. Responsibility of owner or occupier to keep and maintain exterior of building in good condition. Mah. XXVIII of 1971
+# Section 194A. H 250-20
 
-194A. (1) It shall be the responsibility of every owner or occupier of a building to ensure that the exterior of the building is kept and maintained in good condition and, is not in a state of disrepair or spoiled on account of cracks, stains, shabby enclosures, hanging wires or cables or keeping of unwholesome articles which spoil the appearance of a building or part thereof :
+194A. Responsibility of owner or occupier to keep and maintain exterior of building in good condition.– (1) It shall be the responsibility of every owner or occupier of a building to ensure that the exterior of the building is kept and maintained in good condition and, is not in a state of disrepair or spoiled on account of cracks, stains, shabby enclosures, hanging wires or cables or keeping of unwholesome articles which spoil the appearance of a building or part thereof :
 
-Provided that, nothing in this section shall apply to the area declared as slum area under sub-section (1) of section 4 of the Maharashtra Slum Areas (Improvement, Clearance and Redevelopment) Act, 1971 and the buildings in respect of which the re-development plan is sanctioned by the Competent Authority or is under consideration of the Competent Authority.
+Provided that, nothing in this section shall apply to the area declared as slum area under sub-section (1) of section 4 of the Maharashtra Slum Areas (Improvement, Clearance and Redevelopment) Act, 1971 (Mah. XXVIII of 1971) and the buildings in respect of which the redevelopment plan is sanctioned by the Competent Authority or is under consideration of the Competent Authority.
 
 (2) If, on inspection of such building or a part thereof, the Chief Officer is of the opinion that the exterior of any building or a part thereof is not kept and maintained in good condition and is spoiled on account of any of the factors mentioned in sub-section (1), the Chief Officer may, by notice in writing, require the owner or occupier thereof to carry out the necessary work as may be specified in such notice so as to keep and maintain the exterior of a building in good condition; and the owner, or as the case may be, the occupier shall comply with such notice.
 
@@ -12,7 +12,7 @@ Provided that, nothing in this section shall apply to the area declared as slum 
 
 (5) Save as otherwise provided in this section, the amount of such expenses together with interest, if any, shall be recoverable as if the amount thereof was due as a property tax.
 
-(6) If there is any dispute about the amount of expenses for which demand is made under sub-section (4), an appeal may be preferred to the Property Tax Appeal Committee constituted under sub-section (2) of section 169, but no such appeal shall be entertained by the said Committee unless,—
+(6) If there is any dispute about the amount of expenses for which demand is made under subsection (4), an appeal may be preferred to the Property Tax Appeal Committee constituted under sub-section (2) of section 169, but no such appeal shall be entertained by the said Committee unless,—
 
 (i) it is preferred within twenty-one days from the date of receipt of notice of such demand ;
 

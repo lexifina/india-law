@@ -1,6 +1,6 @@
-# Section 90H. Provisions for loans raised before appointed day
+# Section 90H
 
-90H. In the case of all loans raised before the appointed day for which the Council is liable, the following provisions shall apply :—
+90H. Provisions for loans raised before appointed day.— In the case of all loans raised before the appointed day for which the Council is liable, the following provisions shall apply :—
 
 (a) if when such loans were raised, the loans were made repayable from sinking funds, the Council shall pay into such funds such sums on such dates as may have been fixed when the loans were raised ;
 

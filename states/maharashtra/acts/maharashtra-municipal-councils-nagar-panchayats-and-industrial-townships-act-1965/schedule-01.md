@@ -8,20 +8,28 @@ THE CHIEF OFFICER, _______________ Council.
 
 I, A.B., hereby give notice as required by section 130 of the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965, of the following transfer of property :—
 
+DESCRIPTION OF THE PROPERTY Date of Notice.
+
+Date of Instrument.
+
+Name of vendor or assignor.
+
+Name of purchaser or assignee.
+
+Amount of consideration Of what it consists.
+
+Number in Assessme nt Book Chief Officer's No.
+
+Dimensions of land Boundaries.
+
+If any instrument has been registered, the date of registration.
+
+Remarks.
+
+Dated .................
+
+(Signed)...................
+
 Notes in the official text:
 
-- DESCRIPTION OF THE PROPERTY
-- Amount of consider-
-- ation
-- Name of vendor or
-- assignor.
-- Name of purchaser
-- or assignee.
-- Of what it
-- consists.
 - Situation.
-- Number in
-- Assessment Book
-- Chief Officer's No.
-- Dated .................
-- (Signed)...................
