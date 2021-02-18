@@ -1,0 +1,86 @@
+---
+tribunal: "National Company Law Appellate Tribunal"
+bench: "new-delhi"
+case_no: "Company Appeal (AT) (Insolvency) No. 113 of 2021"
+decided: "2021-02-18"
+section: "Insolvency"
+court: "Chairperson Court"
+source: "https://nclat.nic.in/sites/default/files/migration/upload/1447026867602e57e6b278c.pdf"
+list: "https://nclat.nic.in/judgement-data"
+---
+
+# National Company Law Appellate Tribunal, Company Appeal (AT) (Insolvency) No. 113 of 2021, 2021-02-18
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 113 of 2021
+In the matter of:
+Vekas Kumar Garg ....Appellant
+Vs.
+DMI Finance Pvt. Ltd. & Anr. ....Respondents
+Present:
+Appellant: Mr. Dhruv Gupta, Ms. Preeti Kashyap, Mr. Ankit
+Sharma, Advocates.
+Respondents:
+ORDER
+(Through Virtual Mode)
+18.02.2021: Appellant- Mr. Vekas Kumar Garg seeking impleadment as a
+necessary party in CP IB-2115/ND/2019 pending before the Adjudicating
+Authority (National Company Law Tribunal), New Delhi Bench, Court-VI, at the
+pre-admission stage under Section 7 of the Insolvency and Bankruptcy Code,
+2016 (“I&B Code” for short) is aggrieved of the impugned order dated 10th
+December, 2020 by virtue whereof its application for impleadment came to be
+rejected on the ground that he was not necessary party to the proceedings. The
+impugned order is assailed on the ground that the Appellant is the Resolution
+Professional of two companies namely— ‘M/s. Ninex Developers Limited’ (“NDL”
+for short) which is facing the Corporate Insolvency Resolution Process (CIRP)
+before the Adjudicating Authority (NCLT), Principal Bench, New Delhi in C.P.
+No. (IB) 281(PB)/2019 and also in the CIRP of ‘M/s. Redtopaz Real Estate Pvt.
+Ltd.’ (“RREPL” for short), CIRP of which is also pending before the Adjudicating
+Authority (NCLT), Bench-II, New Delhi in CP No. (IB)-667(ND) of 2019.
+Contd/-………
+
+-2-
+2. It is submitted on behalf of the Appellant that the main Company
+Petition is pending adjudication in which Respondent No.1 is seeking triggering
+of CIRP against Respondent No.2. It is further submitted that if CIRP is
+commenced against Respondent No.2, NDL holding 46.59% equity shares
+would be the direct sufferer which is already undergoing a CIRP. Besides the
+interest of many homebuyers will be in jeopardy. It is further submitted that
+the application under Section 7 pending consideration before the Adjudicating
+Authority is not maintainable in view of the Judgment passed by this Appellate
+Tribunal in “Dr. Vishnu Kumar Agarwal vs. M/s. Piramal Enterprises Ltd.-
+Company Appeal (AT) (Insolvency) No. 346/2018”.
+3. After hearing learned counsel for the Appellant and going through the
+record, we are of the view that the ground projected by the Appellant in his
+capacity as Resolution Professional of NDL for seeking impleadment in CP IB-2115/ND/2019 pending consideration before the Adjudicating Authority does
+not warrant impleadment of Appellant as party Respondent. In an application
+under Section 7, the Financial Creditor and the Corporate Debtor alone are the
+necessary party and the Adjudicating Authority is, at the pre-admission stage,
+only required to satisfy itself that there is a financial debt in respect whereof
+the Corporate Debtor has committed a default warranting triggering of CIRP.
+The Adjudicating Authority is required to satisfy itself in regard to there being a
+financial debt and default thereof on the part of the Corporate Debtor besides
+the application being complete as mandated under Section 7(5) of the ‘I&B
+Code’ and then pass an order of admission or rejection on merit as mandated
+under sub-section (4) of Section 7 within 14 days. No third party intervention is
+contemplated at that stage.
+Company Appeal (AT) (Insolvency) No. 113 of 2021
+
+-3-
+4. No lengthy hearing is warranted at the pre-admission stage nor can the
+dispute in regard to shareholding or inter se directorial issue be entertained.
+5. Viewed from this perspective, we find no legal infirmity in the impugned
+order passed by the Adjudicating Authority. The course open to Appellant
+would be to apprise the IRP of the admission of the claim in CIRP of NDL if the
+application under Section 7 pending before the Adjudicating Authority is
+admitted and IRP is appointed. Such situation may not arise if the Adjudicating
+Authority is not satisfied about debt and default.
+The appeal is accordingly dismissed. However, there shall be no order as
+to costs.
+[Justice Bansi Lal Bhat]
+Acting Chairperson
+[Dr. Ashok Kumar Mishra]
+Member (Technical)
+AR/g
+Company Appeal (AT) (Insolvency) No. 113 of 2021
