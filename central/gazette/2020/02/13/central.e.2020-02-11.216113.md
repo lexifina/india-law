@@ -1,0 +1,54 @@
+---
+title: "Whereas a draft of certain rules further to amend the Drugs and Cosmetics Rules 1945"
+gazette_id: "CG-DL-E-13022020-216113 Download: gvGazette$ctl16$imgbtndownload"
+ministry: "Ministry of Health and Family Welfare"
+department: "Department of Health and Family Welfare"
+notification_no: "G.S.R. 101 (E)"
+published: "2020-02-13"
+in_force: "2021-03-01"
+mirror: "https://archive.org/details/in.gazette.central.e.2020-02-11.216113"
+---
+
+# Whereas a draft of certain rules further to amend the Drugs and Cosmetics Rules 1945
+
+MINISTRY OF HEALTH AND FAMILY WELFARE (Department Of Health And Family Welfare) NOTIFICATION New Delhi, the 11th February, 2020 G.S.R. 101 (E).—Whereas a draft of certain rules further to amend the Drugs and Cosmetics Rules, 1945, was published as required under sub-section(1) of section 12 and sub-section(1) of section 33 of the Drugs and Cosmetics Act, 1940 (23 of 1940) vide notification of the Government of India in the Ministry of Health and Family Welfare (Department of Health and Family Welfare) number G.S.R. 447(E), dated the 24th June, 2019, in the Gazette of India, Extraordinary, Part II, section 3, sub-section (i), inviting objections and suggestions from persons likely to be affected thereby before the expiry of a period of thirty days from the date on which the copies of the Official Gazette containing the said notification were made available to the public;
+
+And whereas copies of the said Official Gazette were made available to the public on the 24th June, 2019;
+
+And whereas objections and suggestions received from the public on the said rules have been considered by the Central Government;
+
+Now, therefore, in exercise of the powers conferred under sections 12 and 33 of the Drugs and Cosmetics Act, 1940 (23 of 1940), the Central Government, after consultation with the Drugs Technical Advisory Board, hereby makes the following rules further to amend the Drugs and Cosmetics Rules, 1945, namely:―
+
+1.
+
+(1) These rules may be called the Drugs and Cosmetics (Amendment) Rules, 2020.
+
+(2) They shall come into force on the 1st day of March, 2021.
+
+2.
+
+In the Drugs and Cosmetics Rules, 1945 (hereinafter referred to as the said rules), in rule 2,-
+
+(i) existing clause (ea) shall be re-lettered as clause (eb), and before clause (eb) as so re-lettered, the following clause shall be inserted, namely:― '(ea) "Marketer" means a person who as an agent or in any other capacity adopts any drug manufactured by another manufacturer under an agreement for marketing of such drug by labeling or affixing his name on the label of the drug with a view for its sale and distribution;' ;
+
+(ii) existing clauses (ea) and (eb) shall respectively be re-lettered as (eb) and (ec).
+
+3.
+
+In the said rules, after rule 84C, the following rules shall be inserted, namely:―
+
+"84D. Agreement for marketing.- No marketer shall adopt any drug manufactured by another manufacturer for marketing of such drug by labeling or affixing his name on the label of the drug with a view for its sale and distribution without an agreement as referred to in clause (ea) of rule 2.
+
+84E. Responsibility of marketer of the drugs.- Any marketer who sells or distributes any drug shall be responsible for quality of that drug as well as other regulatory compliances along with the manufacturer under these rules." .
+
+4.
+
+In the said rules, in rule 96, after sub-clause (xii) of clause (1), the following sub-clause shall be inserted, namely:―
+
+"(xiii) The name of the marketer of the drug and its address, in case the drug is marketed by a marketer:
+
+Provided that if the drug is contained in an ampoule or a similar small container, it shall be enough if only the name of the marketer is shown.".
+
+[F. No. X.11014/22/2018 -DR] Dr. MANDEEP K. BHANDARI, Jt. Secy.
+
+Note:- The principal rules were published in the Official Gazette vide notification number F.28-10/45-H (1) dated 21st December, 1945 and last amended vide notification number G.S.R. 828(E), dated the 6th November, 2019. and Published by the Controller of Publications, Delhi-110054. ALOK KUMAR
