@@ -1,0 +1,598 @@
+---
+title: "IRDAI (Insurance Surveyors and Loss Assessors)(Amendment), Regulations, 2020"
+kind: "regulation"
+issued: "2020-11-26"
+in_force: "2021-04-01"
+issuer: "Insurance Regulatory and Development Authority of India"
+source_url: "https://irdai.gov.in/consolidated-gazette-notified-regulations?p_p_id=com_irdai_document_media_IRDAIDocumentMediaPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_irdai_document_media_IRDAIDocumentMediaPortlet_delta=20&_com_irdai_document_media_IRDAIDocumentMediaPortlet_resetCur=false&_com_irdai_document_media_IRDAIDocumentMediaPortlet_cur=3"
+official_text: "https://irdai.gov.in/documents/37343/366405/IRDAI+%28Insurance+Surveyors+and+Loss+Assessors%29%28Amendment%29%2C+Regulations%2C+2020.pdf/e8018289-a7d8-c50d-8c75-87e33626f9d8?version=1.2&t=1665122299265&download=true"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# IRDAI (Insurance Surveyors and Loss Assessors)(Amendment), Regulations, 2020
+
+No. 531]                                       CG-APxx-xEG-I2D7E1x1x2x020-223368
+
+                                                EXTRAORDINARY
+
+                                                PART III—Section 4
+
+                                         PUBLISHED BY AUTHORITY
+
+              NEW DELHI, THURSDAY, NOVEMBER 26, 2020/AGRAHAYANA 5, 1942
+
+5772 GI/2020                    (1)
+
+                  INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA
+
+                                                      NOTIFICATION
+                                           Hyderabad, the 24th November, 2020
+
+      Insurance Regulatory and Development Authority of India (Insurance Surveyors and Loss Assessors)
+                                                   (Amendment) Regulations, 2020
+
+          F. No. IRDAI/Reg/4/170/2020.—In exercise of the powers conferred by clause (x) and (xa) of sub-section 2
+of Section 114A read with Sections 42D, 42E and 64UM of the Insurance Act, 1938 (4 of 1938), and Sections 14 and
+26 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999), as amended from time to time,
+the Authority in consultation with the Insurance Advisory Committee, hereby makes the following amendments to
+Insurance Regulatory and Development Authority of India (Insurance Surveyors and Loss Assessors) Regulations,
+2015, namely;
+
+1. Short Title and Commencement:
+
+     1.1 These Regulations may be called Insurance Regulatory and Development Authority of India (Insurance
+            Surveyors and Loss Assessors) (Amendment) Regulations, 2020.
+
+     1.2 These Regulations shall come into force on the date of their publication in the official Gazette. However,
+            sub-clauses (b) and (c) of clause 4.2 of these Regulations shall come into force with effect from 1st April,
+            2021.
+
+2. Objective:
+
+     The objective of these Regulations is to amend the Insurance Regulatory and Development Authority of India
+     (Insurance Surveyors and Loss Assessors) Regulations, 2015 to provide an enabling environment to the
+     Insurance Surveyors and Loss Assessors for rendering service to the policyholders as well as the general
+     insurance industry in an efficient and professional manner.
+
+3. In the Insurance Regulatory and Development Authority of India (Insurance Surveyors and Loss Assessors)
+     Regulations, 2015,
+
+  3.1 Sub-Regulation (4) of Regulation 2 shall be substituted, namely; “Approved Institution” means an institution
+        engaged in education and/or training particularly in the area of insurance, approved and specified by the
+        Authority.
+
+  3.2 Sub-Regulation (5) of Regulation 2 shall be substituted, namely; “Corporate Surveyor” means a Company
+        incorporated under Companies Act, 2013 or an LLP (Limited Liability Partnership) incorporated under the
+        Limited Liability Partnership Act, 2008 and who is licensed to act as Surveyor and Loss Assessor.
+
+        Provided that existing Partnership Firms constituted under the Indian Partnership Act 1932, licensed to act as
+        Corporate Surveyor prior to notification of these amendments shall continue to act as Corporate Surveyor.
+
+  3.3 Sub-Regulation 7 of Regulation 2 shall be substituted, namely;
+
+         (i) Examination means passing of relevant paper(s) of Surveyor and Loss Assessor Examination conducted
+                by the Insurance Institute of India or by such other Institutes recognized by the Authority.
+
+         (ii) Training means successful completion of practical training specified by the Authority from time to time.
+
+  3.4 Sub-Regulation (11) of Regulation 2 shall be omitted.
+  3.5 Sub-Regulation (12) of Regulation 2 shall be substituted, namely; “Member” means Member of the Institute.
+  3.6 Sub-Regulation (14) of Regulation 2 shall be substituted, namely; “Student Member” means a Member of
+
+        Institute who enrolls with the Authority to pass the examination and complete practical training to be eligible
+        to apply for a licence under these Regulations.
+  3.7 Sub-Regulation (15) of Regulation 2 shall be omitted.
+
+4. Regulation 3 - Application for, and Matters Relating to, Grant of Licence to Individual Surveyors and Loss
+     Assessors:
+
+  4.1 Sub-Regulation (1) of Regulation 3 shall be substituted, namely; Every person who is a Student Member as
+        defined under these Regulations and intending to act as a Surveyor and Loss Assessor in respect of general
+        insurance business shall apply to the Authority for grant of licence in the Form as may be specified by the
+        Authority.
+
+  4.2 Sub-Regulation (2) of Regulation 3 shall be substituted namely;
+
+               Eligibility Criteria:
+
+                (a) Qualifications:
+
+                (i) Academic/technical/professional/Insurance Qualifications given in Schedule-I
+                     Annexure-1 of these Regulations.
+
+                (ii) Other qualifications as may be prescribed by the Authority from time to time.
+
+                (iii) Shall be a “Member of Institute”
+
+                (b) Examination: Passing of relevant paper(s) of Surveyor and Loss Assessor Examination conducted
+                     by the Insurance Institute of India, or such other Institute recognized by the Authority.
+
+          An applicant who has successfully passed the examination for obtaining a licence to act as Surveyor and
+          Loss Assessor as on the date of notification of these Regulations, is exempted from taking the examination
+          once again as stated under Regulation 3 (2) (b).
+
+          A Student Member who does not pass the examination and complete the training within three years from the
+          date of enrolment must enroll afresh.
+
+          Provided that existing student member, who is already enrolled with the Authority not later than 5 years
+          before notification of these Regulations and yet to complete training and pass the examination, shall have the
+          option to complete the training, and pass the examination within a period of three years from the date of
+          notification of these Regulations. In case the Student Member after enrolling with the Authority has not yet
+          undergone training he shall pass the examination and complete training as stated in Regulation 3 (2).
+
+                (c) Training: Practical Training as specified by the Authority from time to time.
+
+  4.3 Sub-Regulation (3) of Regulation 3 shall be substituted, namely;
+
+      Documents to be submitted online only:
+
+                a. Application in form as may be specified, duly complete in all respects;
+
+                b. Recent passport size photo;
+
+                c. PAN card;
+
+                d. Address Proof;
+
+                e. Proof of Qualification;
+
+                f. Marks sheet in support of having passed the Surveyor and Loss Assessor Examination and Training
+                     completion certificate;
+
+                g. Declaration-cum-Undertaking in the Format as specified by the Authority;
+
+                h. Membership Certificate issued by the Institute;
+
+                i. Fit and Proper statement in the Format as specified by the Authority;
+
+                j. Evidence of fee payment as may be specified;
+
+                k. Any other document/information that may be required by the Authority from time to time;
+
+          The applicant shall upload the documents online but shall maintain the original physical copies with him
+          throughout the period of validity of licence issued by the Authority and shall produce the same whenever
+          sought by the Authority.
+
+  4.4 In Clause (a) of Sub-Regulation (4) of Regulation 3, the words “in the FORM-IRDAI-17-AF as given in
+        Schedule-II to these Regulations” shall be substituted, namely “in the Form as may be specified”.
+
+  4.5 Sub-Regulation (5) of Regulation 3 shall be substituted, namely; payment of fees - The applicant shall pay non-
+        refundable processing fees as specified under Regulation 5.
+
+  4.6 Sub-Clause (iv) of Clause (b) of Sub-Regulation (8) of Regulation 3 shall be substituted, namely;
+
+            Possesses the specified qualifications, has passed the examination conducted by the Insurance Institute of
+            India or any other Institute recognized by the Authority and has successfully completed practical training as
+            specified by the Authority.
+
+  4.7 Sub-Regulation (9) of Regulation (3) shall be substituted, namely;
+
+            Grant of Licence -The Authority on being satisfied that the applicant is eligible for grant of licence, shall
+            grant the same online in FORM-IRDAI-2-LF as given in the Schedule-II to these Regulations mentioning
+            membership number and the particular class/department or subject of general insurance business namely,
+            fire, engineering, marine cargo, marine hull, loss of profit, motor, crop and miscellaneous. The physical
+            copy of licence will be issued only on request.
+
+5. Regulation 4 - Application for Grant of Fresh Corporate Licence and Related Matters:
+
+     5.1. Sub-Regulation (1) of Regulation 4 shall be substituted, namely;
+
+              An applicant desiring to obtain a Corporate Surveyor and Loss Assessor licence shall do so in the Form as
+              may be specified by the Authority.
+
+     5.2. Sub-Regulation (4) of Regulation 4 shall be substituted, namely;
+
+              There shall be at least two Directors / Partners in the Company / Firm at any point of time who are
+              members of the Institute and are licensed to act as Surveyor and Loss Assessor. The department of the
+              Director/ Partner under their individual Surveyor and Loss Assessor licence shall be the department for
+              which the Company / Firm is licensed.
+
+     5.3 Clause (a) of Sub-Regulation (5) of Regulation 4 shall be substituted, namely;
+
+              Application in the Form as specified, duly complete in all respects.
+
+     5.4 Clause (b) of Sub-Regulation (5) of Regulation 4 shall be substituted namely;
+
+              Copy of membership certificate issued by the Institute to the Directors / Partners.
+
+     5.5 Clause (c) to (m) of Sub-Regulation (5) of Regulation 4 shall be omitted.
+
+     5.6 Clause (n) of Sub-Regulation (5) of Regulation 4 shall be substituted, namely;
+
+              Undertaking by two licensed Directors as may be specified.
+
+     5.7 Clause (p) of Sub-Regulation (5) of Regulation 4 shall be omitted.
+
+     5.8 Clause (q) of Sub-Regulation (5) of Regulation 4 shall be omitted.
+
+     5.9 Clause (r) of Sub-Regulation (5) of Regulation 4 shall be substituted, namely;
+
+            Evidence of fee payment.
+
+     5.10 In clause (s) of Sub-Regulation (5) of Regulation 4, the wordings “(Copies of documents at Sl. no (d) to
+              (m) shall be notarized)” shall be omitted.
+
+     5.11 Clause (1) and (2) of Sub-Regulation (6) of Regulation 4 shall be prefixed with “Every Corporate
+
+              Surveyor and Loss Assessor is” before the word “required”.
+
+     5.12 In clause (1) of Sub-Regulation (6) of Regulation 4, the wording “under IRDA (Protection of
+              Policyholder’s Interests) Regulations, 2002” shall be substituted with “under IRDAI (Protection of
+              Policyholders’ Interests) Regulations, 2017”.
+
+     5.13 In Clause (2) of Sub-Regulation (6) of Regulation 4, the words “in the FORM-IRDAI-18-AF as given in
+              Schedule-II to these Regulations” shall be substituted, namely “in the Form as may be specified”.
+
+     5.14 In Clause (3) of Sub-Regulation (6) of Regulation 4, the word “require” shall be substituted with “Every
+              Corporate Surveyor and Loss Assessor is required”.
+
+     5.15 Sub-Regulation (7) of Regulation 4 shall be substituted, namely; Payment of fees-Shall pay non-
+              refundable processing fees as provided under Regulation 5.
+
+     5.16 In Sub-Regulation (11) of Regulation 4, the word “shall” be inserted after the wording “Corporate
+              Surveyor and Loss Assessor”.
+
+     5.17 In Clause (d) of Sub-Regulation (12) of Regulation 4, the word “in Schedule-I Annexure-2 of these
+              Regulations” shall be substituted, namely; “in the Form as may be specified”.
+
+     5.18 In Sub-Regulation (13) of Regulation 4, the words, “and membership level” after the words “indicating
+              the departments” shall be omitted.
+
+     5.19 In clause (1) of Sub-Regulation (15) of Regulation 4, the words “and level of membership” after the
+              words “in those departments” shall be omitted.
+
+     5.20 In clause (3) of Sub-Regulation (15) of Regulation 4, the words “and level of membership”, after the
+              words “in those departments”, shall be omitted.
+
+6. Regulation 5: Fee structure:
+
+6.1 Regulation 5 shall be substituted, namely;
+
+     The non-refundable processing fee payable to the Authority for grant and renewal of individual licence to act as
+     Surveyor and Loss Assessor shall be rupees one thousand only and for Corporate Surveyor and Loss Assessor it
+     shall be rupees five thousand only.
+
+7. Regulation 6 - Application for Grant of Renewal Licence (Individual / Corporate Surveyor and Loss
+     Assessor) and Related Matters:
+
+7.1 Sub-Regulation (1) of Regulation 6 shall be substituted, namely;
+
+          (1) A Surveyor and Loss Assessor shall submit the online application for renewal of licence to the Authority
+          in the Form as specified, at least thirty days before the expiry of licence, along with a non-refundable renewal
+          fee of rupees one thousand only for Individual Surveyors and rupees five thousand only for Corporate
+          Surveyors.
+
+          Provided that if renewal is not applied at least 30 days before the date on which the licence ceases to remain
+          in force, an additional fee of rupees one hundred shall be payable by the applicant to the Authority.
+
+          Provided further that the Authority may, if it is satisfied that undue hardship would be caused otherwise,
+          accept any application submitted after expiry of the licence, within six months of its expiry on payment by
+          the applicant of a penalty of rupees seven hundred and fifty.
+
+          Provided further that if an application for renewal is not received within the time specified above the licence
+          shall cease to exist.
+
+          Provided further that, if the Authority is satisfied that undue hardship would be caused otherwise, an
+          application from such Surveyor and Loss Assessor whose licence has expired and the application is not
+          submitted within six months from the date of expiry, can be treated as a fresh licence application and
+          processed under Regulation 3 or Regulation 4 as the case may be.
+
+          The applicant shall upload the documents online but shall maintain the original physical copies with him
+          throughout the period of validity of licence issued by the Authority and shall produce the same whenever
+          sought by the Authority.
+
+7.2 Sub-Regulation (3) and (4) of Regulation 6 shall be substituted, namely;
+           (3) Documents to be submitted online for renewal:
+                      (a) In case of Individual:
+                    i) Application in the form as specified;
+                    ii) Evidence of fee payment;
+                    iii) Fit and Proper statement in the format as specified by Authority;
+                    iv) Any other document / information that may be required by the Authority from time to time.
+                     (b) In case of Corporate Surveyors:
+                           i) Application in the form as specified;
+                           ii) Evidence of fee payment;
+                           iii) Fit and proper statement as specified by Authority;
+                           iv) Any other document / information that may be required by the Authority from time to
+                                time.
+            (4) The application for renewal of licence shall be processed taking into account the eligibility criteria,
+                    work performance and compliance with fit and proper norms, including other criteria set out under
+                    Regulation 3 and 4, at the time of receipt of such application.
+
+7.3 Sub-Regulations (5) & (6) of Regulation 6 shall be substituted, namely;
+          (5) The Authority on being satisfied that the applicant is eligible for renewal of licence, shall renew the
+          same:
+          a) In Form-IRDAI-7-LF in case of individuals
+          b) In Form-IRDAI-8-LF in case of Corporate Surveyor and Loss Assessor in the Form given in Schedule-II
+          (6) A licence so renewed shall be valid for three years from the date of renewal unless cancelled/suspended/
+          surrendered earlier.
+
+8. Regulation 7 - Procedure Where Application for Grant of Licence is Rejected:
+8.1 Sub-Regulation (2) of Regulation 7 shall be omitted.
+9. Regulation 8 - Procedure Where Application for Renewal of Licence is Refused:
+9.1 After clause (b) of Sub-Regulation (1) of Regulation 8, the following shall be inserted, namely;
+
+        (c) The Surveyor and Loss Assessor has not carried any of the duties and responsibilities as specified in
+        Regulation 13.
+10. Regulation 9 - Issue of Duplicate Licence:
+10.1 In Sub-Regulation (1) of Regulation 9, the words “in FORM-IRDAI-9-AF given in the Schedule-II to these
+        Regulations” shall be substituted with the words “in the Form as may be specified”.
+11. Regulation 13 - Duties and Responsibilities of a Surveyor and Loss Assessor:
+11.1 Clause (i) of Sub-Regulation (1) of Regulation 13 shall be substituted, namely;
+        Commenting on the admissibility of the claim and assessing the liability of the insurer as per the policy terms
+        and conditions.
+11.2 Clause (k) and (l) of sub-regulation (1) of Regulation 13 shall be omitted.
+11.3 After clause (q) of Sub-Regulation (1) of regulation 13, the following shall be inserted, namely;
+
+          (r) Any licensed Surveyor and Loss Assessor appointed as Director / Partner of a Company / Firm seeking
+          application for grant of Corporate Surveyor licence, shall undertake survey jobs and issue survey reports only
+          in the capacity of Director / Partner of the Applicant Company / Firm.
+
+12. Regulation 14 -
+
+12.1 Heading of Chapter V, “Categorisation of Surveyors” shall be omitted.
+
+12.2 Sub-Regulation (1) of Regulation 14 shall be omitted.
+
+12.3 Sub-Regulation (2) of Regulation 14 shall be omitted.
+
+13. Regulation 15 - Functions of the Institute:
+
+13.1 Sub-Regulation (1) of Regulation 15 shall be substituted namely;
+
+          (1) (a) Membership: The Institute shall grant membership to the person eligible, within 15 days from the
+          date of receipt of application for membership.
+
+          (1) (b) Training, seminars and workshops: Post-licence training either directly or online may be given by
+          the Institute with different modules of training being offered for various departments provided that such
+          training, seminars and workshops of the Institute shall have prior approval of the Authority.
+
+          The above upgradation of knowledge is part of the continuous professional development and skills and is not
+          a pre-requisite for licensing or renewal.
+
+13.2 In Sub-Regulation (2) of Regulation 15, the words “any level of” after the words “the
+        Institute declines” shall be omitted.
+
+14. Regulation 16 - Code of Conduct:
+
+14.1. After Sub-Regulation (3) of Regulation 16, following Sub-Regulations shall be inserted, namely;
+
+       (3A) not accept any direct or indirect benefits in any manner whatsoever other than the fee agreed upon for
+       insurance survey and loss assessment.
+
+14.2. In Sub Regulation (10) of Regulation 16, words “for a period of twelve months” shall be omitted.
+
+14.3. Sub Regulation (18) of Regulation 16 shall be substituted, namely;
+
+          (18) shall undertake survey jobs in a Company / Firm only as an Employee/Director/Partner. In case of an
+          employee doing the survey, the survey report shall be signed by the employee and counter signed by the
+          Director / Partner of Corporate Surveyor.
+
+14.4. After Sub-Regulation (19) of Regulation 16, the following Sub-Regulations shall be inserted namely;
+
+             (19A) - insurer shall conduct enquiry in case of violation of Code of Conduct by the Surveyor and Loss
+             Assessors appointed.
+
+              (19B) - insurer and Directors/Partners of Company/Firm shall ensure that interim and final survey and
+             loss assessment is carried out by licensed Surveyor and Loss Assessor.
+
+             (19C) Directors and Partners of Company/Firm shall exercise reasonable and prudent oversight on all
+             actions of Surveyors and Loss Assessors employed by the Company / Firm.
+
+15. Regulation 17 - Trainee applicants:
+
+          Regulation 17 shall be substituted, namely;
+
+          (1) A Student Member seeking a licence to act as a Surveyor and Loss Assessor shall enroll with the
+                  Authority to pass the examination and shall undergo practical training as specified by the Authority.
+
+          (2) Every applicant who is a Student Member shall:
+
+                     (a) Behave ethically and with integrity. Integrity implies not merely honesty but fair dealings and
+                     truthfulness.
+
+                     (b) Not accept / perform / undertake any survey works and not issue any survey report without
+                     holding a valid licence issued by the Authority to act as Surveyor and Loss Assessor.
+
+                     (c) Maintain at all times, proper record of training.
+
+                     (d) Disclose all information relating to any proceedings initiated or investigation pending or carried
+                     out against him/her by any agency and details of the outcome thereof.
+
+                     (e) Follow any other instructions specified by the Authority from time to time.
+
+          (3) Student Member shall pass the examination and submit the training completion certificate as
+                     specified by the Authority for seeking grant of a licence under Regulation 3.
+
+          (4) If a Surveyor and Loss Assessor already licensed by the Authority seeks to obtain licence in
+                     additional department(s) of general insurance business other than for which he has been licensed, he
+                     shall fulfil the eligibility criteria as specified by the Authority.
+
+16. Regulation 18 shall be omitted.
+
+17. Regulation 21 - Submission of Reports by Insurers:
+
+          Regulation 21 shall be substituted namely;
+
+          (1) Every insurer shall have a Board approved surveyor management policy with regard to empanelment
+                    of surveyors, utilization of surveyors and allotment of survey jobs to licensed surveyors.
+
+          (2) Every insurer shall monitor the performance of Surveyors, including compliance with the code of
+                    conduct and the duties and responsibilities laid down in these regulations. It shall be the
+                    responsibility of the insurer to enquire into case of violation of code of conduct brought to its notice,
+                    conduct the necessary enquiry and investigation and report cases of wherever violation is established,
+                    to the Authority immediately.
+
+          (3) Every insurer shall file with the Authority report on misconduct of licensed surveyors annually.
+
+          (4) Every insurer shall maintain the following details and such records:
+
+            Details of utilization of Surveyors for each line of business, along with the estimated claim amount on
+                 the basis of which a Surveyor is appointed;
+
+            Details of timelines for submission of reports by Surveyors;
+            Details of complaints, if any, against Surveyors and manner of disposal of the same including action
+
+                 taken against Surveyors, if any;
+            Details of survey fee pending;
+            Details of monitoring the performance of Surveyors in terms of quality and compliance to regulatory
+
+                 timelines and code of conduct;
+            Quarterly data on misconduct of licensed Surveyors, including, action, if any taken, on the employee
+
+                 Surveyors under the employment rules;
+            Half-yearly data in the format as specified;
+            Details of the number of claims reported, number of claims surveyed by in-house / individual /
+
+                 Corporate Surveyors, number of claims settled, amounts paid, number of claims outstanding, amounts
+                 involved, reasons for claims outstanding, time taken for claim settlement, claims settlement ratio. The
+                 report may be prepared state-wise, surveyor-wise, amount-wise or on any other parameter considered
+                 appropriate.
+                 The details given above need to be maintained separately for Individual Surveyors and Corporate
+                 Surveyors state-wise, surveyor-wise, amount-wise and shall be maintained as per timeline prescribed in
+                 Sub-Rule (8) of Rule 39 of the Insurance Rules, 1939 unless there is litigation involved in which case it
+                 shall be maintained as long as required.
+                 The information, reports, data required under these Regulations shall be maintained in electronic /
+                 digital form for timely submission of the same to the Authority as and when required or called for.
+           (5) Any other relevant data /requirement as may be specified.
+
+18. After Regulation 25, the following Regulation shall be inserted, namely;
+
+           25 (A) Voluntary Surrender of Licence:
+             (1) A Surveyor and Loss Assessor whether Individual or Corporate, licensed under these Regulations may
+                   make an application to the Authority for surrender of their licence with the following documents:
+                   a. A declaration of completion of all assignments on hand and that no fresh cases are taken up from
+                         the date of request for surrender of licence;
+
+        b. A certified copy of resolution of the Board of Directors recording reasons for surrender of
+              licence (in case of Corporates);
+
+        c. To notify & inform to the Registrar of Companies and comply with their requirements under
+              Companies Act for deletion of main objects of MOA/AOA or produce proof of steps taken to de-
+              register the Company with Registrar of Companies (in case of Corporates);
+
+        d. Original copy of valid licence;
+        e. Any other information, required by the Authority.
+
+        The Authority may consider such application on merit provided Surveyor and Loss Assessor is in
+        compliance with all the regulatory requirements before applying for surrender of licence.
+
+        (2) Upon acceptance of the application for surrender, the Authority may pass an order for surrender of
+             licence.
+
+        (3) The Surveyor and Loss Assessor whose licence is surrendered and accepted by the Authority shall not
+             carry out any new insurance claims related survey and loss assessment work thereafter.
+
+19. Regulation 27 - Transitory Provisions shall be substituted, namely;
+
+        Qualification Requirement for Licensed Surveyors and Loss Assessors:
+
+        The qualification specified in the Regulations are prospective and shall be applicable to the applicants who
+        apply for licence to act as Surveyor and Loss Assessor after the date of notification of these Regulations.
+
+        Provided, if an already licensed Surveyor and Loss Assessor seeks to act as a Surveyor and Loss Assessor in
+        a new department of general insurance business, he shall apply for such new department after fulfilling the
+        qualifications and other eligibility criteria with respect to such new department as specified in these
+        Regulations.
+
+20. After Regulation 27, the following shall be inserted, namely;
+          Regulation 28: Power to Frame Guidelines
+          The Authority may issue guidelines on the following:
+                     1) Practical training and approved Institutions;
+                     2) Forms for application of licence and renewal;
+                     3) Mode of payment of fee;
+                     4) Formats for Declaration cum undertaking;
+                     5) Fit and Proper Criteria along with the Format;
+                     6) Any other documents or procedures required under these Regulations.
+
+21. Schedule 1, Annexure 1 shall be substituted, namely;
+
+                                                            Schedule-I                       Annexure-1
+              IRDAI (Insurance Surveyors and Loss Assessors) Regulations, 2015
+
+        Qualification Criteria for Enrolment and Licensing of Surveyors and Loss Assessors (Regulation 3)
+
+SL. No. Department                     Academic / Technical / Professional / Insurance Qualifications
+
+    1.  Fire          B.E. / B. Tech. / B.Sc. (Engg.)/ A.M.I.E. or its equivalent, Diploma in Engineering of three
+                      years duration; Associate or Fellow members of Institute of Chartered Accountant of India
+    2.  Marine Cargo  /Institute of Cost Accountants of India, (ICAI), Fellow members of Insurance Institute of India
+                      (III), Post Graduate Diploma in Insurance from IIRM; PGDM from National Insurance
+                      Academy.
+
+                      B.E./ B.Tech./ B.Sc. (Engg.)/ A.M.I.E. or its equivalent thereof (Marine Engineering/ Naval
+                      Architecture), / certificate of competency as Master of Ship or as First Class Marine Engineer
+                      issued by a recognized authority, Degree or diploma in Naval Architecture of a recognized
+                      University or Institute. Diploma in Engineering of three years duration; Associate or Fellow
+                      members of Institute of Chartered Accountant of India /Institute of Cost Accountants of India,
+                      (ICAI)/III./Post Graduate Diploma in Insurance from IIRM, MBA (Logistics and Supply chain
+                      management), PGDM from National Insurance Academy.
+
+3.  Marine Hull    B.E./ B.Tech./ B.Sc. (Engg.)/ A.M.I.E. or its equivalent thereof (Marine Engineering/ Naval
+                   Architecture)/ certificate of competency as Master of Ship or as First Class Marine Engineer
+                   issued by a recognized authority.
+
+4.  Engg.          B.E./ B.Tech./ B.Sc. (Engg.)/ A.M.I.E. or its equivalent , Diploma in Engineering of 3 years
+                   duration from a recognized institution or its equivalent thereof.
+
+5.  Motor          B.E./ B.Tech./ B.Sc. (Engg.)/ A.M.I.E. or its equivalent thereof (Mechanical/ Automobile);
+                   Diploma in Mechanical Engineering/ Automobile Engineering of 3 years duration from a
+                   recognized institution or its equivalent thereof.
+
+                   B.E./ B.Tech./ B.Sc. (Engg.)/ A.M.I.E. or its equivalent; Diploma in Engineering of 3 years
+
+6.  Miscellaneous  duration from a recognized institution or its equivalent; Associate or Fellow Member of ICAI
+                   (CA/CMA) Fellow member of., Insurance Institute of India (III) or Post Graduate Diploma in
+
+                   Insurance from IIRM, PGDM from National Insurance Academy.
+
+7.  LOP            Fellow members of Institute of Chartered Accountant of India /Institute of Cost Accountants of
+                   India, (ICAI), B.Tech/B.E, Diploma in Engg of three years duration.
+
+8.  Crop Insurance B.Sc Agriculture / B.Sc. Horticulture/B.Tech (Agricultural Engineering).
+
+Note:
+In order to qualify for enrolment and licensing, an applicant should have secured a degree or diploma of a recognized
+Institute after attending full time course as a regular student or part time course with equivalency certificate issued by
+the respective Institute/University.
+Provided in case of professional courses viz. A.M.I.E; CA/CMA (ICAI) and I.I.I., course completion certificate is
+treated as valid qualification.
+All technical Degree/Diploma stated above shall be obtained from a. AICTE approved Institutions or b. Universities
+recognized by University Grants Commission or c. institutions of national importance recognized by Ministry of
+Human Resources Development (MHRD).
+22. i) In Schedule I, Annexure 2, Fit & Proper criteria shall be omitted.
+
+       ii) In Schedule II, the following forms shall be omitted:
+             a. FORM - IRDAI - 1 - AF
+             b. FORM - IRDAI- 3 - AF
+             c. FORM - IRDAI - 5 AF
+             d. FORM - IRDAI - 6 - AF
+             e. FORM - IRDAI- 9-AF
+             f. FORM – IRDAI-13
+             g. FORM –IRDAI-14
+             h. FORM –IRDAI-15
+             i. FORM-IRDAI-16
+             j. FORM-IRDAI-17 AF
+             k. FORM-IRDAI-18 AF
+             l. FORM IRDAI-19
+
+23. In Schedule II, the following changes shall be made:
+           a. In FORM-IRDAI-2-LF, the words “*working as sole proprietor of____”,“ and level of membership”
+                and “level of membership” in table shall be omitted.
+           b. In FORM IRDAI-4LF, the words “and level of Membership” shall be omitted.
+           c. In FORM - IRDAI- 7-LF- the words “*working as sole proprietor of____”, and “level of
+                membership” in table shall be omitted.
+           d. In FORM-IRDAI-8LF, the words “and categories” shall be omitted.
+           e. In FORM IRDAI-10LF, the words “level of Membership” shall be omitted.
+                                                                                             DR. SUBHASH C. KHUNTIA, Chairman
+                                                                                                       [ADVT/ III/4/Exty./385/2020-21]
+
+Note: The principal regulations were published in the Gazette of India, Extraordinary Part III, Section 4 vide number
+         359 dated 3rd November 2015 and were last amended vide number 205 dated 17th May, 2017.
+
+    Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+
+                   and Published by the Controller of Publications, Delhi-110054.  SURENDER  Digitally signed by SURENDER
+                                                                                             MAHADASAM
+
+                                                                                   MAHADASAM Date: 2020.11.27 16:03:18
+                                                                                                                          +05'30'
