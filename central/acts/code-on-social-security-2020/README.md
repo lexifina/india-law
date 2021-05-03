@@ -183,3 +183,5 @@ Code on Social Security · 1 versions, from 2025-11-21 (latest in force: 2025-11
 | Section 162 | [sec-162.md](sec-162.md) | 0 |  |
 | Section 163 | [sec-163.md](sec-163.md) | 0 |  |
 | Section 164 | [sec-164.md](sec-164.md) | 0 |  |
+
+Date corrected (2026-11-23): this version took effect on 2021-05-03, when the Act was first brought into force (S.O.1730(E) of 2021-04-30 (commencement notification, Gazette Id CG-DL-E-04052021-226829): appoints 2021-05-03 for section 142). The 2025-11-21 given above is a later commencement stage that changed no words. The correction is a labelled commit (Kind: correction); `python tools/on.py` applies it.
