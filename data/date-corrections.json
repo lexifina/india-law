@@ -96,6 +96,18 @@
    "supersedes": "none",
    "kind": "redate",
    "written": "2026-11-23"
+  },
+  {
+   "act": "central/acts/code-on-social-security-2020",
+   "misdated": "af4f7dbf432352ddbd2d24b07da7f40d90e6fa89",
+   "recorded_day": "2025-11-21",
+   "in_force": "2021-05-03",
+   "corrects": "2021-05-03..2025-11-20",
+   "evidence": "S.O.1730(E) of 2021-04-30 (commencement notification, Gazette Id CG-DL-E-04052021-226829): appoints 2021-05-03 for section 142",
+   "reason": "misdated: dated by S.O.5319(E) of 2025, which brought most of the Code into force; section 142 had come into force on 2021-05-03 (S.O.1730(E))",
+   "supersedes": "none",
+   "kind": "redate",
+   "written": "2026-11-23"
   }
  ]
 }
