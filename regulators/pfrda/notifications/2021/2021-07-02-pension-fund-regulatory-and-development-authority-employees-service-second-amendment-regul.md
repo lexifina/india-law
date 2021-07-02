@@ -1,0 +1,130 @@
+---
+title: "Pension Fund Regulatory And Development Authority (Employees Service) (Second Amendment) Regulations,2021"
+kind: "regulation"
+issued: "2021-07-02"
+in_force: "2021-07-02"
+issuer: "Pension Fund Regulatory and Development Authority"
+source_url: "https://www.pfrda.org.in/regulatory-framework/regulations?delta=10&start=4"
+official_text: "https://www.pfrda.org.in/documents/33652/184762/12+Pension+Fund+Regulatory+And+Development+Authority+%28Employees+Service%29+%28Second+Amendment%29+Regulations%2C2021.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Pension Fund Regulatory And Development Authority (Employees Service) (Second Amendment) Regulations,2021
+
+No. 268]                                              CG-DLxx-xEG-I0D2E0x7x2x021-228075
+
+                                                       EXTRAORDINARY
+
+                                                       PART III—Section 4
+
+                                                PUBLISHED BY AUTHORITY
+
+                                NEW DELHI, FRIDAY, JULY 2, 2021/ASHADHA 11, 1943
+
+3668 GI/2021                    (1)
+
+                       PENSION FUND REGULATORY AND DEVELOPMENT AUTHORITY
+
+                                                            NOTIFICATION
+
+                                                     New Delhi, the 1st July, 2021
+
+                       EMPLOYEES’ SERVICE (SECOND AMENDMENT) REGULATIONS, 2021
+
+          No. PFRDA/12/RGL/139/11.—In exercise of the powers conferred by sub-section (2) of section 11 read
+with sub – clause (b) of sub – section (2) of section 52 of the Pension Fund Regulatory and Development Authority
+Act, 2013 (Act no. 23 of 2013), the Pension Fund Regulatory and Development Authority hereby makes the
+following regulations to amend the Pension Fund Regulatory and Development Authority (Employees’ Service)
+Regulations, 2015, namely,: -
+
+     1. These regulations may be called the Pension Fund Regulatory and Development Authority (Employees’
+          Service) (Second Amendment) Regulations, 2021.
+
+     2. These shall come into force on the date of their publication in the Official Gazette.
+
+     3. In the Pension Fund Regulatory and Development Authority (Employees’ Service) Regulations, 2015:-
+
+I. In the schedule under clause (b) of sub-regulation 4 of Regulation 6, in column 3 of row 3 and 4 [under heading-
+     Age, Qualification & Experience for Direct recruits], for qualification for Grade D, E & F and A, B & C, the
+     existing educational qualification (Qualification) shall be substituted as follows:
+
+     Qualification:
+
+     “Master’s Degree in any discipline, Bachelor’s Degree in Law, Bachelor’s Degree in Engineering from a
+     recognized university, Associate Chartered Accountant (ACA) or Fellow Chartered Accountant (FCA) from ICAI
+     (Institute of Chartered Accountants of India)/ Associate Cost and Management Accountant (ACMA) [erstwhile
+     Associate of Institute of Cost & Works Accountant of India (AICWA)] or Fellow Cost and Management
+     Accountant (FCMA) [erstwhile Fellow of Institute of Cost & Works Accountant of India (FICWA)] from
+     Institute of Cost Accountants of India (ICMAI) [erstwhile Institute of Cost & Works Accountants of India
+
+     (ICWAI)] / Associate Company Secretary (ACS) or Fellow Company Secretary (FCS) from Institute of Company
+     Secretaries of India (ICSI) / Chartered Financial Analyst (CFA) from CFA Institute for officers in the General
+     Stream.
+
+     Bachelor’s Degree in Law from a recognized university/Institute for officers in the Legal Stream.
+
+     Master’s Degree in Statistics/Economics/Commerce/Business Administration (Finance)/Econometrics for officers
+     in the Research Stream.
+
+     Bachelor’s Degree in Engineering (electrical /electronics and communication /information technology/computer
+     science)/Masters in Computer Application / Bachelor’s Degree in any discipline with a post graduate qualification
+     (minimum 2 years duration) in computers/information technology for officers in Technical Stream (Information
+     System).
+
+     Master's Degree in Hindi with English as one of the subjects at Bachelor's Degree level or Master's Degree in
+     Sanskrit/English/Economics/Commerce with Hindi as a subject at Bachelor's Degree level from a recognised
+     University/Institute for officers in the Rajbhasha (Official Language) Stream.
+
+     Graduation from a recognized university and Associate Chartered Accountant (ACA) or Fellow Chartered
+     Accountant (FCA) from ICAI (Institute of Chartered Accountants of India)/ Associate Cost and Management
+     Accountant (ACMA) [erstwhile Associate of Institute of Cost & Works Accountant of India (AICWA)] or Fellow
+     Cost and Management Accountant (FCMA) [erstwhile Fellow of Institute of Cost & Works Accountant of India
+     (FICWA)] from Institute of Cost Accountants of India (ICMAI) [erstwhile Institute of Cost & Works
+     Accountants of India (ICWAI)] / Associate Company Secretary (ACS) or Fellow Company Secretary (FCS) from
+     Institute of Company Secretaries of India (ICSI) / Chartered Financial Analyst (CFA) from CFA Institute for
+     officers in the Finance & Accounts Stream”.
+
+II. In the schedule under clause (b) of sub-regulation 4 of Regulation 6, in column 3 of row 4 [under heading – Age,
+     Qualification & Experience for Direct Recruits], for qualification for Grade A, the educational qualification
+     (Qualification) for Actuarial Stream shall be inserted as follows:
+
+     Qualification:
+
+     Graduation from a recognized university and Pass or exemption in all Seven (07) 'Core Principles' subjects of the
+     Institute of Actuaries of India (IAI) Examination for officers in the Actuarial Stream.
+
+III. The sub regulation (1) of Regulation 38 shall be substituted as follows:
+
+     “An employee may be permitted to encash ordinary leave once in two years for a minimum period of 10 days and
+     a maximum period of 30 days.
+
+     Provided that at the time of such encashment the employee has to his credit a balance of leave which shall not be
+     less than the leave so encashed”.
+
+                                                                             SUPRATIM BANDYOPADHYAY, CHAIRPERSON
+
+                                                                                                       [ADVT.-III/4/Exty./133/2021-22]
+
+Footnote:
+
+     1. The Principal Regulations, The Pension Fund Regulatory and Development Authority (Employees’ Service)
+          Regulations, 2015 were published in the Gazette of India on 14th May, 2015 vide Notification No. PFRDA/12
+          /RGL/139/11.
+
+     2. The Pension Fund Regulatory and Development Authority (Employees’ Service) (First Amendment)
+          Regulations, 2018 were published in the Gazette of India on 31st October, 2018 vide Notification No.
+          PFRDA/12/RGL/139/11.
+
+     3. The Pension Fund Regulatory and Development Authority (Employees’ Service) (Amendment) Regulations,
+          2020 were published in the Gazette of India on 28th April, 2020 vide Notification No. PFRDA/ 12/
+          RGL/139/11.
+
+     4. The Pension Fund Regulatory and Development Authority (Employees’ Service) (Amendment) Regulations,
+          2021 were published in the Gazette of India on 24th March 2021 vide Notification No. PFRDA/12
+          /RGL/139/11.
+
+   Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+
+   and Published by the Controller of Publications, Delhi-110054. SURENDER                                                                                                 Digitally signed by SURENDER
+                                                                                                                                                                MAHADASAM  MAHADASAM
+                                                                                                                                                                           Date: 2021.07.02 16:04:05 +05'30'
