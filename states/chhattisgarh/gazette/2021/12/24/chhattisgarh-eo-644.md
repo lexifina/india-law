@@ -1,0 +1,136 @@
+---
+kind: "gazette-notification"
+gazette: "Chhattisgarh Rajpatra (Extraordinary)"
+gazette_number: "644"
+gazette_type: "Extraordinary"
+issuer: "Government of Chhattisgarh"
+published: "2021-12-24"
+in_force: "2021-12-24"
+in_force_evidence: "published in the Gazette 2021-12-24; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.chhattisgarh.eo.2021-12-24.644"
+language: "English text only"
+---
+
+1 
+1 2 3 4 5 6
+
+Atal Nagar, the 24th December 2021
+
+NOTIFICATION
+No. F-66-1/Three(two)/NP./Elected Candidate/2021/2971In pursuance of Section 22 of the
+Chhattisgarh Municipal Corporation Act 1956 (No. 23 of 1956), it is hereby notified that in the general election
+held in the month of December, 2021 of the Municipal Corporation Beergaon District Raipur, for the post
+mentioned in column 2 of the following schedule, the people mentioned in column 5 are elected :-
+SCHEDULE
+Ward No.
+No. Post Name Address
+in digits in words
+1 2 3 4 5 6
+1 Councillor 1 One SHAKUNTALA SATNAMI PARA WARD NO. 2, URLA
+DHANNU BANDE BIRGAON PIN NO. 493221
+2 Councillor 2 Two UBARAN DAS URLA SATNAMI PARA CHOWK, TEH.
+BANJARE AND DISTRICT RAIPUR,
+(CHHATTISGARH) 493221
+3 Councillor 3 Three SHIV SAHU WARD NO. 03 URLA, BIRGAON PIN NO.
+4 Councillor 4 Four PUSHPA ASHISH ARD 04 BAJRANG CHOWK URLA ACHOLI
+YADAV 492003
+5 Councillor 5 Five BEDRAM SAHU BENDRI ROAD, GAYATRI MANDIR,
+URLA, DISTRICT RAIPUR
+6 Councillor 6 Six RAJBATI DINU HIRA NAGAR ACHOLI, BIRGAON PIN NO.
+NISHAD 492003
+7 Councillor 7 Seven KRIPARAM NISHAD SUBHASH CHOWK ACHOLI
+8 Councillor 8 Eight GYANESHVARI KRISHNA CHOWK ACHOLI
+MIRJHA
+9 Councillor 9 Nine BHARTI NANDU METAL PARK RAWABHATHA BIRGAON,
+CHANDRAKAR RAIPUR (CHHAG) PIN NO - 493221
+10 Councillor 10 Ten KAVITA SUDAN SIKLI WARD NO. 10, BANJARI NAGAR,
+RAWANBHATA, MUNICIPAL
+CORPORATION BIRGAON
+
+11 Councillor 11 Eleven SUSHILA MARKANDE WARD 11 JODA JAITKHAM AZAD NAGAR
+RAWABHATHA 493221
+12 Councillor 12 Twelve OMPRAKASH SAHU WARD 12, MARKET AMLI CHOWK
+RAWABHATHA BIRGAON 493221
+13 Councillor 13 Thirteen ASHWANI YADAV DANTESHWARI CHOWK RAWABHATHA
+BIRGAON RAIPUR CHHATTISGARH
+14 Councillor 14 Fourteen OMPRAKASH SAHU SCHOOL CHOWK RAWABHATHA,
+BIRGAON PIN NO 493221
+15 Councillor 15 Fifteen SAMARU RAM WARD 15 MINI MATA CHOWK
+PATREY RAWABHATHA BIRGAON 493221
+16 Councillor 16 Sixteen SHARAD KUMAR BAZAR CHOWK URKURA, BIRGAON PIN
+SAHU NO. 493221
+17 Councillor 17 Seventeen DEEPAK KUMAR VILLAGE AND PO.URKURA
+SAHU BIRGAON,RAIPUR,(CHHATTISGARH)4932
+18 Councillor 18 Eighteen PATI RAM SAHU GAUTIYA PARA URKURA PIN NO -
+19 Councillor 19 Ninteen ANAND MOHAN PLOT NO 9, HARSHIT VIHAR COLONY,
+SINGH AKA RITESH URKURA, POST BIRGAON, DISTRICT
+SINGH RAIPUR (CHHATTISGARH) - PIN - 493221
+20 Councillor 20 Twenty SHAKUN SAHU AKASH NAGAR, MUNICIPAL
+CORPORATION BIRGAON, DISTRICT -
+RAIPUR (CHHATTISGARH) PIN NO.
+21 Councillor 21 Twenty one HEMACHANDRANI WARD NO. 21, KAILASH NAGAR,
+GOSWAMI BIRGAON, DISTT - RAIPUR
+(CHHATTISGARH) PIN NO. 493221
+22 Councillor 22 Twenty two ASWANI CHANDRE WARD NO 22 DR RADHAKRISHNA
+BIRGAON RAIPUR
+23 Councillor 23 Twenty DR. SHAKIL WARD-28 GHAZI NAGAR BIRGAON
+three
+24 Councillor 24 Twenty DIKANDRA KUMAR URLA MAIN ROAD BIRGAON,
+four SINHA MUNICIPAL CORPORATION BIRGAON,
+DISTT - RAIPUR (CHHATTISGARH) PIN
+NO. 493221
+25 Councillor 25 Twenty five NANDLAL GHAZI NAGAR, BIRGAON, DISTT -
+DEWANGAN RAIPUR (CHHATTISGARH) PIN NO.
+26 Councillor 26 Twenty six SAROJ BAI KURREY PURANI BASTI, SATNAMI PARA
+BIRGAON, PIN NO. 493221
+27 Councillor 27 Twenty DILDAR KUMAR MATHPARA RUPALI GROCERY STORE
+seven BIRGAON 493221
+28 Councillor 28 Twenty IKRAM AHMAD GHAZINAGAR WARD NO. 28 BIRGAON,
+eight PIN NO. 493221
+29 Councillor 29 Twenty MOHAMMAD RIYAZ GHAZI NAGAR BIRGAON RAIPUR
+nine CHHATTISGARH
+30 Councillor 30 Thirty KHEMLAL SAHU WARD NO 30 GHAZI NAGAR BIRGAON
+RAIPUR
+31 Councillor 31 Thirty one AVAJ DEWANGAN BIRGAON RAIPUR
+32 Councillor 32 Thirty two HORILAL DEWANGAN MAIN ROAD BIRGAON, RAIPUR (CHHAG)
+PIN NO - 493221
+33 Councillor 33 Thirty three RUKHMANI RAJU BUDHWARI BAZAR BIRGAON, PIN NO.
+SINHA 493221
+34 Councillor 34 Thirty four BASANT SEN SHAHEED NAGAR BIRGAON, PIN NO.
+35 Councillor 35 Thirty five SANTOSH KUMAR BIRGAON NEAR COUNCILOR'S HOUSE
+SAHU
+36 Councillor 36 Thirty six KEHARU SAHU PT JAWAHAR LAL NEHRU WARD 36
+NAGESHWAR NAGAR BIRGAON 493221
+
+37 Councillor 37 Thirty DHARMIN PUNARAM WARD 38 THAKUR DEV PARA SARORA
+seven SAHU 493221
+38 Councillor 38 Thirty eight BISVANTIN DHANESH SARORA RAIPUR CHHATTISGARH
+JOGI
+39 Councillor 39 Thirty nine GODAVRI SAHU SARORA
+40 Councillor 40 Fourty DIGESHWARI BIRGAON RAIPUR
+DEWANGAN
+Sd/-
+
+(REMEJEUS EKKA)
+Secretary.
+
+1 2 3 4 5 6
+
+Atal Nagar, the 24th December 2021
+NOTIFICATION
+No. F-66-1/Three(two)/NP./Elected Candidate/2021/2971In pursuance of Section 45 of the
+Chhattisgarh Municipal Council Act 1961 (No. 37 of 1961), it is hereby notified that in the by election held in
+the month of December, 2021 of the Municipal Council Gobra Nawapara District Raipur, for the post mentioned
+in column 2 of the following schedule, the people mentioned in column 5 are elected :-
+SCHEDULE
+Ward No.
+No. Post Name Address
+in digits in words
+1 2 3 4 5 6
+1 Councillor 14 Fourteen MADHU TARUN WARD NO. 14 GANJ ROAD
+BAFNA GOBRANAWAPARA TAH-
+GOBRANAWAPARA DIST. RAIPUR
+Sd/-
+
+(REMEJEUS EKKA)
+Secretary.
