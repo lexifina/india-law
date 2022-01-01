@@ -1,0 +1,9 @@
+# Section 30A
+
+30A. Duties payable by financial institution.—(1) Notwithstanding anything contained in section 30, where any instrument referred to in clauses (a) to (g) of section 30, is executed on or after the date of commencement of the Maharashtra Tax Laws (Levy and Amendment) Act, 2013 (Mah. VIII of 2013), in favour of or by any financial institution such as Bank, Non-banking Finance Company, Housing Finance Company or alike, which creates any right in favour of any such financial institution, the liability to pay proper stamp duty shall be on such financial institution concerned without affecting their right, if any, to collect it from the other party 8[if the other party fails to pay the proper stamp duty].
+
+(2) In respect of any such instrument executed before the date of commencement of the Maharashtra Tax Laws (Levy and Amendment) Act, 2013 (Mah. VIII of 2013), and are effective and 1 These figures, brackets and letter were substituted for the figures, brackets and letter "58(a)" by Mah. 27 of 1985, s. 16(a). 2 The word "and" was deleted by Mah. 27 of 1985, s. 16(b). 3 These words were substituted for the words "arbitrator directs" by Mah. 27 of 1985, s. 16 (c). 4 The word "and" was deleted by Mah. 20 of 2015, s. 6(a). 5 Clause (f-a) was inserted by Mah. 20 of 2015, s. 6(b). 6 Clause (g) was added by Mah. 27 of 1985,, s. 16(d). 7 Section 30A was inserted by Mah. 8 of 2013, s. 2. 8 These words were added by Mah. 47 of 2017, s. 3. where proper stamp duty is not paid, then the financial institution shall impound such instrument on or before the 30th September 2013 and forward the same to the Collector for recovery.
+
+(3) Where the financial institution fails to impound such instrument as provided in sub-section
+
+(2), then the concerned financial institution shall be liable to pay a penalty equal to the stamp duty payable on such instrument.]
