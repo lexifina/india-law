@@ -1,5 +1,5 @@
 # Preamble
 
-An Act to provide for the salaries and allowances of the Ministers of 2[the Government of Maharashtra] and certain other matters.
+An Act to provide for the salaries and allowances of the Ministers of 6[the Government of Maharashtra] and certain other matters.
 
-WHEREAS, it is expedient to provide for the determination of the salaries and allowances of the Ministers of 2[the Government of Maharashtra] and certain other matters as hereinafter appearing; It is hereby enacted in the Seventh Year of the Republic of India as follows:—
+WHEREAS, it is expedient to provide for the determination of the salaries and allowances of the Ministers of 7[the Government of Maharashtra] and certain other matters as hereinafter appearing; It is hereby enacted in the Seventh Year of the Republic of India as follows:—
