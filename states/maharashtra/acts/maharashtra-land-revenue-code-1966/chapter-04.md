@@ -1,3 +1,3 @@
 # Chapter IV
 
-OF LAND REVENUE.
+OF LAND REVENUE
