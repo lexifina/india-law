@@ -6,7 +6,7 @@ Revenue due Notice Fee Rs. P.
 
 Not exceeding Rs. 25 . . . . . . . .
 
-0.50 Over Rs. 25 and not exceeding Rs. 100. . . . . .
+0.50 Over Rs. 25 and not exceeding Rs. 100 . . . .
 
 1.00 Over Rs. 100 . . . . . . . . . .
 

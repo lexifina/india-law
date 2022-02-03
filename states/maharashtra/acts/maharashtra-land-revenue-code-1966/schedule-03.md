@@ -4,7 +4,7 @@
 
 THE GOVERNMENT OF MAHARASHTRA To, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-WHEREAS, the State Government with a view to the settlement of the land revenue, and the record and preservation of proprietary and other rights connected, with the soil, has under the provisions of the Maharashtra Land Revenue Code, 1966, directed a survey of the lands within the . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . of . . . . . . . . . . . . . . . . . . . . . . . . . . and ordered the necessary inquiries connected therewith to be made, this sanad is issued under section 129 or 130 of the said Code to the effect that—
+WHEREAS, the State Government with a view to the settlement of the land revenue, and the record and preservation of proprietary and other rights connected, with the soil, has under the provisions of the Maharashtra Land Revenue Code, 1966, directed a survey of the lands within the . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and ordered the necessary inquiries connected therewith to be made, this sanad is issued under section 129 or 130 of the said Code to the effect that—
 
 There is a certain plot of ground occupied by you in the Division of the of Register No. in the map marked sheet , No. and facing towards the the road leading from to containing about square meteres and of the following shape and about the following dimensions :—
 
