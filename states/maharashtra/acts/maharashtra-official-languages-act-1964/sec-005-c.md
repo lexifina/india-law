@@ -4,25 +4,33 @@
 
 (2) The State Marathi Language Committee shall consist of the following members, namely :—
 
-(i) Minister, Marathi Language Chairperson ;
+(i) Minister, Marathi Language Chairperson;
 
-(ii) State Minister, Marathi Language Vice-Chairperson ;
+(ii) State Minister, Marathi Language Vice-Chairperson;
 
-(iii) Chief Secretary, Government of Maharashtra Vice-Chairperson ;
+(iii) Chief Secretary, Government Vice-Chairperson; of Maharashtra
 
-(iv) Additional Chief Secretary (Services), General Member ;
+(iv) Additional Chief Secretary (Services), Member;
 
-Administration Department
+General Administration Department
 
-(v) Secretary, Marathi Language Department Member ;
+(v) Secretary, Marathi Language Member;
 
-(vi) Secretary, School Education Department Member ;
+Department
 
-(vii) Secretary, Urban Development Department Member ;
+(vi) Secretary, School Education Member;
 
-(viii) Secretary, Revenue Department Member ;
+Department
 
-(ix) Deputy Secretary, Marathi Language Department Member-Secretary.
+(vii) Secretary, Urban Development Member;
+
+Department
+
+(viii) Secretary, Revenue Department Member;
+
+(ix) Deputy Secretary, Marathi Member-Secretary.
+
+Language Department
 
 (3) The State Marathi Language Committee may invite experts from various fields, as it may deems fit, from time to time, for the meeting.
 
@@ -30,15 +38,14 @@ Administration Department
 
 (5) The State Marathi Language Committee shall exercise the following powers and discharge the following functions, namely :—
 
-(i) ensure and review the implementation of the provisions of this Act and the rules made thereunder ;
+(i) ensure and review the implementation of the provisions of this Act and the rules made thereunder;
 
-(ii) consider an annual report along with recommendations submitted by the District Marathi Language Committee about action taken by it in discharge of its functions under this Act and to give directions to the District Marathi Language Committee as it deems fit for effective implementation of the provisions of this Act ;
+(ii) consider an annual report alongwith recommendations submitted by the District Marathi Language Committee about action taken by it in discharge of its functions under this Act and to 4 Maharashtra Official Languages Act, 1964 [1965 : Mah. V give directions to the District Marathi Language Committee as it deems fit for effective implementation of the provisions of this Act;
 
-(iii) give directions to all offices of the State Government and the District Marathi Language Committee as it deems fit for effective implementation of the provisions of this Act and the rules made thereunder ;
+(iii) give directions to all offices of the State Government and the District Marathi Language Committee as it deems fit for effective implementation of the provisions of this Act and the rules made thereunder;
 
-(iv) Recommend such incentives, rewards or schemes as may be necessary for effective implementation of the provisions of this Act and the rules made thereunder.
+(iv) recommend such incentives, rewards or schemes as may be necessary for effective implementation of the provisions of this Act and the rules made thereunder.
 
 Notes in the official text:
 
-- This proviso was inserted by Mah. 2 of 1996, s. 2.
-- Sections 5A to 5I were inserted by Mah. 14 of 2021, s. 4.
+- 1 Sections 5A to 5I were inserted by Mah. 14 of 2021, s.4.
