@@ -4,7 +4,7 @@
 
 (2) The Marathi Language Officer shall discharge the following functions, namely :—
 
-(a) receive the grievances or complaints pertaining to non-use of Marathi in official purposes and implementation of the provisions of this Act in the office and to facilitate for its effective redressal ; and
+(a) receive the grievances or complaints pertaining to non- use of Marathi in official purposes and implementation of the provisions of this Act in the office and to facilitate for its effective redressal; and
 
 (b) to take steps to ensure the effective implementation of the provisions of this Act and the rules made thereunder.
 
