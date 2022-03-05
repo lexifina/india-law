@@ -1,0 +1,92 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "156"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 156 ABP 13-2022-24 Dated 05-03-22"
+published: "2022-03-05"
+in_force: "2022-03-05"
+in_force_evidence: "published in the Gazette 2022-03-05; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._156_abp_13-2022-24_dated_05-03-22.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2022-03-05.156"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+DEPARTMENT OF PERSONNEL ::: PERSONNEL (B)
+NOTIFICATION
+The 5th March, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 708
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 709
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 710
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 711
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 712
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 713
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 714
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 715
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 716
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 717
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 718
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 719
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 720
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 721
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 722
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 723
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 724
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 725
+.
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 726
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 727
+.
+.
+NIRAJ7VERMA,
+Principal Secretary to the Government of Assam,
+Personnel Department.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 728
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 729
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 730
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 07, 2022 731
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 311 - 30 + 10 - 07 - 03 - 2022. (visit at– dpns.assam.gov.in)
