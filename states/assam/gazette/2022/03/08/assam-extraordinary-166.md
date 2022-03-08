@@ -1,0 +1,69 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "166"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 166 GDD 360-2021-Pt-25 (8th March-22)"
+published: "2022-03-08"
+in_force: "2022-03-08"
+in_force_evidence: "published in the Gazette 2022-03-08; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._166_gdd_360-2021-pt-25_8th_march-22.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2022-03-08.166"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+DEPARTMENT OF HOUSING & URBAN AFFAIRS
+NOTIFICATION
+The 8th March, 2022
+
+760 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 761
+
+762 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 763
+
+764 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 765
+
+766 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 767
+
+768 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 769
+
+770 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 771
+
+772 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 773
+
+774 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 775
+
+776 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 777
+
+778 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 779
+
+780 THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 09, 2022 781
+RAJESH5PRASAD,
+Principal Secretary to the Government of Assam,
+Department of Housing & Urban Affairs.
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 331 - 25 + 10 - 09 - 03 - 2022. (visit at– dpns.assam.gov.in)
