@@ -1,0 +1,45 @@
+---
+title: "Clarifications with respect to Temporary Surrender of Professional Membership"
+kind: "circular"
+number: "IBBI/IP/2022"
+issued: "2022-04-11"
+in_force: "2022-04-11"
+issuer: "Insolvency and Bankruptcy Board of India"
+source_url: "https://ibbi.gov.in/legal-framework/circulars?page=4"
+official_text: "https://ibbi.gov.in/uploads/legalframwork/ea6f70f852d6c2ad103efcf5d5b158c8.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Clarifications with respect to Temporary Surrender of Professional Membership
+
+Insolvency and Bankruptcy Board of India
+                  7th Floor, Mayur Bhawan, Connaught Place, New Delhi-110001
+
+                                              CLARIFICATION
+
+No. IBBI/IP/2022                                                    11th April 2022
+
+To
+All Registered Insolvency Professional Agencies
+(By mail to registered email addresses and on website of the IBBI)
+
+Dear Madam/Sir,
+
+Subject: Clarifications with respect to Temporary Surrender of Professional Membership
+
+In view of the provisions relating to 'temporary surrender of professional membership' contained in
+clause 26 of the Schedule to the IBBI (Model Bye-Laws and Governing Board of Insolvency
+Professional Agencies) Regulations, 2016, have been substituted vide Notification No. IBBI/2019-
+20/GN/REG043, dated 23rd July, 2019 (w.e.f. 23-07-2019) and in pursuant to the introduction of
+provision of ‘Authorisation for Assignment’, it is clarified that the process of ‘Temporary Surrender of
+Professional Membership,’ ceases to exist with issuance of above mentioned notification.
+
+2. This clarification is issued in exercise of the powers conferred under clause (aa), (g) and (p) of sub-
+section (1) and sub-section (2) of section 196 of the Insolvency and Bankruptcy Code, 2016.
+
+                                         Yours sincerely,
+                                               -Sd-
+
+                                (Dilip Arjun Khandale)
+                             Deputy General Manager
+                  Email: dilip.khandale@ibbi.gov.in
