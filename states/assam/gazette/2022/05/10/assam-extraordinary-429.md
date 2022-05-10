@@ -1,0 +1,181 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "429"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 429 UDD(T) 199-2022-6 Dated 10-05-22 Marani"
+published: "2022-05-10"
+in_force: "2022-05-10"
+in_force_evidence: "published in the Gazette 2022-05-10; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._429_uddt_199-2022-6_dated_10-05-22_marani.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2022-05-10.429"
+language: "English text only"
+---
+
+PUBLISHED BY THE AUTHORITY
+No. 429 Dispur, Thersday, 16th June, 2022, 26th Jaistha, 1944 (S. E.)
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+DEPARTMENT OF HOUSING & URBAN AFFAIRS
+NOTIFICATION
+The 10th May, 2022
+No.UDD(T)199/2022/6.– In exercise of the powers conferred by the Section 9 (nine) of the
+Assam Town & Country Planning Act, 1959 (Assam Act II of 1960) read with Sub-section I of
+Section 10 (Ten) of Assam Town & Country Planning Act (as amended), the Governor of Assam
+is pleased to published the following notice regarding the publication of draft master plan for
+Mariani.
+Notice for Publication of Draft Master Plan for Mariani
+1. It is notified that the draft master plan for Mariani prepared by the Directorate of Town &
+Country Planning, Government of Assam, Town & Country Planning Act, 1959 read with
+Sub-section I of Section 10 (Ten) of Assam Town & Country Planning Act (as amended) for
+the area described in the schedule below is here by published.
+2. Any person or persons affected by the draft master plan may submit their objection or opinion
+in writing to the Director, Town & Country Planning, Government of Assam, Dispur,
+Guwahati-6 within two months from the date of publication.
+3. The draft master plan for Mariani with all relevant papers and maps may be inspected
+free of cost during Office hours at the Office of the Director, Town & Country
+Planning, Government of Assam, Dispur, Guwahati-6, the Deputy Director, Town &
+Country Planning, District Office, Jorhat, the Circle Office, Mariani Revenue Circle,
+Mariani, Office of the Chairman, Mariani Municipal Board, Mariani. Copies of the
+draft master plan for Mariani are available at the Office of the Deputy Director, Town
+& Country Planning Jorhat on payment.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4888
+KAVITHA PADMANABHAN,
+Commissioner & Secretary to the Govt. of Assam,
+Department of Housing & Urban Affairs.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4889
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4890
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4891
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4892
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4893
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4894
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4895
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4896
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4897
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4898
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4899
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4900
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4901
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4902
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4903
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4904
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4905
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4906
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4907
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4908
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4909
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4910
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4911
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4912
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4913
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4914
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4915
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4916
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4917
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4918
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4919
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4920
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4921
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4922
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4923
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4924
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4925
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4926
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4927
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4928
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4929
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4930
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4931
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4932
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4933
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4934
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4935
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4936
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4937
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4938
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4939
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4940
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4941
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4942
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4943
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4944
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4945
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4946
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4947
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4948
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4949
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4950
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4951
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4952
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4953
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2022 4954
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 857-50 + 10 - 16 - 06 - 2022. (visit at– dpns.assam.gov.in)
