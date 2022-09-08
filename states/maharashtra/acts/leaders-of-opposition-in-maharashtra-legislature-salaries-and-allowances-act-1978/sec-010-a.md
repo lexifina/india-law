@@ -1,0 +1,3 @@
+# Section 10A
+
+10A. Facility of a personal assistant 4[and a computer assistant].— 5[(1) Each Leader of the Opposition shall be entitled, free of charge, to the services of a personal assistant. For this purpose, each Leader of Opposition may appoint any person, possessing such qualifications as may be prescribed by rules or orders made under section 13, as his personal assistant. Subject to such rules or orders as may be made in this behalf, the assistant so appointed shall receive a fixed salary 6[per month as may be specified by order issued by the State Government from time to time]]. 7[(2) There shall be paid to each Leader of Opposition a sum of Rs. 10,000 per month for availing the services of computer operator.]
