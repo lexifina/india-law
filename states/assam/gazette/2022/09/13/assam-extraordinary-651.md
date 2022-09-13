@@ -1,0 +1,76 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "651"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 651 IT 38-2022-76 Dated 13-09-22"
+published: "2022-09-13"
+in_force: "2022-09-13"
+in_force_evidence: "published in the Gazette 2022-09-13; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._651_it_38-2022-76_dated_13-09-22.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2022-09-13.651"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+INFORMATION TECHNOLOGY DEPARTMENT
+NOTIFICATION
+The 13th September, 2022
+
+9438 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022 9439
+
+9440 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022 9441
+
+9442 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022 9443
+
+9444 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022 9445
+.
+
+9446 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+.
+.
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022 9447
+
+9448 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+.
+.
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022 9449
+
+9450 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022 9451
+.
+
+9452 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022 9453
+
+9454 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022 9455
+
+9456 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 28, 2022
+ANURAG GOEL,
+Principal Secretary to the Government of Assam,
+Information Technology Department.
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 1301 - 10 + 10 - 28 - 09 - 2022. (visit at– dpns.assam.gov.in)
