@@ -1,0 +1,5 @@
+# Section 103A
+
+103A. Application of Chapter VIII-A to certain buildings.— This Chapter shall come into force on and from the commencement of the Maharashtra Housing and Area Development (Second Amendment) Act, 1986 (Mah. XXI of 1986), and shall apply to all the cessed buildings which are erected before; the 1st day of September 1940 and are classified as belonging to Category A under sub-section (1) of section 84 : 2[Provided that, nothing in this Chapter shall apply to any cessed building belonging to Category A if, on the date of commencement of the Maharashtra Housing and Area Development (Second Amendment) Act, 1986 (Mah. XXI of 1986), out of the total number of occupiers of such building, fifty per cent. or more occupiers are using the tenements or premises in their possession for commercial or non residential purpose.]
+
+Explanation.— For the purposes of this section, any such building where a floor or any part of a building is constructed subsequently and such floor or part is not separable, shall be deemed to be a building belonging to Category A.

@@ -1,0 +1,3 @@
+# Section 103J
+
+103J. Protections to occupiers or allottees.— If the co-operative society unauthorisedly allots to any person any tenement which is to be allotted under the foregoing provisions to a dishoused person from the building reconstructed or to a dishoused person from the other cessed demolished buildings by nominations by the Board, such unauthorised allotment shall, notwithstanding anything contained in any law for the time being in force, be treated as invalid for all purposes and the Authority shall be competent to evict such unauthorised allottee by taking action under section 66 of this Act as if the premises so allotted were Authority premises and allot such premises to the person to whom they should have been allotted.
