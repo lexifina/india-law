@@ -1,0 +1,11 @@
+# Preamble
+
+AND WHEREAS due to acute shortage of accommodation in the urban areas slums have come up which necessitated taking up improvement works in slum areas ;
+
+AND WHEREAS the magnitude of the housing programme for constructions of new houses throughout the State and the task of repairs and reconstruction of old and dilapidated buildings and improvement of slums in the urban areas is so, great that it is necessary for the State Government to intervene and take effective steps including acquisition of lands and buildings for carrying out housing, repairs, construction and reconstruction programmes over or in such lands and buildings and transferring ownership and control thereof to needy persons so as to bring about an equitable distribution of ownership and control in houses in such lands and buildings to subserve the common good ;] 4[AND WHEREAS] there are at present various corporate and statutory bodies in the State which have been established, for dealing with the problem of housing accommodation, for repairing and reconstructing buildings in a bad state of disrepair and presenting a dangerous possibility of collapse, for carrying out improvemental works in slum areas, and for advancing loans for construction of houses ;
+
+AND WHEREAS the programmes undertaken by these bodies are more or less complementary and there is considerable overlapping in their working or functioning ;
+
+AND WHEREAS it is considered necessary and expedient to co-ordinate the housing programmes with an orderly development of urban areas in the State ;
+
+AND WHEREAS with a view to integrating the activities of these bodies so as to provide for a more comprehensive and co-ordinated approach to the entire problem of housing development, and planning and development of certain areas in a balanced manner, with sufficient attention to ecology, pollution, over-crowding and amenities required for leading a wholesome civic life, it is expedient to establish a single Corporate Authority for the whole State and establish new Boards for certain areas of the State to carry out the plans and programmes of such Authority for the purposes aforesaid, to replace the existing Boards by the new Boards aforesaid and to provide for matters connected with the purposes aforesaid; It is hereby enacted in the Twenty-seventh Year of the Republic of India as follows :—
