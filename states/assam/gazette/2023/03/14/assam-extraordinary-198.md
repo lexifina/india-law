@@ -1,0 +1,111 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "198"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 198 E 268447 Dated 14-03-23"
+published: "2023-03-14"
+in_force: "2023-03-14"
+in_force_evidence: "published in the Gazette 2023-03-14; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._198_e_268447_dated_14-03-23_indian_right_of_way_rules-2016.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2023-03-14.198"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+INFORMATION TECHNOLOGY DEPARTMENT
+NOTIFICATION
+The 14th March, 2023
+No.E 268447.- In pursuance of the provision of the “Indian Right of Way Rules,
+2016 as amended from time to time (in 2017, 2021 and 2022)” and in supersession of
+earlier orders and guidelines of this department, the Governor of Assam is hereby pleased
+to make the “Guidelines for granting Right of Way (RoW) to Telecommunication
+Infrastructure in Assam, 2023” to bring uniformity, clarity and simplicity for the matter
+related to Telecommunication infrastructure across the state of Assam, which has received
+the assent of the Assam Cabinet on 22nd February, 2023 and is hereby published for
+general information.
+
+2906 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2907
+
+2908 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2909
+
+2910 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2911
+
+2912 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2913
+
+2914 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2915
+
+2916 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2917
+
+2918 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+. .
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2919
+. .
+
+2920 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+SYEDAIN ABBASI,
+Additional Chief Secretary to the Government of Assam,
+Information Technology Department.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2921
+
+2922 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2923
+
+2924 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2925
+
+2926 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2927
+
+2928 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2929
+
+2930 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2931
+
+2932 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2933
+
+2934 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2935
+
+2936 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2937
+
+2938 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2939
+
+2940 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2941
+
+2942 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 26, 2023 2943
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 395 - 10 + 10 - 26 - 04 - 2023. (visit at– dpns.assam.gov.in)
