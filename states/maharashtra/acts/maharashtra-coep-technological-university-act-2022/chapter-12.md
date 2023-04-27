@@ -1,0 +1,3 @@
+# Chapter XII
+
+TRANSITORY PROVISIONS Act, 2022
