@@ -1,0 +1,71 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "270"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 270 APC-Judgement WP(C) 3822-2017-55-2018-1651 Dated 15-06-23"
+published: "2023-06-15"
+in_force: "2023-06-15"
+in_force_evidence: "published in the Gazette 2023-06-15; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._270_apc-judgement_wpc_3822-2017-55-2018-1651_dated_15-06-23.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2023-06-15.270"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+DEPARTMENT OF HEALTH
+OFFICE OF THE ASSAM PHARMACY COUNCIL
+NOTIFICATION
+The 15th June, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3402
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3403
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3404
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3405
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3406
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3407
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3408
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3409
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3410
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3411
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3412
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3413
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3414
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3415
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3416
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3417
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3418
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3419
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3420
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3421
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3422
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2023 3423
+JAGADISH MISHRA,
+Registrar cum Secretary,
+Assam Pharmacy Council,
+Hengrabari, Guwahati-781036.
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 539 - 10 + 50 - 16 - 06 - 2023. (visit at– dpns.assam.gov.in)
