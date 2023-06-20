@@ -1,0 +1,322 @@
+---
+kind: "gazette-notification"
+gazette: "Ladakh Gazette"
+issuer: "Administration of Ladakh"
+subject: "The Commission Notification No 56 2022 PPS II dated 15th May 2023"
+published: "2023-06-20"
+in_force: "2023-06-20"
+in_force_evidence: "published in the Gazette 2023-06-20; no other commencement day stated"
+official_text: "https://egazette.ladakh.gov.in/WriteReadData/2023/1205.pdf"
+mirror: "https://archive.org/details/in.gazette.ladakh.2023-06-20.1205"
+language: "English text only"
+---
+
+GOVERNMENT OF INDIA
+
+SG-LD-E-20062023-1205
+EXTRAORDINARY
+PUBLISHED BY AUTHORITY
+LADAKH, WEDNESDAY, JUNE, 07, 2023
+
+Part II-Section 2
+
+ADMINISTRATION OF UNION TERRITORY OF LADAKH
+, -II, 3,
+(iii)
+. 56/2023/-II ()
+
+, . 56/2019/-III, 23 , 2021, -
+
+LADAKH GAZETTE : EXTRAORDINARY 2
+
+, -II, -3, - (iii) . 56/2019/-III,
+
+LADAKH GAZETTE : EXTRAORDINARY 3
+
+LADAKH GAZETTE : EXTRAORDINARY 4
+
+LADAKH GAZETTE : EXTRAORDINARY 5
+
+LADAKH GAZETTE : EXTRAORDINARY 6
+
+LADAKH GAZETTE : EXTRAORDINARY 7
+
+LADAKH GAZETTE : EXTRAORDINARY 8
+
+TO BE PUBLISHED IN THE
+GAZETTE OF INDIA
+EXTRAORDINARY, PART II, SECTION 3,
+SUB-SECTION (iii) IMMEDIATELY
+
+ELECTION COMMISSION OF INDIA
+
+Nirvachan Sadan,
+Ashoka Road,
+New Delhi – 110001
+No.56/2023/PPS-II (FS)
+
+Dated : 15th May, 2023
+25 Vaisakha, 1945 (Saka)
+
+NOTIFICATION
+
+WHEREAS, the Election Commission of India has decided to update its Notification No.56/2019/PPS-
+III, dated 23rd September, 2021, as amended from time to time, specifying the names of recognized National and
+State Parties and the list of free symbols, issued in pursuance of paragraph 17 of the Election Symbols (Reservation
+and Allotment) Order, 1968;
+
+NOW, THEREFORE, in pursuance of paragraph 17 of the Election Symbols (Reservation and
+Allotment) Order, 1968, and in supersession of its aforesaid notification No.56/2019/PPS-III, dated 23rd September,
+2021, as amended from time to time, published in the Gazette of India, Extra-Ordinary, Part-II, Section-3, Sub-
+Section (iii), the Election Commission of India hereby specifies the list of free symbols as per the table appended
+below:-
+TABLE-III
+LIST OF FREE SYMBOLS
+
+1. Air Conditioner
+2. Almirah
+3. Apple
+(In all States and Union Territories except in the States of Arunachal Pradesh, Assam, Manipur,
+Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Puducherry, Tamil Nadu, Kerala & Karnataka)
+4. Auto- Rickshaw
+(In all States and Union Territories except in the States of Andhra Pradesh and Telangana)
+5. Baby Walker
+6. Balloon
+7. Bangles
+8. Basket containing Fruits
+(In all States and Union Territories except in the State of Tamil Nadu)
+9. Bat
+
+LADAKH GAZETTE : EXTRAORDINARY 9
+
+10. Batsman
+11. Battery Torch
+12. Bead Necklace
+13. Belt
+14. Bench
+15. Bicycle Pump
+16. Binoculars
+17. Biscuit
+18. Black Board
+19. Boat with Man and Sail
+20. Box
+21. Bread
+22. Bread Toaster
+23. Bricks
+24. Brief Case
+25. Brush
+26. Bucket
+27. Cake
+28. Calculator
+29. Camera
+30. Can
+31. Capsicum
+32. Carpet
+33. Carrom Board
+34. Cauliflower
+35. CCTV Camera
+36. Chain
+37. Chakki
+38. Chapati Roller
+39. Chappals
+40. Chess Board
+41. Chimney
+42. Clip
+43. Coat
+44. Coconut Farm
+45. Colour Tray & Brush
+46. Computer
+47. Computer Mouse
+
+48. Cot
+(In all States and Union Territories except in the State of Kerala)
+49. Crane
+
+LADAKH GAZETTE : EXTRAORDINARY 10
+
+50. Cube
+51. Cutting Pliers
+52. Diamond
+53. Diesel Pump
+54. Dish Antenna
+55. Dolli
+56. Door Bell
+57. Door Handle
+(In all States and Union Territories except in the States of Uttar Pradesh and Uttarakhand)
+58. Drill Machine
+59. Dumbbells
+60. Dustbin
+61. Ear Rings
+(In all States and Union Territories except in the States of Tamil Nadu, Puducherry, Kerala and
+Karnataka)
+62. Electric Pole
+63. Envelope
+64. Extension Board
+65. Flute
+66. Football
+(In all States and Union Territories except in the States of Arunachal Pradesh, Assam, Manipur,
+Meghalaya, Mizoram, Nagaland, Sikkim and Tripura)”
+67. Football Player
+68. Fountain
+69. Frock
+70. Frying Pan
+71. Funnel
+72. Ganna Kisan
+73. Gas Cylinder
+74. Gas Stove
+75. Gift Pack
+76. Ginger
+77. Glass Tumbler
+78. Gramophone
+79. Grapes
+80. Green Chilli
+81. Hand Cart
+82. Harmonium
+83. Hat
+(In all States and Union Territories except in the States of Andhra Pradesh and Telangana)
+84. Head Phone
+85. Helmet
+86. Hockey and Ball
+87. Hour Glass
+
+LADAKH GAZETTE : EXTRAORDINARY 11
+
+88. Ice Cream
+(In all States and Union Territories except in the State of Tamil Nadu)
+89. Immersion Rod
+90. Iron
+(In all States and Union Territories except in the States of Andhra Pradesh & Telangana)
+91. Jackfruit
+92. Kettle
+(In all States and Union Territories except in the States of Arunachal Pradesh, Assam, Manipur,
+Meghalaya, Mizoram, Nagaland, Sikkim, Tripura and West Bengal)
+93. Kitchen Sink
+94. Lady Finger
+95. Lady Purse
+(In all States and Union Territories except in the States of Arunachal Pradesh, Assam, Manipur,
+Meghalaya, Mizoram, Nagaland, Sikkim, Tripura and West Bengal)”
+96. Laptop
+97. Latch
+98. Letter Box
+99. Lighter
+100. Ludo
+101. Lunch Box
+102. Man Blowing Turha
+103. Matchbox
+104. Mike
+105. Mixee
+106. Nagrik
+107. Nail Cutter
+108. Neck Tie
+109. Noodles Bowl
+110. Pan
+111. Pants
+112. Peanuts
+113. Pears
+(Except in Tamil Nadu and Pudducherry)
+114. Peas
+115. Pen Drive
+116. Pen Nib with Seven Rays
+117. Pen Stand
+118. Pencil Box
+119. Pencil Sharpener
+120. Pendulum
+121. Pestle and Mortar
+122. Petrol Pump
+123. Phone Charger
+124. Pillow
+
+LADAKH GAZETTE : EXTRAORDINARY 12
+
+125. Plastering Trowel
+126. Plate Containing Food
+127. Plate Stand
+128. Pot
+129. Pressure Cooker
+130. Punching Machine
+131. Razor
+132. Refrigerator
+133. Ring
+134. Road Roller
+135. Robot
+136. Room Cooler
+137. Room Heater
+138. Rubber Stamp
+139. Safety Pin
+140. Saw
+(In all States and Union Territories except in the State of Kerala)
+141. School Bag
+142. Scissors
+143. Sewing Machine
+144. Ship
+145. Shoe
+146. Shutter
+147. Sitar
+148. Skipping Rope
+149. Slate
+150. Soap Dish
+151. Socks
+152. Sofa
+153. Spanner
+(In all States and Union Territories except in the States of Bihar and Jharkhand)
+154. Stapler
+155. Stethoscope
+156. Stool
+157. Stumps
+158. Swing
+159. Switchboard
+160. Syringe
+161. T.V. Remote
+162. Table
+163. Tea Filter
+164. Telephone
+
+LADAKH GAZETTE : EXTRAORDINARY 13
+
+165. Television
+166. Tennis Racket & Ball
+167. Tent
+168. Throwing a Javelin
+169. Tiller
+170. Toffees
+171. Tongs
+(In all States and Union Territories except in the States of Bihar and Jharkhand)
+172. Tooth Brush
+173. Tooth Paste
+174. Tray
+175. Triangle
+176. Truck
+(In all States and Union Territories except in the States of Andhra Pradesh & Telangana)
+177. Trumpet
+178. Tube light
+179. Typewriter
+180. Tyres
+181. Vacuum Cleaner
+182. Violin
+183. Walking Stick
+184. Wall Hook
+185. Wallet
+186. Walnut
+187. Water Melon
+188. Water Tank
+189. Well
+190. Wheel Barrow
+191. Whistle
+192. Window
+193. Wool and Needle
+
+(JAYDEB LAHIRI)
+SECRETARY
+ELECTION COMMISSION OF INDIA
+
+YETINDRA
+MADHUSUD MADHUSUDAN
+MARALKAR AN Date: 2023.06.07
+MARALKAR 15:52:24 +05'30'
+“No legal responsibility is accepted for the contents of publication of advertisements/publications in this part of The
+Ladakh Gazette. Persons notifying the advertisements/public notices will remain solely responsible for the legal
+consequences and also for any other misrepresentation etc.”
+AJEET
+by AJEET KUMAR
+KUMAR SAHU
+SAHU 10:27:33 +05'30'
