@@ -1,6 +1,6 @@
 # Section 26A
 
-26A. Power to collect statistics.— (1) The Commissioner may, if he considers that for the purposes of better administration of this Act, it is necessary so to do, he may, by notification in the Official Gazette, direct that statistics be collected relating to any matter dealt with, by or in connection with this Act.
+26A. Power to collect statistics.—(1) The Commissioner may, if he considers that for the purposes of better administration of this Act, it is necessary so to do, he may, by notification in the Official Gazette, direct that statistics be collected relating to any matter dealt with, by or in connection with this Act.
 
 (2) Upon such direction being given, the Commissioner or any officer, authorized by the Commissioner in this behalf, may, by notification in the Official Gazette and if found necessary by notice in any newspaper or in such other manner as in the opinion of the Commissioner or the said officer, is best suited to bring the notice to the attention of persons, call upon all persons to furnish such information or returns, as may be specified therein, relating to any matter in respect of which statistics is to be collected. The form in which the officers to whom, such information or returns should be furnished, the particulars which they should contain and the period specified in the notification, within which such information or returns should be furnished, shall be such as may be specified therein.
 
