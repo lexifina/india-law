@@ -108,6 +108,18 @@
    "supersedes": "none",
    "kind": "redate",
    "written": "2026-11-23"
+  },
+  {
+   "act": "central/acts/jan-vishwas-amendment-of-provisions-act-2023",
+   "misdated": "a7733def69d6f567e154f13408591e7bf615dba1",
+   "recorded_day": "2023-10-03",
+   "in_force": "2023-09-01",
+   "corrects": "2023-09-01..2023-10-02",
+   "evidence": "S.O.3844(E) of 2023-08-29 (commencement notification, Gazette Id CG-DL-E-31082023-248431) and S.O.3858(E) of 2023-09-01 (CG-DL-E-01092023-248488): appoint 2023-09-01 for serial numbers 1 and 11 of the Schedule",
+   "reason": "misdated: dated by S.O.4298(E) of 2023-10-03, a later stage (serial number 29); the Act first came into force on 2023-09-01 (S.O.3844(E), S.O.3858(E))",
+   "supersedes": "none",
+   "kind": "redate",
+   "written": "2026-11-23"
   }
  ]
 }
