@@ -1,0 +1,74 @@
+---
+title: "Circular - Filing of CIRP Forms for the purpose of monitoring corporate insolvency resolution processes and performance of insolvency professional entities under the Insolvency and Bankruptcy Code, 2016 and the regulations made thereunder."
+kind: "circular"
+number: "IBBI/CIRP/60/2023"
+issued: "2023-09-01"
+in_force: "2023-09-01"
+issuer: "Insolvency and Bankruptcy Board of India"
+source_url: "https://ibbi.gov.in/legal-framework/circulars?page=3"
+official_text: "https://ibbi.gov.in/uploads/legalframwork/7fa9e4a4ee918732b6287d43dd064fe6.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Circular - Filing of CIRP Forms for the purpose of monitoring corporate insolvency resolution processes and performance of insolvency professional entities under the Insolvency and Bankruptcy Code, 2016 and the regulations made thereunder.
+
+Insolvency and Bankruptcy Board of India
+7th Floor, Mayur Bhawan, Connaught Place, New Delhi - 110001
+
+                       CIRCULAR
+
+No. IBBI/CIRP/60/2023            1st September, 2023
+
+To
+All Registered Insolvency Professionals
+All Recognised Insolvency Professional Entities
+All Registered Insolvency Professional Agencies
+(By mail to registered email addresses and on website of the IBBI).
+
+Dear Madam / Sir,
+
+Subject: Filing of CIRP Forms for the purpose of monitoring corporate insolvency
+resolution processes and performance of insolvency professional entities under the
+Insolvency and Bankruptcy Code, 2016 and the regulations made thereunder.
+
+Regulation 40B of the IBBI (Insolvency Resolution Process for Corporate Persons)
+Regulations, 2016 (CIRP Regulations) read with Circular no. IBBI/CIRP/023/2019 dated
+14th August 2019, Circular no. IBBI/CIRP/41/2021 dated 18th March 2021 and Circular no.
+IBBI/CIRP/42/2021 dated 20th July, 2021 (collectively referred as ‘Circulars’) facilitate
+submission of records and information by the insolvency professionals (IPs) to the Insolvency
+and Bankruptcy Board of India (IBBI) for monitoring of the processes and performance of IPs
+on the electronic platform hosted on the website of the IBBI at www.ibbi.gov.in.
+
+2. The IBBI notified the IBBI (Insolvency Professionals) (Fourth Amendment) Regulations,
+2022 on 28th September, 2022. The amended Regulations allowed the insolvency professional
+entities (IPEs) to get enrolled, registered and act as IPs for conducting the insolvency processes
+under the Insolvency and Bankruptcy Code, 2016 (Code).
+
+3. The facility for submitting the corporate insolvency resolution process forms (CIRP Forms)
+as per aforesaid circulars was not made available to the IPEs acting as IPs and hence, these
+IPEs were unable to submit the relevant CIRP Forms on the website of the IBBI for the
+processes/ assignments handled by them.
+
+4. In view of the above, the said facility for submitting the CIRP Forms has been now extended
+to IPEs acting as IPs also. These IPEs shall access the said platform with the help of a unique
+username and password provided by the IBBI and authorise an IP handling the process to
+upload/ submit the CIRP Forms. Thereafter, the authorised IP shall submit the CIRP Forms
+along with relevant information and records through his username and password as provided
+to him in capacity of individual IP.
+
+5. To facilitate submission of forms for all assignments handled by these IPEs through the
+facility being introduced now, CIRP forms filed till 30th September, 2023 shall not attract any
+fee as provided under regulation 40B of the CIRP Regulations. Thereafter, it shall attract fee
+as specified in sub-regulation (4) of regulation 40B of the CIRP Regulations. The contents of
+the aforesaid Circulars shall apply to all the assignments handled by the IPEs acting as IPs.
+
+6. This is issued in exercise of the powers under clauses (aa), (g), (h), (k), (n), (p) and (r) of
+sub-section (1) of section 196 read with sections 31(3)(b) and 208(2)(d) of the Code and
+regulation 40B of the CIRP Regulations.
+
+                                                                                             Yours faithfully,
+
+                                                                                                            Sd/-
+                                                                                      (Sushanta Kumar Das)
+                                                                                   Deputy General Manager
+                                                                         Email: das.sushanta@ibbi.gov.in
