@@ -1,0 +1,173 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "181"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 181 ECF No. 230625 Dated 19-10-23"
+published: "2023-10-19"
+in_force: "2023-10-19"
+in_force_evidence: "published in the Gazette 2023-10-19; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._181_ecf_no._230625_dated_19-10-23_compressed.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2023-10-19.181"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+DEPARTMENT OF HOUSING AND URBAN AFFAIRS
+NOTIFICATION
+The 19th October, 2023
+ECF No. 230625.- In exercise of the powers conferred by the section 9 (nine) of the Assam
+Town & Country Planning Act. l959 (Assam Act. II of 1960) read with Sub-section 1 of section 10 (Ten)
+of Assam Town and Country Planning (As amended), the Governor of Assam is pleased to publish the
+following notice regarding the publication of Draft Master plan for Greater Kharupetia Area.
+NOTICE FOR THE PUBLICATION OF DRAFT MASTER PLAN FOR GREATER KHARUPETIA AREA
+1. It is notified that the Draft Master plan for Geater Kharupetia Area prepared by the Directorate
+of Town & Country Planning, Government of Assam, Town & Country Planning Act. 1959
+read with Sub-section 1 of section 10 (Ten) of Assam Town & Country Planning Act (As
+amended), for the area described in the schedule below is hereby published.
+2. Any person or persons affected by the Draft Master plan may submit their objection or
+opinion in writing to the Director, Town & Country Planning, Government of Assam, Dispur,
+Guwahati-6 within two months from the date of publication.
+3. The Draft Master plan for Greater Kharupetia Area with all relevant papers and maps may
+be inspected free of Cost during office hours at the Office of the Director, Town & Country
+Planning, Government of Assam, Dispur, Guwahati-6, Office of the Deputy Director, Town
+& Country Planning, District Office- Mangaldai, the Circle office, Dalgaon Revenue Circle,
+Dalgaon, Office of the Chairman, Kharupetia Municipal Board, Kharupetia, Copies of the
+draft master plan for Greater Kharupetia Area are available at the Office of the Deputy
+Director, Town & Country Planning, Mangaldai on payment.
+
+2836 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2837
+
+2838 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+KAVITHA PADMANABHAN,
+Commissioner & Secretary to the Government of Assam,
+Department of Housing and Urban Affairs,
+Dispur, Guwahati-6
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2839
+
+2840 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2841
+
+2842 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2843
+
+2844 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2845
+
+2846 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2847
+
+2848 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2849
+
+2850 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2851
+
+2852 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2853
+
+2854 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2855
+
+2856 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2857
+
+2858 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2859
+
+2860 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2861
+
+2862 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2863
+
+2864 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2865
+
+2866 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2867
+
+2868 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2869
+
+2870 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2871
+
+2872 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2873
+
+2874 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2875
+
+2876 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2877
+
+2878 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2879
+
+2880 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2881
+
+2882 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2883
+
+2884 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2885
+
+2886 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2887
+
+2888 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2889
+
+2890 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2891
+
+2892 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2893
+
+2894 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2895
+
+2896 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2897
+
+2898 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 3, 2024 2899
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 361 - 50 + 10 - 3 - 04 - 2024. (visit at– dpns.assam.gov.in)
