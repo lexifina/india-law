@@ -1,0 +1,1334 @@
+---
+kind: "gazette-notification"
+gazette: "Jharkhand Gazette"
+gazette_number: "617"
+gazette_type: "Extra Ordinary"
+issuer: "Government of Jharkhand"
+published: "2023-10-30"
+in_force: "2023-10-30"
+in_force_evidence: "text: \"shall come into force from the date of publication in the Official Gazette. \"; published in the Gazette 2023-10-30"
+mirror: "https://archive.org/details/in.gazette.jharkhand.2023-10-30.617"
+language: "English text only"
+---
+
+Mass Communication , , 0
+
+Mass Communication, , ,
+
+4. ( OBC-NCL
+OBC-NCL
+
+12Appearing,
+
+Communication, , , 00
+
+vi
+a ,
+b ,
+c
+d
+e
+f ,
+g State level Banking committee
+One expert from DBT field(Manager or above) Preferably from the Disbursing
+Bank
+h ,
+I
+
+State Level Banking Committee
+
+( (Mass Communication)
+500 250.00
+II.
+
+o
+o
+
+Annexure-1
+
+Department of Higher and Technical Education Government
+of Jharkhand
+
+DETAILED GUIDELINES FOR
+IMPLEMENTATION
+OF MUKHYAMANTRI SHIKSHA
+PROTSAHAN YOJNA
+
+Table of Contents
+Detailed Guidelines of Mukhyamantri Shiksha Protsahan Yojna ........................................................ 2
+1. Short title and Commencement .................................................................................................... 2
+2. Definitions .................................................................................................................................... 2
+3. Minimum Eligibility Criteria ....................................................................................................... 3
+4. Reservation................................................................................................................................... 3
+5. Components of the Scheme .......................................................................................................... 3
+6. Shortlisting of Students ................................................................................................................ 4
+7. Selection of Students .................................................................................................................... 5
+8. Development of Web Portal ......................................................................................................... 6
+9. Disbursement of Subsequent Installments of Fees and Monthly Assistance to Students .............. 7
+10. Functional scope of Stakeholders in the web-portal ................................................................. 7
+(a) Student .................................................................................................................................. 7
+(b) DHTE ................................................................................................................................... 7
+(c) Coaching Institute ................................................................................................................ 8
+(d) Disbursing Bank ................................................................................................................... 8
+(e) Project Monitoring Unit (P.M.U) ......................................................................................... 8
+11. Financial Implications of the Scheme ...................................................................................... 9
+12. Constitution of High Level Committee .................................................................................. 10
+13. High Power Monitoring Committee ....................................................................................... 11
+14. Selection and Empanelment of Coaching Institutes ............................................................... 12
+(a) Pre-Qualification Criteria ................................................................................................... 12
+(b) Selection Criteria ................................................................................................................ 13
+15. Maximum Number of Coaching Institutes ............................................................................. 16
+16. Period of Empanelment .......................................................................................................... 16
+17. Period of Course ..................................................................................................................... 16
+18. Execution of Rate Contract .................................................................................................... 16
+19. Composition of Class/Section/Batch ...................................................................................... 17
+20. Yearly Review ........................................................................................................................ 17
+21. Internal Monitoring System.................................................................................................... 18
+22. Concurrent Audits .................................................................................................................. 18
+23. Settlement of Legal Disputes ................................................................................................. 18
+24. Awareness and Outreach Programs for the Scheme ............................................................... 18
+25. Schedule 1: Specimen of the Bond to be submitted by the student ........................................ 20
+26. Schedule 2: Draft of the Agreement between DHTE and Disbursing Bank ........................... 21
+27. Schedule 3: Draft of Rate Contract between DHTE and Coaching Institute .......................... 26
+
+Detailed Guidelines of Mukhyamantri
+Shiksha Protsahan Yojna
+To enhance education and employment opportunities available to the youth of
+Jharkhand, the State Government is launching the Mukhyamantri Shiksha
+Protsahan Yojna. The scheme will provide free of cost coaching to students for
+preparation for entrance exams to the country’s foremost medical, engineering, and
+other such higher education institutes and a basic monthly pay out of Rs 2500 as
+living expenses for duration of coaching. The Government of Jharkhand aims to
+benefit an estimated 8000 students from the scheme every year.
+THE SCHEME
+1. Short title and Commencement
+
+a. This scheme shall be called as the Mukhyamantri Shiksha Protsahan Yojna.
+b. It shall come into force from the date of publication in the Official Gazette.
+2. Definitions
+
+Unless the context otherwise requires, the following terms shall have the
+meaning assigned against each of them under this scheme as follows: –
+a. “Board” means any board of education recognised under any act of the State or
+Union Territory or Central Government.
+b. "Coaching Institute" means a company registered in India under the Companies
+Act 1956, a partnership registered under the India Partnership Act 1932, a limited
+liability partnership firm registered under the Societies Registration Act, a trust
+registered under the Indian Trust Act 1882, or any other relevant act of the State
+or Union Territory.
+c. “Disbursing Bank” means a scheduled commercial bank nominated by
+Department of Higher and Technical Education.
+d. “DHTE” means the Department of Higher and Technical Education, Government of
+Jharkhand.
+e. “MeitY” means Ministry of Electronics and Information Technology, Government
+of India
+f. “Presence” means having permanent infrastructure (building) either owned,
+leased, or rented with minimum built-up area of 1800 sq. ft. with at least 1200 sq.
+ft. allocated for lecture halls or classroom in each geographical location.
+g. “Scheme” means the Mukhyamantri Shiksha Protsahan Yojna.
+h. “School” means school providing secondary and higher secondary education and
+includes private schools under the administrative control of the boards/ councils
+active in the State of Jharkhand.
+i. “State Government” means the Government of Jharkhand.
+j. “Web Portal” means the Eklavya Prashikshan Yojna Portal and Mobile App to be
+developed and maintained by disbursing bank and hosted on State Data Centre of
+
+Jharkhand or any MeitY empanelled Cloud Service Provider.
+
+3. Minimum Eligibility Criteria
+
+The minimum eligibility criteria for students applying to the scheme is as follows: -
+a. The student should have passed Class 10th from any recognized school in the
+State of Jharkhand
+OR
+The student should possess a local residence certificate of Jharkhand.
+
+b. The student must fulfil the eligibility criteria of the examination for which he/she
+has applied for coaching under this scheme. In case of examinations having
+academic eligibility criteria as Class 12th passed or appearing, students studying in
+Class 11th at the time of application shall also be eligible to apply.
+
+c. The student should submit valid income certificate with annual family income less
+than Rs 8,00,000 (Rupees Eight lakh Only) issued by Sub-Divisional Officer / Circle
+Officer. This annual family income limit shall be automatically revised as per revision
+in the annual family income limit for OBC-NCL (Non-Creamy Layer) as notified by
+Department of Personnel and Training, Government of India from time to time.
+OR
+The student should be covered under the National/State Food Security
+Scheme. The student shall submit a self-attested copy of the ration card as
+proof of being covered under National/State Food Security Scheme.
+
+d. Beneficiaries of similar schemes of any other department (Ex: - ST, SC, Minority and
+Backward Class Welfare Department resolution no. 3604 dated 30.10.2019 and
+School Education and Literacy Department resolution no. 948 dated 07.04.2022)
+shall not be eligible for dual benefit under this scheme. The student can avail the
+benefit only once under this scheme.
+
+4. Reservation
+
+The selection process will strictly adhere to the state’s reservation policy
+notified by the Personnel, Administrative Reforms and Rajbhasha Department,
+Government of Jharkhand as modified from time to time.
+
+5. Components of the Scheme
+
+The Mukhyamantri Shiksha Protsahan Yojna shall have the following components: -
+a. Free Coaching Facility to the selected students
+Free of cost coaching facility in reputed coaching institutes will be provided
+to the students selected under this scheme for preparation of entrance exams
+
+to country’s foremost medical, engineering, and other such higher education
+institutes.
+
+b. Monthly Assistance to Students
+An assistance amount of Rs 2500 per month will be paid to the selected
+students studying in coaching institutes under the scheme during the period
+of coaching.
+6. Shortlisting of Students
+
+a. The student shall register on the web portal by providing basic details like mobile
+no. and email id etc.
+b. The student submits the application by providing details and uploading the
+required documents like Class 10th Examination certificate, income certificate,
+required undertaking etc.
+c. The shortlisting of students under the scheme shall be done based on the
+percentage of marks obtained in Class 10th Examination.
+d. A board wise list of students shall be prepared in decreasing order of their marks
+obtained in Class 10th examination. In case of a tie, the student with higher age
+i.e., the older student shall be placed higher. In case the tied students have
+same date of birth i.e., same age, then the student with lower family income as
+per the income certificate issued shall be placed higher on the list.
+e. The total number of seats available to each board, under each course of study,
+shall be calculated in proportion to the total number of applications received
+from each board.
+f. From the board wise list, students up to 1.5 times of the number of seats available
+to each board shall be shortlisted for verification of candidature by the DHTE.
+g. After verification of candidature by the DHTE, the candidate shall be added into
+the panel of eligible students for the individual course.
+h. In case the student fails the verification, the application of the student shall be
+rejected and the next student in the board wise list of students shall be included
+in the shortlist for verification of candidature by DHTE.
+i. A course wise panel of students up to 1.5 times of the total number of seats
+available for a course shall be prepared by the DHTE and uploaded for
+approval by the High Level Committee.
+j. The High-level committee shall approve this panel and publish the panel for wide
+circulation and notifications shall be sent to each coaching institute and selected
+student on the web portal.
+k. This course wise panel shall be valid for 02 years from the date of its publication
+by the High-level committee.
+l. The panel shall be prepared in accordance with the reservation policy of State of
+Jharkhand considering each course as a unit.
+m. The inclusion of the student in the panel does not in any way guarantees his/her
+selection under the scheme.
+n. If the student has requisite qualification for applying into multiple courses, he/she
+may do so, subject to condition that, if selected by the empanelled coaching
+institute, the State Government shall be liable to pay the coaching fees for only
+one (1) course of study.
+
+Sample Illustration: -
+Assume the total number of approved beneficiaries for a course be
+1000. Assume total no. of applications received for the course be
+10000.
+Assume board wise break up of applicants be 6000 from JAC, 2000 from ICSE and
+2000 from CBSE.
+Hence the percentage share of total received applications shall be 60% from JAC
+and 20% for CBSE and ICSE each.
+So, the total number of beneficiaries for the course shall be divided among
+boards in proportion of their number of applications.
+Hence the number of beneficiaries shall be 600 from JAC and 200 each from ICSE
+ad CBSE.
+Hence a panel for 1.5 times of the total no. of beneficiaries/slots available i.e.
+1500 students shall be prepared.
+The panel shall contain 900, 300 and 300 beneficiaries from JAC, CBSE and ICSE
+Boards.
+These respective no. of beneficiaries shall be shortlisted based on their marks in
+Class 10th Examination.
+7. Selection of Students
+
+a. After publication of the panel, the student shall seek admission in the coaching
+institute of his/her choice.
+b. The web portal shall start receiving applications of students who have secured
+admission in the coaching institute 01 (one) day after the publication of the panel
+or as determine by the High-level committee.
+c. The student shall select the name of the institute under which he/she has secured
+admission, upload the details of his/her bank account and submit the application
+for verification by the coaching institute.
+d. The submitted application shall be verified and approved by the empanelled
+coaching institute.
+e. The selection of students against each coaching institute shall be on a first-come-
+first- serve basis, i.e., that the student whose admission has been verified by the
+coaching institute first, shall be selected as a beneficiary under the scheme, till
+the total number of seats allocated to each coaching institute is exhausted for a
+given year.
+f. After approval from coaching institute the student shall upload a bond executed
+on non- judicial stamp paper stating that in case the student takes any action in
+contravention to the provisions of this scheme, he/she shall be liable to refund
+the coaching fees paid by the State Government to the coaching institute.
+g. Post approval by the empanelled coaching institute, the student is mapped to the
+coaching institute on the web portal and the 1st instalment of coaching fees is
+disbursed by the disbursing bank to the empanelled coaching institute.
+h. The monthly assistance is transferred to the student from the immediate next
+month from the date of approval by coaching institute using Aadhaar Payments
+Bridge System (APBS) or any other form of DBT calculated on pro-rata basis.
+i. The payment of subsequent instalments and monthly assistance shall be as per
+Section 8 of the guidelines.
+j. If a student fails to secure admission during the valid period of the panel, the
+selection shall be deemed to have lapsed.
+k. The seats available to each coaching institute shall be filled as per reservation
+policy of State of Jharkhand.
+
+8. Development of Web Portal
+
+The web portal for the Scheme shall be developed and maintained by the
+disbursing bank or by an empanelled/authorised vendor/organisation on behalf
+of the disbursing bank. The disbursing bank shall be responsible for proper
+functioning of the web portal and conduct regular security audits of the portal
+by CERT-IN or SQTC certified labs as per the regulatory requirements. The
+web portal shall also adhere to the latest Guidelines for Indian Government
+Websites (GIGW) as modified from time to time. A Memorandum of
+Understanding/ Agreement in this regard shall be signed between the DHTE
+and the disbursing bank in this regard.
+
+The graphical representation of the entire process is as follows: -
+
+Student enters the details
+The student selects the
+and uploads all documents
+Student registers on the course of study applying
+stated in the web portal
+web portal by for coaching under the
+for verification of
+submission of personal scheme and submits
+candidature
+details the application
+
+Student secures The High Level Committee The DHTE prepares a
+admission in the approves the course wise course wise panel of
+empaneled coaching panel of students students on the basis
+institute of their Class 10th
+marks
+
+Student selects the name
+The coaching institute The web portal opens for
+of the institute, period of
+verification of students verifies and approves
+coaching and submits it
+the student’s admission by coaching institute.
+for approval by the
+institute
+
+Monthly attendance sheet Student bank account is Student is mapped to the
+is uploaded in the portal for seeded in the web portal coaching institute and the
+disbursement of and monthly assistance 1st installment of
+subsequent installments of amount is transferred coaching fees is paid as
+
+fees and monthly from the immediate next per the rate contract
+assistance month
+
+9. Disbursement of Subsequent Installments of Fees and
+Monthly Assistance to Students
+
+(a) The coaching institute shall submit the biometric attendance/any other
+verifiable form of attendance for each student mapped under them every
+month.
+(b) It shall be compulsory for the students to have minimum 75% attendance for
+the entire duration of the course.
+(c) PMU shall scrutinize the attendance sheets uploaded by the institute and
+identify students who have failed to secure the required attendance.
+(d) In case the student has less than 75% attendance for a month, the monthly
+assistance for the specific month shall not to disbursed to the student.
+(e) In case the student has less than 75% attendance for any three (3) months
+within the period of study, the student shall submit a written explanation to the
+High Level Committee stating the cause for such an absence on the web portal.
+(f) The High Level Committee shall decide whether the explanation is satisfactory,
+if not satisfied the High level Committee shall invoke the bond signed
+between the student and department and direct the student to deposit the
+entire cost of his/her coaching in the designated bank account of this scheme
+with the disbursing bank within the stipulated time and upload a proof of
+payment on the web portal.
+(g) In case the student withdraws or does not attend classes in the allocated
+coaching institute, no subsequent disbursements of fees shall be made to the
+coaching institute.
+
+10.Functional scope of Stakeholders in the web-portal
+
+(a) Student
+(i) The student shall have access to his individual dashboard on the web-based
+portal containing information about application status, shortlisting for
+verification, selection in the course wise panel, monthly attendance sheet
+uploaded by coaching institute, periodic fee payment to coaching institute and
+monthly assistance amount paid by DHTE, and feedback submission at the
+end of the course.
+(ii) The student shall submit their bank account details on the web-portal for
+disbursement of monthly assistance.
+(iii) The students shall submit the details of selection in the empanelled coaching
+institute like name of the institute and period of coaching.
+(iv) The student shall be able to raise query/tickets to seek clarification on any
+payment/attendance discrepancy/any other query.
+(v) The student shall receive regular notifications via SMS/Email for periodic fee
+payments by DHTE, computerized attendance sheet upload by coaching
+institute and payment of monthly assistance by DHTE.
+(vi) The student shall be able to submit explanation for prolonged absence from
+coaching institute when directed by the from the High Level Committee.
+
+(b) DHTE
+(i) The DHTE shall appoint designated Nodal Officer/s for accessing the web-
+based portal at the Department Level.
+(ii) The DHTE shall have access to its dashboard on the web-based portal
+containing information like coaching institute allotted for each student,
+monthly attendance sheet uploaded by the coaching institute, periodic fee
+payment details to the coaching institute, monthly assistance amount details
+paid to students etc.
+(iii) The DHTE shall approve and upload the course wise panel of students.
+(iv) The DHTE shall upload annual performance reports and concurrent audit
+reports of coaching institutes.
+(v) The DHTE shall approve the disbursement of subsequent instalments of
+fees to coaching institutes and monthly assistance to the selected students.
+(vi) The DHTE shall initiate the recovery of coaching fees from students who
+fail to maintain requisite the level of attendance.
+(c) Coaching Institute
+(i) The coaching institute shall have access to its dashboard on the web-based
+portal containing information like details of the students admitted to the
+coaching institute, fee payment for each student by DHTE.
+(ii) The coaching institutes shall verify the eligibility of student and approve or
+reject the application.
+(iii) The coaching institute shall upload biometric attendance sheets/any other
+verifiable form of attendance for each admitted student every month.
+(iv) The coaching institute shall upload final course wise selection details of each
+student annually.
+(d) Disbursing Bank
+(i) The disbursing bank shall appoint designated officer/s for accessing the web-
+based portal.
+(ii) The disbursing bank shall develop and maintain the web-portal to its full
+functionality.
+(iii) The disbursing bank shall ensure periodic payment of coaching institute fee
+as per the payment schedule provided by the coaching institute.
+(iv) The disbursing bank shall ensure timely payment of monthly assistance to
+selected students.
+(v) The disbursing Bank shall supply any form of financial information as and
+when required by the High Level Committee.
+(vi) The disbursing Bank shall ensure the proper functioning of the web
+portal and provide helpdesk support for the students to resolve their
+grievances.
+
+(e)Project Monitoring Unit (P.M.U)
+(i) The PMU shall verify the candidature of the student applied for coaching under
+the scheme.
+(ii) The PMU shall prepare the course wise panel of students for approval by the
+High Level Committee.
+(iii) The PMU shall scrutinize the monthly attendance sheets of students from
+coaching institutes and identify the students who fail to achieve requisite
+attendance level.
+(iv) The PMU shall monitor the financial aspects of the scheme and report any
+discrepancy to the High Level Committee.
+11. Financial Implications of the Scheme
+
+The annual financial implication of the scheme is given below-:
+
+Estimated
+Maximum
+yearly
+Sl. No. Course students to
+expenditure
+be benefited
+(in lakhs)
+1 Engineering@Rs1,50,000 per student 3000 4500
+2 Medical@Rs1,50,000 per student 2000 3000
+3 CLAT (Law)@Rs75,000 per student 1000 750
+4 Mass Communication@Rs50,000 per student 500 250
+Fashion Designing / Fashion
+5 500 250
+Technology@Rs50,000 per student
+6 Hotel Management@Rs50,000 per student 500 250
+7 CA/ICWA@Rs50,000 per student 500 250
+Sub Total (1) 8000 9250
+Monthly assistance amount @Rs 2500 per
+8 8000 2400
+student Sub Total (2)
+Sub Total (1+2) 11650
+Contingency fund 5%
+9 582.50
+Sub Total (3)
+Total (1+2+3) 12232.50
+
+Estimated expenditure for the implementation of the scheme is Rs.1,22,32,50,000/-
+(One Hundred Twenty-Two Crore Thirty-Two Lakh Fifty Thousand) per year
+including contingency fund of 5%. The contingency fund shall be utilized by the
+High Level Committee for expenses relating to the implementation of scheme like
+establishment of PMU, purchase of furniture, IT solutions, publicity of the scheme,
+expenses of concurrent auditor etc.
+*The above estimation in the table is only indicative in
+nature and has been done for budgetary purposes
+only. The actual expenditure estimate will be arrived
+at as per the rate contract with individual coaching
+institutions. However, the overall annual expenditure
+under this scheme shall be within the total allocated
+budget.
+
+12. Constitution of High Level Committee
+a. The DHTE shall constitute a High-level committee to ensure oversight, monitoring,
+and implementation of the scheme. The following will be the members of the
+High-Level Committee: -
+Director, Higher Education, Department of Higher & Technical Education, Chairperson
+Government of Jharkhand
+Director, Technical Education, Department of Higher & Technical Vice-
+Education, Government of Jharkhand Chairperson
+Representative from Department of Finance (Deputy Secretary or above) Member
+Representative from Cabinet Secretariat and Vigilance Department Member
+(Vigilance Section) (Deputy Secretary or above)
+Representative from Department of IT and E-Governance (Deputy Member
+Secretary or above)
+SC/ST Representative from Department of Personnel, Administrative Member
+Reforms and Rajbhasha (Deputy Secretary or above)
+One banking sector officers nominated by SLBC (expert from DBT field) Member
+(Manager or above) preferably from the disbursing bank
+Deputy Director, Higher Education, Department of Higher & Technical Member
+Education, Government of Jharkhand Secretary
+Special Invitees- as directed by Chairperson
+
+The Committee will convene quarterly or as and when directed by the Chairperson
+to monitor progress of the scheme and to deliberate on issues, if any regarding the
+smooth implementation of the Scheme.
+b. The following are the powers and functions of the High-Level Committee: -
+(i) To monitor the overall progress of the scheme.
+(ii) To approve eligibility documents, SoPs (Standard Operating Procedure),
+DCF (Data Capture Formats), Process Flows, Functional Requirements etc.
+for the scheme.
+
+(iii) To approve the course wise panel of students eligible for benefits under
+the scheme.
+(iv) To alter/modify the ratio of students to be shortlisted for course wise slots
+available.
+(v) To approve all drafts of MoUs and Agreements.
+(vi) To empanel concurrent auditors and decide on their period of
+empanelment.
+(vii) To initiate periodic audits of the scheme related finances by the
+empanelled concurrent auditors.
+(viii) To conduct periodic audits of the web portal.
+(ix) To deliberate and prepare annual progress report of the scheme.
+(x) To analyse scheme related finances including the yearly fund required for
+smooth implementation of the scheme.
+(xi) To appoint the financial and disbursement authority as the signatory authority for
+the scheme.
+(xii) To deliberate, approve and procure manpower, technological and hardware
+requirements pertaining to the scheme.
+(xiii) To grant relaxations in the process of empanelment of the coaching institutes with
+proper justifications followed by preparation of final list of empanelled coaching
+institutes.
+(xiv) To determine the number of seats to be allocated to each coaching institute for a
+given course of study.
+(xv) To appropriate the expenditure of the contingency fund within the total fund for
+the scheme.
+(xvi) To analyse and finalize the Annual Performance Reports of coaching institutes.
+(xvii) To create and empower sub-committees for monitoring of the coaching
+institutes.
+(xviii) To provide any information pertaining to the scheme as and when required by the
+High Power Monitoring Committee.
+(xix) To review the list of defaulted students who fail to get requisite attendance as
+prepared the PMU and initiate suitable action against them.
+(xx) To execute rate contract with the coaching institutes selected for empanelment
+after approval by the Government.
+(xxi) To notify/alter/modify the dates for the application window of the web
+portal for receipt of applications every year.
+(xxii) To prepare the final list of coaching institutes after evaluation of their proposals.
+(xxiii) To alter/change/modify the period of empanelment of coaching institute.
+(xxiv) Any other decision related to the smooth implementation and functioning of the
+scheme.
+c. Any decision taken by the High Level Committee shall be in consonance with the decision of
+the State Cabinet.
+13. High Power Monitoring Committee
+
+a. The State Government shall constitute a High-Power Monitoring Committee
+under the Chairpersonship of Development Commissioner, Jharkhand for regular
+monitoring of the progress of the scheme.
+b. The High-Power Committee shall hold the at least 2 (two) review meetings yearly to
+monitor the progress of the schemes.
+c. The High Power Monitoring Committee shall have the following members: -
+
+Development Commissioner, Jharkhand Chairperson
+Addl. Chief Secretary/Principal Secretary/Secretary, Department of Higher and Member
+Technical Education
+
+Addl. Chief Secretary/Principal Secretary/Secretary, Department of Information Member
+Technology & E-Governance
+Addl. Chief Secretary/Principal Secretary/Secretary, Department of School Education Member
+and Literacy
+Addl. Chief Secretary/Principal Secretary/Secretary, Department of Labour, Member
+Employment, Training and Skill Development
+Representative of State Level Banking Committee (not below the rank of Deputy Member
+General Manager)
+Member
+Director, Higher Education, Department of Higher & Technical Education Secretary
+14. Selection and Empanelment of Coaching Institutes
+
+The DHTE through the High-level committee shall prepare the final empanelment list of
+coaching institutes for the scheme. The detailed empanelment process is as follows: -
+The empanelment of coaching institute shall be done through pre-qualification, followed
+by evaluation of Technical Proposals. The empanelment of coaching institute shall be done
+through pre- qualification followed by evaluation of technical proposals.
+The technical proposals shall be submitted in the form of a notarised affidavit stating that the
+institute possess all the pre-qualification criteria and providing supporting documents for
+each criteria.
+Pre-Qualification Criteria (a)
+The indicative list of Pre-Qualification criteria is as below: -
+
+Sl. No. Eligibility Criteria Supporting Documents
+The institute should be a company registered in India under the Copy of the Registration with
+Companies Act 1956 or a partnership registered under the India taxation
+Partnership Act 1932 or Limited Liability Partnership Firm or Department /Certificate of
+1. Societies Registration Act or a trust registered under The Indian incorporation should be
+Trust Act 1882 or any other relevant/act of the State/UT, should be submitted.
+established for at least 5 years and functional for any 3 years out of
+the last 5 years.
+Detailed layout and building plan
+Institutes should have presence in more than one (1) state of the coaching centre(s)/Rent
+2.
+Agreement/Lease deed as
+applicable.
+Institute should have an average enrolment of 100 students in each Admission Records of students
+3. course it has applied for empanelment for any 3 years taken
+together out of the last 5 years.
+Institute should have an Average Annual Turnover for any 3 years Copy of P&L and balance sheet for
+taken together out of the last 5 years, ending 31st March of the past 3 years and CA certificate for
+4.
+previous financial year of INR 1 Crore in the field of education. the same, mentioning Average
+Turnover from business.
+Institute should have at least 10 full time faculty members on Undertaking could be provided
+payroll. stating the required, on 5.
+company’s letter head and is to
+be notarized.
+6. PAN, GST, PF and ESI Registration is mandatory. Copy of Valid PAN, GST, PF and
+ESI Registration Certificates.
+An affidavit in this regard must be
+In the event of institute submitting any false credentials, the institute submitted on a stamp paper of
+7.
+shall be blacklisted for 5 (five) years. Rs 100/-
+The institute should submit an undertaking (on non-Judicial stamp An affidavit in this regard must be
+paper of Rs. 100/-, duly notarized) that it has neither been boycotted submitted on a stamp paper of
+8. or blacklisted by any Government Institution for running coaching Rs 100/- duly notarized.
+centres.
+
+Institute should have an operational centre in Jharkhand or Relevant document stating
+submit an undertaking to establish centre/s in Jharkhand, if existence of coaching institute in
+9.
+empanelled under this scheme, within a period of 60 days from Jharkhand/ Undertaking for the
+the date of empanelment same on company letter head
+
+Only applications with required information provided on an affidavit and supporting
+documents provided in the order of their serial no. mentioned above shall be considered for
+evaluation. The High- level committee may alter/change/modify the pre-qualification criteria
+for CA-CPT only under the Scheme and shall provide proper justification for any such
+alteration/change/modification.
+(b) Selection Criteria
+Technical Proposal (100 marks)
+The technical proposals shall be evaluated based on graded marking scheme as
+provided below. The graded marking scheme has been clubbed together for
+courses based on the nature of examination, student appearing in the entrance
+examinations and no. of seats available in premier institutes.
+(i) Engineering & Medical
+
+Average Students Enrolled in the course applied for (20 marks)
+No. of Students Score
+100 1
+One (1) additional mark for each additional
+101-1999
+100 Students. (Maximum 19)
+>=2000 20
+
+Number of Full Time Faculty Members on Payroll (20 marks)
+No. of Faculty Members Score
+10 2
+One (1) additional mark for each additional 5
+11-99
+full time faculty members. (Maximum 19)
+>=100 20
+
+No. of years in operation (15 marks)
+No. of Years Score
+3-4 5
+5-7 10
+>7 15
+No. of States where institute’s Centres are operational (15
+marks)
+No. of States Score
+2-4 5
+5-7 10
+>7 15
+
+Average Turnover over last three financial years (15 marks)
+Turnover (Cr.) Score
+1-3 1
+
+One (1) additional mark for each Rs 3 Crore
+3.01-44.99
+increase in Turnover. (Maximum 14)
+>=45 15
+
+Total Built Up Area of All Existing Centres (15 marks)
+Area in Sq. Ft. Score
+1800-5400 5
+5401-10800 10
+>10800 15
+(ii) CLAT& Mass. Comm. & CA-CPT
+
+Average Students Enrolled in the course applied for (20
+marks)
+
+No. of Students Score
+100 4
+101-499 One (1) additional mark for each
+additional 25 Students. (Maximum 19)
+>=500 20
+
+Number of Full Time Faculty Members on Payroll (20 marks)
+
+No. of Faculty Members Score
+10 10
+11-29 One (1) additional mark for each 2
+additional faculty members. (Maximum 19)
+>30 20
+
+No. of years in operation (15 marks)
+
+Years Score
+3-4 5
+5-7 10
+>7 15
+
+No. of States where institute’s Centres are operational (15 marks)
+
+No. of states Score
+1-4 5
+5-7 10
+>7 15
+
+Average Turnover over last three financial years (15 marks)
+
+Turnover Score
+1 1
+1.01-14.99 One (1) additional mark for each increase of
+Rs 1 Crore in Turnover. (Maximum 14)
+>15 15
+
+Total Built Up Area of All Existing Centres (15 marks)
+
+Area in Sq. Ft. Score
+1800-3600 5
+3601-5400 10
+>5400 15
+(iii) Fashion Designing & Hotel Management
+
+Average Student Enrolled for the course applied for (20 marks)
+
+No. of Students Score
+100 5
+101-399 One (1) additional mark for each
+additional 20 Students. (Maximum 19)
+>=400 20
+
+Number of Full Time Faculty Members on Payroll (20 marks)
+
+No. of Faculty Members Score
+10 10
+11-19 One (1) additional mark for each
+additional faculty member. (Maximum 19)
+>=20 20
+No. of years in operation (15 marks)
+
+Years Score
+3-4 5
+5-7 10
+>7 15
+
+No. of States where institute’s Centres are operational (15
+marks)
+
+No. of states Score
+2-4 5
+5-7 10
+>7 15
+Average Turnover over last three financial years (15 marks)
+Turnover (Cr.) Score
+1-3 5
+3-5 10
+>5 15
+Total Built Up Area of All Existing Centres (15 marks)
+
+Area in Sq. Ft. Score
+1800-3600 5
+3601-5400 10
+>5400 15
+(c) The High-level committee shall place the course wise list of empaneled coaching
+institutes and their proposed fee structure for approval by the State Government. It
+must also submit proper justification(s) for relaxations provided in the empanelment
+process of coaching institutes, if any.
+
+15. Maximum Number of Coaching Institutes
+
+The maximum number of coaching institutes to be empanelled and the
+maximum number of students to be benefitted for each course of study is as
+follows: -
+
+Sl. No. Course Maximum Maximum
+coaching students to
+institutes to be be benefited
+empanelled
+1. Preparation for entrance exam related 10 3000
+to Engineering
+2. Preparation for entrance exam related to Medical 10 2000
+3. Preparation for entrance exam related to CLAT 5 1000
+4. Preparation for entrance exam related to Mass 5 500
+Communication
+5. Preparation for entrance exam related to 5 500
+Fashion Designing/Fashion technology
+6. Preparation for entrance exam related to Hotel 5
+Management
+7. Preparation for entrance exam related to 5 500
+Total 45 8000
+16. Period of Empanelment
+
+The coaching institutes shall be empanelled for a period 03 years. The High-
+Level Committee can modify the period of empanelment, if the institute fails to
+performsatisfactorily in the annual review or violates any other terms of the rate
+contract. The High Level Committee, in case it deems fit, can extend the
+empanelment period by 01 year.
+
+17 . Period of Course
+
+The period of coaching for all the courses under the scheme shall be a minimum of
+02(two) months and a maximum of 02(two) years.
+18. Execution of Rate Contract
+
+The High Level Committee on receiving approval for empanelment of coaching
+institute shall execute a separate rate contract for the course with each
+empanelled coaching institute. The rate contract shall contain details like the
+period(s) of the course, the fees to be charged by the coaching institute and
+maximum number of students to be allocated each year and the payment
+frequency for each period(s) etc.
+19. Composition of Class/Section/Batch
+
+The coaching institute may allot the students selected under this scheme to any
+class/batch/section as per their existing policy and procedures subject to the
+condition that number of the students selected under this scheme in any
+class/batch/section shall not be more than 50% of the total class/section/batch
+size. The High-level committee may relax this condition for coaching institute
+which do not have their centres/branches in the State of Jharkhand.
+
+20. Yearly Review
+
+The High-Level may conduct yearly review the performance of Coaching
+Institutes. The criteria for review of Institutes may as follows: -
+
+(a) Student Feedback (30%) -:
+Feedback will be collected for each period of empanelment from all students
+admitted to the coaching institute under the Scheme. The feedback of the
+students shall be based on parameters like: -
+(i) Quality of Faculty/Teachers (Maximum Marks 0-20)
+(ii) Quality of Study Material/Test Series/Practice Papers (Maximum Marks 0-20)
+(iii) Quality of Infrastructure/Allied Facilities (Maximum Marks 0-20)
+(iv) Effectiveness and Periodicity of Doubt Clearing Sessions (Maximum Marks 0-20)
+(v) Quality and Ease of Use of Digital Learning Tools (Maximum Marks 0-20)
+
+(b) Success Rate (70%)
+The success rate of each coaching institute shall be calculated based on
+percentage of students securing admissions in Top 100 Institution in the
+category ranks of NIRF Rankings from the total number of students admitted
+under the scheme. The range of such ratio will be from 0 to 100 percent.
+Success Rate Marks (Maximum 100)
+0 0
+1-5 20
+5-10 40
+10-15 60
+15-20 80
+20-25 90
+25-100 100
+
+The final score shall be calculated as weighted summation of (i) and (ii).
+
+Ex -: A coaching institute obtains mark of (10,12,14,16,18) under the respective
+parameters in part (i) i.e., Student Feedback and obtains mark of (60) in part(ii) i.e.,
+Success Rate, then the final score calculations will be as follows -:
+Summation of Feedback Scores (A) = 10+12+14+16+18 =
+70/100 Score obtained from Success Rate Table (B) = 60/100
+Weighted Feedback Score (C) = 0.3*(A) = 21/30
+Weighted Score from Success Rate Table (D) = 0.7*(B) = 42/70
+Final Score obtained by the institute (out of 100) = (C) + (D) = 63
+This final score will be calculated and placed before the committee for each year of
+empanelment. It may be utilized by the High-Level Committee for annual
+performance review of the empanelled coaching institutes.
+
+21. Internal Monitoring System
+
+(a) The High-Level Committee constituted by the DHTE shall be in charge for
+overall monitoring, coordination, and smooth implementation scheme.
+(b) The Project Monitoring Unit (PMU) of professional consultants shall be set up by
+DHTE to assist the High-level Committee in carrying out its mandated activities.
+(c) The Project Monitoring Unit (PMU) shall also provide any information as and
+when required by the High Level Committee.
+(d) A call centre shall be established under the PMU to act as a helpdesk for resolving
+queries of students and coaching institutes regarding the scheme.
+
+22. Concurrent Audits
+
+In the spirit of utmost transparency, concurrent financial audits of the scheme
+must be carried out by the empanelled auditors and detailed reports shall be
+placed before the High-Level Committee. The High-Level Committee shall
+analyse these reports and decide the future course of action.
+23. Settlement of Legal Disputes
+
+All disputes arising out of any provisions in this scheme shall be settled by a
+Court of law in Ranchi, Jharkhand.
+
+24. Awareness and Outreach Programs for the Scheme
+
+As the targeted beneficiaries of this scheme are meritorious students of the state
+from economically weaker sections, a multi-level awareness campaign and
+outreach program shall be conducted by all the stakeholders as well as the entire
+state machinery for ensuring high participation in the scheme. The non-
+exhaustive list of activities to be performed by the stakeholders are as follows: -
+(a) Fixing of Posters and Banners with key highlights of the scheme at all
+schools, colleges, universities, and other Higher Education Institutions of the
+state.
+(b) Fixing of Posters and Banners across all State Government Offices at
+district, subdivision, block, and panchayat level.
+(c) The District Collectors/Divisional Commissioners shall be responsible for
+public outreach and awareness activities of the scheme in their respective
+districts.
+(d) The DHTE shall publish advertisements regarding key highlights of the
+scheme in all leading newspapers of English and Hindi Language.
+(e) The DHTE shall publish advertisements in Cinema Halls/Multiplexes, FM
+Radio Centres, Targeted YouTube channels/geo-fenced locations
+regarding the key highlights of the scheme.
+(f) The DHTE shall request all Hon’ble Member of Legislative Assembly (MLA),
+Member of Parliament (M.P.) of Jharkhand to share key highlights of the
+scheme on their official social media accounts like Twitter, Facebook,
+Instagram, Koo etc.
+(g) The State Government shall affix posters of the scheme on all City Transport
+Buses and other public transport system.
+(h) All empanelled Coaching Institutes shall prominently affix posters and
+banners of the scheme in all their branches/offices/centres of the state.
+(i) All empanelled Coaching Institutes shall make available the link of
+Mukhyamantri Shiksha Protsahan Yojna Portal and soft copy of the
+detailed guidelines of the scheme on their admission section of their
+
+website prominently display it on their website homepage.
+(j) The School Education & Literacy Department shall conduct
+seminars/workshops/lectures by District Education Officers (D.E.O) and
+Block Education Officers (B.E.O) in all schools under their respective
+jurisdictions for spreading awareness about the scheme.
+
+25. Schedule 1: Specimen of the Bond to be submitted by the
+student
+
+Bond to be submitted by students securing admission under the
+Mukhyamantri Shiksha Protsahan Yojna
+
+residing at (full address of the student) aged years hereby state that I have
+secured admission into (name of coaching institute) and am selected for free
+coaching under the Mukhyamantri Shiksha Protsahan Yojna.
+I hereby declare that I shall maintain at least 75% monthly attendance during the
+entire course of study at (name of coaching institute).
+I hereby declare that I shall put forward my explanation in written if I fail to
+maintain at least 75% monthly attendance for any 03(three) months out of my course
+period.
+I hereby declare that the decision taken against me by the High-level committee set
+up by DHTE, in case of my violation of any terms and conditions of the detailed
+guideline shall be acceptable to me.
+I hereby declare that I shall return the entire fees of coaching to the Department of Higher &
+Technical Education in case I fail to maintain 75% attendance monthly attendance for any 3
+months out of my course period and fail to provide satisfactory explanation for my prolonged
+absence, as determined by the High-level committee set up by DHTE
+
+Place:
+
+Date:
+
+Signature
+
+(Name)
+
+(Note: It shall be mandatory to notarize the said bond on a stamp paper of value as determined by
+the Indian Stamp Act, 1899 and submit to the Department of Higher and Technical Education,
+Ranchi, Jharkhand within 30 days of admission into empanelled coaching institute.)
+
+26. Schedule 2: Draft of the Agreement between DHTE and Disbursing
+Bank
+
+AGREEMENT
+This Agreement is made on this …………. day of ………….. month of ………..
+
+In between:
+
+The Director, Higher and Technical Education duly authorized by the Government
+of Jharkhand in the Department of Higher and Technical Education having its office
+at Yojana Bhawan, Nepal House, Doranda, Ranchi-834002 and to be carried out all
+his successors and assignees, IN THE FIRST PART,
+AND
+
+The (Designation of the Person) , Jharkhand, (Name of the
+Bank) (hereinafter referred to as the Disbursing Bank, which
+expression shall unless repugnant to its context, includes its successors and
+assignees) having its office at
+, for and on behalf of the Disbursing Bank and
+all its subsidiary Banks and branches operated in the State of Jharkhand, and duly
+authorized by the Board of Directors of the Disbursing Bank, in THE SECOND
+PART
+NOW THIS INDETURE IS WITNESSETH AS FOLLOWS: -
+
+1. Scope and Extent: -That on and from the date of execution of this Agreement
+THE SECOND PART shall become the Disbursing Bank under the Mukhyamantri
+Shiksha Protsahan Yojna (“Scheme”) as notified and published by the FIRST PART
+in Jharkhand Gazette vide Notification No(s). XXX dated XX. XX. XXXX, No. XXX
+dated XX. XX. XXXX, No. XXX dated XX. XX. XXXX and no. XXXX dated XX. XX. XXXX
+
+2. THE SECOND PART has been selected by THE FIRST PART for placing the fund
+allocated for implementation of the Scheme.
+
+3. THE FIRST PART shall place fund on time to time with THE SECOND PART under
+the Scheme in a designated flexi bank account of the disbursing bank.
+
+4. THE SECOND PART shall pay interest accrued as per the prevailing interest rate of
+THE SECOND PART to THE FIRST PART.
+
+5. Development of Web Portal- The web portal for the Scheme shall be developed
+and maintained by the SECOND PART. The SECOND PART shall also perform the
+following activities under the Scheme: -
+(a) Ensure that it is hosted on the State Data Centre of Jharkhand/MeiTY Cloud
+Service Provider.
+(b) Ensure that web portal adhere to the Guidelines for Indian Government Websites
+
+(GIGW
+- 2018) and is issued a Certified Quality Website (CQW) mark by SQTC,
+MeiTY, Government of India.
+(c) Ensure periodic security audits of the web-portal by CERT-IN or STQC IT LABS
+empanelled auditors from time to time.
+(d) Prepare the Wireframes, Functional Requirement Specifications (FRS),
+Software Requirement Specifications (SRS) and Business Requirement
+Document (BRD) document of the web portal and get the same approved by
+the High-level committee of the FIRST PART.
+(e) Conduct load testing and performance testing of the web portal.
+(f) Establish and operate toll free helpline number(s) for queries regarding the
+scheme or any technical issues raised by stakeholders of the scheme.
+(g) Establish secured data storage facilities for storing all scheme related information.
+(h) make provisions in the portal to access external APIs as and when required
+by the FIRST PART.
+6. THE SECOND PART shall appoint designated officer/s for accessing the web-based portal.
+
+7. THE FIRST PART shall appoint designated Nodal Officer/s for accessing the web-
+based portal at the Department Level.
+
+8. THE FIRST PART shall access the web portal with a view to check KPIs of the
+scheme like No. of applications received, approved, rejected etc, analyse and
+incorporate modifications into its process or policy.
+
+9. Change Management: THE SECOND PART accepts to resolve critical changes
+within hours and non-critical change within……… and ……... hours respectively.
+The categorisation of blocking and non-blocking change shall be done by THE
+FIRST PART.
+
+10. Timeline for Development of Portal: THE SECOND PART accepts to develop the
+portal within ………days from the date of the signing of this agreement.
+
+11. Additional Cost to be charged for development of Web Portal: THE SECOND
+PART accepts to develop and maintain the web portal at no additional cost from
+THE FIRST PART.
+
+12. Bug Resolution: THE SECOND PART accepts to resolve all bugs relation to the
+web portal within a period of hours from the time of reporting of the bug.
+
+13. Interpretation: If any question arises with regard to the interpretation of any of
+the provisions of the Arrangement or of any directions or instructions or
+clarification given in connection therewith, the decision of THE FIRST PART shall
+be final.
+
+14. Supplementary and Additional Provisions: In respect of any matter not
+specifically provided for in this Arrangement, THE FIRST PART through the High-
+level committee may make such supplementary or additional provisions or issue
+such instructions or clarifications as may be necessary.
+
+15. Confidentiality: The term “Confidential Information” for the purpose of this
+clause means any information, including information created by or for the other
+Part, whether written or oral ( which is confirmed in writing by disclosing party
+
+within 15 (fifteen) days of such oral disclosure) , which relates to internal
+controls, computer or data processing programs, algorithms, electronic data
+processing applications, routines, subroutines, techniques or systems, or
+information concerning the business or financial affairs and methods of
+operation or proposed methods of operation, accounts, transactions, proposed
+transactions or security procedures of either Part or any of its affiliates, or any
+client of either Part.
+
+a) Either part shall keep any Confidential Information with the same degree of
+care as it would treat its own confidential information of similar nature,
+which degree of care in no case shall be less than reasonable.
+b) Either part shall use the Confidential Information only for the purposes of
+this Agreement and not for any other purposes.
+c) Either part shall cause all its employees or agents who have been given
+access to the Confidential Information bound by the confidentiality
+obligations of this Agreement.
+d) Nothing in this Article shall prevent a Part from treating confidential
+information as non- confidential, if such information is:
+e) In the possession of, or was known to such Part prior to its receipt, without
+an obligation to maintain its confidentiality;
+f) Becomes generally known to the public without violation of this agreement by such
+Part;
+g) Obtained by such Part from a person
+
+i. Who such Part does not know to have violated, or to have obtained
+such information in violation of any obligation to another person or the
+other Party with respect to such information;
+ii. Who does not require such Party to refrain from disclosing such information;
+iii. Who has the right to disclose it, without the obligation to keep such
+information confidential.
+h) Independently developed by such Part without the use of confidential
+Information and without the participation of individuals who have had
+access to confidential information.
+i) Is required to be disclosed by such Party under the compulsion of law, or by
+order of any court or government or regulatory body to whose supervisory
+authority the receiving part is subject.
+
+16. Indemnification: Subject to final judicial determination, THE SECOND PART
+hereby agrees to indemnify and hold harmless & undertakes to defend THE
+FIRST PART, and their respective, officers and directors, to the extent of ,
+against any claim made by a
+third party for infringement of such third party’s copyright by any deliverable of
+the web portal by THE FIRST PART under this Agreement. However, the
+indemnity obligations shall not apply to infringements caused by modifications by
+THE FIRST PART under this agreement or that result from any designs,
+specifications or other information provided by THE FIRST PART or from
+combination of such work with information, products or services not provided by
+THE SECOND PART.
+17. Consequences of breach and penalties: In the event of breach, THE FIRST PART
+shall have the right to recover any direct loss, damage, or cost of hardship from
+THE SECOND PART caused due to the breach of the terms of this Agreement.
+
+The decision must be mutually agreed to by both the parties. Both the parties
+shall have recourse to arbitration in case of any dispute regarding the said
+determination.
+
+18. Force Majeure: Except as provided herein neither party shall be responsible to
+the other for any delay or failure in performance of its obligations due to any
+occurrence commonly known as Force Majeure which is beyond the control of
+any of the Parties, including, but not limited to, fire, flood, explosion, acts of
+God or any Governmental body, public disorder, riots, embargoes, or strikes,
+acts of military authority, epidemics, insurrections, civil commotion, war, enemy
+actions. If a Force Majeure arises, THE SECOND PART shall notify promptly to
+THE FIRST PART in writing of such condition and the cause thereof. Unless
+otherwise directed by THE FIRST PART, THE SECOND PART shall continue to
+perform his obligations under the contract as far as is reasonably practical and
+shall seek all reasonable alternative means for performance not prevented by
+the Force Majeure event.
+
+19. Arbitration: THE FIRST PART and THE SECOND PART shall make every effort to
+resolve amicably by direct informal negotiation any disagreement or dispute
+arising between them under or in connection with this agreement. If, after thirty
+(30) days from the commencement of such informal negotiations, any and all
+disputes, controversies and conflicts (“Disputes”) arising out of this Agreement
+between the parties or arising out of or relating to or in connection with this
+Agreement or the performance or non-performance of the rights and
+obligations set forth herein or the breach, termination, invalidity or
+interpretation shall resolve or settle amicably through mutual negotiation and
+discussions, if the dispute/disputes is not settled amicably then in that case it
+shall be finally decided by reference Arbitration and Conciliation Act, 1996
+(including all subsequent amendments). The place of arbitration shall be Ranchi,
+Jharkhand. The Arbitral Award shall be in writing and shall be final and binding
+on each party and shall be enforceable in any court of competent jurisdiction.
+
+20. Settlement of Legal Disputes: This Agreement shall be governed by the Laws in
+India and Courts in Ranchi only shall have exclusive jurisdiction over matters
+relating to or arising from this Agreement.
+
+21. Intellectual Property Rights: All Intellectual Property Rights under the agreement
+will belong exclusively to THE FIRST PART, except the pre-existing Intellectual
+Property Rights of THE SECOND PART or its subcontractors (if any), THE FIRST
+PART shall at all times retain all right, title and interest in and to any Intellectual
+Property Rights in the deliverables to be provided by THE SECOND PART under
+this Agreement and any modifications thereto or works derived from there
+except the pre-existing Intellectual Property Rights of TH SECOND PART or its
+subcontractors (if any), It is hereby expressly clarified that THE SECOND PART
+shall have no right, title or interest in or to such Intellectual Property Rights for any
+purpose, except the right to use, modify, enhance and operate such designs, programs,
+
+modifications as per requirement of THE FIRST PART. THE SECOND PART shall not use
+such Intellectual Property for any other purpose during and after the term of the
+Agreement.
+THE SECOND PART hereby undertakes;
+a) Not to provide access to the Intellectual Property Rights of THE FIRST PART
+to persons other than authorized users duly notified by THE FIRST PART.
+b) To ensure that all authorized users are appropriately notified of the
+importance of respecting the Intellectual Property Rights and that they are
+made aware of and undertake to abide by the terms and conditions of the
+Agreement.
+c) Not to permit any person, other than the authorized users, to copy,
+duplicate, translate into any language, or in any way reproduce the
+Intellectual Property.
+
+d) To effect and maintain reasonable security measures to safeguard the
+Intellectual Property from unauthorized access or use by any third party
+other than the authorized users.
+e) To notify THE FIRST PART promptly of any unauthorized disclosure, use or
+copying of the Intellectual Property of which THE SECOND PART becomes
+aware.
+
+22. IN WITNESS WHEREOF the parties have executed these presents on the day
+and year hereinabove written and, in the manner, hereinafter mentioned.
+
+WITNESSESS:
+
+1. ---------------------------
+(Director, Higher Education)
+2. ---------------------------
+
+(Disbursing Bank)
+
+27. Schedule 3: Draft of Rate Contract between DHTE and
+Coaching Institute
+AGREEMENT
+This Agreement is made on this …………. day of ………….. month of ………..
+
+In between:
+
+The Director, Higher and Technical Education duly authorized by the Government of
+Jharkhand in the Department of Higher and Technical Education having its office at Yojana
+Bhawan, Nepal House, Doranda, Ranchi-834002 and to be carried out all his successors and
+assignees, IN THE FIRST PART,
+AND
+
+M/s a company registered in India under the Companies Act 1956, a
+partnership registered under the India Partnership Act 1932, a limited liability partnership
+firm registered under the Societies Registration Act, a trust registered under the Indian Trust
+Act 1882, or any other relevant act of the State or Union Territory and
+having its office at (hereinafter called as “Coaching Institute”) IN THE SECOND
+PART.
+WHEREAS the FIRST PART requires to empanel Coaching Institute under the
+MUKHYAMANTRI SHIKSHA PROTSAHAN YOJNA (“Scheme”) to provide free
+coaching facility to students (“Coaching”).
+WHEREAS the SECOND PART provides coaching as per the requirement of under the
+Scheme and it has offered to provide such coaching as per the terms set out in the detailed
+guidelines of the Scheme.
+BY THESE PRESENTS IT IS HEREBY AGREED AS FOLLOWS:
+1. Scope and Extent: -That on and from the date of execution of this Agreement THE
+SECOND PART shall become the empanelled Coaching Institute as per the detailed
+guidelines made under the Scheme notified and published by the FIRST PART in
+Jharkhand Gazette vide Notification No(s). XXX dated XX.XX.XXXX, No. XXX dated
+XX.XX.XXXX, No. XXX dated XX.XX.XXXX and no. XXXX dated XX.XX.XXXX
+2. The SECOND PART shall be empanelled for a period 03 years. The FIRST PART can
+modify the period of empanelment, if the SECOND PART fails to perform
+satisfactorily in the annual review or violates any other terms of the agreement. The
+FIRST PART, in case it deems fit, can extend the empanelment period by 01 year.
+3. The SECOND PART has been empanelled under............................. course of the Scheme
+and has been allocated .................. seats by the FIRST PART for admitting students under
+the Scheme.
+4. That the empanelment will be effective from the above mentioned day and date.
+
+5. The payment of fees to the SECOND PART shall be paid quarterly or as per
+the payment schedule provided by it.
+6. The SECOND PART may allot the students selected under this scheme to any
+class/batch/section as per their existing policy and procedures subject to the
+condition that number of the students selected under this scheme in any
+class/batch/section shall not be more than 50% of the total class/section/batch size.
+(This clause may be relaxed by the High Level Committee)
+7. The FIRST PART may conduct yearly review of the SECOND PART as per the relevant
+
+sections in the detailed guidelines of the Scheme.
+8. The period of coaching and coaching fees for the students admitted to the SECOND
+PART under the scheme shall be as follows: -
+Period of Coaching Coaching Fees (inclusive of all taxes)
+(To be provided by the FIRST PART) (To be provided by the FIRST PART)
+9. The SECOND PART has been approved by the Government of Jharkhand for
+empanelment as a coaching institute under the Scheme.
+10. The SECOND PART shall verify the eligibility of student and approve or reject the
+application of student under the Scheme.
+11. In case of any discrepancy/unfair practice in the selection of students, it shall be the
+complete legal liability of the SECOND PART for any legal cases arising out of such
+selection.
+12. The SECOND PART shall upload biometric attendance sheets/any other verifiable
+form of attendance for each admitted student every month.
+13. The SECOND PART shall upload final course wise selection details of each student
+annually.
+14. The SECOND PART shall be subjected to concurrent audits as per the terms of the
+Scheme.
+15. In event of failure on the part of the SECOND PART in compliance to the terms of
+this agreement, the FIRST PART shall issue a show cause notice to the SECOND
+PART, the reply to which shall be submitted within 30 (thirty) days of issuance of
+such a notice. If the response of the SECOND PART is found to be unsatisfactory by
+the FIRST PART, it shall remove the SECOND PART from the list of empanelled
+coaching institutes and take appropriate actions as per the Scheme.
+16. Indemnification: Subject to final judicial determination, THE SECOND PART hereby
+agrees to indemnify and hold harmless & undertakes to defend THE FIRST PART,
+and their respective, officers and directors, against any claim made by a third
+party for infringement of such third party’s copyright by any deliverable of the
+web portal by THE FIRST PART under this agreement. However, the indemnity
+obligations shall not apply to infringements caused by modifications by THE FIRST
+PART under this agreement or that result from any designs, specifications or other
+information provided by THE FIRST PART or from combination of such work with
+information, products or services not provided by THE SECOND PART.
+17. Force majeure: Except as provided herein neither party shall be responsible to the
+other for any delay or failure in performance of its obligations due to any occurrence
+commonly known as Force Majeure which is beyond the control of any of the
+Parties, including, but not limited to, fire, flood, explosion, acts of God or any
+Governmental body, public disorder, riots, embargoes, or strikes, acts of military
+authority, epidemics, insurrections, civil commotion, war, enemy actions. If a Force
+Majeure arises, THE SECOND PART shall notify promptly to THE FIRST PART in writing
+of such condition and the cause thereof. Unless otherwise directed by THE FIRST
+PART, THE SECOND PART shall continue to perform his obligations under the
+contract as far as is reasonably practical and shall seek all reasonable alternative
+means for performance not prevented by the Force Majeure event.
+
+18. Arbitration: THE FIRST PART and THE SECOND PART shall make every effort
+to resolve amicably by direct informal negotiation any disagreement or
+dispute arising between them under or in connection with this Agreement. If,
+after thirty (30) days from the commencement of such informal
+negotiations, any and all disputes, controversies and conflicts (“Disputes”)
+arising out of this Agreement between the parties or arising out of or
+relating to or in connection with this Agreement or the performance or non-
+performance of the rights and obligations set forth herein or the breach,
+termination, invalidity or interpretation shall resolve or settle amicably
+through mutual negotiation and discussions, if the dispute/disputes is not
+settled amicably then in that case it shall be finally decided by reference
+Arbitration and Conciliation Act, 1996 (including all subsequent
+amendments). The place of arbitration shall be Ranchi. The Arbitral Award
+shall be in writing and shall be final and binding on each party and shall be
+enforceable in any court of competent jurisdiction.
+19. Settlement of legal disputes: This Agreement shall be governed by the Laws
+in India and Courts in Ranchi, Jharkhand only shall have exclusive
+jurisdiction over matters relating to or arising from this Agreement.
+20. Intellectual Property Rights: All Intellectual Property Rights under the
+Agreement will belong exclusively to THE FIRST PART, except the pre-existing
+Intellectual Property Rights of THE SECOND PART or its subcontractors (if
+any), THE FIRST PART shall at all times retain all right, title and interest in
+and to any Intellectual Property Rights in the deliverables to be provided by
+THE SECOND PART under this Agreement and any modifications thereto or
+works derived from there except the pre-existing Intellectual Property
+Rights of THE SECOND PART or its subcontractors (if any),. It is hereby
+expressly clarified that THE SECOND PART shall have no right, title or interest
+in or to such Intellectual Property Rights for any purpose, except the right to
+use, modify, enhance and operate such designs, programs, modifications as
+per requirement of THE FIRST PART. THE SECOND PART shall not use such
+Intellectual Property for any other purpose during and after the term of the
+Agreement.
+THE SECOND PART hereby undertakes;
+(i) Not to provide access to the Intellectual Property Rights of THE FIRST
+PART to persons other than authorized users duly notified by THE FIRST
+PART.
+(ii) To ensure that all authorized users are appropriately notified of the
+importance of respecting the Intellectual Property Rights and that they
+are made aware of and undertake to abide by the terms and conditions
+of the Agreement.
+(iii) Not to permit any person, other than the authorized users, to copy,
+duplicate, translate into any language, or in any way reproduce the
+Intellectual Property.
+
+(iv) To effect and maintain reasonable security measures to safeguard the
+Intellectual Property from unauthorized access or use by any third
+party other than the authorized users.
+(v) To notify THE FIRST PART promptly of any unauthorized disclosure, use or
+copying of the Intellectual Property of which THE SECOND PART becomes
+aware.
+21. IN WITNESS WHEREOF the parties have executed these presents on the day
+and year hereinabove written and, in the manner, hereinafter mentioned.
+
+WITNESSESS:
+(DHTE)
+
+(Coaching Institute)
