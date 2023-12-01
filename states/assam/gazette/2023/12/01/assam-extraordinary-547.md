@@ -1,0 +1,83 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "547"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 547 LGL 40-2023-33 Dated 01-12-23"
+published: "2023-12-01"
+in_force: "2023-12-01"
+in_force_evidence: "published in the Gazette 2023-12-01; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._547_lgl_40-2023-33_dated_01-12-23.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2023-12-01.547"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+LEGISLATIVE DEPARTMENT : : : LEGISLATIVE BRANCH
+NOTIFICATION
+The 1st December, 2023
+No. LGL.40/2023/33.– The following Act of the Assam Legislative Assembly which
+received the assent of the Governor of Assam on 22nd November, 2023 is hereby published for
+general information.
+ASSAM ACT NO. LIX OF 2023
+(Received the assent of the Governor on 22nd November, 2023)
+THE NAGAON UNIVERSITY ACT, 2023
+
+6464 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+AN
+ACT
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6465
+
+6466 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6467
+
+6468 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6469
+
+6470 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6471
+
+6472 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6473
+
+6474 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6475
+
+6476 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6477
+
+6478 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6479
+
+6480 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6481
+
+6482 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6483
+
+6484 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6485
+
+6486 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+
+THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023 6487
+
+6488 THE ASSAM GAZETTE, EXTRAORDINARY, DECEMBER 08, 2023
+GEETANJALI DAS SAIKIA,
+Secretary to the Government of Assam,
+Legislative Department, Dispur, Guwahati-6.
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 1093 - 50 + 10 - 08- 12 - 2023. (visit at– dpns.assam.gov.in)
