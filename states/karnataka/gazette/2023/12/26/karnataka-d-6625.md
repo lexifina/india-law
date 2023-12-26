@@ -1,0 +1,5776 @@
+---
+kind: "gazette-notification"
+gazette: "Karnataka Gazette"
+gazette_type: "Daily"
+issuer: "Government of Karnataka"
+department: "Gazette contains multiple Departments/Organizations"
+subject: "Gazette contains multiple Subjects"
+published: "2023-12-26"
+in_force: "2023-12-26"
+in_force_evidence: "text: \"shall come into effect from the date of publication of final notification. By\"; published in the Gazette 2023-12-26"
+official_text: "https://erajyapatra.karnataka.gov.in/%28S%28vcfvp0npmdaggjoibcqarda3%29%29/Search1.aspx"
+mirror: "https://archive.org/details/in.gazette.karnataka_d.2023-12-26.6625"
+language: "English text only"
+---
+
+oststs -O88 | BOnBad, Dongerd, Dk, Lows, 20.28 (za, 08 BeBRE, NEY) Hous 2e2
+Volume - 158 Issue 247 BENGALURU, TUESDAY, 26, DECEMBER, 2023(PUSHYA, 05, SHAKAVARSHA, 1945)
+
+GOVERNMENT OF KARNATAKA
+RD 56 PFH 2023 Karnataka Government Secretariat
+E-1209663 Multi Storied Building
+Bengaluru, Date 08.11.2023
+
+PRELIMINARY NOTIFICATION
+
+In exercise of the powers conferred by Section 5 of the Karnataka Land Revenue
+Act 1964 (Karnataka act no 12 of 1964) and taking into consideration the factors
+specified in clauses (i) to (iv) of rule 3 of the Karnataka Land Revenue Rules 1966
+such as the population, area of the village the demand under land revenue in the village
+and other head of the account and having regard to the administrative convenience the
+Government of Karnataka proposes to issue a Notification to alter the limits of
+Kolagunda Village of Arasikere taluk Hassan District and to constitute a new
+revenue village called as Indira Nagara specified in schedule along with maps with
+old survey numbers and new assigned to them.
+
+Now, therefore in exercise of the power conferred by section 6 of the said Act,
+notice is hereby given for the information of all the persons likely to be affected
+thereby that the proposal will be taken into consideration on or after thirty days from
+the date of publication of the notification in the official Gazette.
+
+Any objection or suggestion which may be received by the state Government from
+any person with respect to the said proposal before the date specified above will be
+considered by the state Government. Objections or suggestion may be addressed to the
+Deputy Commissioner, Hassan District, Hassan.
+
+(7998)
+
+won ed BMF UE UN, Tonsaw, Db, Lows’, 90.9% cree
+SCHEDULE-1
+Land bearing survey numbers of the village and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of said
+village. Kolagunda of Arasikere taluk in Hassan.District to form a new revenue
+village called Indira Nagara of Arasikere taluk Hassan district along with the
+survey numbers included in column (4) thereof.
+
+TABLE-1
+
+Sl.No. Old Survey Extent of area transferred Survey numbers
+Numbers to new village Specified in column
+Which are excluded (2) which are to be Indira Nagara
+from included to form
+Acre Gunta Anna
+Kolagunda village new village Indira
+to constituting new Nagara & new
+village Indira survey numbers
+Nagara assigned to them
+(1) (2) (3) (4)
+
+1 254 16 02 1
+254 1 27 NEW
+GRAMATHANA
+2 253 10 28 2
+3 247 6 04 3
+4 246 5 13 4
+5 242 6 08 5
+6 244 7 11 6
+7 283 5 05 7
+8 235 4 26 8
+9 236 6 06 9
+10 243 2 00 10
+11 241 9 37 11
+12 240 3 05 12
+13 239 7 16 13
+14 238 3 05 14
+15 237 8 24 15
+16 263 10 27 16
+17 222 5 11 17
+18 221 3 05 18
+19 220 3 08 19
+20 219 2 35 20
+21 223 3 11 21
+
+S000 BF US TOWWS, Dondaed, DL, @Aowo’, 90.92 gen Ya
+22 224 3 08 22
+23 225 5 10 23
+24 226 1 23 24
+25 228 3 25 25
+26 227 4 12 26
+27 229 10 26 27
+28 230 12 09 28
+29 218 6 23 29
+30 217 4 13 30
+31 216 2 20 31
+32 215 1 37 32
+33 214 2 06 33
+34 213 5 28 34
+35 212 6 08 35
+36 231 9 31 36
+37 211 7 09 37
+38 206 1 08 38
+39 207 1 25 39
+40 208 1 33 40
+41 205 13 21 41
+42 204 6 07 42
+43 203 6 20 43
+44 201 3 11 44
+45 200 1 01 45
+46 287 5 05 46
+47 286 4 08 47
+48 285 4 07 48
+49 202 5 30 49
+50 209 2 02 50
+51 210 5 36 51
+52 199 15 07 52
+53 198 35 29 53
+54 232 6 32 54
+55 233 20 13 55
+56 295 1 35 56
+57 294 1 36 57
+58 293 1 36 58
+59 292 1 38 59
+60 291 1 39 60
+61 290 1 39 61
+62 289 1 39 62
+63 296 1 00 63
+
+64 297 1 00 64
+65 298 0 35 65
+66 306 2 22 66
+67 197 4 22 67
+68 305 1 01 68
+69 304 1 03 69
+70 303 1 07 70
+71 302 3 28 71
+72 301 0 13 72
+73 300 3 29 73
+74 299 2 02 74
+75 332 2 08 75
+76 196 52 37 76
+77 331 2 00 77
+78 336 0 09 78
+79 195 25 36 79
+80 308 0 16 80
+81 234 33 14 81
+82 245 11 18 82
+83 249 8 25 83
+84 250 11 05 84
+1 25 New gramatana
+85 309 3 01 85
+86 310 3 02 86
+87 325 2 24 87
+88 194 1 21 88
+89 312 1 30 89
+90 311 1 31 90
+91 313 1 39 91
+92 316 2 03 92
+93 317 2 03 93
+94 318 1 23 94
+95 314 2 01 95
+96 315 2 05 96
+97 326 2 13 97
+98 324 1 08 98
+99 323 2 03 99
+100 321 0 27 100
+101 320 4 12 101
+102 319 4 08 102
+103 322 1 18 103
+104 333 0 29 104
+
+105 334 1 12 105
+106 328 1 21 106
+107 329 1 20 107
+108 335 2 04 108
+109 327 3 25 109
+110 193 60 10 110
+111 330 2 20 111
+112 191 15 25 112
+113 288 5 32 113
+114 284 20 18 114
+115 190 21 15 115
+116 307 2 07 116
+117 192 9 17 117
+118 251 11 01 118
+0 13 New gramatana
+
+119 248 3 07 119
+120 252 7 34 120
+121 187 11 31 121
+122 188 5 02 122
+123 189 6 21 123
+124 186 4 16 124
+125 171 4 02 125
+126 170 3 19 126
+127 172 7 38 127
+128 173 6 27 128
+129 175 6 28 129
+130 174 4 10 130
+131 185 5 17 131
+132 184 3 16 132
+133 183 6 00 133
+134 181 2 30 134
+181 2 06 NEW
+GRAMATHANA
+135 182 3 02 135
+182 2 19 NEW
+GRAMATHANA
+136 177 3 20 136
+177 2 02 NEW
+177 1 38 GRAMATHANA
+
+137 176 6 29 137
+
+138 178 10 09 139
+139 179 5 23 140
+179 1 34 NEW
+GRAMATHANA
+140 180 3 24 141
+141 255 6 08 142
+TOTAL 886 20
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:-
+
+Survey numbers Extent
+177/1 00acres 18 gunta
+177/2 00 acres 30 gunta
+177/3 00 acres 4.8 gunta
+177/4 00 acres 17 gunta
+177/7 00 acres 03 gunta
+177/11 00 acres 05.5 gunta
+177/12 00 acres 04 gunta
+179/3B1 00 acres 38 gunta
+179/3B2 00acers 36 gunta
+181/1A1a 00acres 04 gunta
+181/1A1b 00acres 22 gunta
+181/1A2 00 acres 06 gunta
+181/1A3 00 acres 03 gunta
+181/1A4 00 acres 03 gunta
+181/1A5 00 acres 02 gunta
+181/1A6 00 acres 35 gunta
+181/1B 00acres 02 gunta
+181/1C 00 acres 02 gunta
+181/2 00acres 07 gunta
+182/1 01acres 14 gunta
+182/2 01acres 05 gunta
+254/3 00acres 20 gunta
+254/5 00 acres 06 gunta
+254/6 00 acres 02 gunta
+254/7 00 acres 12 gunta
+254/9 00 acres 15 gunta
+254/10 00 acres 06 gunta
+
+254/11 00 acres 03 gunta
+254/12 00 acres 03 gunta
+250/1A 00 acres 36 gunta
+250/1B 00 acres 20 gunta
+250/2A1 00 acres 02 gunta
+250/2B 00 acres 04 gunta
+250/2A3 00 acres 03 gunta
+251/2 00 acres 09 gunta
+251/3 00 acres 01.08 gunta
+251/18 00 acres 02.08 gunta
+TOTAL 10 ACRES 10 GUNTA
+
+There shall be constituted a new village called Indira Nagara in Arasikere
+taluk Hassan District and boundaries of the village shall be as specified below:-
+
+Boundaries of the new village Indira Nagara
+
+EAST: village boundary of WEST: village boundary of Masale
+Thimmalapura
+
+NORTH: village boundary of SOUTH: village boundary of
+Kolagunda Mavuthanahalli and Nillagirikavalu
+
+SCHEDULE-2
+
+The survey numbers of the village and areas remaining in the Kolagunda
+village Specified column (2) shall be assigned new survey numbers in the said village
+specified in column(4)
+TABLE-2
+
+Sl.No Survey numbers in AREA New survey numbers
+village after assigned to the
+excluding the survey remaining survey
+numbers which are to numbers specified in
+be included to form Acre Gunta Anna column (2)
+village Kolagunda
+1 2 3 4
+1 1 176 09 1
+2 2 1 09 2
+3 3 3 12 3
+4 03 OLD GRAMATANA
+4 4 0 33 4
+1 01 OLD gramatana
+
+5 5 4 01 5
+2 30 OLD gramatana
+6 6 7 23 6
+7 7 3 07 7
+8 8 2 34 8
+9 9 5 34 9
+10 10 0 18 10
+11 11 2 39 11
+12 12 0 32 12
+13 13 2 01 13
+14 14 2 2 14
+15 15 1 39 15
+16 16 1 31 16
+17 17 2 17 17
+18 18 2 30 18
+19 19 1 14 19
+20 20 0 14 20
+21 21 1 09 21
+22 22 1 21 22
+23 23 1 33 23
+24 24 0 38 24
+25 25 1 04 25
+26 26 0 34 26
+27 27 2 09 27
+28 28 5 17 28
+29 29 0 36 29
+30 30 0 39 30
+31 31 0 39 31
+32 32 1 09 32
+33 33 1 32 33
+34 34 2 02 34
+35 35 1 26 35
+36 36 1 08 36
+37 37 0 16 37
+38 38 1 25 38
+39 39 3 26 39
+40 40 2 00 40
+41 41 3 06 41
+42 42 2 19 42
+43 43 2 25 43
+44 44 2 32 44
+45 45 2 37 45
+
+46 46 2 11 46
+47 47 3 07 47
+48 48 0 26 48
+49 49 1 25 49
+50 50 0 25 50
+51 51 1 31 51
+52 52 0 21 52
+53 53 0 15 53
+54 54 1 13 54
+55 55 2 16 55
+56 56 1 01 56
+57 57 2 26 57
+58 58 2 09 58
+59 59 1 33 59
+60 60 0 20 60
+61 61 1 10 61
+62 62 0 26 62
+63 63 1 34 63
+64 64 3 03 64
+65 65 0 38 65
+66 66 1 22 66
+67 67 3 06 67
+68 68 1 15 68
+69 69 1 11 69
+70 70 0 32 70
+71 71 1 11 71
+72 72 1 16 72
+73 73 2 03 73
+74 74 1 33 74
+75 75 2 35 75
+76 76 2 05 76
+77 77 1 22 77
+78 78 3 34 78
+79 79 4 26 79
+80 80 3 29 80
+81 81 3 25 81
+82 82 7 12 82
+83 269 2 15 83
+84 85 2 20 84
+85 270 2 04 85
+86 84 2 22 86
+87 83 1 32 87
+
+88 108 36 11 88
+89 274 2 01 89
+90 273 2 37 90
+91 275 2 05 91
+92 276 2 11 92
+93 272 2 15 93
+94 271 3 01 94
+95 91 3 18 95
+96 92 1 09 96
+97 93 1 10 97
+98 94 2 16 98
+99 90 3 14 99
+100 89 1 12 100
+101 87 2 33 101
+102 277 1 16 102
+103 88 0 29 103
+104 278 1 23 104
+105 104 2 19 105
+106 86 2 01 106
+107 106 1 33 107
+108 107 1 33 108
+109 279 1 33 109
+110 280 2 26 110
+111 281 2 04 111
+112 105 1 05 112
+113 103 0 08 113
+114 268 1 20 114
+115 282 2 22 115
+116 109 7 17 116
+117 102 1 17 117
+118 96 1 07 118
+119 95 2 23 119
+120 97 4 38 120
+121 98 2 19 121
+122 99 2 24 122
+123 100 4 19 123
+124 101 2 07 124
+125 110 3 01 125
+126 113 6 29 126
+127 114 6 02 127
+128 115 10 27 128
+129 116 2 29 129
+
+130 117 2 29 130
+131 118 2 20 131
+132 119 9 31 132
+133 112 2 37 133
+134 111 4 17 134
+135 120 4 28 135
+136 121 4 09 136
+137 122 7 25 137
+138 123 6 23 138
+139 124 3 10 139
+140 125 3 10 140
+141 126 6 37 141
+142 127 7 21 142
+143 128 3 21 143
+144 129 6 20 144
+145 130 10 33 145
+0 10 OLD gramatana
+146 131 2 28 146
+147 132 5 07 147
+0 15 Old gramatana
+148 133 4 21 148
+149 134 1 10 149
+150 135 3 23 150
+151 136 3 14.5 151
+old gramatana
+2 7.5
+152 137 2 13 152
+old gramatana
+3 09
+153 139 4 08 153
+old gramatana
+2 20
+154 138 7 33 154
+155 140 6 39 155
+old gramatana
+2 17
+156 141 5 27 156
+New gramatana
+1 05
+157 147 6 19 157
+158 148 3 29 158
+159 149 3 29 159
+
+160 146 8 30 160
+161 142 8 02 161
+old gramatana
+0 11
+162 145 5 04 162
+163 156 4 08 163
+164 153 1 24 164
+165 155 3 10 165
+166 154 4 17 166
+167 150 8 21 167
+168 151 3 24 168
+169 152 3 11 169
+170 159 7 02 170
+171 161 10 16 171
+172 162 5 12 172
+173 167 5 01 173
+174 169 3 10 174
+175 168 3 37 175
+176 166 4 22 176
+177 165 3 10 177
+178 164 2 23 178
+179 163 5 38 179
+180 160 7 18 180
+181 158 3 10 181
+182 157 4 18 182
+183 144 3 39 183
+184 143 3 33 184
+185 256 4 29 185
+186 257 9 07 186
+187 258 5 14 187
+188 259 5 10 188
+189 260 7 30 189
+190 261 9 38 190
+191 262 5 17 191
+192 264 5 32 192
+193 265 4 02 193
+194 266 6 16 194
+195 267 0 38 195
+TOTAL 866 05
+
+NOTE;--The extent of Grama Tana with in the said village is to the extent
+specified bellow namely;-
+
+Survey numbers Extent
+3 04acres 03 gunta
+4/2 00acres 10 gunta
+4/3 00acres 31 gunta
+5/1 00acres 39 gunta
+5/3A 00acres 02 gunta
+5/3B 01acres 01 gunta
+5/4 00acres 14 gunta
+130/4 00acres 10 gunta
+132/2B 00acres 15 gunta
+136/1B 01acres 00 gunta
+136/2B 01acres 00 gunta
+137/1 01acres 30 gunta
+137/2A1 01acres 19 gunta
+136/1A1 00acres 05 gunta
+136/5 00acres 02.5 gunta
+139/1 01acres 06 gunta
+139/5 00acres 03 gunta
+139/4A 00acres 10 gunta
+139/4B 00acres 20 gunta
+140/6 00acres 10 gunta
+140/1B 00acres 20 gunta
+140/3A1 00acres 02.5 gunta
+140/3B 00acres 20 gunta
+140/4A 00acres 19 gunta
+140/4B 00acres 20 gunta
+139/4C 00acres 21 gunta
+140/3A2 00acres 04 gunta
+140/5 00acres 01.5 gunta
+141/1B 00acres 20 gunta
+141/3 00acres 11 gunta
+141/4 00acres 14 gunta
+142/1 00acres 08 gunta
+Total 22acres 09 gunta
+
+Boundaries of the village Kolagunda
+
+EAST: Village boundries of WEST : Village boundary of
+BYRAPURA NARASIPURA
+
+NORTH : Village boundary of SOUTH : Village boundary of New
+BELUVALLI village SRINIVASANAGARA
+
+The proposal specified above shall come into effect from such date as
+the State Government may specify by Notification proposed to be issued under
+section 5 of the Karnataka Land Revenue Act, 1964 ( Karnataka Act No. 12 of
+1964 )
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+1 254 16 02 1
+2 253 10 28 2
+3 247 6 04 3
+4 246 5 13 4
+5 242 6 08 5
+6 244 7 11 6
+7 283 5 05 7
+8 235 4 26 8
+9 236 6 06 9
+10 243 2 00 10
+11 241 9 37 11
+12 240 3 05 12
+13 239 7 16 13
+
+14 238 3 05 14
+15 237 8 24 15
+16 263 10 27 16
+17 222 5 11 17
+18 221 3 05 18
+19 220 3 08 19
+20 219 2 35 20
+21 223 3 11 21
+22 224 3 08 22
+23 225 5 10 23
+24 226 1 23 24
+25 228 3 25 25
+26 227 4 12 26
+27 229 10 26 27
+28 230 12 09 28
+29 218 6 23 29
+30 217 4 13 30
+31 216 2 20 31
+32 215 1 37 32
+33 214 2 06 33
+34 213 5 28 34
+35 212 6 08 35
+36 231 9 31 36
+37 211 7 09 37
+38 206 1 08 38
+39 207 1 25 39
+40 208 1 33 40
+41 205 13 21 41
+42 204 6 07 42
+43 203 6 20 43
+44 201 3 11 44
+45 200 1 01 45
+46 287 5 05 46
+47 286 4 08 47
+48 285 4 07 48
+49 202 5 30 49
+50 209 2 02 50
+51 210 5 36 51
+52 199 15 07 52
+
+53 198 35 29 53
+54 232 6 32 54
+55 233 20 13 55
+56 295 1 35 56
+57 294 1 36 57
+58 293 1 36 58
+59 292 1 38 59
+60 291 1 39 60
+61 290 1 39 61
+62 289 1 39 62
+63 296 1 00 63
+64 297 1 00 64
+65 298 0 35 65
+66 306 2 22 66
+67 197 4 22 67
+68 305 1 01 68
+69 304 1 03 69
+70 303 1 07 70
+71 302 3 28 71
+72 301 0 13 72
+73 300 3 29 73
+74 299 2 02 74
+75 332 2 08 75
+76 196 52 37 76
+77 331 2 00 77
+78 336 0 09 78
+79 195 25 36 79
+80 308 0 16 80
+81 234 33 14 81
+82 245 11 18 82
+83 249 8 25 83
+84 250 11 5 84
+85 309 3 01 85
+86 310 3 02 86
+87 325 2 24 87
+88 194 1 21 88
+89 312 1 30 89
+90 311 1 31 90
+
+91 313 1 39 91
+92 316 2 03 92
+93 317 2 03 93
+94 318 1 23 94
+95 314 2 01 95
+96 315 2 05 96
+97 326 2 13 97
+98 324 1 08 98
+99 323 2 03 99
+100 321 0 27 100
+101 320 4 12 101
+102 319 4 08 102
+103 322 1 18 103
+104 333 0 29 104
+105 334 1 12 105
+106 328 1 21 106
+107 329 1 20 107
+108 335 2 04 108
+109 327 3 25 109
+110 193 60 10 110
+111 330 2 20 111
+112 191 15 25 112
+113 288 5 32 113
+114 284 20 18 114
+115 190 21 15 115
+116 307 2 07 116
+117 192 9 17 117
+118 251 11 01 118
+119 248 3 07 119
+120 252 7 34 120
+121 187 11 31 121
+122 188 5 02 122
+123 189 6 21 123
+124 186 4 16 124
+125 171 4 02 125
+126 170 3 19 126
+127 172 7 38 127
+128 173 6 27 128
+
+129 175 6 28 129
+130 174 4 10 130
+131 185 5 17 131
+132 184 3 16 132
+133 183 6 00 133
+134 181 2 30 134
+135 182 3 02 135
+136 177 3 20 136
+177 2 02
+137 176 6 29 137
+138 178 10 09 139
+139 179 5 23 140
+140 180 3 24 141
+141 255 6 08 142
+
+1 2 3 4
+1 1 176 09 1
+2 2 1 09 2
+3 3 3 12 3
+4 4 0 33 4
+5 5 4 01 5
+6 6 7 23 6
+7 7 3 07 7
+8 8 2 34 8
+9 9 5 34 9
+10 10 0 18 10
+11 11 2 39 11
+12 12 0 32 12
+13 13 2 01 13
+14 14 2 2 14
+15 15 1 39 15
+16 16 1 31 16
+17 17 2 17 17
+18 18 2 30 18
+19 19 1 14 19
+20 20 0 14 20
+21 21 1 09 21
+22 22 1 21 22
+23 23 1 33 23
+24 24 0 38 24
+25 25 1 04 25
+26 26 0 34 26
+27 27 2 09 27
+
+28 28 5 17 28
+29 29 0 36 29
+30 30 0 39 30
+31 31 0 39 31
+32 32 1 09 32
+33 33 1 32 33
+34 34 2 02 34
+35 35 1 26 35
+36 36 1 08 36
+37 37 0 16 37
+38 38 1 25 38
+39 39 3 26 39
+40 40 2 00 40
+41 41 3 06 41
+42 42 2 19 42
+43 43 2 25 43
+44 44 2 32 44
+45 45 2 37 45
+46 46 2 11 46
+47 47 3 07 47
+48 48 0 26 48
+49 49 1 25 49
+50 50 0 25 50
+51 51 1 31 51
+52 52 0 21 52
+53 53 0 15 53
+54 54 1 13 54
+55 55 2 16 55
+56 56 1 01 56
+57 57 2 26 57
+58 58 2 09 58
+59 59 1 33 59
+60 60 0 20 60
+61 61 1 10 61
+62 62 0 26 62
+63 63 1 34 63
+64 64 3 03 64
+65 65 0 38 65
+66 66 1 22 66
+
+67 67 3 06 67
+68 68 1 15 68
+69 69 1 11 69
+70 70 0 32 70
+71 71 1 11 71
+72 72 1 16 72
+73 73 2 03 73
+74 74 1 33 74
+75 75 2 35 75
+76 76 2 05 76
+77 77 1 22 77
+78 78 3 34 78
+79 79 4 26 79
+80 80 3 29 80
+81 81 3 25 81
+82 82 7 12 82
+83 269 2 15 83
+84 85 2 20 84
+85 270 2 04 85
+86 84 2 22 86
+87 83 1 32 87
+88 108 36 11 88
+89 274 2 01 89
+90 273 2 37 90
+91 275 2 05 91
+92 276 2 11 92
+93 272 2 15 93
+94 271 3 01 94
+95 91 3 18 95
+96 92 1 09 96
+97 93 1 10 97
+98 94 2 16 98
+99 90 3 14 99
+100 89 1 12 100
+101 87 2 33 101
+102 277 1 16 102
+103 88 0 29 103
+104 278 1 23 104
+105 104 2 19 105
+
+106 86 2 01 106
+107 106 1 33 107
+108 107 1 33 108
+109 279 1 33 109
+110 280 2 26 110
+111 281 2 04 111
+112 105 1 05 112
+113 103 0 08 113
+114 268 1 20 114
+115 282 2 22 115
+116 109 7 17 116
+117 102 1 17 117
+118 96 1 07 118
+119 95 2 23 119
+120 97 4 38 120
+121 98 2 19 121
+122 99 2 24 122
+123 100 4 19 123
+124 101 2 07 124
+125 110 3 01 125
+126 113 6 29 126
+127 114 6 02 127
+128 115 10 27 128
+129 116 2 29 129
+130 117 2 29 130
+131 118 2 20 131
+132 119 9 31 132
+133 112 2 37 133
+134 111 4 17 134
+135 120 4 28 135
+136 121 4 09 136
+137 122 7 25 137
+138 123 6 23 138
+139 124 3 10 139
+140 125 3 10 140
+141 126 6 37 141
+142 127 7 21 142
+143 128 3 21 143
+144 129 6 20 144
+
+145 130 10 33 145
+146 131 2 28 146
+147 132 5 07 147
+148 133 4 21 148
+149 134 1 10 149
+150 135 3 23 150
+151 136 3 14.5 151
+2 7.5
+152 137 2 13 152
+3 09
+153 139 4 08 153
+2 20
+154 138 7 33 154
+155 140 6 39 155
+2 17
+156 141 5 27 156
+1 05
+157 147 6 19 157
+158 148 3 29 158
+159 149 3 29 159
+160 146 8 30 160
+161 142 8 02 161
+0 11
+162 145 5 04 162
+163 156 4 08 163
+164 153 1 24 164
+165 155 3 10 165
+166 154 4 17 166
+167 150 8 21 167
+168 151 3 24 168
+169 152 3 11 169
+170 159 7 02 170
+
+171 161 10 16 171
+172 162 5 12 172
+173 167 5 01 173
+174 169 3 10 174
+175 168 3 37 175
+176 166 4 22 176
+177 165 3 10 177
+178 164 2 23 178
+179 163 5 38 179
+180 160 7 18 180
+181 158 3 10 181
+182 157 4 18 182
+183 144 3 39 183
+184 143 3 33 184
+185 256 4 29 185
+186 257 9 07 186
+187 258 5 14 187
+188 259 5 10 188
+189 260 7 30 189
+190 261 9 38 190
+191 262 5 17 191
+192 264 5 32 192
+193 265 4 02 193
+194 266 6 16 194
+195 267 0 38 195
+
+PR-863
+
+GOVERNEMNT OF KARNATAKA
+RD 57 PFH 2023 Karnataka Government Secretariat
+E-1209703 Multi Storied Building
+Bengaluru, Date:10/11/2023
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD 183 PFH 2022
+Dated:13/02/2023 regarding altering the limits of Kenchenahalli village of
+Arasikere Taluk and Hasan District and constituting a new revenue village called
+Kuvempunagar was published as required by section 6 of the Karnataka Land
+Revenue Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette No. RD
+183 PFH 2022 Dated:04/03/2023 inviting objections or suggestions from all the
+persons likely to be affected thereby within thirty days from the date of its publication
+in the Official Gazette.
+And whereas, the said gazette was made available to the public on
+Dated:17/03/2023 And whereas, no objections were received by the State
+Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village Kenchenahalli of Arasikere taluk Hasan District to form a new revenue
+village called as Kuvempunagar of Arasikere taluk Hasan District along with the
+survey numbers included in column (4) thereof.
+
+TABLE-1
+Sl.no Old Survey Numbers Extent of area Survey numbers Specified
+Which are excluded from transferred to new in column (2) which are to
+Kenchenahalli village to village be included to form new
+constituting new village Kuvempunagar village Kuvempunagar and
+Kuvempunagar New survey numbers
+Acre Gunta Anna
+assigned to them
+1 2 3 4
+118 5 14 00 1
+118 0 18 00 New Gramatana
+2 101 6 25 00 2
+3 102 7 30 00 3
+
+4 103 7 03 00 4
+5 105 5 09 00 5
+6 104 5 38 00 6
+7 111 5 22 00 7
+8 112 5 28 00 8
+9 110 5 03 00 9
+10 113 4 37 00 10
+11 114 4 34 00 11
+12 109 5 01 00 12
+13 106 5 21 00 13
+14 123 6 03 00 14
+15 107 5 04 00 15
+16 108 5 00 00 16
+17 115 4 23 00 17
+18 149 5 32 00 18
+19 36 27 39 00 19
+20 150 3 09 00 20
+21 130 16 24 00 21
+22 122 4 07 00 22
+23 121 4 05 00 23
+24 120 4 14 00 24
+25 119 6 01 00 25
+26 116 7 00 00 26
+27 124 4 05 00 27
+28 125 5 13 00 28
+29 136 3 05 00 29
+30 126 5 05 00 30
+31 34 8 22 00 31
+32 117 7 02 00 32
+33 35 16 15 00 33
+34 96 2 23 00 34
+35 97 6 32 00 35
+36 98 5 38 00 36
+37 99 4 31 00 37
+38 100 7 25 00 38
+100 1 06 00 New Gramatana
+TOTAL 253 26 00
+
+Note :- The extent of Gramatana within the said village is to be the extent
+specified below namely :-
+
+Survey Number Extent (A-G)
+100/1 00Acres 20 Guntas
+100/2 00Acres 03 Guntas
+100/9 00 Acres 23 guntas
+118/1 00Acres 13 Guntas
+118/2 00Acres 05 Guntas
+Total 01 Acres 24 Guntas
+
+There shall be constituted a new village called Kuvempunagar
+in Arasikere taluk Hasan District and boundaries of the village shall be as
+specified below :-
+
+Boundaries of the new village Kuvempunagar
+EAST: Boundry of thimmashettyhally WEST: Boundry of kenchenahally
+village. village..
+NORTH: Boundry of koranahally SOUTH: Boundry of kenchenahally
+village. village.
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the
+Kenchenahalli village specified in the column (2) shall be assigned new
+survey numbers in the said villages specified in the column (4).
+
+TABLE-2
+Sl.no. Survey numbers Total Area New Survey numbers
+remaining in assigned to the
+Kenchenahalli village remaining survey
+Acre Gunta Anna
+after excluding the numbers in
+
+survey numbers which Kenchenahalli
+
+are to be included to specified in column (2)
+
+form village
+
+Kuvempunagar
+
+1 2 3 4
+1 1 3 25 00 1
+2 2 3 26 00 2
+3 3 8 20 00 3
+4 4 5 15 00 4
+5 7 6 16 00 5
+6 6 2 14 00 6
+7 8 6 24 00 7
+8 9 9 05 00 8
+
+9 10 8 17 00 9
+10 11 7 00 00 10
+11 12 10 16 00 11
+12 13 10 25 00 12
+13 14 2 20 00 13
+14 15 7 21 00 14
+15 16 10 25 00 15
+16 17 8 30 00 16
+17 18 0 27 00 17
+18 19 8 34 00 18
+19 20 5 26 00 19
+20 21 9 16 00 20
+21 58 7 04 00 21
+22 59 9 01 00 22
+23 60 3 18 00 23
+24 61 8 12 00 24
+25 62 5 08 00 25
+5 15 00 26
+26 63
+0 24 00 gramatana
+27 55 5 31 00 27
+28 56 3 35 00 28
+29 57 5 27 00 29
+30 22 8 22 00 30
+31 23 2 30 00 31
+32 24 12 38 00 32
+33 25 6 34 00 33
+34 26 2 37 00 34
+35 28 5 29 00 35
+36 29 5 06 00 36
+37 30 6 06 00 37
+38 31 7 17 00 38
+39 32 10 13 00 39
+40 33 23 04 00 40
+41 27 24 29 00 41
+42 127 6 00 00 42
+43 128 6 03 00 43
+44 129 5 17 00 44
+45 38 158 17 00 45
+46 37 837 34 00 46
+
+47 141 4 00 00 47
+48 140 4 00 00 48
+49 139 4 00 00 49
+50 148 3 00 00 50
+51 147 3 00 00 51
+52 146 3 05 00 52
+53 145 3 11 00 53
+54 144 3 00 00 54
+55 143 3 00 00 55
+56 142 3 00 00 56
+57 39 22 10 00 57
+58 40 4 25 00 58
+59 131 5 06 00 59
+60 48 28 37 00 60
+61 132 4 18 00 61
+62 41 4 25 00 62
+63 42 4 02 00 63
+64 133 4 05 00 64
+65 134 3 29 00 65
+66 43 3 39 00 66
+67 46 5 14 00 67
+68 47 7 04 00 68
+69 50 7 03 00 69
+70 49 3 06 00 70
+71 51 2 33 00 71
+72 52 9 33 00 72
+73 45 4 26 00 73
+74 135 6 38 00 74
+75 44 6 27 00 75
+76 69 4 14 00 76
+77 137 3 12 00 77
+78 71 9 34 00 78
+79 138 4 37 00 79
+80 70 11 25 00 80
+81 68 9 37 00 81
+82 67 3 25 00 82
+83 53 10 34 00 83
+84 54 4 35 00 84
+85 65 8 15 00 85
+
+86 64 14 04 00 86
+87 75 6 27 00 87
+88 66 1 31 00 88
+89 74 9 05 00 89
+90 73 7 37 00 90
+91 72 7 24 00 91
+92 79 10 14 00 92
+93 78 3 21 00 93
+94 77 4 14 00 94
+95 76 11 34 00 95
+96 87 3 17 00 96
+97 86 4 38 00 97
+98 85 3 29 00 98
+99 81 5 08 00 99
+100 80 7 29 00 100
+101 83 4 17 00 101
+102 82 2 35 00 102
+103 84 7 39 00 103
+104 88 12 17 00 104
+105 89 7 17 00 105
+106 90 10 30 00 106
+107 91 3 12 00 107
+108 92 7 12 00 108
+109 93 3 24 00 109
+110 94 6 26 00 110
+111 95 2 02 00 111
+112 5 6 15 00 gramatana
+Total 1742 35 00
+
+Note :- The extent of Gramatana within the said village is to be the extent
+specified below namely :-
+
+Survey Numbers Extent
+63/3 0 acres 17 ½ gunta
+63/4 0 acres 6½ gunta
+5/1 1 acres 2 gunta
+5/2 1 acres 0gunta
+5/3 1 acres 0 gunta
+5/4 0 acres 6 gunta
+5/5 3 acres 7gunta
+TOTAL 6 acres 39 gunta
+
+Boundaries of new village Kenchenahalli
+
+EAST: Boundry of village kornahally and
+Boundry of village new kandhaya grama and WEST:Boundry of village
+Boundry of village bettadapura and Boundry of arkere
+village hiriyuru
+NORTH: Boundry of village bommanahally
+SOUTH: Boundry of village
+Boundry of village arkere Boundry of village
+uppar kalenahalli
+mayagondanahalli
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+118 5 14 00 1 1
+2 101 6 25 00 2
+3 102 7 30 00 3
+4 103 7 03 00 4
+5 105 5 09 00 5
+6 104 5 38 00 6
+7 111 5 22 00 7
+8 112 5 28 00 8
+9 110 5 03 00 9
+10 113 4 37 00 10
+11 114 4 34 00 11
+12 109 5 01 00 12
+13 106 5 21 00 13
+14 123 6 03 00 14
+15 107 5 04 00 15
+16 108 5 00 00 16
+
+17 115 4 23 00 17
+18 149 5 32 00 18
+19 36 27 39 00 19
+20 150 3 09 00 20
+21 130 16 24 00 21
+22 122 4 07 00 22
+23 121 4 05 00 23
+24 120 4 14 00 24
+25 119 6 01 00 25
+26 116 7 00 00 26
+27 124 4 05 00 27
+28 125 5 13 00 28
+29 136 3 05 00 29
+30 126 5 05 00 30
+31 34 8 22 00 31
+32 117 7 02 00 32
+33 35 16 15 00 33
+34 96 2 23 00 34
+35 97 6 32 00 35
+36 98 5 38 00 36
+37 99 4 31 00 37
+100 7 25 00 38
+
+1 2 3 4
+1 1 3 25 00 1
+2 2 3 26 00 2
+3 3 8 20 00 3
+4 4 5 15 00 4
+5 7 6 16 00 5
+6 6 2 14 00 6
+7 8 6 24 00 7
+8 9 9 05 00 8
+9 10 8 17 00 9
+10 11 7 00 00 10
+11 12 10 16 00 11
+12 13 10 25 00 12
+13 14 2 20 00 13
+14 15 7 21 00 14
+15 16 10 25 00 15
+16 17 8 30 00 16
+17 18 0 27 00 17
+18 19 8 34 00 18
+19 20 5 26 00 19
+
+20 21 9 16 00 20
+21 58 7 04 00 21
+22 59 9 01 00 22
+23 60 3 18 00 23
+24 61 8 12 00 24
+25 62 5 08 00 25
+5 15 00 26
+26 63
+27 55 5 31 00 27
+28 56 3 35 00 28
+29 57 5 27 00 29
+30 22 8 22 00 30
+31 23 2 30 00 31
+32 24 12 38 00 32
+33 25 6 34 00 33
+34 26 2 37 00 34
+35 28 5 29 00 35
+36 29 5 06 00 36
+37 30 6 06 00 37
+38 31 7 17 00 38
+39 32 10 13 00 39
+40 33 23 04 00 40
+41 27 24 29 00 41
+42 127 6 00 00 42
+43 128 6 03 00 43
+44 129 5 17 00 44
+45 38 158 17 00 45
+46 37 837 34 00 46
+47 141 4 00 00 47
+48 140 4 00 00 48
+49 139 4 00 00 49
+50 148 3 00 00 50
+51 147 3 00 00 51
+52 146 3 05 00 52
+53 145 3 11 00 53
+54 144 3 00 00 54
+55 143 3 00 00 55
+56 142 3 00 00 56
+57 39 22 10 00 57
+
+58 40 4 25 00 58
+59 131 5 06 00 59
+60 48 28 37 00 60
+61 132 4 18 00 61
+62 41 4 25 00 62
+63 42 4 02 00 63
+64 133 4 05 00 64
+65 134 3 29 00 65
+66 43 3 39 00 66
+67 46 5 14 00 67
+68 47 7 04 00 68
+69 50 7 03 00 69
+70 49 3 06 00 70
+71 51 2 33 00 71
+72 52 9 33 00 72
+73 45 4 26 00 73
+74 135 6 38 00 74
+75 44 6 27 00 75
+76 69 4 14 00 76
+77 137 3 12 00 77
+78 71 9 34 00 78
+79 138 4 37 00 79
+80 70 11 25 00 80
+81 68 9 37 00 81
+82 67 3 25 00 82
+83 53 10 34 00 83
+84 54 4 35 00 84
+85 65 8 15 00 85
+86 64 14 04 00 86
+87 75 6 27 00 87
+88 66 1 31 00 88
+89 74 9 05 00 89
+90 73 7 37 00 90
+91 72 7 24 00 91
+92 79 10 14 00 92
+93 78 3 21 00 93
+94 77 4 14 00 94
+95 76 11 34 00 95
+96 87 3 17 00 96
+
+97 86 4 38 00 97
+98 85 3 29 00 98
+99 81 5 08 00 99
+100 80 7 29 00 100
+101 83 4 17 00 101
+102 82 2 35 00 102
+103 84 7 39 00 103
+104 88 12 17 00 104
+105 89 7 17 00 105
+106 90 10 30 00 106
+107 91 3 12 00 107
+108 92 7 12 00 108
+109 93 3 24 00 109
+110 94 6 26 00 110
+111 95 2 02 00 111
+
+PR-864
+
+GOVERNEMNT OF KARNATAKA
+RD 53 PFH 2023 Karnataka Government Secretariat
+E-1209251 Multi Storied Building
+Bengaluru, Date:07.11.2023.
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD 150 GLH 2022 Dated: 16-08-
+2022 regarding altering the limits of Kachavi village of Hirekerur Taluk and
+Haveri District and constituting a new revenue village called Chogachikoppa was
+published as required by section 6 of the Karnataka Land Revenue Act, 1964
+(Karnataka act No.12 of 1964) in the Karanataka Gazette No. 10662 Part 4A dated:
+22-08-2022 inviting objections or suggestions from all the persons likely to be
+affected thereby within thirty days from the date of its publication in the Official
+Gazette.
+And whereas, the said gazette was made available to the public on Dated: 22-
+08-2022 and whereas, no objections and suggestions have been received and
+considered by the State Government;
+Now, therefore, in exercise of the powers conferredby section 5 of Karnataka Land
+Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka here
+by makes the following notification, namely:-
+SCHEDULE-I
+Lands bearing survey numbers specified below shall be excluded
+from the limits of Kachavi Villages of Hirekerur taluk Haveri district to form a
+new revenue village called as Chogachikoppa of Hirekerur taluk and Haveri
+district along with the new numbers assigned thereof
+
+TABLE-01
+
+Old Sy. Extent of areas
+transferred to new No.and
+Survey numbers specified
+villages village chogachikoppa
+in column(2) which are to
+from
+Sl be included to form new
+which
+no village Chogachikoppa and
+areas are
+Acre Gunte anna new survey numbers
+excluded
+assigned to them
+from
+Kachavi
+(1) (2) (3) (4)
+1 159 4 31 0 1
+2 160 4 26 0 2
+3 160 1 14 0 3
+4 161 14 39 0 4
+5 162 20 27 0 5
+6 163 10 14 0 6
+7 164 2 24 0 7
+8 165 3 16 0 8
+9 166 4 37 0 9
+10 167 17 38 0 10
+11 168 17 25 0 11
+12 169 26 2 0 12
+13 140 4 34 0 13
+14 141 4 32 0 14
+15 142 4 0 0 15
+16 4 8 16 143
+17 2 3 17 144
+18 145 2 37 0 18
+19 146 3 8 0 19
+20 147 4 18 0 20
+21 148 11 16 0 21
+22 139 14 19 0 22
+23 138 11 26 0 23
+24 127 4 39 0 24
+0 25 149 13 27 25
+
+26 150 5 27 0 26
+27 151 12 10 0 27
+28 152 8 5 0 28
+29 153 13 38 0 29
+30 154 9 39 0 30
+31 155 1 6 0 31
+32 156 1 3 0 32
+33 157 1 9 0 33
+34 158 1 15 0 34
+0 35 160 9 5 Gramathana
+0 36 301 3 20 Gramathana
+0 Total 283 17
+
+Note: The extent of Grama Tana within the said village is to be the extent
+specified below namely:-
+
+Extent
+Survey Number
+acre gunta
+160 9 5
+301 3 20
+TOTAL 12 25
+There shall be constituted a new village called CHOGACHIKOPPA in
+HIREKERURU taluk, HAVERI District and bounderies of the villageshall be as
+specified below:-
+
+BOUNDARIES OF THE NEW VILLAGE CHOGACHIKOPPA
+
+Madlur VILLAGE Kachavi Village BOUNDARY
+EAST NORTH
+BOUNDARY
+Kachavi village
+WEST BOUNDARY SOUTH Nittur VILLAGE BOUNDARY
+
+SCHEDULE-02
+The Survey numbers and areas remaining in the KACHAVI village specified
+in column (2) shall be assigned new survey numbers in the said village specified
+in column(4)
+
+TABLE-02
+Survey numbers Area
+remaining in New Survey numbers
+Kachavi village assigned to the
+after excluding remaining survey
+Sl no the survey numbers in Kachavi
+Acre Gunte anna
+numbers which specified column (2)
+are to be included
+to form village
+Chogachikoppa
+(1) (2) (3) (4)
+1 1C 0 30 0 1C
+2 1§ 0 7 0 1§
+4 2 1 28 0 2
+5 3 5 05 0 3
+6 4 12 20 0 4
+7 5 4 20 0 5
+8 6 4 34 0 6
+9 7 5 22 0 7
+10 8 11 33 0 8
+11 9 12 05 0 9
+12 10 5 24 0 10
+13 11 11 12 0 11
+14 12 9 8 0 12
+15 13 8 27 0 13
+16 14 3 16 0 14
+17 15 7 03 0 15
+18 16 1 07 0 16
+19 17 0 29 0 17
+18 18 20 5 9 0
+21 19 2 9 0 19
+22 20 3 10 0 20
+23 21 0 30 0 21
+24 22 3 34 0 22
+25 23 3 32 0 23
+26 24 2 24 0 24
+27 25 8 33 0 25
+28 26 9 12 0 26
+29 27 3 20 0 27
+
+30 28 11 13 0 28
+31 29 7 34 0 29
+32 30 0 2 0 30
+33 31 11 04 0 31
+34 32 4 33 0 32
+35 33 4 9 0 33
+36 34 3 20 0 34
+37 35 18 22 0 35
+38 36 8 8 0 36
+39 37 13 18 0 37
+40 38 3 4 0 38
+41 39 21 26 0 39
+40 40 42 0 18 0
+43 41 24 21 0 41
+44 42 0 9 0 42
+45 43 01 33 0 43
+46 44 1 1 0 44
+47 45 14 4 0 45
+48 46 1 32 0 46
+49 47 3 31 0 47
+50 48 4 39 0 48
+51 49 7 31 0 49
+52 50 3 15 0 50
+53 51 2 29 0 51
+54 52 2 06 0 52
+55 53 2 20 0 53
+56 54 2 30 0 54
+57 55 4 07 0 55
+58 56 2 28 0 56
+59 57 2 31 0 57
+60 58 4 31 0 58
+61 59 19 19 0 59
+62 60 2 38 0 60
+63 61 11 8 0 61
+64 62 18 18 0 62
+65 63C 2 22 0 63C
+66 63§ 4 39 11.5 63§
+67 64C 4 2 0 64C
+68 64§ 1 38 0 64§
+
+69 65 0 34 0 65
+70 66 10 33 0 66
+71 67 4 21 0 67
+72 68 17 31 0 68
+73 69 8 4 0 69
+74 70 3 6 0 70
+75 71 2 5 0 71
+76 72 2 36 0 72
+77 73 3 22 0 73
+78 74 10 12 0 74
+79 75 3 2 0 75
+80 76 2 30 0 76
+77 77 81 2 27 0
+82 78 4 31 0 78
+83 79 8 4 0 79
+84 80 4 29 0 80
+85 81 8 38 0 81
+86 82 3 27 0 82
+87 83 9 4 0 83
+88 84 8 22 0 84
+89 85 1 01 0 85
+90 86 3 15 0 86
+91 87 3 26 0 87
+92 88 10 12 0 88
+93 89 5 38 0 89
+94 90 8 15 0 90
+95 91 11 11 0 91
+96 92 6 14 0 92
+97 93 1 3 0 93
+98 94 4 35 0 94
+99 95 16 34 0 95
+100 96 6 11 0 96
+101 97 7 30 0 97
+102 98 3 9 0 98
+103 99 11 7 0 99
+104 100 4 0 0 100
+105 101 3 5 0 101
+106 102 3 31 0 102
+107 103 26 33 0 103
+
+108 104 3 30 0 104
+109 105 5 33 0 105
+110 106 5 22 0 106
+111 107 5 4 0 107
+112 108 9 19 0 108
+113 109 7 33 0 109
+114 110 4 2 0 110
+115 111 7 9 0 111
+116 112 21 9 0 112
+117 113 2 1 0 113
+118 114 28 7 0 114
+119 115C 21 5 0 115C
+115§ 115§ 120 3 0 0
+122 116 11 31 0 116
+123 117 5 16 0 117
+124 118 6 6 0 118
+125 119 2 5 0 119
+126 120 10 16 0 120
+127 121 4 10 0 121
+128 122 8 26 0 122
+129 123 1 34 0 123
+130 124 11 06 0 124
+131 125 4 05 0 125
+132 126 4 2 0 126
+133 128 4 9 0 127
+134 129 9 20 0 128
+135 130 5 32 0 129
+136 131 4 32 0 130
+137 132 4 3 0 131
+138 133 3 33 0 132
+139 134 14 25 0 133
+140 135 5 04 0 134
+141 136 5 7 0 135
+142 137 12 35 0 136
+143 170 78 16 0 137
+144 171 13 34 0 138
+145 172 18 28 0 139
+146 173 30 3 0 140
+
+147 174 9 12 0 141
+148 175 10 2 0 142
+149 176 17 3 0 143
+150 177 10 12 0 144
+151 178 9 13 0 145
+152 179 18 8 0 146
+153 180 2 0 0 147
+154 181 9 33 0 148
+155 182 4 8 0 149
+156 183 1 13 0 150
+157 184 2 29 0 151
+158 185 1 25 0 152
+153 159 186 0 13 0
+160 187 1 31 0 154
+161 188 2 27 0 155
+162 189 1 00 0 156
+163 190 0 39 0 157
+164 191 0 32 0 158
+165 192 0 21 0 159
+166 193 0 28 0 160
+167 194 1 14 0 161
+168 195 1 28 0 162
+169 196 0 37 0 163
+170 197 1 2 0 164
+171 198 2 10 0 165
+172 199 4 33 0 166
+173 200 2 21 0 167
+174 201 4 12 0 168
+175 202 4 06 0 169
+176 203 1 35 0 170
+177 204 2 33 0 171
+178 205 2 28 0 172
+179 206 2 0 0 173
+180 207 5 34 0 174
+181 208 1 19 0 175
+182 209 5 37 0 176
+183 210 0 33 0 177
+184 211 3 27 0 178
+185 212 2 37 0 179
+
+186 213 4 21 0 180
+187 214 2 28 0 181
+188 215 4 33 0 182
+189 216 4 08 0 183
+190 217 6 12 0 184
+191 218 4 11 0 185
+192 219 2 38 0 186
+193 220 1 38 0 187
+194 221 6 00 0 188
+195 222 5 22 0 189
+196 223 4 17 0 190
+197 224 5 31 0 191
+198 225 11 12 0 192
+199 226 24 13 0 193
+200 227 1 14 0 194
+201 228 19 33 0 195
+202 229 8 23 0 196
+203 230 22 8 0 197
+204 231 30 19 0 198
+205 232 7 28 0 199
+206 233 9 23 0 200
+207 234 3 17 0 201
+208 235 4 4 0 202
+209 236 5 39 0 203
+210 237 8 01 0 204
+211 238 4 5 0 205
+212 239 3 9 0 206
+213 240 3 12 0 207
+214 241 0 32 0 208
+215 242 0 32 0 209
+216 243 5 24 0 210
+217 244 8 15 0 211
+218 245 0 31 0 212
+219 246 8 2 0 213
+220 247 3 28 0 214
+221 248 7 9 0 215
+222 249 14 19 0 216
+223 250 4 29 0 217
+224 251 7 2 0 218
+225 252 5 29 0 219
+226 253 12 8 0 220
+
+227 254 7 9 0 221
+228 255 3 33 0 222
+229 256 5 6 0 223
+230 257 9 18 0 224
+231 258 5 24 0 225
+232 259 4 13 0 226
+233 260 4 37 0 227
+234 261 3 19 0 228
+235 262 8 5 0 229
+236 263 11 28 0 230
+237 264 7 14 0 231
+238 265 8 33 0 232
+239 266 5 21 0 233
+240 267 5 15 0 234
+241 268 5 15 0 235
+242 269 9 34 0 236
+243 270 3 37 0 237
+244 271 7 30 0 238
+245 272 24 30 0 239
+246 273 30 4 0 240
+247 274 4 30 0 241
+248 275 3 3 0 242
+249 276 3 22 0 243
+250 277 6 34 0 244
+251 278 2 7 0 245
+252 279 9 18 0 246
+253 280 4 7 0 247
+254 281 11 9 0 248
+255 282 5 32 0 249
+256 283 1 29 0 250
+257 284 2 23 0 251
+258 285 2 5 0 252
+259 286 3 15 0 253
+260 287 2 25 0 254
+261 288 9 24 0 255
+262 289 7 37 0 256
+263 290 4 3 0 257
+264 291 6 16 0 258
+265 292 13 1 0 259
+266 293 5 34 0 260
+267 294 8 18 0 261
+
+268 295 9 17 0 262
+269 296 6 28 0 263
+270 297 7 31 0 264
+271 298 8 13 0 265
+272 299 7 10 0 266
+273 300 11 18 0 267
+274 302 0 38 0 268
+275 303 0 37 0 269
+276 304 0 28 0 270
+277 305 1 20 0 271
+278 306 0 25 0 272
+279 307 0 34 0 273
+Total 1900 16 11.5
+BOUNDARIES OF THE VILLAGE KACHAVI
+EAST Chogachikoppa village and
+NORTH Tilavalli village boundary
+Byadagi talluka boundaries
+WEST purakondikoppa village SOUTH Nittur village & soraba
+
+boundary talluk Boundaries
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue the Karnataka Land Revenue Act, 1964 (Karnataka Act 12 of 1964) shall
+come into effect from the date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+(1) (2) (3) (4)
+1 159 4 31 0 1
+0 2 160 4 26 2
+3 160 1 14 0 3
+4 161 14 39 0 4
+5 162 20 27 0 5
+6 163 10 14 0 6
+7 164 2 24 0 7
+8 165 3 16 0 8
+9 166 4 37 0 9
+10 167 17 38 0 10
+11 168 17 25 0 11
+12 169 26 2 0 12
+13 140 4 34 0 13
+
+14 141 4 32 0 14
+0 15 142 4 0 15
+16 143 4 8 16
+17 144 2 3 17
+18 145 2 37 0 18
+19 146 3 8 0 19
+20 147 4 18 0 20
+21 148 11 16 0 21
+22 139 14 19 0 22
+0 23 138 11 26 23
+24 127 4 39 0 24
+0 25 149 13 27 25
+26 150 5 27 0 26
+0 27 151 12 10 27
+28 152 8 5 0 28
+0 29 153 13 38 29
+30 154 9 39 0 30
+31 155 1 6 0 31
+32 156 1 3 0 32
+33 157 1 9 0 33
+34 158 1 15 0 34
+
+160 9 5 0
+301 3 20 0
+
+(1) (2) (3) (4) (5)
+1 1C 0 30 0 1C
+2 1§ 0 7 0 1§
+4 2 1 28 0 2
+5 3 5 05 0 3
+4 4 6 12 20 0
+7 5 4 20 0 5
+8 6 4 34 0 6
+9 7 5 22 0 7
+10 8 11 33 0 8
+11 9 12 05 0 9
+12 10 5 24 0 10
+13 11 11 12 0 11
+14 12 9 8 0 12
+15 13 8 27 0 13
+16 14 3 16 0 14
+17 15 7 03 0 15
+18 16 1 07 0 16
+19 17 0 29 0 17
+20 18 5 9 0 18
+21 19 2 9 0 19
+22 20 3 10 0 20
+23 21 0 30 0 21
+24 22 3 34 0 22
+25 23 3 32 0 23
+26 24 2 24 0 24
+
+27 25 8 33 0 25
+28 26 9 12 0 26
+29 27 3 20 0 27
+30 28 11 13 0 28
+31 29 7 34 0 29
+32 30 0 2 0 30
+33 31 11 04 0 31
+34 32 4 33 0 32
+35 33 4 9 0 33
+36 34 3 20 0 34
+37 35 18 22 0 35
+38 36 8 8 0 36
+37 37 39 13 18 0
+40 38 3 4 0 38
+41 39 21 26 0 39
+42 40 0 18 0 40
+43 41 24 21 0 41
+44 42 0 9 0 42
+45 43 01 33 0 43
+46 44 1 1 0 44
+47 45 14 4 0 45
+48 46 1 32 0 46
+49 47 3 31 0 47
+50 48 4 39 0 48
+51 49 7 31 0 49
+52 50 3 15 0 50
+53 51 2 29 0 51
+54 52 2 06 0 52
+55 53 2 20 0 53
+56 54 2 30 0 54
+57 55 4 07 0 55
+58 56 2 28 0 56
+59 57 2 31 0 57
+60 58 4 31 0 58
+61 59 19 19 0 59
+62 60 2 38 0 60
+63 61 11 8 0 61
+64 62 18 18 0 62
+65 63C 2 22 0 63C
+
+66 63§ 4 39 11.5 63§
+67 64C 4 2 0 64C
+68 64§ 1 38 0 64§
+69 65 0 34 0 65
+70 66 10 33 0 66
+71 67 4 21 0 67
+72 68 17 31 0 68
+73 69 8 4 0 69
+74 70 3 6 0 70
+75 71 2 5 0 71
+76 72 2 36 0 72
+77 73 3 22 0 73
+74 74 78 10 12 0
+79 75 3 2 0 75
+80 76 2 30 0 76
+81 77 2 27 0 77
+82 78 4 31 0 78
+83 79 8 4 0 79
+84 80 4 29 0 80
+85 81 8 38 0 81
+86 82 3 27 0 82
+87 83 9 4 0 83
+88 84 8 22 0 84
+89 85 1 01 0 85
+90 86 3 15 0 86
+91 87 3 26 0 87
+92 88 10 12 0 88
+93 89 5 38 0 89
+94 90 8 15 0 90
+95 91 11 11 0 91
+96 92 6 14 0 92
+97 93 1 3 0 93
+98 94 4 35 0 94
+99 95 16 34 0 95
+100 96 6 11 0 96
+101 97 7 30 0 97
+102 98 3 9 0 98
+103 99 11 7 0 99
+104 100 4 0 0 100
+
+105 101 3 5 0 101
+106 102 3 31 0 102
+107 103 26 33 0 103
+108 104 3 30 0 104
+109 105 5 33 0 105
+110 106 5 22 0 106
+111 107 5 4 0 107
+112 108 9 19 0 108
+113 109 7 33 0 109
+114 110 4 2 0 110
+115 111 7 9 0 111
+116 112 21 9 0 112
+113 113 117 2 1 0
+118 114 28 7 0 114
+119 115C 21 5 0 115C
+120 115§ 3 0 0 115§
+122 116 11 31 0 116
+123 117 5 16 0 117
+124 118 6 6 0 118
+125 119 2 5 0 119
+126 120 10 16 0 120
+127 121 4 10 0 121
+128 122 8 26 0 122
+129 123 1 34 0 123
+130 124 11 06 0 124
+131 125 4 05 0 125
+132 126 4 2 0 126
+133 128 4 9 0 127
+134 129 9 20 0 128
+135 130 5 32 0 129
+136 131 4 32 0 130
+137 132 4 3 0 131
+138 133 3 33 0 132
+139 134 14 25 0 133
+140 135 5 04 0 134
+141 136 12 7 0 135
+142 137 78 35 0 136
+143 170 13 16 0 137
+
+144 171 18 34 0 138
+145 172 18 28 0 139
+146 173 30 3 0 140
+147 174 9 12 0 141
+148 175 10 2 0 142
+149 176 17 3 0 143
+150 177 10 12 0 144
+151 178 9 13 0 145
+152 179 18 8 0 146
+153 180 2 0 0 147
+154 181 9 33 0 148
+155 182 4 8 0 149
+150 156 183 1 13 0
+157 184 2 29 0 151
+158 185 1 25 0 152
+159 186 0 13 0 153
+160 187 1 31 0 154
+161 188 2 27 0 155
+162 189 1 00 0 156
+163 190 0 39 0 157
+164 191 0 32 0 158
+165 192 0 21 0 159
+166 193 0 28 0 160
+167 194 1 14 0 161
+168 195 1 28 0 162
+169 196 0 37 0 163
+170 197 1 2 0 164
+171 198 2 10 0 165
+172 199 4 33 0 166
+173 200 2 21 0 167
+174 201 4 12 0 168
+175 202 4 06 0 169
+176 203 1 35 0 170
+177 204 2 33 0 171
+178 205 2 28 0 172
+179 206 2 0 0 173
+180 207 5 34 0 174
+181 208 1 19 0 175
+182 209 5 37 0 176
+
+183 210 0 33 0 177
+184 211 3 27 0 178
+185 212 2 37 0 179
+186 213 4 21 0 180
+187 214 2 28 0 181
+188 215 4 33 0 182
+189 216 4 08 0 183
+190 217 6 12 0 184
+191 218 4 11 0 185
+192 219 2 38 0 186
+193 220 1 38 0 187
+194 221 6 00 0 188
+195 222 5 22 0 189
+196 223 4 17 0 190
+197 224 5 31 0 191
+198 225 11 12 0 192
+199 226 24 13 0 193
+200 227 1 14 0 194
+201 228 19 33 0 195
+202 229 8 23 0 196
+203 230 22 8 0 197
+204 231 30 19 0 198
+205 232 7 28 0 199
+206 233 9 23 0 200
+207 234 3 17 0 201
+208 235 4 4 0 202
+209 236 5 39 0 203
+210 237 8 01 0 204
+211 238 4 5 0 205
+212 239 3 9 0 206
+213 240 3 12 0 207
+214 241 0 32 0 208
+215 242 0 32 0 209
+216 243 5 24 0 210
+217 244 8 15 0 211
+218 245 0 31 0 212
+219 246 8 2 0 213
+220 247 3 28 0 214
+221 248 7 9 0 215
+222 249 14 19 0 216
+223 250 4 29 0 217
+
+224 251 7 2 0 218
+225 252 5 29 0 219
+226 253 12 8 0 220
+227 254 7 9 0 221
+228 255 3 33 0 222
+229 256 5 6 0 223
+230 257 9 18 0 224
+231 258 5 24 0 225
+232 259 4 13 0 226
+233 260 4 37 0 227
+234 261 3 19 0 228
+235 262 8 5 0 229
+236 263 11 28 0 230
+237 264 7 14 0 231
+238 265 8 33 0 232
+239 266 5 21 0 233
+240 267 5 15 0 234
+241 268 5 15 0 235
+242 269 9 34 0 236
+243 270 3 37 0 237
+244 271 7 30 0 238
+245 272 24 30 0 239
+246 273 30 4 0 240
+247 274 4 30 0 241
+248 275 3 3 0 242
+249 276 3 22 0 243
+250 277 6 34 0 244
+251 278 2 7 0 245
+252 279 9 18 0 246
+253 280 4 7 0 247
+254 281 11 9 0 248
+255 282 5 32 0 249
+256 283 1 29 0 250
+257 284 2 23 0 251
+258 285 2 5 0 252
+259 286 3 15 0 253
+260 287 2 25 0 254
+261 288 9 24 0 255
+262 289 7 37 0 256
+263 290 4 3 0 257
+264 291 6 16 0 258
+
+265 292 13 1 0 259
+266 293 5 34 0 260
+267 294 8 18 0 261
+268 295 9 17 0 262
+269 296 6 28 0 263
+270 297 7 31 0 264
+271 298 8 13 0 265
+272 299 7 10 0 266
+273 300 11 18 0 267
+274 302 0 38 0 268
+275 303 0 37 0 269
+276 304 0 28 0 270
+277 305 1 20 0 271
+278 306 0 25 0 272
+279 307 0 34 0 273
+
+PR-865
+
+GOVERNEMNT OF KARNATAKA
+RD 119 GLH 2022 Karnataka Government Secretariat
+Multi Storied Building
+Bengaluru, Date :07.11.2023
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD:119GLH 2022 KAMGRARA Dated:05-07-
+2022 regarding altering the limits of Chinnamulagunda village of Hirekerur Taluk and Haveri
+District and constituting a new revenue village called 1)Lingapura 2) Seva was published as
+required by section 6 of the Karnataka Land Revenue Act, 1964 (Karnataka act No.12 of 1964) in the
+Karanataka Gazette No. 8292 Part 4A, dated: 25-07-2022 inviting objections or suggestions from all
+the persons likely to be affected thereby within thirty days from the date of its publication in the
+Official Gazette.
+And whereas, the said gazette was made available to the public on Dated.25-07-2022 and
+whereas, no objections and suggestions have been received and considered by the State Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka Land Revenue
+Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka here by makes the following
+notification, namely:-
+
+SCHEDULE-1
+Lands bearing survey numbers specified below shall be excluded from the limits of
+Chinnamulagunda Villages of Hirekerur taluk Haveri district to form a new revenue village
+called as Lingapura of Hirekerur taluk and Haveri district along with the new numbers
+assigned thereto
+TABLE-01
+
+Lingapur village
+Old Sy. Extent of areas transferred to
+new village Lingapur No.and
+villages Survey numbers specified
+in column(2) which are to from which
+be included to form new
+Sl no areas are
+village Lingapur and new
+excluded Acre Gunte anna
+survey numbers assigned
+to them from
+Chinnamul
+agunda
+(1) (2) (3) (4)
+1 101 26 11 0 22
+2 102 02 02 0 23
+3 103 25 15 0 24
+4 104 05 39 0 25
+5 105 14 28 0 26
+6 106 07 24 0 27
+7 107 20 18 0 28
+8 108 35 28 0 29
+9 109 34 21 0 32
+10 110 08 18 0 31
+
+11 111 09 05 0 33
+12 112 04 03 0 34
+13 113 11 37 0 35
+14 114 07 13 0 36
+15 115 07 34 0 37
+16 116 06 17 38
+17 117 01 24 39
+18 118 01 29 0 40
+19 119 02 02 0 41
+20 120 11 30 0 42
+21 121 09 01 0 43
+22 122 10 33 0 44
+23 123 22 16 0 45
+24 124 26 29 0 46
+25 125 00 37 0 48
+26 126 08 27 0 76
+27 127 11 12 0 79
+28 128 02 09 0 77
+29 129 01 37 0 78
+30 130 04 00 0 01
+31 131 02 32 0 02
+32 132 04 03 0 07
+33 133A 08 38 0 8A
+34 133B 00 02 0 8B
+35 134 04 00 0 9
+36 135 14 30 0 10
+37 136 01 36 0 11
+38 137 01 39 0 12
+39 138 07 37 0 13
+40 139 06 05 0 14
+41 140 09 01 0 15
+42 141 16 18 0 30
+43 142 03 00 0 16
+44 143 06 06 0 17
+45 144 06 22 0 18
+46 145 10 33 0 19
+47 146 04 27 0 20
+48 147 16 02 0 21
+49 149 11 14 0 5
+50 150 06 18 0 6
+51 151 08 10 0 4
+52 152 03 07 0 3
+53 153 12 07 0 81
+54 154 07 12 0 80
+55 155 15 02 0 74
+56 156 07 12 0 75
+
+57 157 22 04 0 73
+58 158 20 38 0 51
+59 159 26 07 0 50
+60 160 21 17 0 52
+61 161 12 20 0 54
+62 162 04 23 0 53
+63 163 04 25 0 56
+64 164 13 07 0 55
+65 165 28 39 0 61
+66 166 25 18 0 57
+67 167 16 32 0 58
+68 168 05 08 0 60
+69 169 16 22 0 59
+70 170 21 07 0 63
+71 171 13 05 0 64
+72 172 11 18 0 65
+73 173 24 33 0 62
+74 174 12 22 0 72
+75 175 14 17 0 71
+76 176 21 17 0 70
+77 177 18 17 0 66
+78 178 17 08 0 69
+79 179 28 19 0 67
+80 180 19 35 0 68
+81 427 00 22 0 47
+82 431 00 20 0 49
+Total 961 32 0
+
+Note: The extent of Gramathana within the said village is to be the extent specified below
+namely:- LINGAPURA
+
+Extent
+Survey Number
+acre acre
+Existing Gramatana 13 00
+There shall be constituted a new village called LINGAPURA in HIREKERURU taluk, HAVERI
+District and boundaries of the village shall be as specified below:-
+
+BOUNDARIES OF THE NEW VILLAGE LINGAPURA
+CHINNAMULAGUNDA VILLAGE
+EAST NORTH
+BOUNDARY BYADAGI talluk BOUNDARY
+YOGIKOPPA VILLAGE
+WEST SOUTH
+BOUNDARY
+BYADAGI talluk BOUNDARY
+
+SCHEDULE-2
+The Survey numbers and areas remaining in the SEVA village specified in
+column (2) shall be assigned new survey numbers in the said village specified in
+column(4)
+TABLE-2
+Old Sy. No.and Extent of areas transferred
+Survey numbers specified
+villages from to new village SEVA Remarks
+in column(2) which are to
+Sl which areas are be included to form new
+no village SEVS and new excluded from
+Acre Gunte Anna
+survey numbers assigned
+chinnamulagun
+to them
+da
+(1) (2) (3) (4) (5)
+04a-0g
+1 360 56 13 0 1 Gramatan
+a
+2 359 24 26 0 2
+3 358 07 28 0 3
+Total 88 27 0
+
+Note: The extent of Gramathana within the said village is to be the extent specified below
+namely
+
+Extent
+Survey Number
+acre acre
+360 pyki 04 00
+
+There shall be constituted a new village called SEVA in HIREKERURU taluk, HAVERI District
+and boundaries of the village shall be as specified below:-
+BOUNDARIES OF THE NEW VILLAGE SEVA
+Tadasa and bidarakatti
+EAST Bydagi talluka Boundary NORTH
+village boundary
+Chinnamulagunda village
+WEST Chinnamulagunda village boundary SOUTH
+boundary
+
+SCHEDULE-03
+The Survey numbers and areas remaining in the CHINNAMULAGUNDA village
+specified in column (2) shall be assigned new survey numbers in the said village
+specified in column(4)
+
+TABLE-03
+Survey numbers Area
+remaining in
+New Survey numbers
+Chinnamulagunda
+assigned to the
+village after
+remaining survey
+Sl no excluding the survey
+Acre Gunte anna numbers in
+numbers which are
+Chinnamulagunda
+to be included to
+specified column (2)
+form village
+Lingapura and Seva
+(1) (2) (3) (4)
+1 1 1 8 0 1
+2 2 11 36 0 2
+3 3 105 30 0 3
+4 4 17 34 0 4
+5 5 241 37 0 5
+6 6 20 16 0 6
+7 7 18 38 0 7
+8 8 21 7 0 8
+9 9 17 39 0 9
+10 10 28 21 0 10
+11 11 24 5 0 11
+12 12 24 0 0 12
+13 13 3 4 0 13
+14 14 7 18 0 14
+15 15 17 39 0 15
+16 16 5 32 0 16
+17 17 6 21 0 17
+18 18 2 12 0 18
+19 19 2 14 0 19
+20 20 1 29 0 20
+21 21 2 12 0 21
+22 22 2 8 0 22
+23 23 1 37 0 23
+24 24 2 25 0 24
+25 25 2 17 0 25
+26 26 2 4 0 26
+27 27 6 2 0 27
+28 28 4 29 0 28
+29 29 16 38 0 29
+30 30 20 23 0 30
+31 31 20 20 0 31
+32 32 6 30 0 32
+33 33 13 23 0 33
+34 34 4 10 0 34
+35 35 13 10 0 35
+36 36 8 25 0 36
+37 37 4 19 0 37
+
+38 38 15 37 0 38
+39 39 11 31 0 39
+40 40 14 22 0 40
+41 41 7 31 0 41
+42 42 7 3 0 42
+43 43 20 28 0 43
+44 44 27 13 0 44
+45 45 7 15 0 45
+46 46 1 19 0 46
+47 47 1 7 0 47
+48 48 3 6 0 48
+49 49 3 16 0 49
+50 50 4 11 0 50
+51 51 7 0 0 51
+52 52 5 7 0 52
+53 53 18 21 0 53
+54 54 3 31 0 54
+55 55 2 37 0 55
+56 56 12 16 0 56
+57 57 7 9 0 57
+58 58 14 11 0 58
+59 59 8 0 0 59
+60 60 4 39 0 60
+61 61 8 9 0 61
+62 62 4 30 0 62
+63 63 2 36 0 63
+64 64 3 20 0 64
+65 65 2 9 0 65
+66 66 5 16 0 66
+67 67 6 6 0 67
+68 68 6 33 0 68
+69 69 5 9 0 69
+70 70 1 12 0 70
+71 71 2 35 0 71
+72 72 5 27 0 72
+73 73 3 24 0 73
+74 74 4 25 0 74
+75 75 0 29 0 75
+76 76 2 33 0 76
+77 77 4 26 0 77
+78 78 4 18 0 78
+79 79 5 13 0 79
+80 80 8 16 0 80
+81 81 14 4 0 81
+82 82 19 5 0 82
+83 83 2 18 0 83
+84 84 3 11 0 84
+85 85 11 38 0 85
+
+86 86 4 22 0 86
+87 87 5 38 0 87
+88 88 8 2 0 88
+89 89 7 34 0 89
+90 90 4 6 0 90
+91 91 4 32 0 91
+92 92 4 13 0 92
+93 93 7 38 0 93
+94 94 10 33 0 94
+95 95 15 22 0 95
+96 96 14 10 0 96
+97 97 24 6 0 97
+98 98 9 20 0 98
+99 99 14 6 0 99
+100 100 7 22 0 100
+101 148 24 19 0 101
+102 209 12 13 0 102
+103 210 5 20 0 103
+104 211 9 23 0 104
+105 212 2 22 0 105
+106 213 3 24 0 106
+107 214 4 13 0 107
+108 215 2 0 0 108
+109 216 9 37 0 109
+110 217 16 9 0 110
+111 208 4 26 0 111
+112 207 5 4 0 112
+113 206 8 12 0 113
+114 205 3 29 0 114
+115 204 4 1 0 115
+116 200 9 35 0 116
+117 199 7 6 0 117
+118 198 9 9 0 118
+119 197 10 0 0 119
+120 201 6 36 0 120
+121 202 3 26 0 121
+122 203 6 25 0 122
+123 222 11 4 0 123
+124 221 3 3 0 124
+125 220 5 0 0 125
+126 219 6 35 0 126
+127 218 1 27 0 127
+128 229 4 24 0 128
+129 228 2 38 0 129
+130 227 4 8 0 130
+131 230 3 23 0 131
+132 231 2 26 0 132
+133 232 2 22 0 133
+
+134 235 6 2 0 134
+135 238 12 20 0 135
+136 240 1 12 0 136
+137 239 1 8 0 137
+138 242 1 30 0 138
+139 241 1 14 0 139
+140 243 3 16 0 140
+141 244 3 13 0 141
+142 245 0 34 0 142
+143 246 2 16 0 143
+144 247 2 28 0 144
+145 248 1 35 0 145
+146 258 2 24 0 146
+147 259 2 13 0 147
+148 260 1 26 0 148
+149 257 0 34 0 149
+150 256 1 11 0 150
+151 255 1 22 0 151
+152 249 2 4 0 152
+153 250 1 11 0 153
+154 251 1 17 0 154
+155 252 1 32 0 155
+156 253 1 18 0 156
+157 254 1 20 0 157
+158 261 1 2 0 158
+159 262 1 33 0 159
+160 263 3 26 0 160
+161 264 3 9 0 161
+162 265 12 16 0 162
+163 266 6 23 0 163
+164 267 5 35 0 164
+165 237 1 27 0 165
+166 236 2 13 0 166
+167 234 2 28 0 167
+168 233 5 27 0 168
+169 269 4 21 0 169
+170 268 17 3 0 170
+171 272 10 35 0 171
+172 270 2 14 0 172
+173 271 6 21 0 173
+174 385 2 4 0 174
+175 190 3 22 0 175
+176 186 5 11 0 176
+177 226 4 10 0 177
+178 225 5 1 0 178
+179 187 2 9 0 179
+180 224 8 10 0 180
+181 188 5 36 0 181
+
+182 223 6 32 0 182
+183 195 16 6 0 183
+184 196 17 37 0 184
+185 194 7 27 0 185
+186 189 7 9 0 186
+187 191 6 5 0 187
+188 193 6 19 0 188
+189 192 9 37 0 189
+190 183 9 11 0 190
+191 182 13 31 0 191
+192 181 17 38 0 192
+193 276 14 32 0 193
+194 275 14 38 0 194
+195 184 6 22 0 195
+196 273 14 39 0 196
+197 274 15 30 0 197
+198 277 16 2 0 198
+199 278 18 11 0 199
+200 279 10 6 0 200
+201 280 0 13 0 201
+202 281 20 19 0 202
+203 282 16 17 0 203
+204 283 20 4 0 204
+205 285 14 18 0 205
+206 286 14 1 0 206
+207 287 6 31 0 207
+208 288 7 28 0 208
+209 289 7 11 0 209
+210 290 7 12 0 210
+211 291 5 19 0 211
+212 282 8 9 0 212
+213 346 10 17 0 213
+214 292 5 11 0 214
+215 293 5 25 0 215
+216 294 16 18 0 216
+217 295 5 18 0 217
+218 296 99 35 0 218
+219 338 15 10 0 219
+220 339 16 2 0 220
+221 344 10 6 0 221
+222 345 7 14 0 222
+223 347 24 15 0 223
+224 348 28 10 0 224
+225 349 22 28 0 225
+226 350 9 21 0 226
+227 351 20 26 0 227
+228 356 25 9 0 228
+229 357 15 19 0 229
+
+230 355 23 26 0 230
+231 354 8 34 0 231
+232 353 22 14 0 232
+233 352 13 21 0 233
+234 343 25 6 0 234
+235 342 12 27 0 235
+236 341 15 20 0 236
+237 340 15 22 0 237
+238 337 16 4 0 238
+239 336 13 1 0 239
+240 335 0 20 0 240
+241 334 4 11 0 241
+242 333 1 23 0 242
+243 332 1 3 0 243
+244 329 1 15 0 244
+245 328 2 14 0 245
+246 327 3 12 0 246
+247 330 1 7 0 247
+248 331 1 16 0 248
+249 325 4 24 0 249
+250 324 1 22 0 250
+251 323 6 16 0 251
+252 322 1 12 0 252
+253 321 2 21 0 253
+254 320 5 22 0 254
+255 326 3 1 0 255
+256 319 3 0 0 256
+257 318 6 9 0 257
+258 317 5 7 0 258
+259 316 4 1 0 259
+260 315 2 5 0 260
+261 314 2 15 0 261
+262 313 6 25 0 262
+263 312 1 27 0 263
+264 311 2 34 0 264
+265 310 4 16 0 265
+266 307 1 0 0 266
+267 306 2 28 0 267
+268 308 2 36 0 268
+269 309 2 15 0 269
+270 305 6 11 0 270
+271 304 8 23 0 271
+272 303 4 31 0 272
+273 302 3 2 0 273
+274 297 5 35 0 274
+275 298 2 13 0 275
+276 299/a 2 35 0 276a
+277 299/b 0 20 0 276b
+
+278 301 0 28 0 277
+279 300 4 24 0 278
+280 433 4 8 0 279
+281 434 2 7 0 280
+282 432 1 22 0 281
+283 435 0 26 0 282
+284 436 1 33 0 283
+285 426 1 24 0 284
+286 425 5 20 0 285
+287 424 3 2 0 286
+288 423 2 32 0 287
+289 422 5 11 0 288
+290 421 2 24 0 289
+291 420 2 4 0 290
+292 419 88 23 0 291
+293 418 6 23 0 292
+294 417 6 27 0 293
+295 416 0 38 0 294
+296 413 3 0 0 295
+297 412 2 6 0 296
+298 408 9 21 0 297
+299 407 10 22 0 298
+300 406 3 6 0 299
+301 409 4 30 0 300
+302 411 6 11 0 301
+303 414 4 26 0 302
+304 415 8 1 0 303
+305 410 7 7 0 304
+306 403 11 36 0 305
+307 402 4 10 0 306
+308 401 10 14 0 307
+309 404 5 30 0 308
+310 405 7 17 0 309
+311 400 7 0 0 310
+312 399 5 27 0 311
+313 398 17 39 0 312
+314 397 23 13 0 313
+315 395 2 38 0 314
+316 394 19 22 0 315
+317 396 22 26 0 316
+318 393 14 24 0 317
+319 392 11 18 0 318
+320 391 6 39 0 319
+321 390 14 36 0 320
+322 389 20 10 0 321
+323 388 7 19 0 322
+324 387 11 28 0 323
+325 385 16 10 0 324
+
+326 386 5 20 0 325
+327 384 7 26 0 326
+328 383 5 15 0 327
+329 378 3 16 0 328
+330 377 16 9 0 329
+331 380 3 24 0 330
+332 379 7 19 0 331
+333 382 3 22 0 332
+334 372 9 14 0 333
+335 371 17 7 0 334
+336 370 24 15 0 335
+337 373 12 35 0 336
+338 381 5 6 0 337
+339 374 3 31 0 338
+340 375 5 25 0 339
+341 376 14 9 0 340
+342 366 28 34 0 341
+343 367 5 1 0 342
+344 368 7 18 0 343
+345 369 27 13 0 344
+346 365 28 5 0 345
+347 364 37 10 0 346
+348 363 5 31 0 347
+349 362 21 26 0 348
+350 361 22 21 0 349
+351 428 0 23 0 350
+352 429 1 9 0 351
+353 430 1 20 0 352
+Total 3371 22 0
+BOUNDARIES OF THE VILLAGE CHINNAMULAGUNDA
+SEVA village and Byadagi talluka
+EAST NORTH Byadagi talluka boundary
+boundaries
+WEST LINGAPUR village boundaries SOUTH Yogikoppa village Boundary
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue the Karnataka Land Revenue Act, 1964 (Karnataka Act 12 of 1964) shall
+come into effect from the date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+(1) (2) (3) (4)
+1 101 26 11 0 22
+2 102 02 02 0 23
+3 103 25 15 0 24
+4 104 05 39 0 25
+5 105 14 28 0 26
+6 106 07 24 0 27
+7 107 20 18 0 28
+8 108 35 28 0 29
+9 109 34 21 0 32
+10 110 08 18 0 31
+11 111 09 05 0 33
+12 112 04 03 0 34
+13 113 11 37 0 35
+14 114 07 13 0 36
+15 115 07 34 0 37
+
+0 16 116 06 17 38
+0 17 117 01 24 39
+18 118 01 29 0 40
+19 119 02 02 0 41
+20 120 11 30 0 42
+21 121 09 01 0 43
+22 122 10 33 0 44
+23 123 22 16 0 45
+24 124 26 29 0 46
+25 125 00 37 0 48
+26 126 08 27 0 76
+27 127 11 12 0 79
+28 128 02 09 0 77
+29 129 01 37 0 78
+30 130 04 00 0 01
+31 131 02 32 0 02
+32 132 04 03 0 07
+0 33 133C 08 38 8C
+34 133§ 00 02 0 8§
+35 134 04 00 0 9
+36 135 14 30 0 10
+37 136 01 36 0 11
+38 137 01 39 0 12
+39 138 07 37 0 13
+40 139 06 05 0 14
+41 140 09 01 0 15
+42 141 16 18 0 30
+43 142 03 00 0 16
+44 143 06 06 0 17
+45 144 06 22 0 18
+46 145 10 33 0 19
+47 146 04 27 0 20
+48 147 16 02 0 21
+49 149 11 14 0 5
+50 150 06 18 0 6
+51 151 08 10 0 4
+52 152 03 07 0 3
+53 153 12 07 0 81
+54 154 07 12 0 80
+55 155 15 02 0 74
+56 156 07 12 0 75
+57 157 22 04 0 73
+58 158 20 38 0 51
+59 159 26 07 0 50
+60 160 21 17 0 52
+61 161 12 20 0 54
+62 162 04 23 0 53
+63 163 04 25 0 56
+64 164 13 07 0 55
+65 165 28 39 0 61
+66 166 25 18 0 57
+67 167 16 32 0 58
+68 168 05 08 0 60
+
+69 169 16 22 0 59
+70 170 21 07 0 63
+71 171 13 05 0 64
+72 172 11 18 0 65
+73 173 24 33 0 62
+74 174 12 22 0 72
+75 175 14 17 0 71
+76 176 21 17 0 70
+77 177 18 17 0 66
+78 178 17 08 0 69
+79 179 28 19 0 67
+80 180 19 35 0 68
+81 427 00 22 0 47
+82 431 00 20 0 49
+
+(1) (2) (3) (4)
+1 360 56 13 0 1
+2 359 24 26 0 2
+3 358 07 28 0 3
+
+(1) (2) (3) (4)
+1 1 1 8 0 1
+2 2 11 36 0 2
+3 3 105 30 0 3
+4 4 17 34 0 4
+5 5 241 37 0 5
+6 6 20 16 0 6
+7 7 18 38 0 7
+8 8 21 7 0 8
+9 9 17 39 0 9
+10 10 28 21 0 10
+11 11 24 5 0 11
+12 12 24 0 0 12
+13 13 3 4 0 13
+14 14 7 18 0 14
+15 15 17 39 0 15
+16 16 5 32 0 16
+17 17 6 21 0 17
+18 18 2 12 0 18
+19 19 2 14 0 19
+20 20 1 29 0 20
+
+21 21 2 12 0 21
+22 22 2 8 0 22
+23 23 1 37 0 23
+24 24 2 25 0 24
+25 25 2 17 0 25
+26 26 2 4 0 26
+27 27 6 2 0 27
+28 28 4 29 0 28
+29 29 16 38 0 29
+30 30 20 23 0 30
+31 31 20 20 0 31
+32 32 6 30 0 32
+33 33 13 23 0 33
+34 34 4 10 0 34
+35 35 13 10 0 35
+36 36 8 25 0 36
+37 37 4 19 0 37
+38 38 15 37 0 38
+39 39 11 31 0 39
+40 40 14 22 0 40
+41 41 7 31 0 41
+42 42 7 3 0 42
+43 43 20 28 0 43
+44 44 27 13 0 44
+45 45 7 15 0 45
+46 46 1 19 0 46
+47 47 1 7 0 47
+48 48 3 6 0 48
+49 49 3 16 0 49
+50 50 4 11 0 50
+51 51 7 0 0 51
+52 52 5 7 0 52
+53 53 18 21 0 53
+54 54 3 31 0 54
+55 55 2 37 0 55
+56 56 12 16 0 56
+57 57 7 9 0 57
+58 58 14 11 0 58
+59 59 8 0 0 59
+60 60 4 39 0 60
+61 61 8 9 0 61
+62 62 4 30 0 62
+63 63 2 36 0 63
+64 64 3 20 0 64
+65 65 2 9 0 65
+66 66 5 16 0 66
+67 67 6 6 0 67
+68 68 6 33 0 68
+
+69 69 5 9 0 69
+70 70 1 12 0 70
+71 71 2 35 0 71
+72 72 5 27 0 72
+73 73 3 24 0 73
+74 74 4 25 0 74
+75 75 0 29 0 75
+76 76 2 33 0 76
+77 77 4 26 0 77
+78 78 4 18 0 78
+79 79 5 13 0 79
+80 80 8 16 0 80
+81 81 14 4 0 81
+82 82 19 5 0 82
+83 83 2 18 0 83
+84 84 3 11 0 84
+85 85 11 38 0 85
+86 86 4 22 0 86
+87 87 5 38 0 87
+88 88 8 2 0 88
+89 89 7 34 0 89
+90 90 4 6 0 90
+91 91 4 32 0 91
+92 92 4 13 0 92
+93 93 7 38 0 93
+94 94 10 33 0 94
+95 95 15 22 0 95
+96 96 14 10 0 96
+97 97 24 6 0 97
+98 98 9 20 0 98
+99 99 14 6 0 99
+100 100 7 22 0 100
+101 148 24 19 0 101
+102 209 12 13 0 102
+103 210 5 20 0 103
+104 211 9 23 0 104
+105 212 2 22 0 105
+106 213 3 24 0 106
+107 214 4 13 0 107
+108 215 2 0 0 108
+109 216 9 37 0 109
+110 217 16 9 0 110
+111 208 4 26 0 111
+112 207 5 4 0 112
+113 206 8 12 0 113
+114 205 3 29 0 114
+115 204 4 1 0 115
+116 200 9 35 0 116
+
+117 199 7 6 0 117
+118 198 9 9 0 118
+119 197 10 0 0 119
+120 201 6 36 0 120
+121 202 3 26 0 121
+122 203 6 25 0 122
+123 222 11 4 0 123
+124 221 3 3 0 124
+125 220 5 0 0 125
+126 219 6 35 0 126
+127 218 1 27 0 127
+128 229 4 24 0 128
+129 228 2 38 0 129
+130 227 4 8 0 130
+131 230 3 23 0 131
+132 231 2 26 0 132
+133 232 2 22 0 133
+134 235 6 2 0 134
+135 238 12 20 0 135
+136 240 1 12 0 136
+137 239 1 8 0 137
+138 242 1 30 0 138
+139 241 1 14 0 139
+140 243 3 16 0 140
+141 244 3 13 0 141
+142 245 0 34 0 142
+143 246 2 16 0 143
+144 247 2 28 0 144
+145 248 1 35 0 145
+146 258 2 24 0 146
+147 259 2 13 0 147
+148 260 1 26 0 148
+149 257 0 34 0 149
+150 256 1 11 0 150
+151 255 1 22 0 151
+152 249 2 4 0 152
+153 250 1 11 0 153
+154 251 1 17 0 154
+155 252 1 32 0 155
+156 253 1 18 0 156
+157 254 1 20 0 157
+158 261 1 2 0 158
+159 262 1 33 0 159
+160 263 3 26 0 160
+161 264 3 9 0 161
+162 265 12 16 0 162
+163 266 6 23 0 163
+164 267 5 35 0 164
+
+165 237 1 27 0 165
+166 236 2 13 0 166
+167 234 2 28 0 167
+168 233 5 27 0 168
+169 269 4 21 0 169
+170 268 17 3 0 170
+171 272 10 35 0 171
+172 270 2 14 0 172
+173 271 6 21 0 173
+174 385 2 4 0 174
+175 190 3 22 0 175
+176 186 5 11 0 176
+177 226 4 10 0 177
+178 225 5 1 0 178
+179 187 2 9 0 179
+180 224 8 10 0 180
+181 188 5 36 0 181
+182 223 6 32 0 182
+183 195 16 6 0 183
+184 196 17 37 0 184
+185 194 7 27 0 185
+186 189 7 9 0 186
+187 191 6 5 0 187
+188 193 6 19 0 188
+189 192 9 37 0 189
+190 183 9 11 0 190
+191 182 13 31 0 191
+192 181 17 38 0 192
+193 276 14 32 0 193
+194 275 14 38 0 194
+195 184 6 22 0 195
+196 273 14 39 0 196
+197 274 15 30 0 197
+198 277 16 2 0 198
+199 278 18 11 0 199
+200 279 10 6 0 200
+201 280 0 13 0 201
+202 281 20 19 0 202
+203 282 16 17 0 203
+204 283 20 4 0 204
+205 285 14 18 0 205
+206 286 14 1 0 206
+207 287 6 31 0 207
+208 288 7 28 0 208
+209 289 7 11 0 209
+210 290 7 12 0 210
+211 291 5 19 0 211
+212 282 8 9 0 212
+
+213 346 10 17 0 213
+214 292 5 11 0 214
+215 293 5 25 0 215
+216 294 16 18 0 216
+217 295 5 18 0 217
+218 296 99 35 0 218
+219 338 15 10 0 219
+220 339 16 2 0 220
+221 344 10 6 0 221
+222 345 7 14 0 222
+223 347 24 15 0 223
+224 348 28 10 0 224
+225 349 22 28 0 225
+226 350 9 21 0 226
+227 351 20 26 0 227
+228 356 25 9 0 228
+229 357 15 19 0 229
+230 355 23 26 0 230
+231 354 8 34 0 231
+232 353 22 14 0 232
+233 352 13 21 0 233
+234 343 25 6 0 234
+235 342 12 27 0 235
+236 341 15 20 0 236
+237 340 15 22 0 237
+238 337 16 4 0 238
+239 336 13 1 0 239
+240 335 0 20 0 240
+241 334 4 11 0 241
+242 333 1 23 0 242
+243 332 1 3 0 243
+244 329 1 15 0 244
+245 328 2 14 0 245
+246 327 3 12 0 246
+247 330 1 7 0 247
+248 331 1 16 0 248
+249 325 4 24 0 249
+250 324 1 22 0 250
+251 323 6 16 0 251
+252 322 1 12 0 252
+253 321 2 21 0 253
+254 320 5 22 0 254
+255 326 3 1 0 255
+256 319 3 0 0 256
+257 318 6 9 0 257
+258 317 5 7 0 258
+259 316 4 1 0 259
+260 315 2 5 0 260
+
+261 314 2 15 0 261
+262 313 6 25 0 262
+263 312 1 27 0 263
+264 311 2 34 0 264
+265 310 4 16 0 265
+266 307 1 0 0 266
+267 306 2 28 0 267
+268 308 2 36 0 268
+269 309 2 15 0 269
+270 305 6 11 0 270
+271 304 8 23 0 271
+272 303 4 31 0 272
+273 302 3 2 0 273
+274 297 5 35 0 274
+275 298 2 13 0 275
+276 299/a 2 35 0 276a
+277 299/b 0 20 0 276b
+278 301 0 28 0 277
+279 300 4 24 0 278
+280 433 4 8 0 279
+281 434 2 7 0 280
+282 432 1 22 0 281
+283 435 0 26 0 282
+284 436 1 33 0 283
+285 426 1 24 0 284
+286 425 5 20 0 285
+287 424 3 2 0 286
+288 423 2 32 0 287
+289 422 5 11 0 288
+290 421 2 24 0 289
+291 420 2 4 0 290
+292 419 88 23 0 291
+293 418 6 23 0 292
+294 417 6 27 0 293
+295 416 0 38 0 294
+296 413 3 0 0 295
+297 412 2 6 0 296
+298 408 9 21 0 297
+299 407 10 22 0 298
+300 406 3 6 0 299
+301 409 4 30 0 300
+302 411 6 11 0 301
+303 414 4 26 0 302
+304 415 8 1 0 303
+305 410 7 7 0 304
+306 403 11 36 0 305
+307 402 4 10 0 306
+308 401 10 14 0 307
+
+309 404 5 30 0 308
+310 405 7 17 0 309
+311 400 7 0 0 310
+312 399 5 27 0 311
+313 398 17 39 0 312
+314 397 23 13 0 313
+315 395 2 38 0 314
+316 394 19 22 0 315
+317 396 22 26 0 316
+318 393 14 24 0 317
+319 392 11 18 0 318
+320 391 6 39 0 319
+321 390 14 36 0 320
+322 389 20 10 0 321
+323 388 7 19 0 322
+324 387 11 28 0 323
+325 385 16 10 0 324
+326 386 5 20 0 325
+327 384 7 26 0 326
+328 383 5 15 0 327
+329 378 3 16 0 328
+330 377 16 9 0 329
+331 380 3 24 0 330
+332 379 7 19 0 331
+333 382 3 22 0 332
+334 372 9 14 0 333
+335 371 17 7 0 334
+336 370 24 15 0 335
+337 373 12 35 0 336
+338 381 5 6 0 337
+339 374 3 31 0 338
+340 375 5 25 0 339
+341 376 14 9 0 340
+342 366 28 34 0 341
+343 367 5 1 0 342
+344 368 7 18 0 343
+345 369 27 13 0 344
+346 365 28 5 0 345
+347 364 37 10 0 346
+348 363 5 31 0 347
+349 362 21 26 0 348
+350 361 22 21 0 349
+351 428 0 23 0 350
+352 429 1 9 0 351
+353 430 1 20 0 352
+
+PR-866
+
+GOVERNEMNT OF KARNATAKA
+RD 50 PFH 2023 Karnataka Government Secretariat
+E-1207880 Multi Storied Building
+Bengaluru, Date:06-11-2023
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No. RD 171 PFH 2022
+Dated:16/08/2022 regarding altering the limits of Chatra village of Byadagi Taluk
+and Haveri District and constituting a new revenue village called Sardaranagar was
+published as required by section 6 of the Karnataka Land Revenue Act, 1964
+(Karnataka act No.12 of 1964) in the Karnataka Gazette No. RD 171 PFH 2022
+Dated:22/08/2022 inviting objections or suggestions from all the persons likely to be
+affected thereby within thirty days from the date of its publication in the Official
+Gazette.
+And whereas, the said gazette was made available to the public on
+Dated: 22/08/2022.
+And whereas, objections and suggestions have been received and considered by the
+State Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village Chatra of Byadagi taluk Haveri District to form a new revenue village
+called as Sardaranagara of Byadagi taluk Haveri District along with the survey
+numbers included in column (4) thereof.
+
+TABLE-1
+Sl.no Old Survey Numbers Extent of area Survey numbers Specified
+Which are excluded from transferred to new in column (2) which are to
+Chatra village to village be included to form new
+constituting new village village Sardaranagar nd Sardaranagar
+New survey numbers Sardaranagar
+Acre Gunta Anna
+assigned to them
+1 2 3 4
+1 112 10 22 0 1
+2 97 08 27 0 2
+3 96 07 12 0 3
+4 91 01 35 0 4
+5 92 08 06 0 5
+6 93 05 17 0 6
+7 94 13 18 0 7
+8 95 08 15 8 0
+9 76 02 02 9 0
+10 77 10 38 0 10
+11 78 02 29 0 11
+12 79 02 11 0 12
+13 80 01 19 0 13
+14 81 04 30 0 14
+15 82 14 01 0 15
+16 87 21 37 0 16
+17 86 13 13 0 17
+18 83 11 00 0 18
+19 84 11 23 0 19
+20 85 19 24 0 20
+21 88 17 06 0 21
+22 89 13 07 0 22
+23 90 11 18 0 23
+Reserved for Gramatana 24 98 22 11 0
+25 99 23 22 24 0
+26 100 11 01 0 25
+27 101 11 14 0 26
+28 102 13 01 0 27
+29 103 283 06 0 28
+
+30 104 09 17 0 29
+31 105 14 15 0 30
+32 106 16 30 0 31
+33 107 16 13 0 32
+34 108 05 35 0 33
+35 109 20 24 34 0
+36 110 15 13 0 35
+37 111 16 37 0 36
+38 114 13 09 0 37
+39 115 17 20 0 38
+40 116 14 24 0 39
+41 117 22 33 0 40
+42 118 00 14 0 41
+43 119 05 15 42 0
+44 120 20 25 0 43
+45 121 19 04 0 44
+46 113 22 07 0 45
+
+Note :- The extent of Gramatana within the said village is to be the extent
+specified below namely :-
+
+Survey Number Extent (A-G)
+98 22-11
+Total 22-11
+
+There shall be constituted a new village Sardaranagar in Byadagi
+taluk Haveri District and boundaries of the village shall be as specified
+below :-
+
+Boundaries of the new village Sardaranagar
+East :- Chatra Village Border West:- Kasaba Byadagi Village Border
+North:- Motebennur Village Border South:- Kakol Village Border Of
+Ranebennur Taluk
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the Chatra
+village specified in the column (2) shall be assigned new survey numbers
+in the said villages specified in the column (4).
+
+TABLE-2
+Sl.no. Survey numbers Total Area New Survey numbers
+remaining in Chatra assigned to the
+village after excluding remaining survey
+Acre Gunta Anna
+the survey numbers numbers in Chatra
+
+which are to be included specified in column (2)
+
+to form village
+
+Sardaranagar
+
+1 2 3 4
+1 1 01 02 0 1
+2 2 00 14 0 2
+3 3 01 02 0 3
+4 4 00 08 00 4
+5 5 02 15 0 5
+6 6 02 25 6 0
+7 7 01 25 0 7
+8 8 01 31 0 8
+9 9 01 24 0 9
+10 10 02 09 0 10
+11 11 08 26 0 11
+12 12 01 37 0 12
+13 13 12 00 0 13
+14 14 09 03 0 14
+15 15 00 05 0 15
+16 16 05 35 16 0
+17 17 12 21 17 0
+18 18 18 07 0 18
+19 19 14 03 0 19
+20 20 19 20 0 20
+21 21 120 23 0 21
+22 22 21 06 0 22
+23 23 18 23 0 23
+24 24 20 17 0 24
+25 25 32 38 0 25
+26 26 18 11 26 0
+27 27 11 09 0 27
+28 28 21 28 0 28
+29 29 14 33 0 29
+30 30 13 21 0 30
+31 31 16 06 0 31
+32 32 18 30 0 32
+33 33 11 28 0 33
+
+34 34 17 01 0 34
+35 35 18 23 0 35
+36 36 19 01 0 36
+37 37 14 29 0 37
+38 38 19 18 0 38
+39 39 11 03 39 0
+40 40 19 37 40 0
+41 41 20 16 0 41
+42 42 19 09 0 42
+43 43 15 10 0 43
+44 44 19 34 0 44
+45 45 18 27 0 45
+46 46 18 31 0 46
+47 47 17 28 0 47
+48 48 10 13 0 48
+49 49 09 30 49 0
+50 50 17 04 50 0
+51 51 22 00 0 51
+52 52 20 14 0 52
+53 53 24 24 0 53
+54 54 20 32 0 54
+55 55 24 09 0 55
+56 56 03 28 0 56
+57 57 12 00 0 57
+58 58 08 25 0 58
+59 59 14 17 59 0
+60 60 21 08 60 0
+61 61 00 33 0 61
+62 62 00 39 0 62
+63 63 23 18 0 63
+64 64 02 22 0 64
+65 65 05 16 0 65
+66 66 05 05 0 66
+67 67 02 39 0 67
+68 68 00 36 0 68
+69 69 00 26 69 0
+70 70 06 08 0 70
+71 71 03 32 0 71
+72 72 22 06 0 72
+73 73 03 31 0 73
+74 74 15 38 0 74
+75 75 01 03 0 75
+76 122 08 07 0 76
+
+77 123 01 20 0 77
+78 124 08 36 0 78
+79 125 00 10 0 79
+
+Boundaries of new village Chatra
+
+East :- Ranebennur Taluk and Kakol West :- Sardaranagar Village Border
+Village Border
+North : - Motebennur Village Border South:- Ranebennur Taluk and Kakol
+Village Border
+
+The proposal specified above shall come into effect from such date as
+the State Government may specify by Notification issued under section 5 of the
+Karnataka Land Revenue Act, 1964 ( Karnataka Act No. 12 of 1964 )
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+1 112 10 22 1 0
+2 97 08 27 2 0
+3 96 07 12 3 0
+4 91 01 35 4 0
+5 92 08 06 5 0
+6 93 05 17 6 0
+7 94 13 18 0 7
+8 95 08 15 8 0
+9 76 02 02 9 0
+10 77 10 38 10 0
+11 78 02 29 0 11
+12 79 02 11 12 0
+13 80 01 19 13 0
+14 81 04 30 0 14
+15 82 14 01 15 0
+16 87 21 37 0 16
+17 86 13 13 0 17
+18 83 11 00 0 18
+
+19 84 11 23 19 0
+20 85 19 24 0 20
+21 88 17 06 21 0
+22 89 13 07 22 0
+23 90 11 18 0 23
+25 99 23 22 24 0
+26 100 11 01 25 0
+27 101 11 14 0 26
+28 102 13 01 27 0
+29 103 283 06 28 0
+30 104 09 17 0 29
+31 105 14 15 30 0
+32 106 16 30 31 0
+33 107 16 13 32 0
+34 108 05 35 0 33
+35 109 20 24 34 0
+36 110 15 13 35 0
+37 111 16 37 36 0
+38 114 13 09 0 37
+39 115 17 20 38 0
+40 116 14 24 39 0
+41 117 22 33 0 40
+42 118 00 14 41 0
+43 119 05 15 42 0
+44 120 20 25 0 43
+45 121 19 04 0 44
+46 113 22 07 45 0
+
+98 22-11
+
+1 2 3 4
+1 1 01 02 0 1
+2 2 00 14 0 2
+3 3 01 02 0 3
+4 4 00 08 00 4
+5 5 02 15 0 5
+6 6 02 25 6 0
+7 7 01 25 0 7
+8 8 01 31 0 8
+9 9 01 24 0 9
+10 10 02 09 0 10
+11 11 08 26 0 11
+12 12 01 37 0 12
+13 13 12 00 0 13
+14 14 09 03 0 14
+15 15 00 05 0 15
+16 16 05 35 16 0
+17 17 12 21 17 0
+18 18 18 07 0 18
+19 19 14 03 0 19
+
+20 20 19 20 0 20
+21 21 120 23 0 21
+22 22 21 06 0 22
+23 23 18 23 0 23
+24 24 20 17 0 24
+25 25 32 38 25 0
+26 26 18 11 26 0
+27 27 11 09 0 27
+28 28 21 28 0 28
+29 29 14 33 0 29
+30 30 13 21 0 30
+31 31 16 06 0 31
+32 32 18 30 0 32
+33 33 11 28 0 33
+34 34 17 01 0 34
+35 35 18 23 35 0
+36 36 19 01 36 0
+37 37 14 29 0 37
+38 38 19 18 0 38
+39 39 11 03 0 39
+40 40 19 37 0 40
+41 41 20 16 0 41
+42 42 19 09 0 42
+43 43 15 10 0 43
+44 44 19 34 0 44
+45 45 18 27 45 0
+46 46 18 31 46 0
+47 47 17 28 0 47
+48 48 10 13 0 48
+49 49 09 30 0 49
+50 50 17 04 0 50
+51 51 22 00 0 51
+52 52 20 14 0 52
+53 53 24 24 0 53
+54 54 20 32 0 54
+55 55 24 09 55 0
+56 56 03 28 0 56
+57 57 12 00 0 57
+58 58 08 25 0 58
+59 59 14 17 0 59
+60 60 21 08 0 60
+61 61 00 33 0 61
+62 62 00 39 0 62
+
+63 63 23 18 0 63
+64 64 02 22 0 64
+65 65 05 16 0 65
+66 66 05 05 0 66
+67 67 02 39 0 67
+68 68 00 36 68 0
+69 69 00 26 69 0
+70 70 06 08 0 70
+71 71 03 32 0 71
+72 72 22 06 0 72
+73 73 03 31 0 73
+74 74 15 38 0 74
+75 75 01 03 0 75
+76 122 08 07 0 76
+77 123 01 20 0 77
+78 124 08 36 78 0
+79 125 00 10 79 0
+
+PR-867
+
+GOVERNEMNT OF KARNATAKA
+RD 51 PFH 2023 Karnataka Government Secretariat
+E-1207989 Multi Storied Building
+Bengaluru, Date:06-11-2023
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No. RD 24 PFH 2023
+Dated:10/03/2023 regarding altering the limits of Y T Honnatti village of
+Ranebennur Taluk and Haveri District and constituting a new revenue village called
+Sevanagar was published as required by section 6 of the Karnataka Land Revenue
+Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette No. RD 24 PFH
+2023 Dated:10/03/2023 inviting objections or suggestions from all the
+persons likely to be affected thereby within thirty days from the date of its publication
+in the Official Gazette.
+And whereas, the said gazette was made available to the public on
+Dated: 10/03/2023 And whereas, objections and suggestions have been received and
+considered by the State Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE
+Land bearing survey numbers and extent specified below in column(3) of the
+table shall be declared as habitation area of called Sevanagar village of
+Ranebennur Taluk of Haveri District convert the same to form hamlet/extension
+within the boundary of Y T Honnatti Revenue village and same will herein after be
+named as called Sevanagar of Y T Honnatti village in Ranebennur Taluk of
+Haveri District.
+
+TABLE
+Name of Total extent Boundaries
+the East West North South
+revenue New name
+village in of the
+Survey
+Which unrecorde Ac Gunt Ann
+number
+unrecorde d re a a
+d habitation
+habitation
+is located
+1 2 3 4 5
+72/1A 1 00 00 RSNO-
+RSNO
+72/2A 0 30 00 73 RSNO78 RSNO78
+Y T 72
+Sevanagar TO 21 AND AND 68 AND 79
+Honnatti AND
+73//1A 0 02 00 77
+73/1B 0 01 00
+
+73/1C 0 09 00
+73/1D/1 0 01 08
+73/12 0 01 00
+73/13 0 02 00
+73/14 0 06 00
+73/1D/2 0 04 00
+73/1D/3 0 02 00
+73/1D/4 0 02 00
+73/1D/5 0 05 00
+73/1D/6 0 03 00
+73/1D/7 0 02 00
+73/1D/8 0 02 00
+73/1E 0 06 00
+73/2 0 05 00
+73/3 0 02 00
+73/4 0 05 00
+73/5 0 05 00
+73/6 0 04 00
+73/7 0 10 00
+73/8 0 03 00
+73/9 0 07 08
+77/1A 0 02 00
+77/1B 0 02 08
+77/1C/1 1 12 00
+77/1C/4 0 11 00
+TOTAL 5 27 00
+
+It is hereby declared that the extent of land indicated in the columns(4) above
+with survey numbers specified in column (3) on which the said unrecorded habitation
+is located is converted as habitation area( Gramatana) of Sevanagar hamlet/
+extension/part of Y T Honnatti village in Ranebennur Taluk of Haveri District
+The proposal specified above shall come into effect from such date as
+the State Government may specify by Notification issued under section 5 of the
+Karnataka Land Revenue Act, 1964 ( Karnataka Act No. 12 of 1964 )
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4 5
+72/1C 1 00 00
+77 68 79
+
+73/12 0 1 00
+73/13 0 2 00
+73/14 0 6 00
+73/2 0 5 00
+73/3 0 2 00
+73/4 0 5 00
+73/5 0 5 00
+73/6 0 4 00
+73/7 0 10 00
+73/8 0 3 00
+73/9 0 7 08
+
+PR-868
+
+GOVERNEMNT OF KARNATAKA
+RD 52 PFH 2023 Karnataka Government Secretariat
+E-1208049 Multi Storied Building
+Bengaluru, Date:06-11-2023
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No. RD 59 GLH 2022
+Dated:05/07/2022 regarding altering the limits of 1) Kalakeri 2)Byagavadi village of
+Hangal Taluk and Haveri District and constituting a new revenue village called
+Shivanagiri was published as required by section 6 of the Karnataka Land Revenue
+Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette No. RD 59 GLH
+2022 Dated:26/07/2022 inviting objections or suggestions from all the persons likely
+to be affected thereby within thirty days from the date of its publication in the Official
+Gazette.
+And whereas, the said gazette was made available to the public on
+Dated:26/07/2022 And whereas, objections and suggestions have been received and
+considered by the State Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village 1) Kalakeri 2)Byagavadi of Hangal Taluk and Haveri District to form a new
+revenue village called as Shivanagiri of Hangal Taluk and Haveri District along
+with the survey numbers included in column (4) thereof.
+
+TABLE-1
+Sl.no Old Survey Numbers Extent of area Survey numbers Remarks
+Which are excluded transferred to new Specified in
+from 1) Kalakeri village column (2) which
+2)yagavadi village to are to be included Shivanagiri
+constituting new to form new
+Acre Gunta Anna
+village Shivanagiri village
+Shivanagiri and
+New survey
+numbers assigned
+to them
+1 2 3 4 5
+Excluded from KALAKERI
+1 7 15 9 0 38
+2 8 8 4 0 39
+3 9 11 33 0 40
+
+4 10 13 30 0 41
+5 11 7 33 0 42
+6 12 16 39 0 43
+7 13 14 21 0 37
+8 14 15 36 0 44
+9 15 10 18 0 70
+10 16 7 3 0 36
+11 17 18 4 0 29
+12 18 6 17 0 28
+13 19 5 1 0 30
+14 20 9 25 0 34
+15 21 9 33 0 35
+13A-26G
+added to
+Gramathan
+a
+01A-00G
+added to
+Gramathan
+a
+18 23 8 34 0 1
+19 24 17 35 0 2
+20 25 12 36 0 3
+21 26 5 14 0 4
+22 27 6 6 0 5
+23 28 9 14 0 8
+24 29 8 36 0 6
+25 30 3 9 0 7
+26 31 13 2 0 33
+27 32 9 4 0 32
+28 33 3 28 0 31
+29 34 6 13 0 27
+30 35 8 33 0 26
+31 36 9 4 0 25
+32 37 11 8 0 24
+33 38 21 15 0 9
+34 39 3 9 0 10
+35 40 8 5 0 11
+36 41 16 19 0 12
+37 42 15 1 0 13
+38 43 19 18 0 14
+39 44 6 39 0 15
+
+40 45 8 32 0 16
+41 46 9 8 0 17
+42 47 10 12 0 18
+43 48 8 27 0 19
+44 49 3 25 0 20
+45 50 10 38 21 0
+46 51 20 12 0 23
+47 52 16 38 0 22
+Excluded from BYAGAVADI
+48 118 15 24 0 60
+49 119 16 19 0 61
+50 120 23 33 0 62
+51 121 18 15 0 63
+52 122 8 36 0 64
+53 123 3 33 0 58
+54 124 6 15 0 59
+55 125 14 25 0 57
+56 126 4 35 0 56
+57 127 3 22 0 55
+58 128 15 19 0 65
+59 129 12 22 0 66
+60 130 22 3 0 67
+61 131 21 4 0 68
+62 132 10 9 0 69
+63 133 19 33 0 45
+64 134 4 0 0 52
+65 135 3 6 0 53
+66 136 8 10 0 54
+67 145 3 32 0 50
+68 146 6 35 0 49
+69 147 4 6 0 51
+70 148 4 8 0 46
+71 149 4 26 0 47
+72 150 13 8 0 48
+
+Note :- The extent of Gramatana within the said village is to be the extent
+specified below namely :-
+
+Survey Number Extent (A-G)
+22A pyki 13-21
+22B 01-00
+Total 14-26
+
+There shall be constituted a new village called Shivanagiri in
+Hangal Taluk and Haveri District and boundaries of the village shall be as
+specified below :-
+
+Boundaries of the new village Shivanagiri
+East :- Byagavadi village boundary West:- Kusanuru Village boundary
+North:-Tavarakoppa & Kalakeri Village South:- Byagavadi, Kusanuru Village
+boundary boundaries
+
+SCHEDULE-2
+The Survey numbers of the village and areas remaining in the Kalakeri
+village specified in the column (2) shall be assigned new survey numbers
+in the said villages specified in the column (4).
+
+TABLE-2
+Sl.no. Survey numbers Total Area New Survey numbers
+remaining in Kalakeri assigned to the
+village after excluding remaining survey
+Acre Gunta Anna
+the survey numbers numbers in Kalakeri
+
+which are to be included specified in column (2)
+
+to form village
+
+Shivanagiri
+
+1 2 3 4
+1 1 4 0 0 1
+2 2 1 33 0 2
+3 3 2 13 0 3
+4 4 8 7 0 4
+5 5 19 9 0 5
+6 6 8 24 0 6
+7 53a 68 32 0 7a
+8 53b 4 0 0 7b
+9 53c 4 0 0 7c
+10 54 14 11 0 8
+11 55 7 29 0 9
+12 56 11 36 0 10
+13 57 5 26 0 11
+14 58 3 4 0 12
+15 59 5 38 0 13
+16 60 9 35 0 14
+17 61 13 29 0 15
+18 62 13 30 0 16
+
+19 63 13 29 0 17
+20 64 17 19 0 18
+21 65 3 37 0 19
+22 66 8 9 0 20
+23 67 2 27 0 21
+24 68 5 22 0 22
+25 69 4 34 0 23
+26 70 2 27 0 24
+27 71 5 2 0 25
+28 72 11 2 0 26
+29 73 6 31 0 27
+30 74 3 39 0 28
+31 75 7 20 0 29
+32 76 7 0 0 30
+33 77 8 24 0 31
+34 78 2 33 0 32
+35 79 2 28 0 33
+36 80 3 39 0 34
+37 81 3 7 0 35
+38 82 4 16 0 36
+39 83 3 13 0 37
+40 84 2 34 0 38
+41 85 2 23 0 39
+42 86 3 3 0 40
+43 87 3 13 0 41
+44 88 2 31 0 42
+45 89 9 7 0 43
+46 90 3 29 0 44
+47 91 1 1 0 45
+48 92 4 18 0 46
+49 93 1 31 0 47
+50 94 4 28 0 48
+51 95 4 37 0 49
+52 96 2 11 0 50
+53 97 5 6 0 51
+54 98 6 36 0 52
+55 99 7 17 0 53
+56 100 2 27 0 54
+57 101 2 39 0 55
+58 102 4 29 0 56
+59 103 1 33 0 57
+60 104 12 18 0 58
+
+61 105 1 15 0 59
+62 106 6 5 0 60
+63 107 9 13 0 61
+64 108 13 8 0 62
+65 109 2 5 0 63
+66 110 10 15 0 64
+67 111 5 27 0 65
+68 112 3 23 0 66
+69 113 1 20 0 67
+70 114 9 13 0 68
+71 115 9 23 0 69
+72 116 5 32 0 70
+73 117 1 1 0 71
+74 118 4 15 0 72
+75 119 1 8 0 73
+76 120 6 0 0 74
+77 121 5 11 0 75
+78 122 3 31 0 76
+79 123 6 28 0 77
+80 124 5 14 0 78
+81 125 4 10 0 79
+82 126 1 31 0 80
+83 127 1 11 0 81
+84 128 3 39 0 82
+85 129 2 16 0 83
+86 130 5 36 0 84
+87 131 4 12 0 85
+88 132 4 28 0 86
+89 133 7 36 0 87
+90 134 4 17 0 88
+91 135 8 24 0 89
+92 136 3 32 0 90
+93 137 5 18 0 91
+94 138 9 38 0 92
+95 139 5 33 0 93
+96 140 8 2 0 94
+97 141 9 9 0 95
+98 142 4 24 0 96
+99 143 3 3 0 97
+100 144 4 30 0 98
+101 145 4 23 0 99
+102 146 10 30 0 100
+
+103 147 51 15 0 101
+104 148 2 32 0 102
+105 149 0 22 0 103
+106 150 3 3 0 104
+107 151 1 31 0 105
+108 152 2 5 0 106
+109 153 2 7 0 107
+110 154 0 23 0 108
+111 155 0 25 0 109
+
+Boundaries of new village Kalakeri
+
+East :- Herur , uppunasi Village West :- Tavaraguppa Village boundary
+boundaryies
+North : - Herur Village boundary South:- Byagavadi, Shivanagiri village
+boundaries
+
+SCHEDULE-3
+The Survey numbers of the village and areas remaining in the
+Byagavadi
+village specified in the column (2) shall be assigned new survey numbers
+in the said villages specified in the column (4).
+
+TABLE-3
+Sl.no. Survey numbers Total Area New Survey numbers
+remaining in assigned to the
+Byagavadi village after remaining survey
+Acre Gunta Anna
+excluding the survey numbers in
+
+numbers which are to be Byagavadi specified
+
+included to form village in column (2)
+
+Shivanagiri
+
+1 2 3 4
+1 1 4 18 0 1
+2 2 6 22 0 2
+3 3 5 26 0 3
+4 4 3 2 0 4
+5 5 2 29 0 5
+6 6 6 34 0 6
+7 7 3 4 0 7
+8 8 1 33 0 8
+9 12 0
+
+0 2 0
+11 10 5 0 0 10
+12 11 33 21 0 11
+13 12 1 3 0 12
+14 13 1 7 0 13
+15 14 3 22 0 14
+16 15 3 9 0 15
+17 16 5 25 0 16
+18 17 2 10 0 17
+19 18 5 22 0 18
+20 19 6 12 0 19
+21 20 3 4 0 20
+22 21 4 38 0 21
+23 22 0 15 0 22
+24 23 3 31 0 23
+25 24 3 24 0 24
+26 25 5 6 0 25
+27 26 2 25 0 26
+28 27 7 27 0 27
+29 28 6 2 0 28
+30 29 2 33 0 29
+31 30 3 14 0 30
+32 31 3 34 0 31
+33 32 7 15 0 32
+34 33 7 15 0 33
+35 34 3 37 0 34
+36 35 6 19 0 35
+37 36 4 20 0 36
+38 37 3 8 0 37
+39 38 10 13 0 38
+40 39 6 31 0 39
+41 40 4 24 0 40
+42 41 4 38 0 41
+43 42 5 25 0 42
+44 43 5 38 0 43
+45 44 18 31 0 44
+46 45 3 31 0 45
+47 46 13 0 0 46
+48 47 2 25 0 47
+49 48 2 8 0 48
+50 49 4 7 0 49
+
+51 50 2 12 0 50
+52 51 2 15 0 51
+53 52 4 24 0 52
+54 53 13 28 0 53
+55 54 7 14 0 54
+56 55 8 8 0 55
+57 56 4 2 0 56
+58 57 2 23 0 57
+59 58 5 14 0 58
+60 59 11 12 0 59
+61 60 4 38 0 60
+62 61 6 2 0 61
+63 62 5 2 0 62
+64 63 3 32 0 63
+65 64 1 32 0 64
+66 65 1 19 0 65
+67 66 3 2 0 66
+68 67 1 38 0 67
+69 68 9 35 0 68
+70 69 5 6 0 69
+71 70 7 26 0 70
+72 71 9 37 0 71
+73 72 8 18 0 72
+74 73 10 13 0 73
+75 74 7 28 0 74
+76 75 4 26 0 75
+77 76 4 6 0 76
+78 77 10 5 0 77
+79 78 1 13 0 78
+80 79 402 32 0 79
+81 80 10 31 0 80
+82 81 6 13 0 81
+83 82 5 8 0 82
+84 83 12 9 0 83
+85 84 14 22 0 84
+86 85 6 0 0 85
+87 86 10 4 0 86
+88 87 12 8 0 87
+89 88 16 7 0 88
+90 89 3 22 0 89
+91 90 4 9 0 90
+92 91 7 29 0 91
+
+93 92 2 7 0 92
+94 93 1 22 0 93
+95 94 1 39 0 94
+96 95 1 37 0 95
+97 96 1 10 0 96
+98 97 2 28 0 97
+99 98 5 20 0 98
+100 99 10 3 0 99
+101 100 12 24 0 100
+102 101 7 26 0 101
+103 102 7 7 0 102
+104 103 9 29 0 103
+105 104 6 35 0 104
+106 105 10 15 0 105
+107 106 8 16 0 106
+108 107 19 6 0 107
+109 108 15 21 0 108
+110 109 9 35 0 109
+111 110 17 26 0 110
+112 111 20 2 0 111
+113 112 17 18 0 112
+114 113 6 0 0 113
+115 114 10 3 0 114
+116 115 13 28 0 115
+117 116 22 12 0 116
+118 117 15 3 0 117
+119 137 11 34 0 120
+120 138 10 1 0 119
+121 139 6 18 0 118
+122 140 7 12 0 121
+123 141 10 23 0 122
+124 142 4 22 0 123
+125 143 3 37 0 124
+126 144 10 23 0 125
+127 151 12 31 0 128
+128 152 7 7 0 127
+129 153 6 1 0 126
+130 154 6 24 0 129
+131 155 9 29 0 130
+132 156 0 20 0 131
+133 157 6 26 0 132
+134 158 2 32 0 133
+
+135 159 5 24 0 134
+136 160 2 24 0 135
+137 161 4 4 0 136
+138 162 5 7 0 137
+139 163 1 20 0 138
+140 164 0 35 0 139
+141 165 4 34 0 140
+142 166 1 13 0 141
+143 167 4 22 0 142
+144 168 2 22 0 143
+145 169 1 4 0 144
+146 170 8 10 0 145
+147 171 19 30 0 146
+11 17 0
+2 20 0
+150 173 18 20 0 148
+151 174 2 0 0 149
+152 175 6 17 0 150
+153 176 0 25 0 151
+154 177 0 33 0 152
+
+Boundaries of new village Byagavadi
+
+East :- Somasagara, Uppunasi village West :- Kusanuru, Shivanagiri village
+boundaries boundaries
+North : - Kalakeri Village boundary South:- Kelavarakoppa, Hirebasuru
+village Boundaries
+
+The proposal specified above shall come into effect from such date as
+the State Government may specify by Notification issued under section 5 of the
+Karnataka Land Revenue Act, 1964 ( Karnataka Act No. 12 of 1964 )
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+E-1208049
+
+1 2 3 4
+1 7 15 9 0 38
+
+2 8 8 4 39 0
+3 9 11 33 0 40
+4 10 13 30 0 41
+5 11 7 33 42 0
+6 12 16 39 0 43
+7 13 14 21 0 37
+8 14 15 36 0 44
+9 15 10 18 0 70
+10 16 7 3 0 36
+11 17 18 4 29 0
+12 18 6 17 0 28
+13 19 5 1 0 30
+14 20 9 25 0 34
+15 21 9 33 35 0
+18 23 8 34 1 0
+19 24 17 35 0 2
+20 25 12 36 0 3
+21 26 5 14 0 4
+22 27 6 6 5 0
+23 28 9 14 0 8
+24 29 8 36 0 6
+25 30 3 9 7 0
+26 31 13 2 33 0
+27 32 9 4 0 32
+28 33 3 28 0 31
+29 34 6 13 27 0
+30 35 8 33 0 26
+31 36 9 4 0 25
+32 37 11 8 0 24
+33 38 21 15 9 0
+
+34 39 3 9 10 0
+35 40 8 5 0 11
+36 41 16 19 0 12
+37 42 15 1 13 0
+38 43 19 18 0 14
+39 44 6 39 0 15
+40 45 8 32 0 16
+41 46 9 8 17 0
+42 47 10 12 0 18
+43 48 8 27 0 19
+44 49 3 25 20 0
+45 50 10 38 21 0
+46 51 20 12 0 23
+47 52 16 38 0 22
+48 118 15 24 0 60
+49 119 16 19 0 61
+50 120 23 33 0 62
+51 121 18 15 0 63
+52 122 8 36 0 64
+53 123 3 33 0 58
+54 124 6 15 0 59
+55 125 14 25 0 57
+56 126 4 35 0 56
+57 127 3 22 0 55
+58 128 15 19 0 65
+59 129 12 22 0 66
+60 130 22 3 0 67
+61 131 21 4 0 68
+62 132 10 9 0 69
+63 133 19 33 0 45
+64 134 4 0 0 52
+65 135 3 6 0 53
+66 136 8 10 0 54
+67 145 3 32 0 50
+
+68 146 6 35 0 49
+69 147 4 6 0 51
+70 148 4 8 0 46
+71 149 4 26 0 47
+72 150 13 8 0 48
+
+13-26
+01-00 22§
+
+1 2 3 4
+1 1 4 0 0 1
+2 2 1 33 0 2
+
+3 3 2 13 0 3
+4 4 8 7 0 4
+5 5 19 9 0 5
+6 6 8 24 0 6
+7 53C 68 32 0 7C
+8 53§ 4 0 0 7§
+10 54 14 11 0 8
+11 55 7 29 0 9
+12 56 11 36 0 10
+13 57 5 26 0 11
+14 58 3 4 0 12
+15 59 5 38 0 13
+16 60 9 35 0 14
+17 61 13 29 0 15
+18 62 13 30 0 16
+19 63 13 29 0 17
+20 64 17 19 0 18
+21 65 3 37 0 19
+22 66 8 9 0 20
+23 67 2 27 0 21
+24 68 5 22 0 22
+25 69 4 34 0 23
+26 70 2 27 0 24
+27 71 5 2 0 25
+28 72 11 2 0 26
+29 73 6 31 0 27
+30 74 3 39 0 28
+31 75 7 20 0 29
+32 76 7 0 0 30
+33 77 8 24 0 31
+34 78 2 33 0 32
+35 79 2 28 0 33
+36 80 3 39 0 34
+37 81 3 7 0 35
+38 82 4 16 0 36
+39 83 3 13 0 37
+40 84 2 34 0 38
+41 85 2 23 0 39
+
+42 86 3 3 0 40
+43 87 3 13 0 41
+44 88 2 31 0 42
+45 89 9 7 0 43
+46 90 3 29 0 44
+47 91 1 1 0 45
+48 92 4 18 0 46
+49 93 1 31 0 47
+50 94 4 28 0 48
+51 95 4 37 0 49
+52 96 2 11 0 50
+53 97 5 6 0 51
+54 98 6 36 0 52
+55 99 7 17 0 53
+56 100 2 27 0 54
+57 101 2 39 0 55
+58 102 4 29 0 56
+59 103 1 33 0 57
+60 104 12 18 0 58
+61 105 1 15 0 59
+62 106 6 5 0 60
+63 107 9 13 0 61
+64 108 13 8 0 62
+65 109 2 5 0 63
+66 110 10 15 0 64
+67 111 5 27 0 65
+68 112 3 23 0 66
+69 113 1 20 0 67
+70 114 9 13 0 68
+71 115 9 23 0 69
+72 116 5 32 0 70
+73 117 1 1 0 71
+74 118 4 15 0 72
+75 119 1 8 0 73
+76 120 6 0 0 74
+77 121 5 11 0 75
+78 122 3 31 0 76
+79 123 6 28 0 77
+80 124 5 14 0 78
+
+81 125 4 10 0 79
+82 126 1 31 0 80
+83 127 1 11 0 81
+84 128 3 39 0 82
+85 129 2 16 0 83
+86 130 5 36 0 84
+87 131 4 12 0 85
+88 132 4 28 0 86
+89 133 7 36 0 87
+90 134 4 17 0 88
+91 135 8 24 0 89
+92 136 3 32 0 90
+93 137 5 18 0 91
+94 138 9 38 0 92
+95 139 5 33 0 93
+96 140 8 2 0 94
+97 141 9 9 0 95
+98 142 4 24 0 96
+99 143 3 3 0 97
+100 144 4 30 0 98
+101 145 4 23 0 99
+102 146 10 30 0 100
+103 147 51 15 0 101
+104 148 2 32 0 102
+105 149 0 22 0 103
+106 150 3 3 0 104
+107 151 1 31 0 105
+108 152 2 5 0 106
+109 153 2 7 0 107
+110 154 0 23 0 108
+111 155 0 25 0 109
+
+1 2 3 4
+1 1 4 18 0 1
+2 2 6 22 0 2
+3 3 5 26 0 3
+4 4 3 2 0 4
+5 5 2 29 0 5
+6 6 6 34 0 6
+7 7 3 4 0 7
+8 8 1 33 0 8
+9 12 0
+0 2 0
+11 10 5 0 0 10
+12 11 33 21 0 11
+13 12 1 3 0 12
+14 13 1 7 0 13
+15 14 3 22 0 14
+16 15 3 9 0 15
+17 16 5 25 0 16
+18 17 2 10 0 17
+19 18 5 22 0 18
+20 19 6 12 0 19
+21 20 3 4 0 20
+22 21 4 38 0 21
+23 22 0 15 0 22
+24 23 3 31 0 23
+25 24 3 24 0 24
+
+26 25 5 6 0 25
+27 26 2 25 0 26
+28 27 7 27 0 27
+29 28 6 2 0 28
+30 29 2 33 0 29
+31 30 3 14 0 30
+32 31 3 34 0 31
+33 32 7 15 0 32
+34 33 7 15 0 33
+35 34 3 37 0 34
+36 35 6 19 0 35
+37 36 4 20 0 36
+38 37 3 8 0 37
+39 38 10 13 0 38
+40 39 6 31 0 39
+41 40 4 24 0 40
+42 41 4 38 0 41
+43 42 5 25 0 42
+44 43 5 38 0 43
+45 44 18 31 0 44
+46 45 3 31 0 45
+47 46 13 0 0 46
+48 47 2 25 0 47
+49 48 2 8 0 48
+50 49 4 7 0 49
+51 50 2 12 0 50
+52 51 2 15 0 51
+53 52 4 24 0 52
+54 53 13 28 0 53
+55 54 7 14 0 54
+56 55 8 8 0 55
+57 56 4 2 0 56
+58 57 2 23 0 57
+59 58 5 14 0 58
+60 59 11 12 0 59
+61 60 4 38 0 60
+62 61 6 2 0 61
+63 62 5 2 0 62
+64 63 3 32 0 63
+
+65 64 1 32 0 64
+66 65 1 19 0 65
+67 66 3 2 0 66
+68 67 1 38 0 67
+69 68 9 35 0 68
+70 69 5 6 0 69
+71 70 7 26 0 70
+72 71 9 37 0 71
+73 72 8 18 0 72
+74 73 10 13 0 73
+75 74 7 28 0 74
+76 75 4 26 0 75
+77 76 4 6 0 76
+78 77 10 5 0 77
+79 78 1 13 0 78
+80 79 402 32 0 79
+81 80 10 31 0 80
+82 81 6 13 0 81
+83 82 5 8 0 82
+84 83 12 9 0 83
+85 84 14 22 0 84
+86 85 6 0 0 85
+87 86 10 4 0 86
+88 87 12 8 0 87
+89 88 16 7 0 88
+90 89 3 22 0 89
+91 90 4 9 0 90
+92 91 7 29 0 91
+93 92 2 7 0 92
+94 93 1 22 0 93
+95 94 1 39 0 94
+96 95 1 37 0 95
+97 96 1 10 0 96
+98 97 2 28 0 97
+99 98 5 20 0 98
+100 99 10 3 0 99
+101 100 12 24 0 100
+102 101 7 26 0 101
+103 102 7 7 0 102
+
+104 103 9 29 0 103
+105 104 6 35 0 104
+106 105 10 15 0 105
+107 106 8 16 0 106
+108 107 19 6 0 107
+109 108 15 21 0 108
+110 109 9 35 0 109
+111 110 17 26 0 110
+112 111 20 2 0 111
+113 112 17 18 0 112
+114 113 6 0 0 113
+115 114 10 3 0 114
+116 115 13 28 0 115
+117 116 22 12 0 116
+118 117 15 3 0 117
+119 137 11 34 0 120
+120 138 10 1 0 119
+121 139 6 18 0 118
+122 140 7 12 0 121
+123 141 10 23 0 122
+124 142 4 22 0 123
+125 143 3 37 0 124
+126 144 10 23 0 125
+127 151 12 31 0 128
+128 152 7 7 0 127
+129 153 6 1 0 126
+130 154 6 24 0 129
+131 155 9 29 0 130
+132 156 0 20 0 131
+133 157 6 26 0 132
+134 158 2 32 0 133
+135 159 5 24 0 134
+136 160 2 24 0 135
+137 161 4 4 0 136
+138 162 5 7 0 137
+139 163 1 20 0 138
+140 164 0 35 0 139
+141 165 4 34 0 140
+142 166 1 13 0 141
+
+143 167 4 22 0 142
+144 168 2 22 0 143
+145 169 1 4 0 144
+146 170 8 10 0 145
+147 171 19 30 0 146
+2 20 0
+150 173 18 20 0 148
+151 174 2 0 0 149
+152 175 6 17 0 150
+153 176 0 25 0 151
+154 177 0 33 0 152
+
+PR-869
+
+GOVERNEMNT OF KARNATAKA
+RD 78 PFH 2023 Karnataka Government Secretariat
+E-1214338 Multi Storied Building
+Bengaluru, Date:10-11-2023
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD 261 PFH 2022
+Dated:11/10/2022 regarding altering the limits of Duttaragaon village of
+Kalaburagi Taluk and Kalaburagi District and constituting a new revenue village
+called Duttaragaon Nagar was published as required by section 6 of the Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette No.
+RD 261 PFH 2022 Dated:13/10/2022 inviting objections or suggestions from all the
+persons likely to be affected thereby within thirty days from the date of its publication
+in the Official Gazette.
+And whereas, the said gazette was made available to the public on
+Dated:13/10/2022 And whereas, no objections were received by the State
+Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village Duttaragaon of Kalaburagi taluk Kalaburagi District to form a new
+revenue village called as Duttaragaon Nagar of Kalaburagi taluk Kalaburagi
+District along with the survey numbers included in column (4) thereof.
+
+Sl.no Old Survey Extent of area transferred Survey numbers Specified in
+Numbers to new village column (2) which are to be
+Which are excluded Duttaragaon Nagar included to form new village
+from Duttaragaon Duttaragaon Nagar and New
+village to survey numbers assigned to them Acre Gunta Anna
+constituting new
+village
+Duttaragaon
+Nagar
+
+1 2 3 4
+1 106 20 22 00 1
+2 106 3 00 00 New revenue village Duttarga
+nagar
+
+3 104 35 02 00 2
+4 96 02 13 00 3
+5 95 02 08 00 4
+6 97 01 04 00 5
+7 124 01 31 00 6
+8 123 02 36 00 7
+9 125 04 25 00 8
+10 126 03 18 00 9
+11 127 00 04 00 10
+12 128 01 06 00 11
+13 129 01 11 00 12
+14 134 05 23 00 13
+15 136 04 00 00 14
+16 135 04 10 00 15
+17 98 01 26 00 16
+18 99 05 38 00 17
+19 100 12 33 00 18
+20 137 01 17 00 19
+21 133 11 05 00 20
+22 130 01 31 00 21
+23 131 01 12 00 22
+24 132 04 21 00 23
+25 138 01 01 00 24
+26 101 05 19 00 25
+27 102 03 28 00 26
+28 139 02 37 00 27
+29 140 03 09 00 28
+30 141 03 25 00 29
+31 142 01 08 00 30
+32 143 02 01 00 31
+33 144 00 16 00 32
+34 145 00 24 00 33
+35 146 03 09 00 34
+36 147 05 05 00 35
+37 151 02 02 00 36
+
+38 152 01 20 00 37
+39 150 01 31 00 38
+40 149 02 05 00 39
+41 148 00 34 00 40
+42 156 03 36 00 41
+43 155 03 05 00 42
+44 154 03 36 00 43
+45 153 05 10 00 44
+46 103 00 22 00 45
+47 159 09 06 00 46
+48 158 11 05 00 47
+49 157 16 29 00 48
+50 160 22 08 00 49
+51 162 21 26 00 50
+52 161 06 04 00 51
+53 107 26 21 00 52
+54 105 13 09 00 53
+55 105 1 09 00 New revenue village Duttargaon
+nagar
+Total 319 16 00
+
+TABLE-1
+
+Note :- The extent of Gramatana within the said village is to be the extent
+specified below namely :-
+
+Survey Number Extent (A-G)
+Part of old sy no- 105 01-09
+Part of old sy no- 106 03-00
+Total 04-09
+
+There shall be constituted a new village called Duttaragaon Nagar in
+Kalaburagi taluk Kalaburagi District and boundaries of the village shall be
+as specified below :-
+
+Boundaries of the new village Duttaragaon Nagar
+
+East :- Duttarga village border West:- Aranakal villagr border
+North:- Chengta village border South:- Gongi village border
+
+SCHEDULE-2
+The Survey numbers of the village and areas remaining in the
+Duttaragaon village specified in the column (2) shall be assigned new survey
+numbers in the said villages specified in the column (4).
+
+TABLE-2
+Sl.no. Survey numbers Total Area New Survey numbers
+remaining in assigned to the
+Duttaragaon village remaining survey
+Acre Gunta Anna
+after excluding the numbers in
+
+survey numbers which Duttaragaon specified
+
+are to be included to in column (2)
+
+form village
+
+Duttaragaon Nagar
+
+1 2 3 4
+1 1 09 02 00 1
+2 113 01 33 00 2
+3 112 34 03 00 3
+4 111 10 32 00 4
+5 110 28 08 00 5
+6 109 14 34 00 6
+7 108 34 08 00 7
+8 163 14 27 00 8
+9 164 13 12 00 9
+10 165 27 14 00 10
+11 20 08 05 00 11
+12 19 09 11 00 12
+13 18 08 20 00 13
+14 14 05 05 00 14
+15 13 04 29 00 15
+16 11 13 09 00 16
+17 5 11 32 00 17
+18 2 00 13 00 18
+19 3 00 15 00 19
+
+20 4 05 23 00 20
+21 6 07 34 00 21
+22 10 07 02 00 22
+23 12 12 16 00 23
+24 15 12 34 00 24
+25 17 32 02 00 25
+26 21 38 02 00 26
+27 166 14 35 00 27
+28 167 28 24 00 28
+29 170 103 27 00 29
+30 169 21 22 00 30
+31 168 01 23 00 31
+32 39 178 05 00 32
+33 24 03 04 00 33
+34 22 28 36 00 34
+35 23 07 24 00 35
+36 25 08 27 00 36
+37 28 23 19 00 37
+38 27 22 20 00 38
+39 26 07 23 00 39
+40 16 08 39 00 40
+41 30 21 30 00 41
+42 29 28 25 00 42
+43 31 21 24 00 43
+44 32 15 35 00 44
+45 33 04 20 00 45
+46 8 04 16 00 46
+47 9 19 03 00 47
+48 7 05 27 00 48
+49 34 00 31 00 49
+50 35 24 35 00 50
+51 36 11 35 00 51
+52 37 19 05 00 52
+53 38 31 20 00 53
+54 53 05 07 00 54
+55 54 19 24 00 55
+56 55 05 16 00 56
+57 56 05 30 00 57
+58 57 14 21 00 58
+
+59 58 05 26 00 59
+60 59 07 38 00 60
+61 52 10 37 00 61
+62 40 16 34 00 62
+63 41 11 12 00 63
+64 42 07 28 00 64
+65 43 12 18 00 65
+66 44 08 04 00 66
+67 45 28 08 00 67
+68 49 13 04 00 68
+69 50 14 10 00 69
+70 51 03 03 00 70
+71 61 02 01 00 71
+72 60 03 16 00 72
+73 62 03 03 00 73
+74 63 03 11 00 74
+75 64 01 11 00 75
+76 66 29 15 00 76
+77 67 09 12 00 77
+78 68 09 00 00 78
+79 69 12 23 00 79
+80 70 24 26 00 80
+81 48 26 02 00 81
+82 47 11 22 00 82
+83 46 14 12 00 83
+84 85 53 24 00 84
+85 72 03 05 00 85
+86 71 04 08 00 86
+87 73 17 18 00 87
+88 74 17 32 00 88
+89 75 12 30 00 89
+90 76 13 27 00 90
+91 77 06 27 00 91
+92 78 06 24 00 92
+93 79 06 38 00 93
+94 80 08 37 00 94
+95 81 13 11 00 95
+96 114 01 18 00 96
+97 115 06 39 00 97
+
+98 82 09 05 00 98
+99 83 15 38 00 99
+100 84 21 35 00 100
+101 86 03 21 00 101
+102 117 01 14 00 102
+103 116 02 32 00 103
+104 118 04 32 00 104
+105 87 11 22 00 105
+106 91 05 16 00 106
+107 119 05 05 00 107
+108 120 05 19 00 108
+109 121 06 08 00 109
+110 122 07 03 00 110
+111 94 10 25 00 111
+112 92 02 31 00 112
+113 93 03 15 00 113
+114 90 12 11 00 114
+115 89 24 30 00 115
+116 88 07 14 00 116
+117 65 01 10 00 117
+Total 1710 17 00
+Gram thana extant 17 23 00
+Total extant 1728 00 00
+
+Boundaries of new village Duttaragaon
+
+East: Pangarga village border West:Arankal village border
+North: Phengta village border South: Gongi village border
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+1 106 20 22 00 1
+3 104 35 02 00 2
+4 96 02 13 00 3
+
+5 95 02 08 00 4
+6 97 01 04 00 5
+7 124 01 31 00 6
+8 123 02 36 00 7
+9 125 04 25 00 8
+10 126 03 18 00 9
+11 127 00 04 00 10
+12 128 01 06 00 11
+13 129 01 11 00 12
+14 134 05 23 00 13
+15 136 04 00 00 14
+16 135 04 10 00 15
+17 98 01 26 00 16
+18 99 05 38 00 17
+19 100 12 33 00 18
+20 137 01 17 00 19
+21 133 11 05 00 20
+22 130 01 31 00 21
+23 131 01 12 00 22
+24 132 04 21 00 23
+25 138 01 01 00 24
+26 101 05 19 00 25
+27 102 03 28 00 26
+28 139 02 37 00 27
+29 140 03 09 00 28
+30 141 03 25 00 29
+31 142 01 08 00 30
+32 143 02 01 00 31
+33 144 00 16 00 32
+34 145 00 24 00 33
+35 146 03 09 00 34
+36 147 05 05 00 35
+37 151 02 02 00 36
+38 152 01 20 00 37
+39 150 01 31 00 38
+
+40 149 02 05 00 39
+41 148 00 34 00 40
+42 156 03 36 00 41
+43 155 03 05 00 42
+44 154 03 36 00 43
+45 153 05 10 00 44
+46 103 00 22 00 45
+47 159 09 06 00 46
+48 158 11 05 00 47
+49 157 16 29 00 48
+50 160 22 08 00 49
+51 162 21 26 00 50
+52 161 06 04 00 51
+53 107 26 21 00 52
+54 105 13 09 00 53
+
+1 2 3 4
+1 1 09 02 00 1
+2 113 01 33 00 2
+3 112 34 03 00 3
+4 111 10 32 00 4
+5 110 28 08 00 5
+6 109 14 34 00 6
+7 108 34 08 00 7
+8 163 14 27 00 8
+9 164 13 12 00 9
+10 165 27 14 00 10
+11 20 08 05 00 11
+12 19 09 11 00 12
+13 18 08 20 00 13
+14 14 05 05 00 14
+15 13 04 29 00 15
+16 11 13 09 00 16
+17 5 11 32 00 17
+18 2 00 13 00 18
+19 3 00 15 00 19
+20 4 05 23 00 20
+21 6 07 34 00 21
+22 10 07 02 00 22
+23 12 12 16 00 23
+24 15 12 34 00 24
+25 17 32 02 00 25
+26 21 38 02 00 26
+
+27 166 14 35 00 27
+28 167 28 24 00 28
+29 170 103 27 00 29
+30 169 21 22 00 30
+31 168 01 23 00 31
+32 39 178 05 00 32
+33 24 03 04 00 33
+34 22 28 36 00 34
+35 23 07 24 00 35
+36 25 08 27 00 36
+37 28 23 19 00 37
+38 27 22 20 00 38
+39 26 07 23 00 39
+40 16 08 39 00 40
+41 30 21 30 00 41
+42 29 28 25 00 42
+43 31 21 24 00 43
+44 32 15 35 00 44
+45 33 04 20 00 45
+46 8 04 16 00 46
+47 9 19 03 00 47
+48 7 05 27 00 48
+49 34 00 31 00 49
+50 35 24 35 00 50
+51 36 11 35 00 51
+52 37 19 05 00 52
+53 38 31 20 00 53
+54 53 05 07 00 54
+55 54 19 24 00 55
+56 55 05 16 00 56
+57 56 05 30 00 57
+58 57 14 21 00 58
+59 58 05 26 00 59
+60 59 07 38 00 60
+61 52 10 37 00 61
+62 40 16 34 00 62
+63 41 11 12 00 63
+64 42 07 28 00 64
+65 43 12 18 00 65
+
+66 44 08 04 00 66
+67 45 28 08 00 67
+68 49 13 04 00 68
+69 50 14 10 00 69
+70 51 03 03 00 70
+71 61 02 01 00 71
+72 60 03 16 00 72
+73 62 03 03 00 73
+74 63 03 11 00 74
+75 64 01 11 00 75
+76 66 29 15 00 76
+77 67 09 12 00 77
+78 68 09 00 00 78
+79 69 12 23 00 79
+80 70 24 26 00 80
+81 48 26 02 00 81
+82 47 11 22 00 82
+83 46 14 12 00 83
+84 85 53 24 00 84
+85 72 03 05 00 85
+86 71 04 08 00 86
+87 73 17 18 00 87
+88 74 17 32 00 88
+89 75 12 30 00 89
+90 76 13 27 00 90
+91 77 06 27 00 91
+92 78 06 24 00 92
+93 79 06 38 00 93
+94 80 08 37 00 94
+95 81 13 11 00 95
+96 114 01 18 00 96
+97 115 06 39 00 97
+98 82 09 05 00 98
+99 83 15 38 00 99
+100 84 21 35 00 100
+101 86 03 21 00 101
+102 117 01 14 00 102
+103 116 02 32 00 103
+104 118 04 32 00 104
+
+105 87 11 22 00 105
+106 91 05 16 00 106
+107 119 05 05 00 107
+108 120 05 19 00 108
+109 121 06 08 00 109
+110 122 07 03 00 110
+111 94 10 25 00 111
+112 92 02 31 00 112
+113 93 03 15 00 113
+114 90 12 11 00 114
+115 89 24 30 00 115
+116 88 07 14 00 116
+117 65 01 10 00 117
+
+PR-870
+
+GOVERNEMNT OF KARNATAKA
+RD 80 PFH 2023 Karnataka Government Secretariat
+E- 1215461 Multi Storied Building
+Bengaluru, Date:10-11-2023
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD 343 PFH 2022
+Dated:07/11/2022 regarding altering the limits of Halyal village of Afzalpur Taluk
+and Kalaburagi District and constituting a new revenue village called Halyal Thanda
+was published as required by section 6 of the Karnataka Land Revenue Act, 1964
+(Karnataka act No.12 of 1964) in the Karnataka Gazette No. RD 343 PFH 2022
+Dated:08/11/2022 inviting objections or suggestions from all the persons likely to be
+affected thereby within thirty days from the date of its publication in the Official
+Gazette.
+And whereas, the said gazette was made available to the public on
+Dated:08/11/2023 And whereas, no objections were received by the State
+Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village Halyal of Afzalpur taluk Kalaburagi District to form a new revenue village
+called as Halyal Thanda of Afzalpur taluk Kalaburagi District along with the
+survey numbers included in column (4) thereof.
+
+Sl.no Old Survey Extent of area transferred Survey numbers
+Numbers to new village Specified in column (2)
+Which are excluded Halyal Thanda which are to be included
+from Halyal village Anna to form new village Acre Gunta
+to constituting new Halyal Thanda and New
+village Halyal survey numbers assigned
+Thanda to them
+
+1 2 3 4
+1 17 06 00 1
+3 33 00 (New gramtana)
+2 26 24 03 00 2
+3 27 25 20 00 3
+
+4 20 11 33 00 4
+5 19 24 19 00 5
+6 12 23 21 00 6
+7 13 28 01 00 7
+8 18 06 09 00 8
+9 17 04 03 00 9
+10 16 03 27 00 10
+11 14 23 21 00 11
+12 15 15 20 00 12
+13 28 21 17 00 13
+14 29 27 16 00 14
+15 30 23 18 00 15
+16 31 10 27 00 16
+17 32 32 28 00 17
+18 34 33 31 00 18
+Total 360 33 00
+
+TABLE-1
+
+Note :- The extent of Gramatana within the said village is to be the extent
+specified below namely :-
+
+Survey Number Extent (A-G)
+33 3-33
+Total 3-33
+
+There shall be constituted a new village called Halyal Thanda in
+Afzalpur taluk Kalaburagi District and boundaries of the village shall be as
+specified below :-
+
+Boundaries of the new village Halyal Thanda
+
+East :- Matoli & Chincholi Village West:- Halyal Village Boundary
+Boundary
+North:- Halyal Village Boundary South:- Afzalpur Village Boundary
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the Halyal
+village specified in the column (2) shall be assigned new survey numbers in
+the said villages specified in the column (4).
+
+TABLE-2
+Sl.no. Survey numbers Total Area New Survey numbers
+remaining in Halyal assigned to the
+village after excluding remaining survey
+Acre Gunta Anna
+the survey numbers numbers in Halyal
+
+which are to be included specified in column (2)
+
+to form village Halyal
+
+Thanda
+
+1 2 3 4
+1 1 16 38 00 1
+2 2 31 22 00 2
+3 3 28 34 00 3
+4 4 07 39 00 4
+5 5 04 36 00 5
+6 6 00 14 00 6
+7 7 02 30 00 7
+8 8 00 19 00 8
+9 9 01 36 00 9
+10 10 02 17 00 10
+11 11 00 18 00 11
+12 21 03 16 00 12
+13 22 06 24 00 13
+14 23 01 25 00 14
+15 24 11 16 00 15
+16 25 34 10 00 16
+17 60 30 30 00 17
+18 43 22 20 00 18
+19 42 00 02 00 19
+20 41 22 04 00 20
+21 35 29 37 00 21
+22 36 31 17 00 22
+23 37 22 01 00 23
+24 38 22 23 00 24
+
+25 40 19 00 00 25
+26 39 29 12 00 26
+27 45 18 27 00 27
+28 46 16 12 00 28
+29 47 20 31 00 29
+30 44 26 05 00 30
+31 52 26 13 00 31
+32 51 20 05 00 32
+33 48 23 01 00 33
+34 49 28 01 00 34
+35 50 19 10 00 35
+36 53 30 11 00 36
+37 54 28 34 00 37
+38 55 33 21 00 38
+39 56 24 15 00 39
+40 57 29 14 00 40
+41 58 00 01 00 41
+42 59 00 08 00 42
+Total Total 730 29 00
+Gramtana Exant 08 25 00
+Nadi 01 39 00
+Nala 07 10 00
+Total extant 748 23 00
+
+Boundaries of new village Halyal
+
+East: Chincholi village Boundary West: Afzalpur Village Boundary
+North: Balluragi Village Boundary South: New Ravenue village Halyal
+Tanda & Afzalpur Village Boundary
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+1 17 06 00 1
+2 26 24 03 00 2
+3 27 25 20 00 3
+
+4 20 11 33 00 4
+5 19 24 19 00 5
+6 12 23 21 00 6
+7 13 28 01 00 7
+8 18 06 09 00 8
+9 17 04 03 00 9
+10 16 03 27 00 10
+11 14 23 21 00 11
+12 15 15 20 00 12
+13 28 21 17 00 13
+14 29 27 16 00 14
+15 30 23 18 00 15
+16 31 10 27 00 16
+17 32 32 28 00 17
+18 34 33 31 00 18
+
+33 3-33
+
+1 2 3 4
+1 1 16 38 00 1
+2 2 31 22 00 2
+3 3 28 34 00 3
+4 4 07 39 00 4
+5 5 04 36 00 5
+6 6 00 14 00 6
+7 7 02 30 00 7
+8 8 00 19 00 8
+9 9 01 36 00 9
+10 10 02 17 00 10
+11 11 00 18 00 11
+12 21 03 16 00 12
+13 22 06 24 00 13
+14 23 01 25 00 14
+15 24 11 16 00 15
+16 25 34 10 00 16
+17 60 30 30 00 17
+18 43 22 20 00 18
+19 42 00 02 00 19
+20 41 22 04 00 20
+21 35 29 37 00 21
+22 36 31 17 00 22
+23 37 22 01 00 23
+24 38 22 23 00 24
+25 40 19 00 00 25
+26 39 29 12 00 26
+
+27 45 18 27 00 27
+28 46 16 12 00 28
+29 47 20 31 00 29
+30 44 26 05 00 30
+31 52 26 13 00 31
+32 51 20 05 00 32
+33 48 23 01 00 33
+34 49 28 01 00 34
+35 50 19 10 00 35
+36 53 30 11 00 36
+37 54 28 34 00 37
+38 55 33 21 00 38
+39 56 24 15 00 39
+40 57 29 14 00 40
+41 58 00 01 00 41
+42 59 00 08 00 42
+
+PR-871
+
+GOVERNEMNT OF KARNATAKA
+RD 77 PFH 2023 Karnataka Government Secretariat
+E-1214108 Multi Storied Building
+Bengaluru, Date 07.11.2023
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD 266 PFH 2022 Dated 11-10-2022
+regarding altering the limits of Kalamandragi village of Kamalapur Taluk and
+Kalaburagi District and constituting a new revenue village called Gutti Tanda and
+Bandankera Tanda was published as required by section 6 of the Karnataka Land
+Revenue Act, 1964 (Karnataka act No.12 of 1964) in the Karanataka Gazette No. RD
+266 dated 11-10-2022 inviting objections or suggestions from all the persons likely to
+be affected thereby within thirty days from the date of its publication in the Official
+Gazette.
+And whereas, the said gazette was made available to the public on Dated12-10-
+And whereas, objections and suggestions have been received and considered by
+the State Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka Land
+Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka here
+by makes the following notification, namely:-
+
+SCHEDULE-1
+Land bearing survey numbers of the village and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of
+Kalamandragi said village of Kamalapur taluk in Kalaburagi District to form a new
+revenue village called Gutti Tanda of Kamalapur taluk Kalaburagi district along
+with survey numbers included in column (4) thereof.
+
+TABLE-1
+
+Sl.No. Old survey numbers Extent of area transferred Survey numbers
+which are excluded to new village Specified in column
+from Kalmandargi (2) which are to be Gutti Tanda
+village to constitute included to form
+new village Gutti Acre Gunta Anna new village Gutti
+Tanda Tanda & new survey
+numbers assigned to
+them
+(1) (2) (3) (4)
+
+1 141 14 28 00 1
+2 141 02 20 00 New revenue village
+3 156 35 32 00 2
+
+4 157 05 24 00 3
+5 158 06 00 00 4
+6 159 23 28 00 5
+7 162 23 17 00 6
+8 164 20 27 00 7
+9 163 17 09 00 8
+10 165 21 39 00 9
+11 166 22 01 00 10
+12 167 10 33 00 11
+13 168 10 04 00 12
+14 169 10 07 00 13
+15 170 15 24 00 14
+16 171 23 13 00 15
+17 172 17 15 00 16
+18 174 19 12 00 17
+19 175 24 33 00 18
+20 176 24 02 00 19
+21 161 27 24 00 20
+22 160 25 36 00 21
+23 177 12 30 00 22
+24 178 11 25 00 23
+25 179 06 21 00 24
+26 155 16 13 00 25
+27 142 15 11 00 26
+28 145 09 25 00 27
+29 154 14 37 00 28
+30 180 32 06 00 29
+31 181 13 24 00 30
+32 188 08 16 00 31
+33 189 16 16 00 32
+34 190 20 22 00 33
+35 191 06 26 00 34
+36 186 16 27 00 35
+37 187 19 27 00 36
+38 182 02 30 00 37
+39 183 11 22 00 38
+40 152 17 20 00 39
+41 153 06 32 00 40
+42 146 17 06 00 41
+43 151 16 29 00 42
+44 150 06 09 00 43
+45 184 20 27 00 44
+
+46 185 06 39 00 45
+47 127 24 20 00 46
+48 126 03 00 00 47
+49 149 14 30 00 48
+50 148 17 37 00 49
+51 147 07 09 00 50
+52 144 13 13 00 51
+53 143 16 13 00 52
+54 135 09 06 00 53
+55 132 13 18 00 54
+56 131 07 22 00 55
+57 130 05 24 00 56
+58 129 02 31 00 57
+59 112 16 15 00 58
+60 110(1) 03 28 00 59(1)
+61 110(2) 05 00 00 59(2)
+62 110(3) 05 00 00 59(3)
+63 110(4) 02 00 00 59(4)
+64 110(5) 02 00 00 59(5)
+65 111 23 26 00 60
+66 133 32 23 00 61
+67 134 16 14 00 62
+68 136 29 10 00 63
+69 140 14 20 00 64
+70 139 18 38 00 65
+71 139 00 30 00 New revenue village
+72 138 02 35 00 66
+73 137 24 17 00 67
+74 137 03 00 00 New revenue village
+TOTAL 1066 08 00
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:-Gutti Tanda
+
+Survey numbers Extent
+A G
+Part of sy no- 137 03 00
+Part of sy no- 139 00 30
+Part of sy no- 141 02 20
+Total 06 10
+
+There shall be constituted a new village called Gutti Tanda in Kalburagi
+taluk, Kalburagi. District and boundaries of the village shall be as specified below:-
+Gutti Tanda
+
+Boundaries of the new village Gutti Tanda
+
+East: Dongargoun village Border West: Kalkhor village Border
+North: Kalmandargi village Border South: Varnihal village Border
+
+SCHEDULE-2
+Land bearing survey numbers of the village Kalmandargi and survey numbers of
+the areas specified in column (2) of the table below shall be excluded from the limits
+of said village Kalmandargi of Kamalapur taluk in Kalburagi District to form a new
+revenue village called Bandankera Tanda of Kamalapur taluk Kalburagi district
+along with the survey numbers included in column (4) thereof.
+
+TABLE-2
+
+Sl.No Old survey numbers AREA Survey numbers
+which are excluded specified in column (2)
+from Kalmandargi which are to be included
+village to constitute to form new village
+new village Bandankera Tanda & Acre Gunta Anna
+Bandankera Tanda new survey numbers
+assigned to them
+(1) (2) (3) (4)
+1 92 16 33 00 1
+3 93 21 04 00 2
+4 99 19 01 00 3
+5 100 06 16 00 4
+6 101 22 34 00 5
+7 102 19 10 00 6
+8 109 1 12 00 7
+9 108 17 16 00 8
+10 113 05 12 00 9
+11 128 03 38 00 10
+12 115 08 16 00 11
+13 114 24 36 00 12
+14 116 09 08 00 13
+15 117 07 28 00 14
+16 118 08 12 00 15
+
+17 68 13 05 00 16
+18 70 05 23 00 17
+19 69 03 27 00 18
+20 71 11 03 00 19
+21 107 11 34 00 20
+22 106 08 07 00 21
+23 103 28 23 00 22
+24 105 06 31 00 23
+25 72 15 06 00 24
+26 104 12 34 00 25
+27 98 16 08 00 26
+28 97 07 37 00 27
+29 95 25 33 00 28
+30 79 10 13 00 29
+31 80 20 18 00 30
+32 81 23 02 00 31
+33 82 23 13 00 32
+34 94 30 12 00 33
+35 96 05 23 00 34
+36 83 10 01 00 35
+37 84 33 09 00 36
+38 85 21 07 00 37
+39 86 07 06 00 38
+40 87 06 08 00 39
+41 91 22 38 00 40
+42 91 02 00 00 New revenuve village
+43 88 14 33 00 41
+44 89 06 30 00 42
+45 90 10 30 00 43
+46 90 00 35 00 New revenuve village
+TOTAL 608 05
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:- Bandankera Tanda
+
+Survey numbers Extent
+A G
+Part of old sy no- 91 02 00
+Part of old sy no- 90 00 35
+Total 02 35
+
+There shall be constituted a new village called Bandankera Tanda in Kalburagi
+taluk, Kalburagi. District and boundaries of the village shall be as specified below:-
+Bandankera Tanda
+
+Boundaries of the village Bandankera Tanda
+
+East: Kheda B and Dongargoun West: Kalmandargi and Gutti Tanda
+village Border village Border
+North: Kalmandargi village Border South: Gutti Tanda and Dongargoun
+village Border
+SCHEDULE-3
+The survey numbers of the village and areas remaining in the kalmandargi village
+Specified column (2) shall be assigned new survey numbers in the said village
+specified in column(4)
+TABLE-3
+
+Sl.No. Survey Numbers New survey numbers
+Remaning in Area assigned to the old
+Kalmandargi after survey numbers
+creation of new specified in Col(2) of
+Acre Gunta Anna Revenue Villages Kalmandargi
+Gutti Tanda and
+Bandankera Tanda
+(1) (2) (3) (4)
+1 1 00 18 00 1
+2 2 05 04 00 2
+3 3 11 06 00 3
+4 4 15 39 00 4
+5 5 06 26 00 5
+6 6 06 19 00 6
+7 210 176 12 00 7
+8 7 28 37 00 8
+9 29 21 24 00 9
+10 30 12 12 00 10
+11 31 24 32 00 11
+12 32 22 32 00 12
+13 28 16 23 00 13
+14 27 28 11 00 14
+15 26 29 06 00 15
+16 24 22 17 00 16
+17 23 07 01 00 17
+18 25 21 13 00 18
+19 20 07 14 00 19
+20 19 14 34 00 20
+
+21 18 15 20 00 21
+22 21 17 00 00 22
+23 22 02 33 00 23
+24 15 25 05 00 24
+25 16 02 28 00 25
+26 17 07 09 00 26
+27 08 18 14 00 27
+28 10 12 04 00 28
+29 14 18 20 00 29
+30 13 24 10 00 30
+31 11 13 20 00 31
+32 12 06 28 00 32
+33 107 11 34 00 33
+34 206 13 12 00 34
+35 205 06 18 00 35
+36 173 01 01 00 36
+37 204 22 16 00 37
+38 209 00 15 00 38
+39 208 09 05 00 39
+40 09 01 24 00 40
+41 203 05 17 00 41
+42 202 13 30 00 42
+43 201 00 26 00 43
+44 200 01 34 00 44
+45 199 03 06 00 45
+46 197 12 07 00 46
+47 198 06 07 00 47
+48 196 08 25 00 48
+49 195 04 37 00 49
+50 194 04 14 00 50
+51 193 08 30 00 51
+52 192 07 14 00 52
+53 122 13 35 00 53
+54 125 08 11 00 54
+55 123 11 10 00 55
+56 124 06 19 00 56
+57 119 10 14 00 57
+58 120 07 00 00 58
+59 121 12 04 00 59
+60 64 07 18 00 60
+61 63 00 07 00 61
+62 62 01 08 00 62
+
+63 65 02 14 00 63
+64 66 15 36 00 64
+65 67 05 04 00 65
+66 60 05 04 00 66
+67 59 10 29 00 67
+68 58 12 26 00 68
+69 73 13 17 00 69
+70 74 05 01 00 70
+71 78 09 21 00 71
+72 77 07 11 00 72
+73 53 05 07 00 73
+74 52 02 11 00 74
+75 40 05 26 00 75
+76 39 02 30 00 76
+77 38 09 22 00 77
+78 37 29 30 00 78
+79 33 08 13 00 79
+80 34 11 21 00 80
+81 35 02 11 00 81
+82 45 03 12 00 82
+83 36 27 07 00 83
+84 44 06 01 00 84
+85 43 02 19 00 85
+86 42 01 20 00 86
+87 41 10 10 00 87
+88 51 11 08 00 88
+89 50 28 17 00 89
+90 54 03 21 00 90
+91 76 06 22 00 91
+92 75 12 00 00 92
+93 55 09 01 00 93
+94 56 07 30 00 94
+95 57 05 13 00 95
+96 48 11 30 00 96
+97 49 13 18 00 97
+98 43 02 19 00 98
+99 47 09 19 00 99
+100 61 12 02 00 100
+TOTAL 1288 32 00
+Gram thana 19 35 00
+extant
+Total extant 1308 27 00
+
+Boundaries of village Kalmandargi
+
+East: Bandankera Tanda village Border West: Hirenagon village Border
+North: Kheda B village Border South: Gutti Thand village Border
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act 12 of 1964) shall come into effect from the date of
+publication of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+1 141 14 28 00 1
+3 156 35 32 00 2
+4 157 05 24 00 3
+5 158 06 00 00 4
+6 159 23 28 00 5
+7 162 23 17 00 6
+8 164 20 27 00 7
+9 163 17 09 00 8
+10 165 21 39 00 9
+11 166 22 01 00 10
+12 167 10 33 00 11
+13 168 10 04 00 12
+14 169 10 07 00 13
+15 170 15 24 00 14
+16 171 23 13 00 15
+17 172 17 15 00 16
+18 174 19 12 00 17
+19 175 24 33 00 18
+20 176 24 02 00 19
+21 161 27 24 00 20
+22 160 25 36 00 21
+23 177 12 30 00 22
+
+24 178 11 25 00 23
+25 179 06 21 00 24
+26 155 16 13 00 25
+27 142 15 11 00 26
+28 145 09 25 00 27
+29 154 14 37 00 28
+30 180 32 06 00 29
+31 181 13 24 00 30
+32 188 08 16 00 31
+33 189 16 16 00 32
+34 190 20 22 00 33
+35 191 06 26 00 34
+36 186 16 27 00 35
+37 187 19 27 00 36
+38 182 02 30 00 37
+39 183 11 22 00 38
+40 152 17 20 00 39
+41 153 06 32 00 40
+42 146 17 06 00 41
+43 151 16 29 00 42
+44 150 06 09 00 43
+45 184 20 27 00 44
+46 185 06 39 00 45
+47 127 24 20 00 46
+48 126 03 00 00 47
+49 149 14 30 00 48
+50 148 17 37 00 49
+51 147 07 09 00 50
+52 144 13 13 00 51
+53 143 16 13 00 52
+54 135 09 06 00 53
+55 132 13 18 00 54
+56 131 07 22 00 55
+57 130 05 24 00 56
+58 129 02 31 00 57
+59 112 16 15 00 58
+60 110(1) 03 28 00 59(1)
+61 110(2) 05 00 00 59(2)
+62 110(3) 05 00 00 59(3)
+
+63 110(4) 02 00 00 59(4)
+64 110(5) 02 00 00 59(5)
+65 111 23 26 00 60
+66 133 32 23 00 61
+67 134 16 14 00 62
+68 136 29 10 00 63
+69 140 14 20 00 64
+70 139 18 38 00 65
+72 138 02 35 00 66
+73 137 24 17 00 67
+
+1 2 3 4
+1 92 16 33 00 1
+3 93 21 04 00 2
+4 99 19 01 00 3
+5 100 06 16 00 4
+6 101 22 34 00 5
+7 102 19 10 00 6
+8 109 1 12 00 7
+9 108 17 16 00 8
+10 113 05 12 00 9
+11 128 03 38 00 10
+12 115 08 16 00 11
+13 114 24 36 00 12
+14 116 09 08 00 13
+15 117 07 28 00 14
+16 118 08 12 00 15
+17 68 13 05 00 16
+18 70 05 23 00 17
+19 69 03 27 00 18
+20 71 11 03 00 19
+21 107 11 34 00 20
+22 106 08 07 00 21
+23 103 28 23 00 22
+24 105 06 31 00 23
+25 72 15 06 00 24
+26 104 12 34 00 25
+27 98 16 08 00 26
+28 97 07 37 00 27
+
+29 95 25 33 00 28
+30 79 10 13 00 29
+31 80 20 18 00 30
+32 81 23 02 00 31
+33 82 23 13 00 32
+34 94 30 12 00 33
+35 96 05 23 00 34
+36 83 10 01 00 35
+37 84 33 09 00 36
+38 85 21 07 00 37
+39 86 07 06 00 38
+40 87 06 08 00 39
+41 91 22 38 00 40
+43 88 14 33 00 41
+44 89 06 30 00 42
+45 90 10 30 00 43
+
+1 2 3 4
+1 1 00 18 00 1
+2 2 05 04 00 2
+3 3 11 06 00 3
+4 4 15 39 00 4
+5 5 06 26 00 5
+6 6 06 19 00 6
+7 210 176 12 00 7
+8 7 28 37 00 8
+9 29 21 24 00 9
+10 30 12 12 00 10
+11 31 24 32 00 11
+12 32 22 32 00 12
+13 28 16 23 00 13
+14 27 28 11 00 14
+15 26 29 06 00 15
+16 24 22 17 00 16
+17 23 07 01 00 17
+18 25 21 13 00 18
+19 20 07 14 00 19
+20 19 14 34 00 20
+21 18 15 20 00 21
+22 21 17 00 00 22
+23 22 02 33 00 23
+24 15 25 05 00 24
+25 16 02 28 00 25
+26 17 07 09 00 26
+27 08 18 14 00 27
+
+28 10 12 04 00 28
+29 14 18 20 00 29
+30 13 24 10 00 30
+31 11 13 20 00 31
+32 12 06 28 00 32
+33 107 11 34 00 33
+34 206 13 12 00 34
+35 205 06 18 00 35
+36 173 01 01 00 36
+37 204 22 16 00 37
+38 209 00 15 00 38
+39 208 09 05 00 39
+40 09 01 24 00 40
+41 203 05 17 00 41
+42 202 13 30 00 42
+43 201 00 26 00 43
+44 200 01 34 00 44
+45 199 03 06 00 45
+46 197 12 07 00 46
+47 198 06 07 00 47
+48 196 08 25 00 48
+49 195 04 37 00 49
+50 194 04 14 00 50
+51 193 08 30 00 51
+52 192 07 14 00 52
+53 122 13 35 00 53
+54 125 08 11 00 54
+55 123 11 10 00 55
+56 124 06 19 00 56
+57 119 10 14 00 57
+58 120 07 00 00 58
+59 121 12 04 00 59
+60 64 07 18 00 60
+61 63 00 07 00 61
+62 62 01 08 00 62
+63 65 02 14 00 63
+64 66 15 36 00 64
+65 67 05 04 00 65
+66 60 05 04 00 66
+
+67 59 10 29 00 67
+68 58 12 26 00 68
+69 73 13 17 00 69
+70 74 05 01 00 70
+71 78 09 21 00 71
+72 77 07 11 00 72
+73 53 05 07 00 73
+74 52 02 11 00 74
+75 40 05 26 00 75
+76 39 02 30 00 76
+77 38 09 22 00 77
+78 37 29 30 00 78
+79 33 08 13 00 79
+80 34 11 21 00 80
+81 35 02 11 00 81
+82 45 03 12 00 82
+83 36 27 07 00 83
+84 44 06 01 00 84
+85 43 02 19 00 85
+86 42 01 20 00 86
+87 41 10 10 00 87
+88 51 11 08 00 88
+89 50 28 17 00 89
+90 54 03 21 00 90
+91 76 06 22 00 91
+92 75 12 00 00 92
+93 55 09 01 00 93
+94 56 07 30 00 94
+95 57 05 13 00 95
+96 48 11 30 00 96
+97 49 13 18 00 97
+98 43 02 19 00 98
+99 47 09 19 00 99
+100 61 12 02 00 100
+
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19
+Licensed to post without prepayment WPP No. 297
+
+PR-872
+
+[
+8f8b16, postalCode=560059, street=BANGALORE, pseudonym=ca58c76cf7e2445d7a4f3f51407e025e, serialNumber=4d9b284dcc53d39f1425f50485de07dd86efa302a3fce3729edd
+ea0c1b5098e0, ou=GOVERNMENT OF KARNATAKA, o=GOVERNMENT OF H KARNATAKA, cn=THAMMAIAH Date: 2023.12.26 17:20:33 +05'30'
