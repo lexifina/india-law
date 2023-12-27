@@ -1,0 +1,39 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+number: "No. WR-IRWR04/37/2023-IW3/648"
+issuer: "Government of Punjab"
+department: "Finance"
+published: "2023-12-27"
+in_force: "2023-12-27"
+in_force_evidence: "published in the Gazette 2023-12-27; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2023-12-27.86444"
+language: "English text only"
+---
+
+GOVERNMENT OF PUNJAB
+DEPARTMENT OF WATER RESOURCES
+NOTIFICATION
+The 27th December, 2023
+No. WR-IRWR04/37/2023-IW3/648.–In exercise of the powers conferred under Section 55 of the
+Northern India Canal and Drainage Act with Section 3 of the aforesaid Act, the Governor of Punjab is pleased
+to notify the Khasra numbers as per the details given below for smooth flow of water in SODHIAN DRAIN
+from RD 0-20200. The Governor, Punjab is further pleased to authorize the Executive Engineer, SBS Nagar,
+Drainage-cum-Mining Division, WRD, Punjab, District, Jalandhar to take all necessary action to remove
+obstructions, in case obstructions are raised by any person. The concerned officer i.e. Executive Engineer, SBS
+Nagar, Drainage-cum-Mining Division, WRD, Punjab, District, Jalandhar may also authorize any other government
+officer or any private person to remove such obstructions or carry out any activities for the aforesaid purpose.
+Specification of Locality
+Name of Name of Name of Hadbast Khasra Area Remarks
+District Tehsil Village No. No. Kanal Marla
+Jalandhar Jalandhar-1 Salarpur 238 84 134 17
+85 15 11
+Jalandhar Jalandhar-1 ChakDaulatpur 239 32 31 0
+Jalandhar Nurmehal Daduwal 5 144 142 0
+Sd/-
+KRISHAN KUMAR, IAS
+Chandigarh Principal Secretary to the Government of Punjab
+The 22nd December, 2023 Department of Water Resources
+3001/12-2023/Pb. Govt. Press, S.A.S. Nagar
+( 5366 )
