@@ -1,0 +1,3 @@
+# Section 12A
+
+12A. Power of State Government to extend time for filing return.— Notwithstanding anything contained in section 12, the State Government may by an order in the Official Gazette extend the time limit of furnishing the return provided under any of the provisions of that section by such further period as may be specified in the order, and any extension of time for furnishing the return made by any order under the provisions of this Act before the commencement of the Maharashtra Agricultural Lands (Ceiling on Holdings) (Amendment) Act, 1975 (Mah. II of 1976), shall be deemed to have been duly made under this section as if this section was in force when such order was made.]
