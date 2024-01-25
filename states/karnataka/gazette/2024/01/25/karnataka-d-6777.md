@@ -1,0 +1,9076 @@
+---
+kind: "gazette-notification"
+gazette: "Karnataka Gazette"
+gazette_type: "Daily"
+issuer: "Government of Karnataka"
+department: "Gazette contains multiple Departments/Organizations"
+subject: "Gazette contains multiple Subjects"
+published: "2024-01-25"
+in_force: "2024-01-25"
+in_force_evidence: "published in the Gazette 2024-01-25; commencement of its provisions left to a later notification"
+official_text: "https://erajyapatra.karnataka.gov.in/%28S%28auyyzwta4hqh3eb3rsworbq5%29%29/Search1.aspx"
+mirror: "https://archive.org/details/in.gazette.karnataka_d.2024-01-25.6777"
+language: "English text only"
+---
+
+BENGALURU, THURSDAY, 25, JANUARY, 2024(MAGHA, 05, SHAKAVARSHA, 1945) Volume - 159 Issue 20
+
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/46/2023-RC Karnataka Government Secretariat
+E- 1254751 Multi Storied Building
+Bengaluru, Date: 16-01-2024
+
+PRELIMINARY NOTIFICATION
+In exercise of the powers conferred by Section 5 of the Karnataka Land
+Revenue Act 1964 ( Karnataka act no 12 of 1964) and taking into consideration
+the factors Specified in clauses ( i ) to ( iv ) of rule 3 of the Karnataka Land
+Revenue Rules 1966 such as the population, area of the village the demand
+under land revenue in the village and other head of the account and having
+regard to the administrative convenience the Government of Karnataka
+proposes to after, the extent of residential area by adding an area occupied by
+unrecorded habitation within the boundary of Mudabal (B) Village of Jewargi Taluk
+of Kalaburagi District to convert the existing Mudabal (B) Tanda unrecorded
+habitation in to a hamlet/extension /part of the existing revenue village. The area
+occupied by the said hamlet of the village is specified in the schedule below.
+Notification is hereby issued that Land bearing survey numbers and extent
+specified in Schedule shall be declared as habitation area within the boundary of
+Mudabal (B) village for conversion of Mudabal (B) Tanda unrecorded habitation in
+to hamlet/ extension/ part of the said revenue village.
+Now, therefore in exercise of the power conferred by section 6 of the said Act,
+notice is hereby given for the information of all the persons likely to be affected
+thereby that the proposal will be taken into consideration on or after thirty days
+from the date of publication of the notification in the official Gazette.
+
+(1648)
+
+won 2 BREE BW, MDD, 94, BBO, 909Y NLSE
+Any objection or suggestion which may be received by the state
+Government from any person with respect to the said proposal before the date
+Specified above will be considered by the state Government. Objection or
+suggestion may be addressed to the Deputy Commissioner,
+Kalaburagi District.
+SCHEDULE
+Land bearing survey numbers and extent specified below in column (3) of the
+table shall be declared as habitation area of Mudabal (B) Tanda village of Jewargi
+Taluk of Kalaburagi District convert the same to form hamlet/extension within the
+boundary of Mudabal (B) Revenue village and same will herein after be named as
+Mudabal (B) Tanda of Mudabal (B) villagein Jewargi Taluk of KalaburagiDistrict.
+TABLE
+
+Name of the Survey
+Present
+revenue
+number Total extent of land name of
+village/villages in
+the in which on which it is Boundaries
+Which unrecorded
+unrecorded it is located
+habitation is
+habitation
+located located
+4 5
+1 2 3
+Acre Gunta Anna North South East West
+Mudabal(B) Mudabal(B) Mudabal(B) Mudabal
+Mudabal (B) 2/1 02 24 - Road
+(B) Tanda Gramtana Sy No.2/2 Sy No. 01
+Road, Road,
+Mudabal(B) Mudabal
+103 02 19 Mudabal(B) Road Mudabal(B) Sy Mudabal (B)
+(B)Tanda Gramtana
+No.104, 102 Sy No.102
+Total extent of unrecorded
+05 03 -
+habitation
+
+It is hereby declared that the extent of land indicated in the columns (4) above
+with survey numbers specified in column (3) on which the said unrecorded habitation
+is located is proposed to be converted as habitation area (Gramatana) of Mudabal (B)
+Tanda hamlet/ extension/part of Mudabal (B) village in Jewargi Taluk of
+Kalaburagi District
+
+The proposal specified above shall come into effect from such date as the
+State Government may specify by Notification proposed to be issued under section 5
+of the Karnataka Land Revenue Act, 1964 (Karnataka Act No. 12 of 1964)
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+QLBO BOF EE TOW, MAS, 9%, wIBO, N0IY eon Ya
+
+4 5
+1 2 3
+
+PR-165
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/119/2023-RC Karnataka Government Secretariat
+E- 1265252 Multi Storied Building
+Bengaluru, Date: 18-01-2024
+
+PRELIMINARY NOTIFICATION
+In exercise of the powers conferred by Section 5 of the Karnataka Land
+Revenue Act 1964 ( Karnataka act no 12 of 1964) and taking into consideration
+the factors Specified in clauses ( i ) to ( iv ) of rule 3 of the Karnataka Land
+Revenue Rules 1966 such as the population, area of the village the demand
+under land revenue in the village and other head of the account and having
+regard to the administrative convenience the Government of Karnataka propose
+s to issue a Notification to alter the limits of Harawal Village of Jewargi taluk
+Kalaburagi District and to constitute a new revenue villages called TIKU
+NAYAK NAGAR as specified in schedule along with maps with old survey
+numbers and new assigned to them.
+
+Now, therefore in exercise of the power conferred by section 6 of the said Act,
+notice is hereby given for the information of all the persons likely to be affected
+thereby that the proposal will be taken into consideration on or after thirty days
+from the date of publication of the notification in the official Gazette.
+Any objection or suggestion which may be received by the state
+Government from any person with respect to the said proposal before the date
+Specified above will be considered by the state Government. Objection or
+suggestion may be addressed to the Deputy Commissioner, Kalaburagi
+District, Kalaburagi
+SCHEDULE – 1
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village Harawal of Jewargi taluk in Kalaburagi District to form a new revenue
+village called TIKU NAYAK NAGAR of Jewargi taluk Kalaburagi District along
+with the survey numbers included in column (4) thereof.
+TABLE-1
+Sl.No. Old Survey Numbers Extent of area transferred Survey numbers Specified in
+Which are excluded to new village column (2) which are to be
+from TIKU NAYAK NAGAR included to form new
+Harawal village to village TIKU NAYAK
+Acre Gunta Anna
+constituting new village NAGAR & new survey
+TIKU NAYAK numbers assigned to them
+NAGAR
+(1) (2) (3) (4)
+1 24 32 11 1
+24 03 10 NEW GRAMATHANA
+2 25 15 24 2
+3 26 31 19 3
+4 27 37 07 4
+5 28 37 02 5
+6 29 37 15 6
+7 30 20 02 7
+8 31 22 36 8
+9 32 21 03 9
+10 33 19 30 10
+11 46 20 09 11
+12 45 27 03 12
+13 43 35 19 13
+14 44 20 15 14
+15 47 24 28 15
+16 48 30 38 16
+17 64 18 33 17
+
+18 65 36 19 18
+19 63 22 28 19
+20 62 25 31 20
+21 61 19 16 21
+22 73 34 25 22
+23 72 35 27 23
+24 66 36 29 24
+25 67 35 27 25
+26 68 03 34 26
+27 69 19 35 27
+28 70 27 16 28
+29 71 29 36 29
+30 78 25 08 30
+31 79 23 38 31
+32 80 23 24 32
+33 81 13 37 33
+34 82 27 11 34
+35 77 25 13 35
+36 76 26 24 36
+37 84 19 17 37
+38 83 29 35 38
+39 86 18 27 39
+40 87 09 12 40
+41 85 21 25 41
+42 75 17 05 42
+43 88 34 39 43
+44 89 07 09 44
+45 91 30 37 45
+46 90 17 39 46
+47 74 22 14 47
+48 59 27 10 48
+49 60 26 05 49
+50 56 29 17 50
+51 57 17 13 51
+52 58 23 39 52
+53 92 25 09 53
+54 93 21 36 54
+55 94 36 38 55
+56 54 27 34 56
+57 55 21 29 57
+58 49/1 08 09 58
+59 49/2 09 26 59
+
+60 49/3 09 27 60
+61 50/1 06 11 61
+62 50/2 09 26 62
+63 50/3 09 26 63
+64 50/4 09 26 64
+65 51 31 05 65
+66 53 25 21 66
+67 52 25 27 67
+68 96 18 19 68
+69 95 11 02 69
+70 97 17 24 70
+71 98 22 37 71
+72 36 06 21 72
+73 37 17 24 73
+74 38 09 17 74
+75 39 10 09 75
+76 40 04 20 76
+77 41 06 37 77
+78 42 31 31 78
+79 35 35 36 79
+80 34 27 25 80
+81 8/1 27 11 81
+82 8/2 09 26 82
+83 8/3 09 26 83
+84 8/4 09 26 84
+85 09 05 24 85
+86 10 24 25 86
+87 11 20 30 87
+88 2 06 15 88
+00 27
+89 12 04 12 89
+01 14
+90 17 11 37 90
+02 13
+91 13 20 06 91
+92 14 08 27 92
+93 15 05 16 93
+94 16 06 25 94
+95 19 10 35 95
+96 20 26 17 96
+97 21 32 36 97
+98 22 30 10 98
+
+99 23 27 21 99
+100 18 24 39 100
+01 37
+TOTAL 2132 12
+Marg 06 05
+River 60 12
+Total Extent 2198 29
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:-
+
+Survey numbers Extent
+Part of the survey number 03 acres 10 guntas
+
+There shall be constituted a new village called TIKU NAYAK NAGAR in
+Jewargi taluk, Kalaburagi District and boundaries of the village shall be as specified
+below:-
+Boundaries of the new village TIKU NAYAK NAGAR
+East: JANIVAR VILLAGE West:RASANAGI VILLAGE AND
+BHIMA RIVER
+North: OLD VILLAGE HARAWAL South: RYAVANOOR VILLAGE AND
+MAVANOOR VILLAGE
+
+SCHEDULE-2
+The Survey numbers of the village and areas remaining in the Harawal
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+
+TABLE-2
+Sl.No Survey numbers in village AREA New survey numbers
+after excluding the survey assigned to the remaining
+numbers which are to be survey numbers specified
+Acre Gunta Anna
+included to form village in column (2)
+Harawal
+1 2 3 4
+1 1/1 00 10 1/1
+2 1/2 00 21 1/2
+3 1/3 06 04 1/3
+4 3 21 01 2
+5 4 35 10 3
+6 7 07 06 4
+7 6 05 25 5
+
+8 5 15 06 6
+9 243 01 38 7
+10 242 29 16 8
+11 241 09 03 9
+12 240 10 25 10
+13 238 82 08 11
+14 239 18 24 12
+15 235 17 22 13
+16 236 11 35 14
+17 237 17 10 15
+18 199 38 15 16
+19 99 12 03 17
+20 100 24 33 18
+21 198 33 26 19
+22 195 37 27 20
+23 200 34 30 21
+24 232 27 36 22
+25 231 20 39 23
+26 209 26 01 24
+27 204 29 03 25
+28 203 34 38 26
+29 202 09 32 27
+30 201 36 04 28
+31 194 32 38 29
+32 192 15 14 30
+33 190/1 03 00 31/1
+34 190/2 03 08 31/2
+35 191 13 20 32
+36 196 12 27 33
+37 197 21 32 34
+38 102 15 03 35
+39 101 33 19 36
+40 104 06 16 37
+41 103 17 19 38
+42 111 22 02 39
+43 105 24 13 40
+44 106 05 13 41
+45 107 12 35 42
+46 108 28 25 43
+47 119 21 20 44
+48 109 11 28 45
+49 116 33 15 46
+
+50 117 01 21 47
+51 118 17 10 48
+52 122 08 00 49
+53 120 14 16 50
+54 121 26 39 51
+55 124 27 16 52
+56 125 24 39 53
+57 126 15 09 54
+58 136 28 30 55
+59 123 25 38 56
+60 139 04 27 57
+61 140 07 34 58
+62 115 23 15 59
+63 110 36 08 60
+64 112 31 27 61
+65 113 08 29 62
+66 114 21 09 63
+67 141 15 29 64
+68 142 27 27 65
+69 138 20 09 66
+70 137 32 30 67
+71 135 02 27 68
+72 134 26 12 69
+73 127 30 31 70
+74 128 32 18 71
+75 129 06 30 72
+76 131 11 10 73
+77 130 08 18 74
+78 132 22 10 75
+79 133 26 03 76
+80 145 16 03 77
+81 144 21 29 78
+82 146 16 10 79
+83 147 23 09 80
+84 143 23 25 81
+85 148 62 29 81
+86 155 14 22 83
+87 156 03 32 84
+88 154 15 03 85
+89 149 17 02 86
+90 150 14 34 87
+91 151 22 31 88
+
+92 152 28 11 89
+93 153 29 13 90
+94 159 24 16 91
+95 158 14 38 92
+96 157 27 32 93
+97 171 11 06 94
+98 172 07 01 95
+99 170 09 29 96
+100 161 08 15 97
+101 160 14 15 98
+102 162 33 20 99
+103 163 13 04 100
+104 164 24 07 101
+105 168 35 26 102
+106 169 19 38 103
+107 176 22 17 104
+108 175 08 06 105
+109 173 11 18 106
+110 174 22 17 107
+111 188 12 21 108
+112 189 15 14 109
+113 193 30 21 110
+114 187 07 21 111
+115 186 20 16 112
+116 177 11 31 113
+117 178 26 30 114
+118 167 08 23 115
+119 166/1 03 00 116/1
+120 166/2 04 00 116/2
+121 165 35 32 117
+122 179 28 12 118
+123 180 09 37 119
+124 181 07 31 120
+125 182 17 30 121
+126 183 16 13 122
+127 184 15 10 123
+128 185 31 09 124
+129 205 21 00 125
+130 206 26 24 126
+131 208 28 18 127
+132 207 31 34 128
+133 212 29 29 129
+
+134 213 21 17 130
+135 216 29 03 131
+136 214 18 28 132
+137 211 25 32 133
+138 210 16 21 134
+139 230 14 22 135
+140 223 12 04 136
+141 222 14 13 137
+142 221 04 20 138
+143 220 32 33 139
+144 215 07 22 140
+145 218 25 08 141
+146 217 33 14 142
+147 262 23 15 143
+148 261 20 02 144
+149 258 32 01 145
+150 219 27 38 146
+151 225 14 24 147
+152 226 14 04 148
+153 224 05 01 149
+154 227 14 22 150
+155 228 30 38 151
+156 229 12 08 152
+157 233 17 31 153
+158 234 31 04 154
+159 251 29 02 155
+160 254 24 10 156
+161 255 19 17 157
+162 257 19 22 158
+163 256 32 37 159
+164 259 28 38 160
+165 260 13 31 161
+166 263 23 28 162
+167 264 11 04 163
+168 265 23 27 164
+169 266 11 13 165
+170 267 24 32 166
+171 268 35 27 167
+172 269 26 23 168
+173 253 36 10 169
+174 252 21 05 170
+175 250 14 15 171
+
+176 249 23 17 712
+177 248 05 13 173
+178 247 07 07 174
+179 246 14 17 175
+180 296 29 33 176
+181 294 31 02 177
+182 295 04 27 178
+183 297 14 01 179
+184 303 09 37 180
+185 302 09 21 181
+186 298 16 05 182
+187 293 06 19 183
+188 292 22 11 184
+189 291 06 21 185
+190 290 21 10 186
+191 289 19 00 187
+192 287 05 28 188
+193 286 06 27 189
+194 288/1 05 36 190/1
+195 288/2 05 36 190/2
+196 288/3 05 36 190/3
+197 288/4 05 25 190/4
+198 270 28 27 191
+199 271 17 18 192
+200 272 28 01 193
+201 273 24 14 194
+202 274 32 39 195
+203 275 13 16 196
+204 276 09 14 197
+205 277 04 14 198
+206 278 12 07 199
+207 282 08 05 200
+208 279 08 39 201
+209 280 20 28 202
+210 281 13 09 203
+211 283 28 29 204
+212 285 13 08 205
+213 284 07 00 206
+214 299 12 35 207
+215 300 24 31 208
+216 301 10 06 209
+217 304 30 15 210
+
+218 245 25 12 211
+219 244 16 30 212
+220 305 08 29 213
+221 306 01 31 214
+222 307 00 15 215
+222 PARADI 1 01 00 PARADI1
+223 PARADI 2POT1 00 08 PARADI 2POT1
+224 PARADI 2POT2 00 15 PARADI 2POT2
+TOTAL 4219 26
+GRAMTANA 24 11
+MARGA 30 05
+RIVER 118 00
+TOTAL EXTENT 4392 02
+
+Boundaries of the village Harawal
+
+East: new village tiku nayak nagar West: bhima river
+North: kalhangarga and kootnoor village South: sonna village and mavanoor village
+
+The proposal specified above shall come effect from such date as the State
+Government may specify by Notification proposed to be issued under section 5 of
+the Karnataka Land Revenue Act, 1964 ( Karnataka Act No. 12 of 1964 )
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+1 24 32 11 1
+2 25 15 24 2
+3 26 31 19 3
+4 27 37 07 4
+5 28 37 02 5
+6 29 37 15 6
+7 30 20 02 7
+8 31 22 36 8
+9 32 21 03 9
+10 33 19 30 10
+
+11 46 20 09 11
+12 45 27 03 12
+13 43 35 19 13
+14 44 20 15 14
+15 47 24 28 15
+16 48 30 38 16
+17 64 18 33 17
+18 65 36 19 18
+19 63 22 28 19
+20 62 25 31 20
+21 61 19 16 21
+22 73 34 25 22
+23 72 35 27 23
+24 66 36 29 24
+25 67 35 27 25
+26 68 03 34 26
+27 69 19 35 27
+28 70 27 16 28
+29 71 29 36 29
+30 78 25 08 30
+31 79 23 38 31
+32 80 23 24 32
+33 81 13 37 33
+34 82 27 11 34
+35 77 25 13 35
+36 76 26 24 36
+37 84 19 17 37
+38 83 29 35 38
+39 86 18 27 39
+40 87 09 12 40
+41 85 21 25 41
+42 75 17 05 42
+43 88 34 39 43
+44 89 07 09 44
+45 91 30 37 45
+46 90 17 39 46
+47 74 22 14 47
+48 59 27 10 48
+49 60 26 05 49
+
+50 56 29 17 50
+51 57 17 13 51
+52 58 23 39 52
+53 92 25 09 53
+54 93 21 36 54
+55 94 36 38 55
+56 54 27 34 56
+57 55 21 29 57
+58 49/1 08 09 58
+59 49/2 09 26 59
+60 49/3 09 27 60
+61 50/1 06 11 61
+62 50/2 09 26 62
+63 50/3 09 26 63
+64 50/4 09 26 64
+65 51 31 05 65
+66 53 25 21 66
+67 52 25 27 67
+68 96 18 19 68
+69 95 11 02 69
+70 97 17 24 70
+71 98 22 37 71
+72 36 06 21 72
+73 37 17 24 73
+74 38 09 17 74
+75 39 10 09 75
+76 40 04 20 76
+77 41 06 37 77
+78 42 31 31 78
+79 35 35 36 79
+80 34 27 25 80
+81 8/1 27 11 81
+82 8/2 09 26 82
+83 8/3 09 26 83
+84 8/4 09 26 84
+85 09 05 24 85
+86 10 24 25 86
+87 11 20 30 87
+88 2 06 15 88
+00 27
+
+89 12 04 12 89
+01 14
+90 17 11 37 90
+02 13
+91 13 20 06 91
+92 14 08 27 92
+93 15 05 16 93
+94 16 06 25 94
+95 19 10 35 95
+96 20 26 17 96
+97 21 32 36 97
+98 22 30 10 98
+99 23 27 21 99
+100 18 24 39 100
+01 37
+
+1 2 3 4
+1 1/1 00 10 1/1
+2 1/2 00 21 1/2
+3 1/3 06 04 1/3
+4 3 21 01 2
+5 4 35 10 3
+6 7 07 06 4
+7 6 05 25 5
+8 5 15 06 6
+9 243 01 38 7
+10 242 29 16 8
+11 241 09 03 9
+12 240 10 25 10
+13 238 82 08 11
+14 239 18 24 12
+15 235 17 22 13
+16 236 11 35 14
+17 237 17 10 15
+18 199 38 15 16
+19 99 12 03 17
+20 100 24 33 18
+21 198 33 26 19
+22 195 37 27 20
+23 200 34 30 21
+24 232 27 36 22
+25 231 20 39 23
+26 209 26 01 24
+27 204 29 03 25
+28 203 34 38 26
+29 202 09 32 27
+30 201 36 04 28
+31 194 32 38 29
+32 192 15 14 30
+
+33 190/1 03 00 31/1
+34 190/2 03 08 31/2
+35 191 13 20 32
+36 196 12 27 33
+37 197 21 32 34
+38 102 15 03 35
+39 101 33 19 36
+40 104 06 16 37
+41 103 17 19 38
+42 111 22 02 39
+43 105 24 13 40
+44 106 05 13 41
+45 107 12 35 42
+46 108 28 25 43
+47 119 21 20 44
+48 109 11 28 45
+49 116 33 15 46
+50 117 01 21 47
+51 118 17 10 48
+52 122 08 00 49
+53 120 14 16 50
+54 121 26 39 51
+55 124 27 16 52
+56 125 24 39 53
+57 126 15 09 54
+58 136 28 30 55
+59 123 25 38 56
+60 139 04 27 57
+61 140 07 34 58
+62 115 23 15 59
+63 110 36 08 60
+64 112 31 27 61
+65 113 08 29 62
+66 114 21 09 63
+67 141 15 29 64
+68 142 27 27 65
+69 138 20 09 66
+70 137 32 30 67
+71 135 02 27 68
+
+72 134 26 12 69
+73 127 30 31 70
+74 128 32 18 71
+75 129 06 30 72
+76 131 11 10 73
+77 130 08 18 74
+78 132 22 10 75
+79 133 26 03 76
+80 145 16 03 77
+81 144 21 29 78
+82 146 16 10 79
+83 147 23 09 80
+84 143 23 25 81
+85 148 62 29 81
+86 155 14 22 83
+87 156 03 32 84
+88 154 15 03 85
+89 149 17 02 86
+90 150 14 34 87
+91 151 22 31 88
+92 152 28 11 89
+93 153 29 13 90
+94 159 24 16 91
+95 158 14 38 92
+96 157 27 32 93
+97 171 11 06 94
+98 172 07 01 95
+99 170 09 29 96
+100 161 08 15 97
+101 160 14 15 98
+102 162 33 20 99
+103 163 13 04 100
+104 164 24 07 101
+105 168 35 26 102
+106 169 19 38 103
+107 176 22 17 104
+108 175 08 06 105
+109 173 11 18 106
+110 174 22 17 107
+
+111 188 12 21 108
+112 189 15 14 109
+113 193 30 21 110
+114 187 07 21 111
+115 186 20 16 112
+116 177 11 31 113
+117 178 26 30 114
+118 167 08 23 115
+119 166/1 03 00 116/1
+120 166/2 04 00 116/2
+121 165 35 32 117
+122 179 28 12 118
+123 180 09 37 119
+124 181 07 31 120
+125 182 17 30 121
+126 183 16 13 122
+127 184 15 10 123
+128 185 31 09 124
+129 205 21 00 125
+130 206 26 24 126
+131 208 28 18 127
+132 207 31 34 128
+133 212 29 29 129
+134 213 21 17 130
+135 216 29 03 131
+136 214 18 28 132
+137 211 25 32 133
+138 210 16 21 134
+139 230 14 22 135
+140 223 12 04 136
+141 222 14 13 137
+142 221 04 20 138
+143 220 32 33 139
+144 215 07 22 140
+145 218 25 08 141
+146 217 33 14 142
+147 262 23 15 143
+148 261 20 02 144
+149 258 32 01 145
+
+150 219 27 38 146
+151 225 14 24 147
+152 226 14 04 148
+153 224 05 01 149
+154 227 14 22 150
+155 228 30 38 151
+156 229 12 08 152
+157 233 17 31 153
+158 234 31 04 154
+159 251 29 02 155
+160 254 24 10 156
+161 255 19 17 157
+162 257 19 22 158
+163 256 32 37 159
+164 259 28 38 160
+165 260 13 31 161
+166 263 23 28 162
+167 264 11 04 163
+168 265 23 27 164
+169 266 11 13 165
+170 267 24 32 166
+171 268 35 27 167
+172 269 26 23 168
+173 253 36 10 169
+174 252 21 05 170
+175 250 14 15 171
+176 249 23 17 712
+177 248 05 13 173
+178 247 07 07 174
+179 246 14 17 175
+180 296 29 33 176
+181 294 31 02 177
+182 295 04 27 178
+183 297 14 01 179
+184 303 09 37 180
+185 302 09 21 181
+186 298 16 05 182
+187 293 06 19 183
+188 292 22 11 184
+
+189 291 06 21 185
+190 290 21 10 186
+191 289 19 00 187
+192 287 05 28 188
+193 286 06 27 189
+194 288/1 05 36 190/1
+195 288/2 05 36 190/2
+196 288/3 05 36 190/3
+197 288/4 05 25 190/4
+198 270 28 27 191
+199 271 17 18 192
+200 272 28 01 193
+201 273 24 14 194
+202 274 32 39 195
+203 275 13 16 196
+204 276 09 14 197
+205 277 04 14 198
+206 278 12 07 199
+207 282 08 05 200
+208 279 08 39 201
+209 280 20 28 202
+210 281 13 09 203
+211 283 28 29 204
+212 285 13 08 205
+213 284 07 00 206
+214 299 12 35 207
+215 300 24 31 208
+216 301 10 06 209
+217 304 30 15 210
+218 245 25 12 211
+219 244 16 30 212
+220 305 08 29 213
+221 306 01 31 214
+222 307 00 15 215
+
+PR-166
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/12/2023-RC Karnataka Government Secretariat
+E- 1245422 Multi Storied Building
+Bengaluru, Date: 17-01-2024
+
+PRELIMINARY NOTIFICATION
+In exercise of the powers conferred by Section 5 of the Karnataka Land
+Revenue Act 1964 ( Karnataka act no 12 of 1964) and taking into consideration
+the factors Specified in clauses ( i ) to ( iv ) of rule 3 of the Karnataka Land
+Revenue Rules 1966 such as the population, area of the village the demand
+under land revenue in the village and other head of the account and having
+regard to the administrative convenience the Government of Karnataka propose
+s to issue a Notification to alter the limits of Chintaki Village of Aurad (B) taluk
+Bidar District and to constitute a new revenue villages called Ashoknagar as
+specified in schedule along with maps with old survey numbers and new assigned
+to them.
+
+Now, therefore in exercise of the power conferred by section 6 of the said Act,
+notice is hereby given for the information of all the persons likely to be affected
+
+thereby that the proposal will be taken into consideration on or after thirty days
+from the date of publication of the notification in the official Gazette.
+
+Any objection or suggestion which may be received by the state
+Government from any person with respect to the said proposal before the date
+Specified above will be considered by the state Government. Objection or
+suggestion may be addressed to the Deputy Commissioner, Bidar District,
+Bidar
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village of village Chintaki of Auarad (B) taluk in Bidar District to form a new
+revenue village called as called Ashoknagar of Aurad(B) taluk Bidar District along
+with the survey numbers included in column (4) thereof.
+
+TABLE-1
+Sl. Old Survey Numbers Extent of area Survey numbers Specified in
+No Which are excluded from transferred to new column (2) which are to be
+Chintaki village to village Ashoknagar included to form new village
+constituting new village Acre Gunt Ana Ashoknagar & new survey
+Ashoknagar a numbers assigned to them
+(1) (2) (3) (4)
+1 290 10 06
+2 291 29 14 2
+3 292 7 5 3
+4 287 32 17 4
+5 299 17 20 5
+6 286 1 7 6
+7 285 2 4 7
+284 17 32 8 8
+9 220 1 22 9
+283 11 30 10 10
+11 221 12 21 11
+12 230 3 6 12
+13 229 12 2 13
+14 111 146 6 14
+15 109 1 16 15
+16 110 1 21 16
+17 233 1 31 17
+18 234 2 21 18
+235 3 18 19 19
+
+236 4 23 20 20
+21 237 6 14 21
+22 232 21 11 22
+23 231 25 23 23
+24 281 9 21 24
+25 282 2 22 25
+26 280 3 4 26
+27 279 5 10 27
+28 278 12 10 28
+288 32 15 29 29
+30 274 19 0 30
+31 277 7 8 31
+32 276 8 10 32
+33 275 1 13 33
+34 272 4 39 34
+35 271 5 32 35
+36 270 17 33 36
+37 245 23 24 37
+38 238 4 39 38
+39 239 3 7 39
+240 3 15 40 40
+41 241 2 32 41
+42 242 1 39 42
+43 243 3 33 43
+44 244 6 13 44
+45 246 11 20 45
+46 247 8 12 46
+47 248 9 23 47
+48 249 9 32 48
+250 17 14 49 49
+50 254 11 1 50
+268 0 39 51 51
+52 255 12 20 52
+53 256 17 21 53
+54 253 12 39 54
+55 251 15 8 55
+56 252 15 17 56
+57 257 23 34 57
+58 263 13 6 58
+
+258 16 8 59 59
+60 260 20 17 60
+61 259 8 22 61
+62 369 23 25 62
+63 367 4 17 63
+64 368 4 5 64
+65 366 29 3 65
+66 262 3 36 66
+67 261 11 25 67
+264 24 9 68 68
+69 265 17 1 69
+
+71 267 3 21 71
+269 9 14 72 72
+73 273 7 36 73
+
+75 362 21 27 75
+
+TOTAL 973 31
+
+ORIGINAL NEW TOTIL SY.No. TOTIL EXTENT
+VILLAGE NAME FORMETION
+VILLAGE NAME
+CHITAKI ASHOK NAGER 76 973-31
+GRAM THAN - 8-00
+SUB VILAJE 01-21
+TOTILE 983-12
+
+Note:The extent of Gramatana within the said village is to be the extent specified
+below namely.
+
+Survey numbers Extent
+266/* 03A-06G
+289/* 01A-29G
+290/* 00A-17G
+363/* 02A-28G
+TOTAL 08A-00G
+
+There shall be constituted a new village called Ashoknagar in Aurad (B) taluk,
+Bidar District and boundaries of the village shall be as specified below:
+
+Boundaries of the new village Ashoknagar
+East: Andhrapradesh West: Gudpalli Village
+North: Chintaki South: Medpalli, Ujani
+Village Village
+
+SCHEDULE-2
+The Survey numbers of the village and areas remaining in the Chintaki
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+
+TABLE-2
+Sl.No Survey numbers in village AREA New survey numbers
+after excluding the survey assigned to the remaining
+numbers which are to be Acre Gunta Ana village Chintaki survey
+included to form village numbers specified in
+Chintaki column (2)
+(1) (2) (3) (4)
+1 1 9 19 1
+2 2 1 9 2
+3 3 2 1 3
+4 4 1 21 4
+5 5 3 34 5
+6 6 3 7 6
+7 7 2 33 7
+8 8 2 7 8
+9 1 19 9 9
+10 10 1 12 10
+11 5 22 11 11
+12 12 1 26 12
+13 13 4 1 13
+14 14 1 15 14
+
+15 15 2 15 15
+16 16 1 14 16
+17 23 30 17 17
+18 18 1 27 18
+19 19 16 0 19
+20 20 15 38 20
+21 21 1 26 21
+22 22 1 12 22
+23 23 16 8 23
+24 24 8 8 24
+25 25 6 20 25
+26 5 2 26 26
+27 27 2 9 27
+28 0 32 28 28
+29 29 1 23 29
+30 30 2 1 30
+31 31 17 28 31
+32 32 2 21 32
+33 33 6 33 33
+34 34 6 25 34
+35 35 7 16 35
+36 36 2 14 36
+37 6 7 37 37
+38 38 7 19 38
+39 0 33 39 39
+40 40 11 22 40
+41 41 11 6 41
+42 42 1 6 42
+43 43 3 17 43
+44 44 1 33 44
+45 45 1 19 45
+46 46 2 0 46
+47 47 0 27 47
+48 0 27 48 48
+49 49 0 8 49
+50 0 14 50 50
+51 51 0 26 51
+52 52 5 10 52
+53 53 0 22 53
+
+54 54 2 17 54
+55 55 0 9 55
+56 0 18 56 56
+57 57 6 21 57
+58 58 1 16 58
+59 59 0 37 59
+60 60 0 14 60
+61 61 0 22 61
+62 62 16 11 62
+63 63 15 3 63
+64 64 4 0 64
+65 12 1 65 65
+66 66 5 0 66
+67 9 39 67 67
+68 68 1 28 68
+69 69 2 19 69
+70 70 4 08 70
+71 71 19 9 71
+72 72 2 30 72
+73 73 2 27 73
+74 74 16 18 74
+75 75 18 38 75
+76 11 38 76 76
+77 77 6 24 77
+78 8 2 78 78
+79 79 6 10 79
+80 80 25 5 80
+81 81 2 15 81
+82 82 3 25 82
+83 83 4 33 83
+84 84 2 23 84
+85 85 18 28 85
+86 86 1 23 86
+87 1 39 87 87
+88 88 4 24 88
+89 1 1 89 89
+90 90 0 16 90
+91 91 0 22 91
+92 92 6 37 92
+
+93 93 3 26 93
+94 94 2 10 94
+95 6 11 95 95
+96 96 8 32 96
+97 97 8 26 97
+98 98 5 34 98
+99 99 7 17 99
+100 100 21 31 100
+101 101 15 24 101
+102 102 5 0 102
+103 103 13 3 103
+104 12 2 104 104
+105 105 20 24 105
+106 2 37 106 106
+107 107 2 7 107
+108 108 9 8 108
+109 118 13 20 109
+110 112 0 36 110
+111 113 0 38 111
+112 114 0 21 112
+113 115 0 20 113
+114 116 1 9 114
+117 13 8 115 115
+116 119 5 10 116
+120 2 5 117 117
+118 121 0 17 118
+119 122 0 18 119
+120 123 0 16 120
+121 124 0 34 121
+122 125 1 32 122
+123 126 0 23 123
+124 127 0 16 124
+125 128 0 16 125
+129 0 17 126 126
+127 130 0 9 127
+131 1 4 128 128
+132 0 8
+129 129
+133 1 0 130 130
+131 134 1 21 131
+
+132 135 1 1 132
+133 136 1 8 133
+137 0 23 134 134
+135 138 6 29 135
+136 139 0 25 136
+137 140 0 19 137
+138 141 0 37 138
+139 142 1 2 139
+140 144 1 25 140
+141 148 3 5 141
+142 145 1 27 142
+147 1 16 143 143
+144 154 0 30 144
+143 1 14 145 145
+146 149 3 31 146
+147 150 3 3 147
+148 151 0 8 148
+149 152 0 8 149
+150 153 2 31 150
+151 146 1 19 151
+155 0 34 152 152
+153 156 2 3 153
+157 3 31 154 154
+155 158 1 16 155
+156 159 4 1 156
+157 160 1 0 157
+158 161 1 19 158
+159 162 1 25 159
+160 163 0 38 160
+164 2 37 161 161
+162 165 2 34 162
+167 1 25 163 163
+164 166 1 3 164
+165 168 6 6 165
+166 169 3 10 166
+167 170 4 11 167
+168 171 4 35 168
+169 172 2 1 169
+170 173 1 2 170
+
+171 174 3 07 171
+172 175 0 16 172
+176 0 20 173 173
+174 177 5 9 174
+175 178 0 27 175
+176 179 4 26 176
+177 180 9 28 177
+178 181 0 30 178
+179 182 0 35 179
+180 183 1 30 180
+181 184 1 6 181
+185 0 28 182 182
+183 187 0 32 183
+186 0 22 184 184
+185 188 1 29 185
+186 189 1 24 186
+187 190 0 35 187
+188 191 0 7 188
+189 193 2 39 189
+190 192 3 3 190
+191 194 3 20 191
+192 195 0 34 192
+196 3 0 193 193
+194 197 0 16 194
+198 2 12 195 195
+196 199 0 6 196
+197 200 2 9 197
+198 202 5 35 198
+199 201 7 28 199
+200 203 32 21 200
+201 204 2 22 201
+202 205 2 24 202
+203 206 21 10 203
+207 1 22 204 204
+205 208 14 30 205
+209 2 27 206 206
+207 210 2 10 207
+208 211 1 24 208
+209 212 9 32 209
+
+210 213 8 12 210
+211 214 15 36 211
+225 17 36 212 212
+213 226 14 33 213
+214 227 3 17 214
+215 228 2 10 215
+216 224 23 4 216
+217 223 9 35 217
+218 222 5 9 218
+219 219 3 1 219
+220 218 12 6 220
+215 12 9 221 221
+222 216 16 14 222
+217 15 36 223 223
+224 300 5 18 224
+225 301 3 1 225
+226 302 3 17 226
+227 303 3 31 227
+228 304 9 16 228
+229 305 6 20 229
+230 306 2 21 230
+231 307 5 18 231
+308 1 4 232 232
+233 309 6 15 233
+311 5 36 234 234
+235 310 2 39 235
+236 312 9 21 236
+237 313 31 0 237
+238 296 26 8 238
+239 297 0 14 239
+240 298 23 9 240
+241 293 11 16 241
+242 294 7 20 242
+295 26 19 243 243
+244 314 20 31 244
+315 1 29 245 245
+246 316 5 36 246
+247 317 7 29 247
+248 318 15 39 248
+
+249 319 9 3 249
+250 320 23 27 250
+321 4 10 251 251
+252 322 1 0 252
+253 323 0 38 253
+254 324 1 19 254
+255 325 1 29 255
+256 326 4 16 256
+257 327 2 19 257
+328 2 27 258 258
+259 329 2 23 259
+260 330 3 15 260
+261 331 4 29 261
+262 332 12 18 262
+333 6 9 263 263
+264 334 5 17 264
+335 0 3 265 265
+266 336 0 7 266
+267 337 0 7 267
+268 338 0 5 268
+269 339 0 38 269
+270 340 10 13 270
+271 341 6 23 271
+342 1 14 272 272
+273 343 7 17 273
+344 2 35 274 274
+275 345 2 30 275
+276 346 3 5 276
+277 347 1 39 277
+278 348 10 35 278
+279 349 2 28 279
+280 350 2 31 280
+281 351 0 31 281
+282 352 5 5 282
+353 3 24 283 283
+284 354 3 29 284
+355 12 13 285 285
+286 356 22 06 286
+287 358 10 16 287
+
+288 357 10 6 288
+289 361 11 8 289
+364 32 34 290 290
+291 365 24 4 291
+292 360 16 15 292
+293 359 14 34 293
+294 393 17 0 294
+295 391 17 38 295
+296 390 17 21 296
+297 374 11 20 297
+298 373 5 10 298
+372 14 19 299 299
+300 371 6 21 300
+370 18 20 301 301
+302 376 18 15 302
+303 375 14 36 303
+304 377 10 37 304
+305 378 7 1 305
+306 379 5 30 306
+307 380 4 4 307
+308 381 24 23 308
+309 382 3 34 309
+383 21 39 310 310
+311 384 7 13 311
+385 8 5 312 312
+313 386 4 30 313
+314 387 4 23 314
+315 388 0 29 315
+316 389 0 5 316
+317 392 16 24 317
+318 394 2 8 318
+319 395 24 38 319
+320 396 2 7 320
+397 2 3 321 321
+322 398 4 8 322
+399 3 10 323 323
+324 400 3 37 324
+325 401 8 30 325
+326 402 6 31 326
+
+327 403 1 17 327
+328 405 1 20 328
+404 1 31 329 329
+330 406 1 8 330
+331 407 1 21 331
+332 408 5 20 332
+333 409 6 34 333
+334 410 3 22 334
+335 411 12 0 335
+336 412 0 5 336
+337 413 6 38 337
+414 0 7 338 338
+339 415 4 0 339
+416 4 23 340 340
+341 417 0 15 341
+342 418 0 8 342
+343 419 0 12 343
+344 420 0 11 344
+345 421 3 9 345
+346 422 2 23 346
+347 423 1 26 347
+348 424 12 23 348
+425 19 29 349 349
+350 426 4 6 350
+427 3 23 351 351
+352 428 7 37 352
+353 429 9 26 353
+354 430 2 33 354
+355 431 4 28 355
+356 432 14 8 356
+357 433 12 37 357
+358 434 1 18 358
+359 435 15 1 359
+436 8 23 360 360
+361 437 31 8 361
+438 15 2 362 362
+363 439 33 27 363
+364 440 17 36 364
+365 441 17 7 365
+
+366 442 25 13 366
+367 443 21 13 367
+444 5 3 368 368
+369 445 24 12 369
+370 446 1 36 370
+371 447 0 32 371
+372 448 0 17 372
+373 449 15 16 373
+374 450 12 34 374
+375 451 14 15 375
+376 452 13 2 376
+453 15 22 377 377
+378 454 16 11 378
+455 0 22 379 379
+380 456 0 15 380
+381 457 0 7 381
+382 458 0 16 382
+383 459 15 7 383
+384 460 11 11 384
+385 461 5 19 385
+386 462 5 33 386
+387 463 7 37 387
+464 6 31 388 388
+389 465 2 38 389
+466 20 29 390 390
+391 467 2 33 391
+392 468 5 32 392
+393 469 11 39 393
+394 470 13 13 394
+395 471 18 33 395
+396 472 16 18 396
+397 473 14 26 397
+398 474 5 22 398
+475 4 14 399 399
+400 476 9 25 400
+477 15 38 401 401
+402 478 16 18 402
+403 479 10 21 403
+404 480 6 39 404
+
+405 481 0 19 405
+406 482 20 16 406
+483 17 14 407 407
+408 484 14 0 408
+409 485 12 21 409
+410 486 10 6 410
+411 487 1 11 411
+412 488 8 21 412
+Total 2738 31
+
+ORIGINAL VILLAGE TOTIL SY.No. TOTIL EXTENT
+NAME
+CHItaki 412 2738-31
+GRAM THAN - 18-20
+THANDA - 1-24
+NALA - 29-06
+HADDI HADI - 05-21
+SADAK - 29-39
+TOTIL - 2823-21
+
+Boundaries of the village Chintaki Village
+East: Naganpalli Village West: Beldar, Khashempur
+Village
+North:Lingdalli,Raipalli South: Ashoknagar
+Village
+
+The proposal specified above shall come effect from such date as the State
+Government may specify by Notification proposed to be issued under section 5 of
+the Karnataka Land Revenue Act, 1964 ( Karnataka Act No. 12 of 1964 )
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+(1) (2) (3) (4)
+290 10 06 1
+
+2 291 29 14 2
+3 292 7 5 3
+287 32 17 4 4
+5 299 17 20 5
+6 286 1 7 6
+7 285 2 4 7
+8 284 17 32 8
+9 220 1 22 9
+10 283 11 30 10
+221 12 21 11 11
+12 230 3 6 12
+13 229 12 2 13
+14 111 146 6 14
+15 109 1 16 15
+16 110 1 21 16
+17 233 1 31 17
+234 2 21 18 18
+19 235 3 18 19
+20 236 4 23 20
+21 237 6 14 21
+22 232 21 11 22
+23 231 25 23 23
+281 9 21 24 24
+282 2 22 25 25
+26 280 3 4 26
+27 279 5 10 27
+28 278 12 10 28
+29 288 32 15 29
+30 274 19 0 30
+277 7 8 31 31
+32 276 8 10 32
+33 275 1 13 33
+34 272 4 39 34
+35 271 5 32 35
+36 270 17 33 36
+37 245 23 24 37
+238 4 39 38 38
+
+39 239 3 7 39
+40 240 3 15 40
+241 2 32 41 41
+42 242 1 39 42
+43 243 3 33 43
+44 244 6 13 44
+45 246 11 20 45
+46 247 8 12 46
+47 248 9 23 47
+249 9 32 48 48
+49 250 17 14 49
+50 254 11 1 50
+51 268 0 39 51
+52 255 12 20 52
+53 256 17 21 53
+54 253 12 39 54
+251 15 8 55 55
+56 252 15 17 56
+57 257 23 34 57
+58 263 13 6 58
+59 258 16 8 59
+60 260 20 17 60
+61 259 8 22 61
+62 369 23 25 62
+63 367 4 17 63
+368 4 5 64 64
+65 366 29 3 65
+66 262 3 36 66
+67 261 11 25 67
+68 264 24 9 68
+69 265 17 1 69
+
+71 267 3 21 71
+72 269 9 14 72
+73 273 7 36 73
+
+75 362 21 27 75
+
+(1) (2) (3) (4)
+1 1 9 19 1
+2 2 1 9 2
+3 2 1 3 3
+4 4 1 21 4
+5 5 3 34 5
+6 6 3 7 6
+7 7 2 33 7
+8 8 2 7 8
+9 9 1 19 9
+10 1 12 10 10
+11 11 5 22 11
+12 12 1 26 12
+13 13 4 1 13
+14 14 1 15 14
+15 15 2 15 15
+16 16 1 14 16
+17 23 30 17 17
+18 18 1 27 18
+19 19 16 0 19
+20 20 15 38 20
+21 21 1 26 21
+22 22 1 12 22
+23 23 16 8 23
+24 8 8 24 24
+25 25 6 20 25
+26 26 5 2 26
+27 27 2 9 27
+28 28 0 32 28
+29 29 1 23 29
+30 2 1 30 30
+31 17 28 31 31
+
+32 32 2 21 - 32
+33 33 6 33 33
+34 6 25 34 34
+35 35 7 16 35
+36 36 2 14 36
+37 37 6 7 37
+38 38 7 19 38
+39 39 0 33 39
+40 40 11 22 40
+41 11 6 41 41
+42 42 1 6 42
+43 43 3 17 43
+44 44 1 33 44
+45 45 1 19 45
+46 46 2 0 46
+47 47 0 27 47
+48 0 27 48 48
+49 49 0 8 49
+50 50 0 14 50
+51 51 0 26 51
+52 52 5 10 52
+53 53 0 22 53
+54 2 17 54 54
+55 0 9 55 55
+56 56 0 18 56
+57 57 6 21 57
+58 58 1 16 58
+59 59 0 37 59
+60 60 0 14 60
+61 0 22 61 61
+62 62 16 11 62
+63 63 15 3 63
+64 64 4 0 64
+65 65 12 1 65
+66 66 5 0 66
+67 67 9 39 67
+68 1 28 68 68
+
+69 69 2 19 69
+70 4 08 70 70
+71 71 19 9 71
+72 72 2 30 72
+73 73 2 27 73
+74 74 16 18 74
+75 75 18 38 75
+76 76 11 38 76
+77 6 24 77 77
+78 78 8 2 78
+79 79 6 10 79
+80 80 25 5 80
+81 81 2 15 81
+82 82 3 25 82
+83 83 4 33 83
+84 2 23 84 84
+85 85 18 28 85
+86 86 1 23 86
+87 87 1 39 87
+88 88 4 24 88
+89 89 1 1 89
+90 0 16 90 90
+91 91 0 22 91
+92 92 6 37 92
+93 93 3 26 93
+94 94 2 10 94
+95 95 6 11 95
+96 96 8 32 96
+97 8 26 97 97
+98 98 5 34 98
+99 99 7 17 99
+100 100 21 31 100
+101 101 15 24 101
+102 102 5 0 102
+103 103 13 3 103
+104 12 2 104 104
+105 105 20 24 105
+
+106 106 2 37 106
+107 2 7 107 107
+108 108 9 8 108
+109 118 13 20 109
+110 112 0 36 110
+111 113 0 38 111
+112 114 0 21 112
+113 115 0 20 113
+116 1 9 114 114
+115 117 13 8 115
+116 119 5 10 116
+117 120 2 5 117
+118 121 0 17 118
+119 122 0 18 119
+120 123 0 16 120
+124 0 34 121 121
+122 125 1 32 122
+123 126 0 23 123
+124 127 0 16 124
+125 128 0 16 125
+126 129 0 17 126
+130 0 9 127 127
+128 131 1 4 128
+129 132 0 8 129
+130 133 1 0 130
+131 134 1 21 131
+132 135 1 1 132
+133 136 1 8 133
+137 0 23 134 134
+135 138 6 29 135
+136 139 0 25 136
+137 140 0 19 137
+138 141 0 37 138
+139 142 1 2 139
+140 144 1 25 140
+148 3 5 141 141
+142 145 1 27 142
+
+143 147 1 16 143
+154 0 30 144 144
+145 143 1 14 145
+146 149 3 31 146
+147 150 3 3 147
+148 151 0 8 148
+149 152 0 8 149
+150 153 2 31 150
+146 1 19 151 151
+152 155 0 34 152
+153 156 2 3 153
+154 157 3 31 154
+155 158 1 16 155
+156 159 4 1 156
+157 160 1 0 157
+161 1 19 158 158
+159 162 1 25 159
+160 163 0 38 160
+161 164 2 37 161
+162 165 2 34 162
+163 167 1 25 163
+166 1 3 164 164
+165 168 6 6 165
+166 169 3 10 166
+167 170 4 11 167
+168 171 4 35 168
+169 172 2 1 169
+170 173 1 2 170
+174 3 07 171 171
+172 175 0 16 172
+173 176 0 20 173
+174 177 5 9 174
+175 178 0 27 175
+176 179 4 26 176
+177 180 9 28 177
+181 0 30 178 178
+179 182 0 35 179
+
+180 183 1 30 180
+184 1 6 181 181
+182 185 0 28 182
+183 187 0 32 183
+184 186 0 22 184
+185 188 1 29 185
+186 189 1 24 186
+187 190 0 35 187
+191 0 7 188 188
+189 193 2 39 189
+190 192 3 3 190
+191 194 3 20 191
+192 195 0 34 192
+193 196 3 0 193
+194 197 0 16 194
+198 2 12 195 195
+196 199 0 6 196
+197 200 2 9 197
+198 202 5 35 198
+199 201 7 28 199
+200 203 32 21 200
+204 2 22 201 201
+202 205 2 24 202
+203 206 21 10 203
+204 207 1 22 204
+205 208 14 30 205
+206 209 2 27 206
+207 210 2 10 207
+211 1 24 208 208
+209 212 9 32 209
+210 213 8 12 210
+211 214 15 36 211
+212 225 17 36 212
+213 226 14 33 213
+214 227 3 17 214
+228 2 10 215 215
+216 224 23 4 216
+
+217 223 9 35 217
+222 5 9 218 218
+219 219 3 1 219
+220 218 12 6 220
+221 215 12 9 221
+222 216 16 14 222
+223 217 15 36 223
+224 300 5 18 224
+301 3 1 225 225
+226 302 3 17 226
+227 303 3 31 227
+228 304 9 16 228
+229 305 6 20 229
+230 306 2 21 230
+231 307 5 18 231
+308 1 4 232 232
+233 309 6 15 233
+234 311 5 36 234
+235 310 2 39 235
+236 312 9 21 236
+237 313 31 0 237
+296 26 8 238 238
+239 297 0 14 239
+240 298 23 9 240
+241 293 11 16 241
+242 294 7 20 242
+243 295 26 19 243
+244 314 20 31 244
+315 1 29 245 245
+246 316 5 36 246
+247 317 7 29 247
+248 318 15 39 248
+249 319 9 3 249
+250 320 23 27 250
+251 321 4 10 251
+322 1 0 252 252
+253 323 0 38 253
+
+254 324 1 19 254
+325 1 29 255 255
+256 326 4 16 256
+257 327 2 19 257
+258 328 2 27 258
+259 329 2 23 259
+260 330 3 15 260
+261 331 4 29 261
+332 12 18 262 262
+333 6 9 263 263
+264 334 5 17 264
+265 335 0 3 265
+266 336 0 7 266
+267 337 0 7 267
+268 338 0 5 268
+339 0 38 269 269
+270 340 10 13 270
+271 341 6 23 271
+272 342 1 14 272
+273 343 7 17 273
+274 344 2 35 274
+275 345 2 30 275
+346 3 5 276 276
+277 347 1 39 277
+278 348 10 35 278
+279 349 2 28 279
+280 350 2 31 280
+281 351 0 31 281
+282 352 5 5 282
+353 3 24 283 283
+284 354 3 29 284
+285 355 12 13 285
+286 356 22 06 286
+287 358 10 16 287
+288 357 10 6 288
+289 361 11 8 289
+364 32 34 290 290
+
+291 365 24 4 291
+360 16 15 292 292
+293 359 14 34 293
+294 393 17 0 294
+295 391 17 38 295
+296 390 17 21 296
+297 374 11 20 297
+298 373 5 10 298
+372 14 19 299 299
+300 371 6 21 300
+301 370 18 20 301
+302 376 18 15 302
+303 375 14 36 303
+304 377 10 37 304
+305 378 7 1 305
+379 5 30 306 306
+307 380 4 4 307
+308 381 24 23 308
+309 382 3 34 309
+310 383 21 39 310
+311 384 7 13 311
+385 8 5 312 312
+313 386 4 30 313
+314 387 4 23 314
+315 388 0 29 315
+316 389 0 5 316
+317 392 16 24 317
+318 394 2 8 318
+395 24 38 319 319
+320 396 2 7 320
+321 397 2 3 321
+322 398 4 8 322
+323 399 3 10 323
+324 400 3 37 324
+325 401 8 30 325
+402 6 31 326 326
+327 403 1 17 327
+
+328 405 1 20 328
+404 1 31 329 329
+330 406 1 8 330
+331 407 1 21 331
+332 408 5 20 332
+333 409 6 34 333
+334 410 3 22 334
+335 411 12 0 335
+412 0 5 336 336
+337 413 6 38 337
+338 414 0 7 338
+339 415 4 0 339
+340 416 4 23 340
+341 417 0 15 341
+342 418 0 8 342
+419 0 12 343 343
+344 420 0 11 344
+345 421 3 9 345
+346 422 2 23 346
+347 423 1 26 347
+348 424 12 23 348
+425 19 29 349 349
+350 426 4 6 350
+351 427 3 23 351
+352 428 7 37 352
+353 429 9 26 353
+354 430 2 33 354
+355 431 4 28 355
+432 14 8 356 356
+357 433 12 37 357
+358 434 1 18 358
+359 435 15 1 359
+360 436 8 23 360
+361 437 31 8 361
+362 438 15 2 362
+439 33 27 363 363
+364 440 17 36 364
+
+365 441 17 7 365
+442 25 13 366 366
+367 443 21 13 367
+368 444 5 3 368
+369 445 24 12 369
+370 446 1 36 370
+371 447 0 32 371
+372 448 0 17 372
+449 15 16 373 373
+374 450 12 34 374
+375 451 14 15 375
+376 452 13 2 376
+377 453 15 22 377
+378 454 16 11 378
+379 455 0 22 379
+456 0 15 380 380
+381 457 0 7 381
+382 458 0 16 382
+383 459 15 7 383
+384 460 11 11 384
+385 461 5 19 385
+462 5 33 386 386
+387 463 7 37 387
+388 464 6 31 388
+389 465 2 38 389
+390 466 20 29 390
+391 467 2 33 391
+392 468 5 32 392
+469 11 39 393 393
+394 470 13 13 394
+395 471 18 33 395
+396 472 16 18 396
+397 473 14 26 397
+398 474 5 22 398
+399 475 4 14 399
+476 9 25 400 400
+401 477 15 38 401
+
+402 478 16 18 402
+479 10 21 403 403
+404 480 6 39 404
+405 481 0 19 405
+406 482 20 16 406
+407 483 17 14 407
+408 484 14 0 408
+409 485 12 21 409
+486 10 6 410 410
+411 487 1 11 411
+412 488 8 21 412
+
+PR-167
+
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/4/2023-RC Karnataka Government Secretariat
+E- 1244707 Multi Storied Building
+Bengaluru, Date: 17-01-2024
+
+PRELIMINARY NOTIFICATION
+
+In exercise of the powers conferred by Section 5 of the Karnataka Land
+Revenue Act 1964 ( Karnataka act no 12 of 1964) and taking into consideration
+the factors Specified in clauses ( i ) to ( iv ) of rule 3 of the Karnataka Land
+Revenue Rules 1966 such as the population, area of the village the demand
+under land revenue in the village and other head of the account and having
+regard to the administrative convenience the Government of Karnataka propose
+s to issue a Notification to alter the limits of Medpalli Village of Aurad(B) taluk
+Bidar District and to constitute a new revenue villages called Gandhinagar as
+specified in schedule along with maps with old survey numbers and new assigned
+to them.
+Now, therefore in exercise of the power conferred by section 6 of the said Act,
+notice is hereby given for the information of all the persons likely to be affected
+thereby that the proposal will be taken into consideration on or after thirty days
+from the date of publication of the notification in the official Gazette.
+
+Any objection or suggestion which may be received by the state
+Government from any person with respect to the said proposal before the date
+Specified above will be considered by the state Government. Objection or
+suggestion may be addressed to the Deputy Commissioner, Bidar District,
+Bidar
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village of Medpalli of Auarad (B) taluk in Bidar District to form a new revenue
+village called as Gandhinagar of Aurad(B) taluk Bidar District along with the
+survey numbers included in column (4) thereof.
+TABLE-1
+Sl. Old Survey Numbers Extent of area Survey numbers Specified in
+No. Which are excluded from transferred to new column (2) which are to be
+Medpalli village to village Ghama Tanda included to form new village
+constituting new village Gandhinagar & new survey
+Acre Gunta Anna
+Gandhinagar numbers assigned to them
+(1) (2) (3) (4)
+1 55 30 4 1
+2 52 2 38 2
+3 51 33 26 3
+4 50 21 12 4
+
+5 48 26 2 5
+6 49 17 20 6
+7 43 9 16 7
+8 44 30 1 8
+9 45 17 3 9
+10 46 29 25
+11 47 19 34
+13 57 28 07
+14 58 23 12 14
+15 59 18 12 15
+16 60 36 7 16
+17 63 36 36 17
+18 64 26 12 18
+19 65 29 22 19
+20 13 15 30 20
+21 10 25 32 21
+22 9 25 25 22
+23 71 35 37 23
+24 66 30 36 24
+25 67 16 30 25
+26 70 6 14 26
+27 53 36 15 27
+28 69 20 33 28
+29 68 36 15 29
+30 62 35 4 30
+31 54 34 15 31
+32 61 30 2 32
+Total 788 30 -
+
+ORIGINAL NEW TOTAL SY.NO TOTAL EXTENT
+VILLAGE FORMATION
+
+NAME VILLAGE
+NAME
+MADPALLI GANDHI 32 788-30
+NAGAR
+GRAM THANA - 14-08
+TOTAL - 802-38
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:
+
+Survey Extent
+numbers
+46 2A- 16 G
+47 2A- 00 G
+56/* 8A- 22 G
+57 1A- 10 G
+Total 14A-08G
+
+There shall be constituted a new village called Gandhinagar in Aurad (B) taluk,
+Bidar District and boundaries of the village shall be as specified below:
+
+Boundaries of the new village Gandhinagar
+
+East: Ujani Village West: Gudpalli Village
+North: Medpalli Village South: Borgi(J),Wadgaon(D)
+Village
+
+SCHEDULE-2
+The Survey numbers of the village and areas remaining in the Medpalli
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+
+TABLE-2
+Sl.No Survey numbers in AREA New survey numbers
+village after excluding assigned to the remaining
+the survey numbers survey numbers in village
+which are to be included Medapalli specified in
+to form village Medpalli column (2) Acre Gunta Anna
+(1) (2) (3) (4)
+1 1 21 5 1
+2 2 1 17 2
+31 17 3 3 3
+4 4 31 23 4
+5 5 34 34 5
+
+32 32 6 6 6
+7 7 21 34 7
+8 8 6 18 8
+9 17/1,28-17. 17/2 11-0. 39 17 9/1, 9/2
+10 11 14 11 10
+11 12 22 19 11
+12 14 29 16 12
+13 15 36 3 13
+14 16 28 12 14
+33 5 15 18 15
+16 19 35 32 16
+17 20 25 34 17
+18 21 26 27 18
+19 22 35 36 19
+20 23 27 12 20
+21 24 36 8 21
+22 25 32 37 22
+23 26 27 18 23
+24 27 18 15 24
+25 28 30 15 25
+25 1 26 29 26
+27 30 33 5 27
+28 31 24 33 28
+29 32 22 7 29
+30 33 35 5 30
+31 34 36 5 31
+32 35 36 5 32
+33 36 20 29 33
+34 37 14 3 34
+34 39 35 38 35
+36 39 22 0 36
+21 3 37 40 37
+38 41 25 0 38
+39 42 24 36 39
+72/1 3 8 40/1
+40 72/2 4 22 40/2
+72/3 3 4 40/3
+41 73 26 2 41
+42 74 5 10 412
+
+1 25 43 75 43
+Total
+1100 19
+
+ORIGINAL VILLAGE TOTAL SY.NO TOTAL EXETNT
+NAME
+MADPALLI 43 1100-19
+GRAM THAN - 5-11
+MARGA - 1-09
+TOTAL - 1106-39
+
+Boundaries of the village Medpalli Village
+East: Ujani Tanda West: Gudpalli
+Village
+North: Ashoknagar South: Gandhinagar
+
+The proposal specified above shall come effect from such date as the State
+Government may specify by Notification proposed to be issued under section 5 of
+the Karnataka Land Revenue Act, 1964 ( Karnataka Act No. 12 of 1964 )
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+1 55 30 4 1
+2 52 2 38 2
+3 51 33 26 3
+4 50 21 12 4
+5 48 26 2 5
+49 17 20 6 6
+7 43 9 16 7
+8 44 30 1 8
+9 45 17 3 9
+
+11 47 19 34
+
+13 57 28 07
+14 58 23 12 14
+15 59 18 12 15
+16 60 36 7 16
+63 36 36 17 17
+18 64 26 12 18
+19 65 29 22 19
+20 13 15 30 20
+21 10 25 32 21
+22 9 25 25 22
+71 35 37 23 23
+66 30 36 24 24
+25 67 16 30 25
+26 70 6 14 26
+27 53 36 15 27
+28 69 20 33 28
+29 68 36 15 29
+62 35 4 30 30
+31 54 34 15 31
+32 61 30 2 32
+
+1 2 3 4
+1 1 21 5 1
+2 2 1 17 2
+31 17 3 3 3
+4 4 31 23 4
+5 5 34 34 5
+6 6 32 32 6
+7 7 21 34 7
+8 8 6 18 8
+9 17/1,28-17. 17/2 11-0. 39 17 9/1, 9/2
+14 11 10 11 10
+11 12 22 19 11
+12 14 29 16 12
+36 3 13 15 13
+14 16 28 12 14
+15 18 33 5 15
+16 19 35 32 16
+17 20 25 34 17
+18 21 26 27 18
+
+19 22 35 36 19
+27 12 20 23 20
+21 24 36 8 21
+22 25 32 37 22
+23 26 27 18 23
+24 27 18 15 24
+25 28 30 15 25
+26 29 25 1 26
+33 5 27 30 27
+28 31 24 33 28
+29 32 22 7 29
+30 33 35 5 30
+31 34 36 5 31
+32 35 36 5 32
+33 36 20 29 33
+14 3 34 37 34
+35 38 34 39 35
+36 39 22 0 36
+37 40 21 3 37
+38 41 25 0 38
+39 42 24 36 39
+3 8 72/1 40/1
+40 72/2 4 22 40/2
+72/3 3 4 40/3
+41 73 26 2 41
+42 74 5 10 412
+43 75 1 25 43
+
+PR-168
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/49/2023-RC Karnataka Government Secretariat
+E- 1255619 Multi Storied Building
+Bengaluru, Date: 17-01-2024
+
+PRELIMINARY NOTIFICATION
+In exercise of the powers conferred by Section 5 of the Karnataka Land
+Revenue Act 1964 ( Karnataka act no 12 of 1964) and taking into consideration
+the factors Specified in clauses ( i ) to ( iv ) of rule 3 of the Karnataka Land
+Revenue Rules 1966 such as the population, area of the village the demand
+under land revenue in the village and other head of the account and having
+regard to the administrative convenience the Government of Karnataka propose
+s to issue a Notification to alter the limits of METRI village of KAMPLI Taluk
+BALLARI District and to constitute a new revenue villages called
+CHINNAPURA as specified in schedule along with maps with old survey
+numbers and new assigned to them.
+
+Now, therefore in exercise of the power conferred by section 6 of the said Act,
+notice is hereby given for the information of all the persons likely to be affected
+thereby that the proposal will be taken into consideration on or after thirty days
+from the date of publication of the notification in the official Gazette.
+
+Any objection or suggestion which may be received by the state
+Government from any person with respect to the said proposal before the date
+Specified above will be considered by the state Government. Objection or
+suggestion may be addressed to the Deputy Commissioner, BALLARI
+District.
+
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village of KAMPLI Taluk, Bellari District to form a new revenue village called as
+CHINNAPURA of Kampli Taluk and Ballari District along with the survey numbers
+included in column (4) thereof.
+TABLE-1
+
+Survey numbers specified in
+Old Survey numbers Extent in acres-cents
+column (2) which are to be
+and villages from which of areas transferred to
+included to form new village
+SL areas are excluded from new Village
+CHINNAPURA and new survey
+NO METRI CHINNAPURA
+numbers assigned to them
+
+(1) (2) (3)(a) (3)(b) (4)
+1 243 6 1 1
+2 240 3 72 2
+3 242 0 20 3
+4 241 3 47 4
+5 134 7 88 5
+6 239 0 33 6
+7 238 0 19 7
+8 237 4 97 8
+9 235 6 69 9
+10 232 3 24 10
+11 133 1 68 11
+12 132 4 6 12
+13 141 3 52 13
+14 136 7 77 14
+15 135 1 84 15
+16 234 1 23 16
+17 233 1 27 17
+18 236 3 4 18
+19 137 2 31 19
+20 138 8 54 20
+21 139 5 85 21
+22 230 3 89 22
+23 174 2 43 23
+24 173 16 50 24
+25 175 15 46 25
+26 176 36 36 26
+27 229 6 50 27
+28 227 3 42 28
+
+29 228 0 34 29
+30 226 8 48 30
+31 225 1 36 31
+32 224 17 17 32
+33 223 5 0 33
+34 177 13 32 34
+35 178 14 97 35
+36 308 6 83 36
+37 179 10 91 37
+38 180 16 32 38
+39 193 11 21 39
+40 181 4 55 40
+41 182 7 9 41
+42 183 6 94 42
+43 184 35 34 43
+44 186 6 90 44
+45 187 7 61 45
+46 185 7 42 46
+47 188 9 26 47
+48 189 15 27 48
+49 192 9 13 49
+50 194 17 37 50
+51 197 5 0 51
+52 195 5 31 52
+53 191 7 18 53
+54 190 14 85 54
+55 196 3 86 55
+56 198 15 23 56
+57 199 29 28 57
+58 200 10 42 58
+59 201 10 91 59
+60 202 10 5 60
+61 203 14 41 61
+62 204 5 21 62
+63 205 6 37 63
+64 212 16 27 64
+65 211 4 74 65
+66 210 4 99 66
+67 207 7 33 67
+68 206 7 45 68
+69 208 9 74 69
+70 209 11 11 70
+
+71 215 1 64 71
+72 214 1 91 72
+73 213 17 86 73
+74 216 6 94 74
+75 217 3 15 75
+76 218 14 37 76
+77 219 16 37 77
+78 220 26 48 78
+79 221 33 57 79
+80 222 11 37 80
+81 231 127 41 81
+82 253 6 75 82
+83 252 23 41 83
+84 251 2 41 84
+85 250 6 71 85
+86 257 9 25 86
+87 256 2 58 87
+88 255 12 48 88
+89 254 15 1 89
+90 268 110 99 90
+91 258 4 46 91
+92 259 16 58 92
+93 261 4 5 93
+94 260 18 42 94
+95 249 16 13 95
+96 248 13 49 96
+97 247 20 82 97
+98 246 10 58 98
+99 264 8 8 99
+100 263 13 78 100
+101 262 6 13 101
+102 267 15 37 102
+103 266 22 55 103
+104 265 1 27 104
+105 270 5 40 105
+106 271 10 27 106
+107 273 9 0 107
+108 275 13 62 108
+109 274 4 69 109
+110 286 15 30 110
+111 284 5 90 111
+112 287 8 4 112
+
+113 288 0 51 113
+114 289 3 15 114
+115 290 5 3 115
+116 298 9 5 116
+117 299 2 67 117
+118 300 13 99 118
+119 304 11 45 119
+120 305 6 86 120
+121 307 23 85 121
+122 306 12 37 122
+123 302 17 22 123
+124 303 5 91 124
+125 301 17 56 125
+126 296 22 45 126
+127 297 11 60 127
+128 291 21 21 128
+129 295 15 26 129
+130 292 6 84 130
+131 293 8 62 131
+132 294 8 76 132
+133 283 5 96 133
+134 282 16 78 134
+135 279 39 57 135
+136 280 1 45 136
+137 278 7 91 137
+138 281 6 47 138
+139 285 5 99 139
+140 276 10 31 140
+141 277 12 63 141
+142 272 17 20 142
+143 269 4 62 143
+144 244 11 53 144
+145 245 0 71 145
+146 309 2 24 146
+147 310 2 20 147
+148 311 6 55 148
+149 312 9 55 149
+150 313 12 81 150
+151 314 1 52 151
+152 315 3 76 152
+TOTAL 1693 58 TOTAL
+
+Note :- The extent of grama tana within the said village is to the extent specified below
+namely
+Survey Number New Survey Extent
+Number
+239 6 0.33
+240 C 2/C 0.80
+240 D 2/D 0.90
+243 1 6.01
+Total 8.04
+
+BOUNDRIES OF THE NEW REVENUE VILLAGE OF CHINNAPURA
+East: Jowku village boundary North: Metri village boundary
+
+West: Metri village boundary South: Devalapura and Upparahalli village
+boundary.
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the METRI
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+TABLE-2
+SL Survey number remaining in Area (acres- New survey numbers
+No village after excluding the survey cents) assigned to the remaining
+numbers which are to be included VILLLAGE METRI survey
+to from village METRI numbers specified in
+column (2)
+(1) (2) (3)(a) (3)(b) (4)
+1 1 14 35 1
+2 2 7 53 2
+3 3 27 88 3
+4 4 27 14 4
+5 5 17 55 5
+6 6 4 81 6
+7 7 17 78 7
+8 8 9 90 8
+9 9 52 49 9
+10 10 2 46 10
+11 11 42 30 11
+12 12 15 81 12
+13 13 0 88 13
+14 14 10 66 14
+15 15 7 26 15
+
+16 16 17 81 16
+17 17 2 10 17
+18 18 22 58 18
+19 19 4 23 19
+20 20 11 4 20
+21 21 20 33 21
+22 22 10 59 22
+23 23 17 41 23
+24 24 5 40 24
+25 25 3 34 25
+26 26 1 94 26
+27 27 8 0 27
+28 28 4 98 28
+29 29 45 10 29
+30 30 24 66 30
+31 31 21 79 31
+32 32 28 20 32
+33 33 13 13 33
+34 34 11 39 34
+35 35 10 64 35
+36 36 2 64 36
+37 37 47 68 37
+38 38 18 70 38
+39 39 11 71 39
+40 40 22 48 40
+41 41 2 52 41
+42 42 18 16 42
+43 43 29 48 43
+44 44 24 49 44
+45 45 156 96 45
+46 46 188 80 46
+47 47 10 12 47
+48 48 7 56 48
+49 49 36 69 49
+50 50 13 67 50
+51 51 16 7 51
+52 52 3 68 52
+53 53 12 89 53
+54 54 5 38 54
+55 55 48 4 55
+56 56 11 57 56
+57 57 0 65 57
+
+58 58 26 19 58
+59 59 9 15 59
+60 60 18 68 60
+61 61 12 32 61
+62 62 12 13 62
+63 63 5 92 63
+64 64 11 72 64
+65 65 6 89 65
+66 66 4 22 66
+67 67 6 88 67
+68 68 6 25 68
+69 69 17 18 69
+70 70 31 83 70
+71 71 32 31 71
+72 72 17 30 72
+73 73 6 60 73
+74 74 15 31 74
+75 75 17 18 75
+76 76 9 51 76
+77 77 2 43 77
+78 78 9 55 78
+79 79 10 3 79
+80 80 18 24 80
+81 81 6 65 81
+82 82 24 34 82
+83 83 1 32 83
+84 84 0 42 84
+85 85 1 82 85
+86 86 7 91 86
+87 87 17 82 87
+88 88 5 65 88
+89 89 4 54 89
+90 90 4 70 90
+91 91 17 17 91
+92 92 3 74 92
+93 93 19 45 93
+94 94 19 39 94
+95 95 9 32 95
+96 96 8 40 96
+97 97 6 90 97
+98 98 26 24 98
+99 99 12 92 99
+
+100 100 5 29 100
+101 101 22 25 101
+102 102 14 85 102
+103 103 49 94 103
+104 104 25 88 104
+105 105 2 15 105
+106 106 3 38 106
+107 107 25 22 107
+108 108 18 28 108
+109 109 30 87 109
+110 110 18 18 110
+111 111 30 88 111
+112 112 13 76 112
+113 113 7 11 113
+114 114 29 5 114
+115 115 3 73 115
+116 116 4 97 116
+117 117 11 0 117
+118 118 8 57 118
+119 119 12 41 119
+120 120 1 27 120
+121 121 1054 91 121
+122 122 11 34 122
+123 123 10 71 123
+124 124 0 65 124
+125 125 5 22 125
+126 126 2 7 126
+127 127 9 99 127
+128 128 7 27 128
+129 129 3 65 129
+130 130 6 38 130
+131 131 16 8 131
+132 142 1 15 132
+133 140 24 65 133
+134 145 3 39 134
+135 143 1 30 135
+136 144 1 12 136
+137 154 0 72 137
+138 153 4 77 138
+139 152 4 90 139
+140 146 15 7 140
+141 147 5 19 141
+
+142 148 12 97 142
+143 149 7 46 143
+144 150 3 22 144
+145 171 26 13 145
+146 172 54 16 146
+147 169 27 24 147
+148 168 5 78 148
+149 167 4 56 149
+150 166 0 66 150
+151 164 13 50 151
+152 163 14 74 152
+153 165 40 56 153
+154 170 13 55 154
+155 151 4 63 155
+156 155 18 91 156
+157 156 12 70 157
+158 157 14 4 158
+159 162 11 50 159
+160 160 6 4 160
+161 161 5 97 161
+162 159 25 0 162
+163 158 17 15 163
+TOTAL 3609 96
+
+BOUNDARIES OF METRI VILLAGE
+East: Jowku village boundary North: Devasamudra &
+Kanvithimmalapura village boundrary
+West: Metri village S.No: 46 Hill Block XIV South: Proposed new revenue village
+Chinnapur boundary
+
+The proposal specified above shall come effect from such date as the State
+Government may specify by Notification proposed to be issued under section 5 of
+the Karnataka Land Revenue Act, 1964 ( Karnataka Act No. 12 of 1964 )
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+(1) (2) (4) 3(J) 3(©)
+1 243 6 1 1
+
+2 240 3 72 2
+3 242 0 20 3
+4 241 3 47 4
+5 134 7 88 5
+6 239 0 33 6
+7 238 0 19 7
+8 237 4 97 8
+9 235 6 69 9
+10 232 3 24 10
+11 133 1 68 11
+12 132 4 6 12
+13 141 3 52 13
+14 136 7 77 14
+15 135 1 84 15
+16 234 1 23 16
+17 233 1 27 17
+18 236 3 4 18
+19 137 2 31 19
+20 138 8 54 20
+21 139 5 85 21
+22 230 3 89 22
+23 174 2 43 23
+24 173 16 50 24
+25 175 15 46 25
+26 176 36 36 26
+27 229 6 50 27
+28 227 3 42 28
+29 228 0 34 29
+30 226 8 48 30
+31 225 1 36 31
+32 224 17 17 32
+33 223 5 0 33
+34 177 13 32 34
+35 178 14 97 35
+36 308 6 83 36
+37 179 10 91 37
+38 180 16 32 38
+39 193 11 21 39
+40 181 4 55 40
+41 182 7 9 41
+42 183 6 94 42
+43 184 35 34 43
+
+44 186 6 90 44
+45 187 7 61 45
+46 185 7 42 46
+47 188 9 26 47
+48 189 15 27 48
+49 192 9 13 49
+50 194 17 37 50
+51 197 5 0 51
+52 195 5 31 52
+53 191 7 18 53
+54 190 14 85 54
+55 196 3 86 55
+56 198 15 23 56
+57 199 29 28 57
+58 200 10 42 58
+59 201 10 91 59
+60 202 10 5 60
+61 203 14 41 61
+62 204 5 21 62
+63 205 6 37 63
+64 212 16 27 64
+65 211 4 74 65
+66 210 4 99 66
+67 207 7 33 67
+68 206 7 45 68
+69 208 9 74 69
+70 209 11 11 70
+71 215 1 64 71
+72 214 1 91 72
+73 213 17 86 73
+74 216 6 94 74
+75 217 3 15 75
+76 218 14 37 76
+77 219 16 37 77
+78 220 26 48 78
+79 221 33 57 79
+80 222 11 37 80
+81 231 127 41 81
+82 253 6 75 82
+83 252 23 41 83
+84 251 2 41 84
+85 250 6 71 85
+
+86 257 9 25 86
+87 256 2 58 87
+88 255 12 48 88
+89 254 15 1 89
+90 268 110 99 90
+91 258 4 46 91
+92 259 16 58 92
+93 261 4 5 93
+94 260 18 42 94
+95 249 16 13 95
+96 248 13 49 96
+97 247 20 82 97
+98 246 10 58 98
+99 264 8 8 99
+100 263 13 78 100
+101 262 6 13 101
+102 267 15 37 102
+103 266 22 55 103
+104 265 1 27 104
+105 270 5 40 105
+106 271 10 27 106
+107 273 9 0 107
+108 275 13 62 108
+109 274 4 69 109
+110 286 15 30 110
+111 284 5 90 111
+112 287 8 4 112
+113 288 0 51 113
+114 289 3 15 114
+115 290 5 3 115
+116 298 9 5 116
+117 299 2 67 117
+118 300 13 99 118
+119 304 11 45 119
+120 305 6 86 120
+121 307 23 85 121
+122 306 12 37 122
+123 302 17 22 123
+124 303 5 91 124
+125 301 17 56 125
+126 296 22 45 126
+127 297 11 60 127
+
+128 291 21 21 128
+129 295 15 26 129
+130 292 6 84 130
+131 293 8 62 131
+132 294 8 76 132
+133 283 5 96 133
+134 282 16 78 134
+135 279 39 57 135
+136 280 1 45 136
+137 278 7 91 137
+138 281 6 47 138
+139 285 5 99 139
+140 276 10 31 140
+141 277 12 63 141
+142 272 17 20 142
+143 269 4 62 143
+144 244 11 53 144
+145 245 0 71 145
+146 309 2 24 146
+147 310 2 20 147
+148 311 6 55 148
+149 312 9 55 149
+150 313 12 81 150
+151 314 1 52 151
+152 315 3 76 152
+
+1 239 6 0.33
+2 240 C 2/C 0.80
+3 240 D 2/D 0.90
+4 243 1 6.01
+
+(1) (2) (4) 3(J) 3(©)
+1 1 14 35 1
+2 2 7 53 2
+3 3 27 88 3
+4 4 27 14 4
+5 5 17 55 5
+6 6 4 81 6
+7 7 17 78 7
+8 8 9 90 8
+9 9 52 49 9
+10 10 2 46 10
+11 11 42 30 11
+12 12 15 81 12
+13 13 0 88 13
+14 14 10 66 14
+15 15 7 26 15
+16 16 17 81 16
+17 17 2 10 17
+18 18 22 58 18
+19 19 4 23 19
+20 20 11 4 20
+21 21 20 33 21
+22 22 10 59 22
+23 23 17 41 23
+24 24 5 40 24
+25 25 3 34 25
+26 26 1 94 26
+27 27 8 0 27
+28 28 4 98 28
+29 29 45 10 29
+30 30 24 66 30
+31 31 21 79 31
+
+32 32 28 20 32
+33 33 13 13 33
+34 34 11 39 34
+35 35 10 64 35
+36 36 2 64 36
+37 37 47 68 37
+38 38 18 70 38
+39 39 11 71 39
+40 40 22 48 40
+41 41 2 52 41
+42 42 18 16 42
+43 43 29 48 43
+44 44 24 49 44
+45 45 156 96 45
+46 46 188 80 46
+47 47 10 12 47
+48 48 7 56 48
+49 49 36 69 49
+50 50 13 67 50
+51 51 16 7 51
+52 52 3 68 52
+53 53 12 89 53
+54 54 5 38 54
+55 55 48 4 55
+56 56 11 57 56
+57 57 0 65 57
+58 58 26 19 58
+59 59 9 15 59
+60 60 18 68 60
+61 61 12 32 61
+62 62 12 13 62
+63 63 5 92 63
+64 64 11 72 64
+65 65 6 89 65
+66 66 4 22 66
+67 67 6 88 67
+68 68 6 25 68
+69 69 17 18 69
+70 70 31 83 70
+71 71 32 31 71
+72 72 17 30 72
+73 73 6 60 73
+
+74 74 15 31 74
+75 75 17 18 75
+76 76 9 51 76
+77 77 2 43 77
+78 78 9 55 78
+79 79 10 3 79
+80 80 18 24 80
+81 81 6 65 81
+82 82 24 34 82
+83 83 1 32 83
+84 84 0 42 84
+85 85 1 82 85
+86 86 7 91 86
+87 87 17 82 87
+88 88 5 65 88
+89 89 4 54 89
+90 90 4 70 90
+91 91 17 17 91
+92 92 3 74 92
+93 93 19 45 93
+94 94 19 39 94
+95 95 9 32 95
+96 96 8 40 96
+97 97 6 90 97
+98 98 26 24 98
+99 99 12 92 99
+100 100 5 29 100
+101 101 22 25 101
+102 102 14 85 102
+103 103 49 94 103
+104 104 25 88 104
+105 105 2 15 105
+106 106 3 38 106
+107 107 25 22 107
+108 108 18 28 108
+109 109 30 87 109
+110 110 18 18 110
+111 111 30 88 111
+112 112 13 76 112
+113 113 7 11 113
+114 114 29 5 114
+115 115 3 73 115
+
+116 116 4 97 116
+117 117 11 0 117
+118 118 8 57 118
+119 119 12 41 119
+120 120 1 27 120
+121 121 1054 91 121
+122 122 11 34 122
+123 123 10 71 123
+124 124 0 65 124
+125 125 5 22 125
+126 126 2 7 126
+127 127 9 99 127
+128 128 7 27 128
+129 129 3 65 129
+130 130 6 38 130
+131 131 16 8 131
+132 142 1 15 132
+133 140 24 65 133
+134 145 3 39 134
+135 143 1 30 135
+136 144 1 12 136
+137 154 0 72 137
+138 153 4 77 138
+139 152 4 90 139
+140 146 15 7 140
+141 147 5 19 141
+142 148 12 97 142
+143 149 7 46 143
+144 150 3 22 144
+145 171 26 13 145
+146 172 54 16 146
+147 169 27 24 147
+148 168 5 78 148
+149 167 4 56 149
+150 166 0 66 150
+151 164 13 50 151
+152 163 14 74 152
+153 165 40 56 153
+154 170 13 55 154
+155 151 4 63 155
+156 155 18 91 156
+157 156 12 70 157
+
+158 157 14 4 158
+159 162 11 50 159
+160 160 6 4 160
+161 161 5 97 161
+162 159 25 0 162
+163 158 17 15 163
+
+PR-169
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/48/2023-RC Karnataka Government Secretariat
+E- 1255507 Multi Storied Building
+Bengaluru, Date: 17-01-2024
+
+PRELIMINARY NOTIFICATION
+In exercise of the powers conferred by Section 5 of the Karnataka Land
+Revenue Act 1964 ( Karnataka act no 12 of 1964) and taking into consideration
+the factors Specified in clauses ( i ) to ( iv ) of rule 3 of the Karnataka Land
+Revenue Rules 1966 such as the population, area of the village the demand
+under land revenue in the village and other head of the account and having
+regard to the administrative convenience the Government of Karnataka propose
+s to issue a Notification to alter the limits of DEVASAMUDRA village of
+KAMPLI Taluk BALLARI District and to constitute a new revenue villages
+
+called KRISHNANAGAR CAMP as specified in schedule along with maps with
+old survey numbers and new assigned to them.
+Now, therefore in exercise of the power conferred by section 6 of the said Act,
+notice is hereby given for the information of all the persons likely to be affected
+thereby that the proposal will be taken into consideration on or after thirty days
+from the date of publication of the notification in the official Gazette.
+Any objection or suggestion which may be received by the state
+Government from any person with respect to the said proposal before the date
+Specified above will be considered by the state Government. Objection or
+suggestion may be addressed to the Deputy Commissioner, BALLARI
+District.
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village KAMPLI Taluk, Bellari District to form a new revenue village called as
+KRISHNANAGAR CAMP of Kampli Taluk and Ballari District along with the survey
+numbers included in column (4) thereof.
+TABLE-1
+Survey numbers specified in
+Old Survey numbers
+Extent in acres-cents of column (2) which are to be
+and villages from
+SL areas transferred to new included to form new village
+which areas are
+NO Village KRISHNANAGAR CAMP
+excluded from
+KRISHNANAGAR CAMP and new survey numbers
+DEVASAMUDRA
+assigned to them
+(1) (2) (3)(a) (3)(b) (4)
+1 254 2 04 1
+2 255 12 1 2
+3 256 3 4 3
+4 257 8 2 4
+5 258 6 12 5
+6 259 15 63 6
+7 260 2 82 7
+8 262 6 38 8
+9 261 3 0 9
+10 271 4 5 10
+11 269 3 0 11
+12 268 4 8 12
+13 267 5 6 13
+14 270 5 55 14
+15 272 15 34 15
+16 273 9 8 16
+17 274 7 16 17
+18 276 8 6 18
+
+19 277 5 01 19
+20 286 5 63 20
+21 275 4 68 21
+22 288 3 05 22
+23 287 4 3 23
+24 285 3 9 24
+25 284 5 27 25
+26 283 9 53 26
+27 282 8 62 27
+28 291 13 33 28
+29 289 2 05 29
+30 290 12 84 30
+31 298 9 16 31
+32 297 5 71 32
+33 299 10 15 33
+34 300 2 47 34
+35 301 3 03 35
+36 306 2 55 36
+37 305 10 02 37
+38 304 4 56 38
+39 303 4 1 39
+40 302 10 15 40
+41 295 8 07 41
+42 294 12 63 42
+43 296 6 9 43
+44 293 7 91 44
+45 292 85 9 45
+46 169 1 78 46
+47 168 1 78 47
+48 167 7 72 48
+49 166 10 81 49
+50 165 5 79 50
+51 174 7 02 51
+52 173 21 14 52
+53 171 6 95 53
+54 170 13 41 54
+55 172 5 45 55
+56 224 7 95 56
+57 223 4 54 57
+58 225 15 7 58
+59 226 3 35 59
+60 227 12 7 60
+
+61 222 16 00 61
+62 176 9 04 62
+63 175 5 09 63
+64 177 6 09 64
+65 178 5 43 65
+66 179 3 06 66
+67 180 4 95 67
+68 181 1 85 68
+69 182 9 18 69
+70 184 5 27 70
+71 185 4 58 71
+72 183 6 9 72
+73 219 7 12 73
+74 221 22 4 74
+75 220 4 5 75
+76 235 6 22 76
+77 228 3 97 77
+78 229 7 36 78
+79 234 5 24 79
+80 231 5 14 80
+81 230 12 16 81
+82 279 8 17 82
+83 280 2 18 83
+84 281 9 33 84
+85 278 102 67 85
+86 232 5 22 86
+87 233 5 25 87
+88 236 9 14 88
+89 237 4 1 89
+90 218 4 71 90
+91 217 8 83 91
+92 239 4 15 92
+93 238 10 61 93
+94 241 5 4 94
+95 240 4 85 95
+96 242 20 04 96
+97 264 10 01 97
+98 265 15 23 98
+99 266 10 71 99
+100 263 20 58 100
+101 243 6 5 101
+102 244 5 12 102
+
+103 245 7 18 103
+104 246 5 6 104
+105 247 4 07 105
+106 248 6 42 106
+107 249 13 86 107
+108 250 4 37 108
+109 251 9 04 109
+110 252 14 74 110
+111 253 3 05 111
+TOTAL 1005 40 TOTAL
+
+Note :- The extent of grama tana within the said village is to the extent specified below
+namely
+
+Survey Number New Survey Number Extent
+292/29 45/29 33.02
+Total 33.02
+
+BOUNDRIES OF THE NEW REVENUE VILLAGE OF KRISHNA NAGAR
+CAMP
+East : Chikkajayiganuru and North : Original village Devasamudra boundry
+Hirejayiganuru village border and Nelludi village of Ballari Taluk
+West : Devasamudra original village South : Original village Devasamudra and
+border Hirejayiganuru village border
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the
+DEVASAMUDRA village specified in the column (2) shall be assigned new survey
+numbers in the said villages specified in the column (4).
+
+TABLE-2
+
+SL Survey number remaining in Area(acres-cents) New survey numbers
+No village after excluding the assigned to the remaining
+survey numbers which are to be village DEVASAMUDRA
+included to form village survey numbers specified in
+DEVASAMUDRA column (2)
+(1) (2) (3)(a) (3)(b) (4)
+1 1 1 4 1
+2 2 12 8 2
+3 3 38 00 3
+4 4 103 98 4
+5 5 15 1 5
+6 6 5 73 6
+
+7 7 8 04 7
+8 8 15 86 8
+9 9 7 5 9
+10 10 8 42 10
+11 19 10 9 11
+12 20 11 12 12
+13 21 8 6 13
+14 22 8 9 14
+15 23 8 5 15
+16 24 8 94 16
+17 25 8 29 17
+18 26 7 31 18
+19 27 4 0 19
+20 28 8 6 20
+21 29 8 46 21
+22 30 4 56 22
+23 18 12 02 23
+24 31 14 08 24
+25 36 3 24 25
+26 37 11 52 26
+27 38 16 64 27
+28 39 5 15 28
+29 40 5 43 29
+30 63 23 16 30
+31 64 28 54 31
+32 65 20 4 32
+33 60 5 03 33
+34 62 1 35 34
+35 41 8 99 35
+36 42 8 75 36
+37 61 8 54 37
+38 57 4 05 38
+39 56 4 08 39
+40 43 1 68 40
+41 35 8 65 41
+42 44 8 18 42
+43 55 7 65 43
+44 54 18 56 44
+45 53 9 13 45
+46 58 4 0 46
+47 59 2 87 47
+48 66 46 0 48
+
+49 77 2 35 49
+50 76 1 17 50
+51 75 11 1 51
+52 74 24 07 52
+53 67 47 85 53
+54 68 7 87 54
+55 69 1 48 55
+56 70 5 45 56
+57 73 8 3 57
+58 72 4 55 58
+59 71 13 47 59
+60 197 35 25 60
+61 198 14 8 61
+62 199 6 45 62
+63 200 8 38 63
+64 201 9 76 64
+65 202 9 85 65
+66 203 12 29 66
+67 204 21 13 67
+68 206 10 62 68
+69 205 3 53 69
+70 196 12 75 70
+71 208 5 76 71
+72 207 6 26 72
+73 213 5 21 73
+74 214 11 33 74
+75 215 5 94 75
+76 216 7 12 76
+77 186 4 65 77
+78 187 4 75 78
+79 212 4 45 79
+80 209 2 7 80
+81 210 5 03 81
+82 195 6 17 82
+83 194 7 48 83
+84 211 5 44 84
+85 188 2 17 85
+86 189 7 29 86
+87 190 13 04 87
+88 191 11 05 88
+89 193 2 96 89
+90 192 10 36 90
+
+91 137 5 77 91
+92 135 6 11 92
+93 136 7 58 93
+94 133 6 66 94
+95 134 4 57 95
+96 130 13 00 96
+97 132 3 94 97
+98 131 6 03 98
+99 79 9 42 99
+100 80 9 21 100
+101 78 3 4 101
+102 52 8 56 102
+103 51 6 71 103
+104 83 0 5 104
+105 82 6 58 105
+106 81 24 5 106
+107 129 17 26 107
+108 128 1 65 108
+109 138 14 68 109
+110 139 2 1 110
+111 140 4 1 111
+112 141 5 65 112
+113 143 9 32 113
+114 142 0 42 114
+115 127 5 93 115
+116 126 6 35 116
+117 125 8 09 117
+118 146 0 47 118
+119 144 5 17 119
+120 145 4 71 120
+121 147 5 1 121
+122 148 3 3 122
+123 149 7 9 123
+124 151 2 15 124
+125 152 2 33 125
+126 153 4 55 126
+127 154 2 01 127
+128 150 0 89 128
+129 124 6 92 129
+130 123 12 26 130
+131 85 3 61 131
+132 84 1 7 132
+
+133 50 5 63 133
+134 49 3 7 134
+135 47 3 08 135
+136 48 7 97 136
+137 45 8 1 137
+138 46 12 0 138
+139 34 5 1 139
+140 33 5 0 140
+141 32 12 64 141
+142 17 4 35 142
+143 11 7 8 143
+144 16 8 0 144
+145 12 4 83 145
+146 13 13 3 146
+147 102 0 64 147
+148 103 2 48 148
+149 106 5 16 149
+150 107 4 13 150
+151 108 4 5 151
+152 109 11 81 152
+153 101 1 88 153
+154 14 2 13 154
+155 15 3 75 155
+156 99 2 0 156
+157 100 5 9 157
+158 111 6 95 158
+159 110 1 48 159
+160 112 10 36 160
+161 113 4 34 161
+162 97 5 19 162
+163 98 4 24 163
+164 96 4 0 164
+165 114 7 91 165
+166 115 3 88 166
+167 116 3 78 167
+168 95 4 76 168
+169 94 5 64 169
+170 117 3 86 170
+171 118 3 14 171
+172 121 3 08 172
+173 120 2 86 173
+174 119 3 14 174
+
+175 91 4 38 175
+176 92 4 47 176
+177 93 1 48 177
+178 90 0 5 178
+179 86 4 59 179
+180 88 4 13 180
+181 87 4 97 181
+182 89 4 11 182
+183 122 10 5 183
+184 156 0 67 184
+185 155 6 8 185
+186 164 10 43 186
+187 163 14 05 187
+188 162 15 9 188
+189 161 9 35 189
+190 160 1 1 190
+191 159 6 62 191
+192 158 3 6 192
+193 157 86 3 193
+194 105 3 71 194
+195 104 0 5 195
+196 307 89 53 196
+197 337 0 98 197
+198 338 1 78 198
+199 339 2 32 199
+200 340 4 25 200
+201 341 6 0 201
+202 342 4 12 202
+203 343 1 76 203
+204 344 1 94 204
+205 345 4 06 205
+206 346 3 93 206
+207 349 3 82 207
+208 348 8 2 208
+209 347 4 54 209
+210 334 6 88 210
+211 335 6 18 211
+212 336 8 16 212
+213 333 34 96 213
+214 332 6 9 214
+215 330 10 13 215
+216 329 7 63 216
+
+217 323 5 89 217
+218 325 5 74 218
+219 324 5 84 219
+220 321 11 78 220
+221 322 2 46 221
+222 320 4 56 222
+223 319 3 76 223
+224 318 12 89 224
+225 313 11 86 225
+226 312 12 37 226
+227 308 3 97 227
+228 309 19 18 228
+229 310 2 42 229
+230 311 1 55 230
+231 384 5 5 231
+232 385 10 92 232
+233 386 3 32 233
+234 376 12 26 234
+235 383 8 02 235
+236 314 6 9 236
+237 382 4 42 237
+238 315 8 54 238
+239 317 13 83 239
+240 326 5 67 240
+241 327 7 44 241
+242 328 7 71 242
+243 331 16 06 243
+244 363 5 57 244
+245 364 8 2 245
+246 316 4 34 246
+247 381 2 9 247
+248 380 4 55 248
+249 379 4 4 249
+250 378 4 15 250
+251 377 6 32 251
+252 366 5 75 252
+253 365 6 72 253
+254 362 5 17 254
+255 361 5 38 255
+256 353 4 62 256
+257 352 4 94 257
+258 351 9 34 258
+
+259 350 6 08 259
+260 357 5 07 260
+261 356 4 08 261
+262 354 7 99 262
+263 355 4 16 263
+264 358 6 26 264
+265 359 6 75 265
+266 360 7 05 266
+267 369 7 94 267
+268 368 4 12 268
+269 370 11 75 269
+270 367 3 0 270
+271 371 4 36 271
+272 372 6 63 272
+273 373 4 0 273
+274 374 3 97 274
+275 375 3 23 275
+276 387 2 45 276
+277 388 2 65 277
+278 364 9 61 278
+279 362 4 26 279
+280 363 3 93 280
+281 389 2 72 281
+282 390 9 95 282
+283 861 5 78 283
+284 860 33 25 284
+285 859 7 52 285
+286 858 6 27 286
+287 857 9 42 287
+288 855 18 09 288
+289 854 3 78 289
+290 856 4 54 290
+291 852 5 97 291
+292 853 6 25 292
+293 850 8 05 293
+294 851 6 75 294
+295 848 4 3 295
+296 849 3 5 296
+297 847 18 35 297
+298 393 5 63 298
+299 392 11 89 299
+300 391 3 8 300
+
+301 395 3 39 301
+302 394 10 37 302
+303 846 8 88 303
+304 845 9 38 304
+305 844 9 78 305
+306 843 16 0 306
+307 842 3 56 307
+308 409 10 46 308
+309 408 10 0 309
+310 410 8 0 310
+311 411 4 47 311
+312 412 3 58 312
+313 406 11 65 313
+314 407 5 36 314
+315 404 4 44 315
+316 403 4 73 316
+317 400 5 87 317
+318 396 16 55 318
+319 397 2 16 319
+320 398 4 95 320
+321 399 4 96 321
+322 401 4 38 322
+323 402 2 88 323
+324 405 3 52 324
+325 418 4 41 325
+326 419 7 16 326
+327 420 1 58 327
+328 422 7 59 328
+329 426 10 0 329
+330 427 1 78 330
+331 433 0 98 331
+332 434 0 79 332
+333 436 0 4 333
+334 432 6 15 334
+335 430 4 27 335
+336 431 2 4 336
+337 428 2 76 337
+338 429 4 7 338
+339 437 2 37 339
+340 425 2 3 340
+341 424 6 34 341
+342 423 8 38 342
+
+343 460 3 16 343
+344 421 5 81 344
+345 416 8 32 345
+346 417 9 7 346
+347 415 14 34 347
+348 414 8 15 348
+349 413 5 42 349
+350 821 1 9 350
+351 461 10 09 351
+352 466 7 84 352
+353 465 6 61 353
+354 464 8 5 354
+355 463 2 89 355
+356 462 2 27 356
+357 820 7 86 357
+358 819 15 18 358
+359 818 5 9 359
+360 817 4 6 360
+361 822 3 0 361
+362 823 19 1 362
+363 841 3 05 363
+364 824 5 51 364
+365 826 7 97 365
+366 827 5 4 366
+367 828 5 6 367
+368 840 1 61 368
+369 839 0 79 369
+370 838 8 0 370
+371 837 8 05 371
+372 829 7 3 372
+373 836 3 8 373
+374 835 3 15 374
+375 834 6 87 375
+376 833 4 11 376
+377 832 2 42 377
+378 831 3 62 378
+379 830 5 2 379
+380 825 4 34 380
+381 813 7 5 381
+382 815 7 22 382
+383 816 6 3 383
+384 814 16 84 384
+
+385 812 13 26 385
+386 811 14 35 386
+387 810 5 65 387
+388 809 18 41 388
+389 808 12 65 389
+390 807 5 75 390
+391 767 9 51 391
+392 768 3 54 392
+393 769 2 23 393
+394 771 8 95 394
+395 806 16 05 395
+396 804 11 88 396
+397 805 6 7 397
+398 773 8 67 398
+399 803 15 33 399
+400 802 9 48 400
+401 801 10 05 401
+402 800 11 58 402
+403 799 12 1 403
+404 797 12 1 404
+405 467 7 25 405
+406 459 4 94 406
+407 458 4 1 407
+408 457 4 26 408
+409 455 4 14 409
+410 453 1 75 410
+411 454 2 13 411
+412 451 2 0 412
+413 452 2 5 413
+414 438 2 85 414
+415 439 2 29 415
+416 440 1 9 416
+417 435 3 0 417
+418 447 1 65 418
+419 442 1 14 419
+420 443 3 06 420
+421 444 5 85 421
+422 445 4 05 422
+423 446 2 73 423
+424 447 8 35 424
+425 448 2 34 425
+426 449 5 92 426
+
+427 450 17 46 427
+428 456 5 26 428
+429 468 4 45 429
+430 470 3 43 430
+431 471 7 98 431
+432 472 34 66 432
+433 473 3 96 433
+434 474 4 65 434
+435 475 5 05 435
+436 476 3 65 436
+437 477 4 93 437
+438 478 4 33 438
+439 794 12 4 439
+440 469 4 0 440
+441 796 7 11 441
+442 795 7 3 442
+443 798 11 1 443
+444 78 19 6 444
+445 774 4 12 445
+446 775 10 93 446
+447 772 6 71 447
+448 776 13 55 448
+449 777 2 62 449
+450 778 4 46 450
+451 779 6 65 451
+452 780 6 76 452
+453 783 3 8 453
+454 782 9 86 454
+455 792 7 69 455
+456 793 8 77 456
+457 479 7 38 457
+458 480 3 16 458
+459 481 5 45 459
+460 482 51 85 460
+461 486 3 73 461
+462 485 5 3 462
+463 484 3 15 463
+464 483 6 0 464
+465 632 1 67 465
+466 635 1 03 466
+467 787 10 09 467
+468 790 3 36 468
+
+469 791 16 1 469
+470 789 6 0 470
+471 788 7 1 471
+472 786 7 38 472
+473 785 3 78 473
+474 636 2 16 474
+475 784 18 74 475
+476 748 11 12 476
+477 645 1 62 477
+478 747 6 52 478
+479 749 3 17 479
+480 750 6 2 480
+481 751 5 5 481
+482 752 8 85 482
+483 753 5 2 483
+484 754 4 9 484
+485 755 7 5 485
+486 756 3 65 486
+487 757 3 08 487
+488 745 1 2 488
+489 744 1 05 489
+490 758 3 45 490
+491 759 6 91 491
+492 770 4 2 492
+493 766 6 25 493
+494 765 3 26 494
+495 760 5 11 495
+496 764 5 23 496
+497 763 2 25 497
+498 761 4 3 498
+499 762 7 57 499
+500 743 1 05 500
+501 742 9 62 501
+502 741 19 0 502
+503 740 5 92 503
+504 736 10 26 504
+505 735 2 74 505
+506 734 6 25 506
+507 733 5 18 507
+508 732 8 32 508
+509 729 5 03 509
+510 731 4 4 510
+
+511 725 6 0 511
+512 726 3 5 512
+513 730 5 05 513
+514 727 6 11 514
+515 728 1 9 515
+516 716 3 4 516
+517 715 3 34 517
+518 714 4 2 518
+519 710 9 53 519
+520 709 6 55 520
+521 708 0 93 521
+522 707 4 1 522
+523 706 4 0 523
+524 705 7 31 524
+525 704 5 1 525
+526 703 6 02 526
+527 700 4 4 527
+528 699 6 88 528
+529 698 7 31 529
+530 697 6 45 530
+531 696 6 2 531
+532 701 4 16 532
+533 702 11 8 533
+534 695 4 55 534
+535 694 44 55 535
+536 693 3 3 536
+537 692 3 26 537
+538 691 7 0 538
+539 690 2 25 539
+540 689 3 08 540
+541 688 6 1 541
+542 687 3 55 542
+543 686 5 43 543
+544 711 10 15 544
+545 712 1 9 545
+546 713 1 8 546
+547 717 6 82 547
+548 718 10 12 548
+549 683 1 97 549
+550 685 2 85 550
+551 684 6 22 551
+552 682 10 37 552
+
+553 681 6 0 553
+554 680 7 06 554
+555 719 0 61 555
+556 724 1 48 556
+557 723 9 5 557
+558 720 2 8 558
+559 721 2 5 559
+560 722 1 97 560
+561 679 40 0 561
+562 678 17 86 562
+563 676 5 0 563
+564 675 8 5 564
+565 674 5 48 565
+566 737 0 98 566
+567 673 7 95 567
+568 672 1 65 568
+569 677 31 22 569
+570 670 3 45 570
+571 669 5 1 571
+572 671 4 45 572
+573 667 10 07 573
+574 738 0 79 574
+575 739 5 5 575
+576 746 0 69 576
+577 666 3 29 577
+578 668 4 15 578
+579 665 6 65 579
+580 664 13 62 580
+581 663 1 28 581
+582 648 1 35 582
+583 6647 1 4 583
+584 649 4 0 584
+585 644 4 0 585
+586 643 20 5 586
+587 637 19 6 587
+588 642 4 5 588
+589 649 0 76 589
+590 657 3 7 590
+591 658 5 28 591
+592 662 6 63 592
+593 661 9 02 593
+594 660 6 87 594
+
+595 659 10 44 595
+596 656 13 92 596
+597 655 12 1 597
+598 654 3 08 598
+599 653 3 62 599
+600 650 1 04 600
+601 641 1 03 601
+602 640 2 72 602
+603 639 2 92 603
+604 638 6 08 604
+605 634 11 18 605
+606 633 8 82 606
+607 628 6 5 607
+608 627 4 0 608
+609 626 3 2 609
+610 624 2 86 610
+611 623 3 0 611
+612 625 2 05 612
+613 651 0 88 613
+614 652 4 31 614
+615 606 0 98 615
+616 605 0 4 616
+617 604 0 6 617
+618 602 2 76 618
+619 601 2 64 619
+620 599 1 55 620
+621 600 1 1 621
+622 598 3 35 622
+623 603 3 45 623
+624 611 4 25 624
+625 607 2 05 625
+626 608 1 77 626
+627 610 5 5 627
+628 609 2 6 628
+629 620 2 08 629
+630 619 4 74 630
+631 618 2 75 631
+632 621 1 48 632
+633 622 1 85 633
+634 549 0 81 634
+635 550 3 65 635
+636 554 3 33 636
+
+637 553 2 87 637
+638 552 1 98 638
+639 551 2 24 639
+640 547 2 24 640
+641 548 0 15 641
+642 546 11 72 642
+643 545 1 97 643
+644 629 3 7 644
+645 630 3 63 645
+646 631 3 66 646
+647 488 1 37 647
+648 487 1 03 648
+649 490 1 78 649
+650 491 7 4 650
+651 492 2 72 651
+652 493 2 59 652
+653 496 2 15 653
+654 497 2 4 654
+655 498 4 0 655
+656 499 3 44 656
+657 500 3 45 657
+658 501 5 98 658
+659 495 6 9 659
+660 494 6 28 660
+661 489 28 87 661
+662 544 12 57 662
+663 543 6 4 663
+664 542 6 92 664
+665 502 5 4 665
+666 541 5 47 666
+667 539 4 25 667
+668 540 4 1 668
+669 538 17 13 669
+670 559 2 31 670
+671 560 2 22 671
+672 558 4 18 672
+673 557 4 11 673
+674 555 15 8 674
+675 556 0 88 675
+676 617 1 1 676
+677 616 8 27 677
+678 615 1 9 678
+
+679 614 8 15 679
+680 613 3 1 680
+681 612 13 15 681
+682 597 4 59 682
+683 596 3 33 683
+684 595 3 39 684
+685 594 4 19 685
+686 593 3 89 686
+687 592 8 3 687
+688 591 6 27 688
+689 590 1 53 689
+690 589 8 29 690
+691 585 3 61 691
+692 584 3 2 692
+693 579 3 08 693
+694 578 5 11 694
+695 577 2 42 695
+696 576 6 35 696
+697 575 3 55 697
+698 574 00 84 698
+699 580 7 73 699
+700 583 3 2 700
+701 586 4 85 701
+702 587 0 45 702
+703 588 7 05 703
+704 582 1 08 704
+705 561 7 9 705
+706 562 9 05 706
+707 581 0 98 707
+708 573 1 1 708
+709 563 16 2 709
+710 537 8 3 710
+711 536 2 92 711
+712 535 3 36 712
+713 534 6 69 713
+714 533 15 11 714
+715 503 5 79 715
+716 504 6 12 716
+717 505 4 73 717
+718 506 12 25 718
+719 507 3 8 719
+720 513 24 2 720
+
+721 512 7 38 721
+722 511 5 0 722
+723 510 8 61 723
+724 509 9 88 724
+725 508 6 4 725
+726 532 3 5 726
+727 531 9 28 727
+728 530 7 16 728
+729 529 7 0 729
+730 528 3 88 730
+731 527 4 18 731
+732 526 4 92 732
+733 565 3 51 733
+734 564 3 57 734
+735 568 56 87 735
+736 572 1 03 736
+737 571 1 0 737
+738 570 13 7 738
+739 569 2 19 739
+740 566 19 68 740
+741 525 12 95 741
+742 515 11 34 742
+743 514 7 7 743
+744 517 24 71 744
+745 516 23 64 745
+746 524 5 8 746
+747 523 12 91 747
+748 518 20 44 748
+749 519 1 52 749
+750 520 9 2 750
+751 521 9 68 751
+752 522 13 0 752
+753 567 26 58 753
+TOTAL 5394 26 TOTAL
+
+BOUNDRIES OF THE DEVASAMUDRA VILLAGE
+East : Jowku village and New village North : Kampli village and Nelludi village
+Krishnanagar camp border border of Ballari Taluk
+West : Kanavithimalapura and No-10 South : Metri and Jowku villages
+Muddapura village border
+
+The proposal specified above shall come effect from such date as the State
+Government may specify by Notification proposed to be issued under section 5 of
+the Karnataka Land Revenue Act, 1964 ( Karnataka Act No. 12 of 1964 )
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+(1) (2) (4) 3(J) 3(©)
+1 254 2 04 1
+2 255 12 1 2
+3 256 3 4 3
+4 257 8 2 4
+5 258 6 12 5
+6 259 15 63 6
+7 260 2 82 7
+8 262 6 38 8
+9 261 3 0 9
+10 271 4 5 10
+11 269 3 0 11
+12 268 4 8 12
+13 267 5 6 13
+14 270 5 55 14
+15 272 15 34 15
+16 273 9 8 16
+17 274 7 16 17
+18 276 8 6 18
+19 277 5 01 19
+20 286 5 63 20
+21 275 4 68 21
+22 288 3 05 22
+23 287 4 3 23
+24 285 3 9 24
+25 284 5 27 25
+26 283 9 53 26
+27 282 8 62 27
+28 291 13 33 28
+
+29 289 2 05 29
+30 290 12 84 30
+31 298 9 16 31
+32 297 5 71 32
+33 299 10 15 33
+34 300 2 47 34
+35 301 3 03 35
+36 306 2 55 36
+37 305 10 02 37
+38 304 4 56 38
+39 303 4 1 39
+40 302 10 15 40
+41 295 8 07 41
+42 294 12 63 42
+43 296 6 9 43
+44 293 7 91 44
+45 292 85 9 45
+46 169 1 78 46
+47 168 1 78 47
+48 167 7 72 48
+49 166 10 81 49
+50 165 5 79 50
+51 174 7 02 51
+52 173 21 14 52
+53 171 6 95 53
+54 170 13 41 54
+55 172 5 45 55
+56 224 7 95 56
+57 223 4 54 57
+58 225 15 7 58
+59 226 3 35 59
+60 227 12 7 60
+61 222 16 00 61
+62 176 9 04 62
+63 175 5 09 63
+64 177 6 09 64
+65 178 5 43 65
+66 179 3 06 66
+67 180 4 95 67
+68 181 1 85 68
+69 182 9 18 69
+70 184 5 27 70
+
+71 185 4 58 71
+72 183 6 9 72
+73 219 7 12 73
+74 221 22 4 74
+75 220 4 5 75
+76 235 6 22 76
+77 228 3 97 77
+78 229 7 36 78
+79 234 5 24 79
+80 231 5 14 80
+81 230 12 16 81
+82 279 8 17 82
+83 280 2 18 83
+84 281 9 33 84
+85 278 102 67 85
+86 232 5 22 86
+87 233 5 25 87
+88 236 9 14 88
+89 237 4 1 89
+90 218 4 71 90
+91 217 8 83 91
+92 239 4 15 92
+93 238 10 61 93
+94 241 5 4 94
+95 240 4 85 95
+96 242 20 04 96
+97 264 10 01 97
+98 265 15 23 98
+99 266 10 71 99
+100 263 20 58 100
+101 243 6 5 101
+102 244 5 12 102
+103 245 7 18 103
+104 246 5 6 104
+105 247 4 07 105
+106 248 6 42 106
+107 249 13 86 107
+108 250 4 37 108
+109 251 9 04 109
+110 252 14 74 110
+111 253 3 05 111
+
+1 292/29 45/29 33.02
+
+(1) (2) 3(J) 3(©) (4)
+1 1 1 4 1
+2 2 12 8 2
+3 3 38 00 3
+4 4 103 98 4
+5 5 15 1 5
+6 6 5 73 6
+7 7 8 04 7
+8 8 15 86 8
+9 9 7 5 9
+10 10 8 42 10
+11 19 10 9 11
+12 20 11 12 12
+13 21 8 6 13
+14 22 8 9 14
+15 23 8 5 15
+16 24 8 94 16
+
+17 25 8 29 17
+18 26 7 31 18
+19 27 4 0 19
+20 28 8 6 20
+21 29 8 46 21
+22 30 4 56 22
+23 18 12 02 23
+24 31 14 08 24
+25 36 3 24 25
+26 37 11 52 26
+27 38 16 64 27
+28 39 5 15 28
+29 40 5 43 29
+30 63 23 16 30
+31 64 28 54 31
+32 65 20 4 32
+33 60 5 03 33
+34 62 1 35 34
+35 41 8 99 35
+36 42 8 75 36
+37 61 8 54 37
+38 57 4 05 38
+39 56 4 08 39
+40 43 1 68 40
+41 35 8 65 41
+42 44 8 18 42
+43 55 7 65 43
+44 54 18 56 44
+45 53 9 13 45
+46 58 4 0 46
+47 59 2 87 47
+48 66 46 0 48
+49 77 2 35 49
+50 76 1 17 50
+51 75 11 1 51
+52 74 24 07 52
+53 67 47 85 53
+54 68 7 87 54
+55 69 1 48 55
+56 70 5 45 56
+57 73 8 3 57
+58 72 4 55 58
+
+59 71 13 47 59
+60 197 35 25 60
+61 198 14 8 61
+62 199 6 45 62
+63 200 8 38 63
+64 201 9 76 64
+65 202 9 85 65
+66 203 12 29 66
+67 204 21 13 67
+68 206 10 62 68
+69 205 3 53 69
+70 196 12 75 70
+71 208 5 76 71
+72 207 6 26 72
+73 213 5 21 73
+74 214 11 33 74
+75 215 5 94 75
+76 216 7 12 76
+77 186 4 65 77
+78 187 4 75 78
+79 212 4 45 79
+80 209 2 7 80
+81 210 5 03 81
+82 195 6 17 82
+83 194 7 48 83
+84 211 5 44 84
+85 188 2 17 85
+86 189 7 29 86
+87 190 13 04 87
+88 191 11 05 88
+89 193 2 96 89
+90 192 10 36 90
+91 137 5 77 91
+92 135 6 11 92
+93 136 7 58 93
+94 133 6 66 94
+95 134 4 57 95
+96 130 13 00 96
+97 132 3 94 97
+98 131 6 03 98
+99 79 9 42 99
+100 80 9 21 100
+
+101 78 3 4 101
+102 52 8 56 102
+103 51 6 71 103
+104 83 0 5 104
+105 82 6 58 105
+106 81 24 5 106
+107 129 17 26 107
+108 128 1 65 108
+109 138 14 68 109
+110 139 2 1 110
+111 140 4 1 111
+112 141 5 65 112
+113 143 9 32 113
+114 142 0 42 114
+115 127 5 93 115
+116 126 6 35 116
+117 125 8 09 117
+118 146 0 47 118
+119 144 5 17 119
+120 145 4 71 120
+121 147 5 1 121
+122 148 3 3 122
+123 149 7 9 123
+124 151 2 15 124
+125 152 2 33 125
+126 153 4 55 126
+127 154 2 01 127
+128 150 0 89 128
+129 124 6 92 129
+130 123 12 26 130
+131 85 3 61 131
+132 84 1 7 132
+133 50 5 63 133
+134 49 3 7 134
+135 47 3 08 135
+136 48 7 97 136
+137 45 8 1 137
+138 46 12 0 138
+139 34 5 1 139
+140 33 5 0 140
+141 32 12 64 141
+142 17 4 35 142
+
+143 11 7 8 143
+144 16 8 0 144
+145 12 4 83 145
+146 13 13 3 146
+147 102 0 64 147
+148 103 2 48 148
+149 106 5 16 149
+150 107 4 13 150
+151 108 4 5 151
+152 109 11 81 152
+153 101 1 88 153
+154 14 2 13 154
+155 15 3 75 155
+156 99 2 0 156
+157 100 5 9 157
+158 111 6 95 158
+159 110 1 48 159
+160 112 10 36 160
+161 113 4 34 161
+162 97 5 19 162
+163 98 4 24 163
+164 96 4 0 164
+165 114 7 91 165
+166 115 3 88 166
+167 116 3 78 167
+168 95 4 76 168
+169 94 5 64 169
+170 117 3 86 170
+171 118 3 14 171
+172 121 3 08 172
+173 120 2 86 173
+174 119 3 14 174
+175 91 4 38 175
+176 92 4 47 176
+177 93 1 48 177
+178 90 0 5 178
+179 86 4 59 179
+180 88 4 13 180
+181 87 4 97 181
+182 89 4 11 182
+183 122 10 5 183
+184 156 0 67 184
+
+185 155 6 8 185
+186 164 10 43 186
+187 163 14 05 187
+188 162 15 9 188
+189 161 9 35 189
+190 160 1 1 190
+191 159 6 62 191
+192 158 3 6 192
+193 157 86 3 193
+194 105 3 71 194
+195 104 0 5 195
+196 307 89 53 196
+197 337 0 98 197
+198 338 1 78 198
+199 339 2 32 199
+200 340 4 25 200
+201 341 6 0 201
+202 342 4 12 202
+203 343 1 76 203
+204 344 1 94 204
+205 345 4 06 205
+206 346 3 93 206
+207 349 3 82 207
+208 348 8 2 208
+209 347 4 54 209
+210 334 6 88 210
+211 335 6 18 211
+212 336 8 16 212
+213 333 34 96 213
+214 332 6 9 214
+215 330 10 13 215
+216 329 7 63 216
+217 323 5 89 217
+218 325 5 74 218
+219 324 5 84 219
+220 321 11 78 220
+221 322 2 46 221
+222 320 4 56 222
+223 319 3 76 223
+224 318 12 89 224
+225 313 11 86 225
+226 312 12 37 226
+
+227 308 3 97 227
+228 309 19 18 228
+229 310 2 42 229
+230 311 1 55 230
+231 384 5 5 231
+232 385 10 92 232
+233 386 3 32 233
+234 376 12 26 234
+235 383 8 02 235
+236 314 6 9 236
+237 382 4 42 237
+238 315 8 54 238
+239 317 13 83 239
+240 326 5 67 240
+241 327 7 44 241
+242 328 7 71 242
+243 331 16 06 243
+244 363 5 57 244
+245 364 8 2 245
+246 316 4 34 246
+247 381 2 9 247
+248 380 4 55 248
+249 379 4 4 249
+250 378 4 15 250
+251 377 6 32 251
+252 366 5 75 252
+253 365 6 72 253
+254 362 5 17 254
+255 361 5 38 255
+256 353 4 62 256
+257 352 4 94 257
+258 351 9 34 258
+259 350 6 08 259
+260 357 5 07 260
+261 356 4 08 261
+262 354 7 99 262
+263 355 4 16 263
+264 358 6 26 264
+265 359 6 75 265
+266 360 7 05 266
+267 369 7 94 267
+268 368 4 12 268
+
+269 370 11 75 269
+270 367 3 0 270
+271 371 4 36 271
+272 372 6 63 272
+273 373 4 0 273
+274 374 3 97 274
+275 375 3 23 275
+276 387 2 45 276
+277 388 2 65 277
+278 364 9 61 278
+279 362 4 26 279
+280 363 3 93 280
+281 389 2 72 281
+282 390 9 95 282
+283 861 5 78 283
+284 860 33 25 284
+285 859 7 52 285
+286 858 6 27 286
+287 857 9 42 287
+288 855 18 09 288
+289 854 3 78 289
+290 856 4 54 290
+291 852 5 97 291
+292 853 6 25 292
+293 850 8 05 293
+294 851 6 75 294
+295 848 4 3 295
+296 849 3 5 296
+297 847 18 35 297
+298 393 5 63 298
+299 392 11 89 299
+300 391 3 8 300
+301 395 3 39 301
+302 394 10 37 302
+303 846 8 88 303
+304 845 9 38 304
+305 844 9 78 305
+306 843 16 0 306
+307 842 3 56 307
+308 409 10 46 308
+309 408 10 0 309
+310 410 8 0 310
+
+311 411 4 47 311
+312 412 3 58 312
+313 406 11 65 313
+314 407 5 36 314
+315 404 4 44 315
+316 403 4 73 316
+317 400 5 87 317
+318 396 16 55 318
+319 397 2 16 319
+320 398 4 95 320
+321 399 4 96 321
+322 401 4 38 322
+323 402 2 88 323
+324 405 3 52 324
+325 418 4 41 325
+326 419 7 16 326
+327 420 1 58 327
+328 422 7 59 328
+329 426 10 0 329
+330 427 1 78 330
+331 433 0 98 331
+332 434 0 79 332
+333 436 0 4 333
+334 432 6 15 334
+335 430 4 27 335
+336 431 2 4 336
+337 428 2 76 337
+338 429 4 7 338
+339 437 2 37 339
+340 425 2 3 340
+341 424 6 34 341
+342 423 8 38 342
+343 460 3 16 343
+344 421 5 81 344
+345 416 8 32 345
+346 417 9 7 346
+347 415 14 34 347
+348 414 8 15 348
+349 413 5 42 349
+350 821 1 9 350
+351 461 10 09 351
+352 466 7 84 352
+
+353 465 6 61 353
+354 464 8 5 354
+355 463 2 89 355
+356 462 2 27 356
+357 820 7 86 357
+358 819 15 18 358
+359 818 5 9 359
+360 817 4 6 360
+361 822 3 0 361
+362 823 19 1 362
+363 841 3 05 363
+364 824 5 51 364
+365 826 7 97 365
+366 827 5 4 366
+367 828 5 6 367
+368 840 1 61 368
+369 839 0 79 369
+370 838 8 0 370
+371 837 8 05 371
+372 829 7 3 372
+373 836 3 8 373
+374 835 3 15 374
+375 834 6 87 375
+376 833 4 11 376
+377 832 2 42 377
+378 831 3 62 378
+379 830 5 2 379
+380 825 4 34 380
+381 813 7 5 381
+382 815 7 22 382
+383 816 6 3 383
+384 814 16 84 384
+385 812 13 26 385
+386 811 14 35 386
+387 810 5 65 387
+388 809 18 41 388
+389 808 12 65 389
+390 807 5 75 390
+391 767 9 51 391
+392 768 3 54 392
+393 769 2 23 393
+394 771 8 95 394
+
+395 806 16 05 395
+396 804 11 88 396
+397 805 6 7 397
+398 773 8 67 398
+399 803 15 33 399
+400 802 9 48 400
+401 801 10 05 401
+402 800 11 58 402
+403 799 12 1 403
+404 797 12 1 404
+405 467 7 25 405
+406 459 4 94 406
+407 458 4 1 407
+408 457 4 26 408
+409 455 4 14 409
+410 453 1 75 410
+411 454 2 13 411
+412 451 2 0 412
+413 452 2 5 413
+414 438 2 85 414
+415 439 2 29 415
+416 440 1 9 416
+417 435 3 0 417
+418 447 1 65 418
+419 442 1 14 419
+420 443 3 06 420
+421 444 5 85 421
+422 445 4 05 422
+423 446 2 73 423
+424 447 8 35 424
+425 448 2 34 425
+426 449 5 92 426
+427 450 17 46 427
+428 456 5 26 428
+429 468 4 45 429
+430 470 3 43 430
+431 471 7 98 431
+432 472 34 66 432
+433 473 3 96 433
+434 474 4 65 434
+435 475 5 05 435
+436 476 3 65 436
+
+437 477 4 93 437
+438 478 4 33 438
+439 794 12 4 439
+440 469 4 0 440
+441 796 7 11 441
+442 795 7 3 442
+443 798 11 1 443
+444 78 19 6 444
+445 774 4 12 445
+446 775 10 93 446
+447 772 6 71 447
+448 776 13 55 448
+449 777 2 62 449
+450 778 4 46 450
+451 779 6 65 451
+452 780 6 76 452
+453 783 3 8 453
+454 782 9 86 454
+455 792 7 69 455
+456 793 8 77 456
+457 479 7 38 457
+458 480 3 16 458
+459 481 5 45 459
+460 482 51 85 460
+461 486 3 73 461
+462 485 5 3 462
+463 484 3 15 463
+464 483 6 0 464
+465 632 1 67 465
+466 635 1 03 466
+467 787 10 09 467
+468 790 3 36 468
+469 791 16 1 469
+470 789 6 0 470
+471 788 7 1 471
+472 786 7 38 472
+473 785 3 78 473
+474 636 2 16 474
+475 784 18 74 475
+476 748 11 12 476
+477 645 1 62 477
+478 747 6 52 478
+
+479 749 3 17 479
+480 750 6 2 480
+481 751 5 5 481
+482 752 8 85 482
+483 753 5 2 483
+484 754 4 9 484
+485 755 7 5 485
+486 756 3 65 486
+487 757 3 08 487
+488 745 1 2 488
+489 744 1 05 489
+490 758 3 45 490
+491 759 6 91 491
+492 770 4 2 492
+493 766 6 25 493
+494 765 3 26 494
+495 760 5 11 495
+496 764 5 23 496
+497 763 2 25 497
+498 761 4 3 498
+499 762 7 57 499
+500 743 1 05 500
+501 742 9 62 501
+502 741 19 0 502
+503 740 5 92 503
+504 736 10 26 504
+505 735 2 74 505
+506 734 6 25 506
+507 733 5 18 507
+508 732 8 32 508
+509 729 5 03 509
+510 731 4 4 510
+511 725 6 0 511
+512 726 3 5 512
+513 730 5 05 513
+514 727 6 11 514
+515 728 1 9 515
+516 716 3 4 516
+517 715 3 34 517
+518 714 4 2 518
+519 710 9 53 519
+520 709 6 55 520
+
+521 708 0 93 521
+522 707 4 1 522
+523 706 4 0 523
+524 705 7 31 524
+525 704 5 1 525
+526 703 6 02 526
+527 700 4 4 527
+528 699 6 88 528
+529 698 7 31 529
+530 697 6 45 530
+531 696 6 2 531
+532 701 4 16 532
+533 702 11 8 533
+534 695 4 55 534
+535 694 44 55 535
+536 693 3 3 536
+537 692 3 26 537
+538 691 7 0 538
+539 690 2 25 539
+540 689 3 08 540
+541 688 6 1 541
+542 687 3 55 542
+543 686 5 43 543
+544 711 10 15 544
+545 712 1 9 545
+546 713 1 8 546
+547 717 6 82 547
+548 718 10 12 548
+549 683 1 97 549
+550 685 2 85 550
+551 684 6 22 551
+552 682 10 37 552
+553 681 6 0 553
+554 680 7 06 554
+555 719 0 61 555
+556 724 1 48 556
+557 723 9 5 557
+558 720 2 8 558
+559 721 2 5 559
+560 722 1 97 560
+561 679 40 0 561
+562 678 17 86 562
+
+563 676 5 0 563
+564 675 8 5 564
+565 674 5 48 565
+566 737 0 98 566
+567 673 7 95 567
+568 672 1 65 568
+569 677 31 22 569
+570 670 3 45 570
+571 669 5 1 571
+572 671 4 45 572
+573 667 10 07 573
+574 738 0 79 574
+575 739 5 5 575
+576 746 0 69 576
+577 666 3 29 577
+578 668 4 15 578
+579 665 6 65 579
+580 664 13 62 580
+581 663 1 28 581
+582 648 1 35 582
+583 6647 1 4 583
+584 649 4 0 584
+585 644 4 0 585
+586 643 20 5 586
+587 637 19 6 587
+588 642 4 5 588
+589 649 0 76 589
+590 657 3 7 590
+591 658 5 28 591
+592 662 6 63 592
+593 661 9 02 593
+594 660 6 87 594
+595 659 10 44 595
+596 656 13 92 596
+597 655 12 1 597
+598 654 3 08 598
+599 653 3 62 599
+600 650 1 04 600
+601 641 1 03 601
+602 640 2 72 602
+603 639 2 92 603
+604 638 6 08 604
+
+605 634 11 18 605
+606 633 8 82 606
+607 628 6 5 607
+608 627 4 0 608
+609 626 3 2 609
+610 624 2 86 610
+611 623 3 0 611
+612 625 2 05 612
+613 651 0 88 613
+614 652 4 31 614
+615 606 0 98 615
+616 605 0 4 616
+617 604 0 6 617
+618 602 2 76 618
+619 601 2 64 619
+620 599 1 55 620
+621 600 1 1 621
+622 598 3 35 622
+623 603 3 45 623
+624 611 4 25 624
+625 607 2 05 625
+626 608 1 77 626
+627 610 5 5 627
+628 609 2 6 628
+629 620 2 08 629
+630 619 4 74 630
+631 618 2 75 631
+632 621 1 48 632
+633 622 1 85 633
+634 549 0 81 634
+635 550 3 65 635
+636 554 3 33 636
+637 553 2 87 637
+638 552 1 98 638
+639 551 2 24 639
+640 547 2 24 640
+641 548 0 15 641
+642 546 11 72 642
+643 545 1 97 643
+644 629 3 7 644
+645 630 3 63 645
+646 631 3 66 646
+
+647 488 1 37 647
+648 487 1 03 648
+649 490 1 78 649
+650 491 7 4 650
+651 492 2 72 651
+652 493 2 59 652
+653 496 2 15 653
+654 497 2 4 654
+655 498 4 0 655
+656 499 3 44 656
+657 500 3 45 657
+658 501 5 98 658
+659 495 6 9 659
+660 494 6 28 660
+661 489 28 87 661
+662 544 12 57 662
+663 543 6 4 663
+664 542 6 92 664
+665 502 5 4 665
+666 541 5 47 666
+667 539 4 25 667
+668 540 4 1 668
+669 538 17 13 669
+670 559 2 31 670
+671 560 2 22 671
+672 558 4 18 672
+673 557 4 11 673
+674 555 15 8 674
+675 556 0 88 675
+676 617 1 1 676
+677 616 8 27 677
+678 615 1 9 678
+679 614 8 15 679
+680 613 3 1 680
+681 612 13 15 681
+682 597 4 59 682
+683 596 3 33 683
+684 595 3 39 684
+685 594 4 19 685
+686 593 3 89 686
+687 592 8 3 687
+688 591 6 27 688
+
+689 590 1 53 689
+690 589 8 29 690
+691 585 3 61 691
+692 584 3 2 692
+693 579 3 08 693
+694 578 5 11 694
+695 577 2 42 695
+696 576 6 35 696
+697 575 3 55 697
+698 574 00 84 698
+699 580 7 73 699
+700 583 3 2 700
+701 586 4 85 701
+702 587 0 45 702
+703 588 7 05 703
+704 582 1 08 704
+705 561 7 9 705
+706 562 9 05 706
+707 581 0 98 707
+708 573 1 1 708
+709 563 16 2 709
+710 537 8 3 710
+711 536 2 92 711
+712 535 3 36 712
+713 534 6 69 713
+714 533 15 11 714
+715 503 5 79 715
+716 504 6 12 716
+717 505 4 73 717
+718 506 12 25 718
+719 507 3 8 719
+720 513 24 2 720
+721 512 7 38 721
+722 511 5 0 722
+723 510 8 61 723
+724 509 9 88 724
+725 508 6 4 725
+726 532 3 5 726
+727 531 9 28 727
+728 530 7 16 728
+729 529 7 0 729
+730 528 3 88 730
+
+731 527 4 18 731
+732 526 4 92 732
+733 565 3 51 733
+734 564 3 57 734
+735 568 56 87 735
+736 572 1 03 736
+737 571 1 0 737
+738 570 13 7 738
+739 569 2 19 739
+740 566 19 68 740
+741 525 12 95 741
+742 515 11 34 742
+743 514 7 7 743
+744 517 24 71 744
+745 516 23 64 745
+746 524 5 8 746
+747 523 12 91 747
+748 518 20 44 748
+749 519 1 52 749
+750 520 9 2 750
+751 521 9 68 751
+752 522 13 0 752
+753 567 26 58 753
+
+PR-170
+
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/115/2023-RC Karnataka Government Secretariat
+E-1264970 Multi Storied Building
+Bengaluru-560 001
+Date: 03-01-2024.
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD 187 KAMGRARA 2016 Dated
+10.08.2022 regarding altering the limits of Anguru village of HuvinaHadagali Taluk
+and Vijayanagara District and constituting a new revenue village called Hosahalli
+was published as required by section 6 of the Karnataka Land Revenue Act, 1964
+(Karnataka act No.12 of 1964) in the Karnataka Gazette No. Part no 4a page no 788 to
+816 dated 26.01.2017 inviting objections or suggestions from all the persons likely to
+be affected thereby within thirty days from the date of its publication in the Official
+Gazette Addressed to the Deputy Commissioner Vijayanagara District.
+And whereas, the said gazette was made available to the public on
+Dated: 09.10.2023 And whereas, no objections and suggestions have been received.
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village ANGURU in VIJAYANAGARA District to form a new revenue village called
+as HOSAHALLI of HuvinaHadagali Taluk and VIJAYANAGARA District along
+with the survey numbers included in column (4) thereof.
+
+TABLE-1
+Survey numbers specified in
+Old Survey Numbers Extent of areas
+column(2) which are to be
+which areas are Transferred to new
+included to form new village
+Sl No excluded from village
+HOSAHALLI new survey
+ANGURU HOSAHALLI
+numbers assigned to them
+
+Acre Cents
+1 2 3 4
+1 5 9 10 1
+2 6 9 25 2
+3 7 4 44 3
+4 9 7 98 4
+5 8 5 29 5
+
+6 10 5 52 6
+7 11 9 82 7
+8 13 4 58 8
+9 14 15 39 9
+10 12 9 07 10
+11 16 18 22 11
+12 15 7 31 12
+13 17 8 62 13
+14 41 7 56 14
+15 42 2 88 15
+16 43 7 41 16
+17 44 2 33 17
+18 45 4 94 18
+19 51 8 98 19
+20 50 15 02 20
+21 52 14 34 21
+22 54 9 05 22
+23 55 15 09 23
+24 53 7 29 24
+25 49 6 58 25
+26 46 22 30 26
+27 40 14 06 27
+28 47 5 64 28
+29 48 41 98 29
+30 56 7 64 30
+31 57 4 48 31
+32 58 12 22 32
+33 59 11 67 33
+34 60 16 44 34
+35 62 21 10 35
+36 61 19 88 36
+37 64 15 10 37
+38 63 10 86 38
+39 65 12 65 39
+40 66 17 60 40
+41 68 17 00 41
+42 69 9 40 42
+43 70 10 18 43
+44 71 0 60 44
+45 67 4 22 45
+46 72 14 03 46
+47 73 19 88 47
+
+48 74 9 56 48
+49 75 12 56 49
+50 76 12 38 50
+51 77 5 78 51
+52 78 9 21 52
+53 79 17 20 53
+54 80 0 82 54
+55 81 11 37 55
+56 82 17 57 56
+57 83 10 00 57
+58 84 6 31 58
+59 85 10 41 59
+60 86 10 30 60
+61 87 20 50 61
+62 88 2 86 62
+63 89 21 93 63
+64 90 12 00 64
+65 91 17 60 65
+66 92 12 00 66
+67 93 10 58 67
+68 94 11 68 68
+69 96 12 73 69
+70 95 5 09 70
+71 97 12 39 71
+72 98 5 49 72
+73 99 9 48 73
+74 100 2 82 74
+75 111 8 72 75
+76 112 19 75 76
+77 113 10 50 77
+78 114 92 06 78
+79 110 15 94 79
+80 115 11 37 80
+81 116 6 83 81
+82 117 8 06 82
+83 118 13 05 83
+84 119 21 97 84
+85 120 6 54 85
+86 121 6 32 86
+87 103 5 33 87
+88 104 1 24 88
+89 105 5 98 89
+
+90 106 4 03 90
+91 107 3 57 91
+92 108 2 16 92
+93 109 5 72 93
+94 31 10 11 94
+95 33 13 97 95
+96 34 14 64 96
+97 36 28 04 97
+98 38 9 72 98
+99 39 8 51 99
+100 37 0 44 100
+101 35 14 75 101
+102 32 11 03 102
+103 30 7 76 103
+104 29 21 98 104
+105 28 9 69 105
+106 18 24 60 106
+107 19 8 91 107
+108 20 9 65 108
+109 21 1 98 109
+110 27 16 50 110
+111 26 12 66 111
+112 25 22 08 112
+113 22 08 68 113
+114 24 10 05 114
+115 101 10 42 115
+116 102 3 15 116
+117 124 6 02 117
+118 123 6 68 118
+119 122 6 31 119
+120 125 18 23 120
+121 126 40 00 121
+122 127 4 52 122
+123 139 9 76 123
+124 141 13 98 124
+125 140 2 54 125
+126 137 7 73 126
+127 138 12 08 127
+128 131 7 74 128
+129 128 15 54 129
+130 129 12 85 130
+131 130 2 46 131
+
+132 132 15 40 132
+133 133 10 20 133
+134 134 6 56 134
+135 135 12 35 135
+136 136 16 98 136
+137 2 6 48 137
+138 3 12 07 138
+139 23 9 90 139
+140 4 2 52 140
+Total 1602 97
+
+Note : The extent of Grama Tana within the said village is to the extent specified
+below namely
+Old Survey New Survey
+Extent
+Number Number
+7/B 0.57 3
+9/A2 1.24 4
+13/A 1.16 8
+14/A 2.55 9
+23/3 0.58 139
+
+BOUNDERIES OF THE NEW VILLAGE OF HOSHALLI
+
+East :Magala Village Boundary North :- Anguru village boundry
+West :-Anguru village boundry South :- Beerabbi village boundry
+
+SCHEDULE-2
+The Survey numbers of the village and areas remaining in the ANGURU
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+
+TABLE-2
+Survey numbers remaining in New survey numbers
+village ANGURU after assigned to the remaining
+Sl Area
+excluding the survey numbers survey numbers specified
+No
+in column which are to be included to form
+New village HOSHALLI Acre Cents
+(1) (2) (3) (4)
+1 176 3 79 1
+2 177 8 76 2
+3 179 8 28 3
+4 180 11 06 4
+5 170 40 10 5
+
+6 171 0 62 6
+7 172 7 06 7
+8 174 1 48 8
+9 173 12 86 9
+10 148 23 86 10
+11 01 220 40 11
+12 149 8 14 12
+13 147 7 60 13
+14 145 12 26 14
+15 144 14 68 15
+16 143 23 94 16
+17 142 5 20 17
+18 146 1 15 18
+19 152 16 54 19
+20 153 15 18 20
+21 154 17 16 21
+22 151 3 81 22
+23 150 6 78 23
+24 156 14 53 24
+25 155 7 81 25
+26 157 2 73 26
+27 158 11 72 27
+28 161 75 47 28
+29 159 4 15 29
+30 160 10 63 30
+31 169 1 57 31
+32 168 3 27 32
+33 165 5 53 33
+34 164 3 56 34
+35 188 5 10 35
+36 162 32 53 36
+37 163 15 70 37
+38 189 8 58 38
+39 192 12 3 39
+40 190 2 53 40
+41 191 4 32 41
+42 187 8 92 42
+43 195 21 41 43
+44 193 9 50 44
+45 194 2 48 45
+46 196 7 58 46
+47 197 14 00 47
+
+48 198 2 90 48
+49 199 3 41 49
+50 200 17 00 50
+51 201 4 64 51
+52 204 3 72 52
+53 202 3 70 53
+54 208 7 80 54
+55 209 6 11 55
+56 207 6 38 56
+57 203 2 91 57
+58 205 8 34 58
+59 206 10 17 59
+60 229 9 57 60
+61 230 14 66 61
+62 231 5 83 62
+63 232 11 05 63
+64 233 8 38 64
+65 228 23 15 65
+66 234 6 00 66
+67 235 8 44 67
+68 236 11 04 68
+69 238 6 64 69
+70 237 7 34 70
+71 239 7 53 71
+72 240 7 12 72
+73 241 10 85 73
+74 242 17 66 74
+75 244 12 70 75
+76 243 28 62 76
+77 245 6 46 77
+78 246 35 04 78
+79 253 6 30 79
+80 254 15 40 80
+81 255 12 43 81
+82 258 14 90 82
+83 256 4 78 83
+84 257 6 04 84
+85 259 1 98 85
+86 260 27 43 86
+87 251 2 45 87
+88 250 3 95 88
+89 252 7 66 89
+
+90 249 16 27 90
+91 248 18 63 91
+92 247 22 44 92
+93 227 177 97 93
+94 211 10 61 94
+95 212 13 00 95
+96 213 7 82 96
+97 214 2 78 97
+98 215 10 40 98
+99 216 4 28 99
+100 218 3 07 100
+101 217 12 28 101
+102 210 9 69 102
+103 186 4 41 103
+104 166 1 83 104
+105 167 9 24 105
+106 181 7 22 106
+107 185 13 00 107
+108 183 7 53 108
+109 182 1 27 109
+110 184 0 36 110
+111 219 15 14 111
+112 220 17 76 112
+113 221 19 62 113
+114 222 17 23 114
+115 223 15 90 115
+116 225 14 30 116
+117 226 18 96 117
+118 224 2 48 118
+119 178 8 10 119
+120 175 13 34 120
+Total Extent 1671 77
+
+Note : The extent of Grama Tana within the said village is to the extent specified
+below namely
+Old Survey New Survey
+Extent
+Number Number
+178 8.10 119
+
+BOUNDERIES OF THE NEW VILLAGE OF ANGURU
+East : Hosahalli & Beerabbi Village Boundry North : Shirahatti Tq. Boundry
+West : Kotehal Village Boundry South : Beerabbi Village Boundry
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+1 5 9 10 1
+2 6 9 25 2
+3 7 4 44 3
+4 9 7 98 4
+5 8 5 29 5
+6 10 5 52 6
+7 11 9 82 7
+8 13 4 58 8
+9 14 15 39 9
+10 12 9 07 10
+11 16 18 22 11
+12 15 7 31 12
+13 17 8 62 13
+14 41 7 56 14
+15 42 2 88 15
+16 43 7 41 16
+17 44 2 33 17
+18 45 4 94 18
+19 51 8 98 19
+20 50 15 02 20
+21 52 14 34 21
+22 54 9 05 22
+23 55 15 09 23
+24 53 7 29 24
+25 49 6 58 25
+26 46 22 30 26
+27 40 14 06 27
+28 47 5 64 28
+29 48 41 98 29
+30 56 7 64 30
+31 57 4 48 31
+32 58 12 22 32
+33 59 11 67 33
+34 60 16 44 34
+
+35 62 21 10 35
+36 61 19 88 36
+37 64 15 10 37
+38 63 10 86 38
+39 65 12 65 39
+40 66 17 60 40
+41 68 17 00 41
+42 69 9 40 42
+43 70 10 18 43
+44 71 0 60 44
+45 67 4 22 45
+46 72 14 03 46
+47 73 19 88 47
+48 74 9 56 48
+49 75 12 56 49
+50 76 12 38 50
+51 77 5 78 51
+52 78 9 21 52
+53 79 17 20 53
+54 80 0 82 54
+55 81 11 37 55
+56 82 17 57 56
+57 83 10 00 57
+58 84 6 31 58
+59 85 10 41 59
+60 86 10 30 60
+61 87 20 50 61
+62 88 2 86 62
+63 89 21 93 63
+64 90 12 00 64
+65 91 17 60 65
+66 92 12 00 66
+67 93 10 58 67
+68 94 11 68 68
+69 96 12 73 69
+70 95 5 09 70
+71 97 12 39 71
+72 98 5 49 72
+73 99 9 48 73
+74 100 2 82 74
+75 111 8 72 75
+76 112 19 75 76
+
+77 113 10 50 77
+78 114 92 06 78
+79 110 15 94 79
+80 115 11 37 80
+81 116 6 83 81
+82 117 8 06 82
+83 118 13 05 83
+84 119 21 97 84
+85 120 6 54 85
+86 121 6 32 86
+87 103 5 33 87
+88 104 1 24 88
+89 105 5 98 89
+90 106 4 03 90
+91 107 3 57 91
+92 108 2 16 92
+93 109 5 72 93
+94 31 10 11 94
+95 33 13 97 95
+96 34 14 64 96
+97 36 28 04 97
+98 38 9 72 98
+99 39 8 51 99
+100 37 0 44 100
+101 35 14 75 101
+102 32 11 03 102
+103 30 7 76 103
+104 29 21 98 104
+105 28 9 69 105
+106 18 24 60 106
+107 19 8 91 107
+108 20 9 65 108
+109 21 1 98 109
+110 27 16 50 110
+111 26 12 66 111
+112 25 22 08 112
+113 22 08 68 113
+114 24 10 05 114
+115 101 10 42 115
+116 102 3 15 116
+117 124 6 02 117
+118 123 6 68 118
+
+119 122 6 31 119
+120 125 18 23 120
+121 126 40 00 121
+122 127 4 52 122
+123 139 9 76 123
+124 141 13 98 124
+125 140 2 54 125
+126 137 7 73 126
+127 138 12 08 127
+128 131 7 74 128
+129 128 15 54 129
+130 129 12 85 130
+131 130 2 46 131
+132 132 15 40 132
+133 133 10 20 133
+134 134 6 56 134
+135 135 12 35 135
+136 136 16 98 136
+137 2 6 48 137
+138 3 12 07 138
+139 23 9 90 139
+140 4 2 52 140
+Total 1602 97
+
+7/© 3 0-57
+9/J/2 4 1-24
+13/J 8 1-16
+14/J 9 2-55
+23/3 139 0-58
+
+(1) (2) (3) (4)
+1 176 3 79 1
+2 177 8 76 2
+3 179 8 28 3
+4 180 11 06 4
+5 170 40 10 5
+6 171 0 62 6
+7 172 7 06 7
+8 174 1 48 8
+9 173 12 86 9
+10 148 23 86 10
+11 01 220 40 11
+12 149 8 14 12
+13 147 7 60 13
+14 145 12 26 14
+15 144 14 68 15
+16 143 23 94 16
+17 142 5 20 17
+18 146 1 15 18
+19 152 16 54 19
+20 153 15 18 20
+21 154 17 16 21
+22 151 3 81 22
+23 150 6 78 23
+24 156 14 53 24
+25 155 7 81 25
+26 157 2 73 26
+27 158 11 72 27
+28 161 75 47 28
+29 159 4 15 29
+
+30 160 10 63 30
+31 169 1 57 31
+32 168 3 27 32
+33 165 5 53 33
+34 164 3 56 34
+35 188 5 10 35
+36 162 32 53 36
+37 163 15 70 37
+38 189 8 58 38
+39 192 12 3 39
+40 190 2 53 40
+41 191 4 32 41
+42 187 8 92 42
+43 195 21 41 43
+44 193 9 50 44
+45 194 2 48 45
+46 196 7 58 46
+47 197 14 00 47
+48 198 2 90 48
+49 199 3 41 49
+50 200 17 00 50
+51 201 4 64 51
+52 204 3 72 52
+53 202 3 70 53
+54 208 7 80 54
+55 209 6 11 55
+56 207 6 38 56
+57 203 2 91 57
+58 205 8 34 58
+59 206 10 17 59
+60 229 9 57 60
+61 230 14 66 61
+62 231 5 83 62
+63 232 11 05 63
+64 233 8 38 64
+65 228 23 15 65
+66 234 6 00 66
+67 235 8 44 67
+68 236 11 04 68
+69 238 6 64 69
+70 237 7 34 70
+71 239 7 53 71
+
+72 240 7 12 72
+73 241 10 85 73
+74 242 17 66 74
+75 244 12 70 75
+76 243 28 62 76
+77 245 6 46 77
+78 246 35 04 78
+79 253 6 30 79
+80 254 15 40 80
+81 255 12 43 81
+82 258 14 90 82
+83 256 4 78 83
+84 257 6 04 84
+85 259 1 98 85
+86 260 27 43 86
+87 251 2 45 87
+88 250 3 95 88
+89 252 7 66 89
+90 249 16 27 90
+91 248 18 63 91
+92 247 22 44 92
+93 227 177 97 93
+94 211 10 61 94
+95 212 13 00 95
+96 213 7 82 96
+97 214 2 78 97
+98 215 10 40 98
+99 216 4 28 99
+100 218 3 07 100
+101 217 12 28 101
+102 210 9 69 102
+103 186 4 41 103
+104 166 1 83 104
+105 167 9 24 105
+106 181 7 22 106
+107 185 13 00 107
+108 183 7 53 108
+109 182 1 27 109
+110 184 0 36 110
+111 219 15 14 111
+112 220 17 76 112
+113 221 19 62 113
+
+114 222 17 23 114
+115 223 15 90 115
+116 225 14 30 116
+117 226 18 96 117
+118 224 2 48 118
+119 178 8 10 119
+120 175 13 34 120
+Total Extent 1671 77
+
+PR-171
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/21/2024-RC Karnataka Government Secretariat
+E- 1282903 Multi Storied Building
+Bengaluru-560 001
+Date: 06-01-2024.
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD 406 PFH 2022 Dated: 04.01.2023
+regarding altering the limits R Hosalli village of Yadgir Taluka and Yadgir District
+and constituting a new revenue village called Shri Ram nagar was published as
+required by section 6 of the Karnataka Land Revenue Act, 1964 (Karnataka act No.12
+of 1964) in the Karnataka Gazette No. 47 Part IV-A Dated:09.01.2023 inviting
+objections or suggestions from all the persons likely to be affected thereby within
+thirty days from the date of its publication in the Official Gazette addressed to the
+Deputy Commissioner Yadgir district.
+
+And whereas, the said gazette was made available to the public on
+Dated: 01.10.2023 And whereas, no objections and suggestions have been received;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village R Hosalli taluka in Yadgir District to form a new revenue village called as
+Shri Ram nagar of Yadgir taluk Yadgir District along with the survey numbers
+included in column (4) thereof.
+
+TABLE-1
+Sl.n Old Survey Numbers Extent of area transferred Survey numbers Specified
+o Which are excluded from to new village in column (2) which are to
+Raisabad Hosalli village Shri Ram nagar be included to form new
+to constituting new village Shri Ram nagar
+village Shri Ram nagar and New survey numbers
+Acre Gunta Anna
+assigned to them
+(1) (2) (3) (4)
+8 31 0 1
+1 68
+2 21 0 Gramatana
+2 69 16 21 0 2
+3 70 15 18 0 3
+4 71 17 19 0 4
+5 72 18 30 0 5
+6 78 13 36 0 6
+7 79 14 34 0 7
+8 80 15 16 0 8
+9 81 17 3 0 9
+10 82 15 00 0 10
+11 89 19 03 0 11
+12 83 19 26 0 12
+13 88 8 23 0 13
+14 87 11 22 0 14
+15 86 14 24 0 15
+16 85 16 6 0 16
+17 84 21 39 0 17
+18 77 11 4 0 18
+19 76 7 1 0 19
+20 75 23 0 0 20
+
+21 74 18 0 0 21
+22 65 8 9 0 22
+23 64 22 17 0 23
+24 60 21 22 0 24
+25 61 10 06 0 25
+26 58 20 25 0 26
+27 59 20 17 0 27
+28 57 17 22 0 28
+29 47 24 20 0 29
+30 46 22 32 0 30
+31 42 21 06 0 31
+32 43 15 12 0 32
+33 44 14 31 0 33
+34 45 09 11 0 34
+35 50 12 24 0 35
+36 49 17 27 0 36
+37 48 18 22 0 37
+38 56 19 39 0 38
+39 55 20 27 0 39
+40 51 23 19 0 40
+41 52 6 9 0 41
+42 53 15 10 0 42
+43 54 16 28 0 43
+44 66 13 32 0 44
+45 73 20 36 0 45
+46 67 21 00 0 46
+00 23 0 Gramatana
+Total 762 23 0
+
+Note: The extent of Gramatana within the said village is to be the extent specified below namely:-
+
+Extent
+Survey numbers
+Acre Gunta Ane
+68 2 21 0
+67 0 23 0
+Total 3 04 0
+
+There shall be constituted a new village called ShriRam nagar in Yadgir taluk,
+Yadgir District and boundaries of the village shall be as specified below:-
+
+Boundaries of the new village ShriRam nagar
+East: Village boundary of West:Village boundary of Raisabad Hosalli,
+Panchasheelanagar, Yelheri Mailapur
+North: Village boundary of Mailapur, South:Village boundary of Naglapur,
+Panchasheelanagar Yelheri
+
+SCHEDULE-2
+The Survey numbers of the village and areas remaining in the R Hosalli
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+TABLE-2
+Sl.n Survey numbers remaining in Total Area New Survey numbers
+o. R Hosalli village after assigned to the
+excluding the survey remaining survey
+numbers which are to be numbers in R Hosalli
+Acre Gunta Anna
+included to form village specified in column (2)
+
+Shriram nagar
+(1) (2) (3) (4)
+1 1 5 1 0 1
+2 2 1 38 0 2
+3 3 5 37 0 3
+4 4 13 8 0 4
+5 5 1 10 0 5
+6 6 1 17 0 6
+7 7 1 39 0 7
+8 8 0 18 0 8
+9 9 1 24 0 9
+10 10 2 0 0 10
+11 11 11 24 0 11
+12 12 9 10 0 12
+13 13 11 5 0 13
+14 14 13 37 0 14
+15 15 7 14 0 15
+16 16 13 29 0 16
+17 17 10 16 0 17
+18 18 7 30 0 18
+19 19 10 20 0 19
+20 20 5 25 0 20
+21 21 8 14 0 21
+22 22 11 2 0 22
+23 29 3 2 0 23
+24 30 11 9 0 24
+25 31 10 5 0 25
+26 32 16 3 0 26
+27 33 13 3 0 27
+28 34 10 20 0 28
+29 35 20 32 0 29
+30 39 12 4 0 30
+
+31 40 22 32 0 31
+32 41 5 10 0 32
+33 38 15 36 0 33
+34 37 16 12 0 34
+35 36 15 36 0 35
+36 27 4 32 0 36
+37 28 13 29 0 37
+38 26 22 16 0 38
+39 25 15 17 0 39
+40 24 15 28 0 40
+41 23 18 34 0 41
+42 154 12 38 0 42
+43 144 9 20 0 43
+44 142 2 18 0 44
+45 143 1 33 0 45
+46 141 2 00 0 46
+47 132 1 16 0 47
+48 131 1 32 0 48
+49 130 1 2 0 49
+50 129 0 28 0 50
+51 63 2 16 0 51
+52 62 12 2 0 52
+53 128 13 3 0 53
+54 127 15 6 0 54
+55 126 3 11 0 55
+56 133 1 30 0 56
+57 134 1 27 0 57
+58 135 2 23 0 58
+59 139 1 37 0 59
+60 140 2 17 0 60
+61 138 1 28 0 61
+62 147 0 37 0 62
+63 146 2 23 0 63
+64 145 0 30 0 64
+65 148 3 00 0 65
+66 153 2 13 0 66
+67 155 9 38 0 67
+68 152 6 7 0 68
+69 151 1 16 0 69
+70 150 1 23 0 70
+71 149 1 19 0 71
+72 137 1 24 0 72
+
+73 136 2 34 0 73
+74 124 2 10 0 74
+75 125 2 7 0 75
+76 113 9 37 0 76
+0 77 112 2 21 77
+78 103 20 35 0 78
+79 102 17 31 0 79
+80 90 17 22 0 80
+81 91 3 37 0 81
+82 92 10 1 0 82
+83 93 9 27 0 83
+84 94 15 14 0 84
+85 95 18 8 0 85
+86 96 13 11 0 86
+87 97 14 29 0 87
+88 98 2 6 0 88
+89 99 2 18 0 89
+90 100 0 27 0 90
+91 101 22 5 0 91
+92 104 19 10 0 92
+93 105 7 19 0 93
+94 106 1 35 0 94
+95 107 1 30 0 95
+96 108 2 14 0 96
+97 109 4 6 0 97
+98 110 6 33 0 98
+99 111 18 23 0 99
+100 114 10 21 0 100
+101 115 16 22 0 101
+102 116 16 9 0 102
+103 117 2 12 0 103
+104 118 2 10 0 104
+105 119 2 33 0 105
+106 120 1 15 0 106
+107 121 1 35 0 107
+108 122 1 29 0 108
+109 123 3 10 0 109
+110 158 2 3 0 110
+
+111 157 5 22 0 111
+112 159 1 14 0 112
+113 160 0 16 0 113
+114 161 0 17 0 114
+115 162 0 9 0 115
+116 163 4 39 0 116
+117 164 1 20 0 117
+118 165 0 21 0 118
+119 166 0 35 0 119
+120 167 1 35 0 120
+121 168 0 31 0 121
+122 169 8 18 0 122
+123 170 1 14 0 123
+124 171 1 3 0 124
+125 172 1 7 0 125
+126 173 1 0 0 126
+127 174 1 27 0 127
+128 156 0 34 0 128
+129 175 1 32 0 129
+130 176 1 19 0 130
+131 177 1 3 0 131
+132 178 2 10 0 132
+133 179 0 24 0 133
+134 180 1 25 0 134
+135 181 13 4 0 135
+136 182 4 17 0 136
+137 183 6 35 0 137
+138 184 3 38 0 138
+139 185 9 27 0 139
+TOTAL 935 20 0
+
+Boundaries of the village R Hosalli
+East:New Village boundary of ShriRam West:Village boundary of Haligera
+nagar
+North: Village boundary of Mailapur, South: Village boundary of Jinkera,
+Haligera Naglapur
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+(1) (2) (3) (4)
+8 31 0 1
+1 68
+2 69 16 21 2
+3 70 15 18 3
+0 4 71 17 19 4
+5 72 18 30 5
+6 78 13 36 6
+7 79 14 34 7
+8 80 15 16 8
+9 81 17 3 9
+10 82 15 00 10
+11 89 19 03 11
+12 83 19 26 12
+13 88 8 23 13
+14 87 11 22 14
+15 86 14 24 15
+16 85 16 6 16
+17 84 21 39 17
+18 77 11 4 18
+19 76 7 1 19
+20 75 23 0 20
+21 74 18 0 21
+22 65 8 9 22
+23 64 22 17 23
+24 60 21 22 24
+25 61 10 06 25
+26 58 20 25 26
+27 59 20 17 27
+
+28 57 17 22 28
+29 47 24 20 29
+30 46 22 32 30
+31 42 21 06 31
+32 43 15 12 32
+33 44 14 31 33
+34 45 09 11 34
+35 50 12 24 35
+36 49 17 27 36
+37 48 18 22 37
+38 56 19 39 38
+39 55 20 27 39
+40 51 23 19 40
+41 52 6 9 41
+42 53 15 10 42
+43 54 16 28 43
+44 66 13 32 44
+45 73 20 36 45
+21 00 46
+46 67
+
+68 2 21 0
+67 0 23 0
+
+(1) (2) (3) (4) (5) (6)
+1 1 5 1 0 1
+2 2 1 38 0 2
+3 3 5 37 0 3
+4 4 13 8 0 4
+5 5 1 10 0 5
+6 6 1 17 0 6
+7 7 1 39 0 7
+8 8 0 18 0 8
+9 9 1 24 0 9
+10 10 2 0 0 10
+11 11 11 24 0 11
+12 12 9 10 0 12
+13 13 11 5 0 13
+14 14 13 37 0 14
+15 15 7 14 0 15
+16 16 13 29 0 16
+17 17 10 16 0 17
+18 18 7 30 0 18
+19 19 10 20 0 19
+20 20 5 25 0 20
+21 21 8 14 0 21
+22 22 11 2 0 22
+23 29 3 2 0 23
+24 30 11 9 0 24
+25 31 10 5 0 25
+
+26 32 16 3 0 26
+27 33 13 3 0 27
+28 34 10 20 0 28
+29 35 20 32 0 29
+30 39 12 4 0 30
+31 40 22 32 0 31
+32 41 5 10 0 32
+33 38 15 36 0 33
+34 37 16 12 0 34
+35 36 15 36 0 35
+36 27 4 32 0 36
+37 28 13 29 0 37
+38 26 22 16 0 38
+39 25 15 17 0 39
+40 24 15 28 0 40
+41 23 18 34 0 41
+42 154 12 38 0 42
+43 144 9 20 0 43
+44 142 2 18 0 44
+45 143 1 33 0 45
+46 141 2 00 0 46
+47 132 1 16 0 47
+48 131 1 32 0 48
+49 130 1 2 0 49
+50 129 0 28 0 50
+51 63 2 16 0 51
+52 62 12 2 0 52
+53 128 13 3 0 53
+54 127 15 6 0 54
+55 126 3 11 0 55
+56 133 1 30 0 56
+57 134 1 27 0 57
+58 135 2 23 0 58
+59 139 1 37 0 59
+60 140 2 17 0 60
+61 138 1 28 0 61
+62 147 0 37 0 62
+
+63 146 2 23 0 63
+64 145 0 30 0 64
+65 148 3 00 0 65
+66 153 2 13 0 66
+67 155 9 38 0 67
+68 152 6 7 0 68
+69 151 1 16 0 69
+70 150 1 23 0 70
+71 149 1 19 0 71
+72 137 1 24 0 72
+73 136 2 34 0 73
+74 124 2 10 0 74
+75 125 2 7 0 75
+76 113 9 37 0 76
+77 112 2 21 0 77
+78 103 20 35 0 78
+79 102 17 31 0 79
+80 90 17 22 0 80
+81 91 3 37 0 81
+82 92 10 1 0 82
+83 93 9 27 0 83
+84 94 15 14 0 84
+85 95 18 8 0 85
+86 96 13 11 0 86
+87 97 14 29 0 87
+88 98 2 6 0 88
+89 99 2 18 0 89
+90 100 0 27 0 90
+91 101 22 5 0 91
+92 104 19 10 0 92
+93 105 7 19 0 93
+94 106 1 35 0 94
+95 107 1 30 0 95
+96 108 2 14 0 96
+97 109 4 6 0 97
+98 110 6 33 0 98
+99 111 18 23 0 99
+
+100 114 10 21 0 100
+101 115 16 22 0 101
+102 116 16 9 0 102
+103 117 2 12 0 103
+104 118 2 10 0 104
+105 119 2 33 0 105
+106 120 1 15 0 106
+107 121 1 35 0 107
+108 122 1 29 0 108
+109 123 3 10 0 109
+110 158 2 3 0 110
+111 157 5 22 0 111
+112 159 1 14 0 112
+113 160 0 16 0 113
+114 161 0 17 0 114
+115 162 0 9 0 115
+116 163 4 39 0 116
+117 164 1 20 0 117
+118 165 0 21 0 118
+119 166 0 35 0 119
+120 167 1 35 0 120
+121 168 0 31 0 121
+122 169 8 18 0 122
+123 170 1 14 0 123
+124 171 1 3 0 124
+125 172 1 7 0 125
+126 173 1 0 0 126
+127 174 1 27 0 127
+128 156 0 34 0 128
+129 175 1 32 0 129
+130 176 1 19 0 130
+131 177 1 3 0 131
+132 178 2 10 0 132
+133 179 0 24 0 133
+134 180 1 25 0 134
+135 181 13 4 0 135
+136 182 4 17 0 136
+
+137 183 6 35 0 137
+138 184 3 38 0 138
+139 185 9 27 0 139
+
+PR-172
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/154/2023-RC Karnataka Government Secretariat
+E- 1270379 Multi Storied Building
+Bengaluru-560 001
+Date:17-01-2024.
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD 400 PFH 2022 Dated:04.01.2023
+regarding altering the limits of Malhar & Lingeri village of Yadgir Taluka and
+Yadgir District and constituting a new revenue village called Lokalal Nagar &
+Nagarabanda was published as required by section 6 of the Karnataka Land Revenue
+Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette No. 48 Part IV-A
+Dated:04.01.2023 inviting objections or suggestions from all the persons likely to be
+affected thereby within thirty days from the date of its publication in the Official
+Gazette addressed to the Deputy Commissioner Yadgir district.
+
+And whereas, the said gazette was made available to the public on
+Dated: 12.10.2023 And whereas, objections and suggestions have been received and
+considered by the State Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village Malhar & Lingeri taluka in Yadgir District to form a new revenue village
+called as Lokalal Nagar & Nagarabanda of Yadgir taluk Yadgir District along
+with the survey numbers included in column (4) thereof.
+
+TABLE-1
+Survey numbers Specified
+Extent of area transferred to
+Old Survey Numbers
+in column (2) which are to
+new village
+Which are excluded
+be included to form new
+Nagarabanda Sl.No. from Malhar village to
+village Nagarabanda &
+constituting new
+new survey numbers
+Acre Gunta Anna
+village Nagarabanda
+assigned to them
+(1) (2) (3) (4)
+14 25 0 1
+1 243
+0 32 0 Gramathana
+7 29 0 2
+2 244
+0 19 0 Gramathana
+3 241 9 19 0 3
+4 240 7 10 0 4
+5 226 8 25 0 5
+6 227 8 7 0 6
+7 239 6 20 0 7
+8 229 13 9 0 8
+9 232 17 10 0 9
+10 233 10 8 0 10
+11 236 8 34 0 11
+12 237 9 13 0 12
+12 34 0 13
+13 238
+0 15 0 Gramathana
+18 28 0 14
+14 245
+0 30 0 Gramathana
+15 247 3 35 0 15
+16 246 7 11 0 16
+17 299 16 36 0 17
+
+18 300 19 7 0 18
+19 235 21 2 0 19
+20 234 21 24 0 20
+21 301 19 27 0 21
+22 302 20 13 0 22
+23 303 19 22 0 23
+24 304 8 32 0 24
+25 305 9 27 0 25
+26 298 17 12 0 26
+27 297 17 9 0 27
+28 295 18 18 0 28
+29 294 17 21 0 29
+30 296 17 10 0 30
+31 311 14 30 0 31
+32 312 22 4 0 32
+33 310 7 19 0 33
+34 309 13 5 0 34
+35 306 19 39 0 35
+36 307 16 8 0 36
+37 308 15 39 0 37
+38 324 17 4 0 38
+39 323 13 24 0 39
+40 322 8 24 0 40
+41 313 12 19 0 41
+42 314 13 3 0 42
+43 321 10 5 0 43
+44 327 16 25 0 44
+45 326 11 8 0 45
+46 325 16 16 0 46
+47 328 18 30 0 47
+48 329 7 0 0 48
+49 330 18 37 0 49
+50 320 13 32 0 50
+51 319 18 3 0 51
+52 331 13 30 0 52
+53 332 20 11 0 53
+54 333 14 9 0 54
+55 334 16 31 0 55
+56 345 18 1 0 56
+57 344 7 17 0 57
+58 346 20 28 0 58
+59 347 15 26 0 59
+
+60 349 13 31 0 60
+61 348 18 17 0 61
+62 355 7 37 0 62
+63 354 15 24 0 63
+64 356 19 20 0 64
+65 364 22 15 0 65
+66 363 14 5 0 66
+67 365 12 16 0 67
+68 366 13 4 0 68
+69 367 14 34 0 69
+70 362 14 25 0 70
+71 368 21 37 0 71
+72 369 19 35 0 72
+73 370 12 9 0 73
+74 361 13 5 0 74
+75 360 20 8 0 75
+76 359 12 24 0 76
+77 357 18 36 0 77
+78 358 12 35 0 78
+79 353 12 21 0 79
+80 351 21 2 0 80
+81 352 11 29 0 81
+82 350 18 12 0 82
+83 343 19 33 0 83
+84 342 11 4 0 84
+85 341 13 7 0 85
+86 340 21 12 0 86
+87 335 12 2 0 87
+88 336 7 27 0 88
+89 339 6 16 0 89
+90 337 11 14 0 90
+91 338 10 11 0 91
+92 318 9 23 0 92
+93 317 12 35 0 93
+94 316 9 2 0 94
+95 285 20 1 0 95
+96 315 20 38 0 96
+97 291 19 26 0 97
+98 292 21 14 0 98
+99 293 8 25 0 99
+100 268 6 34 0 100
+101 290 12 35 0 101
+
+102 288 5 14 0 102
+103 289 17 11 0 103
+104 283 17 30 0 104
+105 287 11 19 0 105
+106 286 16 35 0 106
+107 284 24 27 0 107
+108 281 10 26 0 108
+109 280 8 32 0 109
+110 282 19 13 0 110
+111 272 18 9 0 111
+112 271 17 17 0 112
+113 269 8 36 0 113
+114 270 16 32 0 114
+115 273 20 25 0 115
+116 274 20 17 0 116
+117 279 12 13 0 117
+118 278 16 36 0 118
+119 277 4 31 0 119
+120 275 12 7 0 120
+121 276 10 28 0 121
+122 157 13 8 0 122
+123 158 16 1 0 123
+124 159 23 23 0 124
+125 160 16 24 0 125
+126 161 16 37 0 126
+127 162 11 26 0 127
+128 163 17 23 0 128
+129 166 19 1 0 129
+130 165 10 6 0 130
+131 164 10 16 0 131
+132 262 22 10 0 132
+133 263 20 24 0 133
+134 261 12 11 0 134
+135 259 11 3 0 135
+136 258 16 28 0 136
+137 257 19 28 0 137
+138 260 15 19 0 138
+139 254 10 25 0 139
+140 264 11 19 0 140
+141 252 21 33 0 141
+142 253 21 16 0 142
+143 251 7 4 0 143
+
+144 250 10 39 0 144
+145 266 15 30 0 145
+146 265 14 36 0 146
+147 267 15 34 0 147
+15 04 0 148
+148 249
+1 3 0 Gramathana
+10 18 0 149
+149 242
+0 13 0 Gramathana
+150 248 20 16 0 Gramathana
+Total 2201 36 0
+
+Note: The extent of Gramatana within the said village is to be the extent specified below namely:-
+Extent
+Survey numbers
+Acre Gunta Ane
+243 0 32 0
+244 0 19 0
+238 0 15 0
+245 0 30 0
+249/1 1 03 0
+242 0 13 0
+248 20 16 0
+Total 24 08 0
+There shall be constituted a new village called Nagarabanda in Yadgir taluk,
+Yadgir District and boundaries of the village shall be as specified below:-
+
+Boundaries of the new village Nagarabanda
+East: Village boundary of Goudagera, Kudlur West: village boundary of Malhar
+North:New Village boundary of Lokalal Nagar South: Village boundary of Sangavaar,
+Kudlur
+
+SCHEDULE-2
+Land bearing survey numbers of the village and survey numbers of the areas specified
+in column (2) of the table below shall be excluded from the limits of said village Malhar &
+Lingeri of Yadgir talukin Yadgir District to form a new revenue village called Lokalal
+Nagarof Yadgir taluk Yadgir district along with the survey numbers included in column (4)
+thereof.
+TABLE
+Old Survey Numbers Which are
+Extent of area transferred Survey numbers Specified in column
+excluded from
+to new village (2) which are to be included to form
+Sl.No. Malhar & Lingeri village to
+Lokalal Nagar new village Lokalal Nagar & new
+constituting new village Lokalal
+survey numbers assigned to them
+Nagar Acre Gunta Anna
+(1) (2) (3) (4)
+Survey number which are excluded from Malhar village
+1 173 19 31 0 1
+
+0 05 0 Gramathana
+2 174 13 33 5
+3 176 16 27 0 6
+4 175 18 12 0 7
+5 183 19 23 0 10
+6 182 17 20 0 11
+7 184 8 18 0 12
+8 185 11 36 0 13
+9 186 9 34 0 14
+10 187 17 20 0 15
+11 188 20 35 0 16
+12 189 19 12 0 17
+13 190 9 20 0 18
+14 191 14 32 0 19
+15 192 19 39 0 20
+16 193 20 24 0 21
+17 194 10 30 0 22
+18 195 11 10 0 23
+19 196 13 25 0 24
+20 197 13 2 0 25
+21 198 10 39 0 26
+22 199 12 10 0 27
+23 200 12 28 0 28
+24 201 18 36 0 29
+25 202 10 15 0 30
+26 203 13 33 0 31
+27 204 13 23 0 32
+28 205 20 19 0 33
+29 180 9 11 0 34
+30 181 20 15 0 35
+31 179 18 24 0 36
+32 177 13 8 0 37
+33 178 10 19 0 38
+34 210 17 14 0 39
+35 206 13 18 40
+36 207 15 8 0 41
+37 208 22 8 0 42
+38 209 19 38 0 43
+39 217 14 32 0 44
+40 211 17 34 0 45
+41 212 15 11 0 46
+
+42 213 16 22 0 47
+43 214 12 1 0 48
+44 215 8 10 0 49
+45 216 13 11 0 50
+46 221 14 33 0 51
+47 218 11 11 0 52
+48 219 13 0 0 53
+49 220 15 24 0 54
+50 231 9 36 0 55
+51 230 14 26 0 56
+52 222 18 39 0 57
+53 228 14 0 0 58
+54 223 14 14 0 59
+55 224 12 26 0 60
+56 225 17 15 0 61
+205 20 0 62
+57 255
+7 5 0 Gramathana
+58 256 18 39 0 63
+59 168 16 15 0 64
+60 169 20 27 0 65
+61 167 19 3 0 66
+62 170 17 17 0 161
+63 171 12 21 0 160
+15 00 162
+64 172
+2 22 0 Gramathana
+Total 1170 8 0
+
+Survey numbers which are excluded from Lingeri village
+
+1 23 14 0 2
+2 0 8 0 Gramathana
+3 161 21 14 0 3
+4 164 14 15 0 4
+5 162 15 6 0 8
+6 163 8 29 0 9
+7 169 18 10 0 68
+8 234 18 22 0 69
+9 235 9 14 0 70
+10 236 19 19 0 71
+11 233 17 19 0 72
+12 232 22 4 0 73
+13 237 18 3 0 74
+
+14 238 14 36 0 75
+15 223 16 9 0 76
+16 224 16 32 0 77
+17 231 14 7 0 78
+18 230 1 12 0 79
+19 225 0 8 0 80
+20 226 8 36 0 81
+21 229 2 11 0 82
+22 228 1 9 0 83
+23 227 1 23 0 84
+24 219 1 14 0 85
+25 220 1 29 0 86
+26 221 1 20 0 87
+27 222 12 19 0 88
+28 218 18 8 0 89
+29 217 8 8 0 90
+30 216 1 7 0 91
+31 215 1 20 0 92
+32 214 1 38 0 93
+33 213 1 2 0 94
+34 212 2 15 0 95
+35 211 1 5 0 96
+210/1 1 29 0 97/1
+210/2 6 17 0 97/2
+209/1 2 26 0 98/1
+209/2 2 26 0 98/2
+209/3 2 19 0 98/3
+209/4 2 0 0 98/4
+207/1 0 4 0 99/1
+207/2 0 6 0 99/2
+207/3 0 11 0 99/3
+207/4 0 4 0 99/4
+39 208 0 6 0 100
+40 140 20 1 0 101
+41 205 2 4 0 102
+42 204 0 35 0 103
+43 203 1 30 0 104
+44 141 0 9 0 105
+45 142 6 4 0 106
+46 143 11 24 0 107
+47 144 19 6 0 108
+48 202 2 15 0 109
+
+49 201 1 8 0 110
+50 200 1 16 0 111
+51 196 2 7 0 112
+52 195 2 2 0 113
+53 194 2 5 0 114
+54 197 0 37 0 115
+55 199 2 24 0 116
+56 198 12 10 0 117
+57 145 13 34 0 118
+58 146 15 24 0 119
+59 148 14 35 0 120
+60 147 14 35 0 121
+61 179 20 5 0 122
+62 181 0 26 0 123
+63 193 0 24 0 124
+64 191 1 20 0 125
+65 190 1 32 0 126
+66 188 1 38 0 127
+67 187 10 16 0 128
+68 186 9 36 0 129
+69 189 1 22 0 130
+70 192 2 1 0 131
+71 183 1 5 0 132
+72 182 0 34 0 133
+73 180 0 19 0 134
+74 184 2 9 0 135
+75 185 20 23 0 136
+76 172 19 19 0 137
+77 178 2 24 0 138
+78 177 2 8 0 139
+79 176 7 37 0 140
+80 175 0 8 0 141
+81 150 15 6 0 142
+82 149 15 0 0 143
+83 158 15 21 0 144
+84 152 2 13 0 145
+85 153 2 13 0 146
+86 154 1 26 0 147
+87 155 2 0 0 148
+88 157 7 6 0 149
+89 151 1 39 0 150
+90 174 1 5 0 151
+
+91 173 5 32 0 152
+92 156 2 12 0 153
+93 171 4 26 0 154
+94 170 20 21 0 155
+95 167 23 1 0 156
+96 159 15 7 0 157
+97 160 14 18 0 158
+17 02 0 159
+98 166
+1 28 0 Gramathana
+99 206 2 5 0 163
+Total 798 4 0
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:-
+
+Survey numbers Malhar Extent
+Acre Gunta Ane
+173 0 05 0
+255 7 05 0
+172 2 22 0
+Total 9 32 0
+Extent
+Survey numbers Lingeri Acre Gunta Ane
+165 0 08 0
+166 1 28 0
+Total 1 36 0
+
+There shall be constituted a new village called Lokalal Nagarin Yadgir taluk,
+Yadgir District and boundaries of the village shall be as specified below:-
+
+Boundaries of the new village Lokalal Nagar
+
+East: Village boundary of Goudagera, West: village boundary of Lingeri,
+Balichakra Kavalur
+North: Village boundary of Jinakera, South: Village boundary of Nagarabanda
+Shettigera
+
+SCHEDULE-3
+The survey numbers of the village and areas remaining in the Lingeri village
+Specified column (2) shall be assigned new survey numbers in the said village
+specified in column (4)
+
+TABLE
+Survey numbers remaining
+New survey numbers
+in Lingeri village after
+assigned to the
+AREA
+excluding the survey
+Sl.No. remaining survey
+numbers which are to be
+numbers in Lingeri
+included to form New
+specified in column (2)
+Acre Gunta Anna
+village Lokalal Nagar
+(1) (2) (3) (4)
+1 1 9 25 0 1
+2 2 6 2 0 2
+3 3 5 18 3
+4 4 14 9 0 4
+5 5 5 18 0 5
+6 6 11 8 0 6
+7 7 14 34 0 7
+8 8 10 27 0 8
+9 9 14 22 0 9
+10 10 14 19 0 10
+11 11 12 26 0 11
+12 12 17 3 0 12
+13 13 9 10 0 13
+14 14 9 13 0 14
+15 15 10 4 0 15
+16 16 3 13 0 16
+17 17 18 34 0 17
+18 18 13 22 0 18
+19 19 10 37 0 19
+20 20 11 35 0 20
+21 21 3 32 0 21
+22 22 20 5 0 22
+23 23 6 3 0 23
+24 24 10 35 0 24
+25 25 12 28 0 25
+26 26 8 9 0 26
+27 27 17 20 0 27
+28 28 15 8 0 28
+29 29 9 10 0 29
+30 30 16 25 0 30
+31 31 6 17 0 31
+32 32/1 3 7 0 32/1
+32/2 3 31 0 32/2
+33 33 13 24 0 33
+
+34 34 2 19 0 34
+35 35 10 3 0 35
+36 36 8 14 0 36
+37 37 7 7 0 37
+38 38 5 39 0 38
+39 39 5 21 0 39
+40 40 5 16 0 40
+41 41 14 24 0 41
+42 42 14 21 0 42
+43 43 6 0 0 43
+44/1 5 25 0 44/1
+44/2 5 31 0 44/2
+45 45 15 3 0 45
+46 46 16 24 0 46
+47 47 15 3 0 47
+48 48 2 31 0 48
+49 49 7 5 0 49
+50 50 15 20 0 50
+51 51 21 31 0 51
+52 52 12 27 0 52
+53 53 8 36 0 53
+54 54 7 37 0 54
+55 55 7 10 0 55
+56/1 3 14 0 56/1
+56/2 4 5 0 56/2
+57 57 7 9 0 57
+58 58 6 9 0 58
+59 59 5 34 0 59
+60 60 6 30 0 60
+61 61 5 27 0 61
+62 62 9 26 0 62
+63 63 5 24 0 63
+64/1 3 5 0 64/1
+64/2 3 9 0 64/2
+65 65 6 15 0 65
+66/1 1 30 0 66/1
+66 66/2 3 12 0 66/2
+66/3 4 14 0 66/3
+67 67 5 34 0 67
+68 68 5 0 0 68
+69 69 7 4 0 69
+70 70 7 12 0 70
+
+71 71 6 18 0 71
+72 72 6 27 0 72
+73 73 6 39 0 73
+74/1 4 13 0 74/1
+74/2 5 14 0 74/2
+75 75 6 30 0 75
+76/1 4 38 0 76/1
+76 76/2 2 27 0 76/2
+76/3 1 26 0 76/3
+77 77 9 33 0 77
+78 78 10 14 0 78
+79 79 2 31 0 79
+80/1 2 25 0 80/1
+80/2 2 7 0 80/2
+80/3 2 14 0 80/3
+80/4 1 36 0 80/4
+81 81 18 20 0 81
+82 82 9 13 0 82
+83 83 5 36 0 83
+84 84 8 3 0 84
+85 85 11 20 0 85
+86 86 5 8 0 86
+87 87 5 0 0 87
+88 88 4 39 0 88
+89 89 5 34 0 89
+90 90 7 17 0 90
+91 91 15 13 0 91
+92 92 17 1 0 92
+93 93 19 8 0 93
+94 94 17 32 0 94
+95 95 16 17 0 95
+96 96 18 0 0 96
+97 97 17 12 0 97
+98 98 14 28 0 98
+99 99 14 21 0 99
+100 100 11 16 0 100
+101 101 11 21 0 101
+102 102 14 15 0 102
+103 103 16 2 0 103
+104 104 18 7 0 104
+105 105 17 3 0 105
+106 106 16 35 0 106
+
+107 107 18 5 0 107
+108 108 6 23 0 108
+109 109 7 32 0 109
+110 110 14 6 0 110
+111 111 9 14 0 111
+112 112 5 38 0 112
+113 113 17 6 0 113
+114 114 6 39 0 114
+115 115 22 3 0 115
+116 116 27 5 0 116
+117 117 0 13 0 117
+118 118 0 6 0 118
+119 119 22 34 0 119
+120 120 8 1 0 120
+121 121 19 8 0 121
+122 122 20 39 0 122
+123 123 0 7 0 123
+124 124 0 9 0 124
+125 125 0 9 0 125
+126 126 1 0 0 126
+127 127 19 19 0 127
+128 128 23 20 0 128
+129 129 12 26 0 129
+130 130 13 24 0 130
+131 131 14 35 0 131
+132 135 17 19 0 132
+133 136 22 39 0 133
+134 137 0 15 0 134
+135 138 13 9 0 135
+136 139 22 10 0 136
+137 134 21 5 0 137
+138 133 17 29 0 138
+139 132 16 32 0 139
+140 241 18 7 0 140
+141 239 13 1 0 141
+142 240 19 16 0 142
+143 243 21 15 0 143
+144 242 17 21 0 144
+145 246 14 1 0 145
+146 245 9 10 0 146
+147 244 13 22 0 147
+148 253 9 19 0 148
+
+149 248 17 6 0 149
+150 247 12 0 0 150
+151 249 6 38 0 151
+152 250 18 15 0 152
+153 251 14 33 0 153
+154 252 16 38 0 154
+155 254 12 24 0 155
+156 255 14 24 0 156
+157 256 12 30 0 157
+158 257 12 18 0 158
+159 258 14 20 0 159
+160 259 12 20 0 160
+161 260 12 25 0 161
+162 261 9 27 0 162
+163 262 4 36 0 163
+164 263 10 3 0 164
+165 264 10 30 0 165
+166 265 16 10 0 166
+167 266 18 16 0 167
+168 267 9 26 0 168
+169 268 11 34 0 169
+170 269 5 32 0 170
+171 270 10 7 0 171
+172 271 7 4 0 172
+272/1 1 28 0 173/1
+272/2 0 39 0 173/2
+272/3 0 39 0 173/3
+272/4 1 0 0 173/4
+273/1 1 1 0 174/1
+273/2 1 1 0 174/2
+175 274 6 12 0 175
+176 275 5 27 0 176
+177 276 5 7 0 177
+277/1 5 21 0 178/1
+277/2 3 15 0 178/2
+179 278 3 6 0 179
+180 279 3 9 0 180
+181 280 4 27 0 181
+182 281 7 20 0 182
+183 282 5 21 0 183
+184 283 9 29 0 184
+185 284 7 28 0 185
+
+186 285 13 36 0 186
+187 286 19 10 0 187
+188 287 12 21 0 188
+189 288 9 19 0 189
+190 289 14 32 0 190
+191 290 18 16 0 191
+192 291 15 5 0 192
+193 292 12 11 0 193
+194 293 1 17 0 194
+195 294 14 14 0 195
+196 295 12 8 0 196
+197 296 11 15 0 197
+198 297 7 3 0 198
+199 298 20 30 0 199
+200 299 12 9 0 200
+201 300/1 4 39 0 201/1
+
+300/2 4 38 0 201/2
+202 301 7 29 0 202
+203 302 10 39 0 203
+204 303 13 18 0 204
+205 304 17 6 0 205
+206 305 10 2 0 206
+207 306/1 3 3 0 207/1
+306/2 7 7 0 207/2
+208 307 7 2 0 208
+209 308 3 7 0 209
+309/1 3 2 0 210/1
+309/2 2 27 0 210/2
+211 310 3 19 0 211
+311/1 3 27 0 212/1
+311/2 4 1 0 212/2
+213 312 9 7 0 213
+214 313 7 2 0 214
+215 314 6 1 0 215
+216 315 7 8 0 216
+217 316 6 5 0 217
+218 317 10 39 0 218
+219 318 5 25 0 219
+220 319 5 18 0 220
+221 320 13 23 0 221
+222 321/1 3 25 0 222/1
+
+Malai 0 25 0 Malai
+321/2 1 13 0 222/2
+Malai 0 10 0 Malai
+321/3 0 15 0 222/3
+321/4 0 14 0 222/4
+223 322 1 11 0 223
+323/1 0 19 0 224/1
+224 323/2 0 21 0 224/2
+323/3 0 29 0 224/3
+225 324 1 11 0 225
+Total 2421 16 0
+
+Boundaries of the village Lingeri
+
+East:NewVillage boundary of Lokalal West: Village boundary of Kavalur ,
+Nagar Bheema River
+North: Village boundary of Kavalur South: Village boundary of Malhar
+
+SCHEDULE-4
+The survey numbers of the village and areas remaining in the Malhar village
+Specified column (2) shall be assigned new survey numbers in the said village
+specified in column (4)
+TABLE
+Survey numbers remaining in New survey numbers
+AREA
+Malhar village after excluding assigned to the
+the survey numbers which are remaining survey
+Sl.No.
+to be included to form New numbers in Malhar
+Acre Gunta Anna
+village Nagarabandi &Lokalal specified in column (2)
+Nagar
+(1) (2) (3) (4)
+1 1 12 26 0 1
+2 2 8 14 0 2
+3 3 8 25 0 3
+4 4 8 24 0 4
+5 5 9 23 0 5
+6 6 6 3 0 6
+7 7 2 10 0 7
+8 8 1 37 0 8
+9 9 0 33 0 9
+10 10 2 3 0 10
+
+11 11 1 13 0 11
+12 12 1 35 0 12
+13 13 1 13 0 13
+14 14 1 31 0 14
+15 15 0 15 0 15
+16 16 1 26 0 16
+17/1 0 21 0 17/1
+17/2 0 18 0 17/2
+18 18 1 35 0 18
+19 19 2 3 0 19
+20 20 0 15 0 20
+21 21 0 12 0 21
+22/1 0 18 0 22/1
+22/2 0 13 0 22/2
+23 23 0 36 0 23
+24 24 0 25 0 24
+25 25 0 33 0 25
+26 26 0 20 0 26
+27 27 0 36 0 27
+28 28 0 36 0 28
+29 29 4 16 0 29
+30 30 9 14 0 30
+31 31 1 14 0 31
+32 32 1 31 0 32
+33 33 0 33 0 33
+34 34 1 4 0 34
+35 35 1 2 0 35
+36 36 1 24 0 36
+37 37 1 31 0 37
+38 38 0 11 0 38
+39 39 1 0 0 39
+40 40 1 38 0 40
+41 41 0 21 0 41
+42 42 0 26 0 42
+43 43 1 3 0 43
+44 44 1 10 0 44
+45 45 4 9 0 45
+
+46 46 1 6 0 46
+47 47 2 11 0 47
+48 48 1 6 0 48
+49 49 7 3 0 49
+50 50 2 11 0 50
+51 51 3 28 0 51
+52 52 2 12 0 52
+53 53 4 36 0 53
+54 54 0 27 0 54
+55 55 0 35 0 55
+56 56 1 23 0 56
+57 57 1 14 0 57
+58 58 0 26 0 58
+59 59 1 4 0 59
+60 60 1 1 0 60
+61 61 1 5 0 61
+62 62 1 7 0 62
+63 63 0 17 0 63
+64 64 1 30 0 64
+65 65 1 11 0 65
+66 66 1 20 0 66
+67 67 0 18 0 67
+68 68 1 18 0 68
+69 69 0 27 0 69
+70 70 0 32 0 70
+71 71 0 25 0 71
+72 72 1 4 0 72
+73 73 1 34 0 73
+74 74 2 13 0 74
+75 75 1 23 0 75
+76 76 1 17 0 76
+77 77 1 13 0 77
+78 78 19 38 0 78
+79 79 26 18 0 79
+80 80 16 30 0 80
+81 81 11 9 0 81
+82 82 10 3 0 82
+
+83 83 10 19 0 83
+84 84 10 9 0 84
+85 85 13 20 0 85
+86 86 1 25 0 86
+87 87 1 25 0 87
+88 88 0 27 0 88
+89 89 2 26 0 89
+90 90 1 36 0 90
+91 91 11 27 0 91
+92 92 0 25 0 92
+93 93 1 6 0 93
+94 94 1 32 0 94
+95 95 1 2 0 95
+96 96 3 20 0 96
+97 97 16 19 0 97
+98 98 14 35 0 98
+99 99 13 27 0 99
+100 100 7 20 0 100
+101 101 17 10 0 101
+102 102 7 29 0 102
+103 103 16 10 0 103
+104 104 13 30 0 104
+105 105 10 24 0 105
+106 106 9 8 0 106
+107 107 4 4 0 107
+108 108 12 17 0 108
+109 109 11 8 0 109
+110 110 7 39 0 110
+111 111 9 10 0 111
+112 112 6 4 0 112
+113 113 6 32 0 113
+114 114 5 33 0 114
+115 115 20 38 0 115
+116 116 8 38 0 116
+117 117 12 9 0 117
+118 118 13 28 0 118
+119 119 9 37 0 119
+
+120 120 14 19 0 120
+121 121 10 36 0 121
+122 122 9 21 0 122
+123 123 9 7 0 123
+124 124 10 38 0 124
+125 125 5 36 0 125
+126 126 7 24 0 126
+127 127 8 16 0 127
+128 128 11 32 0 128
+129 129 17 20 0 129
+130 130 17 11 0 130
+131 131 17 15 0 131
+132 132 19 3 0 132
+133 133 16 18 0 133
+134 134 18 13 0 134
+135 135 13 22 0 135
+136 136 21 39 0 136
+137 137 7 32 0 137
+138 138 12 6 0 138
+139 139 17 10 0 139
+140 140 17 17 0 140
+141 141 18 20 0 141
+142 142 21 18 0 142
+143 143 19 3 0 143
+144 144 14 3 0 144
+145 145 17 31 0 145
+146 146 12 38 0 146
+147 155 18 1 0 147
+148 156 11 5 0 148
+149 154 12 33 0 149
+150 153 19 23 0 150
+151 147 21 30 0 151
+152 148 15 14 0 152
+153 149 19 29 0 153
+154 150 15 36 0 154
+155 152 11 2 0 155
+156 151 18 4 0 156
+
+157 402 10 19 0 157
+158 403 3 1 0 158
+159 401 17 39 0 159
+160 404 6 38 0 160
+161 405 5 8 0 161
+162 406 6 16 0 162
+163 400 6 8 0 163
+164 399 5 15 0 164
+165 398 21 18 0 165
+166 407 17 5 0 166
+167 408 14 38 0 167
+168 409 12 11 0 168
+169 410 9 3 0 169
+170 411 3 34 0 170
+171 412 10 24 0 171
+172 413 4 7 0 172
+173 414 5 6 0 173
+174 415 13 1 0 174
+175 416 12 26 0 175
+176 417 4 21 0 176
+177 418 7 35 0 177
+178 419 9 30 0 178
+179 420 8 2 0 179
+180 421 9 36 0 180
+181 422 15 26 0 181
+182 397 19 31 0 182
+183 396 17 12 0 183
+184 395 16 37 0 184
+185 423 12 15 0 185
+186 426 9 34 0 186
+187 424 3 23 0 187
+188 425 15 15 0 188
+189 427 2 37 0 189
+190 428 12 2 0 190
+191 429 6 4 0 191
+192 430 6 6 0 192
+193 431/1 1 24 0 193/1
+
+431/2 3 22 0 193/2
+431/3 2 38 0 193/3
+194 432 9 19 0 194
+195 461 10 26 0 195
+196 458 12 10 0 196
+197 433 11 32 0 197
+198 434 7 30 0 198
+199 435 10 25 0 199
+200 436 5 13 0 200
+201 437 12 34 0 201
+202 438 13 39 0 202
+203 394 7 38 0 203
+204 393 5 16 0 204
+205 392 21 28 0 205
+206 391 16 10 0 206
+207 387 19 5 0 207
+208 389 14 14 0 208
+209 390 11 27 0 209
+210 440 19 22 0 210
+211 441 21 36 0 211
+212 457 11 11 0 212
+213 456 9 1 0 213
+214 455 17 17 0 214
+215 442 11 11 0 215
+216 381 9 15 0 216
+217 383 14 5 0 217
+218 388 21 12 0 218
+219 384 16 0 0 219
+220 386 21 31 0 220
+221 385 11 31 0 221
+222 373 19 19 0 222
+223 371 7 36 0 223
+224 372 13 7 0 224
+225 375 7 36 0 225
+226 374 7 35 0 226
+227 376 10 23 0 227
+228 377 13 36 0 228
+
+229 378 18 15 0 229
+230 382 10 21 0 230
+231 380 15 26 0 231
+232 379 8 2 0 232
+233 445 7 11 0 233
+234 444 5 25 0 234
+235 443 10 39 0 235
+236 446 4 26 0 236
+237 447 8 26 0 237
+238 448 6 33 0 238
+239 449 21 28 0 239
+240 454 8 21 0 240
+241 459 12 22 0 241
+242 453 22 18 0 242
+243 450 16 36 0 243
+244 451 9 38 0 244
+245 452 11 15 0 245
+246 460 6 9 0 246
+247 463 14 25 0 247
+248 462 13 25 0 248
+249 490 10 20 0 249
+250 489 8 12 0 250
+251 488 8 25 0 251
+252 464 10 19 0 252
+253 465 12 26 0 253
+254 466 12 35 0 254
+255 467 13 16 0 255
+256 487 8 13 0 256
+257 483 9 1 0 257
+258 482 13 12 0 258
+259 468 13 39 0 259
+260 469 6 10 0 260
+261 470 12 37 0 261
+262 481 16 19 0 262
+263 480 12 30 0 263
+264 479 19 25 0 264
+265 471 16 8 0 265
+
+266 472 11 6 0 266
+267 473 14 27 0 267
+268 474 19 7 0 268
+269 475 9 1 0 269
+270 478 19 39 0 270
+271 477 5 36 0 271
+272 476 10 36 0 272
+273 485 7 31 0 273
+274 484 13 3 0 274
+275 486 14 22 0 275
+276 491 2 1 0 276
+277 492 1 29 0 277
+278 493 7 1 0 278
+279 494 1 17 0 279
+280 495 0 30 0 280
+281 496 0 32 0 281
+282 497 0 29 0 282
+283 498 0 30 0 283
+284 499 0 32 0 284
+285 500 0 37 0 285
+286 501 0 32 0 286
+287 502 1 7 0 287
+288 439 8 35 0 288
+Total 2546 12 0
+
+Boundaries of the village Malhar
+East:Village boundary of West: Bheema River
+Nagarabanda
+North: Village boundary of Lingeri South:Village boundary of Sangavaar
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+(1) (2) (3) (4)
+14 25 0 1
+1 243
+0 2 244
+7 29 2
+
+3 241 9 19 0 3
+4 240 7 10 0 4
+5 226 8 25 0 5
+6 227 8 7 0 6
+7 239 6 20 0 7
+8 229 13 9 0 8
+9 232 17 10 0 9
+10 233 10 8 0 10
+11 236 8 34 0 11
+12 237 9 13 0 12
+12 34 0 13
+13 238
+18 28 0 14
+14 245
+15 247 3 35 0 15
+16 246 7 11 0 16
+17 299 16 36 0 17
+18 300 19 7 0 18
+19 235 21 2 0 19
+20 234 21 24 0 20
+21 301 19 27 0 21
+22 302 20 13 0 22
+23 303 19 22 0 23
+24 304 8 32 0 24
+25 305 9 27 0 25
+26 298 17 12 0 26
+27 297 17 9 0 27
+28 295 18 18 0 28
+29 294 17 21 0 29
+30 296 17 10 0 30
+31 311 14 30 0 31
+32 312 22 4 0 32
+33 310 7 19 0 33
+34 309 13 5 0 34
+35 306 19 39 0 35
+36 307 16 8 0 36
+37 308 15 39 0 37
+38 324 17 4 0 38
+
+39 323 13 24 0 39
+40 322 8 24 0 40
+41 313 12 19 0 41
+42 314 13 3 0 42
+43 321 10 5 0 43
+44 327 16 25 0 44
+45 326 11 8 0 45
+46 325 16 16 0 46
+47 328 18 30 0 47
+48 329 7 0 0 48
+49 330 18 37 0 49
+50 320 13 32 0 50
+51 319 18 3 0 51
+52 331 13 30 0 52
+53 332 20 11 0 53
+54 333 14 9 0 54
+55 334 16 31 0 55
+56 345 18 1 0 56
+57 344 7 17 0 57
+58 346 20 28 0 58
+59 347 15 26 0 59
+60 349 13 31 0 60
+61 348 18 17 0 61
+62 355 7 37 0 62
+63 354 15 24 0 63
+64 356 19 20 0 64
+65 364 22 15 0 65
+66 363 14 5 0 66
+67 365 12 16 0 67
+68 366 13 4 0 68
+69 367 14 34 0 69
+70 362 14 25 0 70
+71 368 21 37 0 71
+72 369 19 35 0 72
+73 370 12 9 0 73
+74 361 13 5 0 74
+75 360 20 8 0 75
+76 359 12 24 0 76
+77 357 18 36 0 77
+
+78 358 12 35 0 78
+79 353 12 21 0 79
+80 351 21 2 0 80
+81 352 11 29 0 81
+82 350 18 12 0 82
+83 343 19 33 0 83
+84 342 11 4 0 84
+85 341 13 7 0 85
+86 340 21 12 0 86
+87 335 12 2 0 87
+88 336 7 27 0 88
+89 339 6 16 0 89
+90 337 11 14 0 90
+91 338 10 11 0 91
+92 318 9 23 0 92
+93 317 12 35 0 93
+94 316 9 2 0 94
+95 285 20 1 0 95
+96 315 20 38 0 96
+97 291 19 26 0 97
+98 292 21 14 0 98
+99 293 8 25 0 99
+100 268 6 34 0 100
+101 290 12 35 0 101
+102 288 5 14 0 102
+103 289 17 11 0 103
+104 283 17 30 0 104
+105 287 11 19 0 105
+106 286 16 35 0 106
+107 284 24 27 0 107
+108 281 10 26 0 108
+109 280 8 32 0 109
+110 282 19 13 0 110
+111 272 18 9 0 111
+112 271 17 17 0 112
+113 269 8 36 0 113
+114 270 16 32 0 114
+115 273 20 25 0 115
+116 274 20 17 0 116
+
+117 279 12 13 0 117
+118 278 16 36 0 118
+119 277 4 31 0 119
+120 275 12 7 0 120
+121 276 10 28 0 121
+122 157 13 8 0 122
+123 158 16 1 0 123
+124 159 23 23 0 124
+125 160 16 24 0 125
+126 161 16 37 0 126
+127 162 11 26 0 127
+128 163 17 23 0 128
+129 166 19 1 0 129
+130 165 10 6 0 130
+131 164 10 16 0 131
+132 262 22 10 0 132
+133 263 20 24 0 133
+134 261 12 11 0 134
+135 259 11 3 0 135
+136 258 16 28 0 136
+137 257 19 28 0 137
+138 260 15 19 0 138
+139 254 10 25 0 139
+140 264 11 19 0 140
+141 252 21 33 0 141
+142 253 21 16 0 142
+143 251 7 4 0 143
+144 250 10 39 0 144
+145 266 15 30 0 145
+146 265 14 36 0 146
+147 267 15 34 0 147
+15 04 0 148
+148 249
+10 18 0 149
+149 242
+
+:-
+
+243 0 32 0
+244 0 19 0
+238 0 15 0
+245 0 30 0
+249 1 03 0
+242 0 13 0
+248 20 16 0
+
+(1) (2) (3) (4)
+19 31 0 1
+1 173
+2 174 13 33 5
+3 176 16 27 0 6
+4 175 18 12 0 7
+5 183 19 23 0 10
+
+6 182 17 20 0 11
+7 184 8 18 0 12
+8 185 11 36 0 13
+9 186 9 34 0 14
+10 187 17 20 0 15
+11 188 20 35 0 16
+12 189 19 12 0 17
+13 190 9 20 0 18
+14 191 14 32 0 19
+15 192 19 39 0 20
+16 193 20 24 0 21
+17 194 10 30 0 22
+18 195 11 10 0 23
+19 196 13 25 0 24
+20 197 13 2 0 25
+21 198 10 39 0 26
+22 199 12 10 0 27
+23 200 12 28 0 28
+24 201 18 36 0 29
+25 202 10 15 0 30
+26 203 13 33 0 31
+27 204 13 23 0 32
+28 205 20 19 0 33
+29 180 9 11 0 34
+30 181 20 15 0 35
+31 179 18 24 0 36
+32 177 13 8 0 37
+33 178 10 19 0 38
+34 210 17 14 0 39
+35 206 13 18 0 40
+36 207 15 8 0 41
+37 208 22 8 0 42
+38 209 19 38 0 43
+39 217 14 32 0 44
+40 211 17 34 0 45
+41 212 15 11 0 46
+42 213 16 22 0 47
+43 214 12 1 0 48
+44 215 8 10 0 49
+
+45 216 13 11 0 50
+46 221 14 33 0 51
+47 218 11 11 0 52
+48 219 13 0 0 53
+49 220 15 24 0 54
+50 231 9 36 0 55
+51 230 14 26 0 56
+52 222 18 39 0 57
+53 228 14 0 0 58
+54 223 14 14 0 59
+55 224 12 26 0 60
+56 225 17 15 0 61
+205 20 0 62
+57 255
+58 256 18 39 0 63
+59 168 16 15 0 64
+60 169 20 27 0 65
+61 167 19 3 0 66
+62 170 17 17 0 161
+63 171 12 21 0 160
+15 00 0 162
+64 172
+23 14 0 2
+1 165
+2 161 21 14 0 3
+3 164 14 15 0 4
+4 162 15 6 0 8
+5 163 8 29 0 9
+6 168 15 19 0 67
+7 169 18 10 0 68
+8 234 18 22 0 69
+9 235 9 14 0 70
+10 236 19 19 0 71
+11 233 17 19 0 72
+12 232 22 4 0 73
+13 237 18 3 0 74
+14 238 14 36 0 75
+
+15 223 16 9 0 76
+16 224 16 32 0 77
+17 231 14 7 0 78
+18 230 1 12 0 79
+19 225 0 8 0 80
+20 226 8 36 0 81
+21 229 2 11 0 82
+22 228 1 9 0 83
+23 227 1 23 0 84
+24 219 1 14 0 85
+25 220 1 29 0 86
+26 221 1 20 0 87
+27 222 12 19 0 88
+28 218 18 8 0 89
+29 217 8 8 0 90
+30 216 1 7 0 91
+31 215 1 20 0 92
+32 214 1 38 0 93
+33 213 1 2 0 94
+34 212 2 15 0 95
+35 211 1 5 0 96
+210/1 1 29 0 97/1
+210/2 6 17 0 97/2
+209/1 2 26 0 98/1
+209/2 2 26 0 98/2
+209/3 2 19 0 98/3
+209/4 2 0 0 98/4
+207/1 0 4 0 99/1
+207/2 0 6 0 99/2
+207/3 0 11 0 99/3
+207/4 0 4 0 99/4
+39 208 0 6 0 100
+40 140 20 1 0 101
+41 205 2 4 0 102
+42 204 0 35 0 103
+43 203 1 30 0 104
+44 141 0 9 0 105
+45 142 6 4 0 106
+46 143 11 24 0 107
+
+47 144 19 6 0 108
+48 202 2 15 0 109
+49 201 1 8 0 110
+50 200 1 16 0 111
+51 196 2 7 0 112
+52 195 2 2 0 113
+53 194 2 5 0 114
+54 197 0 37 0 115
+55 199 2 24 0 116
+56 198 12 10 0 117
+57 145 13 34 0 118
+58 146 15 24 0 119
+59 148 14 35 0 120
+60 147 14 35 0 121
+61 179 20 5 0 122
+62 181 0 26 0 123
+63 193 0 24 0 124
+64 191 1 20 0 125
+65 190 1 32 0 126
+66 188 1 38 0 127
+67 187 10 16 0 128
+68 186 9 36 0 129
+69 189 1 22 0 130
+70 192 2 1 0 131
+71 183 1 5 0 132
+72 182 0 34 0 133
+73 180 0 19 0 134
+74 184 2 9 0 135
+75 185 20 23 0 136
+76 172 19 19 0 137
+77 178 2 24 0 138
+78 177 2 8 0 139
+79 176 7 37 0 140
+80 175 0 8 0 141
+81 150 15 6 0 142
+82 149 15 0 0 143
+83 158 15 21 0 144
+84 152 2 13 0 145
+85 153 2 13 0 146
+
+86 154 1 26 0 147
+87 155 2 0 0 148
+88 157 7 6 0 149
+89 151 1 39 0 150
+90 174 1 5 0 151
+91 173 5 32 0 152
+92 156 2 12 0 153
+93 171 4 26 0 154
+94 170 20 21 0 155
+95 167 23 1 0 156
+96 159 15 7 0 157
+97 160 14 18 0 158
+17 02 0 159
+98 166
+99 206 2 5 0 163
+
+173 0 05 0
+255 7 05 0
+172 2 22 0
+165 0 08 0
+166 1 28 0
+
+(1) (2) (3) (4)
+1 1 9 25 0 1
+2 2 6 2 0 2
+3 3 5 18 0 3
+4 4 14 9 0 4
+5 5 5 18 0 5
+6 6 11 8 0 6
+7 7 14 34 0 7
+8 8 10 27 0 8
+9 9 14 22 0 9
+10 10 14 19 0 10
+11 11 12 26 0 11
+12 12 17 3 0 12
+13 13 9 10 0 13
+14 14 9 13 0 14
+15 15 10 4 0 15
+16 16 3 13 0 16
+17 17 18 34 0 17
+18 18 13 22 0 18
+19 19 10 37 0 19
+20 20 11 35 0 20
+21 21 3 32 0 21
+22 22 20 5 0 22
+23 23 6 3 0 23
+24 24 10 35 0 24
+25 25 12 28 0 25
+26 26 8 9 0 26
+27 27 17 20 0 27
+28 28 15 8 0 28
+
+29 29 9 10 0 29
+30 30 16 25 0 30
+31 31 6 17 0 31
+32 32/1 3 7 0 32/1
+32/2 3 31 0 32/2
+33 33 13 24 0 33
+34 34 2 19 0 34
+35 35 10 3 35
+36 36 8 14 0 36
+37 37 7 7 0 37
+38 38 5 39 0 38
+39 39 5 21 0 39
+40 40 5 16 0 40
+41 41 14 24 0 41
+42 42 14 21 0 42
+43 43 6 0 0 43
+44/1 5 25 0 44/1
+44/2 5 31 0 44/2
+45 45 15 3 0 45
+46 46 16 24 0 46
+47 47 15 3 0 47
+48 48 2 31 0 48
+49 49 7 5 0 49
+50 50 15 20 0 50
+51 51 21 31 0 51
+52 52 12 27 0 52
+53 53 8 36 0 53
+54 54 7 37 0 54
+55 55 7 10 0 55
+56/1 3 14 0 56/1
+56/2 4 5 0 56/2
+57 57 7 9 0 57
+58 58 6 9 0 58
+59 59 5 34 0 59
+60 60 6 30 0 60
+61 61 5 27 0 61
+62 62 9 26 0 62
+63 63 5 24 0 63
+64 64/1 3 5 0 64/1
+
+64/2 3 9 0 64/2
+65 65 6 15 0 65
+66/1 1 30 0 66/1
+66 66/2 3 12 0 66/2
+66/3 4 14 0 66/3
+67 67 5 34 0 67
+68 68 5 0 0 68
+69 69 7 4 0 69
+70 70 7 12 0 70
+71 71 6 18 0 71
+72 72 6 27 0 72
+73 73 6 39 0 73
+74/1 4 13 0 74/1
+74/2 5 14 0 74/2
+75 75 6 30 0 75
+76/1 4 38 0 76/1
+76 76/2 2 27 0 76/2
+76/3 1 26 0 76/3
+77 77 9 33 0 77
+78 78 10 14 0 78
+79 79 2 31 0 79
+80/1 2 25 0 80/1
+80/2 2 7 0 80/2
+80/3 2 14 0 80/3
+80/4 1 36 0 80/4
+81 81 18 20 0 81
+82 82 9 13 0 82
+83 83 5 36 0 83
+84 84 8 3 0 84
+85 85 11 20 0 85
+86 86 5 8 0 86
+87 87 5 0 0 87
+88 88 4 39 0 88
+89 89 5 34 0 89
+90 90 7 17 0 90
+91 91 15 13 0 91
+92 92 17 1 0 92
+93 93 19 8 0 93
+94 94 17 32 0 94
+
+95 95 16 17 0 95
+96 96 18 0 0 96
+97 97 17 12 0 97
+98 98 14 28 0 98
+99 99 14 21 0 99
+100 100 11 16 0 100
+101 101 11 21 0 101
+102 102 14 15 0 102
+103 103 16 2 0 103
+104 104 18 7 0 104
+105 105 17 3 0 105
+106 106 16 35 0 106
+107 107 18 5 0 107
+108 108 6 23 0 108
+109 109 7 32 0 109
+110 110 14 6 0 110
+111 111 9 14 0 111
+112 112 5 38 0 112
+113 113 17 6 0 113
+114 114 6 39 0 114
+115 115 22 3 0 115
+116 116 27 5 0 116
+117 117 0 13 0 117
+118 118 0 6 0 118
+119 119 22 34 0 119
+120 120 8 1 0 120
+121 121 19 8 0 121
+122 122 20 39 0 122
+123 123 0 7 0 123
+124 124 0 9 0 124
+125 125 0 9 0 125
+126 126 1 0 0 126
+127 127 19 19 0 127
+128 128 23 20 0 128
+129 129 12 26 0 129
+130 130 13 24 0 130
+131 131 14 35 0 131
+132 135 17 19 0 132
+133 136 22 39 0 133
+
+134 137 0 15 0 134
+135 138 13 9 0 135
+136 139 22 10 0 136
+137 134 21 5 0 137
+138 133 17 29 0 138
+139 132 16 32 0 139
+140 241 18 7 0 140
+141 239 13 1 0 141
+142 240 19 16 0 142
+143 243 21 15 0 143
+144 242 17 21 0 144
+145 246 14 1 0 145
+146 245 9 10 0 146
+147 244 13 22 0 147
+148 253 9 19 0 148
+149 248 17 6 0 149
+150 247 12 0 0 150
+151 249 6 38 0 151
+152 250 18 15 0 152
+153 251 14 33 0 153
+154 252 16 38 0 154
+155 254 12 24 0 155
+156 255 14 24 0 156
+157 256 12 30 0 157
+158 257 12 18 0 158
+159 258 14 20 0 159
+160 259 12 20 0 160
+161 260 12 25 0 161
+162 261 9 27 0 162
+163 262 4 36 0 163
+164 263 10 3 0 164
+165 264 10 30 0 165
+166 265 16 10 0 166
+167 266 18 16 0 167
+168 267 9 26 0 168
+169 268 11 34 0 169
+170 269 5 32 0 170
+171 270 10 7 0 171
+172 271 7 4 0 172
+
+272/1 1 28 0 173/1
+272/2 0 39 0 173/2
+272/3 0 39 0 173/3
+272/4 1 0 0 173/4
+273/1 1 1 0 174/1
+273/2 1 1 0 174/2
+175 274 6 12 0 175
+176 275 5 27 0 176
+177 276 5 7 0 177
+277/1 5 21 0 178/1
+277/2 3 15 0 178/2
+179 278 3 6 0 179
+180 279 3 9 0 180
+181 280 4 27 0 181
+182 281 7 20 0 182
+183 282 5 21 0 183
+184 283 9 29 0 184
+185 284 7 28 0 185
+186 285 13 36 0 186
+187 286 19 10 0 187
+188 287 12 21 0 188
+189 288 9 19 0 189
+190 289 14 32 0 190
+191 290 18 16 0 191
+192 291 15 5 0 192
+193 292 12 11 0 193
+194 293 1 17 0 194
+195 294 14 14 0 195
+196 295 12 8 0 196
+197 296 11 15 0 197
+198 297 7 3 0 198
+199 298 20 30 0 199
+200 299 12 9 0 200
+201 300/1 4 39 0 201/1
+300/2 4 38 201/2
+201 301 7 29 0 202
+202 302 10 39 0 203
+203 303 13 18 0 204
+204 304 17 6 0 205
+
+205 305 10 2 0 206
+206 306/1 3 3 0 207/1
+306/2 7 7 0 207/2
+208 307 7 2 0 208
+209 308 3 7 0 209
+309/1 3 2 0 210/1
+309/2 2 27 0 210/2
+211 310 3 19 0 211
+311/1 3 27 0 212/1
+311/2 4 1 0 212/2
+213 312 9 7 0 213
+214 313 7 2 0 214
+215 314 6 1 0 215
+216 315 7 8 0 216
+217 316 6 5 0 217
+218 317 10 39 0 218
+219 318 5 25 0 219
+220 319 5 18 0 220
+221 320 13 23 0 221
+321/1 3 25 0 222/1
+321/2 1 13 0 222/2
+321/3 0 15 0 222/3
+321/4 0 14 0 222/4
+223 322 1 11 0 223
+323/1 0 19 0 224/1
+224 323/2 0 21 0 224/2
+323/3 0 29 0 224/3
+225 324 1 11 0 225
+
+(1) (2) (3) (4)
+1 1 12 26 0 1
+2 2 8 14 0 2
+3 3 8 25 3
+4 4 8 24 0 4
+5 5 9 23 0 5
+6 6 6 3 0 6
+7 7 2 10 0 7
+8 8 1 37 0 8
+9 9 0 33 9
+10 10 2 3 0 10
+11 11 1 13 0 11
+12 12 1 35 0 12
+13 13 1 13 0 13
+14 14 1 31 0 14
+15 15 0 15 15
+16 16 1 26 0 16
+17/1 0 21 0 17/1
+17/2 0 18 0 17/2
+18 18 1 35 0 18
+19 19 2 3 0 19
+20 20 0 15 0 20
+21 21 0 12 0 21
+22/1 0 18 0 22/1
+22/2 0 13 0 22/2
+23 23 0 36 0 23
+24 24 0 25 0 24
+25 25 0 33 0 25
+26 26 0 20 0 26
+27 27 0 36 0 27
+
+28 28 0 36 28
+29 29 4 16 0 29
+30 30 9 14 0 30
+31 31 1 14 0 31
+32 32 1 31 0 32
+33 33 0 33 0 33
+34 34 1 4 34
+35 35 1 2 0 35
+36 36 1 24 0 36
+37 37 1 31 0 37
+38 38 0 11 0 38
+39 39 1 0 0 39
+40 40 1 38 0 40
+41 41 0 21 0 41
+42 42 0 26 0 42
+43 43 1 3 0 43
+44 44 1 10 0 44
+45 45 4 9 0 45
+46 46 1 6 0 46
+47 47 2 11 0 47
+48 48 1 6 0 48
+49 49 7 3 0 49
+50 50 2 11 0 50
+51 51 3 28 0 51
+52 52 2 12 0 52
+53 53 4 36 0 53
+54 54 0 27 0 54
+55 55 0 35 0 55
+56 56 1 23 0 56
+57 57 1 14 0 57
+58 58 0 26 0 58
+59 59 1 4 0 59
+60 60 1 1 0 60
+61 61 1 5 0 61
+62 62 1 7 0 62
+63 63 0 17 0 63
+64 64 1 30 0 64
+65 65 1 11 0 65
+
+66 66 1 20 0 66
+67 67 0 18 0 67
+68 68 1 18 0 68
+69 69 0 27 0 69
+70 70 0 32 0 70
+71 71 0 25 0 71
+72 72 1 4 0 72
+73 73 1 34 0 73
+74 74 2 13 0 74
+75 75 1 23 0 75
+76 76 1 17 0 76
+77 77 1 13 0 77
+78 78 19 38 0 78
+79 79 26 18 0 79
+80 80 16 30 0 80
+81 81 11 9 0 81
+82 82 10 3 0 82
+83 83 10 19 0 83
+84 84 10 9 0 84
+85 85 13 20 0 85
+86 86 1 25 0 86
+87 87 1 25 0 87
+88 88 0 27 0 88
+89 89 2 26 0 89
+90 90 1 36 0 90
+91 91 11 27 0 91
+92 92 0 25 0 92
+93 93 1 6 0 93
+94 94 1 32 0 94
+95 95 1 2 0 95
+96 96 3 20 0 96
+97 97 16 19 0 97
+98 98 14 35 0 98
+99 99 13 27 0 99
+100 100 7 20 0 100
+101 101 17 10 0 101
+102 102 7 29 0 102
+103 103 16 10 0 103
+104 104 13 30 0 104
+
+105 105 10 24 0 105
+106 106 9 8 0 106
+107 107 4 4 0 107
+108 108 12 17 0 108
+109 109 11 8 0 109
+110 110 7 39 0 110
+111 111 9 10 0 111
+112 112 6 4 0 112
+113 113 6 32 0 113
+114 114 5 33 0 114
+115 115 20 38 0 115
+116 116 8 38 0 116
+117 117 12 9 0 117
+118 118 13 28 0 118
+119 119 9 37 0 119
+120 120 14 19 0 120
+121 121 10 36 0 121
+122 122 9 21 0 122
+123 123 9 7 0 123
+124 124 10 38 0 124
+125 125 5 36 0 125
+126 126 7 24 0 126
+127 127 8 16 0 127
+128 128 11 32 0 128
+129 129 17 20 0 129
+130 130 17 11 0 130
+131 131 17 15 0 131
+132 132 19 3 0 132
+133 133 16 18 0 133
+134 134 18 13 0 134
+135 135 13 22 0 135
+136 136 21 39 0 136
+137 137 7 32 0 137
+138 138 12 6 0 138
+139 139 17 10 0 139
+140 140 17 17 0 140
+141 141 18 20 0 141
+142 142 21 18 0 142
+143 143 19 3 0 143
+
+144 144 14 3 0 144
+145 145 17 31 0 145
+146 146 12 38 0 146
+147 155 18 1 0 147
+148 156 11 5 0 148
+149 154 12 33 0 149
+150 153 19 23 0 150
+151 147 21 30 0 151
+152 148 15 14 0 152
+153 149 19 29 0 153
+154 150 15 36 0 154
+155 152 11 2 0 155
+156 151 18 4 0 156
+157 402 10 19 0 157
+158 403 3 1 0 158
+159 401 17 39 0 159
+160 404 6 38 0 160
+161 405 5 8 0 161
+162 406 6 16 0 162
+163 400 6 8 0 163
+164 399 5 15 0 164
+165 398 21 18 0 165
+166 407 17 5 0 166
+167 408 14 38 0 167
+168 409 12 11 0 168
+169 410 9 3 0 169
+170 411 3 34 0 170
+171 412 10 24 0 171
+172 413 4 7 0 172
+173 414 5 6 0 173
+174 415 13 1 0 174
+175 416 12 26 0 175
+176 417 4 21 0 176
+177 418 7 35 0 177
+178 419 9 30 0 178
+179 420 8 2 0 179
+180 421 9 36 0 180
+181 422 15 26 0 181
+182 397 19 31 0 182
+
+183 396 17 12 0 183
+184 395 16 37 0 184
+185 323 13 24 0 185
+186 426 9 34 0 186
+187 424 3 23 0 187
+188 425 15 15 0 188
+189 427 2 37 0 189
+190 428 12 2 0 190
+191 429 6 4 0 191
+192 430 6 6 0 192
+431/1 1 24 0 193/1
+193 431/2 3 22 0 193/2
+431/3 2 38 0 193/3
+194 432 9 19 0 194
+195 461 10 26 0 195
+196 458 12 10 0 196
+197 433 11 32 0 197
+198 434 7 30 0 198
+199 435 10 25 0 199
+200 436 5 13 0 200
+201 437 12 34 0 201
+202 438 13 39 0 202
+203 394 7 38 0 203
+204 393 5 16 0 204
+205 392 21 28 0 205
+206 391 16 10 0 206
+207 387 19 5 0 207
+208 389 14 14 0 208
+209 390 11 27 0 209
+210 440 19 22 0 210
+211 441 21 36 0 211
+212 457 11 11 0 212
+213 456 9 1 0 213
+214 455 17 17 0 214
+215 442 11 11 0 215
+216 381 9 15 0 216
+217 383 14 5 0 217
+218 388 21 12 0 218
+219 384 16 0 0 219
+
+220 386 21 31 0 220
+221 385 11 31 0 221
+222 373 19 19 0 222
+223 371 7 36 0 223
+224 372 13 7 0 224
+225 375 7 36 0 225
+226 374 7 35 0 226
+227 376 10 23 0 227
+228 377 13 36 0 228
+229 378 18 15 0 229
+230 382 10 21 0 230
+231 380 15 26 0 231
+232 379 8 2 0 232
+233 445 7 11 0 233
+234 444 5 25 0 234
+235 443 10 39 0 235
+236 446 4 26 0 236
+237 447 8 26 0 237
+238 448 6 33 0 238
+239 449 21 28 0 239
+240 454 8 21 0 240
+241 459 12 22 0 241
+242 453 22 18 0 242
+243 450 16 36 0 243
+244 451 9 38 0 244
+245 452 11 15 0 245
+246 460 6 9 0 246
+247 463 14 25 0 247
+248 462 13 25 0 248
+249 490 10 20 0 249
+250 489 8 12 0 250
+251 488 8 25 0 251
+252 464 10 19 0 252
+253 465 12 26 0 253
+254 466 12 35 0 254
+255 467 13 16 0 255
+256 487 8 13 0 256
+257 483 9 1 0 257
+258 482 13 12 0 258
+
+259 468 13 39 0 259
+260 469 6 10 0 260
+261 470 12 37 0 261
+262 481 16 19 0 262
+263 480 12 30 0 263
+264 479 19 25 0 264
+265 471 16 8 0 265
+266 472 11 6 0 266
+267 473 14 27 0 267
+268 474 19 7 0 268
+269 475 9 1 0 269
+270 478 19 39 0 270
+271 477 5 36 0 271
+272 476 10 36 0 272
+273 485 7 31 0 273
+274 484 13 3 0 274
+275 486 14 22 0 275
+276 491 2 1 0 276
+277 492 1 29 0 277
+278 493 7 1 0 278
+279 494 1 17 0 279
+280 495 0 30 0 280
+281 496 0 32 0 281
+282 497 0 29 0 282
+283 498 0 30 0 283
+284 499 0 32 0 284
+285 500 0 37 0 285
+286 501 0 32 0 286
+287 502 1 7 0 287
+288 439 8 35 0 288
+
+PR-173
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/184/2023-RC Karnataka Government Secretariat
+E- 1279272 Multi Storied Building
+Bengaluru-560 001
+Date:02-01-2024.
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RD 404 PFH 2022 Dated:04-01-2023
+regarding altering the limits of Rastapur village of Shahapur Taluk and Yadgir
+District and constituting a new revenue village called Golagera was published as
+required by section 6 of the Karnataka Land Revenue Act, 1964 (Karnataka act No.12
+of 1964) in the Karnataka Gazette No. Part IV-A Dated:09.01.2023 inviting objections
+or suggestions from all the persons likely to be affected thereby within thirty days
+from the date of its publication in the Official Gazette.
+And whereas, the said gazette was made available to the public on
+Dated: 22-10-2023 And whereas, objections and suggestions have been received and
+considered by the State Government;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village Rastapur of Shahapur Taluk in Yadgir District to form a new revenue village
+called as Golagera of Shahapur Taluk, Yadgir District along with the survey
+numbers included in column (4) thereof.
+
+TABLE-1
+Survey numbers
+Old Survey
+Extent of areas Transferred
+specified in column
+Numbers Which
+to new village Golagera
+(2) which are to be
+are excluded from
+included to form
+Rastapur village
+Sl new village
+to Constituting
+No Golagera and new
+Acre Gunta Anna
+new Village
+survey numbers
+Golagera
+assigned to them
+(1) (2) (3) (4)
+EXCLUDED FROM RASTAPUR
+19 33 00 1
+1 316
+1 20 00 GRAMATANA
+2 322 7 34 00 2
+3 321 11 12 00 3
+4 319 9 5 00 4
+5 317 16 32 00 5
+6 318 12 39 00 6
+7 320 5 8 00 7
+8 20 11 11 00 8
+9 28 16 18 00 9
+10 21 32 33 00 10
+11 22 32 34 00 11
+12 23 28 8 00 12
+13 24 17 5 00 13
+14 25 23 16 00 14
+15 27 19 4 00 15
+16 26 16 34 00 16
+17 32 30 35 00 17
+18 33 21 39 00 18
+19 34 26 39 00 19
+20 56 27 28 00 20
+21 57 11 18 00 21
+22 58 10 7 00 22
+23 59 28 12 00 23
+24 60 22 8 00 24
+25 61 8 25 00 25
+26 62 33 8 00 26
+27 69 20 18 00 27
+28 70 27 2 00 28
+29 71 28 35 00 29
+
+30 72/1 7 28 00 30/1
+31 72/2 15 7 00 30/2
+32 55/1 0 25 00 31/1
+33 55/2 22 24 00 31/2
+34 74 21 32 00 32
+35 54 29 2 00 33
+36 52 18 8 00 34
+37 53 10 34 00 35
+38 35 25 38 00 36
+39 50 22 9 00 37
+40 49 19 22 00 38
+41 36 34 7 00 39
+42 37 22 7 00 40
+43 31 21 29 00 41
+44 30/1 1 22 00 42/1
+45 30/2 15 0 00 42/28/
+46 29 11 27 00 43
+47 19 20 9 00 44
+48 18 5 37 00 45
+49 17 20 19 00 46
+50 38 1 13 00 47
+51 39 17 16 00 48
+52 40 15 24 00 49
+53 48 21 13 00 50
+54 51 34 11 00 51
+55 75 11 19 00 52
+56 76 10 6 00 53
+57 47 33 23 00 54
+58 43/1 1 38 00 55/1
+59 43/2 15 0 00 55/2
+60 44/1 3 0 00 56/1
+61 44/2 13 1 00 56/2
+62 5 10 6 00 57
+63 6 8 26 00 58
+64 42 6 27 00 59
+65 41 5 14 00 60
+66 7 31 39 00 61
+67 10/1 3 12 00 62/1
+68 10/2 5 2 00 62/2
+69 10/3 0 10 00 62/3
+70 10/4 1 4 00 62/4
+71 11 12 38 00 63
+
+72 12 18 2 00 64
+73 13 12 26 00 65
+74 16 6 1 00 66
+75 14 12 17 00 67
+76 15 12 37 00 68
+77 345 9 22 00 69
+78 344/1 0 33 00 70/1
+79 344/2 9 5 00 70/2
+80 343 8 9 00 71
+81 342 13 25 00 72
+82 341/1 5 0 00 73/1
+83 341/2 6 27 00 73/2
+84 346 11 29 00 74
+85 349 17 28 00 75
+86 337 14 35 00 76
+87 338 20 24 00 77
+88 339 8 1 00 78
+89 340 7 21 00 79
+90 333/1 3 35 00 80/1
+91 333/2 7 15 00 80/2
+92 332 7 18 00 81
+93 331 6 18 00 82
+94 330 11 34 00 83
+95 334 10 34 00 84
+96 335 4 16 00 85
+97 336 15 12 00 86
+98 281 13 21 00 87
+99 280/1 1 5 00 88/1
+100 280/2 19 13 00 88/2
+101 350 11 13 00 89
+102 351/1 3 5 00 90/1
+103 351/2 12 19 00 90/2
+104 351/3 1 14 00 90/3
+279/1 14 25 00 91/1
+105 279/2 22 33 00 91/2
+106 271 11 14 00 92
+107 272 12 32 00 93
+108 270 22 38 00 94
+109 275 7 39 00 95
+110 276 5 19 00 96
+111 274 15 7 00 97
+112 273 7 32 00 98
+
+113 277 14 21 00 99
+114 278 15 23 00 100
+115 282 28 38 00 101
+116 303 18 23 00 102
+117 304 9 4 00 103
+118 306/1 2 0 00 104/1
+119 306/2 9 6 00 104/2
+120 307 17 39 00 105
+121 302/1 17 34 00 106/1
+122 302/2 0 5 00 106/2
+123 283 8 8 00 107
+124 284 8 27 00 108
+125 285 25 21 00 109
+126 286 9 36 00 110
+127 356 5 26 00 111
+128 287 85 6 00 112
+129 301 16 11 00 113
+130 300 25 37 00 114
+131 299 10 12 00 115
+132 298/1 3 12 00 116/1
+133 298/2 4 33 00 116/2
+134 298/3 1 11 00 116/3
+135 297 13 34 00 117
+136 295 21 9 00 118
+137 296 19 18 00 119
+138 288 24 13 00 120
+139 289/1 4 27 00 121/1
+140 289/2 5 20 00 121/2
+141 290 7 30 00 122
+142 291 11 2 00 123
+143 292 16 30 00 124
+144 294 23 20 00 125
+145 293 13 0 00 126
+146 354 3 5 00 127
+147 308 409 11 00 128
+148 355 4 14 00 129
+149 309/1 4 20 00 130/1
+150 309/2 6 20 00 130/2
+151 310 22 7 00 131
+152 311/1 5 30 00 132/1
+153 311/2 3 24 00 132/2
+154 312 6 14 00 133
+
+155 313 7 9 00 134
+156 326/1 31 24 00 135/1
+157 326/2 11 10 00 135/2
+158 327 9 38 00 136
+159 305 29 33 00 137
+160 328 15 4 00 138
+161 329 14 4 00 139
+162 325 14 13 00 140
+163 323 12 36 00 141
+164 324 8 6 00 142
+165 314 12 28 00 143
+315 25 13 00 144
+5 20 00 GRAMATANA
+TOTAL 2800 20 00
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:-
+Survey Number Extent
+Acre Gunte
+316 1 20
+315 5 20
+Total 7 00
+
+There shall be constituted a new village called Golagera in Shahapur Taluk,
+Yadagiri District and boundaries of the village shall be as specified below
+
+Boundaries of the new Village Golagera
+East: Tippanahalli Village Border West: Sagara Village Border
+North: Vibhutihalli Village Border South: Rastapura Village Border
+
+SCHEDULE-2
+The Survey numbers of the village and areas remaining in the Rastapur
+village specified in the column (2) shall be assigned new survey numbers in
+the said villages specified in the column (4).
+
+TABLE-2
+Survey numbers New Survey
+Area
+numbers assingned
+remaining in Rastapur
+to the remaining
+village after excluding
+survey numbers in
+SL No the survey numbers
+Rastapur
+which are to be included
+Specified in
+Acre Gunta Anna
+form village Golagera column (2)
+1 2 3 4
+1 8 2 36 00 1
+
+2 9 2 35 00 2
+3 1 1 32 00 3
+4 2 1 37 00 4
+5 3/1 2 4 00 5/1
+6 3/2 4 38 00 5/2
+7 4/1 1 38 00 6/1
+8 4/2 0 29 00 6/2
+9 4/3 2 12 00 6/3
+10 144 28 31 00 7
+11 210 15 21 00 8
+12 211 22 30 00 9
+13 212 7 30 00 10
+14 207 14 5 00 11
+15 208 5 18 00 12
+16 209 11 18 00 13
+17 206 20 4 00 14
+18 205/1 3 10 00 15/1
+19 205/2 2 34 00 15/2
+20 145 17 17 00 16
+21 204 8 27 00 17
+22 184 20 3 00 18
+23 203 8 33 00 19
+24 201 10 33 00 20
+25 202 22 27 00 21
+26 200 11 5 00 22
+27 199 14 25 00 23
+28 198 15 4 00 24
+29 197 26 11 00 25
+30 187 20 19 00 26
+31 186 20 12 00 27
+32 185 18 6 00 28
+33 183 7 21 00 29
+34 147 14 19 00 30
+35 146 26 10 00 31
+36 137 7 18 00 32
+37 141/1 2 35 00 33/1
+38 141/2 6 6 00 33/2
+39 143 12 35 00 34
+40 142 11 7 00 35
+41 140 6 25 00 36
+42 139/1 0 13 00 37/1
+43 139/2 7 20 00 37/2
+
+44 138 6 26 00 38
+45 45 18 17 00 39
+46 46 24 19 00 40
+47 112 24 8 00 41
+48 111 36 24 00 42
+49 77/1 1 4 00 43/1
+50 77/2 36 17 00 43/2
+51 78/1 0 7 00 44/1
+52 78/2 22 24 00 44/2
+110/1 3 25 00 45/1
+53 110/2 15 17 00 45/2
+54 103 25 5 00 46
+79/1 11 0 00 47/1
+55 79/2 22 19 00 47/2
+56 73 7 1 00 48
+57 81 21 29 00 49
+58 80 35 35 00 50
+59 102 23 38 00 51
+60 97 25 37 00 52
+61 96 25 17 00 53
+62 82/1 21 37 00 54/1
+63 82/2 15 10 00 54/2
+64 83 25 5 00 55
+65 92 21 30 00 56
+66 91 18 4 00 57
+67 84/1 25 15 00 58/1
+68 84/2 13 25 00 58/2
+69 66 12 35 00 59
+70 67 24 23 00 60
+71 68 17 15 00 61
+72 63 34 12 00 62
+73 64 20 15 00 63
+74 65 17 21 00 64
+75 85 32 31 00 65
+76 86 30 6 00 66
+77 90 24 9 00 67
+78 89 22 5 00 68
+79 87 30 21 00 69
+80 88 28 22 00 70
+81 94 27 23 00 71
+82 93/1 14 33 00 72/1
+83 93/2 19 22 00 72/2
+
+84 95 32 23 00 73
+85 98 21 2 00 74
+86 99 35 30 00 75
+87 100 23 5 00 76
+88 101 19 3 00 77
+89 104 23 30 00 78
+90 109 14 15 00 79
+91 114 27 26 00 80
+92 115 21 38 00 81
+93 118 27 29 00 82
+94 108 15 7 00 83
+95 107 25 0 00 84
+96 105 15 39 00 85
+97 106 11 6 00 86
+98 120 25 8 00 87
+99 121 14 12 00 88
+100 123/1 19 20 00 89/1
+101 123/2 18 33 00 89/2
+102 122 28 18 00 90
+103 126 16 38 00 91
+104 127 21 11 00 92
+105 128 18 29 00 93
+106 129 26 27 00 94
+107 161 27 8 00 95
+108 162 23 31 00 96
+109 163 19 3 00 97
+110 164 16 14 00 98
+111 165 20 6 00 99
+112 171 13 10 00 100
+113 166 19 3 00 101
+114 170 12 0 00 102
+115 167 35 3 00 103
+116 169 29 28 00 104
+117 168 33 20 00 105
+118 160 28 15 00 106
+119 158/1 7 39 00 107/1
+120 158/2 15 11 00 107/2
+121 159 17 23 00 108
+122 157 17 25 00 109
+123 154/1 1 17 00 110/1
+124 154/2 11 20 00 110/2
+125 130/1 25 5 00 111/1
+
+130/2 13 30 00 111/2 126
+153/1 9 13 00 112/1
+153/2 15 4 00 112/2
+131 13 31 00 113
+127 125 20 8 00 114
+128 124 4 20 00 115
+129 132 31 28 00 116
+130 151 28 13 00 117
+131 150/1 1 23 00 118/1
+132 150/2 11 7 00 118/2
+133 119 14 14 00 119
+134 117 14 21 00 120
+135 116 14 14 00 121
+136 113/1 1 9 00 122/1
+137 113/2 11 10 00 122/2
+138 136/1 0 21 00 123/1
+139 136/2 8 17 00 123/2
+140 135 10 2 00 124
+141 133 10 24 00 125
+142 134/1 5 37 00 126
+143 134/2 5 1 00 126/2
+144 148 31 8 00 127
+145 149 12 29 00 128
+146 182 24 36 00 129
+147 152 22 13 00 130
+148 155 21 22 00 131
+149 181 21 28 00 132
+150 156 32 19 00 133
+151 180 22 17 00 134
+152 179 5 30 00 135
+153 178 34 10 00 136
+154 177 25 11 00 137
+155 176 25 35 00 138
+156 175 33 25 00 139
+157 172 29 5 00 140
+158 173 19 2 00 141
+159 174 24 26 00 142
+160 190/1 21 5 00 143/1
+161 190/2 17 30 00 143/2
+162 189 33 33 00 144
+163 188 34 30 00 145
+164 196 24 6 00 146
+
+165 195 29 27 00 147
+166 193/1 24 16 00 148/1
+167 193/2 14 10 00 148/2
+168 194 16 20 00 149
+169 357 17 18 00 150
+170 191 32 6 00 151
+171 192 19 8 00 152
+172 246 34 24 00 153
+173 247 18 28 00 154
+174 248 30 12 00 155
+175 249 12 38 00 156
+176 250 17 24 00 157
+177 251 6 2 00 158
+178 252 35 27 00 159
+179 253 18 30 00 160
+180 243 21 6 00 161
+181 242 11 15 00 162
+182 244 13 18 00 163
+183 245/1 10 10 00 164/1
+184 245/2 10 27 00 164/2
+185 241/1 14 7 00 165/1
+186 241/2 13 12 00 165/2
+187 239 9 15 00 166
+188 240 5 33 00 167
+189 237 19 39 00 168
+190 238 6 17 00 169
+191 236 21 14 00 170
+192 254/1 0 25 00 171/1
+193 254/2 22 27 00 171/2
+194 255/1 4 0 00 172/1
+195 255/2 22 37 00 172/2
+196 256 19 5 00 173
+197 235 26 19 00 174
+198 231 21 17 00 175
+199 230 22 25 00 176
+200 229 27 0 00 177
+201 232 15 8 00 178
+202 233 15 25 00 179
+203 234 15 24 00 180
+204 257 16 16 00 181
+205 258 10 39 00 182
+206 265 36 16 00 183
+
+207 266 28 19 00 184
+208 267 2 15 00 185
+209 268 35 0 00 186
+210 269/1 12 18 00 187/1
+211 269/2 0 29 00 187/2
+212 269/3 0 3 00 187/3
+213 262 27 28 00 188
+214 263 7 2 00 189
+215 264/1 0 24 00 190/1
+216 264/2 14 39 00 190/2
+217 259 15 9 00 191
+218 261 7 35 00 192
+219 260 5 1 00 193
+220 223 26 8 00 194
+221 224 8 29 00 195
+222 225 14 9 00 196
+223 228 4 5 00 197
+227/1 5 20 00 198/1
+224 227/2 3 13 00 198/2
+225 226 17 22 00 199
+226 222/1 4 24 00 200/1
+227 222/2 4 35 00 200/2
+228 221/1 4 4 00 201/1
+229 221/2 7 5 00 201/2
+230 220 7 23 00 202
+231 218/1 0 30 00 203/1
+232 218/2 9 10 00 203/2
+233 219/1 4 17 00 204/1
+234 219/2 1 12 00 204/2
+235 215/1 6 17 00 205/1
+236 215/2 3 36 00 205/2
+237 217/1 2 1 00 206/1
+238 217/2 2 12 00 206/2
+239 217/3 4 12 00 206/3
+240 216/1 1 14 00 207/1
+241 216/2 1 26 00 207/2
+242 216/3 1 16 00 207/3
+243 216/4 1 12 00 207/4
+244 352/1 4 7 00 208/1
+245 352/2 0 34 00 208/2
+246 352/3 0 8 00 208/3
+247 348/1 22 7 00 209/1
+
+248 348/2 0 30 00 209/2
+249 347/1 2 17 00 210/1
+250 347/2 0 33 00 210/2
+251 353/1 0 17 00 211/1
+252 353/2 0 2 00 211/2
+253 214 1 19 00 212
+254 213/1 0 5 00 213/1
+255 213/2 0 11 00 213/2
+257 213/3 0 4 00 213/3
+258 213/4 0 5 00 213/4
+259 213/5 0 8 00 213/5
+260 213/6 0 8 00 213/6
+261 213/7 0 5 00 213/7
+Total 4102 18 00
+PARADI NUMBER 1-2 0 11 00
+GRAMATANA 19 2 00
+
+MARGA 11 22 00
+Total 4133 13 00
+
+Boundaries of the Village Rastapur
+East: Anvara & Bommanahalli Village Border West: Sagara Village Border
+North: Golgera New Village Border South: Kongandi Village Border
+
+The proposal specified above issued under section 5 of the Karnataka Land Revenue
+Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the date of final
+notification.
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Joint Secretary to Govt.
+Revenue Department
+
+(1) (2) (3) (4)
+19 33 00 1
+1 316
+2 322 7 34 00 2
+3 321 11 12 00 3
+4 319 9 5 00 4
+5 317 16 32 00 5
+6 318 12 39 00 6
+7 320 5 8 00 7
+8 20 11 11 00 8
+9 28 16 18 00 9
+10 21 32 33 00 10
+11 22 32 34 00 11
+
+12 23 28 8 00 12
+13 24 17 5 00 13
+14 25 23 16 00 14
+15 27 19 4 00 15
+16 26 16 34 00 16
+17 32 30 35 00 17
+18 33 21 39 00 18
+19 34 26 39 00 19
+20 56 27 28 00 20
+21 57 11 18 00 21
+22 58 10 7 00 22
+23 59 28 12 00 23
+24 60 22 8 00 24
+25 61 8 25 00 25
+26 62 33 8 00 26
+27 69 20 18 00 27
+28 70 27 2 00 28
+29 71 28 35 00 29
+30 72/1 7 28 00 30/1
+31 72/2 15 7 00 30/2
+32 55/1 0 25 00 31/1
+33 55/2 22 24 00 31/2
+34 74 21 32 00 32
+35 54 29 2 00 33
+36 52 18 8 00 34
+37 53 10 34 00 35
+38 35 25 38 00 36
+39 50 22 9 00 37
+40 49 19 22 00 38
+41 36 34 7 00 39
+42 37 22 7 00 40
+43 31 21 29 00 41
+44 30/1 1 22 00 42/1
+45 30/2 15 0 00 42/2
+46 29 11 27 00 43
+47 19 20 9 00 44
+48 18 5 37 00 45
+49 17 20 19 00 46
+50 38 1 13 00 47
+51 39 17 16 00 48
+52 40 15 24 00 49
+53 48 21 13 00 50
+
+54 51 34 11 00 51
+55 75 11 19 00 52
+56 76 10 6 00 53
+57 47 33 23 00 54
+58 43/1 1 38 00 55/1
+59 43/2 15 0 00 55/2
+60 44/1 3 0 00 56/1
+61 44/2 13 1 00 56/2
+62 5 10 6 00 57
+63 6 8 26 00 58
+64 42 6 27 00 59
+65 41 5 14 00 60
+66 7 31 39 00 61
+67 10/1 3 12 00 62/1
+68 10/2 5 2 00 62/2
+69 10/3 0 10 00 62/3
+70 10/4 1 4 00 62/4
+71 11 12 38 00 63
+72 12 18 2 00 64
+73 13 12 26 00 65
+74 16 6 1 00 66
+75 14 12 17 00 67
+76 15 12 37 00 68
+77 345 9 22 00 69
+78 344/1 0 33 00 70/1
+79 344/2 9 5 00 70/2
+80 343 8 9 00 71
+81 342 13 25 00 72
+82 341/1 5 0 00 73/1
+83 341/2 6 27 00 73/2
+84 346 11 29 00 74
+85 349 17 28 00 75
+86 337 14 35 00 76
+87 338 20 24 00 77
+88 339 8 1 00 78
+89 340 7 21 00 79
+90 333/1 3 35 00 80/1
+91 333/2 7 15 00 80/2
+92 332 7 18 00 81
+93 331 6 18 00 82
+94 330 11 34 00 83
+95 334 10 34 00 84
+
+96 335 4 16 00 85
+97 336 15 12 00 86
+98 281 13 21 00 87
+99 280/1 1 5 00 88/1
+100 280/2 19 13 00 88/2
+101 350 11 13 00 89
+102 351/1 3 5 00 90/1
+103 351/2 12 19 00 90/2
+104 351/3 1 14 00 90/3
+279/1 14 25 00 91/1
+105 279/2 22 33 00 91/2
+106 271 11 14 00 92
+107 272 12 32 00 93
+108 270 22 38 00 94
+109 275 7 39 00 95
+110 276 5 19 00 96
+111 274 15 7 00 97
+112 273 7 32 00 98
+113 277 14 21 00 99
+114 278 15 23 00 100
+115 282 28 38 00 101
+116 303 18 23 00 102
+117 304 9 4 00 103
+118 306/1 2 0 00 104/1
+119 306/2 9 6 00 104/2
+120 307 17 39 00 105
+121 302/1 17 34 00 106/1
+122 302/2 0 5 00 106/2
+123 283 8 8 00 107
+124 284 8 27 00 108
+125 285 25 21 00 109
+126 286 9 36 00 110
+127 356 5 26 00 111
+128 287 85 6 00 112
+129 301 16 11 00 113
+130 300 25 37 00 114
+131 299 10 12 00 115
+132 298/1 3 12 00 116/1
+133 298/2 4 33 00 116/2
+134 298/3 1 11 00 116/3
+135 297 13 34 00 117
+136 295 21 9 00 118
+
+137 296 19 18 00 119
+138 288 24 13 00 120
+139 289/1 4 27 00 121/1
+140 289/2 5 20 00 121/2
+141 290 7 30 00 122
+142 291 11 2 00 123
+143 292 16 30 00 124
+144 294 23 20 00 125
+145 293 13 0 00 126
+146 354 3 5 00 127
+147 308 409 11 00 128
+148 355 4 14 00 129
+149 309/1 4 20 00 130/1
+150 309/2 6 20 00 130/2
+151 310 22 7 00 131
+152 311/1 5 30 00 132/1
+153 311/2 3 24 00 132/2
+154 312 6 14 00 133
+155 313 7 9 00 134
+156 326/1 31 24 00 135/1
+157 326/2 11 10 00 135/2
+158 327 9 38 00 136
+159 305 29 33 00 137
+160 328 15 4 00 138
+161 329 14 4 00 139
+162 325 14 13 00 140
+163 323 12 36 00 141
+164 324 8 6 00 142
+165 314 12 28 00 143
+315 25 13 00 144
+
+316 1 20
+315 5 20
+
+1 2 3 4
+1 8 2 36 00 1
+2 9 2 35 00 2
+3 1 1 32 00 3
+4 2 1 37 00 4
+5 3/1 2 4 00 5/1
+6 3/2 4 38 00 5/2
+7 4/1 1 38 00 6/1
+8 4/2 0 29 00 6/2
+9 4/3 2 12 00 6/3
+10 144 28 31 00 7
+11 210 15 21 00 8
+12 211 22 30 00 9
+13 212 7 30 00 10
+14 207 14 5 00 11
+15 208 5 18 00 12
+16 209 11 18 00 13
+17 206 20 4 00 14
+18 205/1 3 10 00 15/1
+19 205/2 2 34 00 15/2
+
+20 145 17 17 00 16
+21 204 8 27 00 17
+22 184 20 3 00 18
+23 203 8 33 00 19
+24 201 10 33 00 20
+25 202 22 27 00 21
+26 200 11 5 00 22
+27 199 14 25 00 23
+28 198 15 4 00 24
+29 197 26 11 00 25
+30 187 20 19 00 26
+31 186 20 12 00 27
+32 185 18 6 00 28
+33 183 7 21 00 29
+34 147 14 19 00 30
+35 146 26 10 00 31
+36 137 7 18 00 32
+37 141/1 2 35 00 33/1
+38 141/2 6 6 00 33/2
+39 143 12 35 00 34
+40 142 11 7 00 35
+41 140 6 25 00 36
+42 139/1 0 13 00 37/1
+43 139/2 7 20 00 37/2
+44 138 6 26 00 38
+45 45 18 17 00 39
+46 46 24 19 00 40
+47 112 24 8 00 41
+48 111 36 24 00 42
+49 77/1 1 4 00 43/1
+50 77/2 36 17 00 43/2
+51 78/1 0 7 00 44/1
+52 78/2 22 24 00 44/2
+110/1 3 25 00 45/1
+53 110/2 15 17 00 45/2
+54 103 25 5 00 46
+79/1 11 0 00 47/1
+55 79/2 22 19 00 47/2
+56 73 7 1 00 48
+57 81 21 29 00 49
+58 80 35 35 00 50
+59 102 23 38 00 51
+
+60 97 25 37 00 52
+61 96 25 17 00 53
+62 82/1 21 37 00 54/1
+63 82/2 15 10 00 54/2
+64 83 25 5 00 55
+65 92 21 30 00 56
+66 91 18 4 00 57
+67 84/1 25 15 00 58/1
+68 84/2 13 25 00 58/2
+69 66 12 35 00 59
+70 67 24 23 00 60
+71 68 17 15 00 61
+72 63 34 12 00 62
+73 64 20 15 00 63
+74 65 17 21 00 64
+75 85 32 31 00 65
+76 86 30 6 00 66
+77 90 24 9 00 67
+78 89 22 5 00 68
+79 87 30 21 00 69
+80 88 28 22 00 70
+81 94 27 23 00 71
+82 93/1 14 33 00 72/1
+83 93/2 19 22 00 72/2
+84 95 32 23 00 73
+85 98 21 2 00 74
+86 99 35 30 00 75
+87 100 23 5 00 76
+88 101 19 3 00 77
+89 104 23 30 00 78
+90 109 14 15 00 79
+91 114 27 26 00 80
+92 115 21 38 00 81
+93 118 27 29 00 82
+94 108 15 7 00 83
+95 107 25 0 00 84
+96 105 15 39 00 85
+97 106 11 6 00 86
+98 120 25 8 00 87
+99 121 14 12 00 88
+100 123/1 19 20 00 89/1
+101 123/2 18 33 00 89/2
+
+102 122 28 18 00 90
+103 126 16 38 00 91
+104 127 21 11 00 92
+105 128 18 29 00 93
+106 129 26 27 00 94
+107 161 27 8 00 95
+108 162 23 31 00 96
+109 163 19 3 00 97
+110 164 16 14 00 98
+111 165 20 6 00 99
+112 171 13 10 00 100
+113 166 19 3 00 101
+114 170 12 0 00 102
+115 167 35 3 00 103
+116 169 29 28 00 104
+117 168 33 20 00 105
+118 160 28 15 00 106
+119 158/1 7 39 00 107/1
+120 158/2 15 11 00 107/2
+121 159 17 23 00 108
+122 157 17 25 00 109
+123 154/1 1 17 00 110/1
+124 154/2 11 20 00 110/2
+125 130/1 25 5 00 111/1
+126 130/2 13 30 00 111/2
+153/1 9 13 00 112/1
+153/2 15 4 00 112/2
+131 13 31 00 113
+127 125 20 8 00 114
+128 124 4 20 00 115
+129 132 31 28 00 116
+130 151 28 13 00 117
+131 150/1 1 23 00 118/1
+132 150/2 11 7 00 118/2
+133 119 14 14 00 119
+134 117 14 21 00 120
+135 116 14 14 00 121
+136 113/1 1 9 00 122/1
+137 113/2 11 10 00 122/2
+138 136/1 0 21 00 123/1
+139 136/2 8 17 00 123/2
+140 135 10 2 00 124
+
+141 133 10 24 00 125
+142 134/1 5 37 00 126
+143 134/2 5 1 00 126/2
+144 148 31 8 00 127
+145 149 12 29 00 128
+146 182 24 36 00 129
+147 152 22 13 00 130
+148 155 21 22 00 131
+149 181 21 28 00 132
+150 156 32 19 00 133
+151 180 22 17 00 134
+152 179 5 30 00 135
+153 178 34 10 00 136
+154 177 25 11 00 137
+155 176 25 35 00 138
+156 175 33 25 00 139
+157 172 29 5 00 140
+158 173 19 2 00 141
+159 174 24 26 00 142
+160 190/1 21 5 00 143/1
+161 190/2 17 30 00 143/2
+162 189 33 33 00 144
+163 188 34 30 00 145
+164 196 24 6 00 146
+165 195 29 27 00 147
+166 193/1 24 16 00 148/1
+167 193/2 14 10 00 148/2
+168 194 16 20 00 149
+169 357 17 18 00 150
+170 191 32 6 00 151
+171 192 19 8 00 152
+172 246 34 24 00 153
+173 247 18 28 00 154
+174 248 30 12 00 155
+175 249 12 38 00 156
+176 250 17 24 00 157
+177 251 6 2 00 158
+178 252 35 27 00 159
+179 253 18 30 00 160
+180 243 21 6 00 161
+181 242 11 15 00 162
+182 244 13 18 00 163
+
+183 245/1 10 10 00 164/1
+184 245/2 10 27 00 164/2
+185 241/1 14 7 00 165/1
+186 241/2 13 12 00 165/2
+187 239 9 15 00 166
+188 240 5 33 00 167
+189 237 19 39 00 168
+190 238 6 17 00 169
+191 236 21 14 00 170
+192 254/1 0 25 00 171/1
+193 254/2 22 27 00 171/2
+194 255/1 4 0 00 172/1
+195 255/2 22 37 00 172/2
+196 256 19 5 00 173
+197 235 26 19 00 174
+198 231 21 17 00 175
+199 230 22 25 00 176
+200 229 27 0 00 177
+201 232 15 8 00 178
+202 233 15 25 00 179
+203 234 15 24 00 180
+204 257 16 16 00 181
+205 258 10 39 00 182
+206 265 36 16 00 183
+207 266 28 19 00 184
+208 267 2 15 00 185
+209 268 35 0 00 186
+210 269/1 12 18 00 187/1
+211 269/2 0 29 00 187/2
+212 269/3 0 3 00 187/3
+213 262 27 28 00 188
+214 263 7 2 00 189
+215 264/1 0 24 00 190/1
+216 264/2 14 39 00 190/2
+217 259 15 9 00 191
+218 261 7 35 00 192
+219 260 5 1 00 193
+220 223 26 8 00 194
+221 224 8 29 00 195
+222 225 14 9 00 196
+223 228 4 5 00 197
+227/1 5 20 00 198/1
+
+224 227/2 3 13 00 198/2
+225 226 17 22 00 199
+226 222/1 4 24 00 200/1
+227 222/2 4 35 00 200/2
+228 221/1 4 4 00 201/1
+229 221/2 7 5 00 201/2
+230 220 7 23 00 202
+231 218/1 0 30 00 203/1
+232 218/2 9 10 00 203/2
+233 219/1 4 17 00 204/1
+234 219/2 1 12 00 204/2
+235 215/1 6 17 00 205/1
+236 215/2 3 36 00 205/2
+237 217/1 2 1 00 206/1
+238 217/2 2 12 00 206/2
+239 217/3 4 12 00 206/3
+240 216/1 1 14 00 207/1
+241 216/2 1 26 00 207/2
+242 216/3 1 16 00 207/3
+243 216/4 1 12 00 207/4
+244 352/1 4 7 00 208/1
+245 352/2 0 34 00 208/2
+246 352/3 0 8 00 208/3
+247 348/1 22 7 00 209/1
+248 348/2 0 30 00 209/2
+249 347/1 2 17 00 210/1
+250 347/2 0 33 00 210/2
+251 353/1 0 17 00 211/1
+252 353/2 0 2 00 211/2
+253 214 1 19 00 212
+254 213/1 0 5 213/1
+255 213/2 0 11 213/2
+257 213/3 0 4 213/3
+258 213/4 0 5 213/4
+259 213/5 0 8 213/5
+260 213/6 0 8 213/6
+261 213/7 0 5 213/7
+
+PR-174
+
+PR-175
+
+PR-176
+
+PR-177
+
+PR-178
+
+PR-179
+
+PR-180
+
+PR-181
+
+PR-182
+
+PR-183
+
+PR-184
+
+PR-185
+
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19
+Licensed to post without prepayment WPP No. 297
+
+PR-186
