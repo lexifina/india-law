@@ -5,3 +5,4 @@ Bombay Act 8 of 1958, as published by the Law and Judiciary Department, Governme
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | consolidated snapshot, as modified up to 2013-06-17 | 2013-06-17 (as modified up to 2013-06-17 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 8 of 1958 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/COMMISSIONERS%20OF%20DIVISIONS%20ACT..pdf |
+| consolidated snapshot, text as on 2024-01-31 | 2024-01-31 (text as on 2024-01-31 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 8 of 1958 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah_Act_No_8_of_1958_13-03-2026.pdf |
