@@ -1,0 +1,64 @@
+---
+title: "Circular - Reporting / Sharing of information in the Voluntary Liquidation process"
+kind: "circular"
+number: "IBBI/LIQ/67/2024"
+issued: "2024-02-13"
+in_force: "2024-02-13"
+issuer: "Insolvency and Bankruptcy Board of India"
+source_url: "https://ibbi.gov.in/legal-framework/circulars?page=3"
+official_text: "https://ibbi.gov.in/uploads/legalframwork/10b40f99875af3eceda569e977c2d1a6.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Circular - Reporting / Sharing of information in the Voluntary Liquidation process
+
+Insolvency and Bankruptcy Board of India
+7th Floor, Mayur Bhawan, Connaught Place, New Delhi-110001
+
+                      CIRCULAR
+
+No. IBBI/LIQ/67/2024            13th February, 2024
+
+To
+All Registered Insolvency Professionals
+All Recognised Insolvency Professional Entities
+All Registered Insolvency Professional Agencies
+(By mail to registered email addresses and on the website of the IBBI)
+
+Dear Madam/Sir,
+
+Sub: Reporting / Sharing of information in the Voluntary Liquidation process
+
+Compliances for initiation of Voluntary Liquidation of a Financial Service Provider
+1. The Code provides for the voluntary liquidation process of corporate persons. However, the
+definition of ‘corporate person’ in sub-section (7) of section 3 excludes any financial service
+provider (FSP). Section 227 read with the Insolvency and Bankruptcy (Insolvency and
+Liquidation Proceedings of Financial Service Providers and Application to Adjudicating
+Authority) Rules, 2019 allows FSPs who have been notified by the Central Government, after
+consulting financial regulators, to undergo a voluntary liquidation process after obtaining prior
+permission of the appropriate regulator. It has been noted that some FSPs have commenced the
+voluntary liquidation process without notification and / or prior permission of the appropriate
+financial regulator.
+
+2. Accordingly, it is hereby directed that the liquidator shall ensure that, if the corporate person
+falls under the category of financial service provider, it shall declare that:
+(i) the category of Financial Service Providers has been notified by the Central Government
+
+       under section 227 of the Code, and
+(ii) the corporate person has obtained prior permission from the appropriate regulator.
+
+Sharing of final report, Form H, and dissolution order with IBBI
+3. It is hereby directed that the liquidator shall submit a copy of Form H and the final report
+filed before the Adjudicating Authority as per Regulation 38, and the order for dissolution to
+the Board to the email ID: liqvol@ibbi.gov.in .
+
+4. This is issued in the exercise of the powers conferred under section 196 of the Insolvency
+and Bankruptcy Code, 2016.
+
+                                                                        Yours faithfully,
+                                                                                       -Sd-
+
+                                                                          (Rajesh Tiwari)
+                                                                        General Manager
+
+                                                                                   Page 1 of 1
