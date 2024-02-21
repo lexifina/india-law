@@ -1,0 +1,724 @@
+---
+title: "Pension Fund Regulatory and Development Authority (Retirement Adviser) (Amendment) Regulations 2023"
+kind: "regulation"
+issued: "2024-02-21"
+in_force: "2024-02-21"
+issuer: "Pension Fund Regulatory and Development Authority"
+source_url: "https://www.pfrda.org.in/regulatory-framework/regulations?delta=10&start=2"
+official_text: "https://www.pfrda.org.in/documents/33652/184762/51+Pension+Fund+Regulatory+and+Development+Authority+%28Retirement+Adviser%29+%28Amendment%29+Regulations+2023.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Pension Fund Regulatory and Development Authority (Retirement Adviser) (Amendment) Regulations 2023
+
+No. 106]                                        EXTRAORDINARY
+
+                                                PART III—Section 4
+
+                                        PUBLISHED BY AUTHORITY
+
+              NEW DELHI, WEDNESDAY, FEBRUARY 21, 2024/PHALGUNA 2, 1945
+
+1181 GI/2024                    (1)
+
+     PENSION FUND REGULATORY AND DEVELOPMENT AUTHORITY
+
+                                                  NOTIFICATION
+
+                                    New Delhi, the 20th February, 2024
+
+     PENSION FUND REGULATORY AND DEVELOPMENT AUTHORITY (RETIRMENT ADVISER)
+                                            (AMENDMENT) REGULATIONS, 2023
+
+         F. No. (PFRDA/16/13/13/0017/2022-REG-RA).— In exercise of the powers conferred by sub-section (1)
+     of section 52 read with clause (w) of sub-section (2) thereof and clause (d) of sub-section (2) of section 14 of
+     the Pension Fund Regulatory and Development Authority Act,2013 (23 of 2013), the Pension Fund
+     Regulatory and Development Authority hereby makes the following regulations to amend the Pension Fund
+     Regulatory and Development Authority (Retirement Adviser) Regulations, 2016, namely:-
+
+1. These regulations may be called the Pension Fund Regulatory and Development Authority (Retirement
+     Adviser) (Amendment) Regulations, 2023.
+
+2. These shall come into force on the date of their publication in the official gazette.
+
+3. In the Pension Fund Regulatory and Development Authority (Retirement Adviser) Regulations, 2016, as
+     amended from time to time (hereinafter referred to as ‘the principal regulations’), the following amendments
+     are made.
+
+I. In regulation 2 of the principal regulations,
+
+(i)  Clause (vi) shall be deleted;
+
+(ii) Clause (vii) shall be substituted as follows:
+
+      “(vii) “compliance Officer” shall mean a designated director or designated partner of a non-individual
+      retirement adviser, duly responsible for monitoring compliance of the provisions of the Act, rules, regulations,
+      notifications, guidelines, circulars, directions and instructions issued by the Authority;”
+
+(iii) Clause (viii) shall be substituted as follows:
+
+      “(viii) “charges” means remuneration along with applicable taxes for services rendered by the retirement
+      adviser under National Pension System or any other pension scheme covered under the Act;”
+
+(iv) New clause (viiia) shall be inserted immediately after clause (viii) as follows:
+
+      “(viiia) “key personnel” shall include compliance officer and any other person who provides retirement
+      advice on behalf of the non-individual retirement adviser;”
+
+(v) New clause (ixa) shall be inserted immediately after clause (ix) as follows:
+
+      “(ixa) "non-individual retirement adviser" means a company under section 2(20) of the Companies Act, 2013,
+      or limited liability partnership registered under Limited Liability Partnership Act, 2008, and registered as
+      retirement adviser with the Authority.
+
+(vi) New clause (xa) shall be inserted immediately after clause (x) as follows:
+
+     “(xa) “retirement advice" means activity relating to onboarding of prospects, advice on pension fund selection,
+      investment allocation, portfolio management or risk profiling, which are properly recorded by the retirement
+      adviser and has been undertaken for the benefit of the prospect or subscriber and shall include retirement
+      planning.
+
+     Explanation:- Retirement advice given through newspaper, magazines, any electronic, broadcasting or
+      telecommunications medium, which is widely available to the public, shall not be considered as retirement
+      advice for the purpose of these regulations;”
+
+(vii) clause (xi) shall be substituted as follows:
+
+      “(xi) “retirement adviser” means any person being an individual or non-individual, who for consideration, is
+      engaged in the activity of providing retirement advice on National Pension System or any other pension
+      scheme covered under the Act, to prospect or subscriber or other persons or group of persons and includes any
+      person who holds out himself as a retirement adviser, by whatever name called.”
+
+II Sub-regulation (2) of regulation 2 of the principal regulations shall be deleted;
+
+III Sub-regulation (1) of regulation 3 of the principal regulations shall be substituted as follows:
+
+       “3. Application for grant of certificate of registration.- (1) An individual or non-individual desirous to
+       provide retirement advice on National Pension System or any other pension scheme covered under the Act,
+       shall obtain a certificate of registration from the Authority, to act as a retirement adviser, as provided under
+       these regulations.”
+
+IV Regulation 4 of the principal regulations shall be substituted as follows:
+
+       “4. Exemption from registration. - (1) The following persons or entities shall not be required to obtain a
+       certificate of registration under regulation 3 subject to the fulfilment of the conditions stipulated therefor, —
+
+(a) An advocate, solicitor or law firm, who provides retirement advice to their clients, incidental to their legal
+practice.
+
+(b) A member of Institute of Chartered Accountants of India, Institute of Company Secretaries of India, Institute of
+Cost Accountants of India, Institute of Actuaries of India or any other professional body as may be determined by
+the Authority, who provides retirement advice to his clients, incidental to his professional service.
+
+(c) Any other entity as may be determined by the Authority.
+
+Provided that such persons or entities shall comply with the general obligation(s) and responsibilities as specified
+in these regulations and shall be fully liable for any defaults, as provided under these regulations, notwithstanding
+that such persons or entities have not obtained or granted any certificate of registration under these regulations.”
+
+V Regulation 5 of the principal regulations shall be substituted as follows:
+
+   “5. Furnishing and verification of information.- (1) The applicant shall intimate change in any information
+       contained in the application, immediately but not later than three working days of occurrence of such change.
+
+    (2) The Authority may require the applicant to furnish any further information or clarification or require to remove
+          any defect(s), within the time granted, in the absence of which, application shall be considered on its merits.
+
+    (3) The applicant or key personnel, as the case may be, if so required by the Authority, shall appear in person while
+          considering the application.
+
+    (4) While processing the application, the Authority may seek report from any agency, which may have a bearing on
+          the application.”
+
+VI. Regulation 6 of the principal regulations shall be substituted as follows:
+
+       “6. Eligibility criteria.- The eligibility criteria required to be fulfilled by an applicant under these regulations
+               for grant of certificate of registration shall be the following, namely, —
+
+    (1) In case of non-individual applicant:
+
+    (a) registered with and regulated by the Reserve Bank of India, or the Securities and Exchange Board of India, or
+    the Insurance Regulatory and Development Authority of India;
+
+    (b) registered under Goods and Services Tax Act;
+
+    (c) fulfils the ‘fit and proper person’ criteria as specified in Fifth Schedule; and
+
+    (d) its key personnel fulfil(s) the qualification and other requirements under regulation 7 and also the ‘fit and
+    proper person’ criteria as specified in Fifth Schedule.
+
+    (2) In case of individual applicant:
+
+    (a) fulfils the qualification and other requirements specified in regulation 7;
+
+    (b) fulfils the ‘fit and proper person’ criteria specified in Fifth Schedule; and
+
+    (c) possess a minimum tangible net assets of rupees one lakh, as on the last day of immediately preceding quarter.
+
+    (3) An intermediary registered with the Authority shall not be eligible to be registered as a retirement adviser and
+          vice-versa.
+
+    (4) The applicant has the necessary infrastructure to effectively discharge the activities of a retirement adviser.
+
+    (5) Any other criteria that may be laid down by the Authority, in the interest of the subscribers.”
+
+VII Regulation 7 of the principal regulations shall be substituted as follows:
+
+    “7. Qualification and other requirements.- An individual retirement adviser and key personnel of non-individual
+    retirement adviser, shall possess the following minimum qualifications, at all times:
+
+    (1) be a graduate in any discipline or have professional qualification and post qualification experience of at least
+         three years, in activities relating to provision of advice in financial products, securities, fund, asset or portfolio
+         management;
+
+    (2) possess certification on retirement advisory services from:
+
+    (a) National Institute of Securities Market; or
+
+    (b) any other organization or institution as may be determined by the Authority.
+
+    Provided that certification under sub-regulation (2) shall not be required in respect of:
+
+    (i) an investment adviser registered with the Securities and Exchange Board of India;
+
+    (ii) an advocate, solicitor or law firm;
+
+    (iii) a member of Institute of Chartered Accountants of India, Institute of Company Secretaries of India, Institute of
+          Cost Accountants of India, Institute of Actuaries of India or any other professional body, as may be
+          determined by the Authority; or
+
+    (iv) any other person as may be determined by Authority.
+
+         Provided further that fresh certification, or renewal of the existing certificate through continuing professional
+          education shall be obtained from the accredited institute before expiry of the validity of the existing certificate
+          to ensure continuity in compliance with certification requirements.
+
+         (6) Retirement adviser registered prior to notification of these amendments, shall be required to fulfil the
+         requirement specified under these regulations at the time of submission of his application for renewal.”
+
+   VIII Regulation 8 of the principal regulations shall be deleted;
+
+   IX Regulation 9 of the principal regulations shall be substituted as follows:
+
+     “9. Grant of certificate of registration. – (1) An application for grant of certificate of registration under
+     regulation 3 shall be disposed of by the Authority within thirty days of:
+
+     (a) receipt of complete information, if any, from the applicant;
+
+     (b) expiry of the time granted for submission of further information under sub-regulation (2) of regulation 5; or
+
+     (c) the explanation, if any, received under sub-regulation (1) of regulation 12 from the applicant or upon expiry of
+     the time granted for giving such explanation.
+
+     (2) The Authority on being satisfied that the applicant fulfils the requirements specified in regulation 6 and
+          regulation 7 shall send intimation conveying acceptance of his application.
+
+     (3) The applicant shall pay the registration fees along with applicable taxes and levies thereon, as determined by the
+          Authority, in the manner specified under Second Schedule.
+
+     (4) The Authority may grant a certificate of registration to the applicant in Form B as specified under First
+          Schedule and subject to observance of such terms and conditions accompanying such certificate.
+
+ X Regulation 11 of the principal regulations shall be substituted as follows:
+
+     “11. Renewal of certificate.- (1) Three months before the expiry of the period of validity of the certificate of
+     registration, the retirement adviser may, if he so desires, make an application in Form A for grant of renewal of
+     certificate of registration, along with the fee plus taxes and levies thereon.
+
+     (2) The application for renewal shall be accompanied by such additional information and documents as are required
+     for the retirement adviser to fulfill the eligibility criteria specified under these regulations as on the date of
+     submission of application for renewal.
+
+     Provided however that the authority shall take into consideration, the performance of retirement adviser during the
+     original period of registration including the number of new accounts opened.
+
+     (3) An existing Retirement Adviser shall have no special rights or privilege for grant of such renewal by the
+     Authority.
+
+XI Sub-regulation (1) of regulation 12 of the principal regulations shall be substituted as follows:
+
+     “12. Procedure where registration is refused.- (1) Before rejecting an application, the Authority shall give a
+     notice to the applicant to remove the defects or deficiencies, if any, in its application within fifteen days of receipt
+     of such notice from the Authority.
+
+     Provided where the Authority is prima facie of the opinion that registration ought not be granted, it shall
+     communicate the reasons for forming such an opinion and give the opportunity to explain why the application
+     should be accepted, within fifteen days of receipt of the communication from the Authority, to enable it to form a
+     final opinion.
+
+     Provided further that where an application has been rejected on the grounds of being incorrect, false or misleading
+     in nature or has omitted to disclose material facts, no fresh application for grant of certificate of registration shall
+     be considered for a period of one year from the date of rejection.”
+
+XII Regulation 13 of the principal regulations shall be substituted as follows:
+
+     “13. Conditions of certificate of registration.- (1) The certificate of registration granted under regulation 9 shall
+     be subject to the following conditions:-
+
+     (a) the retirement adviser shall abide by the provisions of the Act, rules, regulations, guidelines, circulars,
+          directions, and instructions issued by the Authority;
+
+     (b) the retirement adviser shall inform any change in material information to the Authority within seven days; and
+
+     (c) the retirement adviser shall include the words ‘retirement adviser’ in its name.”
+
+XIII Regulation 14 of the principal regulations shall be deleted;
+
+XIV Regulation 15 of the principal regulations shall be substituted as follows:
+
+     “15. Charges to be collected by Retirement Adviser.- (1) The charges to be collected for providing retirement
+     advice shall be in accordance with guidelines or circulars issued by the Authority.
+
+     (2) All charges collected by the retirement adviser shall be duly acknowledged by issuance of appropriate receipts
+           for the service provided to subscriber or prospect, as the case may be.”
+
+ XV Clause (l) of regulation 17 of the principal regulations shall be substituted as follows:
+
+   “(l) A retirement adviser shall follow ‘Know Your Customer’(KYC), Anti Money Laundering (AML) and
+   Countering Financing of Terrorism (CFT) procedure as determined by the Authority, from time to time and ensure
+   that due diligence procedure is conducted through effective use of KYC verification process as required under the
+   Prevention of Money Laundering Act, 2002 (17 of 2003) and the rules notified thereunder or any other law, besides
+   relevant regulations, guidelines, circulars, and directions issued by the Authority in that behalf;”
+
+ XVI New clause (q) shall be inserted after clause (p) of regulation 17 of the principal regulations as follows:
+
+   “(q) take all measures necessary for prevention of fraud and develop and implement a fraud prevention and
+   mitigation policy in accordance with guidelines issued by Authority;”
+
+ XVII New clause (r) shall be inserted after newly inserted clause (q) of regulation 17 of the principal
+          regulations as follows:
+
+   “(r) lay down internal controls to be followed and ensure that such controls are adequate and operating effectively;
+   and”
+
+ XVIII New clause (s) shall be inserted after newly inserted clause (r) of regulation 17 of the principal
+          regulations as follows:
+
+   “(s) make provision for indemnifying the subscriber for any loss on account of fraud or negligence on the part of
+   the retirement adviser, which has been established.
+
+   Explanation: For the purpose of this regulation, the term internal control means the policies and procedures adopted
+   by the Retirement Adviser for ensuring the orderly and efficient conduct of its functions, including prevention and
+   detection of frauds and errors, the accuracy and completeness of the records, and the timely preparation and
+   submission of compliance reports.”
+
+ XIX In regulation 18 of the principal regulations, the terms ‘advisor’ and ‘advisors’ wherever appearing,
+          shall be substituted with ‘adviser’ and ‘advisers’ respectively;
+
+ XX Regulation 22 of the principal regulations shall be substituted as follows:
+
+   “22. Appointment of compliance officer.- (1) Non-individual retirement adviser shall appoint a compliance
+   officer who shall be responsible for monitoring the compliance by the retirement adviser of the Act, rules,
+   regulations, guidelines, circulars, directions and instructions issued by the Authority.
+
+    (2) Any change in the compliance officer should be intimated to the Authority within seven days.”
+
+ XXI Regulation 25 of the principal regulations shall be substituted as follows:
+
+   “25. Inspection.- (1) The Authority shall inspect the retirement adviser at regular intervals as it deems fit.
+
+   Notwithstanding the above, the Authority may at any time as it deems fit, undertake directly or through its
+   authorized representative, or appoint an auditor, to conduct an inspection or audit of the books, accounts, records,
+   including the call records and electronic records and documents of the retirement adviser for the purposes as
+   specified under this regulation.
+
+   (2) The purposes referred to in sub-regulation (1) shall include, -
+
+   (a) to ensure that the books of account, records and documents are being maintained by the retirement adviser in
+   the manner specified in these regulations;
+
+   (b) to inspect into complaints received from subscribers or any other person, on any matter having a bearing on the
+   activities of the retirement adviser;
+
+   (c) to ascertain whether the provisions of the Act and these regulations are being complied with by the retirement
+   adviser; and
+
+   (d) to inspect into the affairs of a retirement adviser, in the interest of the subscribers and for ensuring the orderly
+   growth of pension schemes covered under the Act.
+
+   (3) In respect of banks offering services of retirement adviser, without prejudice to the powers of inspection as
+   contained under sub-regulation (1), the Authority may request the Reserve Bank of India to exercise such powers,
+   as may be required.”
+
+XXII Regulation 27 of the principal regulations shall be substituted as follows:
+
+   “27. Obligation of retirement adviser on inspection.- (1) It shall be the duty of every retirement adviser in
+   respect of whom an inspection has been ordered under the regulation 25 and any other associated person who is in
+   possession of relevant information pertaining to conduct and affairs of such retirement adviser, including
+
+representative of retirement adviser, if any, to produce to the Authority or its representative such books, accounts
+and other documents in his custody or control and furnish him with such statements and information as the
+Authority or its representative may require for the purpose of inspection.
+
+(2) It shall be the duty of every retirement adviser and any other associate person who is in possession of relevant
+     information pertaining to conduct and affairs of the retirement adviser to give to the Authority or its
+     representative, any information or all such assistance and co-operation, as may be required in connection with
+     the inspection.
+
+(3) The Authority or its representative shall, for the purpose of inspection, have power to examine on oath and
+     record the statement of any employee, director, partner or person responsible for or connected with the
+     activities of retirement adviser or any other associated person having relevant information pertaining to such
+     retirement adviser.
+
+(4) The Authority or its representative shall, for the purpose of inspection, have power to obtain authenticated
+     copies of documents, books, accounts of retirement adviser, from any person having control or custody of such
+     documents, books or accounts.”
+
+XXIII Regulation 28 of the principal regulations shall be substituted as follows:
+
+“28. Submission of report to the Authority.- (1) The person conducting inspection shall, as soon as possible, on
+completion of the inspection, submit an inspection report to the Authority.
+
+Provided that if directed to do so by the Authority, such person may submit an interim report.
+
+(2) The report submitted by the authorized person or any documents or information so collected by such person,
+during the course of inspection or audit, would be admissible in any investigation, inquiry or any other proceedings
+before the Authority.”
+
+XXIV Regulation 29 of the principal regulations shall be substituted as follows:
+
+“29. Action on the inspection report.- The Authority may after consideration of the inspection report and after
+giving reasonable opportunity of hearing to the retirement adviser or its authorized representatives, issue such
+directions as it deems fit for the orderly growth of National Pension System or any other pension scheme covered
+under the Act or for the benefit of the subscribers including,-
+
+(a) restraining a retirement adviser from providing retirement advice, for a particular period;
+
+(b) requiring the retirement adviser to refund any money collected as charges or any other collections made, to the
+concerned subscriber(s) along with interest and compensation, for loss, if any, caused to the subscriber(s) by an act
+of commission or omission on the part of retirement adviser.”
+
+XXV Sub-clause (i) of clause (e) of sub-regulation 1 of regulation 30 of the principal regulations shall be
+substituted as follows:
+
+“(i) becomes insolvent or goes into bankruptcy or liquidation (other than for the purposes of a reconstruction or
+amalgamation on terms previously approved in writing by the Authority);”
+
+XXVI Clause (f) of sub-regulation (1) of regulation 30 of the principal regulations shall be substituted as
+follows:
+
+“(f) fails to fulfil the 'fit and proper person’ criteria as specified in Fifth Schedule;”
+
+XXVII In sub-regulation (1) of regulation 32 of the principal regulations, the words and numbers
+            ‘regulation 32’ appearing inside such sub-regulation, shall be substituted with ‘regulation 30’;
+
+XXVIII First Schedule of the principal regulations shall be substituted as follows:
+
+                                                        “FIRST SCHEDULE
+                                                                FORM A
+
+            Pension Fund Regulatory and Development Authority (Retirement Adviser) Regulations, 2016
+                                                      [See regulations 3 and 11]
+
+                     Application for grant of certificate of registration / renewal as retirement adviser
+INSTRUCTIONS
+1. This form is meant for use by the applicant for grant of certificate of registration as a retirement adviser.
+2. The applicant should complete this form, and submit it, along with all supporting documents to the Authority at
+its head office at New Delhi.
+
+3. This application form should be filled in accordance with these regulations.
+
+4. The application shall be considered by the Authority provided it is complete in all respects.
+
+5. All information must be legible and all the pages must be numbered with signature/ stamp on each page of the
+form.
+
+6. Information which needs to be supplied in more detail may be given on separate sheets which should be attached
+to the application form and appropriately numbered.
+
+7. The application must be signed.
+
+8. The application must be accompanied by an application fee along with applicable taxes and levies thereon as
+specified in the Second Schedule to these regulations.
+
+9. The application form for retirement adviser with all required documents can also be submitted online with e-
+signature. Provided that the Authority may seek submission of physical copy of any document (already submitted),
+at any time, including after issuance of registration certificate and if it is found thereupon, that the information or
+document so submitted online, is at variance with the physical copy since submitted, suitable action may be taken
+by the Authority, which may also entail cancellation of registration.
+
+1. GENERAL INFORMATION
+
+(a) Name, address of the registered office, address for correspondence and principal place of business, telephone
+number(s), e-mail address of the applicant along with the documents.
+
+(b) Whether application is for registration or renewal. Provide registration number if the application is for renewal
+of certificate.
+
+(c) Name, direct line number, mobile number and e-mail of the contact person(s).
+
+(d) Legal structure of applicant - Whether the applicant is an individual or non-individual.
+
+(e) Whether the applicant is registered under Goods and Services Tax Act. If yes, details along with supporting
+documents to be furnished.
+
+(f) Date and place of incorporation/ establishment, if any. If the applicant is incorporated outside India, details of
+such incorporation.
+
+(g) Whether the applicant is engaged in retirement advisery services prior to making application under these
+regulations.
+
+(h) Whether the applicant is registered with RBI, SEBI, or IRDAI in any capacity. If so, details of such registration.
+
+(i) Write-up on the activities of the applicant.
+
+(For renewal application, provide details of existing retirement advisory services including number and type of
+subscribers, assets under advice, revenue, profitability, products/ retirement products on which retirement advice
+was provided, etc.)
+
+(j) Details of the qualification and other requirements of individual retirement adviser or key personnel of non-
+individual retirement adviser as specified in regulation 7.
+
+(Individual retirement adviser or key personnel of non-individual retirement adviser shall provide post qualification
+experience certificate like Insurance agency license, Mutual Fund – ARN, stock broker)
+
+(Provide self-certified copies of supporting documents)
+
+2. DETAILS OF APPLICANT (besides general information sought above provide details of only the section
+applicable to you)
+
+I. In case applicant is a company:
+
+1. Shareholding pattern and profile of the directors (Enclose identity proof and address proof of the directors).
+
+2. Number of key personnel of the applicant (Enclose identity proof and address proof of the Key personnel)
+
+3. List of associated companies registered with RBI, SEBI, IRDAI or PFRDA along with the registration number.
+
+4. If applicant is a bank or NBFC, then copy of approval from RBI for undertaking retirement advisory services.
+
+5. Copy of registration certificate issued by RBI, SEBI or IRDAI.
+
+II. In case applicant is a limited liability partnership:
+
+1. Names and beneficial ownership pattern of the partners engaged/proposed to engage in retirement advice
+(Enclose identity proof and address proof of the partners).
+
+2. Number of key personnel of the applicant (Enclose identity proof and address proof of the Key personnel)
+
+III. In case applicant is an individual
+
+1. Self-declaration of tangible net assets of the applicants as on the last day of immediately preceding quarter as
+specified in regulation 6.
+
+3. BUSINESS PLAN
+
+1. Proposed business plan and means of achieving the same.
+
+4. DETAILS OF INFRASTRUCTURE
+
+1. Declaration that the applicant has the necessary infrastructure to effectively discharge the activities of a
+retirement adviser.
+
+5. OTHER INFORMATION / DECLARATIONS / REGULATORY ACTIONS.-
+
+1. Whether any previous application for grant of certificate made by any person directly or indirectly connected
+with the applicant has been rejected by the Authority; If yes, provide details of the same.
+
+2. A credit report/ score from CIBIL for the applicant. (For applicants other than financial institutions & banking
+companies)
+
+3. Declaration that the applicant shall not obtain any consideration by way of remuneration or compensation or any
+other form whatsoever, from any person other than the subscriber being advised, in respect of the underlying
+products or securities for which advice is provided to the subscriber.
+
+4. Declaration by the individual applicant, or non-individual applicant that its key personnel shall always ensure to
+fulfil qualification and other requirements under regulation 7 and ‘fit and proper person’ criteria as specified in
+Fifth Schedule;
+
+5. Any other information considered relevant to the nature of services to be rendered by the applicant.
+
+6. DECLARATION STATEMENT
+
+I/We hereby agree and declare that the information supplied in the application, including the attachment sheets, is
+complete and true. AND I/ we further agree that, I/we shall notify the Authority immediately of any change in the
+information provided in the application. I/ We further agree that I/ we shall comply with, and be bound by the
+Pension Fund Regulatory and Development Authority Act, 2013 and the rules and regulations made thereunder
+including the Pension Fund Regulatory and Development Authority (Retirement Advisers) Regulations, 2016, and
+any guidelines, circulars, notifications, directions and instructions as may be issued by the Authority from time to
+time.
+
+I/ We further agree that as a condition of registration, I/ we shall abide by such operational instructions/directives
+as may be issued by the Authority from time to time.
+
+                                                                      For and on behalf of
+
+                                                                      (Name of the applicant)
+
+                                                                      Authorized signatory/ Applicant
+
+                                                                                                         (Signature)
+
+                                                                      (Date and Place)
+
+                                         FORM B
+
+     Pension Fund Regulatory and Development Authority (Retirement Adviser) Regulations, 2016
+
+                                         [See regulation 9]
+
+                   Certificate of registration as retirement adviser
+
+In exercise of the powers conferred by sub-section 3 of section 27 of the Pension Fund Regulatory and
+Development authority Act, 2013 (23 of 2013), read with the regulations made thereunder, the Authority hereby
+grants a certificate of registration to ______________________ act as a retirement adviser subject to the conditions
+specified hereunder and in the Act and in the regulations made thereunder.
+
+II.  The registration number of the retirement adviser is _______ and shall remain valid until……..........
+
+Date :
+Place : New Delhi
+
+                                                                                                      For and on behalf of
+                                                            Pension Fund Regulatory and Development Authority”
+
+XXIX Second Schedule of the principal regulations shall be substituted as follows:
+
+                                                      “SECOND SCHEDULE
+
+         Pension Fund Regulatory and Development Authority (Retirement Adviser) Regulations, 2016
+
+                                                           [See regulation 9]
+
+FEES
+
+1. An applicant shall pay non-refundable application fees as may be determined by the Authority through issuance
+of guidelines, circular, instructions or directions, along with the application for grant or renewal of certificate of
+registration.
+
+2. An applicant shall pay registration / renewal fee at the time of grant of or renewal of certificate by the Authority,
+as may be determined by the Authority, through issuance of guidelines, circular, instructions or directions.
+
+3. The fee shall be paid by the applicant within fifteen days from the date of receipt of intimation from the
+Authority by a demand draft / online mode in favour of ‘PENSION FUND REGULATORY AND
+DEVELOPMENT AUTHORITY’ payable at New Delhi or in such other manners of payment as may be
+determined by the Authority, from time to time.
+
+4. The quantum of fee payable under this schedule may be revised by the Authority from time to time, by issuance
+of appropriate circulars, guidelines, directions or notifications. The applicant shall be required to pay the applicable
+fee as determined by the Authority failing which it shall not be entitled to grant of registration or renewal thereof,
+as the case may be.”
+
+XXX Clause 9 of third schedule of the principal regulations shall be substituted as follows:
+
+“9. Responsibility of senior management
+
+     The key personnel of a non-individual retirement adviser shall have the primary responsibility for ensuring the
+      maintenance of appropriate standards of conduct and adherence to proper procedures by the body corporate.
+
+     A retirement adviser shall place the interest of the subscribers over personal interest in conducting the
+      activities under the National Pension System or any pension scheme covered under this Act.
+
+     A retirement adviser shall refrain from making any derogatory, disparaging remarks or statements against the
+      National Pension System or any other pension scheme or the Authority or other intermediaries.”
+
+XXXI Fourth schedule of the principal regulations shall be titled as follows:
+
+                                                      “FOURTH SCHEDULE
+
+         Pension Fund Regulatory and Development Authority (Retirement Adviser) Regulations, 2016
+
+                                                         [See regulation 19]”
+
+XXXII New schedule shall be inserted after ‘FOURTH SCHEDULE’ in the principal regulations as
+follows:
+
+                                                        “FIFTH SCHEDULE
+
+         Pension Fund Regulatory and Development Authority (Retirement Adviser) Regulations, 2016
+
+                                                           [See regulation 6]
+
+Criteria for determining a ‘Fit and proper person’
+
+(1) For determining whether any person is a 'fit and proper person', the Authority may take into account any factors
+as it deems fit, including but not limited to the following criteria:
+
+                                                                  Part-A
+
+(a) financial integrity;
+
+(b) absence of convictions or civil liabilities;
+
+(c) competence;
+
+(d) good reputation and character;
+
+(e) efficiency and honesty; and
+
+(f) financial solvency and net worth.
+
+                                                                  Part-B
+
+A person shall not be considered as a ‘fit and proper person’ if any of the following disqualifications are incurred:-
+
+(a) criminal complaint or information under section 154 of the Code of Criminal Procedure, 1973 (2 of 1974) has
+       been filed against such person by the Authority and which is pending;
+
+(b) charge sheet has been filed against such person by any enforcement agency in matters concerning economic
+offences and is pending;
+
+(c) an order of restraint, prohibition or debarment has been passed against such person by the Authority, or any
+financial regulator or enforcement agency in any matter concerning securities laws or financial markets or
+insurance law and such order is in force;
+
+(d) recovery proceedings have been initiated by the Authority against such person and are pending;
+
+(e) an order of conviction has been passed against such person by a court for any offence involving moral
+turpitude or involving economic offences or fraud;
+
+(f) any winding up proceedings have been initiated or an order for winding up has been passed against such
+person;
+
+(g) such person has been declared insolvent and not discharged;
+
+(h) such person has been found to be of unsound mind by a court of competent jurisdiction and the finding is in
+force;
+
+(i) such person has been categorized as a willful defaulter;
+
+(j) such person has been declared a fugitive economic offender; or
+
+(k) any other disqualification as may be determined by the Authority.
+
+(2) Where a person has been declared as not fit and proper person by an order of the Authority, such a person shall
+not be eligible to apply for any registration during the period provided in the said order or for a period of five years
+from the date of effect of the order, if no such period is specified in the order.
+
+(3) In the opinion of the Authority, where an intermediary or any its key personnel, at any point of time ceases to
+satisfy the criteria under Part-A of clause (1) or incurs any disqualification or disability under Part-B of clause (1),
+its certificate of registration is liable to be suspended or cancelled, in accordance with the provision of these
+regulations.
+
+Provided that an intermediary shall remove its key personnel, ceasing to satisfy the criteria, under clause (1) within
+thirty days, from such cessation and inform the Authority of the action taken.”
+
+                                                                                           Dr. DEEPAK MOHANTY, Chairperson
+
+                                                                                                   [ADVT.-III/4/Exty./760/2023-24]
+
+Note : The Pension Fund Regulatory and Development Authority (Retirement Adviser) Regulations, 2016 were
+         published vide Notification No. PFRDA/12/RGL/139/1, on the 17th June, 2016 in the Gazette of India,
+         Extraordinary, Part III, Section 4, No. 261, and were subsequently amended by the Pension Fund
+         Regulatory and Development Authority (Retirement Adviser) (First Amendment) Regulations, 2017
+         published vide Notification No. PFRDA/12/RGL/139/10, on the 05th May, 2017 in the Gazette of India,
+         Extraordinary, Part III, Section 4, No. 185, the Pension Fund Regulatory and Development Authority
+         (Retirement Adviser) (Second Amendment) Regulations, 2017 published vide Notification
+         No. PFRDA/12/RGL/139/10, on the 01st June, 2017 in the Gazette of India, Extraordinary, Part III, Section
+         4, No. 228, the Pension Fund Regulatory and Development Authority (Retirement Adviser) (Third
+         Amendment) Regulations, 2017 published vide Notification No. PFRDA/12/RGL/139/10, on the 11th
+         September, 2017 in the Gazette of India, Extraordinary, Part III, Section 4, No. 345, the Pension Fund
+         Regulatory and Development Authority (Retirement Adviser) (Fourth Amendment) Regulations, 2017
+         published vide Notification No. PFRDA/12/RGL/139/10, on the 28th December, 2017 in the Gazette of
+         India, Extraordinary, Part III, Section 4, No. 496 and the Pension Fund Regulatory and Development
+         Authority (Retirement Adviser) (Fifth Amendment) Regulations, 2017 published vide Notification No.
+         PFRDA/12/RGL/139/10, on the 03rd December, 2019 in the Gazette of India, Extraordinary, Part III,
+         Section 4, No. 442.
+
+    Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+
+    and Published by the Controller of Publications, Delhi-110054.  MANOJ KUMAR  Digitally signed by MANOJ
+                                                                                 KUMAR VERMA
+
+                                                                    VERMA        Date: 2024.02.22 18:47:31
+                                                                                 +05'30'
