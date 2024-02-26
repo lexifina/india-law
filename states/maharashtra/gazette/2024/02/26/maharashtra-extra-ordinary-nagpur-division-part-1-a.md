@@ -1,0 +1,89 @@
+---
+kind: "gazette-notification"
+gazette: "Maharashtra Government Gazette"
+gazette_type: "Extra - Ordinary"
+part: "Part -1 A Division: NAGPUR DIVISION"
+issuer: "Government of Maharashtra"
+subject: "Nagpur Part 1-A (26-02-2024) Publication of Maharashtra Municipal Councils, Nagar Panchayat & Industrial Townships Act, 1965 under Section 9(2) by Divisional Commissioner & Regional Director, Municipal Administration, Nagpur. Ex. Ord. Ank-06, Sr. No. 18-21"
+published: "2024-02-26"
+in_force: "2024-02-26"
+in_force_evidence: "published in the Gazette 2024-02-26; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.maharashtra.2024-02-26.Extra-Ordinary_NAGPUR-DIVISION_Part-1-A"
+language: "English text only"
+---
+
+BY DIVISIONAL COMMISSIONER AND REGIONAL DIRECTOR, MUNICIPAL ADMINISTRATION
+MAHARASHTRA MUNICIPAL COUNCILS, NAGAR PANCHAYATS AND INDUSTRIAL TOWNSHIPS ACT, 1965.
+ORDER
+No.-Mun-19(3)-CR-64-2024.—
+Under Section 9(2) of the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965
+taking into consideration population figures of Census of India, 2011 (including the population of Scheduled Castes,
+Scheduled Tribes and Backward Classes of Citizens), The number of elected Councillors in respect of,
+Mahadula Nagar Panchayat Area in Nagpur District is fixed as mentioned in the following table.
+Similarly, the number of seats to be reserved for women (including the seats belonging to Scheduled Castes,
+Scheduled Tribes and Backward Classes of Citizens) and the number of seats to be reserved for Scheduled Castes,
+Scheduled Tribes and Backward Classes of Citizens are also fixed as mentioned in the table.
+The General Elections of the Mahadula Nagar Panchayat should be held as per this order.
+TABLE
+Name of Name of Class of No. of Out of column (4) No. of Seats Reserved For Out of Out of column (9) No. of seats
+Nagar Smaller Smaller Elected following Category column (4) reserved for women
+Pancha- Urban Urban Counci- Total No. following Category
+yat Area Area lors of seats
+reserved
+for
+women
+Sche- Sche- Backward General Sche- Sche- Back- General
+duled duled Classes dueld dueld ward [Out of
+Castes Tribes of Citizens Castes Tribes Classes col. (8)]
+[Out of [Out of of
+[Out of
+col. (7)]
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13)
+Mahadula Mahadula . . 17 6 1* 1 9 9 3 0 0* 5 or 6
+Note :–(As per order dated 27th December 2021 para 9 of the Hon’ble state election commission, only one post is
+payable for scheduled tribes in this election, as scheduled tribe women were reserved in the previous general
+election 2019. That post will not be reserved for women in this election.)
+Note :–(As per Hon’ble state election commission’s letter dated 27th July 2022 if only one seat is payable for backward
+class of citizens then that post will be reserved for women to backward class of citizens or how. Determined by
+draw will be done.)
+VIJAYALAKSHMI BIDARI (IAS),
+Nagpur : Divisional Commissioner & Regional Director,
+Dated the 26th February, 2024. Municipal Administration, Nagpur.
+
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13)
+---------------------
+BY DIVISIONAL COMMISSIONER AND REGIONAL DIRECTOR, MUNICIPAL ADMINISTRATION
+MAHARASHTRA MUNICIPAL COUNCILS, NAGAR PANCHAYATS AND INDUSTRIAL TOWNSHIPS ACT, 1965.
+ORDER
+No.-Mun-19(3)-CR-65-2024.—
+Under Section 9(2) of the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965
+taking into consideration population figures of Census of India, 2011 (including the population of Scheduled Castes,
+Scheduled Tribes and Backward Classes of Citizens), The number of elected Councillors in respect of, Butibori Nagar
+parishad Area in Nagpur District is fixed as mentioned in the following table.
+Similarly, the number of seats to be reserved for women (including the seats belonging to Scheduled Castes,
+Scheduled Tribes and Backward Classes of Citizens) and the number of seats to be reserved for Scheduled Castes,
+Scheduled Tribes and Backward Classes of Citizens are also fixed as mentioned in the table.
+
+The General Elections of the Butibori Nagar parishad should be held as per this order.
+TABLE
+Name of Name of Class of No. of Out of column (4) No. of Seats Reserved For Out of Out of column (9) No. of seats
+Nagar Smaller Smaller Elected following Category column (4) reserved for women
+Panchayat Urban Urban Counci- Total No. following Category
+Area Area lors of seats
+reserved
+for
+women
+Sche- Sche- Backward General Sche- Sche- Back- General
+duled duled Classes duled duled ward [Out of
+Castes Tribes of Citizens Castes Tribes Classes col. (8)]
+[Out of [Out of of
+[Out of
+col. (7)]
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13)
+Butibori Butibori C 21 3 2 5 11 11 2 1 3 5
+VIJAYALAKSHMI BIDARI (IAS),
+Nagpur : Divisional Commissioner & Regional Director,
+Dated the 26th February, 2024. Municipal Administration, Nagpur.
+ON BEHALF OF GOVERNMENT PRINTING, STATIONERY AND PUBLICATION, PRINTED AND PUBLISHED BY DIRECTOR, RUPENDRA DINESH MORE,
+PRINTED AT GOVERNMENT PRESS AND BOOK DEPOT, CIVIL LINES, NAGPUR-440 001 AND PUBLISHED AT DIRECTORATE OF GOVERNMENT PRINTING,
+STATIONERY AND PUBLICATION, 21-A, NETAJI SUBHASH ROAD, CHARNI ROAD, MUMBAI 400 004. EDITOR : DIRECTOR, RUPENDRA DINESH MORE.
