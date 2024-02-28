@@ -1,0 +1,425 @@
+---
+title: "Pension Fund Regulatory and Development Authority (Pension Fund) (Second Amendment) Regulations, 2023"
+kind: "regulation"
+issued: "2024-02-28"
+in_force: "2024-02-28"
+issuer: "Pension Fund Regulatory and Development Authority"
+source_url: "https://www.pfrda.org.in/regulatory-framework/regulations?delta=10&start=2"
+official_text: "https://www.pfrda.org.in/documents/33652/184762/38+Pension+Fund+Regulatory+and+Development+Authority+%28Pension+Fund%29+%28Second+Amendment%29+Regulations%2C+2023.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Pension Fund Regulatory and Development Authority (Pension Fund) (Second Amendment) Regulations, 2023
+
+No. 131]                                        EXTRAORDINARY
+
+                                                PART III—Section 4
+
+                                        PUBLISHED BY AUTHORITY
+
+              NEW DELHI, WEDNESDAY, FEBRUARY 28, 2024/PHALGUNA 9, 1945
+
+1379 GI/2024                    (1)
+
+         9
+         1
+         1
+         6
+         8
+
+--
+--
+--
+
+--
+--
+--
+
+--
+--
+--
+
+--
+--
+--
+
+--
+--
+--
+
+--
+--
+--
+--
+--
+
+                       PENSION FUND REGULATORY AND DEVELOPMENT AUTHORITY
+
+                                                            NOTIFICATION
+
+                                                  New Delhi, the 27th February, 2024
+
+   PENSION FUND REGULATORY AND DEVELOPMENT AUTHORITY (PENSION FUND) (SECOND
+                                              AMENDMENT) REGULATIONS, 2023
+
+          No. PFRDA/16/3/29/0089/2017-REG-PF.—In exercise of the powers conferred by sub-section (1) of
+section 52 read with clauses (e) (m), (n), (o) and (p) of sub-section (2) thereof of the Pension Fund Regulatory and
+Development Authority Act, 2013 (23 of 2013), the Pension Fund Regulatory and Development Authority hereby
+makes the following regulations to amend the Pension Fund Regulatory and Development Authority (Pension Fund)
+Regulations, 2015, namely:-
+
+1. These regulations may be called the Pension Fund Regulatory and Development Authority (Pension Fund)
+       (Second Amendment) Regulations, 2023.
+
+2. These shall come into force on the date of their publication in the official gazette.
+
+3. In the Pension Fund Regulatory and Development Authority (Pension Fund) Regulations, 2015, as amended from
+     time to time (hereinafter referred to as „the principal regulations‟), the following amendments are made.
+
+I. PART B of Schedule III (Fees payable under the regulations) of the principal regulations shall be substituted
+as follows:
+
+                                                                  “PART B
+
+ I. For the purpose of this part, the expression „assets under management‟ shall mean the value of the assets held
+        by the pension fund as disclosed by it under sub-paragraph III of Part B below.
+
+ II. The fees specified in part A shall be payable by demand draft or bankers cheque in favour of “Pension Fund
+        Regulatory and Development Authority” payable at New Delhi or through electronic transfer in the designated
+        bank account of PFRDA.
+
+III. A pension fund shall pay pro rata annual fee on quarterly basis, if the business is done for a part of the year.
+        The payment of annual fee shall be accompanied by a statement of assets under management which shall be in
+        such format as may be determined by the Authority and shall be certified to be true and complete by the
+        functional head of the pension fund.
+
+IV. The Authority reserves the right to amend all or any of the fees from time to time.”
+
+II. Schedule V (Reports and Disclosure) of the principal regulations shall be substituted as follows:
+
+                                              “SCHEDULE V
+
+                  PENSION FUND REGULATORY AND DEVELOPMENT AUTHORITY
+
+                                 (PENSION FUND) REGULATIONS, 2015
+
+                                 [See regulations 9A(1)(i) and 22(8)]
+
+                                 REPORTS AND DISCLOSURE
+
+1. Reporting to NPS Trust, PFRDA, CRA and Other Parties
+
+The pension fund shall furnish periodic reports as well as such information and documents as may be determined by
+the Authority to be submitted to National Pension System Trust and the central recordkeeping agency. This shall
+include, but shall not be limited to the following:-
+
+(a) Indicative Reports to National Pension System Trust
+
+Reports must be provided in writing/electronic form for each successive period by delivery to the office of National
+Pension System Trust, within ten days of the end of the period in the case of a monthly or quarterly or half yearly or
+yearly report and shall contain the following information as at a stated end of period date.
+
+Report Contents
+
+Monthly
+
+1            Reconciliation of AUM and Units
+
+2            Details of Portfolio for Schemes being managed by Pension Fund
+
+3            Statement of Purchases and Sales effected by Pension Fund
+
+4            Fund Inflows and Outflows of Schemes being managed by Pension Fund
+
+5            Report on transactions in securities of Group company/Pension Fund associates
+
+6            Statement of Down Graded Investments
+
+7            Statement of investments classified as „default‟
+
+8            Statement of exposure limits for Schemes being managed by Pension Fund
+
+9            Statement of Investments not eligible for investment management fees
+
+MC           Compliance certificate at Monthly Interval
+
+Quarterly
+
+1            Report on transactions in securities by key personnel of Pension Fund in their own name
+
+2            Report on transactions in securities with any of the Pension Fund's associates
+
+3            Portfolio overview
+
+4            Overview of portfolio positioning including evaluation of
+
+             (a) Current economic conditions
+
+             (b) Prospects for securities markets
+
+             (c) Justification for the positions and transactions in the portfolio
+
+             (d) Attribution of performance over last quarter (and year when applicable) on absolute basis as well
+                  as relative to the specific benchmark
+
+             (e) Outlook for returns for the portfolio
+
+QC           Compliance certificate at Quarterly Interval
+
+Half-Yearly
+
+1            Copy of half yearly unaudited accounts of schemes as per scheme accounting regulations. (before the
+
+             expiry of one month from the close of each half year)
+
+2            Any change in the interests of Directors
+
+HYC          Compliance certificate at Half yearly Interval
+
+Report  Contents
+Annual
+        Statement regarding the current status of the sponsor‟s regulatory licenses and details of any changes
+    1   in the name or capitalization of the Pension Fund or Sponsor(s)
+        Statement showing the amount of interest accrued but not realised as on closing date of the financial
+    2   year
+        All service contracts executed by Pension Fund, including outsourced activity
+    3   All service contracts such as for custody arrangements and transfer agency of the securities are
+    4   executed in the interest of subscribers.
+        Summary of all activities and compliance with regulations, guidelines, circulars
+    5   Copy of the Audited Annual Report and other information including details of investments as per the
+    6   Scheme accounting regulations. (within sixty days from the date of closure of each financial year)
+        Copy of unaudited provisional financial statements (Balance Sheet, Revenue Account, notes and
+    7   schedules) of each scheme. (within thirty days from the date of closure of each financial year)
+        Voting Report including the number of votes cast (for, against, or abstained) and a statement of
+    8   whether the Pension Fund has complied with its obligation to exercise its voting rights in the
+        subscriber‟s interests only.
+  AC    Compliance certificate at Annual interval
+Ad hoc
+        Bio-data of all its Directors alongwith their interest in other companies within 15 days of their
+    1   appointment
+        Conflicts of interest
+    2   All such information as is considered necessary by the National Pension System Trust
+    3
+
+(b) Reports to Authority
+(i) In addition to the reports, pension fund shall adhere to disclosures in accordance with para 2 of this Schedule
+(ii) Any other information as determined by the Authority.
+(iii) Exception reporting to be done by National Pension System Trust to Authority.
+(iv) National Pension System Trust shall keep the Authority informed of the operations of the Pension Fund on
+
+        periodic basis.
+(c) Reports to central recordkeeping agencies
+The pension fund shall develop and have interface with the central recordkeeping agencies for:-
+(i) Sending and receiving reports in the required formats.
+(ii) Compilation and consolidation of investment instruction by central recordkeeping agencies.
+(iii) Confirmation Report by pension fund to central recordkeeping agencies.
+(iv) Daily investment report by pension fund.
+(v) Report of scheme wise payout position of pension fund to central recordkeeping agencies.
+(vi) Daily Report on Net Asset Values of the schemes within such timelines as determined by the Authority from
+
+        time to time.
+(vii) Net fund receipt for schemes from National Pension System Trust Account.
+(viii) Discrepancy/confirmation report on net payout.
+(d) Reports to other parties
+(i) The pension fund shall develop and have interface to provide such reports as may be required by the National
+
+        Pension System Trust, Trustee Bank, Custodian and other entities of the National Pension System architecture
+        as may be determined by Authority and National Pension System Trust from time to time.
+
+(ii) The pension fund shall disclose the investment management fees charged to schemes and the manner of
+        calculating Net Asset Value of the schemes and the same shall be hosted on the website as may be specified by
+        the National Pension System Trust and the Authority.
+
+2. Public disclosures -Under Regulation 22(8)
+
+(a) The pension fund shall comply with the disclosure requirements as determined by Authority.
+
+(b) In order to ensure uniformity and timeliness of dispensation of information by the Authority in the interest of
+        all stakeholders, the following public disclosures have been specified:
+
+Sl  Particulars                     Frequency                Format               Time Limit            Sub- heading
+                                                                                                         on website
+
+1 Net Asset Value (NAV)             Daily            Up to four decimal By 10.00 PM on the same NAV
+      (scheme wise)
+                                                     points                  day
+
+2 NAV History (since                Daily            --- do ---                                         NAV History
+      inception) (scheme wise-
+      both in Tabular data as well
+      as graphical form)
+
+3 Scrip wise details of             Monthly          Appended below          within 10 days from the Scheme
+      Portfolio of each scheme
+                                                     (Scrip wise details of  end of month               Portfolio Details
+                                                     Portfolio of each
+                                                     Scheme)
+
+4 Unaudited              financial  Half Yearly      (Scrip wise details of before the expiry of one Financials
+
+    statements* alongwith                            Portfolio of each month from the close of
+
+    statement of scheme                              Scheme)                 each half year
+
+    portfolio
+
+5 Annual Report (with               Yearly           (Scrip wise details of after approval by the Financials
+      Financials)** and portfolio
+      details of each scheme                         Portfolio of each National Pension System
+
+                                                     Scheme)                 Trust (within 15 days)
+
+6   Investment Policy/other         Updated version                          Within 10 Days after Board Policy
+    mandated policy and                at all times                          approval
+    Review Mechanism                                 -
+
+7 Annual Report and                 Yearly           -                       After AGM (within 10       Financials
+      Financials of Pension Fund.                                            days)
+
+8 Scheme wise Fee (pension
+
+    fund should also                                                         To be updated when         Investment
+                                                                             revised (within 4 days)    Management
+    simultaneously upload the       Yearly           -                                                  Fee
+
+    Public Notice for change in
+
+    fee on its website)
+
+* ‘Financial Statements’ includes balance sheet, revenue account and notes, schedules and other integral reports.
+
+** Contents of ‘Annual Report’ are as per Financial Statements and Auditor’s Report under Schedule VII
+
+(c) Pension Funds shall publish the above Public Disclosures on their respective websites at a prominent place on
+        home page with heading „Public Disclosure‟ and with sub-headings like NAV, Portfolio Details, Financials,
+        Policy etc as applicable.
+
+                                    Scrip wise details of Portfolio of each scheme
+
+Name of the Pension Fund :
+
+Name of the scheme :
+
+Portfolio Statement as on……………… (month end)
+
+    Category of Investments                ISIN         Industry Quantity         Market       % of     Ratings
+                                           No.                                     value     Portfolio
+
+Government securities and related
+investments
+
+--
+
+--
+
+--
+
+        Category of Investments          ISIN  Industry Quantity  Market    % of     Ratings
+                                         No.                       value  Portfolio
+Debt instruments and Related
+Investments
+--
+--
+--
+Equities and related Investments
+--
+--
+--
+Short-term debt instruments and related
+investments
+--
+--
+--
+
+Alternate Investments
+--
+--
+--
+Net current Assets
+--
+--
+--
+Other Assets
+--
+--
+GRAND TOTAL
+Average Maturity of Portfolio (in
+years)
+Modified Duration
+Yield to Maturity (%) (annualized) (at
+market price)
+Credit Rating Exposure
+Central Govt. Securities
+State Development Loans
+AAA / Equivalent
+A1+ (For Commercial Paper)
+AA+ / Equivalent
+AA / Equivalent
+AA- / Equivalent
+A+ / Equivalent
+A / Equivalent
+A- / Equivalent
+BBB+ / Equivalent
+
+        Category of Investments          ISIN  Industry Quantity  Market            % of                                   Ratings
+                                         No.                       value          Portfolio
+BBB / Equivalent
+BBB- / Equivalent
+Below Investment Grade
+(out of above investments classified as
+default)
+Total
+
+Units Outstanding
+NAV
+
+1. Entire portfolio irrespective of the quantity, market value and percentage to NAV of any scrip should be disclosed
+in descending order of weightage within each sub-group. If percentage to portfolio of any security is less than 0.01%,
+it may be indicated by giving asterisk or any other mark instead of showing 0.00.
+
+2. An asterisk / suitable mark should be given against debt instruments which are classified as default in accordance
+with Authority‟s guidelines.
+
+3. The following information may be given by way of footnotes:
+  a. Total amount due (principal + interest) for investments classified as below investment grade and default.
+  b. Total amount of haircut (principal + interest) for investments classified as below investment grade and default as
+      proportion to scheme AUM.
+  c. NAV at the beginning and end of the period.
+  d. Total outstanding exposure in derivative instruments at the end of the period.
+
+4. Total „Infrastructure investments‟ as per Govt. of India Harmonized Master List of Infrastructure”
+
+III. In Part III (Disclosure of Information) under Schedule VI (Code of Conduct) of the principal regulations,
+existing clause (3.4) after clause (c) shall be renumbered as clause (d).
+
+                                                                                               Dr. DEEPAK MOHANTY, Chairperson
+
+                                                                                                      [ADVT.-III/4/Exty./785/2023-24]
+
+Note: The Pension Fund Regulatory and Development Authority (Pension Fund) Regulations, 2015 were published
+vide Notification No. PFRDA/12/RGL/139/9, on the 19th May, 2015 in the Gazette of India, Extraordinary, Part III,
+Section 4, No. 168, and were subsequently amended by the Pension Fund Regulatory and Development Authority
+(Pension Fund) (First Amendment) Regulations, 2016 published vide Notification No. PFRDA/12/RGL/139/9, on the
+8th September, 2016 in the Gazette of India, Extraordinary, Part III, Section 4, No. 343, the Pension Fund Regulatory
+and Development Authority (Pension Fund) (Second Amendment) Regulations, 2020 published vide Notification No.
+PFRDA/12/RGL/139/9, on the 5th February, 2020 in the Gazette of India, Extraordinary, Part III, Section 4, No. 48,
+the Pension Fund Regulatory and Development Authority (Pension Fund) (Third Amendment) Regulations, 2020
+published vide Notification No. PFRDA/12/RGL/139/9, on the 14th May, 2020 in the Gazette of India, Extraordinary,
+Part III, Section 4, No. 169, the Pension Fund Regulatory and Development Authority (Pension Fund) (Fourth
+Amendment) Regulations, 2021 published vide Notification No. PFRDA/12/RGL/139/9, on the 1st April, 2021 in the
+Gazette of India, Extraordinary, Part III, Section 4, No. 139, the Pension Fund Regulatory and Development Authority
+(Pension Fund) (Fifth Amendment) Regulations, 2021 published vide Notification No. PFRDA/12/RGL/139/9, on the
+25th May, 2021 in the Gazette of India, Extraordinary, Part III, Section 4, No. 202, the Pension Fund Regulatory and
+Development Authority (Pension Fund) (Sixth Amendment) Regulations, 2021 published vide Notification No.
+PFRDA/12/RGL/139/9, on the 15th July, 2021 in the Gazette of India, Extraordinary, Part III, Section 4, No. 286 and
+the Pension Fund Regulatory and Development Authority (Pension Fund) (Amendment) Regulations, 2023 published
+vide Notification No. PFRDA/16/3/29/0089/2017-REG-PF, on the 13th February, 2024 in the Gazette of India,
+Extraordinary, Part III, Section 4, No. 96.
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+
+                  and Published by the Controller of Publications, Delhi-110054.  MANOJ  KUMAR  Digitally signed  by
+                                                                                                MANOJ KUMAR       VERMA
+
+                                                                                  VERMA         Date: 2024.03.07 18:58:31
+                                                                                                +05'30'
