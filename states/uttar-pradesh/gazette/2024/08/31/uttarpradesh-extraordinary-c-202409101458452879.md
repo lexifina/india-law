@@ -1,0 +1,124 @@
+---
+kind: "gazette-notification"
+gazette: "Uttar Pradesh Gazette"
+gazette_type: "Extraordinary"
+issuer: "Government of Uttar Pradesh"
+department: "Legislative Department"
+subject: "Uttar Pradesh Private Universities (Second Amendment) Act, 2024"
+published: "2024-08-31"
+in_force: "2024-03-06"
+in_force_evidence: "text: \"shall be deemed to have come into force with effect from the 6th day of March, 2024\""
+official_text: "https://dpsup.up.gov.in/app/writereaddata/UploadGazette/corrigendum/pdf/C_202409101458452879.pdf"
+mirror: "https://archive.org/details/in.gazette.uttarpradesh_extraordinary.2024-08-31.c_202409101458452879"
+language: "English text only"
+---
+
+—
+
+&&&&&&&
+la[;k 341@79-fo-1&2024-1-d-6-2024
+&&&&&&
+vf/klwpuk
+2024 dks vuqefr çnku dh vkSj og mRrj çns'k vf/kfu;e la[;k 11 lu~ 2024 ds :i esa loZlk/kkj.k dh
+vf/kfu;e
+izkjEHk
+vf/kfu;e la[;k
+vuqlwph 2 dk
+la'kks/ku
+199 RPH Adhiniyam folder –niji univer (vidhaika- 2021)-data 8
+
+nwj djus
+dh 'kfDr
+gksaxs %
+
+&&&&&
+
+izns'k dh LFkkiuk gsrq micU/k djus ds mn~ns'; ls iwoksZDr vf/kfu;e dh vuqlwph 2 esa la'kks/ku djus dk
+
+vkKk ls]
+vrqy JhokLro]
+izeq[k lfpoA
+199 RPH Adhiniyam folder –niji univer. (vidhaika- 2021)-data 8
+
+No. 341(2)/LXXIX-V-1–2024-1-ka-6-2024
+Dated Lucknow, August 13, 2024
+IN pursuance of the provisions of clause (3) of Article 348 of the Constitution of India, the
+Governor is pleased to order the publication of the following English translation of the Uttar Pradesh Niji
+Vishwavidyalay (Dwitiya Sanshodhan) Adhiniyam, 2024 (Uttar Pradesh Adihiniyam Sankhya 11 of 2024)
+as passed by the Uttar Pradesh Legislature and assented to by the Governor on August 12, 2024. The
+Uccha Shiksha Anubhag-1 is administratively concerned with the said Adhiniyam.
+THE UTTAR PRADESH PRIVATE UNIVERSITIES (SECOND
+AMENDMENT) ACT, 2024
+(U.P. Act no. 11 of 2024)
+[As passed by the Uttar Pradesh Legislature]
+AN
+ACT
+further to amend the Uttar Pradesh Private Universities Act, 2019.
+IT IS HEREBY enacted in the Seventy-fifth Year of the Republic of India as
+followes :–
+1. (1) This Act may be called the Uttar Pradesh Private Universities (Second Short title and
+Commencement
+Amendment) Act, 2024.
+(2) It shall be deemed to have come into force with effect from the 6th day of
+March, 2024.
+2. In Schedule 2 of the Uttar Pradesh Private Universities Act, 2019 (hereinafter Amendment
+of Schedule referred to as the "principal Act") after serial no. 38, the Columns of the said Schedule
+2 of U.P. Act
+shall be amended as below and after serial no. 38 for the newly established Universities
+no. 12 of
+the following serial numbers shall be inserted, namely :- 2019
+Sl. no. Name of the University Name of the Sponsoring Body
+39 "Sharda University Agra" Sri Anand Swroop Educational Trust,
+Agra, Uttar Pradesh Agra, Uttar Pradesh
+40 Saroj International University, Smt. Saroj Singh Shikshan Sansthan,
+Lucknow, Uttar Pradesh 8 Mall Avenue, Lucknow, Uttar Pradesh
+41 JSS University, Noida, JSS Mahavidyapeetha, Ghaziabad,
+Uttar Pradesh Uttar Pradesh
+3. (1) The State Government may, for the purposes of removing any difficulty in Power to
+remove
+relation to the establishment of "Sharda University Agra" Agra, Uttar Pradesh, or Saroj
+difficulties
+International University, Lucknow, Uttar Pradesh or JSS University, Noida, Uttar Pradesh
+by order published in the Gazette, direct that the provisions of the principal Act shall
+during such period, as may be specified in the order, have effect subject to such
+adaptations, whether by way of modification, addition or omission, as it may deem
+necessary or expedient:
+Provided that no such order shall be made after two years from the date of
+commencement of this Act.
+(2) Every order made under sub-section (1) shall be laid before both Houses of
+the State Legislature, as soon as may be, after it is made.
+
+Repeal and 4. (1) The Uttar Pradesh Private Universities (Amendment) U.P. Ordinance
+saving no. 1 of 2024,
+Ordinance, 2024, the Uttar Pradesh Private Universities (Second
+2 of 2024, 3 of
+Amendment) Ordinance, 2024 and the Uttar Pradesh Private
+Universities (Third Amendment) Ordinance, 2024 are hereby repealed.
+(2) Notwithstanding such repeal, anything done or any action
+taken under the provisions of the principal Act as amended by the
+Ordinance referred to in sub-section (1) shall be deemed to have been
+done or taken under the corresponding provisions of the principal Act
+as amended by this Act as if the provisions of this Act were in force at
+all material times.
+199 RPH Adhiniyam folder –niji univer. (vidhaika- 2021)-data 8
+
+STATEMENT OF OBJECTS AND REASONS
+The Uttar Pradesh Private Universities Act, 2019 (U.P. Act no. 12 of 2019) has been enacted to
+provide for the establishment of new Private Universities and incorporation of existing Private
+Universities in the State of Uttar Pradesh for imparting higher education and to regulate their functions
+and for matters connected therewith or incidental thereto.
+In order to provide for the establishment of three new Private Universities, namely :– (i) "Sharda
+University Agra", Agra, Uttar Pradesh; (ii) Saroj International University, Lucknow, Uttar Pradesh; and
+(iii) JSS University, Noida, Uttar Pradesh, it was decided to amend Schedule 2 of the aforesaid Act.
+Since the State Legislature was not in session and immediate legislative action was necessary to
+implement the aforesaid decision,the Uttar Pradesh Private Universities (Amendment) Ordinance, 2024
+(U.P. Ordinance no. 1 of 2024), the Uttar Pradesh Private Universities (Second Amendment) Ordinance,
+2024 (U.P. Ordinance no. 2 of 2024) and the Uttar Pradesh Private Universities (Third Amendment)
+Ordinance, 2024 (U.P. Ordinance no. 3 of 2024) were promulgated by the Governor on March 6, 2024.
+This Bill is introduced to replaced the aforesaid Ordinance.
+
+By order,
+ATUL SRIVASTAVA,
+Pramukh Sachiv.
+
+199 RPH Adhiniyam folder –niji univer. (vidhaika- 2021)-data 8
