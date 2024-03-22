@@ -1,0 +1,1826 @@
+---
+title: "IRDAI (Registration, capital structure, transfer of shares and amalgamation of insurers) Regulations, 2024"
+kind: "regulation"
+issued: "2024-03-22"
+in_force: "2024-03-22"
+issuer: "Insurance Regulatory and Development Authority of India"
+source_url: "https://irdai.gov.in/consolidated-gazette-notified-regulations?p_p_id=com_irdai_document_media_IRDAIDocumentMediaPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_irdai_document_media_IRDAIDocumentMediaPortlet_delta=20&_com_irdai_document_media_IRDAIDocumentMediaPortlet_resetCur=false&_com_irdai_document_media_IRDAIDocumentMediaPortlet_cur=2"
+official_text: "https://irdai.gov.in/documents/37343/366405/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88%28%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%AA%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3%2C+%E0%A4%AA%E0%A5%82%E0%A4%81%E0%A4%9C%E0%A5%80+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%2C+%E0%A4%B6%E0%A5%87%E0%A4%AF%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%94%E0%A4%B0+%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A5%87%E0%A4%B2%E0%A4%A8%29+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE+2024+_+IRDAI+%28Registration%2C+capital+structure%2C+transfer+of+shares+and+amalgamation+of+insurers%29+Regulations%2C+2024.pdf/04196f64-dbbc-b15d-8f7e-0713c8665a7d?version=1.1&t=1712320501230&download=true"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# IRDAI (Registration, capital structure, transfer of shares and amalgamation of insurers) Regulations, 2024
+
+No. 207]
+                                                          EXTRAORDINARY
+
+                                                          PART III—Section 4
+
+                                                  PUBLISHED BY AUTHORITY
+
+                                NEW DELHI, FRIDAY, MARCH 22, 2024/CHAITRA 2, 1946
+
+2224 GI/2024                    (1)
+
+                    2013
+
+                  INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA
+
+                                                            NOTIFICATION
+
+                                                   Hyderabad, the 20th March, 2024
+
+Insurance Regulatory and Development Authority of India (Registration, Capital Structure, Transfer of Shares
+                                        and Amalgamation of Insurers) Regulations, 2024
+
+          F. No. IRDAI/Reg/6/200/2024.—In exercise of the powers conferred by section 3, section 3A, section 6A,
+section 35, sub-section (4A) of section 37A and section 114A of the Insurance Act, 1938 and section 14 and section 26
+of the Insurance Regulatory and Development Authority Act 1999, the Authority, in consultation with Insurance
+Advisory Committee, hereby makes the following Regulations, namely: -
+
+                                                    CHAPTER I-PRELIMINARY
+
+1. Short Title and Commencement
+
+     (1) Short Title: These regulations may be called the Insurance Regulatory and Development Authority of India
+          (Registration, Capital Structure, Transfer of Shares and Amalgamation of Insurers) Regulations, 2024.
+
+     (2) Commencement: These regulations shall come into force on the date of their publication in the Official
+          Gazette.
+
+     (3) These regulations shall be reviewed once in every 3 (three) years from the date of publication unless a review,
+          repeal or amendment is warranted earlier.
+
+2. Objective
+
+      To promote growth of insurance sector by simplifying the process of registration of insurer, transfer of
+      shareholding, other forms of capital, amalgamation of insurers, listing of shares of insurers on stock exchange
+      and to promote ease of doing business.
+
+3. Definitions
+
+      (1) In these regulations, unless the context otherwise requires, -
+
+          (a) “Act” means the Insurance Act, 1938 (4 of 1938);
+
+          (b) “Applicant” means a company as defined in sub-section (20) of section 2 of the Companies Act, 2013
+                 (18 of 2013) or a statutory body established by an Act of Parliament or co-operative society, who applies
+                 to the Authority seeking registration to carry on insurance business.
+
+          (c) “Appointed Date” means
+
+                (i) For the purpose of Chapter VI, the date specified in the scheme as appointed date.
+
+                (ii) For the purpose of Chapter VII, the date mentioned in the scheme of amalgamation, notified by the
+                    Central Government in the official gazette in terms of sub section (4) of section 37A of the Act, on
+                    which the provisions of the Scheme of amalgamation shall come into force;
+
+          (d) “Assets”, for the purpose of Chapter VII, includes all assets including the properties of the original
+                 insurer which shall, in terms of the Scheme, be taken over by the transferee insurer;
+
+          (e) “Authority” means the Insurance Regulatory and Development Authority of India established under
+                 sub-section (1) of section 3 of the Insurance Regulatory and Development Authority Act, 1999 (41 of
+                 1999);
+
+          (f) “Compensation”, for the purpose of Chapter VII, means the amount assessed by the Authority in
+                 accordance with these regulations and payable either in cash or in kind to the shareholders or members
+                 whose interests in, or rights against, the transferee insurer resulting from amalgamation are less than his
+                 interest in, or rights against the original insurer;
+
+          (g) “Competent Authority” means
+
+                (i) Chairperson, or
+
+                (ii) such whole-time member or such committee of the whole-time members or such officer(s) of the
+                       Authority, as may be determined by the Chairperson.
+
+          (h) “Encumbrance” shall include -
+
+               (i) Pledge, lien, charge by whatever name called;
+
+               (ii) Any covenant, transaction, condition or arrangement in the nature of encumbrance, by whatever name
+                   called.
+
+(i) “Foreign Investors” shall have the same meaning assigned to it in sub-clause (g) of clause (1) of Rule
+       2 of Indian Insurance Companies (Foreign Investment) Rules, 2015.
+
+(j) “Foreign Promoter” means the “foreign investors”, excluding individuals, which meet one or more of
+       the following conditions:
+
+             (i) who has been named as such in a prospectus or is identified by the company in the annual
+                   return referred to in section 92 of the Companies Act, 2013;
+
+             (ii) who has control over the affairs of the company, directly or indirectly whether as a
+                   shareholder, director or otherwise; or
+
+             (iii) in accordance with whose advice, directions or instructions, the Board of Directors of the
+                   company is accustomed to act:
+
+        Provided that nothing in sub-clause (iii) shall apply to a person who is acting merely in a professional
+        capacity.
+
+(k) “Indian Investors” means “Investors” other than foreign investors.
+
+(l) “Indian Promoter” means -
+
+             (i) a company as defined in the Companies Act, 2013 (18 of 2013), which is not a subsidiary as
+                   defined in clause (87) of section 2 of that Act:
+
+                   Provided that a subsidiary company may be allowed to be a promoter of the applicant if it
+                   meets the following conditions:
+
+                   a. The said company is listed on the stock exchange(s) in India;
+
+                   b. The said company has its own source of funds, independent from its holding company;
+
+                   c. The said company has a net worth of at least Rs.500 crore as at the end of the financial year
+                       preceding the date of application; and
+
+                   d. The holding company of the said company is not subsidiary of any other company.
+
+             (ii) a banking company as defined in clause (c) of section 5 of the Banking Regulation Act, 1949
+                   but does not include a foreign bank set up as a wholly owned subsidiary or a branch in India.
+
+             (iii) a Core Investment Company under Core Investment Companies (Reserve Bank) Directions,
+                   2016 as amended from time to time.
+
+             (iv) a public financial institution as defined in clause (72) of section 2 of the Companies Act, 2013
+                   (18 of 2013).
+
+             (v) a co-operative society registered under any relevant law for the time being in force.
+
+             (vi) a limited liability partnership formed under the Limited Liability Partnership Act, 2008 (6 of
+                   2009).
+
+             (vii) a Non-Operative Financial Holding Company registered with Reserve Bank of India.
+
+             (viii) Any other person or entity as may be allowed by the Authority from time to time; which
+                   meets one or more of the conditions in clause (69) of Section 2 of Companies Act, 2013.
+
+(m) “Investors” mean a shareholder of an insurer who is not a Promoter of the insurer.
+
+(n) “Key Management Person” shall include members of the core management team of an insurer or
+       applicant including all whole-time directors or Managing Directors or Chief Executive Officer and the
+       functional heads one level below the Managing Director or Chief Executive Officer, including the
+       Chief Financial Officer, Appointed Actuary, Chief Investment Officer, Chief Risk Officer, Chief
+       Compliance Officer and the Company Secretary.
+
+(o) “Liabilities” for the purposes of Chapter VII, includes the liabilities including contingent liabilities, if
+       any, of the original insurer which shall, in terms of the Scheme, be taken over by the transferee insurer;
+
+(p) “Merged Entity”, for the purpose of Chapter VI, means the resultant insurer consequent upon the
+       implementation of the Scheme.
+
+(q) “Original insurer”, for the purpose of Chapter VII, means the insurer which is amalgamated with the
+       transferee insurer as per the scheme of amalgamation;
+
+(r) “Other Forms of Capital” means the following instruments issued by an insurer in the manner
+       specified under these regulations:
+
+               (i) Preference Share Capital; or
+
+               (ii) Subordinated Debt.
+
+    (s) “Preference Share Capital” shall have the same meaning as assigned to it under the Companies Act,
+           2013.
+
+    (t) “Preliminary Expenses” means expenses relating to the formation of an applicant and shall include
+           legal, accounting and share issue expenses incurred for the formation of the applicant and expenses
+           incurred prior to grant of Certificate of Registration.
+
+    (u) “Private Equity Fund” includes -
+
+                 (i) an Alternative Investment Fund or its manager registered with SEBI (Alternative Investment
+                       Fund) Regulations, 2012;
+
+                 (ii) Any fund or its manager registered for the purpose of investment, with International Financial
+                       Services Centres Authority; or
+
+                 (iii) Funds, formed specifically for the purpose of investment, which are registered or whose
+                       manager is registered with relevant financial sector regulator in any Financial Action Task
+                       Force compliant jurisdiction.
+
+    (v) “Promoter” means Indian Promoter or Foreign Promoter or both.
+
+    (w) “Residual Value of Assets”, for the purpose of Chapter VII, means the amount equal to the value of the
+           assets of the original insurer as on the day immediately before the appointed date, less the total amount
+           of liabilities thereof, computed in accordance with the provisions of Chapter VII;
+
+    (x) “Scheme” for the purposes of Chapter VI, means scheme of amalgamation and transfer formulated
+           under section 35 of the Insurance Act, 1938 and not governed by section 37A of the Insurance Act,
+           1938.
+
+    (y) “Scheme of amalgamation” for the purposes of Chapter VII, means a scheme prepared by the
+           Authority and sanctioned and notified by the Central Government under the provisions of Section 37A
+           of the Act;
+
+    (z) “Shareholders or members” for the purposes of Chapter VII, mean the shareholders or members of the
+           original insurer immediately before the appointed date as may be specified under the Scheme of
+           amalgamation;
+
+    (aa) “Special Purpose Vehicle” means a company registered under the provisions of Companies Act, 2013
+           or a Limited Liability Partnership formed under the Limited Liability Partnership Act, 2008, for the
+           purpose of making investment in an insurer.
+
+    (bb) “Subordinated Debt” means: (a) “Debenture” as defined in clause (30) of section 2 of the Companies
+           Act, 2013; and (b) any other category of debt instrument as may be permitted by the Authority.
+
+    (cc) “Transacting insurers”, for the purpose of Chapter VI, means ‘transferor insurer’ and the ‘transferee
+           insurer’
+
+    (dd) “Transferee insurer” means
+
+           (i) For the purpose of Chapter VI, the insurer into which the ‘Transferor insurer’ is proposed to be
+                  Amalgamated or which would acquire the undertaking(s) of insurance business under Scheme of
+                  amalgamation and transfer;
+
+           (ii)For the purpose of Chapter VII, the insurer with whom the original insurer is amalgamated in
+                  accordance with the scheme of amalgamation
+
+    (ee) “Transferor insurer”, for the purpose of Chapter VI, means the insurer or insurers, which would be
+           amalgamated with the ‘Transferee insurer’ or which would transfer the undertaking of insurance
+           business to the ‘Transferee insurer’ under the Scheme of amalgamation and transfer.
+
+    (ff) "Transfer of Shares" includes transfer of shares from existing shareholder(s) to another person and
+           includes transmission and fresh issuance of the equity shares which leads to change in the shareholding
+           pattern of an insurer.
+
+2. All words and expressions used herein and not defined in these regulations but defined in the
+      Insurance Act, 1938 (4 of 1938), or in the Insurance Regulatory and Development Authority Act,
+
+      1999 (41 of 1999) or Rules or Regulations made thereunder shall have the same meanings
+      respectively assigned to them in those Acts, Rules or Regulations.
+
+                                        CHAPTER II: REGISTRATION OF INSURER
+
+4. Permissible Classes of Insurance Business
+
+      An applicant may make requisition for registration application for any one of the following class of business of
+      insurance:
+
+         (1) Life insurance business.
+
+         (2) General insurance business.
+
+         (3) Health insurance business exclusively.
+
+         (4) Reinsurance business exclusively.
+
+5. Disqualifications for Applicant: An applicant shall not be eligible to apply for the requisition in the following
+      circumstances:
+
+          (1) Where the requisition for registration application or the application for registration has been rejected at
+               any time during two financial years preceding the date of application; or
+
+          (2) Where Certificate of Registration has been cancelled by the Authority at any time during two financial
+               years preceding the date of application; or
+
+          (3) Where the name of the applicant does not contain the words ‘insurance’ or ‘assurance’ or ‘reinsurance’.
+
+6. Procedure for registration
+
+      (1) No-objection Certificate (NOC)
+
+              (a) No company or co-operative society shall be incorporated in India with a name that contains words
+
+                     ‘insurance’ or ‘assurance’ or ‘reinsurance’ without obtaining a No-objection Certificate from the
+                     Competent Authority.
+
+              (b) Upon request to issue the NOC in the specified format, NOC may be issued, after due examination
+
+                     of the said request.
+
+              (c) The No-objection Certificate issued shall be valid for a period of 6 months from the date of the
+
+                     Certificate, within which period the applicant shall file the application for issuance of requisition for
+                     registration application, in the specified form i.e. Form IRDAI/R1:
+
+                     Provided that the validity of the No-objection Certificate may be extended by the Competent
+                     Authority for a further period of three months for the reasons to be recorded in writing.
+
+      (2) R1 Approval
+
+               (a) The Competent Authority, upon receipt of application for issuance of Form IRDAI/R1 and after
+                     examining the matters considered relevant to its satisfaction, may issue the Form IRDAI/R1 which
+                     shall be valid for a period of three months from the date of issuance of the said form, within which
+                     period the applicant shall submit the duly filled Form IRDAI/R1 to the Authority for its
+                     consideration:
+
+                     Provided that the Competent Authority, by recording the reasons in writing, may reject the
+                     application for issuance of Form IRDAI/R1:
+
+                     Provided further that the Competent Authority, by recording the reasons in writing, may extend the
+                     validity of the IRDAI/R1 Form by another three months.
+
+               (b) Every application in the Form IRDAI/R1 shall be accompanied by
+
+                     (i) the certificate of incorporation issued by Registrar of Companies in case of a company or
+                             registration certificate in case of co-operative society;
+
+                     (ii) a certified copy of the Memorandum of Association and Articles of Association, where the
+                           applicant is a company and incorporated under the Companies Act, 2013 (18 of 2013); or a
+                           certified copy of the legislation of Parliament setting up the statutory body to carry on insurance
+                           business where the applicant is a statutory body; or a certified copy of bye-laws where the
+                           applicant is a co-operative society;
+
+                     (iii) the name, address and the occupation of the directors of the promoter(s) and the applicant;
+
+                 (iv) a certified copy of the annual report of promoter(s) for up to the last five years, as applicable;
+
+                 (v) a certified copy of the shareholders’ agreement, as applicable, between promoter(s) and
+                        investor(s) of the applicant;
+
+                 (vi) projection of business for five years duly approved by the Board of Directors of the applicant
+                        along with a certificate from a fellow member of Institute of Actuaries of India that the
+                        projections are reasonable and workable;
+
+                 (vii) proof in support of payment of non-refundable fee of rupees five lakh along with applicable
+                        taxes towards processing the Form IRDAI/R1 through any of the recognised modes of electronic
+                        fund transfer.
+
+             (c) The following factors, as may be considered relevant, shall be taken into account while processing
+                   the Form IRDAI/R1, including but not limited to the following:
+
+                   (i) the general track record of conduct and performance of each of the promoters and investors in
+                          the fields of business or profession they are engaged in;
+
+                   (ii) the record of conduct and performance of the directors and persons in management of the
+                          promoters, investors and the applicant;
+
+                   (iii) the financial strength of the promoters, investors and the applicant;
+
+                   (iv) the capital structure of the promoters, investors and the applicant;
+
+                   (v) the sources of meeting the capital requirements of the applicant;
+
+                   (vi) shareholding pattern of the applicant and its promoter(s);
+
+                   (vii) the ability of the applicant and its promoters to meet the obligation to provide life insurance or
+                          general insurance or health insurance to the persons residing in the rural sector, workers in the
+                          unorganised sector or informal sector or for economically vulnerable or backward classes of
+                          the society and other categories of persons specified by the Authority;
+
+                   (viii) the ability to meet the obligation to underwrite insurance business in third party risks of motor
+                          vehicles as specified by the Authority;
+
+                   (ix) the planned infrastructure of the applicant;
+
+                   (x) the proposed business expansion plan for five succeeding years, including establishment of
+                          place of business in rural areas, to effectively carry out the insurance business; and
+
+                   (xi) other relevant matters for carrying out the provisions of the Act.
+
+            (d) The Competent Authority, after examining the matters considered relevant and upon satisfaction,
+                   shall issue the “R1” approval subject to the conditions as may be specified in the said approval letter.
+                   Along with the said approval letter, the applicant shall be issued the application for registration i.e.
+                   Form IRDAI/R2.
+
+            (e) The “R1” approval shall be valid for a period of three months from the date of the said approval
+                   within which period the applicant shall submit duly filled Form IRDAI/R2 for consideration of the
+                   Authority:
+
+                   Provided that the Competent Authority, by recording the reasons in writing, may extend the validity
+                   of the “R1” approval by a period of another three months.
+
+    (3) R2 Approval
+
+             (a) Every application in the Form IRDAI/R2 as per the specified format shall be accompanied by
+
+                   (i) An affidavit by the applicant and its promoters that the paid-up equity capital of the applicant,
+                          after deducting the preliminary expenses, shall be adequate to comply with the requirements of
+                          section 6 of the Act.
+
+                   (ii) A statement indicating the shareholding pattern of the applicant as on the date of the
+                          application.
+
+                   (iii) An affidavit by the managing director or chief executive officer or whole-time director of the
+                          applicant, the promoter(s) and investor(s) of the applicant certifying that the holding of foreign
+                          paid-up equity capital, referred to in clause (b) of sub section (7A) of Section 2 of the Act, is
+                          calculated in accordance with Indian Insurance Companies (Foreign Investment) Rules, 2015
+                          read with these regulations and does not exceed seventy-four percent of the total paid-up
+
+            equity capital of the applicant:
+
+            Provided that in case of the Indian Promoter being a Limited Liability Partnership, such
+            affidavit shall be signed by the Designated Partner:
+
+            Provided further that in case of applicant being a co-operative society, the affidavit shall
+            certify that the holding of foreign capital, referred to in clause (c) of sub section (8A) of
+            Section 2 of the Act, does not exceed twenty-six percent of the total capital of the applicant.
+
+     (iv) In case the applicant has foreign investment, an affidavit by the managing director or chief
+            executive officer or whole-time director of the applicant, the promoter(s) and investor(s) of the
+            applicant certifying that the requirement of Indian Insurance Companies (Foreign Investment)
+            Rules, 2015 shall be complied with.
+
+     (v) In case the applicant has foreign investment exceeding forty-nine percent, an affidavit by the
+            managing director or chief executive officer or whole-time director and the promoters of the
+            applicant certifying that the requirement of Indian Insurance Companies (Foreign Investment)
+            Rules, 2015 shall be complied with.
+
+     (vi) A certified copy of the standard forms of the applicant and statements of the assured rates,
+            advantages, terms and conditions to be offered in connection with insurance policies together
+            with a certificate by a fellow member of Institute of Actuaries of India, in case of life insurance
+            business, that such rates, advantages, terms and conditions are workable and sound.
+
+     (vii) A certified copy of the Memorandum of Understanding or Management Agreement or
+            Shareholders Agreement or Voting Rights Agreements or any other agreements in whatsoever
+            form entered into, between the promoters and the investors, if any, or amongst the promoters
+            as a whole including copies of the support or comfort letters exchanged between the parties.
+
+     (viii) A certificate from a practicing chartered accountant or a practicing company secretary
+            certifying that all the requirements relating to registration such as paid-up equity capital,
+            foreign investment limits and other applicable requirements of laws for the time being in force
+            including the Act have been complied with by the applicant.
+
+     (ix) Proof in support of payment of non-refundable fee of rupees five lakh along with applicable
+            taxes towards processing the Form IRDAI/R2 through any of the recognised modes of
+            electronic fund transfer.
+
+(b) Upon completion of the processing of the Form IRDAI/R2 but prior to its approval by the Authority,
+     the applicant shall submit:
+
+     (i) Evidence of applicant having received equity share application money in accordance with
+           section 6 of the Act and complied with conditions of R1 approval granted to the applicant.
+
+     (ii) An affidavit by the applicant, promoters and the investors that upon grant of Certificate of
+           Registration, the said share application money shall be converted into paid-up equity share
+           capital of the applicant.
+
+(c) The Authority shall take into account the matters, as may be considered relevant, while processing
+     the Form IRDAI/R2, including but not limited to the following:
+
+     (i) the nature of insurance products proposed to be offered by the applicant;
+
+     (ii) the level of actuarial, accounting and other professional expertise within the management of
+            the applicant;
+
+     (iii) the organization structure of the applicant to carry on all functions in respect of the insurance
+            business;
+
+     (iv) the applicant is eligible, and in its opinion, is likely to meet effectively its obligations imposed
+            under the Act;
+
+     (v) the financial condition of the promoters, investors and the general character of the management
+            of the applicant are sound;
+
+     (vi) the volume of business likely to be available to, and the capital structure and earning prospects
+            of the applicant will be adequate;
+
+     (vii) the interests of the general public will be served if the certificate of registration is granted to
+            the applicant in respect of the class of insurance business specified in the application; and
+
+     (viii) the applicant has complied with the provisions of sections 2C, 5 and 31A of the Act and has
+
+                          fulfilled all the requirements of these sections applicable to it.
+
+                   (ix) all other relevant matters for carrying out the provisions of the Act.
+
+              (d) The Authority, after examining the matters considered relevant and upon its satisfaction, shall, at its
+                   discretion, issue the “R2” approval subject to the conditions as may be specified in the said approval
+                   letter.
+
+    (4) Grant of Certificate of Registration: After examining the matters considered relevant and upon its
+            satisfaction, the applicant may be registered as an insurer for the class of business for which the applicant
+            is found suitable and the Authority may grant the applicant the Certificate of Registration in Form
+            IRDAI/R3 subject to the following conditions:
+
+              (a) The applicant and its promoter(s) and investor(s) shall be “Fit and Proper” on a continuous basis;
+
+              (b) The promoter(s) and investor(s) shall comply with the lock-in period specified in these regulations,
+                     on their shareholding from the date of grant of Certificate of Registration;
+
+              (c) The applicant/insurer, its promoter(s) and investor(s) shall comply with the provisions of the Act as
+                     well as Rules, Regulations, Guidelines, Circulars etc. framed thereunder at all times.
+
+              (d) The applicant, promoter(s) and the investor(s) shall at all times comply with all the applicable
+                     conditions, subject to which the certificate Form IRDAI/R3 has been issued;
+
+              (e) The applicant shall furnish, within 15 days, evidence of applicant having allotted shares to its
+                     promoters and investors in accordance with section 6 of the Act and having complied with the
+                     conditions as per R1 approval and R2 approval.
+
+              (f) Such other conditions as may be deemed fit at the time of grant of Certificate of Registration.
+
+    (5) Commencement of Insurance Business: An applicant which has been granted the Certificate of
+            Registration under these regulations shall commence insurance business within 12 months from the grant
+            of Certificate of Registration. In case, the applicant fails to commence business within the stipulated time,
+            the certificate of registration shall not be valid:
+
+             Provided that in case the applicant is not in a position to commence the insurance business within the
+             specified period of 12 months, it shall before the time limit expires, seek an extension from the
+             Competent Authority through a written application specifying the reasons for not commencing business
+             within the specified period:
+
+             Provided further that no extension of time shall be granted by the Competent Authority beyond 24
+             months from the date of grant of Certificate of Registration.
+
+    (6) Rejection of Application
+
+            (a) The application for issuance of NOC may be rejected by the Competent Authority for reasons to be
+
+                   recorded in writing.
+
+             (b) The R1 application may be rejected by the Competent Authority or the R2 application may be
+
+                   rejected by the Authority, after giving the applicant a reasonable opportunity of being heard, in
+                   following cases:
+
+                   (i) Where an application is not complete in all respects.
+
+                   (ii) Where the applicant has not met the stipulations as laid down in these regulations.
+
+                   (iii) Where the requirements under the provisions of the Act or the Regulations framed thereunder
+                         are not met at any stage of the process.
+
+                   (iv) For any other reasons to be recorded in writing.
+
+             (c) The order rejecting the application shall be communicated by the Competent Authority to the
+
+                     applicant, in writing, within a period of thirty days of such rejection stating therein the grounds on
+                     which the application has been rejected.
+
+             (d) An applicant, whose application for registration has been rejected at any stage, shall not be entitled
+
+                     to a Certificate of Registration.
+
+    (7) Withdrawal of Application:
+
+             (a) Any applicant may apply to the Competent Authority for withdrawal of the application for
+                   registration at any stage of application, along with reasons.
+
+        (b) The Competent Authority may approve or reject the said request for withdrawal for the reasons to be
+             recorded in writing.
+
+        (c) In case of rejection of request for withdrawal of application, the R1 application or R2 application, as
+             the case may be, may be rejected in accordance with Regulation 6(6).
+
+    (8) Further Information and Clarification: The Competent Authority may require the applicant to furnish
+            such further information or clarifications as may be considered relevant for the examination of the
+            application filed under these regulations.
+
+    (9) Conditions for Approval:
+
+        (a) The Competent Authority may impose such conditions as may be deemed fit at the time of grant of
+             No-objection Certificate and R1 approval, or the Certificate of Registration.
+
+        (b) The Authority may impose such conditions as may be deemed fit at the time of grant of R2 approval.
+
+    The applicant shall be bound by the conditions subject to which the approvals and/or certificate of registration has
+    been issued.
+
+                                  CHAPTER III: CAPITAL STRUCTURE
+
+7.  Every applicant/insurer shall ensure that they are in compliance with the provisions of this Chapter on a
+
+continuous basis.
+
+8.  Lock-in period:
+
+    (1) Equity shares of an insurer having its shares listed on any stock exchange(s) recognized in India shall not
+         be subject to lock-in.
+
+    (2) In case of insurers not having its shares listed on any stock exchange recognized in India, the equity shares
+         of the insurer shall be under lock-in period as under:
+
+Sl. Particulars                            Investment in the Lock-in Period
+No.                                        capacity of
+
+1 Investment at the time of or before Promoter       or
+        grant of R3 (i.e. Certificate of Investor         5 years from the date of grant of R3
+        Registration)
+
+2 Investment during 5 years post grant Promoter      or Earlier of the following:
+        of R3: In case of change in Investor              a) 5 years from the date of investment; or
+        shareholding pattern                              b) 8 years from the grant of R3.
+
+3 Investment after 5 years but before 10 Promoter    Earlier of the following:
+        years post grant of R3: In case of           a) 3 years from the date of investment; or
+        change in shareholding pattern               b) 12 years from the grant of R3
+
+                                           Investor  Earlier of the following:
+
+                                                     a) 2 years from the date of investment; or
+
+                                                     b) 11 years from the grant of R3
+
+4 Investment after 10 years but before Promoter      2 years from the date of investment
+                                                     1 year from the date of investment
+    15 years post grant of R3: In case of  Investor
+    change in shareholding pattern
+
+5 Investment after 15 years post grant of Promoter   1 year from the date of investment
+                                                     Nil
+    R3                                     Investor
+
+Provided that the Competent Authority may relax the lock-in period in following circumstances:
+
+    (i) To enable the insurer to list its shares on the stock exchange(s) in India; or
+
+    (ii) Under circumstances of distressed financial position, amalgamation or reorganization pursuant to change in
+        applicable law of any insurer or its shareholder(s):
+
+Provided further that the lock-in period shall not be applicable in case of equity shares allotted to employees or
+directors of the insurer pursuant to any scheme formed for the benefit of the employees or directors of the insurer:
+
+Provided further that the lock-in period shall not be applicable in case of investor holding not more than one percent
+of the equity shares of the insurer.
+
+9. Fit and Proper Criteria:
+
+    (1) The applicant, its promoters and investors shall be assessed on the fit and proper criteria on the basis of
+         factors, as may be considered relevant, including but not limited to those specified in Schedule 1 of these
+         regulations.
+
+    (2) The applicant, promoters and investors shall be fit and proper on a continuous basis i.e., even after the grant
+         of Certificate of Registration.
+
+    (3) In case, the applicant, its promoters and/or investors are found to be not fit and proper at any stage, the
+         Competent Authority may take such action as may be deemed appropriate.
+
+10. Special Purpose Vehicle: In case the applicant is promoted by a Special Purpose Vehicle (SPV), the following
+      conditions shall be complied with:
+
+    (1) The SPV has not issued and shall not issue convertible instruments of any kind;
+
+    (2) No stock options or sweat equity shares shall be issued to the employees or directors of SPV;
+
+    (3) Prior approval of the Authority shall be obtained for transfer of shares of the SPV as per the limits
+              specified under Section 6A of the Act in accordance with the manner specified in these regulations;
+
+    (4) The investment limits, lock-in period and other requirements as per these regulations shall also be
+              applicable at the SPV level;
+
+    (5) The criteria as may be specified with respect to clause (c) of sub Regulation (2) of Regulation 6 shall
+              also be applicable for the promoter and investor of the SPV;
+
+    (6) Subject to Regulation 12(3), the equity shares to be issued by the SPV shall be valued at a price
+              determined on the basis of valuation certificate issued by one SEBI Registered Category-I Merchant
+              Banker. Such certificate shall not have been issued prior to ninety (90) days from the date of allotment
+              of shares. The Merchant Bankers shall provide a proper report addressed to the Board of Directors with
+              justification for such valuation. A copy of the summary along with critical elements of the valuation
+              report shall be sent to the shareholders along with the notice of the general meeting; and
+
+    (7) The paid-up capital of the SPV shall be equal to or more than the minimum paid up capital of the
+              applicant required under section 6 of the Act.
+
+11. Operating Company: In case the applicant is promoted by an operating company, the said promoter will be
+      subject to necessary due-diligence including but not limited to the following:
+
+    (1) The examination of the nature of operating company on the basis of substance over form;
+
+    (2) The track record of business operations, liquidity and profitability;
+
+    (3) Ability of the promoter to raise capital to meet the business and solvency requirements of the applicant, on
+           an ongoing basis; and
+
+    (4) The shareholding pattern of the promoter.
+
+    12. Minimum Paid-up Equity Capital:
+
+    (1) The following shall be the minimum paid-up equity capital of the Applicant:
+
+Class of Insurance Business                        Minimum Paid-up Equity Capital
+
+Life insurance business                            Rupees one hundred crore
+
+General insurance business                         Rupees one hundred crore
+
+Health insurance business exclusively              Rupees one hundred crore
+
+Reinsurance business exclusively                   Rupees two hundred crore
+
+(2) The paid-up equity capital of the applicant and SPV, if any, after deducting the preliminary expenses, shall be
+     adequate to comply with the requirements of section 6 of the Act.
+
+(3) Till the time of commencement of insurance business:
+
+               (i) The equity shares of the Applicant and SPV shall be issued at its face value;
+
+               (ii) The infusion of funds in the Applicant and SPV, by its shareholders, shall be commensurate with the
+                   percentage of their equity stake in the Applicant and SPV:
+
+          Provided that the issuance of equity shares of insurer or SPV may be permitted to be issued at premium,
+          after the commencement of business.
+
+   13. Investment as “Promoter”: Investment in the capacity of promoter, directly or indirectly, in an insurer shall
+         be in compliance with the following:
+
+    (1) The person shall not be a promoter of more than one life insurer, one general insurer, one health insurer and
+          one reinsurer:
+
+          Provided that the Competent Authority may permit a person to be promoter of more than one insurer
+          engaged in the same class of insurance business on a temporary basis if the same is part of the Scheme filed
+          with the Authority under section 35 of the Act.
+
+    (2) The person shall submit an undertaking to infuse capital in the insurer to meet its solvency and/or business
+          requirements, if any, in future; and
+
+    (3) The person is otherwise eligible to act as promoter of the insurer under these regulations.
+
+14. Promoter(s) Holding: The minimum equity shareholding of all the promoter(s) of the insurer shall be
+      collectively maintained at above fifty per cent of the paid-up equity capital of the insurer, even after transfer of
+      equity share holding from any promoter(s) to another promoter(s):
+
+      Provided that promoter(s), collectively, may dilute their stake in the insurer below fifty percent but not below
+      twenty-six percent of the paid-up equity capital of the insurer in case the following conditions are complied with:
+
+    (1) The insurer has track record of solvency ratio above control level during 5 years immediately preceding the
+         dilution of stake by promoter(s), and
+
+    (2) The shares of the insurer are listed on the stock exchange(s) in India:
+
+      Provided further that any shareholder shall be reclassified from promoter to investor, or vice versa, only after
+      obtaining prior approval of the Competent Authority.
+
+15. Investment as “Investor”: Investment in the capacity of investor, directly or indirectly, in an insurer shall be in
+      compliance with the following:
+
+         (1) The investment by a single “investor” shall be less than twenty-five percent of the paid-up equity
+                 capital of insurer.
+
+         (2) The investment by all the “investors” collectively shall be less than fifty percent of the paid-up equity
+                 capital of the insurer:
+
+      Provided that the said restriction shall not be applicable in case the equity shares of the insurer are listed on the
+      stock exchange(s) in India.
+
+         (3) Number of Insurers:
+
+               (a) An investor may invest in any number of insurers provided that the investment does not exceed ten
+                      percent of the paid-up capital of the respective insurers.
+
+               (b) In case of investment of more than ten percent but less than twenty-five percent of paid-up capital
+                      of the insurers, investment by the investor shall be restricted to not more than two insurers in each
+                      class of insurance business.
+
+         (4) In case of a one-time investment by an investor in an unlisted insurer, the investor shall make an upfront
+                 disclosure to this effect to the insurer. In such a case, the promoter(s) shall submit an undertaking to the
+                 Authority to infuse capital in the insurer to meet its solvency and/or business requirements, if any, in
+                 future.
+
+      Provided that such an undertaking shall not be required for any investment by a person acquiring less than one
+      percent of the paid-up share capital of the insurer.
+
+16. Nomination of Director
+
+    (1) The investor shall not nominate any director on the Board of the insurer if the investment by the said investor
+          in the insurer does not exceed ten percent of the paid-up capital of the respective insurer.
+
+    (2) The investor may nominate not more than one director on the Board of the insurer if its investment exceeds
+          10 percent of the paid-up capital of the respective insurer.
+
+    (3) No shareholder shall nominate any director on the Board of any insurer if it has already nominated director on
+          the board of any other insurer engaged in the same class of insurance business.
+
+    17. Additional Stipulations for Investment by promoter and/or investor: Investment shall also be in compliance
+           with the following:
+
+              (1) Investment shall be made entirely out of own funds and not from borrowed funds.
+
+              (2) In case any of the group entities or body corporate under the same management have also invested in
+                      the insurer, the limits under these regulations shall apply at the group level.
+
+                      For the purposes of this sub-regulation, the expressions “group” and “same management” shall have the
+                      meanings respectively as provided under explanation to section 6A(4)(b)(iii) of the Act.
+
+              (3) In case of investment by any person or entity in more than one insurer, directly or indirectly:
+
+                       (a) The person shall disclose the facts related to common holding to all the investee insurers;
+
+                      (b) The person, jointly along with the insurer, shall put in place mechanism to avoid any conflict of
+
+                               interest that may arise due to the said common equity holding; and
+
+                      (c) The director nominated by the said person shall recuse from the discussions on any matter
+
+                               pertaining to other investee insurer(s), where the conflict of interest may arise:
+
+              Provided that the stipulations as per sub-regulations (1) and (3) of this Regulation shall be applicable only to
+              shareholders holding more than one percent of the equity capital of any insurer.
+
+18. Criteria for Investment by the Private Equity Funds:
+
+                 (1) The private equity (PE) funds may invest in the applicant in the capacity of a promoter or investor in
+                        the manner as specified under these regulations.
+
+                 (2) Investment in the insurer, including proposed limit in respect of future capital requirement of the
+                        insurer, shall be as per the PE Fund’s strategy reflected in its placement memorandum to its investors
+                        or its charter documents.
+
+                 (3) A Private Equity Fund may invest in any insurer in the capacity of “Promoter”, only if it meets the
+                        following criteria:
+
+                  (a) The manager of the PE Fund or its Parent Fund has completed ten years of operation;
+
+                  (b) The funds raised by the PE Fund including its group entity(ies) is USD five hundred -million or
+                         more (or its equivalent in INR);
+
+                  (c) The investible funds available with the PE Fund is not less than USD one hundred million ((or its
+                         equivalent in INR); and
+
+                  (d) The funds managed by the manager of the PE Fund has invested in the financial sector in India or the
+                         other jurisdictions.
+
+    19. Manner of calculation of equity capital held by foreign promoter and foreign investor:
+
+           For the purposes of the Act and these regulations, the calculation of the holding of equity shares by one or more
+           foreign investors and/or foreign promoters in the applicant company, shall be made as under and shall be
+           aggregate of:-
+
+           (1) the quantum of paid-up equity share capital held by the foreign Investor(s) and foreign promoter(s)
+                 including foreign venture capital investor(s), in the applicant company; and
+
+           (2) the proportion of the paid-up equity share capital held or controlled by such foreign investor(s) or foreign
+                 promoter(s) either by itself or through its subsidiary companies in the Indian Promoter(s) or Indian
+                 Investor(s) as mentioned in sub-regulation (1) of this Regulation:
+
+              Provided that sub-regulation (2) shall not be applicable to an Indian Promoter or Indian Investor being the
+              entities referred in sub-clause (ii) and (iv) of clause (l) of sub-Regulation (1) of Regulation 3:
+
+              Provided further that the sub-regulation (2) shall not be applicable to any Indian Promoter or Indian
+              Investor of a listed insurer where such Indian Promoter and/or Indian Investor are regulated by Reserve
+              Bank of India, Securities and Exchange Board ofIndia and/or National Housing Bank.
+
+    20. The Applicants as well as insurers are required to adhere to requirements specified in this Chapter, as applicable.
+
+                  CHAPTER IV: TRANSFER OF SHARES
+
+21. Requirement of Prior-Approval for transfer of shares:
+
+     No registration of transfer of shares or issue of equity capital of an insurer shall be made without prior-approval
+     of the Authority in following cases:
+
+     (1) Where after the transfer, the paid-up equity capital holding of transferee in the shares of the insurer is
+            likely to exceed five percent of the paid-up equity capital of the insurer and any subsequent transfers
+            where the shareholding of the transferee exceeds further 5% of the paid-up equity capital of the insurer,
+            in a financial year.
+
+     (2) the nominal value of shares intended to be transferred by an individual firm, group constituents of a
+            group or body corporate under same management jointly or severally exceeds one percent of the paid-up
+            equity capital of the insurer and for any subsequent transfers by the transferor where the paid-up equity
+            capital of the insurer exceeds 1% of the paid-up equity capital, in a financial year.
+
+     (3) For the purpose of calculating the quantum of transfer or acquisition of shares, the cumulative transfers
+            or acquisitions made during a given financial year shall be considered, irrespective of number of
+            transactions and number of transferees in case of a transferor and number of transferors in case of an
+            acquirer:
+
+     Provided that in case of insurers having its equity shares listed on any stock exchange recognized in
+     India, the above mentioned cumulation shall apply only with regards to equity shares held by a promoter
+     of the insurers.
+
+22.  Manner of Obtaining Prior-Approval:
+
+     (1) Application in specified form: The application seeking prior approval of the Authority under the
+           provisions of Section 6A of the Act shall be made in form(s) as specified by the Authority, accompanied
+           by the requisite documents and the details of the transferor and transferee as specified, providing complete
+           details of the proposed transferee, its financial strength, sources of funds from which the proposed
+           investment is intended to be made, and such other information as may be specified by the Authority.
+
+     (2) Declaration on Beneficial Shareholding: The application for transfer of shares shall be accompanied by a
+           declaration from the proposed shareholder whether the shares are proposed to be held for his own benefit
+           or as a nominee, whether jointly or severally, on behalf of others and in the latter case giving the name,
+           occupation and address of the beneficial owner or owners, and the extent of the beneficial interest of each.
+
+     (3) Certificate by Merchant Banker: The application for transfer of shares shall be accompanied by a
+           certificate from Category-I Merchant Banker registered under SEBI, certifying the fair value per share of
+           the insurer. Such certificate shall not have been issued more than 30 days prior to the date of application:
+
+     Provided that Certificate by Merchant Banker shall not be required to be furnished in case the application
+     is filed by any insurer having its shares listed on the stock exchange(s).
+
+     (4) Processing Fee: Every application seeking prior approval for transfer of shares shall be accompanied with
+           the proof of payment of non-refundable fee of rupees five lakh along with applicable taxes:
+
+     Provided that the said fee shall be rupees fifty lakh along with applicable taxes, where the transfer of
+     shareholding exceeds fifty percent of the paid-up equity capital of the insurer.
+
+23. Due Diligence: The Authority shall carry out the requisite due diligence of the proposed transferee prior to grant
+      of approval for transfer of shares under the provisions of sub section (4) of Section 6A of the Act or for issue of
+      shares to the proposed transferee.
+
+24. Conditions for Approval: The Authority shall, while according its approval, specify such conditions on
+      transferee as it may consider appropriate.
+
+25. Transfer of shares in case of listed insurance companies:
+
+     (1) Transfer of more than one percent but less than five percent of paid-up equity capital of any insurer having
+            its equity shares listed on stock exchange recognized in India:
+
+     (a) Any person may transfer equity shares exceeding one percent but less than five percent of the paid-
+            up equity capital of such insurer subject to filing self-certification with the insurer that such transfer
+            is in compliance with other applicable laws. Such filing with the insurer shall be considered as the
+            deemed approval of the Authority for the purpose of Section 6A(4)(b)(iii) of the Act.
+
+     (b) The transferor shall file the self-certification with the insurer immediately upon execution of the
+            transaction. The transferor is required to ensure compliance for any transaction(s) aggregating to
+            more than one per cent of the paid-up equity capital.
+
+      (2) Acquisition exceeding five percent of paid-up equity capital of any insurer having its equity shares listed
+             on a stock exchange recognized in India:
+
+          (a) Every person, in order to acquire equity shares of an insurer which shall or is likely to take the
+                 aggregate holding of such person in the said insurer to more than five per cent of the paid-up equity
+                 share capital of the insurer, shall seek prior approval of the Authority for such transfers in the manner
+                 as specified in the Regulation 22.
+
+          (b) For any subsequent acquisition of equity shares of the insurer, by such person, which shall or is likely
+                 to take aggregate holding in the said insurer to not more than ten per cent of the paid-up equity capital
+                 of the insurer, prior approval of the Authority shall not be required.
+
+          (c) Any subsequent acquisitions of equity shares of the insurer, by such person, which shall or is likely to
+                 take aggregate holding in the said insurer to more than ten per cent of the paid-up equity capital of the
+                 insurer, prior approval of the Authority shall be obtained in the manner specified in Regulation 22.
+
+   (3) Notwithstanding any of the above, even when the acquisition or aggregate holding of any person is proposed
+          to be less than five percent and if the concerned listed insurer suspects that dubious methods have been
+          adopted to get over the ceiling of five percent to camouflage the real purpose by individuals or groups with a
+          view to acquire controlling interest in the insurer, a reference shall be made to the Authority by the concerned
+          insurer. In such cases, it shall be in order for the Authority to require such shareholders to comply with the
+          Due Diligence and Fit and Proper criteria.
+
+26. Pledge of Shares of Insurer:
+
+      (1) The provisions relating to transfer of shares as contained in Section 6A(4)(b) of the Act and this chapter
+             shall apply mutatis-mutandis to the creation of pledge or any other kind of encumbrance over shares of an
+             insurer.
+
+      (2) The promoter(s) and investor(s) of the applicant shall not create any encumbrance on the equity shares of
+             the applicant or insurer during the applicable lock in period.
+
+27. Reporting requirements:
+
+    (1) Every insurer who has been granted registration under the Act shall, within 30 days of the end of every
+           quarter, furnish, in the specified format, to the Authority a statement indicating changes exceeding 1% of
+           the shareholding of the promoter. However, any change in excess of 5% of the shareholding of the
+           promoters shall be reported to the Authority immediately.
+
+    (2) Every insurer shall file a declaration on annual basis that its promoters and investors are ‘Fit and Proper’.
+
+    (3) Insurers shall forthwith inform the Authority if any non-compliance is observed with regard to the
+           provisions of the Act, the Regulations and Guidelines framed thereunder and the Circulars issued
+           thereunder.
+
+    (4) In terms of Section 26 of the Act, an insurer shall forthwith furnish to the Authority the full particulars of
+           any alteration which occurs or is made which affects any of the following matters:
+
+            (a) Any encumbrance created on the shareholding of the promoter,
+
+            (b) Any change in control of the promoter,
+
+            (c) Any penal or regulatory action taken against the promoter,
+
+            (d) Any other matters which may be specified from time to time.
+
+28. Action for Violation or Non-Compliance
+
+      Any transfer of shares executed beyond the stipulated threshold limits by the shareholders, without prior
+      approval of the Authority shall attract regulatory action and;
+
+        (1) The transferee shall not have any voting rights in any of the meetings of the insurer.
+
+        (2) The transferee shall promptly dispose of the excess shares acquired, beyond the specified threshold limit.
+
+            CHAPTER V: LISTING OF EQUITY SHARES OF INSURER ON STOCK EXCHANGE
+
+29. An insurer may approach the appropriate financial sector regulator for listing of its equity shares, by way of
+      divestment of equity shares by existing shareholders or fresh issue of equity shares by the insurer or both, on the
+      stock exchange(s) recognized under Securities Contracts (Regulation) Act, 1956 upon fulfilment of following
+      conditions:
+
+      (1) The Board of the insurer resolves that such listing of equity shares is in the interests of policyholders.
+
+      (2) The Board of the insurer resolves that the insurer shall be able to comply with the regulatory stipulations
+             of the said financial sector regulator(s).
+
+      (3) The listing of equity shares on stock exchange(s) shall not be used as medium to raise capital or transfer
+             shares which would otherwise be in contravention to the applicable regulatory provisions.
+
+      (4) All the regulatory provisions stipulated by the Authority shall be complied with scrupulously.
+
+      (5) The insurer shall have obtained prior approval for transfer of shares for offer for sale and/or fresh issuance
+             of shares, as may be required vide section 6A of the Act read with Regulation 21 of these regulations:
+
+             Provided that the submission of the details of transferee shall not be mandatory.
+
+      (6) The insurers specified under section 10A of the General Insurance Business (Nationalization) Act, 1972
+             shall ensure compliance with the provisions of section 10B of the said Act.
+
+      (7) The insurer shall file an intimation with the Authority at least 15 days before it approaches the appropriate
+             financial sector regulator for listing of its equity shares. The insurer shall also keep the Authority informed
+             regarding the subsequent developments in the said matter.
+
+      (8) Any documents filed by the insurer under this chapter or any communications between insurer and the
+             Authority with regard to proposed listing of equity shares shall not in any manner be deemed to be or
+             serve as a validation by the Authority of the facts, representations, assertions or anything written in the
+             offer documents. This fact shall be disclosed in bold letters in the offer document.
+
+      (9) Such other conditions as may be specified.
+
+               CHAPTER VI: AMALGAMATION AND TRANSFER OF INSURANCE BUSINESS
+
+30. No insurance business of an insurer shall be transferred to or amalgamated with the insurance business of any
+      other insurer except in accordance with a scheme prepared under section 35 of the Act and approved by the
+      Authority in the manner specified in this Chapter:
+
+      Provided that this Chapter shall not be applicable to companies which fall within purview of General Insurance
+      Business (Nationalization) Act, 1972:
+
+      Provided further that applicability of this Chapter to Life Insurance Corporation of India shall be subject to the
+      provisions of The Life Insurance Corporation Act 1956:
+
+      Provided further that this Regulation shall not be applicable in case of a Scheme prepared by the Authority
+      under section 37A of the Act.
+
+31. Application to be submitted to the Authority:
+
+      (1) The transacting insurers shall submit notice of intention to make an application for implementation of the
+           scheme, together with a statement of the nature of the amalgamation and transfer, along with the reasons
+           thereof, and the documents as may be specified.
+
+      (2) The transacting insurers shall immediately after filing of the notice of intention to the Authority:
+
+           (a) Cause a statement of the nature and terms of the amalgamation or transfer, as the case may be, to be
+                 published in newspaper (at least one National daily and one vernacular, copies of which shall be filed
+                 with the Authority).
+
+           (b) Cause copies of the proposed scheme to be kept open for inspection by policyholders at the registered
+                 office and main corporate office of the transacting insurers and simultaneously the same shall be
+                 uploaded on the website of the respective insurers. Such inspection and access to the documents
+                 referred to above shall be kept open until the complete implementation of the Scheme.
+
+           (c) Send a notice of the filing of the application in such form, including through the digital channels, as it
+                 may direct, to every person resident in India who is the holder of any insurance policy of any of the
+                 insurer concerned in the proposed transaction.
+
+   (3) Application seeking ‘in-principle’ approval of the Authority in such form and manner as may be specified:
+
+        Provided that the application seeking ‘in-principle’ approval to implement the scheme shall be filed only
+        after 2 months from the filing of date of notice of intention, as referred in sub-regulation (1) of this
+        Regulation.
+
+   (4) The application shall be examined on the basis of such factors as may be considered appropriate including
+          but not limited to the impact of the scheme on
+
+       (a) the available solvency margin of the merged entity post-implementation of the scheme.
+
+       (b) the compliance with other applicable laws and Regulations.
+
+       (c) the Interests of the policyholders.
+
+       (d) the orderly growth in the insurance sector.
+
+32. In-principle approval by the Authority:
+
+      (1) The Authority upon satisfaction of such matters as may be deemed fit may grant in-principle approval to
+             the proposed scheme subject to such conditions as it may consider appropriate.
+
+      (2) While granting such in-principle approval and during the period prior to the transacting insurers receiving
+             the approval of the National Company Law Tribunal (NCLT) for the scheme of arrangement under the
+             Companies Act, 2013, the Authority may, if so required, impose such requirements on the transacting
+             insurers as it may consider necessary and appropriate (a) to ensure protection of the interests of the
+             policyholders; (b) to ring fence the assets of the transacting insurers including stipulations for filing of
+             information/reports at such periodicities as it may deem fit and (c) for such reasons as may be considered
+             appropriate.
+
+      (3) During the interim period, the transacting insurers shall ensure that the insurance operations are carried out
+             in compliance with all requirements of the Insurance Act, 1938, the Regulations framed thereunder and
+             the directions issued by the Authority.
+
+      (4) Upon receipt of ‘In-principle’ approval of the Authority, the transacting insurers shall initiate steps to seek
+             such other approvals as may be required including but not restricted to:
+
+             (a) Filing the scheme of arrangement (along with the ‘in-principle’ approval of the Authority) with the
+                     NCLT, for sanction of the scheme of arrangement in terms of the Companies Act, 2013 and
+                     compliance with all requirements under the Rules framed thereunder.
+
+             (b) Filing application with the Reserve Bank of India (RBI) seeking requisite approvals, if any.
+
+             (c) In cases where a foreign joint venture partner is also associated with the transaction, approval from
+                     the regulator in the relevant jurisdiction, if such approval is required; and
+
+             (d) Seek such other approvals as may be necessary, including those from the Securities and Exchange
+                     Board of India (SEBI), Stock Exchange(s) and Competition Commission of India (CCI).
+
+33. Final approval by the Authority
+
+      (1) Every scheme under these regulations shall be implemented only after final approval of the Authority.
+
+      (2) On completion of the various processes indicated in the foregoing Regulations in this Chapter and upon
+             receipt of approvals from various applicable regulatory authorities and NCLT, as applicable, the
+             transacting insurers shall approach the Authority for the final approval of the Scheme.
+
+      (3) The Authority, upon satisfaction of such matters as may be considered appropriate, may grant its final
+             approval to the Scheme.
+
+34. Effect of Final Approval
+
+      (1) The transacting insurers would ensure that the Scheme as finally approved is consistent with:
+
+        (a) The requirements of the Insurance Act, 1938 and Rules/Regulations framed thereunder
+
+        (b) such conditions, requirements or stipulations as might have been imposed by the Authority and/or the
+              other authorities while according their regulatory approval.
+
+      (2) The amalgamation and transfer of insurance business, as envisaged in the scheme, shall be effective from
+             such date as shall be specified while granting its final approval to the Scheme.
+
+      (3) On and from the date of coming into operation of the scheme or any provisions thereof, the scheme or
+             such provisions shall be binding on the transacting insurers and also on all the shareholders, policyholders
+             and other creditors and employees of each of the transacting insurers, and on any other person having any
+             right or liability in relation to any of the transacting insurers.
+
+      (4) On and from the date of the coming into operation of the scheme, the properties and assets of the transferor
+             insurer shall, by virtue of and to the extent provided in the scheme, and transferred to and vest in, and the
+             liabilities of the transferor insurer shall, by virtue of and to the extent provided in the Scheme, stand
+             transferred to and become the liabilities of the transferee insurer.
+
+      (5) Publication of notice in the newspaper about completion of the process (at least one National Daily and
+             one vernacular, copies of which shall be filed with the Authority).
+
+      (6) The transferee insurer shall, within such time after the implementation of the scheme as may be specified,
+           furnish such documents and information, as may be specified.
+
+35. Powers of Authority:
+
+      (1) The Authority may issue such directions as it deems fit, taking into account the facts and circumstances of
+             each case, regulatory objectives, the interests of policyholders and orderly growth of the insurance sector,
+             in relation to any sequencing of measures involved in the Scheme being approved by it.
+
+      (2) If any difficulty arises in giving effect to the provisions of the Scheme, the Authority may by order issue
+             such directions which appear to it necessary or expedient for the purpose of removing the difficulty.
+
+      (3) In case of life insurers, if the arrangement involves a reduction of the amount of the insurance and other
+             contracts of the transferor insurer(s) concerned in the amalgamation, the Authority may approve the
+             arrangement reducing the amount of such contracts upon such terms and subject to such conditions as the
+             Authority may think proper, and the reduction of contracts as approved by the Authority shall be valid and
+             binding on all the parties concerned.
+
+      (4) The Authority may, at any time prior to granting final approval to the proposed scheme, cause an
+             independent actuarial valuation of the insurance business (encompassing the assets, liabilities and
+             solvency position) of the transacting insurers.
+
+      (5) The Authority may also pass such consequential Order as may be necessary to give effect to the Scheme.
+
+36. Payment of non-refundable fee for processing of the application
+
+      (1) The non-refundable fee for the processing of the application for an ‘in-principle’ approval shall be remitted
+           to the Authority by the transacting insurers.
+
+      (2) The fee shall be one-tenth of one per cent of the total gross premium written direct in India by the each of
+           the transacting insurers during the financial year preceding the financial year in which the application for
+           ‘in-principle’ approval is filed with the Authority.
+
+      (3) For each of the transacting insurers, the fee shall be subject to a minimum of rupees fifty lakh but shall not
+           be higher than rupees five crore.
+
+      CHAPTER VII : MANNER OF ASSESSMENT OF COMPENSATION TO SHAREHOLDERS OR
+               MEMBERS IN CASE OF AMALGAMATION UNDER SECTION 37A OF THE ACT
+
+37. Every person who, immediately before the appointed date, is registered as a shareholder or a member of the
+      original insurer and the interest in, or rights of such shareholder or member against the transferee insurer are less
+      than the interest in, or rights against the original insurer, shall be eligible for compensation in accordance with
+      these regulations:
+
+      Provided that the eligible shareholders or members shall be considered for payment of such compensation only
+      where the residual value of the assets is positive.
+
+38. The compensation assessed in accordance with the provisions of these regulations shall be paid either in cash or
+      in kind or partially in cash and partially in kind.
+
+39. The Authority shall assess the compensation payable to the shareholders or members of the original insurer,
+      whose interest in, or rights against the transferee insurer are less than their interest in or rights against the
+      original insurer, on the basis of the residual value of the assets as arrived at in accordance with Regulation 40.
+
+40. Methodology for assessment of Compensation to Shareholders or Members:
+
+      (1) The residual value shall be apportioned in the following order of preference-
+
+          (a) Subordinated debt under the head “other forms of capital”;
+
+          (b) Preference share capital under the head “other forms of capital”;
+
+          (c) Shareholders or members of the original insurer
+        Explanation:
+
+          (i) Order of preference shall be applicable only where the liabilities under clause (a) and (b) have not been
+                taken over by the transferee insurer;
+
+          (ii) it is further clarified that in case of clause (a) and (b) above, at each stage of the distribution of proceeds
+                in respect of a class of recipients that rank equally, each of the class will either be paid in full, or in
+                equal proportion within the same class of recipients, if the proceeds are insufficient to meet the
+                obligations.
+
+      (2) The remaining residual value arrived at in accordance with sub-regulation (1) of this Regulation shall be
+           distributed to every eligible shareholder or member in such proportion as the amount of paid-up capital of
+           the shares held by such shareholder or member bears to the total paid up capital of the original insurer.
+
+      (3) For the purpose of computation of residual value of assets by the Authority, "assets" shall be the sum total
+           of the following: -
+
+              (a) the amount of cash in hand and the amount of balances with any bank immediately before the
+
+                     appointed date, whether in deposit or current account, and money at call and short notice, balance
+                     held outside India being converted at the market rate of exchange;
+
+              (b) the market value, as on the day immediately before the appointed date, of any securities, shares,
+
+                     debentures, bonds and other investments, held by the original insurer concerned;
+
+                   Explanation -For the purposes of this clause, -
+
+                           (i) where the market value of any security, share, debenture, bond or other investment is not
+                                 considered reasonable by reason of its having been affected by abnormal factors, such
+                                 investment may be valued on the basis of its average market value over any reasonable
+                                 period;
+
+                           (ii) where the market value of any security, share, debenture, bond or other investment is not
+                                 ascertainable, only such value, if any, shall be taken into account as is considered
+                                 reasonable having regard to the financial position of the issuing concern, the dividend paid
+                                 by it during the preceding five years and other relevant factors.
+
+              (c) the amount of advances (including loans), other debts, whether secured or unsecured, to the extent to
+
+                     which they are reasonably considered recoverable;
+
+              (d) the value of any land or buildings;
+
+              (e) the total amount of premia paid, in respect of all leasehold properties, reduced in the case of each
+
+                     such premium by an amount which bears to such premium the same proportion as the expired term
+                     of the lease in respect of which such premium shall have been paid bears to the total term of the
+                     lease;
+
+              (f) the written down value as per books, or the realisable value, as may be considered reasonable, of all
+
+                     furniture, fixtures and fittings;
+
+              (g) the market or realisable value, as may be appropriate, of the other assets appearing in the books of
+
+                     the original insurer.
+
+    (4) For the purpose of computation of residual value of assets by the Authority, "liabilities" shall be the total
+           value of
+
+               (a) all liabilities existing as on the appointed date, and
+
+               (b) all contingent liabilities which the transferee insurer may reasonably be expected to discharge on or
+
+                    after the appointed date under the scheme of amalgamation:
+
+                Provided that (i) policyholders’ liabilities in case of a life insurer; and (ii) IBNR and IBNER liabilities
+                in case of a general insurer shall be taken on the basis of the valuation determined by an independent
+                actuary.
+
+                                      CHAPTER VIII : OTHER FORMS OF CAPITAL
+
+41. An insurer may raise funds by issuance of ‘Other Forms of Capital’ in the manner specified in this Chapter.
+
+42. Qualification for “Other Forms of Capital”: Preference Share Capital or Subordinated Debt shall qualify as
+      “Other Forms of Capital” provided all of the following criteria are met:
+
+ (1) The instruments must be issued and be fully paid-up in cash;
+
+ (2) The seniority of the claims shall be governed by the following order, seriatim:
+
+     (a) Claims of Policyholders;
+
+     (b) Claims of Creditors;
+
+     (c) Claims of Subordinated Debt holders;
+
+     (d) Claims of Preference Shareholders;
+
+(e) Claims of Equity Shareholders.
+
+(3) The instruments shall neither be secured nor covered by a guarantee of the insurer or other arrangements
+       that legally enhance the seniority of the claims as specified in this Chapter.
+
+(4) The maturity period of the instruments issued by insurer under this Chapter shall not be less than as under:
+
+Instrument                Life Insurer, General Insurer or Reinsurer  Health Insurer
+
+Preference Share Capital  Ten Years                                   Seven Years
+
+Subordinated Debt         Ten Years                                   Seven Years
+
+43. Conditions for issue of “Other Forms of Capital”: Issuance of “Other Forms of Capital” is subject to the
+          following conditions:
+
+(1) All instruments shall be non-convertible, fully paid up and unsecured;
+
+(2) Investment in such instruments by Foreign Investors including Foreign Institutional Investors (FIIs) or
+          Foreign Portfolio Investors (FPIs) shall be subject to the following:
+
+           (a) The aggregate investment by all Foreign Investors including FIIs and FPIs shall not exceed the limits
+
+                 specified in FEMA Act, 1999, Regulations or any other stipulations issued thereunder;
+
+           (b) The issuance of the preference shares and Subordinated Debt to Foreign Investors including FII and
+
+                 FPIs shall be in compliance with the pricing guidelines as may be applicable;
+
+           (c) The terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of
+
+                 the aforesaid instruments shall be complied with;
+
+           (d) Compliance with all directions, notification, order etc. issued by the Reserve Bank of India (RBI);
+
+           (e) Compliance with the directions/instructions issued by the Central government with respect to Foreign
+
+                 Direct Investment;
+
+           (f) The insurers shall be permitted to list their Subordinated Debt only on the Indian stock exchanges.
+
+           (g) The insurers shall not issue any instruments under this Chapter with ‘Put Option’.
+
+           (h) Any other condition as may be specified.
+
+      (3) No incentives shall be payable by the insurer to preference shareholders and holders of Subordinated Debt
+            for early redemption of instruments;
+
+      (4) The rate of dividend payable to the preference shareholders or interest payable to the Subordinated Debt
+            holders may be either a fixed rate or a floating rate. Such rate shall be with reference to a market
+            determined rupee interest benchmark rate;
+
+      (5) Interest on Subordinated Debt shall be charged to the Profit & Loss Account and dividend on preference
+            shares shall be paid out of the distributable profit of the shareholders;
+
+      (6) The solvency margin of the insurer shall remain above the Control Level of Solvency;
+
+      (7) In the event of cancellation of dividend distribution on preference shares or failure to service the
+            Subordinated Debt, no restrictions shall be imposed on the insurer, except for distribution of dividend to
+            equity shareholders;
+
+      (8) Insurer shall ensure compliance with all regulatory requirements, including but not limited to Corporate
+            laws and all other stipulations as may be applicable;
+
+      (9) Such other conditions as may be stipulated.
+
+44. Prior Approval: The insurer shall require prior approval of the Competent Authority for accrual or payment of
+      dividend for preference shares or interest on any Subordinated Debt for any financial year if:
+
+      (1) The solvency margin is below the Control Level of Solvency; or
+
+      (2) The impact of such accrual or payment would result in the Control Level of Solvency falling below or
+            remaining below the regulatory requirement specified by the Authority; or
+
+      (3) The impact of accrual or payment of interest results in net loss or increases the net loss.
+
+45. Reporting requirements: The insurer issuing the instruments under these regulations, shall within 15 days
+
+      from the date of allotment, submit the details of the funds raised through issue of these instruments, along with
+      the details as may be specified.
+
+46. Classification in the Balance Sheet: The Balance Sheet to be prepared by the insurer shall classify instruments
+      issued by an insurer under these regulations as under :-
+
+          (1) In case of Preference Share Capital, under the head “Share Capital” in the relevant schedule;
+
+          (2) In case of Subordinated Debt, under the head “Borrowings” in the relevant schedule;
+
+          (3) In case, any instrument is issued at a premium, the premium received shall be shown under the head
+                 “Securities Premium” in the relevant schedule.
+
+47. Disclosure: The insurer shall disclose the amount raised through the issue of instruments under these
+      regulations along with a gist of the terms of issue and the maturity / redemption period in the Notes to the
+      Accounts forming part of the Annual Financial Statements prepared.
+
+48. Call Back of Instruments
+
+      (1) Issuance of instrument with ‘Call Option’: An insurer may issue any instrument under these regulations
+           with a “call option” subject to the condition that Call option may be exercised after the instrument has run
+           at least for a period of five completed years from the date of issuance.
+
+      (2) Exercise of Call Option: insurer may exercise the call option without the prior approval of the Competent
+           Authority:
+
+           Provided that such prior approval of the Competent Authority is required, if after exercising such call
+           option, the solvency position of insurer is not, at least twenty percent above the Control Level of Solvency
+           margin (e.g. 1.50 + 20% of 1.50 = 1.8).
+
+      (3) While considering the proposals, as at proviso to (2) above, received from the insurer for exercising the call
+           option, the Competent Authority shall, amongst other things, take into consideration the insurer’s solvency
+           position and future business plans, both at the time of exercise of the call option and after exercise of the
+           call option;
+
+      (4) Insurers shall inform the Authority of the call options exercised, within 15 days from the date of
+           communication of exercise of option.
+
+49. For the purposes of these regulations, it is hereby expressly clarified that any event of non-payment of Interest
+      and non-repayment of the redemption amount of the Subordinated Debt by the insurer shall not be construed to
+      be an event of default and shall not be qualified to be included in an event of default intimation.
+
+50. Subscribers to the Instruments: The issuance of such instruments may be subscribed by any person as may
+      be specified subject to compliance of all other applicable laws.
+
+51. Investment by an insurer in “Other Forms of Capital” of another insurer: An insurer may invest in the
+      “Other Forms of Capital” issued by another insurer subject to the following:
+
+        (1) such investments shall only be classified under “Other investments”;
+
+        (2) such instruments shall be subject to the exposure norms as specified in applicable Regulations.
+
+        (3) Such investments shall not qualify as an admissible asset for determining the Control Level of Solvency
+             margin:
+
+             Provided that the existing investments in the Other Forms of Capital instruments of the insurers will
+             continue to be admitted towards the calculation of available solvency till such investments are
+             transferred/redeemed.
+
+        (4) Insurer shall not invest in the Other Forms of Capital of another insurer having a common promoter.
+
+52. Grant of Loans against the Instruments: Insurers shall not grant any loan against the security of the
+      instruments issued by them.
+
+53. Limit for Other Forms of Capital: The total quantum of the instruments under Other Forms of Capital taken
+      together shall be lower of the following, at any point in time:
+
+        (1) Fifty percent of the total paid-up equity share capital and securities premium of an insurer;
+
+        (2) Fifty percent of the net worth of the insurer.
+
+54. Amortization of the instruments for the purpose of computing solvency
+
+      (1) The instruments issued as “Other Forms of Capital”, net of hair cut as specified in sub – Regulation (2)
+           herein below, shall be counted towards “Available Solvency Margin” of the insurer.
+
+(2) The instruments shall be subjected to a progressive hair cut for the purpose of computation of “Available
+     Solvency Margin” on straight-line basis in the final five years prior to maturity. Accordingly, as these
+     instruments issued under this Chapter approach maturity, the outstanding balances are to be reckoned for
+     inclusion in capital as indicated in Table “A‟ below:
+
+                                                          TABLE-A
+
+Years to Maturity              % of Capital Included in Available Solvency Margin
+
+5 years or more                100%
+
+4 years and less than 5 years  80%
+
+3 years and less than 4 years  60%
+
+2 years and less than 3 years  40%
+
+1 year and less than 2 years   20%
+
+Less than 1 year               0%
+
+      In effect, the amount arrived at after making the above said adjustment alone shall be eligible for inclusion in
+      “Available Solvency Margin”.
+
+      Further, determination of such hair cut shall be applied at the end of each financial quarter based on the “years to
+      maturity”.
+
+       55. Responsibility of the Board of the Insurer
+
+             (1) For issuance of preference shares, a resolution by the Board of Directors of the insurer and a special
+                   resolution shall be passed in the general body meeting of the shareholders of the insurer authorizing the
+                   issue of such preference shares;
+
+             (2) For issue of any Subordinated Debt, a resolution by the Board of Directors of the insurer shall be passed
+                   authorizing the issue of such Subordinated Debt;
+
+             (3) The Board of Directors of the insurer shall ensure that it is rational for insurer to issue Other Forms of
+                   Capital to meet its capital and / or solvency requirement.
+
+             (4) The Board of Directors of the insurer which has raised Other Forms of Capital shall ensure:
+
+                 (a) compliance with these regulations at all times;
+
+                 (b) the reasonableness of the interest/coupon rate for Subordinated Debt or dividend rate for Preference
+
+                        Shares.
+
+                                                      CHAPTER IX : MISCELLANEOUS
+
+56. Annual Fee
+
+         (1) An insurer who has been granted a Certificate of Registration under section 3 of the Act shall pay, an annual fee
+
+                                                                                                                                                                         st
+
+             along with applicable taxes for every financial year to the Authority before 31 day of January of the preceding
+             financial year.
+
+         (2) The annual fee shall be higher of:
+
+                          (a) Rupees Ten lakh, or
+
+                          (b) One-twentieth of one per cent of total gross premium written direct by an insurer in India
+
+                                  during the financial year preceding the year in which the annual fee is required to be paid, or
+                                  rupees fifteen crore whichever is less:
+
+                            Provided that in the case of an insurer carrying on solely re-insurance business, instead of the total
+                            gross premium written direct in India, the total premium in respect of facultative
+
+                            reinsurance accepted by it in India shall be taken into account.
+
+         (3) The annual fee shall be paid into the account of Insurance Regulatory and Develop ment Authority of
+              India. The annual fee shall be remitted through any of the recognized modes of electronic funds transfer.
+
+         (4) If the insurer fails to deposit the annual fee before the date specified in sub-regulation (1), the Competent
+
+       Authority may accept the payment of annual fee along with an additional fee by way of penalty of
+
+                     (a) Two percent of the annual fee if the fee is paid within 30 days after the expiry of the last date of
+                           payment of annual fee; or
+
+                     (b) Ten percent of the annual fee if the fee is paid after expiry of the last date of payment stipulated
+                           in this Regulation but before the end of financial year in which the annual fee was required to
+                           be paid.
+
+ (5) Where the insurer has failed to pay the fee before the end of the financial year in which it is due to be paid,
+       certificate of registration is liable to be cancelled.
+
+57. Issue of duplicate certificate: The Competent Authority may, on receipt of fee of rupees five thousand along
+      with applicable taxes, issue a duplicate certificate to an insurer, if the insurer makes an application to the
+      Authority in Form IRDAI/R4, as specified.
+
+58. Suspension or Cancellation of Certificate of Registration
+
+     (1) Cancellation of registration pursuant to voluntary surrender of Certificate of Registration by Insurer:
+
+            (a) The insurer may surrender the Certificate of Registration granted to it and may request the Authority to
+
+                  cancel the same in the cases as may be specified.
+
+            (b) The Authority, after examining the request, may cancel the Certificate of Registration subject to such
+
+                  conditions as may be necessary to protect the interests of the policyholders of the insurer.
+
+     (2) Suspension or Cancellation of registration: Without prejudice to any penalty which may be imposed or any
+            action taken under the provisions of the Act, the registration of any insurer may be suspended or cancelled
+            by the Authority for a class or classes of insurance business for such period as may be specified by an Order
+            under the following circumstances:
+
+          (a) the insurer fails, at any time, to comply with any provisions of the Act in general and provision of
+
+                  Section 64V and Section 64VA of the Act in particular,
+
+          (b) the insurer is in liquidation or is adjudged as an insolvent,
+          (c) the business or a class of the business of the insurer has been transferred to any person or has been
+
+                  transferred to or amalgamated with the business of any other insurer without the approval of the
+                  Authority,
+
+          (d) defaults in complying with, or acts in contravention of, any requirement of the Act or of any Rule or
+
+                  any Regulation, Direction or Order issued by the Authority, particularly if the insurer:
+                (i) conducts its business in a manner prejudicial to the interest of the policyholders;
+                (ii) fails to furnish any information as required by the Authority relating to its insurance
+
+                         business;
+                (iii) does not submit periodical returns as required under the Act or as directed by theAuthority;
+                (iv) does not cooperate in any inquiry conducted by the Authority;
+                (v) indulges in manipulative practices;
+                (vi) indulges in unfair trade practices;
+                (vii) fails to make investment in the infrastructure or social sector specified in theRegulations.
+
+          (e) the Authority has reasons to believe that any claim upon the insurer arising in India under any policy
+
+                  of insurance remains unpaid for three months after final judgment in regular court of law,
+
+          (f) the insurer carries on any business other than the class of insurance business for which registration has
+
+                  been granted by the Authority or any specified business,
+
+          (g) the insurer defaults in complying with any direction issued or order made, as the case may be, by the
+
+                  Authority under the Insurance Regulatory and Development Authority Act, 1999,
+
+          (h) the insurer defaults in complying with, or acts in contravention of, any requirement of the Companies
+
+                  Act, 2013, or the General Insurance Business (Nationalization) Act,1972 or the Foreign Exchange
+                  Management Act, 1999 or the Prevention of Money Laundering Act, 2002 or Rules and/or Regulations
+                  framed thereunder;
+
+          (i) the insurer fails to pay the annual fee required under section 3A of the Act, or
+          (j) Insurer or promoter of the insurer are no more compliant with the “Fit and Proper” criteria specified as
+
+                  per Schedule 1; or
+
+          (k) the insurer is convicted for an offence under any law for the time being in force:
+
+      Provided that the Authority for reasons to be recorded in writing may, in case of repeated defaults of the
+      type mentioned above, impose a penalty of cancellation of Certificate of Registration.
+
+(3) Procedure for Suspension of Certificate of Registration
+
+       (a) No order of suspension of Registration under sub-regulation (2) shall be imposed without granting an
+
+               opportunity of being heard to the insurer.
+
+       (b) The Authority shall serve a show-cause notice to the insurer seeking explanation from the insurer as
+
+               to why action against the insurer should not be taken. The show-cause notice shall include the
+               charges or reasons for which the action is proposed to be taken.
+
+       (c) The Authority shall allow a time period of twenty-one days for the insurer to respond to the show-
+
+               cause notice:
+
+               Provided that in cases where it is considered appropriate to take immediate action to protect the
+               interests of the policyholders, the insurer may be asked to submit its response within such period as
+               may be deemed appropriate to the Authority.
+
+       (d) The Authority after considering the reply to the show-cause notice, shall as soon as possible but not
+
+               later than thirty days from the receipt of the reply, pass such orders as it deems fit. If no reply is
+               furnished to the Authority by the insurer within the time period as per the show cause notice, the
+               Authority can proceed to decide the issue ex-parte.
+
+       (e) An order passed by the Authority shall give reasons therefor including justification of the penalty
+
+               imposed by that Order.
+
+       (f) The Authority shall send a copy of the Order made to the insurer within seven days of passing the
+
+               Order.
+
+(4) Procedure for Cancellation of Certificate of Registration
+
+       (a) No order of cancellation of Registration under sub-regulation (2) shall be made except after holding
+
+               an enquiry in accordance with the procedure specified in these regulations.
+
+       (b) For the purpose of holding an enquiry under this Regulation, the Authority may appoint an enquiry
+
+               officer.
+
+       (c) The enquiry officer shall issue a notice to the insurer at the registered office or the principal place of
+
+               business of the insurer.
+
+       (d) The insurer may, within twenty-one days from the date of receipt of such notice, furnish to the
+
+               enquiry officer a reply, together with copies of documentary or other evidence relied upon by it or
+               sought by the Authority from the insurer.
+
+       (e) The enquiry officer shall give a reasonable opportunity of being heard to the insurer to enable it to
+
+               make submissions in support of its reply.
+
+       (f) If it is considered necessary, the enquiry officer may ask the Authority to appoint a presenting officer
+
+               to present its case.
+
+       (g) The insurer may appear before the enquiry officer, either in person or through any person duly
+
+               authorised by the insurer:
+
+               Provided that no advocate shall be permitted to represent the insurer at the enquiry:
+
+               Provided further that where an advocate has been appointed by the Authority as the presenting
+               officer, it shall be lawful for the insurer to present its case through an advocate.
+
+       (h) The enquiry officer shall, after taking into account all relevant facts and submissions made by the
+
+               insurer, submit a report to the Authority and recommend the penalty as also the justification of the
+               penalty proposed.
+
+       (i) On receipt of the report from the enquiry officer, the Authority shall consider the same and if
+
+               considered necessary by it, issue a show-cause notice as to why an action, as it considers appropriate,
+               should not be taken against the insurer.
+
+       (j) The insurer shall, within twenty-one days of the date of receipt of the show-cause notice, send a reply
+
+               to the Authority.
+
+       (k) The Authority after considering the reply to the show-cause notice, shall as soon as possible but not
+
+               later than thirty days from the receipt of the reply, pass such orders as it deems fit. If no reply is
+               furnished to the Authority by the insurer within 90 days of the servicing of the notice, the Authority
+               can proceed to decide the issue ex-parte.
+
+       (l) The Order passed by the Authority shall give reasons therefor including justification of the penalty
+
+               imposed by that Order.
+
+               (m) The Authority shall send a copy of the Order made to the insurer within seven days of passing the
+
+                       Order.
+        (5) Effect of suspension or cancellation of Certificate: On and from the date of suspension or cancellation of
+
+              the Certificate of Registration, the insurer shall cease to transact new insurance business:
+              Provided that the Authority may direct the insurer to continue to service the existing policyholders for such
+              period as may be specified in the Order made under these regulations.
+        (6) Publication of order: The Order passed under sub regulation (2) of this Regulation shall be published in at
+              least two daily newspapers in the area where the insurer has its principal place of business or registered
+              office.
+  59. Power to issue circulars, guidelines and directions
+         The Competent Authority may issue circulars, guidelines and directions if necessary, from time to time, relating
+         to these regulations, including, but not limited to, transitory provisions regarding implementation process of
+         these regulations.
+  60. Power to remove difficulties and issue clarifications:
+         In order to remove any doubts or difficulties that may arise in the application or interpretation of any of the
+         provisions of these regulations, the Competent Authority may issue appropriate clarifications or guidelines as
+         deemed necessary.
+  61. Repeal and Savings
+         (1) The following regulations shall be repealed from the date these regulations come into force:
+
+               (a) Insurance Regulatory and Development Authority of India (Registration of Indian Insurance
+
+                       Companies) Regulations, 2022
+
+               (b) Insurance Regulatory and Development Authority of India (Other Forms of Capital) Regulations,
+
+                       2022
+
+               (c) Insurance Regulatory and Development Authority of India (Manner of Assessment of Compensation
+
+                       to Shareholders or Members on Amalgamation) Regulations, 2021
+
+               (d) Insurance Regulatory and Development Authority of India (Issuance of Capital by Indian Insurance
+
+                       Companies transacting other than Life Insurance business) Regulations, 2015
+
+               (e) Insurance Regulatory and Development Authority of India (Issuance of Capital by Indian Insurance
+
+                       Companies transacting Life Insurance business) Regulations, 2015
+
+               (f) Insurance Regulatory and Development Authority (Scheme of Amalgamation and Transfer of Life
+
+                       Insurance Business) Regulations, 2013
+
+               (g) Insurance Regulatory and Development Authority (Scheme of Amalgamation and Transfer of
+
+                       General Insurance Business) Regulations, 2011
+(2) Unless otherwise provided by these regulations, anything done or any action taken or purported to have been
+
+        done or taken in respect of the regulations mentioned in sub-regulation (1) above shall be deemed to have been
+        done or taken under the corresponding provisions of these regulations.
+
+                                                                                                       DEBASISH PANDA, Chairperson
+                                                                                                         [ADVT.-III/4/Exty./863/2023-24]
+
+                                                   Schedule 1: Fit and Proper Criteria
+
+                             (Refer Regulation 9 and clause (j) of sub-Regulation (2) of Regulation 58)
+
+ Determination of “Fit and Proper” Status - Illustrative criteria for determining “fit and proper” status of
+ applicants, promoters and/or Investors
+
+ In determining whether any individual and/or entity is “fit and proper” to be a promoter or investor of Insurer, the
+ following factors, as may be relevant, shall be taken into account, including but not limited to the following:
+
+        (1) The individual or entity’s integrity, reputation, track record:
+
+             (a) The financial strength of the promoter or investor.
+
+             (b) Ability to infuse capital to meet business, solvency and regulatory requirements.
+
+             (c) Compliance with all applicable laws in India including Prevention of Money Laundering Act, FEMA
+
+                     and taxation law.
+
+             (d) Ability to access capital or financial markets to source funds that may be needed for any future capital
+
+                     infusion.
+
+           (e) Business record, business and financial position and past experience.
+
+      (2) Due-diligence
+
+           (a) Approval or NOC by other regulatory bodies in India and/or outside India, as applicable;
+           (b) Insider trading, fraudulent or unfair trade practices or market manipulation by the promoters, investors
+
+                   or any of its group entities.
+
+           (c) Proceedings including conviction against the individual or entity or any of its promoter or group
+
+                   entities or any of its KMPs, by any regulatory or statutory or judicial bodies in India or outside India.
+      (3) Interests of policyholders and general public at large.
+      (4) Impact on the management and governance structure.
+      (5) Agreement between shareholders and impact on control or management.
+      (6) Shareholding pattern and Capital structure of the promoter or investor.
+      (7) Source of funds for investment.
+      (8) Beneficial ownership of shares of the insurer and the investors and promoters of the insurer.
+
+                                                                 ***
+                                                            FORM IRDAI/R3
+
+                        INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA
+                                                         (Seal of the Authority)
+
+                                                CERTIFICATE OF REGISTRATION
+
+          This is to certify that (Name of insurer and address) ……(xxxx)……………………………………….
+has this day…..(xxx)….been registered in accordance with the provisions of sub section (2A) of section 3 of the
+Insurance Act, 1938 (4 of 1938) to transact the …….(xxx)……class of business.
+Given under the seal of the Authority at Hyderabad this….(xx) ….day of…(xxx)…two thousand and
+………(xxx)………..
+Signature
+(Competent Authority)
+INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+
+                  and Published by the Controller of Publications, Delhi-110054.  MANOJ KUMAR  Digitally signed by MANOJ
+                                                                                               KUMAR VERMA
+
+                                                                                  VERMA        Date: 2024.03.26 22:32:32
+                                                                                               +05'30'
