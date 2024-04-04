@@ -1,12 +1,8 @@
 # The Schedule
 
-[See section 2(h)] I Offences under the Indian Penal Code.
+[See section 2(h)] I XLV of 1860. Offences under the Indian Penal Code.
 
-XLV of 1860.
-
-CHAPTER XII.
-
-Sections.
+CHAPTER XII Sections.
 
 Counterfeiting coin.
 
@@ -26,9 +22,7 @@ Possession of counterfeit coin by person who knew it to be counterfeit when he b
 
 Possession of Indian coin by person who knew it to be counterfeit when he became possessed thereof.
 
-CHAPTER XVI.
-
-Culpable homicide not amounting to murder.
+CHAPTER XVI Culpable homicide not amounting to murder.
 
 Attempt to murder.
 
@@ -60,9 +54,7 @@ Wrongfully concealing or keeping in confinement, kidnapped or abducted person.
 
 Kidnapping or abducting child under ten years with intent to steal from its person.
 
-CHAPTER XVII.
-
-Sections.
+CHAPTER XVII Sections.
 
 Theft.
 
@@ -118,14 +110,10 @@ Lurking house-trespass or house-breaking by night in order to commit offence pun
 
 Lurking house-trespass or house-breaking by night after preparation for hurt, assault or wrongful restraint.
 
-Grievous hurt caused whilst committing lurking house-trespass or housebreaking.
+Grievous hurt caused whilst committing lurking house-trespass or house-breaking.
 
 All persons jointly concerned in lurking house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them.
 
 II CIV of 1956 . . Offence under the Suppression of Immoral Traffic in Women and Girls Act, 1956.
 
 Section. 4 Living on the earnings of prostitution.
-
-Notes in the official text:
-
-- Printed at Government Photozinco Press, Pune.
