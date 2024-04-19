@@ -1,0 +1,5 @@
+# Section 31C
+
+31C. Bar of certain suits or proceedings, etc.— Notwithstanding anything contained in this Act or in any other law for the time being in force, a permission, allocation, sanction, authorization or Entitlement of water, granted by the High Power Committee or the River Basin Agency or the State Government prior to the 17th September 2010, being the date of commencement of section 1 of the Maharashtra Water Resources Regulatory Authority (Amendment and Continuance) Act, 2011 (Mah.
+
+XXI of 2011), shall be valid and shall be deemed always to have been valid and accordingly no suit, prosecution or any other legal proceedings shall lie, challenging such permission, allocation, sanction, authorization or Entitlement to draw water, before any court, tribunal or other authority and no such suit, prosecution or other legal proceedings shall lie or continue on the ground that any permission, allocation, sanction, authorization or Entitlement, as required under this Act, has not been obtained.]
