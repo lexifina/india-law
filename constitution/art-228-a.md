@@ -1,0 +1,2 @@
+# Art. 228A
+228A. Special provisions as to disposal of questions relating to constitutional validity of State laws..--Omitted by the Constitution (Forty- third Amendment) Act, 1977, s. 10 (w.e.f. 13-4-1978).

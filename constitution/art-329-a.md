@@ -1,0 +1,2 @@
+# Art. 329A
+3329A. [Special provision as to elections to Parliament in the case of Prime Minister and Speaker.].--Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 36 (w.e.f. 20-6-1979).
