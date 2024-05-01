@@ -1,0 +1,2 @@
+# Art. 21A
+21A. Right to education.--The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.
