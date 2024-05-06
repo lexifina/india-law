@@ -5,3 +5,4 @@ Bombay Act 23 of 1951, as published by the Law and Judiciary Department, Governm
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | consolidated snapshot, as modified up to 2019-12-26 | 2019-12-26 (as modified up to 2019-12-26 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 23 of 1951 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/H_1942.pdf |
+| consolidated snapshot, text as on 2024-05-06 | 2024-05-06 (text as on 2024-05-06 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 23 of 1951 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah_Act_No_23_of_1951.pdf |
