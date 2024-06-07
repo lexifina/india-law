@@ -5,3 +5,4 @@ Bombay Act 71 of 1953, as published by the Law and Judiciary Department, Governm
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | consolidated snapshot, as modified up to 2012-08-23 | 2012-08-23 (as modified up to 2012-08-23 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 71 of 1953 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/(24)%20Bom.%20Merged%20Territories%20Abolition%20Act%20(E)%20(H%20788).pdf |
+| consolidated snapshot, text as on 2024-06-07 | 2024-06-07 (text as on 2024-06-07 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 71 of 1953 | https://cdnbbsr.s3waas.gov.in/s36a4cbdaedcbda0fa8ddc7ea32073c475/uploads/2025/02/202502031439893763.pdf |
