@@ -5,3 +5,4 @@ Bombay Act 42 of 1953, as published by the Law and Judiciary Department, Governm
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | consolidated snapshot, as modified up to 2012-08-23 | 2012-08-23 (as modified up to 2012-08-23 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 42 of 1953 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/BOMBAY%20ACT%20No.%20XLII%20OF%201953%20THE%20MAHARASHTRA%20PERSONAL%20INAMS%20ABOLITION%20ACT..pdf |
+| consolidated snapshot, text as on 2024-06-07 | 2024-06-07 (text as on 2024-06-07 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 42 of 1953 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Act-No-42-of-1953-20-11-25.pdf |
