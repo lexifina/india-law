@@ -1,0 +1,282 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+number: "No.WR-IRWR04/37/2023-IW3/2107.-"
+issuer: "Government of Punjab"
+department: "Irrigation"
+published: "2024-06-13"
+in_force: "2024-06-13"
+in_force_evidence: "published in the Gazette 2024-06-13; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2024-06-13.86016"
+language: "English text only"
+---
+
+GOVERNMENT OF PUNJAB
+DEPARTMENT OF WATER RESOURCES
+NOTIFICATION
+The 13th June, 2024
+No.WR-IRWR04/37/2023-IW3/2107.- In exercise of the powers conferred by section 55
+of the Northern India Canal and Drainage Act with Section 3 of the aforesaid Act, The Governor of
+Punjab is pleased to notify the Khasra numbers as per details given below for smooth flow of water
+in “Dhanaula Drain”. The Governor of Punjab is further pleased to authorize the Executive Engineer,
+Sangrur, Drainage-cum-Mining and Geology Division, WRD, Punjab, District, Sangrur/Barnala, to take
+all necessary action to remove obstructions, in case obstructions are raised by any person. The
+concerned officer i.e. Executive Engineer, Sangrur, Drainage-cum-Mining and Geology Division, WRD,
+Punjab, District, Sangrur/Barnala, may also authorize any other government officer or any private
+person to remove such obstructions or carry out any activities for the aforesaid purpose.
+SPECIFICATION OF LOCALITY
+Name of Name of Name of Hadbast Khewat no./ Khasra Area Remarks
+District Tehsil Village No. Khatuni No. Bigga Biswa
+no
+Sangrur Dhuri Kumbharwal 31 693/674/1 2679/448 0 2
+2695/1861 0 1
+2706/1451 1 3
+2709/1452 2 5
+2711/1455 1 16
+2713/1456 0 9
+2715/1457 0 10
+2717/1458 1 3
+2719/1462 1 1
+2721/1463 0 17
+( 4067 )
+
+4068 PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA)
+2723/1464 0 15
+2725/1466 0 11
+2727/1557 1 1
+2729/1558 0 11
+2731/1560 0 17
+2733/1561 1 10
+2735/1562 1 0
+2737/1563 1 12
+2740/1569 2 12
+2743/1570 2 12
+2745/1579 1 16
+2747/1580 0 6
+2750/1581 2 10
+2753/1582 2 10
+2756/1583 1 10
+2760/1585 0 5
+2762/1586 2 5
+2764/1551 2 5
+2769/1658 2 10
+2772/1659 2 17
+2775/1720 2 16
+2778/1721 1 17
+2780/1722 0 11
+2782/1723 2 7
+2784/1752 2 14
+2786/1753 2 10
+2788/1758 2 6
+2790/1759 2 9
+2793/1761 1 4
+2796/1781 1 12
+2799/1782 2 10
+2801/1783 0 6
+2803/1786 1 15
+2805/1787 1 2
+2807/1788 0 1
+2810/1789 2 13
+2813/1790 1 4
+2818/1792 0 17
+2821/1793 1 19
+
+PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA) 4069
+Sangrur Sherpur Mullowal 40 864/837/ 721 7 16
+485/2 0 7
+479/2 0 12
+481/2 1 15
+486/2 2 3
+488/2 1 8
+511/1min 0 2
+512/1 0 1
+513/1 0 10
+533/1min 0 17
+539/1min 1 14
+540/1 1 4
+541/1 0 6
+542/1 1 12
+543/2 1 19
+544/2 2 0
+545/2 2 1
+546/2 2 3
+549/1 0 2
+551/2 1 18
+552/1min 0 2
+556/2 1 6
+611/1 0 1
+612/1 0 7
+613/1 0 14
+617/1 0 16
+618/1 0 10
+624/1 0 2
+1324/2 12 18
+1326/2 2 0
+1327/2 2 0
+1328/1 1 18
+1336/1 0 6
+Barnala Dhanaula Bhathlan 64 397/394/ 586 1153 0 3
+1134/15 0 5
+1135/17 1 18
+1138/18 2 3
+1141/66 2 3
+1144/69 2 2
+
+4070 PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA)
+1147/83 2 2
+1150/82 2 4
+1156/147 2 19
+1159/144 1 5
+1160/145 0 6
+1163/143 0 4
+1170/150 0 5
+1173/12 0 14
+1175/11 1 9
+1179/10 1 19
+1180/2 0 3
+1182/8 0 1
+Barnala Dhanaula Dangarh 62 454/436/ 608 1152 0 0
+1153 0 2
+1154 0 2
+1753/312 2 4
+1759/318 2 8
+1780/342 2 17
+1785/346 2 17
+1894/1059 1 7
+2005/639 0 5
+1748/309 2 1
+1750/310 0 1
+1756/315 2 5
+1762/321 2 10
+1765/324 2 11
+1768/325 2 12
+1771/326 0 10
+1773/327 2 16
+1776/328 0 1
+1778/341 0 1
+1780/324 2 17
+1783/343 0 3
+1788/347 0 7
+1790/349 1 4
+1793/350 1 10
+1796/351 0 0
+1798/352 2 14
+1801/358 0 9
+1805/405 0 17
+
+PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA) 4071
+1807/406 1 8
+1810/418 0 5
+1813/484 1 15
+1816/485 0 12
+1818/486 0 18
+1820/490 1 18
+1823/491 1 16
+1826/503 0 13
+1828/504 0 3
+1831/506 0 1
+1834/508 2 6
+1837/510 2 11
+1840/511 1 2
+1841/512 0 10
+1844/513 1 16
+1847/535 0 3
+1850/538 1 13
+1853/539 2 0
+1855/542 0 15
+1856/542 1 5
+1859/545 2 9
+1864/1038 1 9
+1867/1039 0 17
+1869/1046 1 15
+1872/1047 2 1
+1875/1048 0 8
+1877/1049 2 6
+1880/1049 0 1
+1882/1050 1 17
+1886/1055 1 9
+1888/1056 1 0
+1889/1057 0 8
+1891/1058 1 10
+1896/1094 0 0
+1898/1095 1 5
+1900/1060 1 10
+1902/1107 0 2
+1904/1108 2 4
+1907/1109 0 10
+1910/1110 0 12
+
+4072 PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA)
+1914/1119 1 12
+1918/1155 1 6
+1924/1636 0 7
+1926/1637 2 1
+1928/1654 0 5
+1930/1654/1 0 1
+1932/1655 0 17
+1934/1656 1 13
+1936/1657 1 14
+1939/1658 0 2
+1941/1668 2 2
+1944/1669 2 5
+1947/1673 0 6
+1949/1674 1 19
+1951/1675 1 6
+1953/1676 0 17
+1955/1677 0 3
+1961/1132 0 6
+1998/1671 0 0
+2000/1019 0 0
+2001/1111 0 6
+2003/1161 0 6
+2007/1151 0 3
+Kanal Marla
+Barnala Dhanaula Fatehgarh 57 477/480/ 700 1856/19 0 1
+Channa
+1858/20 6 0
+1861/21 0 11
+1866/27 4 14
+1868/36 0 12
+1871/37 3 15
+1873/38 4 18
+1875/38/1 0 6
+1877/45 2 4
+1880/46 4 4
+1882/156 0 9
+1884/168 3 18
+1886/169 0 11
+1894/176 4 4
+1896/284 0 4
+1898/286 1 12
+
+PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA) 4073
+1900/287 2 9
+1902/292 1 9
+1904/293 0 9
+1907/303 6 4
+1910/304 4 2
+1912/315 0 4
+1916/319 3 16
+1918/320 3 11
+1920/321 2 9
+1922/328 0 2
+1938/1520 1 1
+1940/1522 1 15
+1942/1523 2 19
+1945/1524 5 3
+1948/1525 2 16
+1950/1526 1 14
+1952/1692 2 0
+1954/1694 0 10
+Barnala Dhanaula Bhaini Jassa 58640 1//18/2 1 4
+/634/ 918
+1//19 0 2
+1//22/1 3 16
+1//23/1 3 13
+1//24/1 1 4
+Sd/-
+KRISHAN KUMAR, IAS
+Chandigarh Principal Secretary to the Government of Punjab,
+The 19th April, 2024 Department of Water Resources
+3117/6-2024/Pb. Govt. Press, S.A.S. Nagar
