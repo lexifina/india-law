@@ -1,0 +1,535 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+number: "No.WR-IRWR04/37/2023-IW3/2490.-"
+issuer: "Government of Punjab"
+department: "Irrigation"
+published: "2024-06-13"
+in_force: "2024-06-13"
+in_force_evidence: "published in the Gazette 2024-06-13; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2024-06-13.86015"
+language: "English text only"
+---
+
+GOVERNMENT OF PUNJAB
+DEPARTMENT OF WATER RESOURCES
+NOTIFICATION
+The 13th June, 2024
+No.WR-IRWR04/37/2023-IW3/2490.- In exercise of the powers conferred by section 55 of the
+Northern India Canal and Drainage Act with Section 3 of the aforesaid Act, The Governor of Punjab is pleased
+to notify the Khasra numbers as per details given below for smooth flow of water in “Sangrao Nadi”. The
+Governor of Punjab is further pleased to authorize the Executive Engineer, Rupnagar, Drainage-cum-Mining
+and Geology Division, WRD, Punjab, District, Rupnagar, to take all necessary action to remove obstructions, in
+case obstructions are raised by any person. The concerned officer i.e. Executive Engineer, Rupnagar, Drainage-
+cum-Mining and Geology Division, WRD, Punjab, District, Rupnagar, may also authorize any other government
+officer or any private person to remove such obstructions or carry out any activities for the aforesaid purpose.
+Specification of Locality
+Name of Name of Name of Hadbast Khasra Area Remarks
+District Tehsil Village No. No. Kanal Marla
+RUPNAGAR RUPNAGAR PHULPUR 181 147/1 235 2
+GREWAL
+147/2 46 3
+147/3 76 11
+RUPNAGAR RUPNAGAR THAUNA 190 4//2 6 8
+4//3 6 9
+3//12/2 4 2
+3//11/2 2 6
+2//17 9 4
+2//13/2 7 19
+2//14 8 14
+2//11/1 0 4
+2//7/2 3 9
+( 4009 )
+
+4010 PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA)
+1//23 4 7
+1//24 5 8
+1//21 0 12
+1//22 2 9
+RUPNAGAR RUPNAGAR Saifalpur 197 1//25/1 3 12
+8//5/1 5 12
+RUPNAGAR RUPNAGAR PARHI 196 1//25/1 6 1
+8//5 7 11
+8//6 7 13
+8//15 7 6
+8//16 6 11
+RUPNAGAR RUPNAGAR BABANI 380 10/16 4 16
+KALAN
+11//17/1 3 12
+11//17/2 3 0
+11//18 8 0
+11//19 8 0
+11//20 8 0
+12//20 8 0
+12//19/1 1 0
+12//18/1 1 2
+12//16 1 10
+12//17/1 1 0
+13//18/2 1 0
+13//19/1 1 0
+13//20/2 1 10
+RUPNAGAR RUPNAGAR BABANI 381 13//16 2 0
+KALAN
+14//19 2 0
+14//20 7 11
+14//21 8 0
+14//22 8 0
+14//23 8 0
+14//24 8 0
+14//25 8 0
+15//21 6 4
+17//4/1 4 4
+RUPNAGAR RUPNAGAR RAMPUR 382 27//1 8 0
+27//2 8 0
+27//3 8 0
+
+PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA) 4011
+27//4 8 0
+27//5 7 8
+27//6 4 8
+27//7 6 0
+27//8 5 9
+27//9 6 7
+27//10 6 0
+28//2 8 3
+28//3 6 0
+28//4 7 7
+28//5 11 0
+21//1 7 7
+21//2/3 5 2
+21//3/1 6 7
+21//4/2 5 7
+21//5/1 6 2
+21//6 8 0
+21//7 8 0
+21//8 8 0
+21//9 8 0
+21//10 7 12
+21//11 6 8
+21//12 8 0
+21//13 8 0
+21//14 8 0
+21//15 8 0
+21//16 8 0
+21//17 8 0
+21//18 8 0
+21//19 8 0
+21//20 4 16
+21//21 3 4
+21//22 8 0
+21//23 8 0
+21//24 8 0
+21//25 8 0
+16//5 8 0
+16//4/2 5 16
+16//8 5 6
+16//7 8 0
+
+4012 PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA)
+16//6 8 0
+16//13 7 6
+16//14 8 0
+16//15 8 0
+16//16 8 0
+16//17 8 0
+16//18 8 0
+16//19 12 0
+16//20 11 7
+16//21 8 0
+16//22 8 0
+16//23 8 0
+16//24 8 0
+16//25 8 0
+14//25 6 2
+15//10 5 8
+15//11 6 14
+15//20 8 11
+15//21 10 8
+17//16 9 1
+17//17 6 11
+17//22/2 6 4
+17//23 9 0
+17//24 8 0
+17//25 7 8
+18/25/2 0 4
+20//5 1 7
+20//6 0 5
+22//1 8 0
+22//2 8 0
+22//3 8 0
+22//4 8 0
+22//5 7 8
+22//6 8 0
+22//7 8 0
+22//8 8 0
+22//9 8 0
+22//10 8 0
+22//11 8 0
+
+PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA) 4013
+22//12 8 0
+22//13 8 0
+22//14 8 0
+22//15 7 8
+22//16 7 8
+22//17 8 0
+22//18 8 0
+22//19 8 0
+22//20 8 0
+22//21 8 0
+22//22 8 0
+22//23 8 0
+22//24 8 0
+22//25 7 8
+23//1 8 0
+23//2 8 0
+23//3 8 0
+23//4 8 0
+23//5 8 0
+23//6 8 0
+23//7 8 0
+23//8 8 0
+23//9 8 0
+23//10 8 0
+23//11 7 7
+23//12 7 7
+23//13 7 7
+23//14/1 4 0
+23//18 6 7
+23//19 8 0
+23//20 8 0
+23//21 8 0
+23//22 7 9
+23//23 7 16
+24//1 8 0
+24//2 3 16
+24//9 4 18
+24//10 8 0
+24//11 8 0
+24//12 5 10
+
+4014 PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA)
+24//23 1 0
+26//1 7 4
+26//2/1 1 15
+26//3/1 2 9
+26//10/2 0 16
+32//1 8 0
+32//2 8 0
+32//3 9 6
+103 2 9
+104 0 10
+105 4 16
+106 0 16
+107 4 19
+108 2 19
+109 2 13
+129 7 11
+130 4 3
+RUPNAGAR RUPNAGAR PURKHALI 376 635 96 15
+642 75 0
+656 50 7
+657 44 4
+674 17 18
+RUPNAGAR RUPNAGAR KHERI 373 457 31 15
+458 20 9
+464 6 1
+524 100 0
+525 93 11
+502 5 11
+503 48 18
+504 32 15
+505 8 1
+506 99 15
+507 25 6
+508 43 17
+509 100 0
+510 25 5
+RUPNAGAR RUPNAGAR HIRDAPUR 374 743 185 13
+645 5 3
+646 20 5
+679 100 0
+
+PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA) 4015
+680 87 6
+681 100 0
+682 93 4
+582 9 16
+581 52 5
+RUPNAGAR RUPNAGAR BARI 367 67 163 12
+68 93 2
+68/1 23 3
+69 6 13
+RUPNAGAR RUPNAGAR BHOLOKALEWAL 362 1//23 4 8
+1//24 7 4
+2//11 1 14
+2//20 5 4
+2//21 8 16
+3//1 2 11
+3//2 7 3
+3//3 8 0
+RUPNAGAR RUPNAGAR BHANGALAN 364 39//18 8 0
+39//19 8 0
+39//20 8 0
+39//21 8 0
+RUPNAGAR RUPNAGAR FATEHPUR 363 54//11 8 0
+54//12 8 0
+RUPNAGAR RUPNAGAR BAGHWALI 358 24//26 43 6
+25//26 18 7
+26//26 90 0
+27//26 36 13
+28//26 0 2
+RUPNAGAR RUP SANTOKHGARH 198 19//7 8 6
+NAGAR
+19//14 6 16
+19//17 8 16
+19//24 5 16
+19//25 2 15
+RUPNAGAR RYPNAGAR PANJOLA 201 5//7/3 1 18
+5//8/2 3 16
+5//9 8 0
+5//10 8 0
+5//11 8 0
+5//12 8 0
+
+4016 PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA)
+5//13 8 0
+RUPNAGAR RUPNAGAR MAGROR 355 22//23/4 2 16
+25// 3/2 4 12
+18//8 7 19
+18//9 8 0
+18//10 8 0
+18//11 8 0
+18//12 8 0
+18//13 3 10
+18//19 4 0
+18//20 8 0
+18//21 4 16
+19//4/1 5 10
+19//4/2 1 18
+19//5 8 0
+19//6 8 0
+19 // 7/1 2 10
+19 // 7/2 2 5
+19 // 8 8 0
+19 // 9 8 0
+19 // 10 8 0
+19 // 11 8 0
+19 // 12 8 0
+19 // 13 3 10
+19 // 14/1 4 16
+19 // 14/2 3 2
+19 // 15 8 0
+19 // 16 8 0
+19 // 17/1 3 14
+19 // 17/2 2 2
+19 // 18 8 0
+19 // 19 8 0
+19 // 20 8 0
+19 // 21 8 0
+19 // 22 8 0
+19 // 23 8 0
+19//24/1 3 2
+19//24/2 4 6
+19//25 8 0
+
+PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA) 4017
+20//16 min 2 0
+20//17 8 0
+20//21 8 0
+20//23 8 0
+20//24 8 0
+20//25 8 0
+21//22 8 0
+24 // 16/2 4 18
+24 // 17/2 5 11
+24 // 23 2 16
+24 // 24 8 0
+24 // 25 8 0
+25//10 8 0
+25//11 8 0
+25//12 7 8
+25//13 8 0
+25//14 8 0
+25//15 8 0
+25//16 8 0
+25//17 8 0
+25//18 8 0
+25//19 7 8
+25//20 8 0
+25//21 8 0
+25//22 7 8
+25//23 8 0
+25//24 8 0
+25//25 8 0
+26//2 8 0
+26//3 8 0
+26//6 8 0
+26//7 8 0
+26//8 8 0
+26//9 8 0
+26//11/2 7 17
+26//12 8 0
+26//13 8 0
+26//14 8 0
+26//15 8 0
+26//16 8 0
+
+4018 PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA)
+26//17 8 0
+26//18 8 0
+26//19 8 0
+26//20 8 0
+26//21 7 7
+26//22 5 11
+26//23 3 13
+26//24 1 18
+27//1 8 0
+27//3 8 0
+27//4 8 0
+27//5 8 0
+27//6 8 0
+27//7 8 0
+27//8 8 0
+27//9 8 0
+27//10 8 0
+27//11 8 0
+27//12 8 0
+27//13 8 0
+27//14 8 0
+27//15 5 11
+27//18 3 9
+27//19 5 15
+27//20 7 7
+28//1 8 0
+28//2 8 0
+28//3 8 0
+28//4/1 3 5
+28//4/2 6 13
+28//5 5 13
+28//8 5 7
+28//9 8 2
+28//11 2 18
+29//1 0 2
+30//1 0 1
+31//1 6 18
+31//2 6 12
+31//3 5 4
+31//4 3 4
+
+PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA) 4019
+31//5 5 2
+32//3 1 0
+32//4 3 7
+32//5 5 2
+36 4 8
+37 1 18
+38 1 8
+39 2 18
+55 0 8
+20//22 8 0
+27//2 8 0
+24 // 15/3 0 2
+22// 24/3 2 18
+RUPNAGAR RUPNAGAR HARIPUR 371 274 156 3
+16//18/1/1 4 16
+16//18/1/2 1 4
+16//19 1 18
+16//22/1 2 2
+21//2/1/2 2 19
+45 43 10
+264/2 8 14
+267 65 19
+267/1 2 2
+271 7 1
+274 156 3
+279 19 13
+RUPNAGAR RUPNAGAR BHEORA 183 101 668 4
+RUPNAGAR RUPNAGAR BARDAR 370 199 4 8
+495 21 11
+197 0 12
+896 17 10
+851 50 51
+700 0 10
+2005 4 8
+2017 14 19
+717 0 11
+719 5 1
+724 1 11
+734 0 4
+736 0 11
+
+4020 PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA)
+2054 3 13
+460 0 12
+463 4 5
+875 0 17
+879 3 10
+982 10 2
+693 0 6
+694 1 0
+695 0 2
+895 0 8
+696 0 5
+697 1 16
+698 0 9
+699 5 3
+2115 15 9
+1162 4 2
+2241 16 0
+2254 1 8
+2312 16 13
+2323 0 14
+2375 0 1
+1380 1 4
+1386 4 18
+1387 1 7
+1388 2 8
+1389 1 1
+1390 1 2
+1393 1 10
+2406 1 19
+1407 1 4
+1444 1 3
+1450 2 0
+1469 1 15
+2498 0 1
+2499 0 10
+2500 1 2
+1511 0 10
+2519 9 9
+2555 15 15
+2556 19 8
+
+PUNJAB GOVT. GAZ. (EXTRA), JUNE 13, 2024 (JYST 23, 1946 SAKA) 4021
+1590 0 10
+1639 0 7
+1640 0 7
+1642 0 9
+2647 6 14
+2735 7 14
+2752 0 14
+2802 0 1
+2822 0 1
+2823 0 1
+2825 5 9
+2827 0 8
+1828 1 18
+2850 3 2
+1871 0 2
+1935 5 4
+1997 3 15
+1887 min 4 0
+RUPNAGAR RUPNAGAR GURPURA 185 14 187 2
+15 3 17
+16 1 8
+17 1 0
+RUPNAGAR RUPNAGAR KAKOT 368 54/1 211 19
+56 10 11
+55 17 17
+Sd/-
+KRISHAN KUMAR, IAS
+Chandigarh Principal Secretary to the Government of Punjab,
+The 10th April, 2024 Department of Water Resources
+3117/6-2024/Pb. Govt. Press, S.A.S
