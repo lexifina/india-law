@@ -1,0 +1,299 @@
+---
+kind: "gazette-notification"
+gazette: "Karnataka Gazette"
+gazette_type: "Daily"
+issuer: "Government of Karnataka"
+department: "Gazette contains multiple Departments/Organizations"
+subject: "Gazette contains multiple Subjects"
+published: "2024-07-08"
+in_force: "2024-07-08"
+in_force_evidence: "published in the Gazette 2024-07-08; no other commencement day stated"
+official_text: "https://erajyapatra.karnataka.gov.in/%28S%28fmbt3kljna5yfjzt5c5111b4%29%29/Search1.aspx"
+mirror: "https://archive.org/details/in.gazette.karnataka_d.2024-07-08.7388"
+language: "English text only"
+---
+
+Zowbts ose | BONGO, AACA, OG, WS}, 2029(GRR, O& BISRE, NTL) Aouad Oak
+Volume 159 BENGALURU, MONDAY, 08, JULY, 2024(ASHADHA, 17, SHAKAVARSHA, 1946) Issue 136
+
+NOTIFICATION
+Whereas the Government of Karnataka is satisfied that the place specified in the
+Schedule below is being used for the purpose of a public character and the information with
+respect thereto or the destruction or obstruction thereof or interference therewith, would be
+useful to an enemy.
+
+Now, therefore, in exercise of the powers conferred by sub-clause (d) of clause (8) of
+Section 2 of the Official Secrets Act, 1923 (Central Act XIX of 1923) read with Notification
+No.F.21/20/62 Poll (I), dated 4th May, 1963 of the Government of India, Ministry of Home
+Affairs, New Delhi, the Government of Karnataka hereby declares that the place specified in
+the schedule below, shall be the “Prohibited Place” for the purpose of the said Act.
+
+SCHEDULE
+
+Total Area & Survey Nos.
+Sl. Name of the
+Name of the Sy. Extent in Boundaries
+No Place
+Taluk/Village Nos. (Acres-Guntas)
+(1) (2) (3) (4) (5) (6)
+1 Petronet MHB Tarabahalli 23 9-26 East-HPCL, R&D
+Limited Village, 42 5-28
+Devangunthi Hosakote 43 0-34 West- HPCL, R&D
+Receiving Taluk 44 5-20
+Station, 45 5-20 North-HPCL, R&D
+Bengaluru
+South-Village Road
+
+By Order and in the name of the
+Governor of Karnataka
+
+(NAGARAJU. S)
+Under Secretary to Government
+Home Department (Law & Order)
+PR-639
+
+*******
+
+8 90 01.05.1985 09.10.2009 29.11.2014 29.11.2014
+13 96 19.07.1980 09.10.2009 24.06.2015 24.06.2015
+14 97 01.07.1968 09.10.2009 24.06.2015 24.06.2015
+16 99 09.07.1989 30.04.2014
+19 102 19.07.1988 30.04.2014
+25 107 19.02.1990 30.04.2014 10.03.2020 10.03.2020
+30 112 14.11.1989 30.04.2014 18.12.2023 18.12.2023
+
+5 143 22.07.1989 30.04.2014
+
+9 90 01.05.1985 09.10.2009 29.11.2014 29.11.2014
+16 97 01.07.1968 09.10.2009 24.06.2015 24.06.2015
+
+18 99 09.07.1989 30.04.2014
+21 102 19.07.1988 30.04.2014
+24 105 30.10.1989 30.04.2014
+29 143 22.07.1989 30.04.2014
+30 107 19.02.1990 30.04.2014 10.03.2020
+35 112 14.11.1989 30.04.2014 18.12.2023 18.12.2023
+
+PR-640
+
+*******
+
+๯ඃ๜ 15.07.1994 14.01.2020 14.01.2020 2
+28 19.11.1964
+30 31.10.1966
+7 ๏౳ೕ 35 19.08.1969 15.07.1994 20.10.2023 20.10.2023
+
+PR-641
+
+----
+
+1 2 3 4 5 6 7 8 9 10 11 12 13
+
+FINAL SENIORITY LIST OF ASSISTANT DIRECTOR (TECH) OF THE DEPARTMENT OF PRINTING STATIONERY AND PUBLICATIONS
+COVERING PERIOD FROM 25-06-1975 TO 24-09-2021
+DATE OF
+SL. NO. NAME CATEGORY DATE OF BIRTH THE CADRE OF DR/PR
+PROMOTION TO
+DATE OF ENTRY DATE OF REMARK
+INTO SERVICE ELIGIBILITY S
+ASSISTANT
+DIRECTOR (TECH)
+1 2 3 4 5 6 7 8 9
+1 10-04-1952 25-06-1975 25-06-1975 25-06-1975 DR Rtd.
+H.Gangaiah
+2 12-04-1953 25-06-1975 25-06-1975 25-06-1975 DR Rtd.
+C.S.Kedar
+3 09-06-1930 23-07-1953 02-11-1976 02-11-1976 PR Rtd.
+M.P.Bomanaiah
+4 23-03-1928 01-01-1947 02-11-1976 02-11-1976 PR Rtd.
+P.M.Nanjundaiah
+5 13-05-1927 02-12-1952 02-11-1976 02-11-1976 PR Rtd.
+Chidananda swamy
+6 28-02-1929 01-03-1958 02-11-1976 02-11-1976 PR Rtd.
+R.Ranganath
+7 20-04-1933 17-01-1955 02-11-1976 02-11-1976 PR Rtd.
+B.N.Sathyanarayan shetty
+8 15-08-1932 08-12-1954 02-11-1976 02-11-1976 PR Rtd.
+M.E. Puroshothamsingh
+9 07-10-1924 20-03-1952 02-11-1976 02-11-1976 PR Rtd.
+DevandraNaidu
+10 25-09-1943 07-01-1961 06-12-1978 06-12-1978 PR Rtd.
+D. Renukacharya
+11 07-09-1943 17-08-1964 07-01-1981 07-01-1981 PR Rtd.
+Krishnoji Rao
+12 ST 23-05-1949 04-05-1983 04-05-1983 04-05-1983 DR Rtd.
+N.Hanumaiah
+13 11-07-1958 03-10-1983 03-10-1983 03-10-1983 DR Rtd.
+M.Ravishankar
+14 17-03-1940 05-07-1963 01-02-1984 01-02-1984 PR Rtd.
+B.Doreswamy
+
+15 15-04-1936 06-05-1939 19-11-1984 19-11-1984 PR Rtd.
+H.M Mryuthunjaya
+16 09-03-1943 06-06-1964 12-06-1985 12-06-1985 PR Rtd.
+M.ChaIapathy
+17 30-06-1943 05-06-1963 17-08-1986 17-08-1986 PR Rtd.
+Byrahanumaiah
+18 15-01-1939 08-01-1961 05-11-1988 05-11-1988 PR Rtd.
+N.R Anantharamaiah
+19 ST 22-07-1964 04-01-1992 04-01-1992 04-01-1992 DR
+N. Lakshminarayana Promoted
+20 SC 08-09-1950 27-06-1976 04-01-1992 04-01-1992 PR Rtd.
+S.PuttaSiddaiah
+21 29-07-1945 06-01-1967 04-01-1992 04-01-1992 PR Rtd.
+M.K Chandra
+22 SC 17-04-1973 04-06-1998 04-06-1998 04-06-1998 DR Resigned.
+R.K.Prashanth
+23 26-03-1942 18-08-1969 27-03-2000 27-03-2000 PR Rtd.
+K.S Vivekanada
+24 30-05-1954 07-02-1976 27-03-2000 27-03-2000 PR Rtd.
+K.M Bhuvanesh
+25 20-06-1944 04-01-1976 27-03-2000 27-03-2000 PR Rtd.
+D RamaMurthy
+26 11-08-1943 13-09-1971 27-03-2000 27-03-2000 PR Rtd.
+V.M Siddappa
+27 15-06-1946 21-02-1956 29-03-2002 29-03-2002 PR Rtd.
+N.Premananda
+28 23-02-1946 24-06-1972 29-03-2002 29-03-2002 PR Rtd.
+M.Ashwathnarayana
+29 03-01-1945 18-08-1970 29-03-2002 29-03-2002 PR Rtd.
+H.M. Narayanappa
+30 20-12-1946 29-06-1972 29-03-2002 29-03-2002 PR Rtd.
+Md. Rafiqulla
+31 27-12-1950 02-01-1977 29-03-2002 29-03-2002 PR Rtd.
+K.N. Radhakrishna
+32 24-04-1951 05-10-1979 29-03-2002 29-03-2002 PR Rtd.
+K.G. Murugheshappa
+
+33 06-06-1946 27-05-1967 29-03-2002 29-03-2002 PR Rtd.
+B.R Sreenivasa Rao
+34 14-08-1950 28-12-1972 29-03-2002 29-03-2002 PR Death
+M.C. Shantha murthy
+35 03-08-1944 06-08-1970 29-03-2002 29-03-2002 PR Rtd.
+H.Krishna Reddy
+36 07-04-1944 17-08-1970 29-03-2002 29-03-2002 PR Rtd.
+B.M. Thimmaiah
+37 15-02-1961 23-12-1985 29-03-2002 29-03-2002 PR Rtd.
+K.Boraiah SC
+38 20-03-1961 31-05-1988 29-03-2002 29-03-2002 PR Rtd.
+S.A. Lokesh ST
+39 18-05-1946 24-02-1965 27-12-2003 27-12-2003 PR Rtd.
+Venkatswamappa
+40 16-06-1950 14-08-1970 27-12-2003 27-12-2003 PR Rtd.
+B.G. Balaraju
+41 30-01-1949 22-07-1985 12-08-2005 12-08-2005 PR Rtd.
+B .S Narayana Murthy
+42 28-08-1954 22-07-1985 12-08-2005 12-08-2005 PR Rtd.
+Y.K Kempacharya
+43 06-01-1959 10-04-1989 12-08-2005 12-08-2005 PR Death
+D.Ravichandran SC
+44 11-12-1961 05-03-1986 12-08-2005 12-08-2005 PR Death
+B.Venkatesh
+45 27-04-1966 10-04-1989 12-08-2005 12-08-2005 PR
+S.Vishwanath Promoted
+46 04-12-1959 10-04-1989 12-08-2005 12-08-2005 PR Rtd.
+Valerian Quadres
+47 01-06-1959 10-04-1989 12-08-2005 12-08-2005 PR Rtd.
+S.A Gururaj
+48 06-03-1966 05-04-1989 12-08-2005 12-08-2005 PR
+M. Mahadevaiah Promoted
+49 01-05-1959 04-06-1989 12-08-2005 12-08-2005 PR Rtd.
+Ramesh B SC
+50 28-04-1964 23-06-1986 12-08-2005 12-08-2005 PR
+A.S. Thejomurthy Promoted
+
+51 03-01-1982 29-12-2008 29-12-2008 29-12-2008 DR
+Prakash Naik H.R SC Promoted
+52 10-09-1981 05-01-2009 05-01-2009 05-01-2009 DR
+Jyothi.H Promoted
+53 21-07-1978 30-12-2008 30-12-2008 30-12-2008 DR
+Somashekhar Promoted
+54 01-11-1978 02-01-2009 02-01-2009 02-01-2009 DR Left
+RagavendraPatil
+55 30-03-1963 13-12-1989 03-07-2010 03-07-2010 PR Rtd.
+D Vasudevan SC
+Rtd.
+56 Pual Gilbert 29-06-1961 05-04-1989 07-03-2012 07-03-2012 PR
+57 30-08-1962 05-04-1989 30-11-2013 30-11-2013 PR Rtd.
+V.MuraIi
+58 02-11-1959 05-04-1989 30-11-2013 30-11-2013 PR Rtd.
+B Sunil Kumar
+59 20-07-1959 13-12-1989 30-11-2013 30-11-2013 PR Rtd.
+S.K Shamasundar
+60 07-09-1962 14-01-1989 08-12-2015 08-12-2015 PR Rtd.
+K.Yuvaraj
+61 01-06-1961 31-01-1985 09-03-2016 09-03-2016 PR Rtd.
+H.M Umesh ST
+62 PR
+Y.N. Kishore 01-03-1965 07-06-1991 14-09-2021 14-09-2021
+63 PR
+Thammaiah 09-06-1966 17-06-1991 14-09-2021 14-09-2021
+
+64 PR
+R. Mahadevaswamy 22-07-1965 18-10-1990 14-09-2021 14-09-2021
+ST
+65 PR Rtd.
+Sunil Garde 25-03-1963 29-12-1993 24-09-2021 24-09-2021
+
+66 PR
+P.S. Basavaraju SC 01-06-1970 28-10-2002 06-03-2024 06-03-2024
+67 DR SUDHARANI NATIKAR 14-08-1996 13-03-2024 13-03-2024 13-03-2024
+68 DR
+SUPRIYA S SHIRAGANVE SC 17-10-1996 14-03-2024 14-03-2024 14-03-2024
+
+Final SENIORITY LIST OF ASSISTANT DIRECTOR (NON-TECHNICAL) OF DEPARTMENT OF PRINTING STATIONERY AND PUBLICATIONS COVERING PERIOD FROM
+22-10-1977 TO 04-03-2024
+Recruitment procedure according to the rules of recruitment: By Promotion
+Total number of posts (including both permanent and temporary posts):08 +01 (K. K.)
+DATE OF PROMOTION
+NAME CATEGORY DATE OF BIRTH REMARKS
+Sl. DATE OF ENTRY TO THE CADRE OF DATE OF
+No. INTO SERVICE Assistant Director (Non- ELIGIBILITY
+Technical)
+1 P Vishwanath 23-08-1980 23-08-1980 Rtd
+2 Kareem Khan 16-08-1983 16-08-1983 Rtd
+3 Brahmananda 16-08-1983 16-08-1983 Rtd
+4 M Rudramuni Shetty 16-07-1940 31-08-1971 01-04-1984 01-04-1984 Rtd
+5 M J Sharada 15-07-1947 02-12-1967 30-04-1985 30-04-1985 Rtd
+6 N Lakshmi 03-11-1943 20-03-1968 30-04-1985 30-04-1985 Rtd
+7 M Anajanappa 04-10-1936 10-12-1959 01-05-1986 01-05-1986 Rtd
+8 Vasudev K 08-08-1946 30-03-1973 01-09-1986 01-09-1986 Rtd
+9 Md. Buden Khan 05-06-1932 10-03-1953 02-01-1990 02-01-1990 Rtd
+10 G.S Saptasagar 14-09-1950 23-05-1975 01-11-1994 01-11-1994 Rtd
+11 Ranappa 04-02-1941 31-08-1971 19-03-1997 19-03-1997 Rtd
+12 S.V Nayak 06-04-1949 30-03-1973 19-03-1997 19-03-1997 Rtd
+13 S.V Nanavate 15-09-1950 17-05-1975 21-12-2002 21-12-2002 Rtd
+
+14 Narayanagowada 20-01-1951 17-06-1975 21-12-2002 21-12-2002 Rtd
+15 Keshavamurthy 14-02-1953 22-04-1977 21-12-2002 21-12-2002 Rtd
+16 V.Ramachandra 02-04-1953 20-04-1977 21-12-2002 21-12-2002 Rtd
+17 B.N.T Gowda 29-08-1954 20-04-1977 21-12-2002 21-12-2002 Rtd
+18 S.M Bhavikatti SC 04-06-1954 21-04-1977 21-12-2002 21-12-2002 Rtd
+19 M.S Puttaswamy 20-02-1954 12-10-1981 16-03-2006 16-03-2006 Rtd
+20 V.Lakshmanswamy SC 20-08-1954 12-10-1981 28-08-2007 28-08-2007 Rtd
+21 Samiulla 06-06-1955 14-05-1984 30-09-2010 30-09-2010 Rtd
+22 Hanumanthrayappa SC 01-06-1956 17-05-1985 30-10-2010 30-10-2010 Rtd
+23 Shivaramaiah ST 01-06-1959 22-05-1985 21-12-2002 30-10-2010 Rtd
+24 Y.T Uppinal ST 18-04-1955 04-06-1986 27-08-2013 27-08-2013 Rtd
+25 K Narayanswamy SC 13-08-1955 28-08-1988 03-10-2013 03-10-2013 Rtd
+26 R.M Raghuram 29-12-1953 13-04-1973 03-10-2013 03-10-2013 Rtd
+27 S.Shetappa SC 31-05-1956 03-11-1976 07-05-2015 07-05-2015 Rtd
+28 T.Narayanamma SC 07-04-1965 31-10-1988 07-05-2015 07-05-2015 Promoted
+29 K.L Ramakrishna ST 22-05-1973 07-07-1999 07-05-2015 07-05-2015
+30 Jagadevappa 06-07-1964 12-09-1983 15-07-2015 15-07-2015
+31 V.Srinivas 08-05-1963 01-02-1985 02-09-2016 02-09-2016 Rtd
+32 Anand S Poojar SC 01-01-1962 20-10-1987 07-05-2015 02-09-2016 Death
+33 B Latha 26-01-1964 11-10-1984 Rtd
+09-09-2021 09-09-2021
+34 S Leelavathi 20-07-1966 10-01-1990
+16-09-2021 16-09-2021
+
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19
+Licensed to post without prepayment WPP No. 297
+35 Mahadeavi P Mysura SC 10-04-1966 08-09-1995 15-03-2022 15-03-2022
+A Brunda 07-10-1976 20-02-1995 16-02-2022 16-05-2022
+37 Dominic savio joseph 12-10-1971 17-07-1991 04-03-2024 04-03-2024
+38 Shivaprasad sc 22-07-1972 12-01-2000 04-03-2024 04-03-2024
+PR-642
+
+[
