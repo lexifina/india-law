@@ -1,6 +1,6 @@
 # Schedule Iii
 
-(See section 110) In section 6 of the Maharashtra Universities Act, 1994 for sub-sections (2) to (4) the following subsections shall be substitute.
+(See section 110) In section 6 of the Maharashtra Universities Act, 1994 for sub-sections (2) to (4) the following sub-sections shall be substitute.
 
 "(2) Subject to the provisions of sub-sections (3) and (4), of section 3, no educational institutions situated within the university area shall, except with the consent of the university and the sanction of the State Government, the associated in any way with, or seek admission to any privilege of, any other university established by law :
 
