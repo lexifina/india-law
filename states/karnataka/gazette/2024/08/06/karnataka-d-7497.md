@@ -1,0 +1,1059 @@
+---
+kind: "gazette-notification"
+gazette: "Karnataka Gazette"
+gazette_type: "Daily"
+issuer: "Government of Karnataka"
+department: "Gazette contains multiple Departments/Organizations"
+subject: "Gazette contains multiple Subjects"
+published: "2024-08-06"
+in_force: "2024-08-06"
+in_force_evidence: "published in the Gazette 2024-08-06; no other commencement day stated"
+official_text: "https://erajyapatra.karnataka.gov.in/%28S%28whgr52fqhc40eakqp1ywzvw5%29%29/Search1.aspx"
+mirror: "https://archive.org/details/in.gazette.karnataka_d.2024-08-06.7497"
+language: "English text only"
+---
+
+Volume 159 Belagavi, Tuesday, August 06, 2024 (Shravana Masa 15, Shaka Varsha 1946) Issue – 38
+
+(5826)
+
+.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T779/2020-2021
+MR.T661/2020-2021
+MR.T116/2015-2016
+MR.T745/2014-2015
+MR.T374/2013-2014
+MR.145/2011-2012
+MR.526/2008-2009
+
+MR.212/2003-2004
+MR.T496/2014-2015
+MR.T72/2011-2012
+MR.181/2009-2010
+MR.357/2007-2008
+MR.69/2007-2008
+MR.285/2005-2006
+MR.T74/2018-2019
+MR.T202/2016-2017
+MR.T568/2014-2015
+MR.T72/2011-2012
+MR.181/2009-2010
+MR.357/2007-2008
+MR.69/2007-2008
+MR.285/2005-2006
+MR.185/2005-2006
+
+MR.T397/2021-2022
+MR.T21/2019-2020
+MR.T319/2015-2016
+MR.T537/2014-2015
+MR.217/2003-2004
+Karnataka Vikasa
+Grameena Bank
+Hirekodi BRANCH
+500000/-
+MR.T17/2015-2016
+MR.T513/2014-2015
+100000/-
+MR.T274/2013-2014
+MR.T178/2013-2014
+MR.T39/2012-2014
+
+MR.452/2010-2011
+MR.199/2005-2006
+MR.T274/2013-2014
+MR.T178/2013-2014
+MR.T39/2012-2014
+MR.452/2010-2011
+MR.199/2005-2006
+100000/-
+
+PR – 408
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MRT48/2013-2014
+MRT79/2013-2014 ¢
+2021 MRT106/2020-
+2021 MRT89/2017-
+2018 MR12/2007-2008
+2600000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MRT53/2016-2017
+MRT285/2015-2016
+¹
+300000/- ,2,3)
+20,000/-
+MRT128/2014-2015
+1149/1
+100000/-
+5222, 4948, 4820
+MRT57/2008-2009
+148/1,2
+,3,4,5)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+MRT11/2013-2014
+MR93/2009-2010 SBI
+155/1,
+2)
+MRT11/2013-2014
+MR93/2009-2010 SBI
+200000/- /- ¢
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+¹ 7
+MR58/2005-2006 MG
+/2)
+261/1
+)
+9,
+MRT31/2017-2018
+MR10/2010-2011 ¢
+12,000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MRT81/2009-2010
+MR40/2004-2005
+MR27/2006-2007
+¹ 6
+272/
+1,2,3
+)
+MR52/2010-20111 SBI
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+273/
+1,27
+3/2)
+MRT19/2013-2014
+MR118/2009-2010
+MR33/2003-2004 MG Bank
+550000/-
+279/
+20000/- )
+MRT259/2018-2019 MRT130/2018-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR10/2007-2008
+4,5)
+
+PR – 409
+
+.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.369/2009-2010
+MR.39/2008-2009
+MR.T513/2018-2019
+MR.T393/2017-2018
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+50000/-
+MR.T255/2016-2017
+MR.531/2010-2011
+MR.20/2009-2010
+700000/-
+MR.T372/2013-2014
+MR.369/2009-2010
+MR.39/2008-2009
+MR.213/2005-2006
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.369/2009-2010
+MR.39/2008-2009
+MR.496/2008-2009
+MR.14/2007-2008
+MR.303/2006-2007
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+215000/- STATE
+BANK OF INDIA-
+NIPANI for
+Rs.110000/-
+MR.T513/2018-2019
+MR.T393/2017-2018
+50000/-
+MR.T255/2016-2017
+MR.531/2010-2011
+MR.20/2009-2010
+700000/-
+20000/- (14012)
+MR.496/2008-2009
+MR.14/2007-2008
+MR.303/2006-2007
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+215000/- STATE
+BANK OF INDIA-
+NIPANI for
+Rs.110000/-
+(14012)
+MR.T462/2019-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T320/2015-
+MR.575/2008-2009
+MR.381/2006-2007
+MR.T473/2014-
+200000/-
+MR.T25/2019-2020
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T74/2006-2007
+MR.100/2005-2006
+MR.39/2004-2005
+(14387) (14368)
+20,000/- 11467/-
+MR.T322/2016-2017
+MR.T677/2015-2016
+MR.137/2010-2011
+80000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T175/2019-2020
+MR.T25/2019-2020
+MR.T7/2017-2018
+MR.T333/2013-2014
+MR.T74/2006-2007
+MR.100/2005-2006
+MR.39/2004-2005
+(14387) (14368)
+20,000/- 11467/-
+MR.T65/2020-2021
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T739/2013-2014
+MR.T367/2012-2013
+MR.395/2010-2011
+MR.171/2009-2010
+MR.568/2008-2009
+MR.369/2008-2009
+MR.475/2004-2005
+MR.T23/2021-2022
+MR.T65/2020-2021
+MR.T2/2020-2021
+MR.T378/2017-2018
+MR.T196/2016-2017
+MR.137/2010-2011
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T23/2021-
+MR.T2/2020-2021
+MR.137/2010-2011
+300000/-
+MR.T218/2019-2020
+MR.T65/2020-2021
+MR.T739/2013-2014
+MR.T367/2012-2013
+MR.395/2010-2011
+MR.171/2009-2010
+MR.568/2008-2009
+MR.369/2008-2009
+MR.475/2004-2005
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T23/2021-2022
+MR.T65/2020-2021
+MR.T2/2020-2021
+MR.137/2010-2011
+MR.T113/2021-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T319/2019-
+MR.T73/2019-
+MR.T434/2017-
+MR.T544/2015-
+MR.T214/2015-
+MR.T185/2012-
+MR.T17/2012-
+MR.377/2007-2008
+MR.334/2007-2008
+25000/- SBI ADB
+MR.T218/2019-
+MR.T65/2020-
+MR.T739/2013-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T367/2012-
+MR.395/2010-2011
+MR.171/2009-2010
+MR.568/2008-2009
+MR.369/2008-2009
+MR.475/2004-2005
+MR.T175/2019-
+MR.T25/2019-
+MR.T7/2017-2018
+MR.T333/2013-
+MR.74/2006-2007
+MR.100/2005-2006
+MR.39/2004-2005
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+(14387) (14368)
+MR.T97/2017-
+MR.713/2010-2011
+100000/-
+100000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T498/2015-
+MR.T475/2015-
+MR.T105/2015-
+MR.T505/2014-
+MR.T127/2014-
+MR.T98/2013-
+MR.T30/2011-
+MR.193/2009-2010
+MR.240/2008-2009
+MR.393/2007-2008
+MR.26/2007-2008
+MR.323/2006-2007
+10000/- (14399) ¢
+MR.T515/2017-2018
+MR.T437/2017-2018
+MR.T624/2015-2016
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T64/2014-2015
+MR.T61/2012-2013
+MR.153/2010-2011
+MR.224/2008-2009
+MR.66/2007-2008
+MR.779/2010-2011
+MR.328/2004-2005
+MR.T757/2018-2019
+MR.T188/2012-2013
+MR.T99/2012-2013
+MR.294/2009-2010
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+1000/- (11567)
+(14095) (14118)
+23600/- (14669)
+60000/-
+MR.T85/2019-2020
+MR.394/2008-2009
+MR.134/2004-2005
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+80000/-
+MR.T284/2013-2014
+MR.T218/2013-2014
+MR.230/2004-2005
+20000/-
+MR.T62/2020-2021
+MR.T284/2013-2014
+MR.T218/2013-2014
+MR.230/2004-2005
+20000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+1200000/-
+MR.T324/2016-2017
+MR.T704/2015-2016
+MR.T74/2013-2014
+MR.379/2006-2007
+80000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+99000/-
+MR.T367/2013-2014
+MR.T344/2013-2014
+MR.94/2009-2010
+MR.185/2003-2004
+99000/-
+MR.T207/2019-2020
+MR.T42/2016-2017
+MR.T299/2019-2020
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T728/2018-2019
+MR.T42/2016-2017
+99000/-
+150000/-
+MR.T299/2019-2020
+21700/- (13158) (13365)
+150000/-
+21700/- (13158) (13365)
+150000/-
+21700/- (13158) (13365)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T429 /2013-2014
+MR.T380/2013-2014
+MR.399/ 2008-
+2009MR.197/2005 –
+2006 MR.56/ 2005 -
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+25000/-.
+0-12 - - - - - - - - -
+05-19 0-12 - 05-19
+X
+NAGARAJ JOSHI GAZETTED MANAGER
+
+PR – 410
+
+.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T863/2015-2016
+
+MR.T553/2012-2013
+MR.601/2009-2010
+MR.T178/2019-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.T52/2017-2018
+MR.T85/2016-2017
+MR.721/2010-2011
+MR.104/2007-2008
+MR.18/2007-2008
+MR.40/2006-2007
+(9658) (9088)
+(8203) (3758)
+MR.T233/2015-
+MR.T288/2012-
+MR.186/2011-2012
+MR.383/2008-2009
+MR.95/2008-2009
+MR.137/2006-2007
+MR.347/2004-2005
+MR.T118/2004-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+175000/- STATE
+BANK OF INDIA
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+MR.721/2010-2011
+MR.104/2007-2008
+MR.18/2007-2008
+MR.40/2006-2007
+(9658) (9088)
+(8203) (3758)
+MR.T89/2017-2018
+MR.T85/2016-2017
+MR.721/2010-2011
+0-04-04 -
+MR.104/2007-2008
+MR.18/2007-2008
+MR.40/2006-2007
+(9658) (9088)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+60000/-
+MR.104/2007-2008
+MR.18/2007-2008
+MR.40/2006-2007
+(9658) (9088)
+(8203) (3758)
+
+PR – 411
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+- -
+- -
+- -
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+- -
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+- -
+1500000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+- 00-01-00
+- 00-00-08
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+- -
+- -
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+- -
+
+PR - 412
+
+Office of the Deputy Commissioner, Vijayapur District, Vijayapur 586101
+Fax: 08352 - 251289, 256666 vijayapurdc@gmail.com
+
+Revised Form 2-E
+(See sub-rule (3) of rule 9-B)
+Notification of declaration of unrecorded habitation by the Deputy Commissioner
+Under Section 38A of the Act-1961
+
+Whereas, the Assistant Commissioner of Vijayapur Sub-division after conducting spot
+inspection has submitted a proposal for declaration of unrecorded habitation in respect of habitation
+situated at Baratagi Village , Tikota Taluk, Vijayapur District.
+BHOOBALAN T. I.A.S Deputy Commissioner of Vijayapur District, having examined the
+said proposal of the Assistant Commissioner and satisfied that same meets the criterion prescribed
+to declare the said SIDDESHWAR NAGAR unrecorded habitation as such, in exercise of the
+powers conferred under section 38A of the Karnataka Land Reforms Act, 1961, hereby declare the
+following areas as an unrecorded habitation, Namely:-
+
+Total Extent of Boundaries Sy.No
+Name of the Land on which
+unrecorded unrecorded
+Name of
+habitation and name Survey No habitation
+Taluka North South East West
+of original Village SIDDESHWAR
+under which it falls NAGAR is located
+(4)
+1 2 3 4i 4ii 5 6 7 8
+Sy
+Road Sy Sy SIDDESHWAR
+246/12 00 06 No.246/14
+TIKOTA NAGAR of 246/12 No.246/12 No.247
+246/3
+BARATAGI
+246/4 00 07 246/4 246/4 246/4 246/3
+Total 00 13
+It is hereby declared that this unrecorded habitation may hereinafter be named as
+SIDDESHWAR NAGAR and whereas in consequences of this declaration the extent of land indicated
+in the column (4) above with survey number specified in column (3) on which the said unrecorded
+habitation is located vests absolutely in the state Government free from all encumbrance.
+Provided that, any private land vested in the Government as per this notification is subject to
+the condition that any extent of such land occupied by the land owner himself for his residential and
+other domestic purpose, if identified or included in it, the same shall be restored to him by the
+Assistant Commissioner at the time of identifying eligible claimants for issuing title deeds to the
+habitants of the said unrecorded habitation.
+
+Place :-Vijayapura
+Date :- 30/07/2024
+
+(BHOOBALAN T. I.A.S)
+Deputy Commissioner Vijayapura
+PR – 413
+
+.
+
+1 2 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+1 - - -
+2 - - -
+3 - - - -
+4 - - - -
+5 - - - -
+6 - - - -
+7 - - - -
+8 - - - -
++3+
+9 - - - -
+
+1 2 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+10 - - - -
+11 - - - -
+12 - - - -
+13 - - - -
+14 - - - -
+15 - - - -
+16 - - - -
+17 - - - -
+18 - - - -
+19 - - - -
+52 108.00 - 108.00 59 53 51
+- - - -
+21 - - - -
+- - - -
+23 - - - -
+- - - -
+25 - - - -
+
+1 2 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+- - - -
+- - - -
+- - - -
+- - - -
+3079 3079
+- - - - -
+1292.00
+0-19
+
+PR – 414
+
+๸
+2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+800000)
+1.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+;99000)
+(Canara Bank, HORTI
+Bank , Primary
+Agricultural Credit.
+Society, HALAGUNAKI;
+99000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+ැೕ 20.000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+150000;)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+(. ๵. ැೕ 40.000/-
+1.00.000/-)
+
+32-
+85.000/-) ෍
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+75.000/-)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+ැೕ೦ 50.000)
+ැೕ 50.000/- )
+)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1.Smt.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+BIJAPUR DCC Bank,
+Primary
+Agricultural
+Credit Society,
+HALAGUNAKI; 99000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+99000)
+ැೕ೦ 50.000/- ෥౲
+;1000000)
+ಂ൞෇෵ 40/5 5-00 0-
+1.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+100000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Bank, Primary Agricultural
+Credit Society,
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+4.
+99,000/-)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1000000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0-05-14
+
+250000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+100000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+(BIJAPUR DCC Bank,
+Primary Agricultural
+Credit Society,
+HALAGUNAKI;99000)
+(Canara Bank, NIMBAL k
+DCC Bank, Primary
+Agricultural Credit
+Society, HALAGUNAKI;
+99000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+๳ ๸ ැೕ 30000/-)
+
+PR – 415
+
+2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+; 400000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+100000)
+
+PLD ෇౲ ැೕ ๏౳ೕ
+ැೕ೦ 30.000/-)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+95.000/-)
+6000.; 7000/-)
+2.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+473 460
+෇౲ಂ ැೕ 50.000/- 100000/-
+7388)
+-P1 443 472
+
+P1
+(V S S ැೕ 30.000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+ง 1.00.000/- STATE BANK
+OF INDIA KANNUR for
+Bank, Primary
+Agricultural Credit
+65000)
+-P1
+-p1
+(
+Primary Agricultural
+Credit Society,
+INCHAGERI; 65000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+-P1
+STATE BANK OF INDIA -
+KANNUR for Rs.175000;)
+p1
+50.000/- 100000/-)
+p1
+1-
+STATE BANK OF INDIA
+
+2- 442/2- 3-00 -
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Primary Agricultural
+Credit Society,
+INCHAGERI; 65000)
+P1
+441 444
+p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+STATE BANK OF INDIA
+KANNUR for 400000/-)
+p1
+ැೕ೦ 4.00.000/- STATE
+BANK OF INDIA - KANNUR
+for 400000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+35000/- 7457
+ැೕ೦ 50.000/-)
+35000/-
+)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Karnataka Vikasa
+Grameena Bank ,
+Jigajivani BRACNH: 600000)
+Mr.Karnataka Vikasa
+Grameena Bank,
+Jigajivani BRANCH: 600000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+(BIJAPUR DCC Bank,
+Primary Agricultural
+Credit Society,
+INCHAGERI; 55000)
+Karnataka Vikasa
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Grameena Bank,
+Jigajivani BRANCH: 200000)
+1.00.000/-)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1.00.000)
+431 434
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+෇౲ಂ ැೕ 27000/- 50000/-
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Karnataka Grameena
+Bank , Jigajivani BRANCH:
+
+(vs ැೕ 2000/50.000/-)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+(vs ැೕ 2000/5.0.000/-)
+(vs ැೕ 2000/50.000/-)
+p1
+Primary Agricultural
+Credit Society,
+INCHAGERI; 65000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+p1 431 426
+-p1
+ැೕ೦ 50.000/-)
+428/2B- 4-06 -
+p1
+DCC Bank, Primary
+Agricultural Credit
+Society, INCHAGERI;
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+p1
+p1
+p1 410 420
+
+p1
+1.00.000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+-p1
+-p1
+1.00.000)
+-p2
+1-p1
+Karnataka Vikasa
+Grameena Bank,
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Jigajivani BRANCH: 400000)
+
+2-p1
+Karnataka Vikasa
+Grameena Bank,
+Jigajivani BRANCH:300000)
+/3-p1
+Karnataka Vikasa
+Grameena Bank,
+Jigajivani, BRANCH;
+400000)
+෍
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+p2
+ැೕ೦ 60.000/- )
+
+p1
+p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1.
+p1
+p1
+
+1.00.000/-Karnataka
+Vikasa Grameena Bank,
+Jigajivani BRANCH: 500000)
+p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1.00.000)
+p1
+
+p1
+700000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1.00.000)
+195000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+;300000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+300000)
+P1 431 426
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1.00.000)
+p1
+ැೕ೦ 50.000/- )
+p1
+DCC Bankl, Primary
+Agricultural Credit
+Society. INCHAGERI;
+p1
+p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+p1 410 420
+p1
+
+1.00.000)
+-p1
+-p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1.00.000)
+-p2
+1-p1
+Karnataka Vikasa
+Grameena Bank ,
+/2-p1
+Karnataka Vikasa
+Grameena Bank ,
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+/3-p1
+Karnataka Vikasa
+Grameena Bank,
+p1
+
+120000)
+p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+p1
+164000/-)
+p1
+P1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+; 164000)
+-P1
+50.000/-)
+2-P1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+9.
+-P1
+50.000/-)
+-p1
+Karnataka Vikasa
+Grameena Bank,
+Jigajivani BRANCH:
+1000000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+422 415
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Grameena Bank,
+Jigajivani BRANCH;160000;
+GrameenaBank,
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+2.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Karnataka Vikasa
+Grameena Bank,
+513 509
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+2.00.000/-)
+1.
+
+P1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Karnataka Vikasa
+Grameena Bank ,
+Jigajivani BRANCH:
+600000)
+510 523
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+ැೕ 8.00.000/-)
+p1
+-p1
+p1
+p2
+(P L D ෇౲ಂ ැೕ 19000/-
+-p1
+50.000/- )
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+50.000/- )
+
+80.000/-)
+512 519
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+p1 523
+1.00.000/-)
+p1
+p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1.00.000/- )
+p1
+1.00.000/-)
+-p1
+8-
+DCC Bank, Primary
+Agricultural Credit
+Society, INCHAGERI:
+55000/-)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+BIJAPUR DCC Bank,
+Primary Agricultural
+Credit Society,
+INCHAGERI: 55000/-)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+ැೕ 50.000/-)
+
+)
+p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+)
+p1 531
+50.000/-)
+p1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+)
+ැೕ೦ 20.000/)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+50.000/-)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Grameena Bankl ,
+Jigajivani BRANCH: 200000)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1.00.000/-)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+ැೕ೦ 50.000/)
+ැೕ೦ 50.000/)
+
+๬౷෦
+
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19
+Licensed to post without prepayment WPP No. 297
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+ැೕ 1.00.000/-)
+
+51-01
+
+PR – 416
