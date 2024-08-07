@@ -1,0 +1,642 @@
+---
+kind: "gazette-notification"
+gazette: "Uttar Pradesh Gazette"
+gazette_type: "Extraordinary"
+issuer: "Government of Uttar Pradesh"
+department: "General Administration Department"
+subject: "Authorized to practice shelling and cannon firing in the entire notified area"
+published: "2024-08-07"
+in_force: "2024-08-07"
+in_force_evidence: "published in the Gazette 2024-08-07; no other commencement day stated"
+official_text: "https://dpsup.up.gov.in/app/writereaddata/UploadGazette/corrigendum/pdf/C_202411211554442780.pdf"
+mirror: "https://archive.org/details/in.gazette.uttarpradesh_extraordinary.2024-08-07.c_202411211554442780"
+language: "English text only"
+---
+
+—
+¼ifjfu;r vkns'k½
+
+————
+la[;k 533/rhu-2024-47-2(1)-2005&Vh0lh0
+————
+vf/klwpuk
+
+vuqlwph
+¼gsDVs;j esa½
+1 2 3 4 5
+'kkgtgk¡iqj 'kkgtgk¡iqj 'kgj [kkl 'kqekyh pqaxh ds ckgj 1 0.518
+2 0.894
+3 0.336
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+'kkgtgk¡iqj 'kkgtgk¡iqj 'kgj [kkl 'kqekyh pqaxh ds ckgj 4 0.198
+5 1.181
+6 0.551
+7 0.380
+8 0.020
+9 0.049
+10 0.081
+11 1.129
+12 0.817
+13 0.178
+14 1.027
+15 1.197
+16 0.069
+17 0.186
+18 1.303
+19 0.223
+20 0.227
+21 0.773
+22 1.234
+23 0.837
+24 0.870
+25 1.453
+26 0.631
+27 0.081
+28 0.085
+29 1.109
+30 0.401
+31 0.462
+32 1.161
+33 1.259
+34 0.101
+35/1 0.115
+36/1 0.047
+37 0.943
+38 1.348
+49 0.162
+50 0.999
+200 0.348
+201 0.178
+202 0.210
+203 0.206
+204 0.862
+205 0.360
+206 0.405
+207 0.064
+208 0.012
+209 0.040
+210 0.341
+211 0.279
+52 27.940
+'kkgtgk¡iqj 'kkgtgk¡iqj cgknqjiqj cjgk 163 0.201
+164 0.040
+165 0.404
+166 0.818
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+'kkgtgk¡iqj 'kkgtgk¡iqj cgknqjiqj cjgk 167 0.100
+168 0.042
+175 0.482
+176 0.482
+177 0.040
+178 0.943
+179 0.942
+189 0.629
+190 0.162
+191 0.162
+192 0.323
+193 0.131
+194 0.103
+195 0.102
+196 0.103
+197 0.103
+198 0.051
+199 0.051
+200 0.051
+201 0.051
+202 0.050
+204 0.024
+205 0.444
+206 0.444
+207 0.587
+208 0.138
+209 0.138
+210 0.275
+211 0.228
+212 0.113
+213 0.113
+214 0.113
+215 0.113
+216 0.023
+217 0.372
+218 0.328
+222 0.110
+223 0.113
+362 1.196
+363 1.196
+364 0.052
+365 0.008
+366 0.028
+367 0.599
+368 0.056
+369 0.020
+370 0.020
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+'kkgtgk¡iqj 'kkgtgk¡iqj cgknqjiqj cjgk 371 0.020
+372 0.020
+373 0.014
+374 0.040
+375 0.040
+376 0.081
+377 0.444
+378 0.016
+379 0.883
+380 0.014
+381 0.896
+382 0.350
+383 0.351
+384 0.030
+385 0.350
+386 0.096
+387 0.589
+388 0.028
+389 0.057
+391 0.350
+393 0.131
+394 0.277
+395 0.277
+396 0.256
+397 0.037
+398 1.227
+399 0.254
+400 0.254
+401 0.253
+402 0.254
+403 0.265
+404 0.029
+405 0.873
+406 0.319
+318/411 0.349
+390 0.939
+'kkgtgk¡iqj 'kkgtgk¡iqj lroka cqtqxZ 497 0.526
+498 0.521
+499 0.508
+500 0.218
+502 0.214
+503 0.066
+504 0.065
+505 0.173
+506 0.024
+507 0.434
+508 0.431
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+'kkgtgk¡iqj 'kkgtgk¡iqj lroka cqtqxZ 509 0.231
+515 0.861
+517 2.470
+519 0.030
+520 0.861
+521 0.140
+522 1.215
+523 0.195
+524 0.397
+525 1.039
+526 0.158
+527 0.431
+528 0.589
+529 0.524
+530 0.516
+531 1.385
+532 0.159
+533 0.159
+534 0.075
+535 0.317
+539 0.036
+540 0.541
+541 0.542
+542 0.549
+562 0.488
+563 0.184
+573 0.867
+574 0.141
+575 0.316
+576 0.779
+577 0.313
+578 0.087
+579 0.044
+580 0.888
+581 0.018
+582 0.035
+583 0.787
+584 0.788
+585 0.207
+586 0.832
+587 0.229
+599 0.772
+600 0.046
+601 0.024
+602 0.271
+603 0.103
+604 0.103
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+'kkgtgk¡iqj 'kkgtgk¡iqj lroka cqtqxZ 605 0.104
+606 0.400
+607 0.270
+608 0.269
+609 0.267
+610 0.257
+611 0.041
+612 0.051
+613 0.321
+614 0.322
+615 1.076
+616 0.119
+617 0.521
+618 0.045
+619 0.023
+620 2.164
+644 1.424
+645 1.443
+646 0.040
+647 0.049
+648 1.444
+649 1.711
+650 1.407
+638 0.055
+639 1.714
+640 0.968
+641 0.528
+642 0.063
+643 0.170
+651 0.008
+652 0.370
+653 0.352
+654 0.352
+655 0.351
+656 0.030
+657 0.062
+658 0.055
+659 4.335
+660 0.061
+661 0.058
+662 0.060
+663 0.059
+664 0.061
+665 1.283
+666 0.187
+667 1.189
+668 0.238
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+'kkgtgk¡iqj 'kkgtgk¡iqj lroka cqtqxZ 669 0.187
+670 0.140
+671 0.176
+672 0.176
+673 0.069
+680 0.063
+681 0.658
+682 1.415
+683 0.025
+684 0.075
+685 2.621
+687 0.295
+688 1.328
+689 0.068
+690 0.962
+691 0.514
+692 0.401
+694 0.060
+695 0.366
+696 0.365
+697 0.369
+698 0.391
+699 2.657
+700 2.627
+701 0.097
+795/711 0.077
+131 67.481
+ldrk gSA
+
+vkKk ls]
+ftrsUnz dqekj]
+
+&&&&&&
+
+THE Governor is pleased to order the publication of the following English translation of
+notification no. 533/III-2024-47-2(1)-2005 T.C. dated August 7, 2024 for general information :
+No. 533/III-2024-47-2(1)-2005 T.C.
+Dated Lucknow, August 7, 2024
+IN exercise of the powers under sub-section (4) of section 9 of the Manoeuvres, Field
+Firing and Artillery Practice Act, 1938 (Act no. 5 of 1938), the Governor hereby repeats the
+notice of his intention to issue a notification under sub-section (2) of the said section authorizing
+the carrying out, of field firing and artillery practice throughout the area notified below, or any
+specified part thereof during the period commencing from the 1st day of April, 2021 and ending
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+with the 31st day of March, 2026 on the expiry of one week as nearly as may be after the
+publication of this notice, the first notice as required by sub-section (3) of the said section having
+been previously published by Notification no. 701/III-2021-47-2(1)-2005 T.C. dated February
+22, 2022.
+SCHEDULE
+Details of Area
+District Pargana Village Plot No. Approximate area
+(in Hectares)
+1 2 3 4 5
+Shahjahanpur Shahjahanpur Shahar Khas Shumali
+(Out of Chungi)
+1 0.518
+2 0.894
+3 0.336
+4 0.198
+5 1.181
+6 0.551
+7 0.380
+8 0.020
+9 0.049
+10 0.081
+11 1.129
+12 0.817
+13 0.178
+14 1.027
+15 1.197
+16 0.069
+17 0.186
+18 1.303
+19 0.223
+20 0.227
+21 0.773
+22 1.234
+23 0.837
+24 0.870
+25 1.453
+26 0.631
+27 0.081
+28 0.085
+29 1.109
+30 0.401
+31 0.462
+32 1.161
+33 1.259
+34 0.101
+35/1 0.115
+36/1 0.047
+37 0.943
+38 1.348
+49 0.162
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+Shahjahanpur Shahjahanpur Shahar Khas Shumali 50 0.999
+(Out of Chungi)
+200 0.348
+201 0.178
+202 0.210
+203 0.206
+204 0.862
+205 0.360
+206 0.405
+207 0.064
+208 0.012
+209 0.040
+210 0.341
+211 0.279
+52 Plots 27.940 Hectares
+Shahjahanpur Shahjahanpur Bhadurpur Barha 163 0.201
+164 0.040
+165 0.404
+166 0.818
+167 0.100
+168 0.042
+175 0.482
+176 0.482
+177 0.040
+178 0.943
+179 0.942
+189 0.629
+190 0.162
+191 0.162
+192 0.323
+193 0.131
+194 0.103
+195 0.102
+196 0.103
+197 0.103
+198 0.051
+199 0.051
+200 0.051
+201 0.051
+202 0.050
+204 0.024
+205 0.444
+206 0.444
+207 0.587
+208 0.138
+209 0.138
+210 0.275
+211 0.228
+212 0.113
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+Shahjahanpur Shahjahanpur Bhadurpur Barha 213 0.113
+214 0.113
+215 0.113
+216 0.023
+217 0.372
+218 0.328
+222 0.110
+223 0.113
+362 1.196
+363 1.196
+364 0.052
+365 0.008
+366 0.028
+367 0.599
+368 0.056
+369 0.020
+370 0.020
+371 0.020
+372 0.020
+373 0.014
+374 0.040
+375 0.040
+376 0.081
+377 0.444
+378 0.016
+379 0.883
+380 0.014
+381 0.896
+382 0.350
+383 0.351
+384 0.030
+385 0.350
+386 0.096
+387 0.589
+388 0.028
+389 0.057
+391 0.350
+393 0.131
+394 0.277
+395 0.277
+396 0.256
+397 0.037
+398 1.227
+399 0.254
+400 0.254
+401 0.253
+402 0.254
+403 0.265
+404 0.029
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+Shahjahanpur Shahjahanpur Bhadurpur Barha 405 0.873
+406 0.319
+318/411 0.349
+390 0.939
+87 Plots 24.240 Hectares
+Shahjahanpur Shahjahanpur Satwa Bujurga 497 0.526
+498 0.521
+499 0.508
+500 0.218
+502 0.214
+503 0.066
+504 0.065
+505 0.173
+506 0.024
+507 0.434
+508 0.431
+509 0.231
+515 0.861
+517 2.470
+519 0.030
+520 0.861
+521 0.140
+522 1.215
+523 0.195
+524 0.397
+525 1.039
+526 0.158
+527 0.431
+528 0.589
+529 0.524
+530 0.516
+531 1.385
+532 0.159
+533 0.159
+534 0.075
+535 0.317
+539 0.036
+540 0.541
+541 0.542
+542 0.549
+562 0.488
+563 0.184
+573 0.867
+574 0.141
+575 0.316
+576 0.779
+577 0.313
+578 0.087
+579 0.044
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+Shahjahanpur Shahjahanpur Satwa Bujurga 580 0.888
+581 0.018
+582 0.035
+583 0.787
+584 0.788
+585 0.207
+586 0.832
+587 0.229
+599 0.772
+600 0.046
+601 0.024
+602 0.271
+603 0.103
+604 0.103
+605 0.104
+606 0.400
+607 0.270
+608 0.269
+609 0.267
+610 0.257
+611 0.041
+612 0.051
+613 0.321
+614 0.322
+615 1.076
+616 0.119
+617 0.521
+618 0.045
+619 0.023
+620 2.164
+644 1.424
+645 1.443
+646 0.040
+647 0.049
+648 1.444
+649 1.711
+650 1.407
+638 0.055
+639 1.714
+640 0.968
+641 0.528
+642 0.063
+643 0.170
+651 0.008
+652 0.370
+653 0.352
+654 0.352
+655 0.351
+656 0.030
+298_RPH_ Samanya Prasasan -2024_Data 7E
+
+1 2 3 4 5
+Shahjahanpur Shahjahanpur Satwa Bujurga 657 0.062
+658 0.055
+659 4.335
+660 0.061
+661 0.058
+662 0.060
+663 0.059
+664 0.061
+665 1.283
+666 0.187
+667 1.189
+668 0.238
+669 0.187
+670 0.140
+671 0.176
+672 0.176
+673 0.069
+680 0.063
+681 0.658
+682 1.415
+683 0.025
+684 0.075
+685 2.621
+687 0.295
+688 1.328
+689 0.068
+690 0.962
+691 0.514
+692 0.401
+694 0.060
+695 0.366
+696 0.365
+697 0.369
+698 0.391
+699 2.657
+700 2.627
+701 0.097
+795/711 0.077
+Total 131 Plots 67.481 Hectares
+Note: A site plan of the area specified above may be inspected in the office of the Collector,
+Shahjahanpur.
+
+By order,
+JITENDRA KUMAR,
+Apar Mukhya Sachiv.
+
+298_RPH_ Samanya Prasasan -2024_Data 7E
