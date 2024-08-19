@@ -1,0 +1,167 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "307"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 307 DoHUA EcF No. 450508-2024-37 Dated 19-08-24"
+published: "2024-08-19"
+in_force: "2024-08-19"
+in_force_evidence: "published in the Gazette 2024-08-19; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._307_dohua_ecf_no._450508-2024-37_dated_19-08-24_compressed.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2024-08-19.307"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+DEPARTMENT OF HOUSING AND URBAN AFFAIRS
+NOTIFICATION
+The 19th August, 2024
+DoHUA EcF No. 450508/2024/37.- In exercise of the powers conferred by the Sub-Section
+(2) and (3) of Section 10 of the Assam Town & Country Planning Act.1959 (as Amended) read with
+Rule 6 of the Assam Town and Country Planning (Publication of Master Plan and Zoning Regulation)
+Rules 1962, the Governor of Assam is pleased to publish the following notice regarding the
+publication of the Final Master Plan for Raha.
+NOTICE FOR THE PUBLICATION OF THE FINAL MASTER PLAN FOR RAHA
+1. It is notified that the Final Master Plan for Raha is prepared by the Directorate of Town and
+Country Planning, Government of Assam and adopted by the State Government under Sub
+Section (2) and (3) of Section 10 of the Assam Town & Country Planning Act, 1959 (as
+amended) read with Section 6 of the Assam Town & Country Planning (Amendment) Rule,
+1962 for the area described in the schedule below, is hereby published.
+2. The Final Master Plan with all relevant papers and maps may be inspected free of Cost
+during the office hours at the office of the Director, Town & Country Planning, Dispur,
+Guwahati-6, the Deputy Director, Town & Country Planning, District Office- Nagaon, office
+of the Chairman, Raha Municipal Board & Raha Revenue Circle Office. Copies of the Final
+Master Plan is also available in the office of the Director, Town & Country Planning, Dispur,
+Guwahati-6 and Deputy Director, Town & Country Planning, District Office-Nagaon for
+sale on payment.
+
+1922 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+PABITRA RAM KHAUND,
+Secretary to the Government of Assam,
+Department of Housing and Urban Affairs.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1923
+
+1924 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1925
+
+1926 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1927
+
+1928 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1929
+
+1930 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1931
+
+1932 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1933
+
+1934 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1935
+
+1936 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1937
+
+1938 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1939
+
+1940 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1941
+
+1942 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 1943
+
+2008 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2009
+
+2010 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2011
+
+2012 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2013
+
+2014 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2015
+
+2016 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2017
+
+2018 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2019
+
+2020 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2021
+
+2022 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2023
+
+2024 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2025
+
+2026 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+5.
+6.
+7.
+8.
+9.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2027
+
+2028 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2029
+
+2030 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2031
+
+2032 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2033
+
+2034 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2035
+
+2036 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2037
+
+2038 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2039
+
+2040 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2041
+
+2042 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025 2043
+
+2044 THE ASSAM GAZETTE, EXTRAORDINARY, MAY 17, 2025
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 613 - 100 + 10 - 17 - 05 - 2025. (visit at– dpns.assam.gov.in)
