@@ -1,0 +1,2883 @@
+---
+kind: "gazette-notification"
+gazette: "Karnataka Gazette"
+gazette_type: "Daily"
+issuer: "Government of Karnataka"
+department: "Gazette contains multiple Departments/Organizations"
+subject: "Gazette contains multiple Subjects"
+published: "2024-10-15"
+in_force: "2024-10-15"
+in_force_evidence: "text: \"shall come into effect from the date of publication of this notification in t\"; published in the Gazette 2024-10-15"
+official_text: "https://erajyapatra.karnataka.gov.in/%28S%28mfurv2tykru3ag5yo2l2ocel%29%29/Search1.aspx"
+mirror: "https://archive.org/details/in.gazette.karnataka_d.2024-10-15.7709"
+language: "English text only"
+---
+
+Volume - 159 Issue 202 BENGALURU, TUESDAY, 15, OCTOBER , 2024(AASHWAYUJA , 23, SHAKAVARSHA, 1946)
+
+GOVERNMENT OF KARNATAKA
+
+RC-CFS0ADMN/83/2023-RC Karnataka Government Secretariat
+E- 1262317 Multi Storied Building
+Bengaluru-560 001,
+Date:22-07-2024.
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No: RC-CFS0ADMN/83/2023/RC
+E-1262317 Dated 25.01.2024 regarding altering the limits of BYASIGIDERI village
+of HAGARIBOMMANAHALLI Taluk VIJAYANAGARA District and constituting a
+new revenue village called MUTUGANAHALLI, SHIVANANDANAGAR AND
+NANDIPURA was published as required by section 6 of the Karnataka Land Revenue
+Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette Dated: 07.02.2024
+inviting objections or suggestions from all the persons likely to be affected thereby
+within thirty days from the date of its publication in the Official Gazette addressed to
+the Deputy Commissioner VIJAYANAGARA district.
+
+And whereas, the said gazette was made available to the public on
+Dated: 23.03.2024 And whereas, no objections and suggestions have been received;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+(17261)
+
+SCHEDULE – 1
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+BYASIGIDERI village of HAGARIBOMMANAHALLI Taluk VIJAYANAGARA
+District to form a new revenue village called as MUTUGANAHALLI village of
+HAGARIBOMMANAHALLI Taluk VIJAYANAGARA District along with the
+survey numbers included in column (4) thereof.
+TABLE-1
+
+Extent of areas Survey numbers specified in
+Old Survey
+Transferred column(2) which are to be
+Sl Numbers which
+to new village included to form new village
+No areas are
+MUTUGANAHALLI MUTUGANAHALLI and new
+excluded
+Acre Cents survey numbers assigned to them
+(1) (2) (3) (4)
+Excluded From
+
+Byasigideri
+1. 287 15 25 1
+2. 295 7 51 2
+3. 294 7 50 3
+4. 292 7 69 4
+5. 290 7 80 5
+6. 288 9 97 6
+7. 289 11 15 7
+8. 487 22 60 8
+9. 486 7 06 9
+10. 479 8 96 10
+11. 478 11 06 11
+12. 300 11 88 12
+13. 291 14 25 13
+14. 299 24 58 14
+15. 293 3 58 15
+16. 297 11 0 16
+17. 298 9 39 17
+18. 304 13 31 18
+19. 303 10 45 19
+20. 301 13 72 20
+21. 302 1 30 21
+22. 480 10 57 22
+23. 306 6 99 23
+24. 307 14 0 24
+25. 309 3 90 25
+
+on YA BMFUE DHS, WONTAOS, 13, Sa Qewo*, IOIP N2923
+26. 308 4 76 26
+27. 305 28 85 27
+28. 311 13 39 28
+29. 312 2 60 29
+30. 313 13 02 30
+31. 310 24 60 31
+32. 319 18 06 32
+33. 318 1 63 33
+34. 314 39 23 34
+35. 265 10 13 35
+36. 266 39 80 36
+37. 267 6 88 37
+38. 269 9 80 38
+39. 268 9 36 39
+40. 264 8 46 40
+41. 317 9 11 41
+42. 316 2 71 42
+43. 315 8 17 43
+44. 263 12 58 44
+45. 262 23 65 45
+46. 325 12 10 46
+47. 324 6 15 47
+48. 323 2 37 48
+49. 320 8 55 49
+50. 321 10 95 50
+51. 322 23 43 51
+52. 328 5 80 52
+53. 327 9 72 53
+54. 326 1 54 54
+55. 329 13 84 55
+56. 230 8 40 56
+57. 231 0 10 57
+58. 330 0 35 58
+59. 331 2 68 59
+60. 334 0 18 60
+61. 335 0 81 61
+62. 333 4 95 62
+63. 337 1 27 63
+64. 339 19 85 64
+65. 229 3 05 65
+66. 232 10 90 66
+67. 228 0 41 67
+
+68. 227 16 24 68
+69. 226 11 15 69
+70. 225 0 79 70
+71. 371 7 0 71
+72. 372 7 37 72
+73. 370 3 60 73
+74. 369 1 77 74
+75. 368 14 18 75
+76. 367 9 70 76
+77. 366 19 31 77
+78. 574 25 25 78
+79. 573 12 32 79
+80. 375 5 86 80
+81. 365 7 21 81
+82. 341 13 45 82
+83. 340 11 05 83
+84. 338 2 72 84
+85. 343 9 70 85
+86. 342 12 44 86
+87. 344 0 68 87
+88. 336 0 68 88
+89. 332 7 60 89
+90. 345 8 59 90
+91. 346 7 91 91
+92. 348 15 80 92
+93. 347 12 75 93
+94. 459 7 15 94
+95. 458 10 55 95
+96. 457 7 54 96
+97. 456 7 40 97
+98. 455 7 33 98
+99. 454 15 48 99
+100. 453 13 31 100
+101. 464 0 97 101
+102. 465 2 68 102
+103. 463 11 40 103
+104. 462 0 46 104
+105. 461 3 90 105
+106. 460 1 42 106
+107. 473 1 95 107
+108. 472 16 43 108
+109. 474 23 70 109
+
+110. 471 13 98 110
+111. 470 21 40 111
+112. 469 6 32 112
+113. 475 20 51 113
+114. 476 12 46 114
+115. 468 3 74 115
+116. 466 11 20 116
+117. 452 1 58 117
+118. 467 21 33 118
+119. 498 0 73 119
+120. 491 27 89 120
+121. 585 10 54 121
+122. 489 6 95 122
+123. 490 11 15 123
+124. 481 27 43 124
+125. 482 7 23 125
+126. 484 10 0 126
+127. 488 82 15 127
+128. 483 16 57 128
+129. 588 16 90 129
+130. 492 8 64 130
+131. 587 8 12 131
+132. 493 9 80 132
+133. 494 8 81 133
+134. 495 4 63 134
+135. 586 11 20 135
+136. 496 17 18 136
+137. 497 16 91 137
+138. 501 6 15 138
+139. 499 9 56 139
+140. 500 23 23 140
+141. 451 5 46 141
+142. 450 21 20 142
+143. 502 34 15 143
+144. 435 12 55 144
+145. 434 17 04 145
+146. 437 9 65 146
+147. 436 14 50 147
+148. 449 31 91 148
+149. 448 9 33 149
+150. 447 10 25 150
+151. 446 16 33 151
+
+152. 445 12 23 152
+153. 444 10 13 153
+154. 443 5 50 154
+155. 442 3 50 155
+156. 354 9 30 156
+157. 353 11 19 157
+158. 349 11 87 158
+159. 352 5 05 159
+160. 351 10 90 160
+161. 355 11 02 161
+162. 356 7 38 162
+163. 357 16 10 163
+164. 358 9 87 164
+165. 359 5 65 165
+166. 360 8 28 166
+167. 361 9 46 167
+168. 441 8 96 168
+169. 440 6 47 169
+170. 439 9 27 170
+171. 438 9 80 171
+172. 433 8 43 172
+173. 432 1 45 173
+174. 431 23 04 174
+175. 430 3 48 175
+176. 428 18 75 176
+177. 424 23 93 177
+178. 423 16 54 178
+179. 422 15 05 179
+180. 421 8 0 180
+181. 425 9 89 181
+182. 426 12 04 182
+183. 427 18 79 183
+184. 542 11 17 184
+185. 429 1 64 185
+186. 541 6 34 186
+187. 543 13 50 187
+188. 544 13 16 188
+189. 416 5 95 189
+190. 417 4 09 190
+191. 418 9 0 191
+192. 419 11 73 192
+193. 420 15 68 193
+
+194. 410 7 05 194
+195. 409 10 70 195
+196. 362 21 74 196
+197. 363 7 98 197
+198. 350 4 37 198
+199. 364 30 97 199
+200. 577 8 38 200
+201. 576 3 70 201
+202. 575 9 31 202
+203. 376 11 97 203
+204. 377 21 10 204
+205. 378 5 85 205
+206. 400 2 30 206
+207. 399 10 43 207
+208. 397 7 90 208
+209. 398 14 01 209
+210. 583 12 60 210
+211. 578 6 99 211
+212. 579 11 33 212
+213. 580 4 94 213
+214. 584 9 66 214
+215. 402 21 06 215
+216. 401 15 41 216
+217. 403 28 25 217
+218. 408 35 60 218
+219. 407 8 77 219
+220. 413 18 19 220
+221. 412 6 05 221
+222. 411 5 99 222
+223. 415 14 75 223
+224. 414 16 40 224
+225. 545 19 84 225
+226. 540 13 80 226
+227. 533 8 54 227
+228. 532 27 32 228
+229. 521 16 80 229
+230. 524 3 50 230
+231. 523 10 76 231
+232. 522 12 0 232
+233. 596 16 25 233
+234. 597 14 04 234
+235. 519 23 13 235
+
+236. 518 12 37 236
+237. 517 2 84 237
+238. 503 21 62 238
+239. 505 7 90 239
+240. 506 10 83 240
+241. 508 16 68 241
+242. 507 9 89 242
+243. 509 5 72 243
+244. 510 8 96 244
+245. 511 9 05 245
+246. 512 10 34 246
+247. 513 7 93 247
+248. 516 7 64 248
+249. 589 16 97 249
+250. 590 11 53 250
+251. 591 16 94 251
+252. 514 8 83 252
+253. 504 52 67 253
+254. 515 6 90 254
+255. 592 27 45 255
+256. 593 9 77 256
+257. 599 7 53 257
+258. 598 10 97 258
+259. 595 7 21 259
+260. 594 15 11 260
+261. 520 17 14 261
+262. 525 7 86 262
+263. 526 8 57 263
+264. 527 3 53 264
+265. 528 3 48 265
+266. 529 7 80 266
+267. 530 3 51 267
+268. 531 13 80 268
+269. 536 9 19 269
+270. 539 2 89 270
+271. 537 8 31 271
+272. 547 31 02 272
+273. 534 6 06 273
+274. 546 16 55 274
+275. 548 7 45 275
+276. 549 13 07 276
+277. 550 3 45 277
+
+278. 551 32 80 278
+279. 406 17 04 279
+280. 404 6 42 280
+281. 405 16 20 281
+282. 581 16 13 282
+283. 582 8 80 283
+284. 553 11 90 284
+285. 552 13 50 285
+286. 554 36 51 286
+287. 607 14 48 287
+288. 572 9 41 288
+289. 606 19 81 289
+290. 605 10 86 290
+291. 604 15 92 291
+292. 601 16 18 292
+293. 602 18 10 293
+294. 603 27 63 294
+295. 555 21 50 295
+296. 600 16 91 296
+297. 233 1 48 297
+298. 296 13 84 298
+299. 477 13 45 299
+300. 485 8 02 300
+301. 535 7 60 301
+302. 538 8 81 302
+TOTAL 3577 05
+
+Note : The extent of Grama Tana within the said village is to the extent specified
+below namely:
+
+Old Survey Number Extent New Survey Number Extent
+230 8.40 56 8.40
+Total 8.40 Total 8.40
+
+BOUNDERIES OF THE NEW VILLAGE OF MUTUGANAHALLI
+
+East:- Hagaribommanahalli Village North:- Byasigideri, Nandipura
+boundary Village boundry
+West :- Gaddikere, Adavi Kyadigihalli South:- Adavi Kyadigihalli
+Village boundary village boundary
+
+SCHEDULE – 2
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+
+BYASIGIDERI village of Hagaribommanahalli Taluk VIJAYANAGARA District
+to form a new revenue village called as SHIVANANDANAGAR village of
+Hagaribommanahalli Taluk VIJAYANAGARA District along with the survey
+numbers included in column (4) thereof.
+
+TABLE-2
+
+Survey numbers specified in
+Extent of areas Transferred Old Survey column(2) which are to be
+to new village Sl Numbers included to form new village
+Shivanandanagara No which areas are SHIVANANDANAGARA
+excluded and new survey numbers
+Acre Cents
+assigned to them
+(1) (2) (3) (4)
+Excluded From
+
+Byasigideri
+1. 1 7 90 1
+2. 2 1 69 2
+3. 3 2 78 3
+4. 4 53 94 4
+5. 5 44 70 5
+6. 6 12 55 6
+7. 7 16 35 7
+8. 8 25 73 8
+9. 9 11 99 9
+10. 10 3 40 10
+11. 179 2 29 11
+12. 180 6 54 12
+13. 182 10 43 13
+14. 183 5 89 14
+15. 184 3 90 15
+16. 185 2 51 16
+17. 186 11 42 17
+18. 187 2 50 18
+19. 181 12 19 19
+20. 178 10 78 20
+21. 154 7 65 21
+22. 11 4 62 22
+23. 153 3 13 23
+24. 155 6 57 24
+25. 156 1 42 25
+26. 157 3 30 26
+27. 158 4 75 27
+
+28. 159 14 48 28
+29. 166 2 72 29
+30. 163 1 91 30
+31. 164 0 96 31
+32. 165 1 35 32
+33. 168 18 27 33
+34. 167 1 89 34
+35. 221 17 71 35
+36. 220 9 45 36
+37. 219 6 55 37
+38. 170 11 25 38
+39. 169 13 10 39
+40. 171 4 76 40
+41. 218 6 46 41
+42. 172 26 96 42
+43. 177 6 43 43
+44. 176 17 25 44
+45. 188 11 26 45
+46. 189 12 04 46
+47. 190 16 23 47
+48. 175 17 76 48
+49. 173 11 24 49
+50. 217 3 32 50
+51. 216 23 81 51
+52. 215 37 46 52
+53. 197 9 31 53
+54. 196 9 03 54
+55. 194 11 71 55
+56. 193 6 17 56
+57. 174 11 31 57
+58. 191 15 09 58
+59. 192 11 54 59
+60. 195 4 80 60
+61. 198 15 32 61
+62. 199 1 04 62
+63. 200 20 53 63
+64. 201 8 75 64
+65. 202 14 18 65
+66. 205 6 06 66
+67. 206 8 75 67
+68. 207 7 54 68
+69. 204 11 95 69
+
+70. 203 10 15 70
+71. 208 10 72 71
+72. 209 8 10 72
+73. 210 10 13 73
+74. 214 7 24 74
+75. 222 12 50 75
+76. 224 11 43 76
+77. 223 16 20 77
+78. 213 19 15 78
+79. 373 12 83 79
+80. 374 27 05 80
+81. 212 9 80 81
+82. 211 15 79 82
+83. 385 14 39 83
+84. 386 10 29 84
+85. 388 11 70 85
+86. 387 6 59 86
+87. 384 4 74 87
+88. 382 17 33 88
+89. 383 4 05 89
+90. 381 2 44 90
+91. 380 10 20 91
+92. 395 3 29 92
+93. 379 5 0 93
+94. 396 5 35 94
+95. 394 57 89 95
+96. 393 14 25 96
+97. 392 6 60 97
+98. 391 7 65 98
+99. 389 10 63 99
+100. 390 1 83 100
+TOTAL 1113 93
+
+Note : The extent of Grama Tana within the said village is to the extent specified
+below namely
+
+Old Survey Number Extent New Survey Number Extent
+197/A Paiki 5.17 53 5.17
+215/D2 Paiki 2.25 52 2.25
+215/C3 1.00 52 1.00
+208/A2 2.00 71 2.00
+Total 10.42 Total 10.42
+
+BOUNDERIES OF THE NEW REVENUE VILLAGE OF
+SHIVANANDANAGARA
+
+East :- Kadalabalu , Hagaribommanahalli North :- Hiresobati Village
+Village boundary boundry
+West :- Byasigideri , Mutuganahalli South :- Mutuganahalli village
+Village boundary boundary
+
+SCHEDULE – 3
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+BYASIGIDERI village of Hagaribommanahalli Taluk VIJAYANAGARA District to
+form a new revenue village called as NANDIPURA village of Hagaribommanahalli
+Taluk VIJAYANAGARA District along with the survey numbers included in column
+(4) thereof.
+
+TABLE-3
+
+Extent of areas Survey numbers specified in
+Old Survey
+Transferred to new column(2) which are to be included
+Sl Numbers which
+village NANDIPURA to form new village NANDIPURA
+No areas are
+Acre Cents and new survey numbers assigned to
+excluded
+them
+(1) (2) (3) (4)
+Excluded From
+
+Byasigideri
+1. 96 23 95 1
+2. 95 16 31 2
+3. 93 8 03 3
+4. 90 13 13 4
+5. 91 7 66 5
+6. 92 7 75 6
+7. 94 14 68 7
+8. 98 7 01 8
+9. 97 12 44 9
+10. 100 6 74 10
+11. 99 7 70 11
+12. 101 8 47 12
+13. 556 21 93 13
+14. 559 15 42 14
+15. 560 13 56 15
+16. 561 15 87 16
+
+17. 564 7 25 17
+18. 563 9 36 18
+19. 562 7 04 19
+20. 557 8 41 20
+21. 558 6 55 21
+22. 102 8 28 22
+23. 103 15 29 23
+24. 104 10 39 24
+25. 569 47 37 25
+26. 568 15 01 26
+27. 570 15 75 27
+28. 566 9 29 28
+29. 285 16 27 29
+30. 565 11 56 30
+31. 567 10 97 31
+32. 571 22 34 32
+33. 286 19 59 33
+34. 282 20 98 34
+35. 283 9 05 35
+36. 281 12 18 36
+TOTAL 483 58
+
+Note : The extent of Grama Tana within the said village is to the extent specified
+below namely
+
+Old Survey Number Extent New Survey Number Extent
+96/1 18.95 1 18.95
+Total 18.95 Total 18.95
+
+BOUNDERIES OF THE NEW REVENUE VILLAGE OF NANDIPURA
+
+East :- Byasigideri Village North :- Hiresobati Village
+boundary boundry
+West: Gaddikere Village South :-Mutuganahalli village
+boundary boundary
+
+SCHEDULE-4
+
+The Survey numbers of the village and areas remaining in the
+BYASIGIDERI village specified in the column (2) shall be assigned new survey
+numbers in the said villages specified in the column (4).
+
+TABLE-4
+
+Survey numbers remaining in Area New survey numbers
+Byasigideri village after assigned to the remaining
+Sl
+excluding the survey numbers survey numbers in village
+No Acre Cents
+which are to be included to BYASIGIDERI
+form New villages specified in column (2)
+(1) (2) (3) (4)
+(a) (b)
+1. 89 19 57 1
+2. 86 32 11 2
+3. 85 10 01 3
+4. 84 31 52 4
+5. 83 25 37 5
+6. 82 28 59 6
+7. 78 4 82 7
+8. 79 11 92 8
+9. 81 2 40 9
+10. 80 7 21 10
+11. 76 15 95 11
+12. 75 14 73 12
+13. 77 5 89 13
+14. 67 6 66 14
+15. 68 6 65 15
+16. 74 9 70 16
+17. 73 9 09 17
+18. 71 31 35 18
+19. 70 39 75 19
+20. 69 8 75 20
+21. 66 9 31 21
+22. 65 6 12 22
+23. 62 3 24 23
+24. 64 9 57 24
+25. 63 7 65 25
+26. 60 14 38 26
+27. 61 7 98 27
+28. 59 11 83 28
+29. 58 17 55 29
+30. 55 2 22 30
+31. 54 14 20 31
+32. 56 7 14 32
+33. 53 5 68 33
+34. 52 3 02 34
+
+35. 51 12 95 35
+36. 50 14 30 36
+37. 49 14 50 37
+38. 128 17 90 38
+39. 140 0 76 39
+40. 47 15 47 40
+41. 46 12 29 41
+42. 48 3 22 42
+43. 57 0 55 43
+44. 45 11 0 44
+45. 44 17 93 45
+46. 43 13 70 46
+47. 42 11 80 47
+48. 41 16 98 48
+49. 144 8 96 49
+50. 147 8 26 50
+51. 37 16 80 51
+52. 36 21 60 52
+53. 38 12 76 53
+54. 40 11 85 54
+55. 39 7 71 55
+56. 35 8 24 56
+57. 24 8 50 57
+58. 23 14 49 58
+59. 21 16 95 59
+60. 20 1 33 60
+61. 22 9 0 61
+62. 25 6 25 62
+63. 34 2 50 63
+64. 26 3 37 64
+65. 19 4 38 65
+66. 16 20 56 66
+67. 18 1 74 67
+68. 27 4 99 68
+69. 28 3 63 69
+70. 29 2 54 70
+71. 30 4 59 71
+72. 31 8 49 72
+73. 17 2 55 73
+74. 15 6 84 74
+75. 14 14 44 75
+76. 32 2 80 76
+
+77. 33 5 42 77
+78. 13 1 45 78
+79. 12 4 30 79
+80. 152 1 60 80
+81. 151 15 09 81
+82. 149 12 38 82
+83. 150 9 08 83
+84. 146 6 98 84
+85. 145 6 20 85
+86. 143 5 09 86
+87. 142 5 70 87
+88. 137 0 39 88
+89. 138 11 58 89
+90. 139 11 35 90
+91. 608 9 25 91
+92. 129 19 59 92
+93. 132 14 02 93
+94. 131 14 72 94
+95. 130 24 11 95
+96. 127 21 01 96
+97. 72 14 91 97
+98. 121 21 41 98
+99. 126 1 78 99
+100. 125 11 27 100
+101. 124 5 26 101
+102. 123 6 57 102
+103. 122 11 41 103
+104. 117 16 10 104
+105. 118 6 28 105
+106. 120 19 30 106
+107. 113 13 05 107
+108. 119 2 85 108
+109. 114 11 49 109
+110. 115 11 51 110
+111. 112 13 24 111
+112. 111 14 90 112
+113. 110 23 93 113
+114. 87 18 71 114
+115. 88 15 32 115
+116. 108 16 10 116
+117. 109 3 40 117
+118. 106 8 63 118
+
+119. 107 4 50 119
+120. 105 6 61 120
+121. 284 6 38 121
+122. 279 9 96 122
+123. 278 6 38 123
+124. 277 4 53 124
+125. 116 3 09 125
+126. 275 13 65 126
+127. 280 20 23 127
+128. 276 9 72 128
+129. 270 36 18 129
+130. 274 10 39 130
+131. 273 2 35 131
+132. 272 10 35 132
+133. 271 7 0 133
+134. 260 13 63 134
+135. 259 3 96 135
+136. 258 4 46 136
+137. 257 13 93 137
+138. 256 19 63 138
+139. 255 8 94 139
+140. 254 6 10 140
+141. 253 8 29 141
+142. 252 13 04 142
+143. 251 10 0 143
+144. 250 9 29 144
+145. 249 9 91 145
+146. 247 11 46 146
+147. 246 10 23 147
+148. 245 6 19 148
+149. 248 0 65 149
+150. 133 1 37 150
+151. 134 3 96 151
+152. 135 0 14 152
+153. 136 12 54 153
+154. 241 0 45 154
+155. 160 1 05 155
+156. 240 0 30 156
+157. 239 0 61 157
+158. 161 6 35 158
+159. 235 3 20 159
+160. 236 0 85 160
+
+161. 237 0 34 161
+162. 238 0 75 162
+163. 242 1 36 163
+164. 243 0 10 164
+165. 244 6 41 165
+166. 234 8 50 166
+167. 162 3 70 167
+168. 141 6 93 168
+169. 261 17 35 169
+170. 148 1 09 170
+TOTAL 1686 51
+
+Note : The extent of Grama Tana within the said village is to the extent specified
+below namely
+
+Old Survey Number Extent New Survey Number Extent
+136 12.54 153 12.54
+Total 12.54 Total 12.54
+BOUNDERIES OF THE OLD VILLAGE OF BYASIGIDERI
+
+East :- Shivanandanagara village North :- Hiresobati village
+boundary boundary
+West :- Nandipura Village South :- Mutuganahalli Village
+boundary boundary
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villagesand
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+303. 287 15 25 1
+304. 295 7 51 2
+305. 294 7 50 3
+306. 292 7 69 4
+307. 290 7 80 5
+308. 288 9 97 6
+309. 289 11 15 7
+310. 487 22 60 8
+311. 486 7 06 9
+312. 479 8 96 10
+313. 478 11 06 11
+314. 300 11 88 12
+315. 291 14 25 13
+316. 299 24 58 14
+317. 293 3 58 15
+
+318. 297 11 0 16
+319. 298 9 39 17
+320. 304 13 31 18
+321. 303 10 45 19
+322. 301 13 72 20
+323. 302 1 30 21
+324. 480 10 57 22
+325. 306 6 99 23
+326. 307 14 0 24
+327. 309 3 90 25
+328. 308 4 76 26
+329. 305 28 85 27
+330. 311 13 39 28
+331. 312 2 60 29
+332. 313 13 02 30
+333. 310 24 60 31
+334. 319 18 06 32
+335. 318 1 63 33
+336. 314 39 23 34
+337. 265 10 13 35
+338. 266 39 80 36
+339. 267 6 88 37
+340. 269 9 80 38
+341. 268 9 36 39
+342. 264 8 46 40
+343. 317 9 11 41
+344. 316 2 71 42
+345. 315 8 17 43
+346. 263 12 58 44
+347. 262 23 65 45
+348. 325 12 10 46
+349. 324 6 15 47
+350. 323 2 37 48
+351. 320 8 55 49
+352. 321 10 95 50
+353. 322 23 43 51
+354. 328 5 80 52
+355. 327 9 72 53
+356. 326 1 54 54
+357. 329 13 84 55
+358. 230 8 40 56
+359. 231 0 10 57
+
+360. 330 0 35 58
+361. 331 2 68 59
+362. 334 0 18 60
+363. 335 0 81 61
+364. 333 4 95 62
+365. 337 1 27 63
+366. 339 19 85 64
+367. 229 3 05 65
+368. 232 10 90 66
+369. 228 0 41 67
+370. 227 16 24 68
+371. 226 11 15 69
+372. 225 0 79 70
+373. 371 7 0 71
+374. 372 7 37 72
+375. 370 3 60 73
+376. 369 1 77 74
+377. 368 14 18 75
+378. 367 9 70 76
+379. 366 19 31 77
+380. 574 25 25 78
+381. 573 12 32 79
+382. 375 5 86 80
+383. 365 7 21 81
+384. 341 13 45 82
+385. 340 11 05 83
+386. 338 2 72 84
+387. 343 9 70 85
+388. 342 12 44 86
+389. 344 0 68 87
+390. 336 0 68 88
+391. 332 7 60 89
+392. 345 8 59 90
+393. 346 7 91 91
+394. 348 15 80 92
+395. 347 12 75 93
+396. 459 7 15 94
+397. 458 10 55 95
+398. 457 7 54 96
+399. 456 7 40 97
+400. 455 7 33 98
+401. 454 15 48 99
+
+402. 453 13 31 100
+403. 464 0 97 101
+404. 465 2 68 102
+405. 463 11 40 103
+406. 462 0 46 104
+407. 461 3 90 105
+408. 460 1 42 106
+409. 473 1 95 107
+410. 472 16 43 108
+411. 474 23 70 109
+412. 471 13 98 110
+413. 470 21 40 111
+414. 469 6 32 112
+415. 475 20 51 113
+416. 476 12 46 114
+417. 468 3 74 115
+418. 466 11 20 116
+419. 452 1 58 117
+420. 467 21 33 118
+421. 498 0 73 119
+422. 491 27 89 120
+423. 585 10 54 121
+424. 489 6 95 122
+425. 490 11 15 123
+426. 481 27 43 124
+427. 482 7 23 125
+428. 484 10 0 126
+429. 488 82 15 127
+430. 483 16 57 128
+431. 588 16 90 129
+432. 492 8 64 130
+433. 587 8 12 131
+434. 493 9 80 132
+435. 494 8 81 133
+436. 495 4 63 134
+437. 586 11 20 135
+438. 496 17 18 136
+439. 497 16 91 137
+440. 501 6 15 138
+441. 499 9 56 139
+442. 500 23 23 140
+443. 451 5 46 141
+
+444. 450 21 20 142
+445. 502 34 15 143
+446. 435 12 55 144
+447. 434 17 04 145
+448. 437 9 65 146
+449. 436 14 50 147
+450. 449 31 91 148
+451. 448 9 33 149
+452. 447 10 25 150
+453. 446 16 33 151
+454. 445 12 23 152
+455. 444 10 13 153
+456. 443 5 50 154
+457. 442 3 50 155
+458. 354 9 30 156
+459. 353 11 19 157
+460. 349 11 87 158
+461. 352 5 05 159
+462. 351 10 90 160
+463. 355 11 02 161
+464. 356 7 38 162
+465. 357 16 10 163
+466. 358 9 87 164
+467. 359 5 65 165
+468. 360 8 28 166
+469. 361 9 46 167
+470. 441 8 96 168
+471. 440 6 47 169
+472. 439 9 27 170
+473. 438 9 80 171
+474. 433 8 43 172
+475. 432 1 45 173
+476. 431 23 04 174
+477. 430 3 48 175
+478. 428 18 75 176
+479. 424 23 93 177
+480. 423 16 54 178
+481. 422 15 05 179
+482. 421 8 0 180
+483. 425 9 89 181
+484. 426 12 04 182
+485. 427 18 79 183
+
+486. 542 11 17 184
+487. 429 1 64 185
+488. 541 6 34 186
+489. 543 13 50 187
+490. 544 13 16 188
+491. 416 5 95 189
+492. 417 4 09 190
+493. 418 9 0 191
+494. 419 11 73 192
+495. 420 15 68 193
+496. 410 7 05 194
+497. 409 10 70 195
+498. 362 21 74 196
+499. 363 7 98 197
+500. 350 4 37 198
+501. 364 30 97 199
+502. 577 8 38 200
+503. 576 3 70 201
+504. 575 9 31 202
+505. 376 11 97 203
+506. 377 21 10 204
+507. 378 5 85 205
+508. 400 2 30 206
+509. 399 10 43 207
+510. 397 7 90 208
+511. 398 14 01 209
+512. 583 12 60 210
+513. 578 6 99 211
+514. 579 11 33 212
+515. 580 4 94 213
+516. 584 9 66 214
+517. 402 21 06 215
+518. 401 15 41 216
+519. 403 28 25 217
+520. 408 35 60 218
+521. 407 8 77 219
+522. 413 18 19 220
+523. 412 6 05 221
+524. 411 5 99 222
+525. 415 14 75 223
+526. 414 16 40 224
+527. 545 19 84 225
+
+528. 540 13 80 226
+529. 533 8 54 227
+530. 532 27 32 228
+531. 521 16 80 229
+532. 524 3 50 230
+533. 523 10 76 231
+534. 522 12 0 232
+535. 596 16 25 233
+536. 597 14 04 234
+537. 519 23 13 235
+538. 518 12 37 236
+539. 517 2 84 237
+540. 503 21 62 238
+541. 505 7 90 239
+542. 506 10 83 240
+543. 508 16 68 241
+544. 507 9 89 242
+545. 509 5 72 243
+546. 510 8 96 244
+547. 511 9 05 245
+548. 512 10 34 246
+549. 513 7 93 247
+550. 516 7 64 248
+551. 589 16 97 249
+552. 590 11 53 250
+553. 591 16 94 251
+554. 514 8 83 252
+555. 504 52 67 253
+556. 515 6 90 254
+557. 592 27 45 255
+558. 593 9 77 256
+559. 599 7 53 257
+560. 598 10 97 258
+561. 595 7 21 259
+562. 594 15 11 260
+563. 520 17 14 261
+564. 525 7 86 262
+565. 526 8 57 263
+566. 527 3 53 264
+567. 528 3 48 265
+568. 529 7 80 266
+569. 530 3 51 267
+
+570. 531 13 80 268
+571. 536 9 19 269
+572. 539 2 89 270
+573. 537 8 31 271
+574. 547 31 02 272
+575. 534 6 06 273
+576. 546 16 55 274
+577. 548 7 45 275
+578. 549 13 07 276
+579. 550 3 45 277
+580. 551 32 80 278
+581. 406 17 04 279
+582. 404 6 42 280
+583. 405 16 20 281
+584. 581 16 13 282
+585. 582 8 80 283
+586. 553 11 90 284
+587. 552 13 50 285
+588. 554 36 51 286
+589. 607 14 48 287
+590. 572 9 41 288
+591. 606 19 81 289
+592. 605 10 86 290
+593. 604 15 92 291
+594. 601 16 18 292
+595. 602 18 10 293
+596. 603 27 63 294
+597. 555 21 50 295
+598. 600 16 91 296
+599. 233 1 48 297
+600. 296 13 84 298
+601. 477 13 45 299
+602. 485 8 02 300
+603. 535 7 60 301
+604. 538 8 81 302
+
+230 7.96 56 7.96
+
+1 2 3 4
+1. 1 7 90 1
+2. 2 1 69 2
+3. 3 2 78 3
+4. 4 53 94 4
+5. 5 44 70 5
+6. 6 12 55 6
+7. 7 16 35 7
+8. 8 25 73 8
+9. 9 11 99 9
+10. 10 3 40 10
+11. 179 2 29 11
+12. 180 6 54 12
+13. 182 10 43 13
+14. 183 5 89 14
+
+15. 184 3 90 15
+16. 185 2 51 16
+17. 186 11 42 17
+18. 187 2 50 18
+19. 181 12 19 19
+20. 178 10 78 20
+21. 154 7 65 21
+22. 11 4 62 22
+23. 153 3 13 23
+24. 155 6 57 24
+25. 156 1 42 25
+26. 157 3 30 26
+27. 158 4 75 27
+28. 159 14 48 28
+29. 166 2 72 29
+30. 163 1 91 30
+31. 164 0 96 31
+32. 165 1 35 32
+33. 168 18 27 33
+34. 167 1 89 34
+35. 221 17 71 35
+36. 220 9 45 36
+37. 219 6 55 37
+38. 170 11 25 38
+39. 169 13 10 39
+40. 171 4 76 40
+41. 218 6 46 41
+42. 172 26 96 42
+43. 177 6 43 43
+44. 176 17 25 44
+45. 188 11 26 45
+46. 189 12 04 46
+47. 190 16 23 47
+48. 175 17 76 48
+49. 173 11 24 49
+50. 217 3 32 50
+51. 216 23 81 51
+52. 215 37 46 52
+53. 197 9 31 53
+54. 196 9 03 54
+55. 194 11 71 55
+56. 193 6 17 56
+
+57. 174 11 31 57
+58. 191 15 09 58
+59. 192 11 54 59
+60. 195 4 80 60
+61. 198 15 32 61
+62. 199 1 04 62
+63. 200 20 53 63
+64. 201 8 75 64
+65. 202 14 18 65
+66. 205 6 06 66
+67. 206 8 75 67
+68. 207 7 54 68
+69. 204 11 95 69
+70. 203 10 15 70
+71. 208 10 72 71
+72. 209 8 10 72
+73. 210 10 13 73
+74. 214 7 24 74
+75. 222 12 50 75
+76. 224 11 43 76
+77. 223 16 20 77
+78. 213 19 15 78
+79. 373 12 83 79
+80. 374 27 05 80
+81. 212 9 80 81
+82. 211 15 79 82
+83. 385 14 39 83
+84. 386 10 29 84
+85. 388 11 70 85
+86. 387 6 59 86
+87. 384 4 74 87
+88. 382 17 33 88
+89. 383 4 05 89
+90. 381 2 44 90
+91. 380 10 20 91
+92. 395 3 29 92
+93. 379 5 0 93
+94. 396 5 35 94
+95. 394 57 89 95
+96. 393 14 25 96
+97. 392 6 60 97
+98. 391 7 65 98
+
+99. 389 10 63 99
+100. 390 1 83 100
+
+215/¹3 1.00 52 1.00
+208/J2 2.00 71 2.00
+
+1 2 3 4
+1. 96 23 95 1
+2. 95 16 31 2
+3. 93 8 03 3
+4. 90 13 13 4
+5. 91 7 66 5
+
+6. 92 7 75 6
+7. 94 14 68 7
+8. 98 7 01 8
+9. 97 12 44 9
+10. 100 6 74 10
+11. 99 7 70 11
+12. 101 8 47 12
+13. 556 21 93 13
+14. 559 15 42 14
+15. 560 13 56 15
+16. 561 15 87 16
+17. 564 7 25 17
+18. 563 9 36 18
+19. 562 7 04 19
+20. 557 8 41 20
+21. 558 6 55 21
+22. 102 8 28 22
+23. 103 15 29 23
+24. 104 10 39 24
+25. 569 47 37 25
+26. 568 15 01 26
+27. 570 15 75 27
+28. 566 9 29 28
+29. 285 16 27 29
+30. 565 11 56 30
+31. 567 10 97 31
+32. 571 22 34 32
+33. 286 19 59 33
+34. 282 20 98 34
+35. 283 9 05 35
+36. 281 12 18 36
+
+96/1 18.95 1 18.95
+
+(1) (2) (3) (4)
+(a) (b)
+171. 89 19 57 1
+172. 86 32 11 2
+173. 85 10 01 3
+174. 84 31 52 4
+175. 83 25 37 5
+176. 82 28 59 6
+177. 78 4 82 7
+178. 79 11 92 8
+179. 81 2 40 9
+180. 80 7 21 10
+181. 76 15 95 11
+182. 75 14 73 12
+183. 77 5 89 13
+184. 67 6 66 14
+185. 68 6 65 15
+186. 74 9 70 16
+187. 73 9 09 17
+188. 71 31 35 18
+189. 70 39 75 19
+190. 69 8 75 20
+191. 66 9 31 21
+192. 65 6 12 22
+193. 62 3 24 23
+194. 64 9 57 24
+
+195. 63 7 65 25
+196. 60 14 38 26
+197. 61 7 98 27
+198. 59 11 83 28
+199. 58 17 55 29
+200. 55 2 22 30
+201. 54 14 20 31
+202. 56 7 14 32
+203. 53 5 68 33
+204. 52 3 02 34
+205. 51 12 95 35
+206. 50 14 30 36
+207. 49 14 50 37
+208. 128 17 90 38
+209. 140 0 76 39
+210. 47 15 47 40
+211. 46 12 29 41
+212. 48 3 22 42
+213. 57 0 55 43
+214. 45 11 0 44
+215. 44 17 93 45
+216. 43 13 70 46
+217. 42 11 80 47
+218. 41 16 98 48
+219. 144 8 96 49
+220. 147 8 26 50
+221. 37 16 80 51
+222. 36 21 60 52
+223. 38 12 76 53
+224. 40 11 85 54
+225. 39 7 71 55
+226. 35 8 24 56
+227. 24 8 50 57
+228. 23 14 49 58
+229. 21 16 95 59
+230. 20 1 33 60
+231. 22 9 0 61
+232. 25 6 25 62
+233. 34 2 50 63
+234. 26 3 37 64
+235. 19 4 38 65
+236. 16 20 56 66
+
+237. 18 1 74 67
+238. 27 4 99 68
+239. 28 3 63 69
+240. 29 2 54 70
+241. 30 4 59 71
+242. 31 8 49 72
+243. 17 2 55 73
+244. 15 6 84 74
+245. 14 14 44 75
+246. 32 2 80 76
+247. 33 5 42 77
+248. 13 1 45 78
+249. 12 4 30 79
+250. 152 1 60 80
+251. 151 15 09 81
+252. 149 12 38 82
+253. 150 9 08 83
+254. 146 6 98 84
+255. 145 6 20 85
+256. 143 5 09 86
+257. 142 5 70 87
+258. 137 0 39 88
+259. 138 11 58 89
+260. 139 11 35 90
+261. 608 9 25 91
+262. 129 19 59 92
+263. 132 14 02 93
+264. 131 14 72 94
+265. 130 24 11 95
+266. 127 21 01 96
+267. 72 14 91 97
+268. 121 21 41 98
+269. 126 1 78 99
+270. 125 11 27 100
+271. 124 5 26 101
+272. 123 6 57 102
+273. 122 11 41 103
+274. 117 16 10 104
+275. 118 6 28 105
+276. 120 19 30 106
+277. 113 13 05 107
+278. 119 2 85 108
+
+279. 114 11 49 109
+280. 115 11 51 110
+281. 112 13 24 111
+282. 111 14 90 112
+283. 110 23 93 113
+284. 87 18 71 114
+285. 88 15 32 115
+286. 108 16 10 116
+287. 109 3 40 117
+288. 106 8 63 118
+289. 107 4 50 119
+290. 105 6 61 120
+291. 284 6 38 121
+292. 279 9 96 122
+293. 278 6 38 123
+294. 277 4 53 124
+295. 116 3 09 125
+296. 275 13 65 126
+297. 280 20 23 127
+298. 276 9 72 128
+299. 270 36 18 129
+300. 274 10 39 130
+301. 273 2 35 131
+302. 272 10 35 132
+303. 271 7 0 133
+304. 260 13 63 134
+305. 259 3 96 135
+306. 258 4 46 136
+307. 257 13 93 137
+308. 256 19 63 138
+309. 255 8 94 139
+310. 254 6 10 140
+311. 253 8 29 141
+312. 252 13 04 142
+313. 251 10 0 143
+314. 250 9 29 144
+315. 249 9 91 145
+316. 247 11 46 146
+317. 246 10 23 147
+318. 245 6 19 148
+319. 248 0 65 149
+320. 133 1 37 150
+
+321. 134 3 96 151
+322. 135 0 14 152
+323. 136 12 54 153
+324. 241 0 45 154
+325. 160 1 05 155
+326. 240 0 30 156
+327. 239 0 61 157
+328. 161 6 35 158
+329. 235 3 20 159
+330. 236 0 85 160
+331. 237 0 34 161
+332. 238 0 75 162
+333. 242 1 36 163
+334. 243 0 10 164
+335. 244 6 41 165
+336. 234 8 50 166
+337. 162 3 70 167
+338. 141 6 93 168
+339. 261 17 35 169
+340. 148 1 09 170
+
+136 12.54 153 12.54
+
+PR-1390
+
+GOVERNMENT OF KARNATAKA
+
+RD/93/PFH/2023-RV Karnataka Government Secretariat
+E- 1231525 Multi Storied Building
+Bengaluru-560 001,
+Date:08-07-2024.
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No RD/93/PFH/2023-RV Dated:
+22.02.2024 regarding altering the limits of Eshwarahalli village of Chikkamagalur
+Taluk in Chikkamagaluru District and constituting a new revenue village called
+Medarahalli, Kattethimmanahalli and Vaderahalli was published as required by
+section 6 of the Karnataka Land Revenue Act, 1964 (Karnataka act No.12 of 1964) in
+the Karnataka Gazette Dated: 04.03.2024 inviting objections or suggestions from all
+the persons likely to be affected thereby within thirty days from the date of its
+publication in the Official Gazette addressed to the Deputy Commissioner
+Chikkamagaluru district.
+And whereas, the said gazette was made available to the public on
+Dated: 04.03.2024 And whereas, no objections and suggestions have been received;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE – 1
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+Eshwarahalli village of Chikkamagalur Taluk in Chikkamagaluru District to form a
+new revenue village called as Medarahalli village of Chikkamagalur Taluk in
+Chikkamagaluru District along with the survey numbers included in column (4)
+thereof.
+
+TABLE-1
+
+Sl. Old Survey Numbers Extent of area Survey numbers Specified in
+No. Which are excluded from transferred to new column (2) which are to be
+Eshwarahalli village to village included to form new village
+constituting new village Medarahalli Medarahalli & new survey
+Medarahalli Acre Gunta Anna numbers assigned to them
+1 2 3 4
+1 52 5 30 0 1
+2 53 6 18 0 2
+3 54 8 4 0 3
+4 55 7 35 0 4
+5 56 7 33 0 5
+6 57 9 5 0 6
+7 58 10 34 0 7
+8 59 4 26 0 8
+9 60 2 4 0 9
+10 61 2 11 0 10
+11 62 1 31 0 11
+12 63 1 35 0 12
+13 64 1 37 0 13
+14 76 1 27 0 14
+15 77 9 34 0 15
+16 80 6 23 0 16
+17 79 8 23 0 17
+18 78 9 16 0 18
+19 128 7 7 0 19
+20 330 5 0 0 20
+21 338 10 1 0 21
+22 39 146 28 0 22
+23 337 5 9 0 23
+24 336 5 7 0 24
+25 335 5 3 0 25
+26 334 4 36 0 26
+27 45 0 32 0 27
+28 332 4 7 0 28
+29 331 4 3 0 29
+30 46 1 29 0 30
+31 47 1 2 0 31
+32 48 46 11 0 32
+
+33 41 10 20 0 33
+34 44 12 10 0 34
+35 43 10 6 0 35
+36 40 11 18 0 36
+37 42 3 15 0 37
+38 49 8 38 0 38
+39 50 5 22 0 39
+40 51 5 20 0 40
+41 38 26 37 0 41
+42 356 4 0 0 42
+43 384 10 6 0 43
+44 385 3 25 0 44
+45 386 2 12 0 45
+46 387 2 0 0 46
+Total survey number Extent 466 30
+Gramatana 1 23
+50/1 2 20 0 Gramatana
+52/1 2 05 0 Gramatana
+52/3A 0 15 0 Gramatana
+Gramatana 52/3B 1 4 0
+52/4 1 23 0 Gramatana
+Hi Road 9 31 0
+Ha halla 2 2 0
+Total Extent 488 15 0
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:
+
+Survey numbers Extent
+Acre Gunta Anna
+112 0 20 0
+Majare (Medarahalli) 1 23 0
+50/1 2 20 0
+52/1 2 05 0
+52/3A 0 15 0
+52/3B 1 04 0
+52/4 1 23 0
+Total 9 32 0
+
+There shall be constituted a new village called Medarahalli in
+Chikkamagalurtaluk, Chikkamagalur District and boundaries of the village shall be
+as specified below:-
+
+Boundaries of the new villageMedarahalli
+
+East: Yarehalli Village Border West: Eshwarahalli Village Border
+North: Baktharahalli village Border South: Vaderahalli Village Border
+
+SCHEDULE – 2
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+Eshwarahalli village of Chikkamagalur Taluk in Chikkamagaluru District to form a
+new revenue village called as Kattethimmanahalli village of Chikkamagalur Taluk
+in Chikkamagaluru District along with the survey numbers included in column (4)
+thereof.
+
+TABLE-2
+
+Sl. Old Survey Numbers Extent of area Survey numbers Specified
+No. Which are excluded transferred to new in column (2) which are to
+from Eshwarahalli village be included to form new
+village to constituting Kattethimmanahalli village Kattethimmana
+new village Katte Acre Gunta Anna halli & new survey
+thimmanahalli numbers assigned to them
+1 2 3 4
+1 11 7 27 0 1
+2 8 4 28 0 2
+3 9 5 11 0 3
+4 7 11 20 0 4
+5 5 11 3 0 5
+6 6 5 38 0 6
+7 4 12 13 0 7
+8 3 1 23 0 8
+9 2 11 10 0 9
+10 149 9 27 0 10
+11 36 8 34 0 11
+12 35 10 36 0 12
+13 34 8 27 0 13
+14 33 7 15 0 14
+15 25 8 10 0 15
+16 24 10 15 0 16
+
+17 37 10 31 0 17
+18 26 4 28 0 18
+19 28 6 1 0 19
+20 27 3 27 0 20
+21 23 85 26 0 21
+22 358 8 0 0 22
+23 354 4 0 0 23
+24 22 6 34 0 24
+25 355 4 0 0 25
+26 21 5 32 0 26
+27 20 8 0 0 27
+28 17 3 17 0 28
+29 19 5 23 0 29
+30 18 1 23 0 30
+31 16 4 8 0 31
+32 15 3 25 0 32
+33 14 3 19 0 33
+34 10 6 11 0 34
+35 13 7 14 0 35
+36 32 6 31 0 36
+37 29 7 35 0 37
+38 31 10 17 0 38
+39 30 9 34 0 39
+Total survey number Extent 349 9
+Gramatana 0 16
+11/1A1 0 34 0 Gramatana
+13/1A 2 22 0 Gramatana
+11/11 1 28 0 Gramatana
+12 1 20 0 Gramatana
+Hi Road 6 12 0
+Total Extent 362 21 0
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:-
+
+Survey numbers Extent
+Acre Gunta Anna
+Gramatana 0 16 0
+11/1A1 0 34 0
+13/1A 2 22 0
+
+11/11 1 28 0
+12 1 20 0
+Total 6 24 0
+
+There shall be constituted a new village called Kattethimmahalli in
+Chikkamagalur taluk, Chikkamagalur District and boundaries of the village shall be
+as specified below:-
+
+Boundaries of the new village Kattethimmahalli
+
+East: Medarahalli Village Border West: Chikkakalasapura Village Border
+North: Chikkakalasapura Village South: Eshwarahalli Village Border
+Border & Sindigere Village Border
+
+SCHEDULE – 3
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+Eshwarahalli village of Chikkamagalur Taluk in Chikkamagaluru District to form a
+new revenue village called as Vaderahalli village of Chikkamagalur Taluk in
+Chikkamagaluru District along with the survey numbers included in column (4)
+thereof.
+
+TABLE-3
+
+Sl. Old Survey Numbers Extent of area transferred Survey numbers Specified
+No. Which are excluded to new village in column (2) which are to
+from Eshwarahalli Vaderahalli be included to form new
+village to constituting Acre Gunta Anna village Vaderahalli & new
+new village survey numbers assigned to
+Vaderahalli them
+1 2 3 4
+1 211 14 0 0 1
+2 212 7 36 0 2
+3 235 9 25 0 3
+4 213 13 32 0 4
+5 215 42 38 0 5
+6 222 5 8 0 6
+7 221 5 39 0 7
+8 220 6 10 0 8
+9 215 7 35 0 9
+10 217 5 26 0 10
+11 216 6 3 0 11
+12 218 7 23 0 12
+
+13 219 5 22 0 13
+14 223 6 5 0 14
+15 224 4 37 0 15
+16 359 3 0 0 16
+17 360 3 0 0 17
+18 361 3 0 0 18
+19 362 3 0 0 19
+20 363 3 0 0 20
+21 225 18 14 0 21
+22 229 10 33 0 22
+23 329 5 2 0 23
+24 328 5 6 0 24
+25 327 5 4 0 25
+26 230 6 31 0 26
+27 233 8 34 0 27
+28 234 21 5 0 28
+29 339 4 0 0 29
+30 231 5 12 0 30
+31 252 8 25 0 31
+32 251 7 39 0 32
+33 232 4 26 0 33
+34 240 2 35 0 34
+35 239 2 27 0 35
+36 238 11 24 0 36
+37 236 36 14 0 37
+38 194 12 23 0 38
+39 195 7 8 0 39
+40 196 0 33 0 40
+41 197 10 7 0 41
+42 198 9 3 0 42
+43 199 4 14 0 43
+44 200 8 37 0 44
+45 201 13 5 0 45
+46 203 10 6 0 46
+47 204 5 9 0 47
+48 205 1 28 0 48
+49 206 12 30 0 49
+50 207 9 3 0 50
+51 202 8 26 0 51
+
+52 208 3 19 0 52
+53 209 2 11 0 53
+54 210 3 25 0 54
+55 237 12 21 0 55
+56 368 3 0 0 56
+Total survey number Extent 468 18
+Gramatana 1 21
+Majare 1 8 0 Gramatana
+202/1 2 11 0 Gramatana
+203/3 0 6
+204/2 1 11
+Gramatana 210/2 0 24 0
+211/1 0 18 0 Gramatana
+Total Extent 475 37 0
+
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:-
+
+Survey numbers Extent
+Acre Gunta Anna
+Gramatana 1 21 0
+202/1 2 11 0
+203/3 0 06 0
+204/2 1 11 0
+210 0 24 0
+211/10 0 18 0
+Total 6 11 0
+
+There shall be constituted a new village called Vaderahalli in Chikkamagalur
+taluk, Chikkamagalur District and boundaries of the village shall be as specified
+below:-
+Boundaries of the new village Vaderahalli
+
+East: Belavadi Village Border West: Eshwarahalli Village Border
+North: Medarahalli Village Border South:RajanaShiriyuru Village Border
+
+SCHEDULE-4
+
+The Survey numbers of the village and areas remaining in the Eshwarahalli
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+
+TABLE-4
+
+Sl. Survey numbers in Eshwarahalli Acre New survey numbers
+No village after excluding the survey assigned to the remaining
+numbers which are to be included in Eshwarahalli village
+to form new villages Medarahalli , survey numbers specified
+Acre Gunta Anna
+Kattetimmanahalli & Vaderahalli in column (2)
+1 2 3 4
+1 1 138 19 0 1
+2 151 0 28 0 2
+3 150 4 19 0 3
+4 146 0 38 0 4
+5 147 1 0 0 5
+6 148 1 6 0 6
+7 149 9 27 0 7
+8 129 1 1 0 8
+9 126 0 24 0 9
+10 127 1 13 0 10
+11 125 0 13 0 11
+12 124 7 2 0 12
+13 97 1 30 0 13
+14 96 1 31 0 14
+15 98 1 32 0 15
+16 99 1 33 0 16
+17 100 1 34 0 17
+18 94 1 35 0 18
+19 95 1 36 0 19
+20 84 1 37 0 20
+21 83 1 38 0 21
+22 82 1 39 0 22
+23 81 1 40 0 23
+24 75 1 41 0 24
+25 74 1 42 0 25
+26 71 1 43 0 26
+27 73 1 44 0 27
+28 65 1 45 0 28
+29 67 1 21 0 29
+30 357 1 19 0 30
+31 68 0 34 0 31
+32 69 0 36 0 32
+33 70 1 11 0 33
+34 87 3 4 0 34
+35 88 1 8 0 35
+
+36 89 1 13 0 36
+37 90 2 36 0 37
+38 86 2 22 0 38
+39 87 2 23 0 39
+40 93 2 7 0 40
+41 101 3 4 0 41
+42 91 1 14 0 42
+43 92 1 15 0 43
+44 102 1 25 0 44
+45 103 1 30 0 45
+46 104 2 32 0 46
+47 105 2 6 0 47
+48 106 0 33 0 48
+49 107 1 11 0 49
+50 109 1 8 0 50
+51 108 2 1 0 51
+52 119 4 20 0 52
+53 120 3 17 0 53
+54 121 1 25 0 54
+55 123 0 37 0 55
+56 122 2 37 0 56
+57 138 3 7 0 57
+58 118 2 38 0 58
+59 117 3 10 0 59
+60 116 1 19 0 60
+61 114 0 37 0 61
+62 113 2 17 0 62
+63 111 5 16 0 63
+64 112 1 22 0 64
+65 115 2 28 0 65
+66 138 3 21 0 66
+67 137 3 19 0 67
+68 136 0 39 0 68
+69 135 1 22 0 69
+70 133 1 38 0 70
+71 131 0 31 0 71
+72 132 3 15 0 72
+73 145 4 31 0 73
+74 144 2 8 0 74
+75 143 2 28 0 75
+76 158 2 25 0 76
+77 157 1 4 0 77
+
+78 156 1 7 0 78
+79 155 0 37 0 79
+80 154 0 30 0 80
+81 153 0 14 0 81
+82 152 0 26 0 82
+83 160 0 26 0 83
+84 161 0 14 0 84
+85 159 3 24 0 85
+86 162 2 2 0 86
+87 163 1 22 0 87
+88 164 0 27 0 88
+89 165 0 26 0 89
+90 166 1 8 0 90
+91 167 3 5 0 91
+92 142 1 6 0 92
+93 141 2 5 0 93
+94 140 0 36 0 94
+95 139 3 15 0 95
+96 168 1 5 0 96
+97 170 2 2 0 97
+98 171 0 38 0 98
+99 172 2 39 0 99
+100 173 2 34 0 100
+101 174 3 24 0 101
+102 175 1 28 0 102
+103 178 0 24 0 103
+104 177 2 18 0 104
+105 176 6 13 0 105
+106 179 2 5 0 106
+107 180 3 15 0 107
+108 181 10 19 0 108
+109 183 9 20 0 109
+110 187 5 1 0 110
+111 110 6 0 0 111
+112 188 4 22 0 112
+113 189 2 16 0 113
+114 193 7 32 0 114
+115 192 4 15 0 115
+116 190 2 13 0 116
+117 186 2 33 0 117
+118 185 2 31 0 118
+119 184 10 38 0 119
+
+120 242 1 24 0 120
+121 243 3 19 0 121
+122 244 4 38 0 122
+123 241 11 32 0 123
+124 191 1 27 0 124
+125 245 2 0 0 125
+126 246 4 32 0 126
+127 247 2 16 0 127
+128 248 8 18 0 128
+129 250 7 5 0 129
+130 249 8 18 0 130
+131 254 8 16 0 131
+132 253 6 31 0 132
+133 228 10 6 0 133
+134 343 5 0 0 134
+135 344 5 6 0 135
+136 346 5 0 0 136
+137 226 25 35 0 137
+138 340 4 0 0 138
+139 364 3 0 0 139
+140 341 4 0 0 140
+141 256 36 8 0 141
+142 255 7 21 0 142
+143 266 5 23 0 143
+144 261 6 3 0 144
+145 262 1 8 0 145
+146 264 5 12 0 146
+147 265 7 24 0 147
+148 267 5 2 0 148
+149 268 6 20 0 149
+150 269 12 32 0 150
+151 271 3 33 0 151
+152 270 0 16 0 152
+153 272 4 14 0 153
+154 326 0 0 12 154
+155 322 10 5 0 155
+156 323 3 23 0 156
+157 324 2 26 0 157
+158 325 7 39 0 158
+159 276 11 1 0 159
+160 278 9 9 0 160
+161 259 6 23 0 161
+
+162 263 0 38 0 162
+163 260 7 12 0 163
+164 333 5 22 0 164
+165 365 1 0 0 165
+166 342 4 0 0 166
+167 257 4 38 0 167
+168 258 5 26 0 168
+169 280 8 12 0 169
+170 279 6 37 0 170
+171 345 4 0 0 171
+172 281 0 0 0 172
+173 276 16 3 0 173
+174 277 6 29 0 174
+175 274 6 3 0 175
+176 275 5 36 0 176
+177 283 15 33 0 177
+178 282 7 11 0 178
+179 284 3 15 0 179
+180 285 3 34 0 180
+181 286 7 7 0 181
+182 287 5 5 0 182
+183 289 6 6 0 183
+184 290 0 19 0 184
+185 291 1 17 0 185
+186 293 2 11 0 186
+187 294 0 30 0 187
+188 292 2 31 0 188
+189 295 0 25 0 189
+190 296 1 11 0 190
+191 299 0 18 0 191
+192 298 0 13 0 192
+193 300 1 27 0 193
+194 301 2 21 0 194
+195 302 0 32 0 195
+196 305 0 17 0 196
+197 227 6 26 0 197
+198 306 0 17 0 198
+199 307 1 4 0 199
+200 308 1 5 0 200
+201 309 0 21 0 201
+202 310 1 33 0 202
+203 311 0 26 0 203
+
+204 312 2 7 0 204
+205 315 1 28 0 205
+206 314 0 27 0 206
+207 313 0 31 0 207
+208 304 0 33 0 208
+209 303 1 15 0 209
+210 318 1 38 0 210
+211 317 1 8 0 211
+212 316 1 12 0 212
+213 288 7 21 0 213
+214 320 8 2 0 214
+215 321 9 19 0 215
+216 72 0 5 5 216
+217 366 2 0 0 217
+218 367 2 0 0 218
+219 369 3 10 0 219
+220 370 0 0 8 220
+221 371 0 0 8 221
+222 372 0 0 8 222
+223 373 0 0 12 223
+224 374 0 0 12 224
+225 375 0 0 12 225
+226 377 0 0 12 226
+227 378 0 0 8 227
+228 379 0 0 8 228
+229 380 2 25 0 229
+230 381 3 10 0 230
+231 382 1 25 0 231
+232 319 2 38 0 232
+233 326 5 19 0 233
+Total survey number Extent 1151 09
+Gramatana 4 19
+182 1 39 0 Gramatana
+Ha Hi Road 8 34 0
+Hi Road 1 27 0
+Ha Halla 14 25 0
+Ri Halla 0 37 0
+Total Extent 1170 18 0
+
+Boundaries of Eshwarahalli Village
+
+East:Kattetimmanahalli village Border West: Kallashettihalli Village Border
+North: Vaderahalli village Border South: Kalasapura Village Border
+Kallenahalli village Border
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villagesand
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+RD/93/PFH/2023-RV
+
+4 1 2 3
+1 52 5 30 0 1
+2 53 6 18 0 2
+3 54 8 4 0 3
+4 55 7 35 0 4
+5 56 7 33 0 5
+6 57 9 5 0 6
+7 58 10 34 0 7
+8 59 4 26 0 8
+9 60 2 4 0 9
+10 61 2 11 0 10
+11 62 1 31 0 11
+12 63 1 35 0 12
+13 64 1 37 0 13
+14 76 1 27 0 14
+15 77 9 34 0 15
+16 80 6 23 0 16
+17 79 8 23 0 17
+18 78 9 16 0 18
+19 128 7 7 0 19
+20 330 5 0 0 20
+21 338 10 1 0 21
+22 39 146 28 0 22
+23 337 5 9 0 23
+24 336 5 7 0 24
+25 335 5 3 0 25
+26 334 4 36 0 26
+27 45 0 32 0 27
+
+28 332 4 7 0 28
+29 331 4 3 0 29
+30 46 1 29 0 30
+31 47 1 2 0 31
+32 48 46 11 0 32
+33 41 10 20 0 33
+34 44 12 10 0 34
+35 43 10 6 0 35
+36 40 11 18 0 36
+37 42 3 15 0 37
+38 49 8 38 0 38
+39 50 5 22 0 39
+40 51 5 20 0 40
+41 38 26 37 0 41
+42 356 4 0 0 42
+43 384 10 6 0 43
+44 385 3 25 0 44
+45 386 2 12 0 45
+46 387 2 0 0 46
+466 30
+
+50/1 2 20 0
+52/1 2 05 0
+0 15 0 52/3J
+1 04 0 52/3©
+
+52/4 1 23 0
+
+1 2 3 4
+1 11 7 27 0 1
+2 8 4 28 0 2
+3 9 5 11 0 3
+4 7 11 20 0 4
+5 5 11 3 0 5
+6 6 5 38 0 6
+7 4 12 13 0 7
+8 3 1 23 0 8
+9 2 11 10 0 9
+10 149 9 27 0 10
+11 36 8 34 0 11
+12 35 10 36 0 12
+13 34 8 27 0 13
+14 33 7 15 0 14
+15 25 8 10 0 15
+16 24 10 15 0 16
+17 37 10 31 0 17
+18 26 4 28 0 18
+
+19 28 6 1 0 19
+20 27 3 27 0 20
+21 23 85 26 0 21
+22 358 8 0 0 22
+23 354 4 0 0 23
+24 22 6 34 0 24
+25 355 4 0 0 25
+26 21 5 32 0 26
+27 20 8 0 0 27
+28 17 3 17 0 28
+29 19 5 23 0 29
+30 18 1 23 0 30
+31 16 4 8 0 31
+32 15 3 25 0 32
+33 14 3 19 0 33
+34 10 6 11 0 34
+35 13 7 14 0 35
+36 32 6 31 0 36
+37 29 7 35 0 37
+38 31 10 17 0 38
+39 30 9 34 0 39
+349 9
+11/1J1 0 34 0
+13/1J 2 22 0
+11/11 1 28 0
+1 20 0 12
+
+1 2 3 4
+1 211 14 0 0 1
+2 212 7 36 0 2
+3 235 9 25 0 3
+4 213 13 32 0 4
+5 215 42 38 0 5
+6 222 5 8 0 6
+7 221 5 39 0 7
+8 220 6 10 0 8
+9 215 7 35 0 9
+10 217 5 26 0 10
+11 216 6 3 0 11
+12 218 7 23 0 12
+13 219 5 22 0 13
+14 223 6 5 0 14
+15 224 4 37 0 15
+16 359 3 0 0 16
+17 360 3 0 0 17
+
+18 361 3 0 0 18
+19 362 3 0 0 19
+20 363 3 0 0 20
+21 225 18 14 0 21
+22 229 10 33 0 22
+23 329 5 2 0 23
+24 328 5 6 0 24
+25 327 5 4 0 25
+26 230 6 31 0 26
+27 233 8 34 0 27
+28 234 21 5 0 28
+29 339 4 0 0 29
+30 231 5 12 0 30
+31 252 8 25 0 31
+32 251 7 39 0 32
+33 232 4 26 0 33
+34 240 2 35 0 34
+35 239 2 27 0 35
+36 238 11 24 0 36
+37 236 36 14 0 37
+38 194 12 23 0 38
+39 195 7 8 0 39
+40 196 0 33 0 40
+41 197 10 7 0 41
+42 198 9 3 0 42
+43 199 4 14 0 43
+44 200 8 37 0 44
+45 201 13 5 0 45
+46 203 10 6 0 46
+47 204 5 9 0 47
+48 205 1 28 0 48
+49 206 12 30 0 49
+50 207 9 3 0 50
+51 202 8 26 0 51
+52 208 3 19 0 52
+53 209 2 11 0 53
+54 210 3 25 0 54
+55 237 12 21 0 55
+56 368 3 0 0 56
+468 18
+
+203/3 0 6
+204/2 1 11
+
+202/1 2 11 0
+203/3 0 06 0
+204/2 1 11 0
+210 0 24 0
+211/10 0 18 0
+
+1 2 3 4
+1 1 138 19 0 1
+
+2 151 0 28 0 2
+3 150 4 19 0 3
+4 146 0 38 0 4
+5 147 1 0 0 5
+6 148 1 6 0 6
+7 149 9 27 0 7
+8 129 1 1 0 8
+9 126 0 24 0 9
+10 127 1 13 0 10
+11 125 0 13 0 11
+12 124 7 2 0 12
+13 97 1 30 0 13
+14 96 1 31 0 14
+15 98 1 32 0 15
+16 99 1 33 0 16
+17 100 1 34 0 17
+18 94 1 35 0 18
+19 95 1 36 0 19
+20 84 1 37 0 20
+21 83 1 38 0 21
+22 82 1 39 0 22
+23 81 1 40 0 23
+24 75 1 41 0 24
+25 74 1 42 0 25
+26 71 1 43 0 26
+27 73 1 44 0 27
+28 65 1 45 0 28
+29 67 1 21 0 29
+30 357 1 19 0 30
+31 68 0 34 0 31
+32 69 0 36 0 32
+33 70 1 11 0 33
+34 87 3 4 0 34
+35 88 1 8 0 35
+36 89 1 13 0 36
+37 90 2 36 0 37
+38 86 2 22 0 38
+39 87 2 23 0 39
+40 93 2 7 0 40
+41 101 3 4 0 41
+42 91 1 14 0 42
+43 92 1 15 0 43
+44 102 1 25 0 44
+45 103 1 30 0 45
+46 104 2 32 0 46
+
+47 105 2 6 0 47
+48 106 0 33 0 48
+49 107 1 11 0 49
+50 109 1 8 0 50
+51 108 2 1 0 51
+52 119 4 20 0 52
+53 120 3 17 0 53
+54 121 1 25 0 54
+55 123 0 37 0 55
+56 122 2 37 0 56
+57 138 3 7 0 57
+58 118 2 38 0 58
+59 117 3 10 0 59
+60 116 1 19 0 60
+61 114 0 37 0 61
+62 113 2 17 0 62
+63 111 5 16 0 63
+64 112 1 22 0 64
+65 115 2 28 0 65
+66 138 3 21 0 66
+67 137 3 19 0 67
+68 136 0 39 0 68
+69 135 1 22 0 69
+70 133 1 38 0 70
+71 131 0 31 0 71
+72 132 3 15 0 72
+73 145 4 31 0 73
+74 144 2 8 0 74
+75 143 2 28 0 75
+76 158 2 25 0 76
+77 157 1 4 0 77
+78 156 1 7 0 78
+79 155 0 37 0 79
+80 154 0 30 0 80
+81 153 0 14 0 81
+82 152 0 26 0 82
+83 160 0 26 0 83
+84 161 0 14 0 84
+85 159 3 24 0 85
+86 162 2 2 0 86
+87 163 1 22 0 87
+88 164 0 27 0 88
+89 165 0 26 0 89
+90 166 1 8 0 90
+91 167 3 5 0 91
+
+92 142 1 6 0 92
+93 141 2 5 0 93
+94 140 0 36 0 94
+95 139 3 15 0 95
+96 168 1 5 0 96
+97 170 2 2 0 97
+98 171 0 38 0 98
+99 172 2 39 0 99
+100 173 2 34 0 100
+101 174 3 24 0 101
+102 175 1 28 0 102
+103 178 0 24 0 103
+104 177 2 18 0 104
+105 176 6 13 0 105
+106 179 2 5 0 106
+107 180 3 15 0 107
+108 181 10 19 0 108
+109 183 9 20 0 109
+110 187 5 1 0 110
+111 110 6 0 0 111
+112 188 4 22 0 112
+113 189 2 16 0 113
+114 193 7 32 0 114
+115 192 4 15 0 115
+116 190 2 13 0 116
+117 186 2 33 0 117
+118 185 2 31 0 118
+119 184 10 38 0 119
+120 242 1 24 0 120
+121 243 3 19 0 121
+122 244 4 38 0 122
+123 241 11 32 0 123
+124 191 1 27 0 124
+125 245 2 0 0 125
+126 246 4 32 0 126
+127 247 2 16 0 127
+128 248 8 18 0 128
+129 250 7 5 0 129
+130 249 8 18 0 130
+131 254 8 16 0 131
+132 253 6 31 0 132
+133 228 10 6 0 133
+134 343 5 0 0 134
+135 344 5 6 0 135
+136 346 5 0 0 136
+
+137 226 25 35 0 137
+138 340 4 0 0 138
+139 364 3 0 0 139
+140 341 4 0 0 140
+141 256 36 8 0 141
+142 255 7 21 0 142
+143 266 5 23 0 143
+144 261 6 3 0 144
+145 262 1 8 0 145
+146 264 5 12 0 146
+147 265 7 24 0 147
+148 267 5 2 0 148
+149 268 6 20 0 149
+150 269 12 32 0 150
+151 271 3 33 0 151
+152 270 0 16 0 152
+153 272 4 14 0 153
+154 326 0 0 12 154
+155 322 10 5 0 155
+156 323 3 23 0 156
+157 324 2 26 0 157
+158 325 7 39 0 158
+159 276 11 1 0 159
+160 278 9 9 0 160
+161 259 6 23 0 161
+162 263 0 38 0 162
+163 260 7 12 0 163
+164 333 5 22 0 164
+165 365 1 0 0 165
+166 342 4 0 0 166
+167 257 4 38 0 167
+168 258 5 26 0 168
+169 280 8 12 0 169
+170 279 6 37 0 170
+171 345 4 0 0 171
+172 281 0 0 0 172
+173 276 16 3 0 173
+174 277 6 29 0 174
+175 274 6 3 0 175
+176 275 5 36 0 176
+177 283 15 33 0 177
+178 282 7 11 0 178
+179 284 3 15 0 179
+180 285 3 34 0 180
+181 286 7 7 0 181
+
+182 287 5 5 0 182
+183 289 6 6 0 183
+184 290 0 19 0 184
+185 291 1 17 0 185
+186 293 2 11 0 186
+187 294 0 30 0 187
+188 292 2 31 0 188
+189 295 0 25 0 189
+190 296 1 11 0 190
+191 299 0 18 0 191
+192 298 0 13 0 192
+193 300 1 27 0 193
+194 301 2 21 0 194
+195 302 0 32 0 195
+196 305 0 17 0 196
+197 227 6 26 0 197
+198 306 0 17 0 198
+199 307 1 4 0 199
+200 308 1 5 0 200
+201 309 0 21 0 201
+202 310 1 33 0 202
+203 311 0 26 0 203
+204 312 2 7 0 204
+205 315 1 28 0 205
+206 314 0 27 0 206
+207 313 0 31 0 207
+208 304 0 33 0 208
+209 303 1 15 0 209
+210 318 1 38 0 210
+211 317 1 8 0 211
+212 316 1 12 0 212
+213 288 7 21 0 213
+214 320 8 2 0 214
+215 321 9 19 0 215
+216 72 0 5 5 216
+217 366 2 0 0 217
+218 367 2 0 0 218
+219 369 3 10 0 219
+220 370 0 0 8 220
+221 371 0 0 8 221
+222 372 0 0 8 222
+223 373 0 0 12 223
+224 374 0 0 12 224
+225 375 0 0 12 225
+226 377 0 0 12 226
+
+227 378 0 0 8 227
+228 379 0 0 8 228
+229 380 2 25 0 229
+230 381 3 10 0 230
+231 382 1 25 0 231
+232 319 2 38 0 232
+233 326 5 19 0 233
+
+PR-1391
+
+GOVERNMENT OF KARNATAKA
+No: FD 16 MUBHANI 2022 Karnataka Government Secretariat,
+Vidhana Soudha,
+Bangalore, Dated: 23.09.2024
+
+NOTIFICATION
+
+The draft of the following rules further to amend The Karnataka General Provident Fund Rules, 2016, which the
+Government of Karnataka proposes to make in exercise of the powers conferred by sub-section (1) of section 3 read with
+section 8 of the Karnataka State Civil Services Act, 1978 (Karnataka Act 14 of 1990) and section 8 of the Provident Funds
+Act, 1925 (Central Act 19 of 1925) is hereby published as required by clause (a) of sub-section (2) of section 3 of the
+Karnataka State Civil Services Act, 1978, for the information of all the persons likely to be affected thereby and notice is
+hereby given that the said draft will be taken into consideration after fifteen days from the date of its publication in the
+Official Gazette.
+Any objection or suggestion which may be received by the State Government from any person with respect to the
+said draft before the expiry of the period specified above will be considered by the State Government. Objections and
+suggestions may be addressed to the Additional Chief Secretary to Government, Finance Department, Second Floor,
+Vidhana Soudha, Bengaluru-560 001.
+
+DRAFT RULES
+1. Title and Commencement: - (1) These rules may be called the Karnataka General Provident Funds (Amendment)
+Rules, 2024.
+(2) They shall come into force from the date of their final publication in the Official Gazette.
+2. Amendment of rule 12:- In the Karnataka General Provident Fund Rules, 2016, in
+sub-rule (2) of Rule 12 for the words “maximum of basic pay of the post held by him",
+the words “maximum of 5 Lakh rupees in one financial year” shall be substituted.
+
+By order and in the name of the
+Governor of Karnataka
+(Netraprabha M. Dhayapule)
+Under Secretary to Government,
+Finance Department (Admin and advances).
+PR-1392
+
+PR-1393
+
+PR-1394
+
+PR-1395
+
+GOVERNMENT OF KARNATAKA
+
+No.LD 110 KBN 2023 Karnataka Government Secretariat,
+Vikasa Soudha,
+Bengaluru, Dated:09-10-2024.
+
+NOTIFICATION
+
+The draft of the following rules further to amend the Karnataka Boilers
+Rules, 1982 which the Government of Karnataka proposes to make in exercise of
+the powers conferred by section 29 of the Boilers Act, 1923 (Central Act 5 of 1923)
+is hereby published as required by sub-section (1) of section 31 of the said Act, for
+the information of all persons likely to be affected thereby and notice is hereby
+given that said draft will be taken into consideration after the expiry of forty-five
+days from the date of its publication in the official Gazette.
+Any objection or suggestion which may be received by the State Government
+from any person with respect to the said draft before the expiry of the period
+specified above will be considered by the State Government. Objections or
+suggestions may be addressed to the Principal Secretary to Government, Labour
+Department, Room No. 414, 4th Floor, VikasaSoudha, Bengaluru-560 001.
+DRAFT RULES
+
+1. Title and commencement: (1) These rules may be called the Karnataka
+Boiler (Amendment) Rules 2024.
+
+(2) They shall come into force from the date of their final publication in
+the Official Gazette.
+2. Amendment of rule 18.-In the Karnataka Boiler Rules, 1982
+(hereinafter referred to as the said rules) in rule 18, sub-rule (9) and the entries
+relating thereto shall be omitted.
+3. Insertion of new Chapter VII- A.- In the said rules, after rule 67, the
+following shall be inserted, namely:-
+“Chapter VII- A
+Boiler Penalty, Adjudication and Appeal
+67A. Adjudication proceedings under section 26A.- (1) On receipt of a
+report from the Inspector, the Chief Inspector shall examine the case according to
+the provisions of the Act, rules and regulations made there under which the
+owner has been charged as to whether the contraventions are punishable with
+
+penalty under sections 22, 23, sub- section (1) of section 25 or section 30 the Act
+or no contravention is established.
+(2) If the Chief Inspector decides that such contravention is punishable
+with penalty under sections 22, 23, sub-section (1) of section 25 or section 30 of
+the Act, he shall cause and authorize the Inspector to file with the Adjudicating
+Officer, an application for adjudication of the offence alleged to have been
+committed by the person in respect of which the report has been received.
+(3) On receipt of the communication from the Chief Inspector authorizing
+the filing of the adjudication application, the Inspector shall file the application in
+Form-O for adjudication with the Adjudicating Officer for adjudication of the
+contravention alleged to have been committed.
+(4) On receipt of the application for adjudication from the Inspector, the
+Adjudicating Officer shall commence the inquiry proceedings under section 26A of
+the Act.
+(5) For holding an inquiry for the purpose of adjudication under section
+26A of the Act as to whether any owner has committed contravention of any of the
+provisions of sections 22, 23, sub-section (1) of section 25 or section 30 of the Act
+in respect of which the contravention is alleged to have been committed, the
+Adjudicating Officer shall, in the first instance, issue a notice to such owner
+giving him an opportunity for hearing in the matter within a period of one month.
+(6) The notice to such owner shall indicate the nature of offence alleged to
+have been committed by him, the provisions of the Act alleged to have been
+contravened and the date of hearing of the matter. A copy of the report of the
+Inspector shall also be annexed to such notice. A copy of such notice shall also be
+sent to the Inspector.
+(7) On the date fixed for hearing, the Adjudicating Officer shall explain to
+the owner or to his authorized representative, the offence alleged to have been
+committed by such person, indicating the provisions of the Act in respect of which
+the contravention is alleged to have taken place.
+(8) The Adjudicating Officer shall then give an opportunity to such owner to
+produce such documents or evidence as he may consider relevant to the inquiry
+and if necessary, the hearing may be adjourned to a future date:
+
+Provided that the Adjudicating Officer shall pass the final order within one
+hundred and eighty days from the date of first hearing as mentioned in sub-rule
+(7). The Chief Inspector may appoint any Department officer / prosecutor /
+Advocate as required to represent the Department in the inquiry.
+(9) While holding an inquiry under this rule, the Adjudicating Officer shall
+have the power to summon and enforce the attendance of any person acquainted
+with the facts and circumstances of the case to give evidence or to produce any
+document which, in the opinion of the Adjudicating Officer may be useful for or
+relevant to the subject matter of the inquiry.
+(10) If any person fails, neglects or refuses to appear as required by sub-
+rule (5) and (6) before the Adjudicating Officer, the Adjudicating Officer may
+proceed with the inquiryin the absence of such person, after recording the
+reasons for doing so.
+(11) If upon consideration of the evidence produced before the Adjudicating
+Officer, the Adjudicating Officer is satisfied that the owner against whom the
+Inquiry has been conducted, is liable to penalty under any of the provisions of
+sections 22,23, sub-section (1) of section 25 or section 30 of the Act, he may, by
+order in writing, impose such penalty as he thinks fit, in accordance with the
+provisions of the relevant section of the Act.
+(12) If, however, the Adjudicating Officer is satisfied that the owner against
+whom the inquiry has been conducted for the contravention of the provisions of
+the Act, has or have not been proved beyond doubt, the Adjudicating Officer shall
+dismiss the case.
+(13) Every order made under sub-rule (11) shall specify the provisions of the
+Act in respect of which the contravention has taken place and shall contain brief
+reasons for such decision. While imposing penalty, the Adjudicating Officer shall
+have due regard to the provisions of section 26A of the Act. Such penalty shall be
+remitted to the State Treasury / District Treasury under the jurisdiction of the
+Adjudicating Officer.
+(14) Every such order shall be dated and signed by the Adjudicating Officer.
+(15) The Adjudicating Officer shall send a copy of the order made under sub-
+rules (11) or (12) to the owner against whom the inquiry was conducted and the
+inspector who has filed the application for adjudication.
+
+(16)A notice or an order issued under these rules shall be served on the
+owner against whom the adjudication proceedings were held or inquiry has been
+conducted, in any of the following manner:
+(i) by delivering or tendering it to that owner or his duly authorized
+representative; or
+(ii) by sending it to the owner by registered post or speed post to the
+address of his place of residence or his last known place of residence or the
+place where he carried on or last carried on, business or personally works
+or last worked for gain; or
+(iii) if it cannot be served in the manner specified under clause (i) or (ii), by
+affixing it on the outer door or some other conspicuous part of the
+premises in which that person resides or is known to have last resided or
+carried on business or personally works or has worked for gain and written
+report thereof shall be witnessed by two persons.
+(17) The District Magistrate / Deputy Commissioner or the Additional District
+Magistrate / Additional Deputy Commissioner (authorised by the Deputy
+Commissioner) having jurisdiction over the district shall be the Adjudicating
+Officer for the purpose of these rules deemed to have been appointed under
+section 26A of the Act.
+
+67B. Procedure for appeal under section 26B.-(1) An appeal under
+section 26B arising out of a decision of the Adjudicating Officer appointed under
+section 26A shall be filed with the appellate authority within a period of sixty days
+from the date on which the copy of the order against which the appeal is filed, is
+received by the appellant.
+(2) An appeal may be admitted after the expiry of the period of sixty days if the
+appellant satisfies the appellate authority that he had sufficient cause for not
+preferring the appeal within that period.
+(3) The appeal shall be accompanied by a copy of order of Adjudicating Officer
+issued under sub-rule (11) of rule 67A and a clear statement of facts appealed
+against, the grounds for appeal and the relevant provisions of the Act.
+(4) The appeal shall be presented in triplicate in the format Form-P by the
+appellant in person or by his duly authorized agent in writing or by an advocate
+
+duly appointed in this behalf or by registered post or speed post and shall be
+accompanied with treasury paid challan fee of Rupees Five Thousand.
+(5) The appeal sent by post shall be deemed to have been presented to the
+Appellate Authority on the day it is received.
+(6) If on scrutiny, the appeal is found to be in order, it shall be duly registered
+and given an appeal registration number.
+(7) If on scrutiny, the appeal is found to be defective, the same shall, after
+notice to the party, be returned for compliance and if within twenty one days of
+receipt of such notice or within such extended time as may be granted, the defect
+is not rectified, the appellate authority, may, for reasons to be recorded in writing,
+decline to register the appeal.
+(8) A copy of the appeal shall be served by the appellate authority on the
+respondent as soon as it is registered, by hand delivery or by registered post or
+speed post.
+(9) On admission of the appeal, the appellate authority may call for the
+records relating to the proceedings from the respective Adjudicating Officer.
+(10) The respondent may, within thirty days of service of notice of appeal, file
+reply onthe appeal to the appellate authority.
+(11) The appellate authority may, after giving the parties to the appeal an
+opportunity of being heard, pass such orders as he may think fit, confirming or
+setting aside the order appealed against.
+(12) The order of the appellate authority shall be signed and dated. The
+appellate authority shall have powers to pass interim orders or injunction, subject
+to reasons to be recorded in writing, which he considers necessary in the interest
+of justice.
+(13) A certified copy of every order passed by the appellate authority shall be
+communicated to the Adjudicating Officer and to the parties, as the case may be.
+(14) The Secretary of the Labour Department, Government of Karnataka shall
+be the appellate authority for the purpose of these rules deemed to have been
+appointed under section 26B.”
+
+4. Insertion of new Forms O and P .- In the said rules, after Form-N and
+the entries relating thereto, the following shall be inserted namely:-
+
+“GOVERNMENT OF KARNATAKA
+BOILER INSPECTION DEPARTMENT
+FORM – O
+(See rule 67A (3))
+BOILER INSPECTION DEPARTMENT
+FORM – P
+(See rule 67B)
+BEFORE THE APPELLATE AUTHORITY
+SECRETARY TO GOVERNMENT, LABOUR DEPARTMENT, KARNATAKA STATE
+(Appointed Under rule 67B(14))
+---------------------------------------------------------------------------------------------------------------
+Appeal under section 26B of the Boilers Act, 1923
+
+Against the order of the adjudicating officer, The Deputy Commissioner /
+Additional Deputy Commissioner, ……………………………..District, Karnataka
+State
+Order No……Dt:……
+
+Fee Paid details :Rs Five Thousand through Treasury Challan No:…… Dt:…….
+Appellant Details : Registered Name of the Establishment:
+Name of the Authorised person:
+Full Address of the Establishment:
+Residential Address of the Authorised Person:
+Email ID:
+Mobile No:
+
+COMPLAINANT DETAILS:
+Name of the Officer (Inspector):
+Designation of the Office:
+Address:
+
+APPEAL ON PROSECUTION UNDER THE BOILERS ACT, 1923 AND THE RULES
+MADE THERE UNDER
+
+1. FACTS OF THE CASE:
+2. RELIEF SOUGHT:
+3. INTERIM RELIEF PRAYED FOR:
+4. DETAILS OF MATTER PENDING BEFOR E ANY COURT, IF ANY:
+5. INDEX OF DOCUMENTS SUBMITTED FOR APPEAL
+
+PLACE: NAME OF THE APPELLANT
+DATE: DESIGNATION”
+C2/Labour/Karnataka Boilers (A) Rules,2024/Radha.R/14.08.2024
+
+By Order and in the Name of the
+Governor of Karnataka,
+Venkatarama J.T.
+Under Secretary to Government,
+Labour Department,
+(Factories and Boilers)
+PR-1396
+
+PR-1397
+
+GOVERNMENT OF KARNATAKA
+
+No.RD 16 LRD 2023 Karnataka Government Secretariat,
+M.S Building,
+Bengaluru, Dated: 09-10-2024.
+
+NOTIFICATION-1
+
+Whereas the draft of the notification No. RD/16/LRD/2023,
+dated:07-02-2024 regarding altering the limits of Almel taluk of
+Vijayapura District by exluding the villages of Bhantur, Kerur,
+Hanchinal, Guttargi and to include in the Sindgi taluk of Vijayapura
+district was published as required by section 6 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act 12 of 1964) in the Karnataka
+Extra-ordinary Gazette, (Part IV-A) dated: 07-02-2024 inviting
+objections and suggestions from all the persons likely to be affected
+thereby within thirty days from the date of its publication in the
+Official Gazette.
+And whereas, the said Gazette was made available to the public
+on 22-02-2024.
+And whereas, no objections and suggestions have been received
+in this behalf by the State Government.
+Now, therefore, in exercise of the powers conferred by sub-section
+4 of the Karnataka Land Revenue Act, 1964 (Karnataka Act 12 of
+1964) the Government of Karnataka hereby makes the following
+notification, namely:-
+SCHEDULE
+
+The villages Specified in column (3) of the table below shall be
+excluded from the limits of the taluk specified in column (2) and shall
+be included within the limits of the taluk specified in column (4)
+thereof.
+
+TABLE
+
+SI. Name of Taluk from Name of Taluk in
+No. which villages Name of Villages which villages
+specified in column specified in column
+(3) are excluded (3) are included
+(1) (2) (3) (4)
+1 Almel taluk 1. Bhantur, Sindgi taluk
+2. Kerur,
+3. Hanchinal,
+4. Guttargi,
+The above shall come into effect from the date of publication of
+this notification in the official Gazette.
+
+By order and in the name of the
+Governor of Karnataka,
+(S. GURUMURTHY)
+Under Secretary to Government,
+Revenue Department (SSLR),
+PR-1398
+
+GOVERNMENT OF KARNATAKA
+
+No.RD 16 LRD 2023 Karnataka Government Secretariat,
+M.S Building,
+Bengaluru, Dated: 09-10-2024.
+
+NOTIFICATION-2
+
+In exercise of the powers conferred by sub-section (4) of section 4
+of the Karnataka Land Revenue Act, 1964 (Karnataka act no 12 of
+1964) and in partial modification of earlier notifications issued in this
+regard and after taking into consideration the population, area, land
+revenue and demands from the public having regard to the
+administrative convenience, the Government of Karnataka hereby
+proposes to alter the limits of Almel taluk in Vijayapura district by
+excluding the villages of Gabasavalagi, Bisanala, Aheri and to include
+in the Sindgi Taluk in Vijayapura District as specified in the Schedule
+for the purpose of the said Act.
+Now, therefore, in exercise of the powers conferred by section 6 of
+the said Act, notice is hereby given for the information of all the
+persons likely to be affected thereby that the proposal will be taken
+
+into consideration after the expiry of thirty days from the date of its
+publication in the official Gazette.
+Any objection or suggestion which may be received by the State
+Government from any person with respect to the said draft before the
+expiry of period specified above, will be considered by the State
+Government. Objections or suggestions may be addressed to
+the Principal Secretary to Government, Revenue Department, Room
+No.506, 5th Floor, M. S. Building, Dr: B.R. Ambedkar Veedhi,
+Bengaluru -560001.
+SCHEDULE
+
+The villages Specified in column (3) of the table below shall be
+excluded from the limits of the Taluk specified in column (2) and shall
+be included within the limits of the taluk specified in column (4)
+thereof.-
+TABLE
+
+SI. Name of Taluk from Name of Taluk in
+Name of Villages No. which villages which villages
+specified in column specified in column
+(3) are excluded (3) are included
+(1) (2) (3) (4)
+1 Almel taluk 1. Gabasavalgi, Sindgi taluk
+2. Bisnal,
+3. Aheri,
+The proposal specified above shall come into effect from the date
+of final notification to be published in the Official Gazette by the State
+Government under sub-section(4) of section-4 of the Karnataka land
+revenue Act 1964 (Karnataka Act 12 of 1964).
+
+By order and in the name of the
+Governor of Karnataka,
+(S. GURUMURTHY)
+Under Secretary to Government,
+Revenue Department (SSLR),
+PR-1399
+
+(Tender inviting Authority
+(Tender Accepting Authority)
+
+๸
+
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19
+Licensed to post without prepayment WPP No. 297
+
+๸
+PR-1400
