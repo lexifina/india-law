@@ -14,8 +14,8 @@ AND WHEREAS, the Government of Maharashtra was satisfied that for this important
 
 AND WHEREAS, both Houses of the State Legislature were not in session ;
 
-AND WHEREAS, the Governor of Maharashtra was satisfied that circumstances existed which rendered it necessary for him to take immediate action to make a law for the purposes aforesaid and for that purpose promulgated Shree Siddhi Vinayak Ganpati Temple Trust (Prabhadevi) Ordinance, 1980 (Mah. Ord.X of 1980) on the 11th October 1980 ;
+AND WHEREAS, the Governor of Maharashtra was satisfied that circumstances existed which rendered it necessary for him to take immediate action to make a law for the purposes aforesaid and for that purpose promulgated Shree Siddhi Vinayak Ganpati Temple Trust (Prabhadevi) Ordinance, 1980 (Mah. Ord. X of 1980) on the 11th October 1980 ;
 
 AND WHEREAS, it is expedient to replace the said Ordinance by an Act of the State Legislature;
 
-It is hereby enacted in the Thirty-first Year of the Republic of India as follows:—
+It is hereby enacted in the Thirty-first Year of the Republic of India as follows :—
