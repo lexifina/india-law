@@ -5,3 +5,4 @@ Maharashtra Act 6 of 1981, as published by the Law and Judiciary Department, Gov
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | as enacted | 2008-05-09 (official reprint (List of Amendment Acts: last Amended by Mah. 21 of 2008, commencement 2008-05-09; the reprint: 'the date mentioned in the bracket indicates the date of commencement')) | Maharashtra Act 21 of 2008 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah_Act_No_6_OF_1981.pdf |
+| text as on 2026-01-07 | 2024-10-15 (official reprint (text as on 2026-01-07; List of Amendment Acts: last Amended by Mah. 3 of 2025, commencement 2024-10-15; the reprint: 'the date mentioned in the bracket indicates the date of commence) | Maharashtra Act 3 of 2025 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah_Act_No_6_of_1981-02-03-26.pdf |
