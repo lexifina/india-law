@@ -1,0 +1,5719 @@
+---
+kind: "gazette-notification"
+gazette: "Karnataka Gazette"
+gazette_type: "Daily"
+issuer: "Government of Karnataka"
+department: "Gazette contains multiple Departments/Organizations"
+subject: "Gazette contains multiple Subjects"
+published: "2024-11-15"
+in_force: "2024-11-15"
+in_force_evidence: "published in the Gazette 2024-11-15; no other commencement day stated"
+official_text: "https://erajyapatra.karnataka.gov.in/%28S%28uuval1wpmioawrfyjodqleu5%29%29/Search1.aspx"
+mirror: "https://archive.org/details/in.gazette.karnataka_d.2024-11-15.7889"
+language: "English text only"
+---
+
+Homes -O8E BONAOT, Heed, OB, Sows’, ION (Sees, OY, BIHAE, OT SL) Hows 220
+Volume - 159 BENGALURU, FRIDAY, 15, NOVEMBER, 2024 (KARTHIKA, 24, SHAKAVARSHA, 1946) Issue 220
+
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/411/2024-RC Karnataka Government Secretariat
+E- 1429696 Multi Storied Building
+Bengaluru-560 001,
+Date:03-07-2024.
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No. RC 113 PFH 2022 Dated:05-07-2022
+regarding altering the limits of Sultanapur village of Sindhanur Taluk, Raichur
+District and constituting a new revenue village called Venkataraman Nagar was
+published as required by section 6 of the Karnataka Land Revenue Act, 1964
+(Karnataka act No.12 of 1964) in the Karnataka Gazette Dated:26-07-2022 inviting
+objections or suggestions from all the persons likely to be affected thereby within
+thirty days from the date of its publication in the Official Gazette addressed to the
+Deputy Commissioner Raichur district.
+
+And whereas, the said gazette was made available to the public on
+Dated: 26-07-2022 And whereas, no objections and suggestions have been received;
+
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka Land
+Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka here
+by makes the following notification, namely:-
+
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+village Sultanapur of Sindhanur Taluk and Raichur District to form a new revenue
+(18003)
+
+village called as Venkataraman Nagar of Sindhanur Taluk in Raichur District
+along with the survey numbers included in column (4) thereof.
+
+TABLE-1
+Sl.No. Old Survey Numbers Extent of area transferred Survey numbers Specified
+Which are excluded to new village in column (2) which are to
+from Sultanapur Venkataraman Nagar be included to form new
+village to constituting village Venkataraman
+Acre Gunta Anna
+new village Nagar & new survey
+Venkataraman Nagar numbers assigned to them
+(1) (2) (3) (4)
+1 126 26 12 0 1
+2 113p1 7 4 0 2p1
+3 113p2 3 25 0 2p2
+4 114 31 24 0 3
+5 115 35 35 0 4
+6 116 10 2 0 5
+7 117 32 28 0 6
+8 118 17 8 0 7
+9 122 9 2 0 8
+10 123 23 22 0 9
+11 125 22 38 0 10
+12 124 35 30 0 11
+13 137 18 25 0 12
+14 138 14 20 0 13
+15 139 19 1 0 14
+16 121 31 8 0 15
+17 119 17 10 0 16
+18 120 34 1 0 17
+19 140 29 8 0 18
+20 141 16 4 0 19
+21 152 12 39 0 20
+22 153 3 8 0 21
+23 154 20 32 0 22
+24 157 19 22 0 23
+25 158 32 26 0 24
+26 159 31 17 0 25
+27 160 33 7 0 26
+28 163 16 16 0 27
+29 156 20 31 0 28
+30 164 19 25 0 29
+31 155 19 39 0 30
+
+gen Yad BOF UE TOBWS, aged, 02, ssowo’, 209Y QS0083
+32 176 28 28 0 31
+33 175 35 13 0 32
+34 165 33 9 0 33
+35 162 27 32 0 34
+36 161 34 3 0 35
+37 168 35 1 0 36
+38 166 10 11 0 37
+39 167 32 2 0 38
+40 174 24 36 0 39
+41 173 32 0 0 40
+42 172 9 24 0 41
+43 171 22 15 0 42
+44 170 11 17 0 43
+45 169 35 17 0 44
+46 195 24 37 0 45
+47 194 20 0 0 46
+48 193 30 10 0 47
+49 191 35 35 0 48
+50 190 34 1 0 49
+51 189 33 10 0 50
+52 192 23 38 0 51
+53 196 31 22 0 52
+54 197 26 15 0 53
+55 198 25 37 0 54
+56 208 24 37 0 55
+57 207 35 2 0 56
+58 209 26 29 0 57
+59 212 19 12 0 58
+60 211 23 10 0 59
+61 210 14 36 0 60
+62 206 24 17 0 61
+63 199 29 13 0 62
+64 200 19 28 0 63
+65 204 16 10 0 64
+66 205 32 16 0 65
+67 219 19 4 0 66
+68 220 17 23 0 67
+69 221 32 20 0 68
+70 203 34 25 0 69
+71 202 33 14 0 70
+72 201 30 28 0 71
+73 262 26 12 0 72
+
+74 260 35 35 0 73
+75 261p1 14 19 0 74p1
+76 261p2 15 37 0 74p2
+77 259 36 7 0 75
+78 258 28 38 0 76
+79 257 25 1 0 77
+80 256 18 7 0 78
+81 253 23 37 0 79
+82 255 17 26 0 80
+83 254 22 5 0 81
+84 252 13 9 0 82
+85 251 16 32 0 83
+86 250 22 27 0 84
+87 249 21 27 0 85
+88 248 17 36 0 86
+89 247 14 17 0 87
+90 246 36 9 0 88
+91 245 34 18 0 89
+92 244 33 12 0 90
+93 243\1 18 26 0 91\1
+243\2 18 18 0 91\2
+94 242 19 25 0 92
+95 241 23 3 0 93
+96 240 29 6 0 94
+97 239 22 15 0 95
+98 238 30 3 0 96
+99 237 35 17 0 97
+100 232 35 36 0 98
+101 231 27 31 0 99
+102 230 17 23 0 100
+103 229 15 22 0 101
+104 228 23 4 0 102
+105 227 11 5 0 103
+106 233 35 9 0 104
+107 236 36 24 0 105
+108 234 18 10 0 106
+109 235 20 31 0 107
+110 226 14 1 0 108
+111 225 21 18 0 109
+112 223 34 38 0 110
+113 222 29 39 0 111
+114 218 27 12 0 112
+
+115 224 20 21 0 113
+116 217 27 35 0 114
+117 216 25 8 0 115
+118 213 26 18 0 116
+119 215 15 6 0 117
+120 214 24 17 0 118
+121 188 21 26 0 119
+122 187 29 5 0 120
+123 184 29 7 0 121
+124 186 30 10 0 122
+125 185 14 26 0 123
+126 183 21 12 0 124
+127 182 8 7 0 125
+128 181 30 20 0 126
+129 180 15 18 0 127
+130 179 22 32 0 128
+131 177 26 2 0 129
+132 178 31 39 0 130
+133 147 13 16 0 131
+134 146 33 13 0 132
+135 148 20 12 0 133
+136 149 13 10 0 134
+137 150 23 10 0 135
+138 151 26 33 0 136
+139 142 24 22 0 137
+140 143 19 18 0 138
+141 144\1 20 7 0 139\1
+144\2 18 39 0 139\2
+142 145 25 7 0 140
+143 131\1 22 31 0 141\1
+131\2 14 20 0 141\2
+144 132 11 10 0 142
+145 135 16 19 0 143
+146 136 14 32 0 144
+147 134 10 19 0 145
+148 133 22 9 0 146
+149 130 22 10 0 147
+150 129 26 10 0 148
+151 128 25 26 0 149
+
+152 127 9 37 0 150
+153 109 22 15 0 151
+154 110 14 32 0 152
+Total 3693 19 0
+Note: The extent of Gramatana within the said village is to be the extent specified
+below namely:
+Survey Extent
+Numbers Acre Gunta Anna
+125 1 0 0
+126 4 2 0
+127 6 27 0
+128 3 13 0
+134 11 16 0
+Total 26 18 0
+
+There shall be constituted a new village called Venkataraman Nagar in
+Sindhanur taluk, Raichur District and boundaries of the village shall be as specified
+below:-
+
+Boundaries of the new village Venkataraman Nagar
+
+East: Boundry of Maladinin D & West: Boundry of Turakatti D &
+kanakareddy D village Dibbanakheda village
+North: Boundry of dibbanakheda , South: Boundry of Sindhanur village
+javalagera & turakatti D villages
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the Sultanapur
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+TABLE-2
+
+Sl.no. Survey numbers remaining New Survey numbers
+in Sultanapur village assigned to the
+after excluding the survey Total Area remaining survey
+numbers which are to be numbers in Sultanapur
+included to form village Acre Gunta Anna specified in column (2)
+Venkataraman Nagar
+(1) (2) (3) (4)
+1 1 11 24 0 1
+2 2 17 28 0 2
+3 3 13 3 0 3
+4 4 13 28 0 4
+
+5 11 31 24 0 5
+6 12 26 19 0 6
+7 20 9 10 0 7
+8 13 32 23 0 8
+9 10 27 6 0 9
+10 5 21 4 0 10
+11 6 18 11 0 11
+12 7 12 6 0 12
+13 8 4 0 0 13
+14 9 25 4 0 14
+15 14 24 18 0 15
+16 16 33 14 0 16
+17 17 18 3 0 17
+18 18 17 0 0 18
+19 40 25 27 0 19
+20 41 5 32 0 20
+21 42 33 3 0 21
+22 51 36 23 0 22
+23 52 34 14 0 23
+24 15 21 5 0 24
+25 55 29 24 0 25
+26 56 21 7 0 26
+27 57 20 15 0 27
+28 59 27 29 0 28
+29 58 16 15 0 29
+30 61 14 22 0 30
+31 60 27 32 0 31
+32 112 9 38 0 32
+33 63 8 17 0 33
+34 64 17 14 0 34
+35 102 19 6 0 35
+36 111 7 22 0 36
+37 103 17 5 0 37
+38 104 21 38 0 38
+39 108 22 10 0 39
+40 107 24 30 0 40
+41 105 14 21 0 41
+42 106 22 25 0 42
+43 97/1 1 34 0 43
+97/2 2 13 0
+44 98 13 24 0 44
+45 99 13 0 0 45
+
+46 100 13 27 0 46
+47 101 22 33 0 47
+48 65 23 17 0 48
+49 62 26 22 0 49
+50 54 21 19 0 50
+51 53 27 38 0 51
+52 66 31 21 0 52
+53 92 26 13 0 53
+54 93 21 1 0 54
+55 94 34 9 0 55
+56 96 21 29 0 56
+57 86 15 12 0 57
+58 88 18 14 0 58
+59 95 32 24 0 59
+60 89 21 15 0 60
+61 91 21 28 0 61
+62 67 36 33 0 62
+63 68 8 38 0 63
+64 69 12 18 0 64
+65 90 19 31 0 65
+66 87 16 35 0 66
+67 85 15 8 0 67
+68 84 10 4 0 68
+69 83 16 1 0 69
+70 82 11 8 0 70
+71 81 16 11 0 71
+72 80 11 13 0 72
+73 70 19 19 0 73
+74 71 14 11 0 74
+75 79 23 27 0 75
+76 78 8 5 0 76
+77 76 29 12 0 77
+78 77 13 16 0 78
+79 75 14 23 0 79
+80 74 10 29 0 80
+81 73 11 1 0 81
+82 72 11 33 0 82
+83 50 17 28 0 83
+84 49 7 1 0 84
+85 48 7 24 0 85
+86 47 9 13 0 86
+87 46 16 19 0 87
+
+88 45 17 1 0 88
+89 44 27 2 0 89
+90 43 15 6 0 90
+91 38 35 35 0 91
+92 37 19 33 0 92
+93 36 8 16 0 93
+94 35 31 7 0 94
+95 39 32 38 0 95
+96 34 12 35 0 96
+97 31 14 26 0 97
+98 30 10 0 0 98
+99 29 33 32 0 99
+100 32 23 0 0 100
+101 33 19 7 0 101
+102 27 17 19 0 102
+103 28 29 32 0 103
+104 26 24 33 0 104
+105 24 19 15 0 105
+106 25 17 26 0 106
+107 19 9 14 0 107
+108 21 14 9 0 108
+109 22 10 3 0 109
+110 23 10 35 0 110
+Total 2137 35 0
+
+Boundaries of the village Sultanapur
+East : Boundry of venkataaman West : Boundry of Jangamarahatti D
+nagar village
+North : Boundry of Jujalapur & South: Boundry of Sindhanur village
+Boothaladinni village
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages
+and Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+(1) (2) (3) (4)
+1 126 26 12 0 1
+2 113p1 7 4 0 2p1
+3 113p2 3 25 0 2p2
+4 114 31 24 0 3
+5 115 35 35 0 4
+
+6 116 10 2 0 5
+7 117 32 28 0 6
+8 118 17 8 0 7
+9 122 9 2 0 8
+10 123 23 22 0 9
+11 125 22 38 0 10
+12 124 35 30 0 11
+13 137 18 25 0 12
+14 138 14 20 0 13
+15 139 19 1 0 14
+16 121 31 8 0 15
+17 119 17 10 0 16
+18 120 34 1 0 17
+19 140 29 8 0 18
+20 141 16 4 0 19
+21 152 12 39 0 20
+22 153 3 8 0 21
+23 154 20 32 0 22
+24 157 19 22 0 23
+25 158 32 26 0 24
+26 159 31 17 0 25
+27 160 33 7 0 26
+28 163 16 16 0 27
+29 156 20 31 0 28
+30 164 19 25 0 29
+31 155 19 39 0 30
+32 176 28 28 0 31
+33 175 35 13 0 32
+34 165 33 9 0 33
+35 162 27 32 0 34
+36 161 34 3 0 35
+37 168 35 1 0 36
+38 166 10 11 0 37
+39 167 32 2 0 38
+40 174 24 36 0 39
+41 173 32 0 0 40
+42 172 9 24 0 41
+43 171 22 15 0 42
+44 170 11 17 0 43
+45 169 35 17 0 44
+46 195 24 37 0 45
+47 194 20 0 0 46
+
+48 193 30 10 0 47
+49 191 35 35 0 48
+50 190 34 1 0 49
+51 189 33 10 0 50
+52 192 23 38 0 51
+53 196 31 22 0 52
+54 197 26 15 0 53
+55 198 25 37 0 54
+56 208 24 37 0 55
+57 207 35 2 0 56
+58 209 26 29 0 57
+59 212 19 12 0 58
+60 211 23 10 0 59
+61 210 14 36 0 60
+62 206 24 17 0 61
+63 199 29 13 0 62
+64 200 19 28 0 63
+65 204 16 10 0 64
+66 205 32 16 0 65
+67 219 19 4 0 66
+68 220 17 23 0 67
+69 221 32 20 0 68
+70 203 34 25 0 69
+71 202 33 14 0 70
+72 201 30 28 0 71
+73 262 26 12 0 72
+74 260 35 35 0 73
+75 261p1 14 19 0 74p1
+76 261 p 2 15 37 0 74p2
+77 259 36 7 0 75
+78 258 28 38 0 76
+79 257 25 1 0 77
+80 256 18 7 0 78
+81 253 23 37 0 79
+82 255 17 26 0 80
+83 254 22 5 0 81
+84 252 13 9 0 82
+85 251 16 32 0 83
+86 250 22 27 0 84
+87 249 21 27 0 85
+88 248 17 36 0 86
+89 247 14 17 0 87
+
+90 246 36 9 0 88
+91 245 34 18 0 89
+92 244 33 12 0 90
+93 243\1 18 26 0 91\1
+243\2 18 18 0 91\2
+94 242 19 25 0 92
+95 241 23 3 0 93
+96 240 29 6 0 94
+97 239 22 15 0 95
+98 238 30 3 0 96
+99 237 35 17 0 97
+100 232 35 36 0 98
+101 231 27 31 0 99
+102 230 17 23 0 100
+103 229 15 22 0 101
+104 228 23 4 0 102
+105 227 11 5 0 103
+106 233 35 9 0 104
+107 236 36 24 0 105
+108 234 18 10 0 106
+109 235 20 31 0 107
+110 226 14 1 0 108
+111 225 21 18 0 109
+112 223 34 38 0 110
+113 222 29 39 0 111
+114 218 27 12 0 112
+115 224 20 21 0 113
+116 217 27 35 0 114
+117 216 25 8 0 115
+118 213 26 18 0 116
+119 215 15 6 0 117
+120 214 24 17 0 118
+121 188 21 26 0 119
+122 187 29 5 0 120
+123 184 29 7 0 121
+124 186 30 10 0 122
+125 185 14 26 0 123
+126 183 21 12 0 124
+127 182 8 7 0 125
+128 181 30 20 0 126
+129 180 15 18 0 127
+130 179 22 32 0 128
+
+131 177 26 2 0 129
+132 178 31 39 0 130
+133 147 13 16 0 131
+134 146 33 13 0 132
+135 148 20 12 0 133
+136 149 13 10 0 134
+137 150 23 10 0 135
+138 151 26 33 0 136
+139 142 24 22 0 137
+140 143 19 18 0 138
+141 144\1 20 7 0 139\1
+144\2 18 39 0 139\2
+142 145 25 7 0 140
+143 131\1 22 31 0 141\1
+131\2 14 20 0 141\2
+144 132 11 10 0 142
+145 135 16 19 0 143
+146 136 14 32 0 144
+147 134 10 19 0 145
+148 133 22 9 0 146
+149 130 22 10 0 147
+150 129 26 10 0 148
+151 128 25 26 0 149
+152 127 9 37 0 150
+153 109 22 15 0 151
+154 110 14 32 0 152
+
+125 1 0 0
+126 4 2 0
+127 6 27 0
+128 3 13 0
+134 11 16 0
+
+(1) (2) (3) (4)
+1 1 11 24 0 1
+2 2 17 28 0 2
+3 3 13 3 0 3
+4 4 13 28 0 4
+5 11 31 24 0 5
+6 12 26 19 0 6
+7 20 9 10 0 7
+8 13 32 23 0 8
+9 10 27 6 0 9
+10 5 21 4 0 10
+11 6 18 11 0 11
+12 7 12 6 0 12
+13 8 4 0 0 13
+14 9 25 4 0 14
+15 14 24 18 0 15
+16 16 33 14 0 16
+17 17 18 3 0 17
+18 18 17 0 0 18
+19 40 25 27 0 19
+20 41 5 32 0 20
+21 42 33 3 0 21
+22 51 36 23 0 22
+23 52 34 14 0 23
+24 15 21 5 0 24
+25 55 29 24 0 25
+
+26 56 21 7 0 26
+27 57 20 15 0 27
+28 59 27 29 0 28
+29 58 16 15 0 29
+30 61 14 22 0 30
+31 60 27 32 0 31
+32 112 9 38 0 32
+33 63 8 17 0 33
+34 64 17 14 0 34
+35 102 19 6 0 35
+36 111 7 22 0 36
+37 103 17 5 0 37
+38 104 21 38 0 38
+39 108 22 10 0 39
+40 107 24 30 0 40
+41 105 14 21 0 41
+42 106 22 25 0 42
+43 97/1 1 34 0 43
+97/2 2 13 0
+44 98 13 24 0 44
+45 99 13 0 0 45
+46 100 13 27 0 46
+47 101 22 33 0 47
+48 65 23 17 0 48
+49 62 26 22 0 49
+50 54 21 19 0 50
+51 53 27 38 0 51
+52 66 31 21 0 52
+53 92 26 13 0 53
+54 93 21 1 0 54
+55 94 34 9 0 55
+56 96 21 29 0 56
+57 86 15 12 0 57
+58 88 18 14 0 58
+59 95 32 24 0 59
+60 89 21 15 0 60
+61 91 21 28 0 61
+62 67 36 33 0 62
+63 68 8 38 0 63
+64 69 12 18 0 64
+65 90 19 31 0 65
+66 87 16 35 0 66
+
+67 85 15 8 0 67
+68 84 10 4 0 68
+69 83 16 1 0 69
+70 82 11 8 0 70
+71 81 16 11 0 71
+72 80 11 13 0 72
+73 70 19 19 0 73
+74 71 14 11 0 74
+75 79 23 27 0 75
+76 78 8 5 0 76
+77 76 29 12 0 77
+78 77 13 16 0 78
+79 75 14 23 0 79
+80 74 10 29 0 80
+81 73 11 1 0 81
+82 72 11 33 0 82
+83 50 17 28 0 83
+84 49 7 1 0 84
+85 48 7 24 0 85
+86 47 9 13 0 86
+87 46 16 19 0 87
+88 45 17 1 0 88
+89 44 27 2 0 89
+90 43 15 6 0 90
+91 38 35 35 0 91
+92 37 19 33 0 92
+93 36 8 16 0 93
+94 35 31 7 0 94
+95 39 32 38 0 95
+96 34 12 35 0 96
+97 31 14 26 0 97
+98 30 10 0 0 98
+99 29 33 32 0 99
+100 32 23 0 0 100
+101 33 19 7 0 101
+102 27 17 19 0 102
+103 28 29 32 0 103
+104 26 24 33 0 104
+105 24 19 15 0 105
+106 25 17 26 0 106
+107 19 9 14 0 107
+108 21 14 9 0 108
+
+109 22 10 3 0 109
+110 23 10 35 0 110
+
+PR-1466
+GOVERNMENT OF KARNATAKA
+RD/88/PFH/2023-RV Karnataka Government Secretariat
+E-1229378 Multi Storied Building
+Bengaluru-560 001,
+Date:03-07-2024.
+
+FINAL NOTIFICATION
+Whereas the draft of the Notification No RD 88 PFH 2023 dated 18-11-2023
+regarding altering the limits of Chandapur village of Sedam Taluk, Kalaburgi
+district and constituting a new revenue village called Chandunayak Thanda and
+Revenue sub Village called Pandunayak Tanda from the new revenue village
+Chandunayak Thanda was published as required by section 6 of the Karnataka Land
+Revenue Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette
+Dated:12-1-2024 inviting objections or suggestions from all the persons likely to be
+affected thereby within thirty days from the date of its publication in the Official
+Gazette addressed to the Deputy Commissioner Kalaburgi district.
+
+And whereas, the said gazette was made available to the public on
+Dated: 12-01-2024 And whereas, no objections and suggestions have been received;
+
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE – 1
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+Chandapur village of Sedam Taluk, Kalaburgi district to form a new revenue
+village called as Chandunayak Thanda village of Sedam Taluk, Kalaburgi district
+along with the survey numbers included in column (4) thereof.
+
+TABLE-1
+SL. Old survey numbers Extent of areas Survey numbers Specified in
+NO which are excluded from Transferred to new column (2) Which are to be
+Chandapur village to Village Chandunayak Included to form new Village
+constituting new village Thanda Chandunayak Thanda and
+Chandunayak Thanda Acre Gunte Anna New survey numbers
+Assingned to them
+(1) (2) (3) (4)
+97 30 11 00 1
+97 1 17 New Gramatana
+96 12 6 00 2
+96 0 24 New Gramatana
+3 95 12 39 00 3
+4 94 14 38 00 4
+00 5
+17 22
+5 93 New Gramatana (Pandu nayak
+1 9
+thanda sub –village)
+6 92 17 26 00 6
+7 91 21 2 00 7
+8 90 16 14 00 8
+9 89 12 37 00 9
+10 63 15 18 00 10
+11 98 6 1 00 11
+12 99 1 20 00 12
+13 102 1 8 00 13
+14 103 1 13 00 14
+15 104 2 2 00 15
+16 118 1 11 00 16
+17 117 1 14 00 17
+18 105 1 16 00 18
+19 116 2 0 00 19
+20 115 1 38 00 20
+
+21 114 2 6 00 21
+22 106 2 34 00 22
+23 101 1 2 00 23
+24 100 1 0 00 24
+25 109 1 37 00 25
+26 108 2 3 00 26
+27 110 1 9 00 27
+28 107 1 13 00 28
+29 113 2 15 00 29
+30 112 0 27 00 30
+31 111 2 4 00 31
+32 57 1 13 00 32
+33 58 1 24 00 33
+34 56 1 13 00 34
+35 59 1 31 00 35
+36 60 1 10 00 36
+37 61 1 14 00 37
+38 55 1 8 00 38
+39 54 2 6 00 39
+40 51 1 21 00 40
+41 50 1 30 00 41
+42 52 1 8 00 42
+43 53 1 33 00 43
+44 68 21 13 00 44
+45 65 24 5 00 45
+46 62 19 4 00 46
+47 64 9 29 00 47
+48 66 5 22 00 48
+49 87 13 23 00 49
+50 88 21 22 00 50
+51 83 16 9 00 51
+52 82 11 5 00 52
+53 81/p/ 8 2 00 53/p1
+81/p2 00 53/p2
+54 237 14 23 00 54
+55 238/p1 9 35 00 55/p1
+238/p2 00 55/p2
+56 80 9 35 00 56
+57 84 10 27 00 57
+58 85 8 38 00 58
+59 86 23 28 00 59
+60 67 13 15 00 60
+
+61 73 2 30 00 61
+62 71 4 28 00 62
+63 70 5 23 00 63
+64 69/p1 6 26 00 64/p1
+69/p2 3 29 00 64/p2
+65 49 6 11 00 65
+66 48 1 19 00 66
+67 47 1 35 00 67
+68 46 14 3 00 68
+69 43 2 0 00 69
+70 42 7 26 00 70
+71 41 7 9 00 71
+72 40 9 21 00 72
+73 38 2 11 00 73
+74 37 9 28 00 74
+75 36 5 1 00 75
+76 119 455 39 00 76
+TOTAL 1019 21
+
+Note:- The extent of Gramtana within the said village is to be the specified
+below,Namely
+
+Survey number Extent
+Acre Gunta
+Part of the survey 24G
+0A
+number -96
+Sy no-97 1A 17G
+
+Boundaries of theVillage Chandunayak Thanda
+
+East : Remaining Chandapur village North : Boundry of Kadtal village
+West: boundry of madhana and
+South : Remaining chandapur village
+venkatapur village
+
+SCHEDULE-1(1)
+
+Land bearing survey numbers and extent specified below in column(3) of the
+table shall be declared as habitation area of called Pandunayak Tanda village of
+Sedam taluk of Kalaburagi District convert the same to form hamlet/part within the
+boundary of newly constituted revenue village called Chandunayak Thanda and
+same will here in after be named as Pandunayak Tanda of Chandunayak Thanda
+village in Sedam Taluka of Kalaburgi District.
+
+Name of the
+revenue Present Survey
+village/village name of number Total extent of
+s in Which the un in which land on which it Boundaries
+unrecorded recorded it is is located
+habitation is habitation located
+located
+4 5
+1 2 3
+Acre Gunta Anna North South East West
+Remain
+g Remaing Pandu
+Chandunayak Sy.No sy.no
+nayak 1 09 00 land of land of
+Thanda 93 97 97
+Tanda sy.no sy.no 93
+Total extent of unrecorded
+1 09 00
+habitation
+
+It is hereby declared that the extent of land indicated in the columns(4) above
+with survey numbers specified in column (3) on which the said unrecorded habitation
+located is converted as habitation area( Gramatana) of Pandu nayak Tanda hamlet/part
+of Chandunayak Thanda village in Sedam Taluka of Kalaburgi District
+
+SCHEDULE-2
+The Survey numbers of the village and areas remaining in the Chandapur
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+
+TABLE-2
+
+Survey numbers remaining New survey numbers
+Area in Chandapur village after assigned to the remaining
+Sl.
+Excluding the survey in Chandapur village
+No
+numbers which are to be survey numbers specified
+Acre Gunta Anna
+included to form new village in column (2)
+(1) (2) (3) (4)
+1 1/p1 1 4 00 1/p1
+1/p2 0 10 00 1/p2
+1/p3 2 32 00 1/p3
+2 2 4 38 00 2
+3 3 1 6 00 3
+4 4 1 21 00 4
+5 5 5 30 00 5
+6 6 1 7 00 6
+7 7 0 27 00 7
+
+8 8 0 20 00 8
+9 9 1 23 00 9
+10 10 0 33 00 10
+11 11 0 27 00 11
+12 12 1 13 00 12
+13 13 1 7 00 13
+14 14 1 5 00 14
+15 15 1 22 00 15
+16 16 1 28 00 16
+17 17 1 6 00 17
+18 18 2 11 00 18
+19 19 2 13 00 19
+20 20 1 17 00 20
+21 21 1 11 00 21
+22 22 0 37 00 22
+23 23 0 38 00 23
+24 24 1 0 00 24
+25 25 0 22 00 25
+26 26 0 24 00 26
+27 27 3 15 00 27
+28 28 3 26 00 28
+29 29 13 39 00 29
+30 30 15 29 00 30
+31 31 19 6 00 31
+32 32 7 3 00 32
+33 33 8 28 00 33
+34 39/p1 3 3 00 34/p1
+39/p2 4 11 00 34/p2
+35 35 16 9 00 35
+36 34 16 14 00 36
+37 120 13 3 00 37
+38 121 11 34 00 38
+39 122 21 0 00 39
+40 123 18 16 00 40
+41 124 116 16 00 41
+42 125 24 18 00 42
+43 126/p1 5 24 00 43/p1
+126/p2 10 0 00 43/p2
+126/p3 0 17 00 43/p3
+44 127 9 1 00 44
+45 128/p1 6 9 00 45/p1
+128/p2 00 45/p2
+
+46 129 14 27 00 46
+47 130 20 33 00 47
+48 131 18 22 00 48
+49 132 19 35 00 49
+50 133 6 7 00 50
+51 134 13 19 00 51
+52 135 18 21 00 52
+53 136 13 31 00 53
+54 137 16 5 00 54
+55 138 13 11 00 55
+56 139 18 30 00 56
+57 140 19 5 00 57
+58 141 5 18 00 58
+59 142 21 11 00 59
+60 143 1 32 00 60
+61 144 8 3 00 61
+62 145 8 33 00 62
+63 146 20 20 00 63
+64 147 18 31 00 64
+65 148 14 12 00 65
+66 149 17 15 00 66
+67 150 13 2 00 67
+68 151 9 12 00 68
+69 152 10 28 00 69
+70 153 13 9 00 70
+71 154 10 34 00 71
+72 155 14 10 00 72
+73 156 12 10 00 73
+74 157 12 13 00 74
+75 158 4 23 00 75
+76 159 12 20 00 76
+77 160 12 37 00 77
+78 161 17 8 00 78
+79 162 12 32 00 79
+80 163 17 8 00 80
+81 164 7 36 00 81
+82 165 12 23 00 82
+83 166 10 0 00 83
+84 167 3 13 00 84
+85 168 2 18 00 85
+86 169 3 23 00 86
+87 170 2 26 00 87
+
+88 171 11 12 00 88
+89 172 2 7 00 89
+90 173 3 8 00 90
+91 174 6 10 00 91
+92 175 17 29 00 92
+93 176 16 4 00 93
+94 177 14 11 00 94
+95 178 14 10 00 95
+96 179 13 14 00 96
+97 180 17 5 00 97
+98 181 19 21 00 98
+99 182 10 8 00 99
+100 183 19 7 00 100
+101 184 14 4 00 101
+102 185 18 18 00 102
+103 186 4 26 00 103
+104 187 12 39 00 104
+105 188 14 9 00 105
+106 189 17 33 00 106
+107 190 6 13 00 107
+108 191 8 32 00 108
+109 192 7 0 00 109
+110 193 18 2 00 110
+111 194 14 7 00 111
+112 195 5 1 00 112
+113 196 20 10 00 113
+114 197 10 24 00 114
+115 198 6 13 00 115
+116 199 16 20 00 116
+117 200 16 34 00 117
+118 201 10 36 00 118
+119 202 6 23 00 119
+120 203 7 26 00 120
+121 204 13 34 00 121
+122 205 11 20 00 122
+123 206/p1 6 10 00 123/p1
+206/p2 2 10 00 123/p2
+124 207 4 19 00 124
+125 208 10 11 00 125
+126 209 8 13 00 126
+127 210/p1 0 12 00 127/p1
+210/p2 5 17 00 127/p2
+
+128 211 7 4 00 128
+129 212 13 3 00 129
+130 213 6 39 00 130
+131 214 8 12 00 131
+132 215 8 34 00 132
+133 216 15 4 00 133
+134 217 18 7 00 134
+135 218 19 26 00 135
+136 219 15 1 00 136
+137 220 7 10 00 137
+138 221 6 13 00 138
+139 222 18 2 00 139
+140 223 7 25 00 140
+141 224 15 0 00 141
+142 225 22 27 00 142
+143 226 3 24 00 143
+144 227 15 23 00 144
+145 228 24 4 00 145
+146 229 13 16 00 146
+147 230 13 16 00 147
+148 231 15 25 00 148
+149 232 46 2 00 149
+150 233 7 30 00 150
+151 234 12 20 00 151
+152 235 9 19 00 152
+153 236 16 26 00 153
+154 239 9 38 00 154
+155 77 17 16 00 155
+156 79 12 13 00 156
+157 74 19 1 00 157
+158 72 13 3 00 158
+159 45 3 18 00 159
+160 44/p1 7 28 00 160/p1
+44/p2 00 160/p2
+44/p3 00 160/p3
+161 249/p1 9 11 00 161/p1
+249/p2 00 161/p2
+162 247 0 39 00 162
+163 248 1 24 00 163
+164 76 1 24 00 164
+165 78 8 16 00 165
+166 75 7 29 00 166
+
+167 240/p1 5 12 00 167/p1
+240/p2 4 9 00 167/p2
+168 241 6 11 00 168
+169 242 8 18 00 169
+170 243 1 7 00 170
+171 244 7 13 00 171
+172 245 1 30 00 172
+173 246 5 17 00 173
+TOTAL 1969 0
+KHARAB 31 18
+TOTAL 2000 18
+
+Boundaries of the Village Chandapur
+North : Boundary of Kompalli And
+East : Boundry Of Pakal Village
+Kadathal Village
+South : Boundary Of Mothakapalli And
+West : Chandunayak Tanda
+Kistapur Village:
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villagesand
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+RD/88/PFH/2023-RV
+
+1 2 3 4
+97 30 11 1
+1 00
+96 12 6 2
+2 00
+3 95 12 39 00 3
+4 94 14 38 00 4
+17 22 5
+5 93 00
+6 92 17 26 00 6
+7 91 21 2 00 7
+8 90 16 14 00 8
+9 89 12 37 00 9
+10 63 15 18 00 10
+11 98 6 1 00 11
+12 99 1 20 00 12
+13 102 1 8 00 13
+
+14 103 1 13 00 14
+15 104 2 2 00 15
+16 118 1 11 00 16
+17 117 1 14 00 17
+18 105 1 16 00 18
+19 116 2 0 00 19
+20 115 1 38 00 20
+21 114 2 6 00 21
+22 106 2 34 00 22
+23 101 1 2 00 23
+24 100 1 0 00 24
+25 109 1 37 00 25
+26 108 2 3 00 26
+27 110 1 9 00 27
+28 107 1 13 00 28
+29 113 2 15 00 29
+30 112 0 27 00 30
+31 111 2 4 00 31
+32 57 1 13 00 32
+33 58 1 24 00 33
+34 56 1 13 00 34
+35 59 1 31 00 35
+36 60 1 10 00 36
+37 61 1 14 00 37
+38 55 1 8 00 38
+39 54 2 6 00 39
+40 51 1 21 00 40
+41 50 1 30 00 41
+42 52 1 8 00 42
+43 53 1 33 00 43
+44 68 21 13 00 44
+45 65 24 5 00 45
+46 62 19 4 00 46
+47 64 9 29 00 47
+48 66 5 22 00 48
+49 87 13 23 00 49
+50 88 21 22 00 50
+51 83 16 9 00 51
+52 82 11 5 00 52
+54 237 14 23 00 54
+
+56 80 9 35 00 56
+57 84 10 27 00 57
+58 85 8 38 00 58
+59 86 23 28 00 59
+60 67 13 15 00 60
+61 73 2 30 00 61
+62 71 4 28 00 62
+63 70 5 23 00 63
+65 49 6 11 00 65
+66 48 1 19 00 66
+67 47 1 35 00 67
+68 46 14 3 00 68
+69 43 2 0 00 69
+70 42 7 26 00 70
+71 41 7 9 00 71
+72 40 9 21 00 72
+73 38 2 11 00 73
+74 37 9 28 00 74
+75 36 5 1 00 75
+76 119 455 39 00 76
+
+4 5
+
+C.
+1 2 3 4
+
+2 2 4 38 00 2
+3 3 1 6 00 3
+4 4 1 21 00 4
+5 5 5 30 00 5
+6 6 1 7 00 6
+7 7 0 27 00 7
+8 8 0 20 00 8
+9 9 1 23 00 9
+10 10 0 33 00 10
+11 11 0 27 00 11
+12 12 1 13 00 12
+13 13 1 7 00 13
+14 14 1 5 00 14
+15 15 1 22 00 15
+16 16 1 28 00 16
+17 17 1 6 00 17
+18 18 2 11 00 18
+19 19 2 13 00 19
+20 20 1 17 00 20
+21 21 1 11 00 21
+22 22 0 37 00 22
+23 23 0 38 00 23
+24 24 1 0 00 24
+25 25 0 22 00 25
+26 26 0 24 00 26
+27 27 3 15 00 27
+28 28 3 26 00 28
+29 29 13 39 00 29
+30 30 15 29 00 30
+31 31 19 6 00 31
+32 32 7 3 00 32
+33 33 8 28 00 33
+35 35 16 9 00 35
+36 34 16 14 00 36
+37 120 13 3 00 37
+38 121 11 34 00 38
+39 122 21 0 00 39
+40 123 18 16 00 40
+
+41 124 116 16 00 41
+42 125 24 18 00 42
+44 127 9 1 00 44
+46 129 14 27 00 46
+47 130 20 33 00 47
+48 131 18 22 00 48
+49 132 19 35 00 49
+50 133 6 7 00 50
+51 134 13 19 00 51
+52 135 18 21 00 52
+53 136 13 31 00 53
+54 137 16 5 00 54
+55 138 13 11 00 55
+56 139 18 30 00 56
+57 140 19 5 00 57
+58 141 5 18 00 58
+59 142 21 11 00 59
+60 143 1 32 00 60
+61 144 8 3 00 61
+62 145 8 33 00 62
+63 146 20 20 00 63
+64 147 18 31 00 64
+65 148 14 12 00 65
+66 149 17 15 00 66
+67 150 13 2 00 67
+68 151 9 12 00 68
+69 152 10 28 00 69
+70 153 13 9 00 70
+71 154 10 34 00 71
+72 155 14 10 00 72
+73 156 12 10 00 73
+74 157 12 13 00 74
+75 158 4 23 00 75
+76 159 12 20 00 76
+77 160 12 37 00 77
+78 161 17 8 00 78
+
+79 162 12 32 00 79
+80 163 17 8 00 80
+81 164 7 36 00 81
+82 165 12 23 00 82
+83 166 10 0 00 83
+84 167 3 13 00 84
+85 168 2 18 00 85
+86 169 3 23 00 86
+87 170 2 26 00 87
+88 171 11 12 00 88
+89 172 2 7 00 89
+90 173 3 8 00 90
+91 174 6 10 00 91
+92 175 17 29 00 92
+93 176 16 4 00 93
+94 177 14 11 00 94
+95 178 14 10 00 95
+96 179 13 14 00 96
+97 180 17 5 00 97
+98 181 19 21 00 98
+99 182 10 8 00 99
+100 183 19 7 00 100
+101 184 14 4 00 101
+102 185 18 18 00 102
+103 186 4 26 00 103
+104 187 12 39 00 104
+105 188 14 9 00 105
+106 189 17 33 00 106
+107 190 6 13 00 107
+108 191 8 32 00 108
+109 192 7 0 00 109
+110 193 18 2 00 110
+111 194 14 7 00 111
+112 195 5 1 00 112
+113 196 20 10 00 113
+114 197 10 24 00 114
+115 198 6 13 00 115
+116 199 16 20 00 116
+117 200 16 34 00 117
+118 201 10 36 00 118
+119 202 6 23 00 119
+120 203 7 26 00 120
+
+121 204 13 34 00 121
+122 205 11 20 00 122
+124 207 4 19 00 124
+125 208 10 11 00 125
+126 209 8 13 00 126
+128 211 7 4 00 128
+129 212 13 3 00 129
+130 213 6 39 00 130
+131 214 8 12 00 131
+132 215 8 34 00 132
+133 216 15 4 00 133
+134 217 18 7 00 134
+135 218 19 26 00 135
+136 219 15 1 00 136
+137 220 7 10 00 137
+138 221 6 13 00 138
+139 222 18 2 00 139
+140 223 7 25 00 140
+141 224 15 0 00 141
+142 225 22 27 00 142
+143 226 3 24 00 143
+144 227 15 23 00 144
+145 228 24 4 00 145
+146 229 13 16 00 146
+147 230 13 16 00 147
+148 231 15 25 00 148
+149 232 46 2 00 149
+150 233 7 30 00 150
+151 234 12 20 00 151
+152 235 9 19 00 152
+153 236 16 26 00 153
+154 239 9 38 00 154
+155 77 17 16 00 155
+156 79 12 13 00 156
+157 74 19 1 00 157
+158 72 13 3 00 158
+159 45 3 18 00 159
+
+162 247 0 39 00 162
+163 248 1 24 00 163
+164 76 1 24 00 164
+165 78 8 16 00 165
+166 75 7 29 00 166
+168 241 6 11 00 168
+169 242 8 18 00 169
+170 243 1 7 00 170
+171 244 7 13 00 171
+172 245 1 30 00 172
+173 246 5 17 00 173
+
+PR-1467
+
+GOVERNMENT OF KARNATAKA
+
+RC-CFS0ADMN/250/2024-RC Karnataka Government Secretariat
+E- 1325721 Multi Storied Building
+Bengaluru-560 001,
+Date:13.08.2024.
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No RC-CFS0ADMN/250/2024-RC
+E-1325721 Dated:17/02/2024 regarding altering the limits of DANAYAKANAKERE
+village of Hospet Taluk and Vijayanagara District and constituting a new revenue village
+called DEVALAPURA was published as required by section 6 of the Karnataka Land
+Revenue Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette Dated:
+12/03/2024 inviting objections or suggestions from all the persons likely to be affected
+thereby within thirty days from the date of its publication in the Official Gazette addressed to
+the Deputy Commissioner Vijayanagara district.
+And whereas, the said gazette was made available to the public on
+Dated: 21/03/2024 And whereas, no objections and suggestions have been received;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka Land
+Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka here by
+makes the following notification, namely:-
+
+SCHEDULE – 1
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+DANAYAKANAKERE village of Hospet Taluk and Vijayanagara District to form a new
+revenue village called as DEVALAPURA village of Hospet Taluk and Vijayanagara
+District along with the survey numbers included in column (4) thereof.
+
+TABLE-1
+
+Old Survey Numbers Extent of areas Survey numbers specified in
+which areas are Transferred to new column(2) which are to be included to
+Sl No
+excluded from village Devalapura form new village DEVALAPURA
+Danayakana kere Acre Cents new survey numbers assigned to them
+(1) (2) (3) (4)
+1 527 21 05 1
+2 528 10 46 2
+3 531 13 66 3
+4 532 11 38 4
+5 533 08 15 5
+6 534 05 40 6
+7 548 05 05 7
+8 545 39 40 8
+9 546 10 72 9
+10 547 13 54 10
+11 549 20 05 11
+12 551 00 82 12
+13 552 59 60 13
+
+14 550 42 19 14
+15 568 08 67 15
+16 525 05 14 16
+17 567 113 92 17
+18 566 06 50 18
+19 587 10 13 19
+20 588 00 46 20
+21 589 00 92 21
+22 590 00 30 22
+23 591 04 73 23
+24 592 22 72 24
+25 595 03 01 25
+26 596 06 26 26
+27 594 07 33 27
+28 593 02 90 28
+29 579 07 37 29
+30 581 02 33 30
+31 580 13 66 31
+32 586 21 36 32
+33 583 03 35 33
+34 584 01 67 34
+35 582 05 47 35
+36 578 04 00 36
+37 577 03 46 37
+38 576 04 37 38
+39 575 07 71 39
+40 585 03 38 40
+41 574 08 50 41
+42 573 20 39 42
+43 602 65 87 43
+44 601 03 69 44
+45 600 06 30 45
+46 599 11 25 46
+47 598 08 84 47
+48 597 39 48 48
+49 605 177 49 49
+50 604 88 20 50
+51 603 72 27 51
+52 572 268 49 52
+53 571 09 17 53
+54 570 13 11 54
+55 569 05 03 55
+56 542 30 80 56
+57 544 04 30 57
+58 540 05 40 58
+59 541 06 20 59
+60 543 46 02 60
+
+61 539 07 59 61
+62 538 10 10 62
+63 536 12 72 63
+64 535 03 89 64
+65 530 08 05 65
+66 537 04 87 66
+67 529 27 65 67
+68 524 218 09 68
+69 523 52 38 69
+70 522 03 95 70
+71 618 02 78 71
+72 526 29 13 72
+TOTAL 1804 59
+
+Note : The extent of Grama Tana within the said village is to the extent specified below
+namely :
+
+Old Survey Number Extent New Survey Number Extent
+532/*/B 4.33 4 4.33
+531 13.66 3 13.66
+528/*/2 7.36 2 7.36
+530/*/* 8.05 65 8.05
+527/*/A1A 8.52 1 8.52
+Total 41.92 Total 41.92
+There shall be constituted a new village called in DEVALAPURA Hospet Taluk,
+Vijayanagara District and boundaries of the village shall be as specified below:-
+
+Bounderies Of The New Village Of Devalapura
+
+East :- Danayakanakere Annd Gollarahalli North :- Mariyammanahalli Village
+Village Boundry
+West :- Nandibandi Village And South :- Haruvanahalli Village Boundry
+Hagaribommanahalli Taluku Boundry
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the
+DANAYAKANAKERE village specified in the column (2) shall be assigned new survey
+numbers in the said villages specified in the column (4).
+
+TABLE-2
+
+Survey numbers remaining in Area
+New survey numbers assigned
+village Danayakanakere after
+Sl to the remaining in village
+excluding the survey numbers
+No Acre Cents Danayakanakere survey
+which are to be included to form
+numbers specified in column
+New village Devalapura
+(1) (2) (3) (4)
+1 28 02 60 1
+2 27 04 48 2
+3 26 02 11 3
+4 25 03 90 4
+
+5 24 08 43 5
+6 23 04 19 6
+7 22 07 30 7
+8 21 08 87 8
+9 20 02 0 9
+10 19 01 65 10
+11 18 51 51 11
+12 17 79 65 12
+13 615 06 40 13
+14 614 00 49 14
+15 616 04 23 15
+16 1 66 56 16
+17 613 18 81 17
+18 617 04 38 18
+19 607 01 9 19
+20 85 11 95 20
+21 86 11 83 21
+22 2 152 49 22
+23 3 19 20 23
+24 14 37 39 24
+25 612 02 57 25
+26 15 75 83 26
+27 16 92 9 27
+28 89 19 65 28
+29 88 05 77 29
+30 87 02 61 30
+31 29 13 13 31
+32 80 02 50 32
+33 78 01 79 33
+34 83 01 99 34
+35 82 01 91 35
+36 81 04 54 36
+37 76 02 37 37
+38 77 02 56 38
+39 72 02 38 39
+40 71 02 42 40
+41 69 02 10 41
+42 70 02 17 42
+43 104 02 1 43
+44 103 03 66 44
+45 75 02 62 45
+46 73 00 80 46
+47 74 02 6 47
+48 102 00 90 48
+
+49 96 01 95 49
+50 95 01 3 50
+51 94 02 2 51
+52 93 02 89 52
+53 90 21 60 53
+54 92 02 24 54
+55 98 02 6 55
+56 97 00 76 56
+57 99 02 0 57
+58 100 01 45 58
+59 101 02 35 59
+60 105 02 13 60
+61 111 01 23 61
+62 110 01 77 62
+63 112 00 59 63
+64 132 00 88 64
+65 109 02 17 65
+66 107 01 63 66
+67 108 01 23 67
+68 106 03 43 68
+69 91 01 70 69
+70 115 01 27 70
+71 116 01 17 71
+72 117 00 72 72
+73 118 01 70 73
+74 119 02 76 74
+75 120 04 84 75
+76 13 00 71 76
+77 4 01 0 77
+78 5 01 27 78
+79 9 02 13 79
+80 10 02 2 80
+81 12 01 90 81
+82 11 02 5 82
+83 121 02 60 83
+84 122 00 60 84
+85 123 02 96 85
+86 8 02 9 86
+87 6 02 50 87
+88 7 00 66 88
+89 192 02 2 89
+90 191 01 20 90
+91 195 04 4 91
+92 193 00 60 92
+
+93 194 01 12 93
+94 197 02 30 94
+95 198 00 72 95
+96 199 02 35 96
+97 203 03 35 97
+98 200 02 8 98
+99 196 02 60 99
+100 189 03 16 100
+101 190 03 40 101
+102 124 02 19 102
+103 126 02 50 103
+104 127 02 63 104
+105 128 02 17 105
+106 125 01 92 106
+107 131 02 38 107
+108 129 00 57 108
+109 130 00 26 109
+110 114 00 25 110
+111 113 01 82 111
+112 133 01 02 112
+113 136 01 83 113
+114 138 02 19 114
+115 183 02 10 115
+116 137 01 40 116
+117 184 02 06 117
+118 187 03 11 118
+119 188 00 90 119
+120 211 06 71 120
+121 201 01 27 121
+122 202 00 75 122
+123 208 02 5 123
+124 204 00 89 124
+125 205 00 80 125
+126 206 00 90 126
+127 207 01 55 127
+128 260 01 15 128
+129 261 01 02 129
+130 262 01 7 130
+131 263 01 53 131
+132 264 00 88 132
+133 610 00 23 133
+134 265 01 25 134
+135 273 01 52 135
+136 272 01 12 136
+
+137 266 02 27 137
+138 259 01 4 138
+139 209 02 64 139
+140 258 02 8 140
+141 210 02 3 141
+142 215 00 31 142
+143 214 00 35 143
+144 212 01 68 144
+145 186 01 13 145
+146 219 00 83 146
+147 213 01 22 147
+148 216 00 75 148
+149 217 01 64 149
+150 218 00 51 150
+151 251 0 93 151
+152 257 0 78 152
+153 252 0 72 153
+154 250 0 19 154
+155 249 1 83 155
+156 270 2 60 156
+157 254 0 20 157
+158 253 0 36 158
+159 256 0 81 159
+160 255 2 8 160
+161 267 0 47 161
+162 268 0 66 162
+163 269 0 70 163
+164 271 1 10 164
+165 274 1 60 165
+166 275 1 16 166
+167 276 0 19 167
+168 277 1 55 168
+169 278 0 12 169
+170 280 1 38 170
+171 281 1 33 171
+172 279 1 11 172
+173 282 1 31 173
+174 283 0 55 174
+175 284 1 81 175
+176 293 2 70 176
+177 292 2 23 177
+178 285 0 80 178
+179 286 0 88 179
+180 287 1 3 180
+
+181 288 1 12 181
+182 289 0 85 182
+183 290 0 85 183
+184 291 1 60 184
+185 247 1 60 185
+186 248 0 51 186
+187 246 1 74 187
+188 245 0 88 188
+189 220 1 56 189
+190 221 2 4 190
+191 244 2 1 191
+192 242 1 49 192
+193 241 2 17 193
+194 240 0 81 194
+195 294 3 7 195
+196 239 1 46 196
+197 238 0 5 197
+198 237 1 61 198
+199 243 1 27 199
+200 236 0 50 200
+201 234 1 50 201
+202 233 0 95 202
+203 223 1 19 203
+204 222 0 92 204
+205 224 0 76 205
+206 225 0 73 206
+207 227 1 79 207
+208 230 1 56 208
+209 229 1 50 209
+210 231 1 38 210
+211 232 1 20 211
+212 235 2 19 212
+213 168 3 34 213
+214 373 32 7 214
+215 302 6 36 215
+216 301 0 31 216
+217 300 0 67 217
+218 299 0 28 218
+219 298 0 28 219
+220 297 0 71 220
+221 296 0 32 221
+222 295 0 36 222
+223 606 0 56 223
+224 167 2 31 224
+
+225 170 3 6 225
+226 171 1 10 226
+227 173 1 90 227
+228 169 4 52 228
+229 177 0 87 229
+230 228 1 97 230
+231 180 0 76 231
+232 179 1 62 232
+233 181 0 25 233
+234 182 2 32 234
+235 226 1 27 235
+236 185 1 21 236
+237 140 0 77 237
+238 139 1 64 238
+239 135 0 70 239
+240 134 0 77 240
+241 141 0 50 241
+242 143 1 75 242
+243 178 0 89 243
+244 144 1 89 244
+245 145 1 2 245
+246 176 1 2 246
+247 175 1 38 247
+248 174 1 39 248
+249 172 0 33 249
+250 147 2 28 250
+251 148 2 62 251
+252 149 1 74 252
+253 150 2 10 253
+254 151 1 72 254
+255 152 1 85 255
+256 153 1 73 256
+257 154 2 35 257
+258 155 0 10 258
+259 156 4 10 259
+260 146 2 33 260
+261 67 1 93 261
+262 66 2 16 262
+263 142 1 20 263
+264 48 4 9 264
+265 157 2 80 265
+266 158 1 29 266
+267 161 2 32 267
+268 160 2 22 268
+
+269 159 1 35 269
+270 165 1 94 270
+271 166 1 37 271
+272 467 1 91 272
+273 466 1 19 273
+274 441 1 40 274
+275 440 0 18 275
+276 439 1 35 276
+277 438 1 74 277
+278 437 0 70 278
+279 436 1 0 279
+280 435 1 87 280
+281 434 2 98 281
+282 433 0 13 282
+283 432 2 9 283
+284 391 1 99 284
+285 390 0 17 285
+286 381 1 57 286
+287 380 3 34 287
+288 379 0 22 288
+289 378 1 74 289
+290 375 1 43 290
+291 367 6 30 291
+292 374 0 86 292
+293 368 0 67 293
+294 372 1 23 294
+295 369 12 19 295
+296 371 0 68 296
+297 303 869 19 297
+298 346 3 11 298
+299 345 3 30 299
+300 344 5 25 300
+301 323 6 47 301
+302 322 7 77 302
+303 314 10 25 303
+304 313 10 97 304
+305 308 19 74 305
+306 304 10 84 306
+307 305 5 15 307
+308 307 6 54 308
+309 306 2 51 309
+310 309 10 90 310
+311 310 10 35 311
+312 311 21 40 312
+
+313 312 1 48 313
+314 315 4 41 314
+315 316 6 87 315
+316 318 16 48 316
+317 317 9 43 317
+318 321 9 59 318
+319 320 8 52 319
+320 319 4 76 320
+321 328 13 54 321
+322 324 8 33 322
+323 327 10 78 323
+324 329 7 20 324
+325 330 8 63 325
+326 342 2 60 326
+327 326 2 26 327
+328 325 5 54 328
+329 343 1 58 329
+330 341 6 55 330
+331 340 5 23 331
+332 331 36 44 332
+333 332 2 94 333
+334 336 4 0 334
+335 338 4 35 335
+336 339 4 57 336
+337 337 2 33 337
+338 348 4 28 338
+339 349 6 24 339
+340 350 8 3 340
+341 351 7 83 341
+342 347 6 7 342
+343 370 2 55 343
+344 352 6 70 344
+345 353 4 30 345
+346 335 4 33 346
+347 334 5 60 347
+348 333 9 73 348
+349 559 6 24 349
+350 561 12 28 350
+351 562 6 92 351
+352 563 8 78 352
+353 565 16 95 353
+354 564 7 14 354
+355 560 4 69 355
+356 557 3 65 356
+
+357 558 10 35 357
+358 556 2 62 358
+359 553 5 87 359
+360 554 0 75 360
+361 555 1 0 361
+362 356 5 20 362
+363 355 1 54 363
+364 354 14 75 364
+365 357 6 1 365
+366 358 8 54 366
+367 359 8 46 367
+368 360 1 25 368
+369 361 61 76 369
+370 366 3 80 370
+371 365 4 25 371
+372 364 1 39 372
+373 376 9 2 373
+374 377 1 21 374
+375 362 3 60 375
+376 363 9 45 376
+377 382 0 67 377
+378 383 6 20 378
+379 384 2 13 379
+380 385 5 39 380
+381 386 3 53 381
+382 387 0 96 382
+383 622 5 84 383
+384 621 3 79 384
+385 388 9 92 385
+386 620 3 49 386
+387 389 23 17 387
+388 625 3 24 388
+389 623 6 95 389
+390 624 6 5 390
+391 619 0 15 391
+392 413 1 96 392
+393 412 1 22 393
+394 411 1 45 394
+395 410 1 25 395
+396 409 0 88 396
+397 408 1 46 397
+398 407 1 81 398
+399 405 1 35 399
+400 608 2 90 400
+
+401 609 0 95 401
+402 397 2 4 402
+403 396 1 12 403
+404 395 1 26 404
+405 394 1 35 405
+406 393 0 95 406
+407 398 1 37 407
+408 392 0 54 408
+409 399 1 89 409
+410 400 1 15 410
+411 401 1 22 411
+412 402 0 76 412
+413 403 0 81 413
+414 430 2 24 414
+415 431 2 8 415
+416 422 2 32 416
+417 448 2 26 417
+418 449 0 87 418
+419 450 1 68 419
+420 451 1 45 420
+421 415 0 58 421
+422 421 1 55 422
+423 420 1 39 423
+424 423 1 60 424
+425 424 1 90 425
+426 425 1 64 426
+427 426 1 96 427
+428 427 1 26 428
+429 428 1 70 429
+430 429 1 14 430
+431 404 1 0 431
+432 406 1 95 432
+433 419 1 24 433
+434 418 0 72 434
+435 417 1 28 435
+436 416 1 0 436
+437 414 1 80 437
+438 453 1 52 438
+439 452 1 52 439
+440 455 1 93 440
+441 454 1 25 441
+442 456 3 32 442
+443 457 1 69 443
+444 458 0 86 444
+
+445 446 1 51 445
+446 447 2 49 446
+447 445 1 25 447
+448 442 1 8 448
+449 444 1 89 449
+450 443 1 46 450
+451 464 0 74 451
+452 463 1 15 452
+453 462 0 82 453
+454 461 1 53 454
+455 460 1 4 455
+456 459 1 30 456
+457 465 1 22 457
+458 488 2 14 458
+459 487 2 60 459
+460 486 0 45 460
+461 485 1 84 461
+462 484 0 30 462
+463 483 0 20 463
+464 479 1 19 464
+465 480 1 87 465
+466 478 1 49 466
+467 477 2 10 467
+468 481 2 1 468
+469 482 1 27 469
+470 476 1 51 470
+471 475 1 39 471
+472 496 1 23 472
+473 474 1 22 473
+474 473 1 42 474
+475 472 1 22 475
+476 470 2 11 476
+477 469 0 60 477
+478 468 1 51 478
+479 164 0 44 479
+480 502 1 10 480
+481 501 2 8 481
+482 500 2 43 482
+483 471 1 35 483
+484 497 3 31 484
+485 495 1 33 485
+486 494 1 47 486
+487 493 1 36 487
+488 492 2 18 488
+
+489 490 2 18 489
+490 489 11 90 490
+491 491 1 62 491
+492 517 2 53 492
+493 611 4 40 493
+494 520 2 39 494
+495 521 26 45 495
+496 516 1 99 496
+497 518 1 90 497
+498 519 1 24 498
+499 512 2 57 499
+500 511 2 9 500
+501 498 2 32 501
+502 499 2 1 502
+503 504 2 78 503
+504 503 1 63 504
+505 163 2 68 505
+506 162 2 61 506
+507 46 0 40 507
+508 45 1 84 508
+509 505 4 49 509
+510 510 2 94 510
+511 514 3 64 511
+512 515 1 70 512
+513 513 1 76 513
+514 509 3 65 514
+515 508 1 22 515
+516 506 3 14 516
+517 47 1 58 517
+518 49 1 93 518
+519 50 3 0 519
+520 51 3 51 520
+521 42 2 24 521
+522 507 0 24 522
+523 43 3 75 523
+524 64 5 67 524
+525 52 2 3 525
+526 65 0 48 526
+527 63 3 0 527
+528 79 1 42 528
+529 62 1 60 529
+530 68 1 80 530
+531 60 2 43 531
+532 53 3 27 532
+
+533 54 2 97 533
+534 44 6 73 534
+535 55 3 16 535
+536 56 3 35 536
+537 61 1 70 537
+538 84 6 35 538
+539 30 9 80 539
+540 31 10 26 540
+541 32 3 53 541
+542 57 2 14 542
+543 41 3 13 543
+544 40 7 35 544
+545 34 0 32 545
+546 35 2 80 546
+547 36 3 5 547
+548 37 3 91 548
+549 39 1 72 549
+550 38 3 70 550
+551 33 1 93 551
+552 58 13 68 552
+553 59 7 77 553
+TOTAL 3157 14
+
+Note : The extent of Grama Tana within the said village is to the extent specified below
+namely :
+
+Old Survey Number Extent New Survey Number Extent
+373 32.07 214 32.07
+TOTAL 32.07 TOTAL 32.07
+
+Bounderies Of The Old Village Of Danayakanakere
+East :- Nagalapura Village North :- Mariyammanahalli And
+Boundry Danapura Village Boundry
+West :- Devalapura Village South :- Gollarahalli Village
+Boundry Boundry
+
+The proposal specified above issued under section 5 of the Karnataka Land Revenue
+Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the date of final
+notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages and
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+RC-CFS0ADMN/250/2024-RC
+
+(1) (2) (3) (4)
+1 527 21 05 1
+2 528 10 46 2
+3 531 13 66 3
+4 532 11 38 4
+5 533 8 15 5
+6 534 5 40 6
+7 548 5 05 7
+8 545 39 40 8
+9 546 10 72 9
+10 547 13 54 10
+11 549 20 05 11
+
+12 551 0 82 12
+13 552 59 60 13
+14 550 42 19 14
+15 568 8 67 15
+16 525 5 14 16
+17 567 113 92 17
+18 566 6 50 18
+19 587 10 13 19
+20 588 0 46 20
+21 589 0 92 21
+22 590 0 30 22
+23 591 4 73 23
+24 592 22 72 24
+25 595 3 01 25
+26 596 6 26 26
+27 594 7 33 27
+28 593 2 90 28
+29 579 7 37 29
+30 581 2 33 30
+31 580 13 66 31
+32 586 21 36 32
+33 583 3 35 33
+34 584 1 67 34
+35 582 5 47 35
+36 578 4 0 36
+37 577 3 46 37
+38 576 4 37 38
+39 575 7 71 39
+40 585 3 38 40
+41 574 8 50 41
+42 573 20 39 42
+43 602 65 87 43
+44 601 3 69 44
+45 600 6 30 45
+46 599 11 25 46
+47 598 8 84 47
+48 597 39 48 48
+49 605 177 49 49
+50 604 88 20 50
+51 603 72 27 51
+52 572 268 49 52
+53 571 9 17 53
+54 570 13 11 54
+55 569 5 03 55
+56 542 30 80 56
+
+57 544 4 30 57
+58 540 5 40 58
+59 541 6 20 59
+60 543 46 02 60
+61 539 7 59 61
+62 538 10 10 62
+63 536 12 72 63
+64 535 3 89 64
+65 530 8 05 65
+66 537 4 87 66
+67 529 27 65 67
+68 524 218 09 68
+69 523 52 38 69
+70 522 3 95 70
+71 618 2 78 71
+72 526 29 13 72
+
+532/*/© 4.33 4 4.33
+531 13.66 3 13.66
+528/2 7.36 2 7.36
+530/*/* 8.05 65 8.05
+527/*/J1J 8.52 1 8.52
+
+(1) (2) (3) (4)
+1 28 2 60 1
+2 27 4 48 2
+3 26 2 11 3
+4 25 3 90 4
+5 24 8 43 5
+6 23 4 19 6
+7 22 7 30 7
+8 21 8 87 8
+9 20 2 0 9
+10 19 1 65 10
+11 18 51 51 11
+12 17 79 65 12
+13 615 6 40 13
+14 614 0 49 14
+15 616 4 23 15
+16 1 66 56 16
+17 613 18 81 17
+18 617 4 38 18
+19 607 1 9 19
+20 85 11 95 20
+21 86 11 83 21
+22 2 152 49 22
+23 3 19 20 23
+24 14 37 39 24
+25 612 2 57 25
+26 15 75 83 26
+27 16 92 9 27
+28 89 19 65 28
+29 88 5 77 29
+30 87 2 61 30
+31 29 13 13 31
+32 80 2 50 32
+33 78 1 79 33
+34 83 1 99 34
+35 82 1 91 35
+36 81 4 54 36
+37 76 2 37 37
+38 77 2 56 38
+
+39 72 2 38 39
+40 71 2 42 40
+41 69 2 10 41
+42 70 2 17 42
+43 104 2 1 43
+44 103 3 66 44
+45 75 2 62 45
+46 73 0 80 46
+47 74 2 6 47
+48 102 0 90 48
+49 96 1 95 49
+50 95 1 3 50
+51 94 2 2 51
+52 93 2 89 52
+53 90 21 60 53
+54 92 2 24 54
+55 98 2 6 55
+56 97 0 76 56
+57 99 2 0 57
+58 100 1 45 58
+59 101 2 35 59
+60 105 2 13 60
+61 111 1 23 61
+62 110 1 77 62
+63 112 0 59 63
+64 132 0 88 64
+65 109 2 17 65
+66 107 1 63 66
+67 108 1 23 67
+68 106 3 43 68
+69 91 1 70 69
+70 115 1 27 70
+71 116 1 17 71
+72 117 0 72 72
+73 118 1 70 73
+74 119 2 76 74
+75 120 4 84 75
+76 13 0 71 76
+77 4 1 0 77
+78 5 1 27 78
+79 9 2 13 79
+80 10 2 2 80
+81 12 1 90 81
+82 11 2 5 82
+83 121 2 60 83
+
+84 122 0 60 84
+85 123 2 96 85
+86 8 2 9 86
+87 6 2 50 87
+88 7 0 66 88
+89 192 2 2 89
+90 191 1 20 90
+91 195 4 4 91
+92 193 0 60 92
+93 194 1 12 93
+94 197 2 30 94
+95 198 0 72 95
+96 199 2 35 96
+97 203 3 35 97
+98 200 2 8 98
+99 196 2 60 99
+100 189 3 16 100
+101 190 3 40 101
+102 124 2 19 102
+103 126 2 50 103
+104 127 2 63 104
+105 128 2 17 105
+106 125 1 92 106
+107 131 2 38 107
+108 129 0 57 108
+109 130 0 26 109
+110 114 0 25 110
+111 113 1 82 111
+112 133 1 02 112
+113 136 1 83 113
+114 138 2 19 114
+115 183 2 10 115
+116 137 1 40 116
+117 184 2 06 117
+118 187 3 11 118
+119 188 0 90 119
+120 211 6 71 120
+121 201 1 27 121
+122 202 0 75 122
+123 208 2 5 123
+124 204 0 89 124
+125 205 0 80 125
+126 206 0 90 126
+127 207 1 55 127
+128 260 1 15 128
+
+129 261 1 02 129
+130 262 1 7 130
+131 263 1 53 131
+132 264 0 88 132
+133 610 0 23 133
+134 265 1 25 134
+135 273 1 52 135
+136 272 1 12 136
+137 266 2 27 137
+138 259 1 4 138
+139 209 2 64 139
+140 258 2 8 140
+141 210 2 3 141
+142 215 0 31 142
+143 214 0 35 143
+144 212 1 68 144
+145 186 1 13 145
+146 219 0 83 146
+147 213 1 22 147
+148 216 0 75 148
+149 217 1 64 149
+150 218 0 51 150
+151 251 0 93 151
+152 257 0 78 152
+153 252 0 72 153
+154 250 0 19 154
+155 249 1 83 155
+156 270 2 60 156
+157 254 0 20 157
+158 253 0 36 158
+159 256 0 81 159
+160 255 2 8 160
+161 267 0 47 161
+162 268 0 66 162
+163 269 0 70 163
+164 271 1 10 164
+165 274 1 60 165
+166 275 1 16 166
+167 276 0 19 167
+168 277 1 55 168
+169 278 0 12 169
+170 280 1 38 170
+171 281 1 33 171
+172 279 1 11 172
+173 282 1 31 173
+
+174 283 0 55 174
+175 284 1 81 175
+176 293 2 70 176
+177 292 2 23 177
+178 285 0 80 178
+179 286 0 88 179
+180 287 1 3 180
+181 288 1 12 181
+182 289 0 85 182
+183 290 0 85 183
+184 291 1 60 184
+185 247 1 60 185
+186 248 0 51 186
+187 246 1 74 187
+188 245 0 88 188
+189 220 1 56 189
+190 221 2 4 190
+191 244 2 1 191
+192 242 1 49 192
+193 241 2 17 193
+194 240 0 81 194
+195 294 3 7 195
+196 239 1 46 196
+197 238 0 5 197
+198 237 1 61 198
+199 243 1 27 199
+200 236 0 50 200
+201 234 1 50 201
+202 233 0 95 202
+203 223 1 19 203
+204 222 0 92 204
+205 224 0 76 205
+206 225 0 73 206
+207 227 1 79 207
+208 230 1 56 208
+209 229 1 50 209
+210 231 1 38 210
+211 232 1 20 211
+212 235 2 19 212
+213 168 3 34 213
+214 373 32 7 214
+215 302 6 36 215
+216 301 0 31 216
+217 300 0 67 217
+218 299 0 28 218
+
+219 298 0 28 219
+220 297 0 71 220
+221 296 0 32 221
+222 295 0 36 222
+223 606 0 56 223
+224 167 2 31 224
+225 170 3 6 225
+226 171 1 10 226
+227 173 1 90 227
+228 169 4 52 228
+229 177 0 87 229
+230 228 1 97 230
+231 180 0 76 231
+232 179 1 62 232
+233 181 0 25 233
+234 182 2 32 234
+235 226 1 27 235
+236 185 1 21 236
+237 140 0 77 237
+238 139 1 64 238
+239 135 0 70 239
+240 134 0 77 240
+241 141 0 50 241
+242 143 1 75 242
+243 178 0 89 243
+244 144 1 89 244
+245 145 1 2 245
+246 176 1 2 246
+247 175 1 38 247
+248 174 1 39 248
+249 172 0 33 249
+250 147 2 28 250
+251 148 2 62 251
+252 149 1 74 252
+253 150 2 10 253
+254 151 1 72 254
+255 152 1 85 255
+256 153 1 73 256
+257 154 2 35 257
+258 155 0 10 258
+259 156 4 10 259
+260 146 2 33 260
+261 67 1 93 261
+262 66 2 16 262
+263 142 1 20 263
+
+264 48 4 9 264
+265 157 2 80 265
+266 158 1 29 266
+267 161 2 32 267
+268 160 2 22 268
+269 159 1 35 269
+270 165 1 94 270
+271 166 1 37 271
+272 467 1 91 272
+273 466 1 19 273
+274 441 1 40 274
+275 440 0 18 275
+276 439 1 35 276
+277 438 1 74 277
+278 437 0 70 278
+279 436 1 0 279
+280 435 1 87 280
+281 434 2 98 281
+282 433 0 13 282
+283 432 2 9 283
+284 391 1 99 284
+285 390 0 17 285
+286 381 1 57 286
+287 380 3 34 287
+288 379 0 22 288
+289 378 1 74 289
+290 375 1 43 290
+291 367 6 30 291
+292 374 0 86 292
+293 368 0 67 293
+294 372 1 23 294
+295 369 12 19 295
+296 371 0 68 296
+297 303 869 19 297
+298 346 3 11 298
+299 345 3 30 299
+300 344 5 25 300
+301 323 6 47 301
+302 322 7 77 302
+303 314 10 25 303
+304 313 10 97 304
+305 308 19 74 305
+306 304 10 84 306
+307 305 5 15 307
+308 307 6 54 308
+
+309 306 2 51 309
+310 309 10 90 310
+311 310 10 35 311
+312 311 21 40 312
+313 312 1 48 313
+314 315 4 41 314
+315 316 6 87 315
+316 318 16 48 316
+317 317 9 43 317
+318 321 9 59 318
+319 320 8 52 319
+320 319 4 76 320
+321 328 13 54 321
+322 324 8 33 322
+323 327 10 78 323
+324 329 7 20 324
+325 330 8 63 325
+326 342 2 60 326
+327 326 2 26 327
+328 325 5 54 328
+329 343 1 58 329
+330 341 6 55 330
+331 340 5 23 331
+332 331 36 44 332
+333 332 2 94 333
+334 336 4 0 334
+335 338 4 35 335
+336 339 4 57 336
+337 337 2 33 337
+338 348 4 28 338
+339 349 6 24 339
+340 350 8 3 340
+341 351 7 83 341
+342 347 6 7 342
+343 370 2 55 343
+344 352 6 70 344
+345 353 4 30 345
+346 335 4 33 346
+347 334 5 60 347
+348 333 9 73 348
+349 559 6 24 349
+350 561 12 28 350
+351 562 6 92 351
+352 563 8 78 352
+353 565 16 95 353
+
+354 564 7 14 354
+355 560 4 69 355
+356 557 3 65 356
+357 558 10 35 357
+358 556 2 62 358
+359 553 5 87 359
+360 554 0 75 360
+361 555 1 0 361
+362 356 5 20 362
+363 355 1 54 363
+364 354 14 75 364
+365 357 6 1 365
+366 358 8 54 366
+367 359 8 46 367
+368 360 1 25 368
+369 361 61 76 369
+370 366 3 80 370
+371 365 4 25 371
+372 364 1 39 372
+373 376 9 2 373
+374 377 1 21 374
+375 362 3 60 375
+376 363 9 45 376
+377 382 0 67 377
+378 383 6 20 378
+379 384 2 13 379
+380 385 5 39 380
+381 386 3 53 381
+382 387 0 96 382
+383 622 5 84 383
+384 621 3 79 384
+385 388 9 92 385
+386 620 3 49 386
+387 389 23 17 387
+388 625 3 24 388
+389 623 6 95 389
+390 624 6 5 390
+391 619 0 15 391
+392 413 1 96 392
+393 412 1 22 393
+394 411 1 45 394
+395 410 1 25 395
+396 409 0 88 396
+397 408 1 46 397
+398 407 1 81 398
+
+399 405 1 35 399
+400 608 2 90 400
+401 609 0 95 401
+402 397 2 4 402
+403 396 1 12 403
+404 395 1 26 404
+405 394 1 35 405
+406 393 0 95 406
+407 398 1 37 407
+408 392 0 54 408
+409 399 1 89 409
+410 400 1 15 410
+411 401 1 22 411
+412 402 0 76 412
+413 403 0 81 413
+414 430 2 24 414
+415 431 2 8 415
+416 422 2 32 416
+417 448 2 26 417
+418 449 0 87 418
+419 450 1 68 419
+420 451 1 45 420
+421 415 0 58 421
+422 421 1 55 422
+423 420 1 39 423
+424 423 1 60 424
+425 424 1 90 425
+426 425 1 64 426
+427 426 1 96 427
+428 427 1 26 428
+429 428 1 70 429
+430 429 1 14 430
+431 404 1 0 431
+432 406 1 95 432
+433 419 1 24 433
+434 418 0 72 434
+435 417 1 28 435
+436 416 1 0 436
+437 414 1 80 437
+438 453 1 52 438
+439 452 1 52 439
+440 455 1 93 440
+441 454 1 25 441
+442 456 3 32 442
+443 457 1 69 443
+
+444 458 0 86 444
+445 446 1 51 445
+446 447 2 49 446
+447 445 1 25 447
+448 442 1 8 448
+449 444 1 89 449
+450 443 1 46 450
+451 464 0 74 451
+452 463 1 15 452
+453 462 0 82 453
+454 461 1 53 454
+455 460 1 4 455
+456 459 1 30 456
+457 465 1 22 457
+458 488 2 14 458
+459 487 2 60 459
+460 486 0 45 460
+461 485 1 84 461
+462 484 0 30 462
+463 483 0 20 463
+464 479 1 19 464
+465 480 1 87 465
+466 478 1 49 466
+467 477 2 10 467
+468 481 2 1 468
+469 482 1 27 469
+470 476 1 51 470
+471 475 1 39 471
+472 496 1 23 472
+473 474 1 22 473
+474 473 1 42 474
+475 472 1 22 475
+476 470 2 11 476
+477 469 0 60 477
+478 468 1 51 478
+479 164 0 44 479
+480 502 1 10 480
+481 501 2 8 481
+482 500 2 43 482
+483 471 1 35 483
+484 497 3 31 484
+485 495 1 33 485
+486 494 1 47 486
+487 493 1 36 487
+488 492 2 18 488
+
+489 490 2 18 489
+490 489 11 90 490
+491 491 1 62 491
+492 517 2 53 492
+493 611 4 40 493
+494 520 2 39 494
+495 521 26 45 495
+496 516 1 99 496
+497 518 1 90 497
+498 519 1 24 498
+499 512 2 57 499
+500 511 2 9 500
+501 498 2 32 501
+502 499 2 1 502
+503 504 2 78 503
+504 503 1 63 504
+505 163 2 68 505
+506 162 2 61 506
+507 46 0 40 507
+508 45 1 84 508
+509 505 4 49 509
+510 510 2 94 510
+511 514 3 64 511
+512 515 1 70 512
+513 513 1 76 513
+514 509 3 65 514
+515 508 1 22 515
+516 506 3 14 516
+517 47 1 58 517
+518 49 1 93 518
+519 50 3 0 519
+520 51 3 51 520
+521 42 2 24 521
+522 507 0 24 522
+523 43 3 75 523
+524 64 5 67 524
+525 52 2 3 525
+526 65 0 48 526
+527 63 3 0 527
+528 79 1 42 528
+529 62 1 60 529
+530 68 1 80 530
+531 60 2 43 531
+532 53 3 27 532
+533 54 2 97 533
+
+534 44 6 73 534
+535 55 3 16 535
+536 56 3 35 536
+537 61 1 70 537
+538 84 6 35 538
+539 30 9 80 539
+540 31 10 26 540
+541 32 3 53 541
+542 57 2 14 542
+543 41 3 13 543
+544 40 7 35 544
+545 34 0 32 545
+546 35 2 80 546
+547 36 3 5 547
+548 37 3 91 548
+549 39 1 72 549
+550 38 3 70 550
+551 33 1 93 551
+552 58 13 68 552
+553 59 7 77 553
+
+373 32.07 214 32.07
+
+PR-1468
+
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/338/2024-RC Karnataka Government Secretariat
+E- 1346883 Multi Storied Building
+Bengaluru 560-001,
+Date:10.09.2024
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No RC-CFS0ADMN/338/2024/RC E-
+1346883 Dated 06.03.2024 regarding altering the limits of HIREHADAGALI village
+of Hadagali Taluk and VIJAYANAGARA District and constituting a new revenue
+sub village called as Kalenahalli sub village was published as required by section 6
+of the Karnataka Land Revenue Act, 1964 (Karnataka act No.12 of 1964) in the
+Karnataka Gazette dated 02.07.2024 inviting objections or suggestions from all the
+persons likely to be affected thereby within thirty days from the date of its publication
+in the Official Gazette addressed to the Deputy Commissioner VIJAYANAGARA
+district.
+And whereas, the said gazette was made available to the public on
+Dated: 09.07.2024 And whereas, no objections and suggestions have been received;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE
+
+Land bearing survey numbers and extent specified below in column(3) of the
+table shall be declared as habitation area of Kalenahalli village of Hadagali Taluk of
+Vijayanagara District convert the same to form hamlet/part within the boundary of
+Hirehadagali revenue village and same will here in after be named as Kalenahalli of
+Hirehadagali village in Hadagali Taluk of Vijayanagara District.
+
+TABLE
+Name of the
+revenue
+New name
+village in
+of the Survey
+Which un Total extent Boundaries
+unrecorded number
+recorded
+habitation
+habitation is
+located
+4 5
+1 2 3
+Acre CentsAnna East West North South
+Sy.no:5
+Hire Sy.no:5 Sy.no:5 5/b/1 & Sy.no:5
+Kalenahalli 55/b/1 2 40 0
+hadagali 5/C 5/a b/2 5/b/2
+
+Sy.no:5 Sy.no:5 Sy.no:5 Sy.no:5 Hire
+Kalenahalli 56/b/1 2 18 0
+hadagali 6/b/2 6/a 7 5/b/1
+Total extent of unrecorded
+4 58 0
+habitation
+
+It is hereby declared that the extent of land indicated in the columns(4) above
+with survey numbers specified in column (3) on which the said unrecorded habitation
+located is converted as habitation area( Gramatana) of Kalenahalli hamlet/part of
+Hirehadagali village in Hadagali Taluk of Vijayanagara District.
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages and
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+1 2 3 4 5
+
+PR-1469
+
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/249/2024-RC Karnataka Government Secretariat
+E- 1325620 Multi Storied Building
+Bengaluru 560-001,
+Date:23.08.2024
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No. RC-CFS0ADMN/249/2024-RC (E-
+1325620) Date:-19/02/2024 regarding altering the limits of 76 VENKATAPUR
+village of HOSPET Taluk and VIJAYANAGARA District and constituting a new
+revenue sub village called as VENKATAPURA CAMP sub village was published as
+required by section 6 of the Karnataka Land Revenue Act, 1964 (Karnataka act No.12
+of 1964) in the Karnataka Gazette Date:-02.07.2024 inviting objections or suggestions
+from all the persons likely to be affected thereby within thirty days from the date of its
+publication in the Official Gazette addressed to the Deputy Commissioner
+VIJAYANAGARA district.
+
+And whereas, the said gazette was made available to the public on
+Dated: 12/07/2024 And whereas, no objections and suggestions have been received;
+
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE
+
+Land bearing survey numbers and extent specified below in column (3) of the
+table shall be declared as habitation area of called VENKATAPUR CAMP village
+of HOSPET Taluk of VIJAYANAGARA District convert the same to form
+hamlet/part within the boundary of 76 VENKATAPUR revenue village and same
+will here in after be named as VENKATAPUR CAMP of 76 VENKATAPUR
+village in HOSPET Taluk of VIJAYANAGARA District.
+
+TABLE
+Name of the
+revenue
+New name
+village in
+of the un Survey
+Which un Total extent Boundaries
+recorded number
+recorded
+habitation
+habitation is
+located
+4 5
+1 2 3
+Acre Gunta Anna East West North South
+Sy.No.
+76 Venkata Sy.No Sy.No. 380 and Sy.No.
+381 06 27 00
+Venkatapur pur Camp 382 871/1A Sy.No 870/1A
+
+Sy.No
+. Sy.No. Sy.No.
+76 Venkata 871/1A Sy.No 871/1 325, 871/1A
+12 95 00
+Venkatapur pur Camp (PART) 881 A 326 and Part
+Part 327 area
+area
+Total 19 22 00
+
+It is hereby declared that the extent of land indicated in the columns(4) above
+with survey numbers specified in column (3) on which the said unrecorded habitation
+located is converted as habitation area( Gramatana) of VENKATAPUR CAMP
+hamlet/part of 76 VENKATAPUR village in HOSPET Taluk of VIJAYANAGARA
+District.
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages and
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+1 2 3 4 5
+381 06 27
+
+PR-1470
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/256/2024-RC Karnataka Government Secretariat
+E- 1326263 Multi Storied Building
+Bengaluru-560 001,
+Date:29-07-2024.
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No:RC-CFS0ADMN/256/2024/RC E-
+1326263 Dated:19.02.2024 regarding altering the limits of SHIGENAHALLI village
+of HAGARIBOMMANAHALLI Taluk VIJAYANAGARA District and constituting
+a new revenue village called SHIGENAHALLI-3 was published as required by
+section 6 of the Karnataka Land Revenue Act, 1964 (Karnataka act No.12 of 1964) in
+the Karnataka Gazette Dated:29.02.2024 inviting objections or suggestions from all
+the persons likely to be affected thereby within thirty days from the date of its
+publication in the Official Gazette addressed to the Deputy Commissioner
+VIJAYANAGARA district.
+And whereas, the said gazette was made available to the public on
+Dated:25.03.2024 And whereas, no objections and suggestions have been received;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE – 1
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+SHIGENAHALLI village of HAGARIBOMMANAHALLI Taluk
+VIJAYANAGARA District to form a new revenue village called as
+SHIGENAHALLI-3 village of HAGARIBOMMANAHALLI Taluk
+
+VIJAYANAGARA District along with the survey numbers included in column (4)
+thereof.
+TABLE-1
+Extent of areas Survey numbers specified in
+Old Survey
+Transferred column(2) which are to be
+Sl Numbers which
+to new village included to form new village
+No areas are
+SHIGENAHALLI-3 SHIGENAHALLI-3 and new
+excluded
+Acre Cents survey numbers assigned to them
+(1) (2) (3) (4)
+Excluded From
+
+Shigenahalli
+1. 204 9 54 1
+2. 205 7 73 2
+3. 2 73 12 3
+4. 209 8 9 4
+5. 11 5 23 5
+6. 12 10 60 6
+7. 213 11 4 7
+8. 13 24 73 8
+9. 10 4 5 9
+10. 3 6 2 10
+11. 9 7 36 11
+12. 207 3 60 12
+13. 206 3 25 13
+14. 4 4 45 14
+15. 87 7 99 15
+16. 5 7 37 16
+17. 6 14 12 17
+18. 208 2 24 18
+19. 14 5 99 19
+20. 15 10 2 20
+21. 16 12 18 21
+22. 17 8 37 22
+23. 8 9 3 23
+24. 7 11 46 24
+25. 86 8 99 25
+26. 88 10 59 26
+27. 85 8 22 27
+28. 89 9 48 28
+29. 90 10 59 29
+30. 84 28 49 30
+31. 95 5 5 31
+
+32. 96 4 54 32
+33. 97 10 19 33
+34. 94 15 3 34
+35. 91 11 24 35
+36. 92 7 58 36
+37. 93 5 45 37
+38. 99 19 18 38
+39. 98 8 6 39
+40. 100 8 85 40
+41. 101 3 17 41
+42. 102 16 90 42
+43. 103 28 34 43
+44. 104 11 47 44
+45. 105 24 23 45
+46. 106 16 63 46
+47. 107 18 51 47
+48. 108 50 21 48
+49. 109 17 20 49
+50. 187 21 11 50
+51. 188 10 29 51
+52. 189 15 11 52
+53. 190 6 04 53
+54. 191 6 27 54
+55. 192 10 84 55
+56. 193 3 56 56
+57. 196 24 62 57
+58. 197 12 16 58
+59. 198 22 33 59
+60. 195 8 15 60
+61. 194 17 05 61
+62. 186 10 15 62
+63. 184 10 33 63
+64. 185 4 30 64
+65. 201 8 38 65
+66. 200 5 20 66
+67. 199 52 60 67
+68. 202 9 18 68
+69. 182 15 97 69
+70. 179 10 01 70
+71. 180 14 63 71
+72. 181 4 52 72
+73. 216 13 57 73
+
+74. 217 13 62 74
+75. 218 20 49 75
+76. 219 8 99 76
+77. 178 9 02 77
+78. 220 4 63 78
+79. 222 16 66 79
+80. 203 20 53 80
+81. 223 16 85 81
+82. 224 16 93 82
+TOTAL 1069 86
+
+Note : The extent of Grama Tana within the said village is to the extent specified
+below namely :
+
+Old Survey Number Extent New Survey Number Extent
+190 6.04 53 6.04
+Total 6.04 Total 6.04
+
+Bounderies Of The New Village Of Shigenahalli-3
+
+East :-Shigenahalli Village boundary North :- Shigenahalli Village
+boundry
+West: - Bannigola & Basarakodu South :-Basarakodu village
+Village boundary boundary
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the
+SHIGENAHALLI village specified in the column (2) shall be assigned new survey
+numbers in the said villages specified in the column (4).
+
+TABLE-2
+
+Survey numbers remaining Area New Survey numbers
+in village Shigenahalli after assigned to the
+Sl excluding the survey remaining survey
+No numbers which are to be Acre Cents numbers in village
+included to form New Shigenahalli specified
+villages Shigenahalli-3 in column(2)
+(1) (2) (3) (4)
+(a) (b)
+1. 1 96 49 1
+2. 210 10 73 2
+3. 211 7 62 3
+4. 212 11 51 4
+5. 35 11 84 5
+
+6. 36 13 49 6
+7. 40 9 18 7
+8. 41 17 98 8
+9. 39 6 87 9
+10. 38 6 28 10
+11. 37 6 97 11
+12. 33 7 8 12
+13. 34 18 44 13
+14. 30 9 62 14
+15. 29 6 3 15
+16. 27 20 93 16
+17. 23 13 52 17
+18. 214 16 10 18
+19. 215 7 50 19
+20. 21 5 45 20
+21. 22 9 12 21
+22. 24 5 21 22
+23. 71 2 90 23
+24. 72 9 97 24
+25. 20 4 20 25
+26. 19 13 20 26
+27. 18 3 62 27
+28. 74 5 14 28
+29. 73 3 99 29
+30. 70 4 82 30
+31. 25 2 5 31
+32. 26 2 57 32
+33. 28 6 37 33
+34. 31 19 16 34
+35. 32 2 3 35
+36. 44 5 35 36
+37. 43 11 67 37
+38. 42 3 67 38
+39. 48 21 78 39
+40. 49 28 68 40
+41. 50 11 38 41
+42. 47 1 84 42
+43. 45 11 6 43
+44. 46 3 98 44
+45. 66 1 50 45
+46. 67 5 41 46
+47. 68 9 9 47
+
+48. 69 3 82 48
+49. 75 14 15 49
+50. 77 7 59 50
+51. 83 8 68 51
+52. 82 10 74 52
+53. 81 6 68 53
+54. 80 5 46 54
+55. 79 6 14 55
+56. 78 12 79 56
+57. 76 10 66 57
+58. 62 0 21 58
+59. 65 0 70 59
+60. 61 6 32 60
+61. 64 0 37 61
+62. 51 6 24 62
+63. 63 0 31 63
+64. 60 0 32 64
+65. 126 5 50 65
+66. 112 10 56 66
+67. 111 7 79 67
+68. 113 7 59 68
+69. 125 5 88 69
+70. 127 16 20 70
+71. 59 1 2 71
+72. 53 9 55 72
+73. 52 17 44 73
+74. 54 7 3 74
+75. 55 6 48 75
+76. 56 17 52 76
+77. 57 17 79 77
+78. 58 10 58 78
+79. 135 27 4 79
+80. 134 4 18 80
+81. 133 6 85 81
+82. 128 9 58 82
+83. 129 0 61 83
+84. 124 5 79 84
+85. 114 21 30 85
+86. 115 2 82 86
+87. 110 21 36 87
+88. 116 14 72 88
+89. 118 6 32 89
+
+90. 119 9 37 90
+91. 120 3 14 91
+92. 121 7 7 92
+93. 117 6 63 93
+94. 122 14 61 94
+95. 123 15 33 95
+96. 130 10 30 96
+97. 131 13 96 97
+98. 132 9 61 98
+99. 173 8 55 99
+100. 170 11 95 100
+101. 171 0 71 101
+102. 172 1 1 102
+103. 138 11 16 103
+104. 137 11 94 104
+105. 140 12 51 105
+106. 141 19 45 106
+107. 142 13 99 107
+108. 143 8 99 108
+109. 136 7 43 109
+110. 144 9 90 110
+111. 145 6 28 111
+112. 146 4 49 112
+113. 147 10 51 113
+114. 148 30 78 114
+115. 149 17 73 115
+116. 151 11 0 116
+117. 150 10 67 117
+118. 152 14 14 118
+119. 153 11 83 119
+120. 154 44 3 120
+121. 156 6 14 121
+122. 155 7 6 122
+123. 157 10 81 123
+124. 158 14 26 124
+125. 167 4 12 125
+126. 168 2 30 126
+127. 139 2 65 127
+128. 169 11 19 128
+129. 166 13 2 129
+130. 165 8 97 130
+131. 174 1 95 131
+
+132. 175 11 37 132
+133. 176 8 40 133
+134. 177 10 4 134
+135. 183 17 0 135
+136. 221 15 55 136
+137. 164 3 13 137
+138. 163 6 72 138
+139. 159 17 25 139
+140. 160 15 97 140
+141. 162 15 88 141
+142. 161 55 81 142
+143. 226 18 87 143
+144. 227 14 62 144
+145. 225 22 14 145
+TOTAL 1560 36
+
+Note : The extent of Grama Tana within the said village is to the extent
+specified below namely :
+
+Old Survey Number Extent New Survey Number Extent
+161/B1 6.88 142 6.88
+161/C+D 16.30 142 16.30
+Total 23.18 Total 23.18
+
+Bounderies Of The Old Village of Shigenahalli
+
+East :-Rameshwarabandi & Tambrahalli North :-Koppala District
+villages boundary boundary
+West :- Shigenahalli-3 & Bannigola villages South :- Basarakodu &
+boundary Tambrahalli Village boundary
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages and
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+RC-CFS0ADMN/256/2024-RC
+
+1 2 3 4
+1.
+204 9 54 1
+2. 205 7 73 2
+3. 2 73 12 3
+4. 209 8 9 4
+5. 11 5 23 5
+6. 12 10 60 6
+7. 213 11 4 7
+8. 13 24 73 8
+
+9. 10 4 5 9
+10. 3 6 2 10
+11. 9 7 36 11
+12. 207 3 60 12
+13. 206 3 25 13
+14. 4 4 45 14
+15. 87 7 99 15
+16. 5 7 37 16
+17. 6 14 12 17
+18. 208 2 24 18
+19. 14 5 99 19
+20. 15 10 2 20
+21. 16 12 18 21
+22. 17 8 37 22
+23. 8 9 3 23
+24. 7 11 46 24
+25. 86 8 99 25
+26. 88 10 59 26
+27. 85 8 22 27
+28. 89 9 48 28
+29. 90 10 59 29
+30. 84 28 49 30
+31. 95 5 5 31
+32. 96 4 54 32
+33. 97 10 19 33
+34. 94 15 3 34
+35. 91 11 24 35
+36. 92 7 58 36
+37. 93 5 45 37
+38. 99 19 18 38
+39. 98 8 6 39
+40. 100 8 85 40
+41. 101 3 17 41
+42. 102 16 90 42
+43. 103 28 34 43
+44. 104 11 47 44
+45. 105 24 23 45
+46. 106 16 63 46
+47. 107 18 51 47
+48. 108 50 21 48
+49. 109 17 20 49
+50. 187 21 11 50
+51. 188 10 29 51
+52. 189 15 11 52
+
+53. 190 6 04 53
+54. 191 6 27 54
+55. 192 10 84 55
+56. 193 3 56 56
+57. 196 24 62 57
+58. 197 12 16 58
+59. 198 22 33 59
+60. 195 8 15 60
+61. 194 17 05 61
+62. 186 10 15 62
+63. 184 10 33 63
+64. 185 4 30 64
+65. 201 8 38 65
+66. 200 5 20 66
+67. 199 52 60 67
+68. 202 9 18 68
+69. 182 15 97 69
+70. 179 10 01 70
+71. 180 14 63 71
+72. 181 4 52 72
+73. 216 13 57 73
+74. 217 13 62 74
+75. 218 20 49 75
+76. 219 8 99 76
+77. 178 9 02 77
+78. 220 4 63 78
+79. 222 16 66 79
+80. 203 20 53 80
+81. 223 16 85 81
+82. 224 16 93 82
+
+190 6.04 53 6.04
+
+(1) (2) (3) (4)
+(a) (b)
+1. 1 96 49 1
+2. 210 10 73 2
+3. 211 7 62 3
+4. 212 11 51 4
+5. 35 11 84 5
+6. 36 13 49 6
+7. 40 9 18 7
+8. 41 17 98 8
+9. 39 6 87 9
+10. 38 6 28 10
+11. 37 6 97 11
+12. 33 7 8 12
+13. 34 18 44 13
+14. 30 9 62 14
+15. 29 6 3 15
+16. 27 20 93 16
+17. 23 13 52 17
+18. 214 16 10 18
+19. 215 7 50 19
+20. 21 5 45 20
+21. 22 9 12 21
+22. 24 5 21 22
+23. 71 2 90 23
+24. 72 9 97 24
+25. 20 4 20 25
+
+26. 19 13 20 26
+27. 18 3 62 27
+28. 74 5 14 28
+29. 73 3 99 29
+30. 70 4 82 30
+31. 25 2 5 31
+32. 26 2 57 32
+33. 28 6 37 33
+34. 31 19 16 34
+35. 32 2 3 35
+36. 44 5 35 36
+37. 43 11 67 37
+38. 42 3 67 38
+39. 48 21 78 39
+40. 49 28 68 40
+41. 50 11 38 41
+42. 47 1 84 42
+43. 45 11 6 43
+44. 46 3 98 44
+45. 66 1 50 45
+46. 67 5 41 46
+47. 68 9 9 47
+48. 69 3 82 48
+49. 75 14 15 49
+50. 77 7 59 50
+51. 83 8 68 51
+52. 82 10 74 52
+53. 81 6 68 53
+54. 80 5 46 54
+55. 79 6 14 55
+56. 78 12 79 56
+57. 76 10 66 57
+58. 62 0 21 58
+59. 65 0 70 59
+60. 61 6 32 60
+61. 64 0 37 61
+62. 51 6 24 62
+63. 63 0 31 63
+64. 60 0 32 64
+65. 126 5 50 65
+66. 112 10 56 66
+67. 111 7 79 67
+
+68. 113 7 59 68
+69. 125 5 88 69
+70. 127 16 20 70
+71. 59 1 2 71
+72. 53 9 55 72
+73. 52 17 44 73
+74. 54 7 3 74
+75. 55 6 48 75
+76. 56 17 52 76
+77. 57 17 79 77
+78. 58 10 58 78
+79. 135 27 4 79
+80. 134 4 18 80
+81. 133 6 85 81
+82. 128 9 58 82
+83. 129 0 61 83
+84. 124 5 79 84
+85. 114 21 30 85
+86. 115 2 82 86
+87. 110 21 36 87
+88. 116 14 72 88
+89. 118 6 32 89
+90. 119 9 37 90
+91. 120 3 14 91
+92. 121 7 7 92
+93. 117 6 63 93
+94. 122 14 61 94
+95. 123 15 33 95
+96. 130 10 30 96
+97. 131 13 96 97
+98. 132 9 61 98
+99. 173 8 55 99
+100. 170 11 95 100
+101. 171 0 71 101
+102. 172 1 1 102
+103. 138 11 16 103
+104. 137 11 94 104
+105. 140 12 51 105
+106. 141 19 45 106
+107. 142 13 99 107
+108. 143 8 99 108
+109. 136 7 43 109
+
+110. 144 9 90 110
+111. 145 6 28 111
+112. 146 4 49 112
+113. 147 10 51 113
+114. 148 30 78 114
+115. 149 17 73 115
+116. 151 11 0 116
+117. 150 10 67 117
+118. 152 14 14 118
+119. 153 11 83 119
+120. 154 44 3 120
+121. 156 6 14 121
+122. 155 7 6 122
+123. 157 10 81 123
+124. 158 14 26 124
+125. 167 4 12 125
+126. 168 2 30 126
+127. 139 2 65 127
+128. 169 11 19 128
+129. 166 13 2 129
+130. 165 8 97 130
+131. 174 1 95 131
+132. 175 11 37 132
+133. 176 8 40 133
+134. 177 10 4 134
+135. 183 17 0 135
+136. 221 15 55 136
+137. 164 3 13 137
+138. 163 6 72 138
+139. 159 17 25 139
+140. 160 15 97 140
+141. 162 15 88 141
+142. 161 55 81 142
+143. 226 18 87 143
+144. 227 14 62 144
+145. 225 22 14 145
+
+161/©1 6.88 142 6.88
+161/¹+r 16.30 142 16.30
+
+PR-1471
+GOVERNMENT OF KARNATAKA
+
+RC-CFS0ADMN/339/2024-RC Karnataka Government Secretariat
+E- 1347110 Multi Storied Building
+Bengaluru-560 001,
+Date:11.09.2024.
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No: RC-CFS0ADMN/339/2024/RC
+E-1347110 Dated 06.03.2024 regarding altering the limits of village of NAVALI village
+of Hadagali Taluk VIJAYANAGARA District and constituting a new revenue village
+called Hosa Honnuru was published as required by section 6 of the Karnataka Land
+Revenue Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette Dated
+02.07.2024 inviting objections or suggestions from all the persons likely to be affected
+thereby within thirty days from the date of its publication in the Official Gazette
+addressed to the Deputy Commissioner VIJAYANAGARA district.
+
+And whereas, the said gazette was made available to the public on
+Dated:08.07.2024 And whereas, no objections and suggestions have been received;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE – 1
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+NAVALI village of Hadagali Taluk VIJAYANAGARA District to form a new
+revenue village called as village of Hosa Honnuru village of Hadagali Taluk
+VIJAYANAGARA District along with the survey numbers included in column (4)
+thereof.
+TABLE-1
+Old Survey Extent of areas Survey Numbers specified in
+Numbers which transferred to new column (2) which are to be
+Sl
+areas are Village Hosa Honnuru included to form new Village
+No
+Excluded From Hosa Honnuru and new survey
+Acre Cents
+Navali numbers assigned to them
+(1) (2) (3) (4) (5)
+1 256 9 69 1
+2 254 6 6 2
+3 255 4 89 3
+4 253 93 20 4
+5 273 5 64 5
+6 274 6 57 6
+7 275 5 88 7
+8 279 15 47 8
+9 278 8 35 9
+10 277 8 44 10
+11 276 13 20 11
+12 272 6 69 12
+13 261 4 20 13
+14 258 1 14 14
+15 260 12 87 15
+16 259 8 76 16
+17 264 7 31 17
+18 263 6 76 18
+19 262 12 58 19
+20 271 14 89 20
+21 270 7 89 21
+22 269 10 0 22
+23 265 1 43 23
+
+24 268 1 4 24
+25 266 14 13 25
+26 267 0 49 26
+27 195 12 18 27
+28 194 14 37 28
+29 193 2 59 29
+30 191 6 71 30
+31 192 16 51 31
+32 186 12 17 32
+33 157 9 77 33
+34 187 15 16 34
+35 188 10 99 35
+36 190 7 46 36
+37 189 13 51 37
+38 136 9 92 38
+39 197 13 39 39
+40 198 3 72 40
+41 199 5 26 41
+42 200 4 11 42
+43 196 15 30 43
+44 201 13 80 44
+45 202 12 33 45
+46 203 8 93 46
+47 204 26 25 47
+48 205 10 13 48
+49 206 9 87 49
+50 207 5 76 50
+51 208 2 22 51
+52 214 10 29 52
+53 209 14 84 53
+54 213 12 14 54
+55 210 13 88 55
+56 211 12 6 56
+57 212 9 65 57
+58 216 7 60 58
+59 215 7 51 59
+60 220 18 16 60
+61 217 10 91 61
+62 218 11 34 62
+63 227 41 78 63
+64 228 17 30 64
+65 229 26 15 65
+
+66 226 5 23 66
+67 225 10 3 67
+68 224 6 18 68
+69 223 4 2 69
+70 219 12 49 70
+71 221 12 43 71
+72 222 10 22 72
+73 257 1 28 73
+74 251 9 40 74
+75 252 14 63 75
+76 250 15 47 76
+77 243 1 42 77
+78 242 11 45 78
+79 241 15 9 79
+80 240 15 95 80
+81 239 9 7 81
+82 238 2 17 82
+83 237 9 49 83
+84 236 17 23 84
+85 231 14 62 85
+86 230 11 22 86
+87 232 4 12 87
+88 235 24 59 88
+89 233 8 18 89
+90 234 16 26 90
+91 244 16 95 91
+92 249 17 8 92
+93 248 9 4 93
+94 245 10 87 94
+95 281 14 53 95
+96 282 15 78 96
+97 283 14 68 97
+98 285 33 87 98
+99 284 27 66 99
+100 286 13 43 100
+101 287 12 83 101
+102 246 224 30 102
+103 247 134 51 103
+104 289 4 0 104
+105 290 3 90 105
+106 291 4 30 106
+Total 1583 56
+
+Note:The extent of grama tana Within the said village is to the extent specified
+below namely:
+
+Old Survey Number Extent New Survey Number
+221 12.43 71
+222 PYKI 07.88 72
+256 09.69 1
+Total 30.00 Total
+
+Boundaries of the new Village Hosa Honnuru
+
+East: Navali Village Boundary North: Navali Village Boundary
+West:63-Timmalapura Village Boundary South: 60- Hal Timmalapura Village
+Boundary
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the NAVALI
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+
+TABLE-2
+
+Survey Numbers remaining in New survey numbers
+Area
+NAVALI village after excluding assigned to the remaining
+Sl No the survey numbers which are to survey numbers in village
+be included to form new village NAVALI specified in
+Acre Cents
+Hosa Honnuru column (2)
+(1) (2) (3) (4)
+1 11 17 34 1
+2 12 6 80 2
+3 13 5 94 3
+4 14 10 29 4
+5 15 10 28 5
+6 16 7 32 6
+7 17 7 81 7
+8 18 7 24 8
+9 19 8 85 9
+10 20 0 69 10
+11 21 7 42 11
+12 22 7 88 12
+13 23 9 67 13
+14 24 23 6 14
+15 25 14 15 15
+16 26 4 97 16
+17 27 8 43 17
+18 28 1 27 18
+
+19 29 9 77 19
+20 30 8 65 20
+21 31 11 41 21
+22 32 5 36 22
+23 33 6 2 23
+24 34 2 9 24
+25 35 6 78 25
+26 36 3 66 26
+27 37 3 24 27
+28 38 8 65 28
+29 39 13 60 29
+30 40 7 25 30
+31 41 7 38 31
+32 42 7 68 32
+33 43 10 3 33
+34 44 9 56 34
+35 45 12 16 35
+36 46 6 52 36
+37 47 11 98 37
+38 48 8 80 38
+39 49 7 25 39
+40 50 6 56 40
+41 51 11 7 41
+42 52 12 84 42
+43 53 14 78 43
+44 54 10 30 44
+45 55 10 14 45
+46 56 5 73 46
+47 57 9 43 47
+48 58 7 2 48
+49 59 8 46 49
+50 60 0 81 50
+51 61 2 9 51
+52 62 6 35 52
+53 63 7 13 53
+54 64 7 84 54
+55 65 9 22 55
+56 66 6 82 56
+57 67 2 38 57
+58 68 23 13 58
+59 69 9 25 59
+60 70 11 31 60
+
+61 71 9 38 61
+62 72 10 11 62
+63 73 9 70 63
+64 74 14 80 64
+65 75 14 66 65
+66 76 10 39 66
+67 77 9 43 67
+68 78 11 17 68
+69 79 6 57 69
+70 80 1 76 70
+71 81 25 27 71
+72 82 7 82 72
+73 83 9 96 73
+74 84 8 11 74
+75 85 6 16 75
+76 86 11 1 76
+77 87 12 25 77
+78 88 11 26 78
+79 89 9 70 79
+80 90 4 72 80
+81 91 15 0 81
+82 92 7 86 82
+83 93 2 77 83
+84 94 9 75 84
+85 95 4 11 85
+86 96 18 0 86
+87 97 6 73 87
+88 98 31 82 88
+89 99 21 42 89
+90 100 3 32 90
+91 101 11 87 91
+92 102 19 58 92
+93 103 11 29 93
+94 104 41 31 94
+95 105 5 91 95
+96 106 20 42 96
+97 107 14 54 97
+98 108 6 22 98
+99 109 7 11 99
+100 110 10 24 100
+101 111 16 47 101
+102 112 7 89 102
+
+103 113 8 47 103
+104 114 7 48 104
+105 115 13 54 105
+106 116 19 21 106
+107 117 3 59 107
+108 118 17 44 108
+109 119 8 56 109
+110 120 10 24 110
+111 121 11 58 111
+112 122 22 56 112
+113 123 3 5 113
+114 124 13 29 114
+115 125 12 77 115
+116 126 14 42 116
+117 127 4 69 117
+118 128 5 79 118
+119 129 14 68 119
+120 130 10 21 120
+121 131 21 16 121
+122 132 6 74 122
+123 133 7 39 123
+124 134 13 82 124
+125 135 29 18 125
+126 138 38 76 126
+127 139 0 36 127
+128 140 7 86 128
+129 137 3 99 129
+130 156 12 7 130
+131 155 11 23 131
+132 154 11 7 132
+133 153 9 13 133
+134 152 4 64 134
+135 151 3 70 135
+136 150 7 32 136
+137 149 8 12 137
+138 148 7 54 138
+139 147 7 83 139
+140 146 11 11 140
+141 145 6 82 141
+142 142 6 78 142
+143 141 10 4 143
+144 143 8 42 144
+
+145 144 7 94 145
+146 159 9 56 146
+147 160 7 33 147
+148 162 8 25 148
+149 161 2 99 149
+150 158 14 44 150
+151 184 15 88 151
+152 288 9 71 152
+153 185 2 16 153
+154 280 264 33 154
+155 183 3 64 155
+156 182 1 85 156
+157 181 6 63 157
+158 180 6 53 158
+159 179 11 61 159
+160 178 12 75 160
+161 163 8 93 161
+162 164 14 50 162
+163 177 8 19 163
+164 176 8 33 164
+165 175 6 42 165
+166 174 12 38 166
+167 173 6 31 167
+168 172 6 96 168
+169 171 11 76 169
+170 170 5 63 170
+171 169 0 42 171
+172 168 2 96 172
+173 167 1 60 173
+174 165 10 96 174
+175 166 7 64 175
+176 10 0 29 176
+177 9 4 58 177
+178 8 1 59 178
+179 7 0 82 179
+180 6 3 95 180
+181 5 19 84 181
+182 4 10 77 182
+183 2 14 88 183
+184 1 12 52 184
+185 3 9 53 185
+Total 2041 81
+
+Note: The extent of grama tana Within the said village is to the extent specified
+below namely
+Old Survey Number Extent New Survey Number
+11pyki 14.24 1
+11pyki 0.46 1
+11pyki 0.06 1
+Total 14.76
+
+Bounderies Of The Village Navali
+
+East :Kotnikallu and Hadagali Village North : Mundaragi Taluk Boundary
+Boundary
+West : Hosa Honnuru̧ Mundaragi Taluk South :Devgondanahalli and 60-Hal
+Boundary and 63-TimmalapuraVillage Timmlapura Village Boundary
+Boundary
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages and
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+1 256 9 69 1
+2 254 6 6 2
+3 255 4 89 3
+4 253 93 20 4
+5 273 5 64 5
+6 274 6 57 6
+7 275 5 88 7
+8 279 15 47 8
+9 278 8 35 9
+10 277 8 44 10
+11 276 13 20 11
+12 272 6 69 12
+13 261 4 20 13
+14 258 1 14 14
+15 260 12 87 15
+16 259 8 76 16
+17 264 7 31 17
+18 263 6 76 18
+19 262 12 58 19
+20 271 14 89 20
+21 270 7 89 21
+22 269 10 0 22
+23 265 1 43 23
+
+24 268 1 4 24
+25 266 14 13 25
+26 267 0 49 26
+27 195 12 18 27
+28 194 14 37 28
+29 193 2 59 29
+30 191 6 71 30
+31 192 16 51 31
+32 186 12 17 32
+33 157 9 77 33
+34 187 15 16 34
+35 188 10 99 35
+36 190 7 46 36
+37 189 13 51 37
+38 136 9 92 38
+39 197 13 39 39
+40 198 3 72 40
+41 199 5 26 41
+42 200 4 11 42
+43 196 15 30 43
+44 201 13 80 44
+45 202 12 33 45
+46 203 8 93 46
+47 204 26 25 47
+48 205 10 13 48
+49 206 9 87 49
+50 207 5 76 50
+51 208 2 22 51
+52 214 10 29 52
+53 209 14 84 53
+54 213 12 14 54
+55 210 13 88 55
+56 211 12 6 56
+57 212 9 65 57
+58 216 7 60 58
+59 215 7 51 59
+60 220 18 16 60
+61 217 10 91 61
+62 218 11 34 62
+63 227 41 78 63
+64 228 17 30 64
+65 229 26 15 65
+
+66 226 5 23 66
+67 225 10 3 67
+68 224 6 18 68
+69 223 4 2 69
+70 219 12 49 70
+71 221 12 43 71
+72 222 10 22 72
+73 257 1 28 73
+74 251 9 40 74
+75 252 14 63 75
+76 250 15 47 76
+77 243 1 42 77
+78 242 11 45 78
+79 241 15 9 79
+80 240 15 95 80
+81 239 9 7 81
+82 238 2 17 82
+83 237 9 49 83
+84 236 17 23 84
+85 231 14 62 85
+86 230 11 22 86
+87 232 4 12 87
+88 235 24 59 88
+89 233 8 18 89
+90 234 16 26 90
+91 244 16 95 91
+92 249 17 8 92
+93 248 9 4 93
+94 245 10 87 94
+95 281 14 53 95
+96 282 15 78 96
+97 283 14 68 97
+98 285 33 87 98
+99 284 27 66 99
+100 286 13 43 100
+101 287 12 83 101
+102 246 224 30 102
+103 247 134 51 103
+104 289 4 0 104
+105 290 3 90 105
+106 291 4 30 106
+
+221 12.43 71 12.43
+222 J 07.88 72 07.88
+256 09.69 1 09.69
+
+(1) (2) (3) (4)
+1 11 17 34 1
+2 12 6 80 2
+3 13 5 94 3
+4 14 10 29 4
+5 15 10 28 5
+6 16 7 32 6
+7 17 7 81 7
+8 18 7 24 8
+9 19 8 85 9
+10 20 0 69 10
+11 21 7 42 11
+12 22 7 88 12
+
+13 23 9 67 13
+14 24 23 6 14
+15 25 14 15 15
+16 26 4 97 16
+17 27 8 43 17
+18 28 1 27 18
+19 29 9 77 19
+20 30 8 65 20
+21 31 11 41 21
+22 32 5 36 22
+23 33 6 2 23
+24 34 2 9 24
+25 35 6 78 25
+26 36 3 66 26
+27 37 3 24 27
+28 38 8 65 28
+29 39 13 60 29
+30 40 7 25 30
+31 41 7 38 31
+32 42 7 68 32
+33 43 10 3 33
+34 44 9 56 34
+35 45 12 16 35
+36 46 6 52 36
+37 47 11 98 37
+38 48 8 80 38
+39 49 7 25 39
+40 50 6 56 40
+41 51 11 7 41
+42 52 12 84 42
+43 53 14 78 43
+44 54 10 30 44
+45 55 10 14 45
+46 56 5 73 46
+47 57 9 43 47
+48 58 7 2 48
+49 59 8 46 49
+50 60 0 81 50
+51 61 2 9 51
+52 62 6 35 52
+53 63 7 13 53
+54 64 7 84 54
+
+55 65 9 22 55
+56 66 6 82 56
+57 67 2 38 57
+58 68 23 13 58
+59 69 9 25 59
+60 70 11 31 60
+61 71 9 38 61
+62 72 10 11 62
+63 73 9 70 63
+64 74 14 80 64
+65 75 14 66 65
+66 76 10 39 66
+67 77 9 43 67
+68 78 11 17 68
+69 79 6 57 69
+70 80 1 76 70
+71 81 25 27 71
+72 82 7 82 72
+73 83 9 96 73
+74 84 8 11 74
+75 85 6 16 75
+76 86 11 1 76
+77 87 12 25 77
+78 88 11 26 78
+79 89 9 70 79
+80 90 4 72 80
+81 91 15 0 81
+82 92 7 86 82
+83 93 2 77 83
+84 94 9 75 84
+85 95 4 11 85
+86 96 18 0 86
+87 97 6 73 87
+88 98 31 82 88
+89 99 21 42 89
+90 100 3 32 90
+91 101 11 87 91
+92 102 19 58 92
+93 103 11 29 93
+94 104 41 31 94
+95 105 5 91 95
+96 106 20 42 96
+
+97 107 14 54 97
+98 108 6 22 98
+99 109 7 11 99
+100 110 10 24 100
+101 111 16 47 101
+102 112 7 89 102
+103 113 8 47 103
+104 114 7 48 104
+105 115 13 54 105
+106 116 19 21 106
+107 117 3 59 107
+108 118 17 44 108
+109 119 8 56 109
+110 120 10 24 110
+111 121 11 58 111
+112 122 22 56 112
+113 123 3 5 113
+114 124 13 29 114
+115 125 12 77 115
+116 126 14 42 116
+117 127 4 69 117
+118 128 5 79 118
+119 129 14 68 119
+120 130 10 21 120
+121 131 21 16 121
+122 132 6 74 122
+123 133 7 39 123
+124 134 13 82 124
+125 135 29 18 125
+126 138 38 76 126
+127 139 0 36 127
+128 140 7 86 128
+129 137 3 99 129
+130 156 12 7 130
+131 155 11 23 131
+132 154 11 7 132
+133 153 9 13 133
+134 152 4 64 134
+135 151 3 70 135
+136 150 7 32 136
+137 149 8 12 137
+138 148 7 54 138
+
+139 147 7 83 139
+140 146 11 11 140
+141 145 6 82 141
+142 142 6 78 142
+143 141 10 4 143
+144 143 8 42 144
+145 144 7 94 145
+146 159 9 56 146
+147 160 7 33 147
+148 162 8 25 148
+149 161 2 99 149
+150 158 14 44 150
+151 184 15 88 151
+152 288 9 71 152
+153 185 2 16 153
+154 280 264 33 154
+155 183 3 64 155
+156 182 1 85 156
+157 181 6 63 157
+158 180 6 53 158
+159 179 11 61 159
+160 178 12 75 160
+161 163 8 93 161
+162 164 14 50 162
+163 177 8 19 163
+164 176 8 33 164
+165 175 6 42 165
+166 174 12 38 166
+167 173 6 31 167
+168 172 6 96 168
+169 171 11 76 169
+170 170 5 63 170
+171 169 0 42 171
+172 168 2 96 172
+173 167 1 60 173
+174 165 10 96 174
+175 166 7 64 175
+176 10 0 29 176
+
+177 9 4 58 177
+178 8 1 59 178
+179 7 0 82 179
+180 6 3 95 180
+181 5 19 84 181
+182 4 10 77 182
+183 2 14 88 183
+184 1 12 52 184
+185 3 9 53 185
+
+11/1 14.24 1
+11/3 0.46 1
+11/4 0.06 1
+
+PR-1472
+
+GOVERNMENT OF KARNATAKA
+
+RC-CFS0ADMN/369/2024-RC Karnataka Government Secretariat
+E- 1358856 Multi Storied Building
+Bengaluru-560 001,
+Date:18.10.2024
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No: RC-CFS0ADMN/369/2024-RC
+E- 1358856 Dated 22.03.2024 regarding altering the limits of YARBALU village of
+HARAPANAHALLI Taluk VIJAYANAGARA District and constituting a new
+revenue village called MATTURU was published as required by section 6 of the
+Karnataka Land Revenue Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka
+Gazette Dated 25.07.2024 inviting objections or suggestions from all the persons
+likely to be affected thereby within thirty days from the date of its publication in the
+Official Gazette addressed to the Deputy Commissioner VIJAYANAGARA district.
+And whereas, the said gazette was made available to the public on
+Dated: 06.08.2024 And whereas, no objections and suggestions have been received;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE – 1
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+YARBALU village of HARAPANAHALLI Taluk VIJAYANAGARA District to form
+a new revenue village called as MATTURU village of HARAPANAHALLI Taluk
+VIJAYANAGARA District along with the survey numbers included in column (4)
+thereof.
+TABLE-1
+Old Survey Extent of areas Survey Numbers specified in column
+Sl Numbers which transferred to new (2) which are to be included to form
+No areas are Excluded Village Matturu new Village Matturu and new
+From Yarbalu Acre Cents survey numbers assigned to them
+(1) (2) (3) (4) (5)
+1 9 18 8 1
+2 8 13 80 2
+3 7 3 80 3
+4 10 2 18 4
+5 11 11 21 5
+6 12 12 83 6
+7 16 34 14 7
+8 13 15 8 8
+
+9 14 14 22 9
+10 15 2 36 10
+11 20 15 17 11
+12 19 6 28 12
+13 21 68 66 13
+14 22 8 54 14
+15 18 12 70 15
+16 78 52 24 16
+17 86 13 83 17
+18 87 14 30 18
+19 85 2 84 19
+20 84 4 30 20
+21 82 11 48 21
+22 81 7 10 22
+23 80 14 15 23
+24 79 10 34 24
+25 17 6 94 25
+26 224 40 6 26
+27 6 25 4 27
+28 5 7 80 28
+29 106 14 42 29
+30 103 8 11 30
+31 102 13 63 31
+32 104 9 98 32
+33 101 1 3 33
+34 83 8 10 34
+35 88 2 62 35
+36 89 4 18 36
+37 90 0 62 37
+38 91 2 90 38
+39 92 6 79 39
+40 100 5 69 40
+41 94 9 96 41
+42 158 5 62 42
+43 93 1 11 43
+44 163 0 90 44
+45 164 4 14 45
+46 165 7 53 46
+47 169 8 25 47
+48 168 7 34 48
+49 167 14 22 49
+50 166 12 16 50
+51 162 4 34 51
+52 150 5 49 52
+
+53 148 13 74 53
+54 149 8 1 54
+55 151 4 6 55
+56 131 12 23 56
+57 138 5 87 57
+58 139 8 19 58
+59 142 3 8 59
+60 141 17 16 60
+61 135 18 80 61
+62 140 10 34 62
+63 136 8 7 63
+64 137 15 65 64
+65 134 7 80 65
+66 133 7 62 66
+67 132 10 21 67
+68 129 5 24 68
+69 128 11 12 69
+70 127 4 64 70
+71 124 11 91 71
+72 126 4 31 72
+73 125 3 0 73
+74 121 26 18 74
+75 120 4 30 75
+76 122 4 20 76
+77 123 15 24 77
+78 130 4 40 78
+79 153 11 6 79
+80 152 12 38 80
+81 161 4 13 81
+82 160 9 43 82
+83 159 11 80 83
+84 157 5 30 84
+85 156 2 95 85
+86 155 19 6 86
+87 154 6 18 87
+88 117 14 50 88
+89 118 1 64 89
+90 119 12 64 90
+91 113 7 66 91
+92 112 5 88 92
+93 111 6 83 93
+94 116 8 3 94
+95 115 0 71 95
+96 114 9 16 96
+
+97 95 11 93 97
+98 99 8 65 98
+99 105 0 52 99
+100 98 12 90 100
+101 96 2 69 101
+102 97 6 80 102
+103 109 7 30 103
+104 110 15 79 104
+105 108 40 10 105
+106 107 9 60 106
+107 4 160 72 107
+108 3 20 28 108
+109 2 10 88 109
+110 1 66 50 110
+Total 1377 97
+Note : The extent of Grama Tana within the said village is to the extent specified
+below namely :
+
+Old Survey Number Extent New Survey Number Extent
+100 5.69 40 5.69
+Total 5.69 Total 5.69
+
+Bounderies Of The New Village Of Matturu
+
+East :Yarbalu Village Boundary North :- Kunchuru Village Boundary
+West: Nitturu Village Boundary South :- Kadati Village Boundary
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the YARBALU
+village specified in the column (2) shall be assigned new survey numbers in the said
+villages specified in the column (4).
+
+TABLE-2
+
+Survey Numbers remaning in New Survey numbers
+Area
+village YARBALU after assigned to the remaining
+Sl
+excluding the survey numbers in village YARBALU
+No
+which are to be included to form survey numbers Specified
+Acre Cents
+new village Matturu in in column (2)
+(1) (2) (3) (4)
+1 23 6 87 1
+2 33 11 45 2
+3 32 12 0 3
+4 34 5 0 4
+5 35 5 11 5
+6 36 8 22 6
+7 38 7 86 7
+
+8 37 1 52 8
+9 39 7 89 9
+10 40 6 82 10
+11 41 24 30 11
+12 50 5 9 12
+13 51 3 96 13
+14 55 1 63 14
+15 59 0 49 15
+16 57 0 30 16
+17 58 0 53 17
+18 56 0 62 18
+19 60 1 61 19
+20 62 2 69 20
+21 67 0 64 21
+22 63 10 18 22
+23 64 6 41 23
+24 54 11 48 24
+25 53 4 70 25
+26 52 11 97 26
+27 49 2 72 27
+28 48 3 34 28
+29 47 7 88 29
+30 46 7 38 30
+31 45 7 3 31
+32 44 7 94 32
+33 43 11 63 33
+34 42 8 49 34
+35 218 1 6 35
+36 219 11 87 36
+37 220 23 63 37
+38 217 26 32 38
+39 216 11 0 39
+40 191 7 32 40
+41 190 7 25 41
+42 189 17 31 42
+43 192 11 54 43
+44 193 14 92 44
+45 214 14 42 45
+46 215 5 38 46
+47 221 11 80 47
+48 222 29 97 48
+49 211 6 26 49
+50 236 3 90 50
+51 235 15 5 51
+
+52 223 129 77 52
+53 206 9 32 53
+54 205 13 21 54
+55 229 14 52 55
+56 227 9 57 56
+57 228 11 9 57
+58 207 8 20 58
+59 204 16 38 59
+60 203 18 92 60
+61 202 18 36 61
+62 201 18 4 62
+63 232 11 47 63
+64 208 7 41 64
+65 225 9 29 65
+66 226 11 2 66
+67 209 9 58 67
+68 233 16 18 68
+69 234 15 35 69
+70 210 12 66 70
+71 212 6 96 71
+72 213 4 58 72
+73 194 14 7 73
+74 195 4 30 74
+75 196 8 64 75
+76 197 7 97 76
+77 231 8 32 77
+78 230 10 85 78
+79 198 14 36 79
+80 200 14 41 80
+81 143 10 0 81
+82 144 19 28 82
+83 199 8 51 83
+84 145 5 7 84
+85 146 1 26 85
+86 147 27 40 86
+87 171 5 63 87
+88 172 5 60 88
+89 173 10 82 89
+90 170 0 80 90
+91 174 12 76 91
+92 175 1 17 92
+93 176 3 37 93
+94 177 10 26 94
+95 178 11 12 95
+
+96 188 8 76 96
+97 187 11 14 97
+98 186 8 82 98
+99 65 19 60 99
+100 66 7 11 100
+101 68 10 52 101
+102 69 6 90 102
+103 70 1 62 103
+104 185 8 99 104
+105 184 8 16 105
+106 183 7 2 106
+107 182 5 36 107
+108 181 12 96 108
+109 179 1 30 109
+110 180 12 90 110
+111 71 2 30 111
+112 72 11 57 112
+113 73 17 3 113
+114 74 0 44 114
+115 75 11 80 115
+116 76 3 70 116
+117 61 3 59 117
+118 31 5 85 118
+119 30 8 85 119
+120 29 5 42 120
+121 28 8 78 121
+122 27 8 19 122
+123 26 9 10 123
+124 77 15 84 124
+125 25 9 9 125
+126 24 14 90 126
+Total 1290 21
+
+Note: The extent of Grama Tana within the said village is to the extent specified
+below namely :
+
+Old Survey Number Extent New Survey Number Extent
+65 19.60 99 19.60
+Total 19.60 Total 19.60
+
+Bounderies Of The Old Village Of Yarbalu
+East: Algilvada Village Boundary North :- Kunchuru Village Boundary
+West :- Matturu Village Boundary South :- Kadati Village Boundary
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the date
+of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages and
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+1 2 3 4
+1 9 18 8 1
+2 8 13 80 2
+3 7 3 80 3
+4 10 2 18 4
+5 11 11 21 5
+6 12 12 83 6
+7 16 34 14 7
+8 13 15 8 8
+9 14 14 22 9
+10 15 2 36 10
+11 20 15 17 11
+12 19 6 28 12
+13 21 68 66 13
+14 22 8 54 14
+15 18 12 70 15
+16 78 52 24 16
+17 86 13 83 17
+18 87 14 30 18
+19 85 2 84 19
+20 84 4 30 20
+21 82 11 48 21
+22 81 7 10 22
+23 80 14 15 23
+24 79 10 34 24
+25 17 6 94 25
+26 224 40 6 26
+27 6 25 4 27
+28 5 7 80 28
+29 106 14 42 29
+30 103 8 11 30
+31 102 13 63 31
+32 104 9 98 32
+33 101 1 3 33
+34 83 8 10 34
+35 88 2 62 35
+
+36 89 4 18 36
+37 90 0 62 37
+38 91 2 90 38
+39 92 6 79 39
+40 100 5 69 40
+41 94 9 96 41
+42 158 5 62 42
+43 93 1 11 43
+44 163 0 90 44
+45 164 4 14 45
+46 165 7 53 46
+47 169 8 25 47
+48 168 7 34 48
+49 167 14 22 49
+50 166 12 16 50
+51 162 4 34 51
+52 150 5 49 52
+53 148 13 74 53
+54 149 8 1 54
+55 151 4 6 55
+56 131 12 23 56
+57 138 5 87 57
+58 139 8 19 58
+59 142 3 8 59
+60 141 17 16 60
+61 135 18 80 61
+62 140 10 34 62
+63 136 8 7 63
+64 137 15 65 64
+65 134 7 80 65
+66 133 7 62 66
+67 132 10 21 67
+68 129 5 24 68
+69 128 11 12 69
+70 127 4 64 70
+71 124 11 91 71
+72 126 4 31 72
+73 125 3 0 73
+74 121 26 18 74
+75 120 4 30 75
+76 122 4 20 76
+77 123 15 24 77
+
+78 130 4 40 78
+79 153 11 6 79
+80 152 12 38 80
+81 161 4 13 81
+82 160 9 43 82
+83 159 11 80 83
+84 157 5 30 84
+85 156 2 95 85
+86 155 19 6 86
+87 154 6 18 87
+88 117 14 50 88
+89 118 1 64 89
+90 119 12 64 90
+91 113 7 66 91
+92 112 5 88 92
+93 111 6 83 93
+94 116 8 3 94
+95 115 0 71 95
+96 114 9 16 96
+97 95 11 93 97
+98 99 8 65 98
+99 105 0 52 99
+100 98 12 90 100
+101 96 2 69 101
+102 97 6 80 102
+103 109 7 30 103
+104 110 15 79 104
+105 108 40 10 105
+106 107 9 60 106
+107 4 160 72 107
+108 3 20 28 108
+109 2 10 88 109
+110 1 66 50 110
+
+100 5.69 40 5.69
+
+(1) (2) (3) (4)
+1 23 6 87 1
+2 33 11 45 2
+3 32 12 0 3
+4 34 5 0 4
+5 35 5 11 5
+6 36 8 22 6
+7 38 7 86 7
+8 37 1 52 8
+9 39 7 89 9
+10 40 6 82 10
+11 41 24 30 11
+12 50 5 9 12
+13 51 3 96 13
+14 55 1 63 14
+15 59 0 49 15
+16 57 0 30 16
+17 58 0 53 17
+18 56 0 62 18
+19 60 1 61 19
+20 62 2 69 20
+21 67 0 64 21
+22 63 10 18 22
+
+23 64 6 41 23
+24 54 11 48 24
+25 53 4 70 25
+26 52 11 97 26
+27 49 2 72 27
+28 48 3 34 28
+29 47 7 88 29
+30 46 7 38 30
+31 45 7 3 31
+32 44 7 94 32
+33 43 11 63 33
+34 42 8 49 34
+35 218 1 6 35
+36 219 11 87 36
+37 220 23 63 37
+38 217 26 32 38
+39 216 11 0 39
+40 191 7 32 40
+41 190 7 25 41
+42 189 17 31 42
+43 192 11 54 43
+44 193 14 92 44
+45 214 14 42 45
+46 215 5 38 46
+47 221 11 80 47
+48 222 29 97 48
+49 211 6 26 49
+50 236 3 90 50
+51 235 15 5 51
+52 223 129 77 52
+53 206 9 32 53
+54 205 13 21 54
+55 229 14 52 55
+56 227 9 57 56
+57 228 11 9 57
+58 207 8 20 58
+59 204 16 38 59
+60 203 18 92 60
+61 202 18 36 61
+62 201 18 4 62
+63 232 11 47 63
+64 208 7 41 64
+
+65 225 9 29 65
+66 226 11 2 66
+67 209 9 58 67
+68 233 16 18 68
+69 234 15 35 69
+70 210 12 66 70
+71 212 6 96 71
+72 213 4 58 72
+73 194 14 7 73
+74 195 4 30 74
+75 196 8 64 75
+76 197 7 97 76
+77 231 8 32 77
+78 230 10 85 78
+79 198 14 36 79
+80 200 14 41 80
+81 143 10 0 81
+82 144 19 28 82
+83 199 8 51 83
+84 145 5 7 84
+85 146 1 26 85
+86 147 27 40 86
+87 171 5 63 87
+88 172 5 60 88
+89 173 10 82 89
+90 170 0 80 90
+91 174 12 76 91
+92 175 1 17 92
+93 176 3 37 93
+94 177 10 26 94
+95 178 11 12 95
+96 188 8 76 96
+97 187 11 14 97
+98 186 8 82 98
+99 65 19 60 99
+100 66 7 11 100
+101 68 10 52 101
+102 69 6 90 102
+
+103 70 1 62 103
+104 185 8 99 104
+105 184 8 16 105
+106 183 7 2 106
+107 182 5 36 107
+108 181 12 96 108
+109 179 1 30 109
+110 180 12 90 110
+111 71 2 30 111
+112 72 11 57 112
+113 73 17 3 113
+114 74 0 44 114
+115 75 11 80 115
+116 76 3 70 116
+117 61 3 59 117
+118 31 5 85 118
+119 30 8 85 119
+120 29 5 42 120
+121 28 8 78 121
+122 27 8 19 122
+123 26 9 10 123
+124 77 15 84 124
+125 25 9 9 125
+126 24 14 90 126
+
+65 19.60 99 19.60
+
+PR-1473
+GOVERNMENT OF KARNATAKA
+RC-CFS0ADMN/280/2024-RC Karnataka Government Secretariat
+E- 1334267 Multi Storied Building
+Bengaluru-560 001,
+Date:04.09.2024.
+
+FINAL NOTIFICATION
+
+Whereas the draft of the Notification No: RC-CFS0ADMN/280/2024-RC E-
+1334267 Date: 23-02-202 regarding altering the limits of Gotagodi Village of
+Shiggaon Taluk, Haveri District and constituting a new revenue village called
+Krushinagara was published as required by section 6 of the Karnataka Land Revenue
+Act, 1964 (Karnataka act No.12 of 1964) in the Karnataka Gazette dated :13.03.2024
+inviting objections or suggestions from all the persons likely to be affected thereby
+within thirty days from the date of its publication in the Official Gazette addressed to
+the Deputy Commissioner Haveri district.
+And whereas, the said gazette was made available to the public on
+Dated:17.05.2024 And whereas, no objections and suggestions have been received;
+Now, therefore, in exercise of the powers conferred by section 5 of Karnataka
+Land Revenue Act, 1964 (Karnataka act No.12 of 1964) the Government of Karnataka
+here by makes the following notification, namely:-
+
+SCHEDULE – 1
+
+Lands bearing survey numbers of the villages and survey numbers of the areas
+specified in column (2) of the table below shall be excluded from the limits of the said
+Gotagodi Village of Shiggaon Taluk, Haveri District to form a new revenue village
+called as Krushinagara Village of Shiggaon Taluk, Haveri District along with the
+survey numbers included in column (4) thereof.
+
+TABLE-1
+
+Old Survey Extent of area transferred to Survey numbers Specified in
+Numbers new village Krushinagara column (2) which are to be
+Sl.
+Which are included to form new village
+No.
+excluded from Acre Gunta Anna Krushinagara & new survey
+Gotagodi village numbers assigned to them
+(1) (2) (3) (4)
+1 83 112 19 0 1
+2 89 20 18 0 2
+3 88 17 07 0 3
+4 84 22 17 0 4
+5 112 11 31 0 5
+6 113 16 36 0 6
+7 114 07 10 0 7
+8 82 05 39 0 8
+9 115 00 16 0 9
+TOTAL 214 33 0
+
+Note: The extent of Grama Tana within the said village is to the extent specified
+below namely,
+
+Survey Number Extent
+Existing Gramatana Acre Gunta Anna
+83 4 5 0
+
+BOUNDARIES OF THE NEW VILLAGE KRUSHINAGARA
+
+East :-Bisatikoppa Village Boundary North :-Hulsogi Village Boundary
+West :-Gotagodi Village Boundary South :-Gotagodi Village Boundary
+
+SCHEDULE-2
+
+The Survey numbers of the village and areas remaining in the Gotagodi
+village specified in the column (2) shall be assigned new survey numbers in the
+said villages specified in the column (4).
+
+TABLE-2
+
+Survey numbers remaining in AREA New survey numbers
+Gotagodi village after excluding assigned to the remaining
+Sl.
+the survey numbers which are to in village Gotagodi
+No Acre Gunta Anna
+be included to form New village specified in column (2)
+Krushinagara
+1 2 3 4
+1 1 2 28 0 1
+2 2 1 28 0 2
+
+3 3 0 26 0 3
+4 4 5 10 0 4
+5 5 0 30 0 5
+6 6 5 18 0 6
+7 7 1 14 0 7
+8 8 7 3 0 8
+9 9 10 17 0 9
+10 10 2 5 0 10
+11 11 16 28 0 11
+12 12 5 15 0 12
+13 13 16 18 0 13
+14 14 11 22 0 14
+15 15 1 36 0 15
+16 16 3 35 0 16
+17 17 3 33 0 17
+18 18 11 28 0 18
+19 19 20 29 0 19
+20 20 18 27 0 20
+21 21 3 10 0 21
+22 22 6 34 0 22
+23 23 19 2 0 23
+24 24 18 28 0 24
+25 25 7 13 0 25
+26 26 18 32 0 26
+27 27 11 10 0 27
+28 28 30 1 0 28
+29 29 12 39 0 29
+30 30 12 4 0 30
+31 31 8 28 0 31
+32 32A 20 27 0 32A
+33 32B 1 33 0 32B
+34 33 14 36 0 33
+35 34 3 23 0 34
+36 35 3 31 0 35
+37 36 1 18 0 36
+38 37 17 30 0 37
+39 38 3 3 0 38
+40 39 20 38 0 39
+41 40 12 30 0 40
+42 41 14 19 0 41
+43 42 15 25 0 42
+44 43 10 21 0 43
+
+45 44 18 12 0 44
+46 45 6 28 0 45
+47 46 5 26 0 46
+48 47 4 39 0 47
+49 48 4 10 0 48
+50 49 5 12 0 49
+51 50 2 19 0 50
+52 51 0 27 0 51
+53 52 7 21 0 52
+54 53 4 20 0 53
+55 54 1 31 0 54
+56 55 7 20 0 55
+57 56 12 19 0 56
+58 57 2 20 0 57
+59 58 13 16 0 58
+60 59 17 12 0 59
+61 60 26 1 0 60
+62 61 2 30 0 61
+63 62 6 35 0 62
+64 63 21 0 0 63
+65 64 22 19 0 64
+66 65 0 30 0 65
+67 66 20 16 0 66
+68 67 0 25 0 67
+69 68 25 34 0 68
+70 69 6 5 0 69
+71 70 13 35 0 70
+72 71 2 17 0 71
+73 72 12 39 0 72
+74 73 6 34 0 73
+75 74 11 32 0 74
+76 75 23 31 0 75
+77 76 20 4 0 76
+78 77 14 26 0 77
+79 78 29 3 0 78
+80 79 29 2 0 79
+81 80 14 30 0 80
+
+82 81A 27 11 0 81A
+83 81B 1 33 0 81B
+84 85 11 10 0 82
+85 86 4 31 0 83
+86 87 15 36 0 84
+87 90 8 5 0 85
+88 91 3 37 0 86
+89 92A 9 1 0 87A
+90 92B 9 31 0 87B
+91 93 14 30 0 88
+92 94 13 5 0 89
+93 95 1 25 0 90
+94 96 5 22 0 91
+95 97 4 34 0 92
+96 98 4 7 0 93
+97 99 2 16 0 94
+98 100 3 25 0 95
+99 101 2 32 0 96
+100 102 11 31 0 97
+101 103 4 3 0 98
+102 104 3 20 0 99
+103 105 4 17 0 100
+104 108 0 25 0 101
+105 107 6 22 0 102
+106 106 7 35 0 103
+107 109 2 19 0 104
+108 110A 6 16 0 105A
+109 110B 1 26 0 105B
+110 110K 0 14 0 105K
+111 111 16 20 0 106
+112 116 46 20 0 107
+113 117 1 38 0 108
+114 118 19 26 0 109
+115 119 6 3 0 110
+1151 11 0 Total
+
+BOUNDARIES OF THE VILLAGE GOTAGODI
+
+East :-Krushinagara, Bisatikoppa And North :-Krushinagar And Hulsogi Village
+Vanahalli Village Boundary Boundary
+West :-Madli And Sheelavanta somapura
+South :-Kamanahalli Village Boundary
+Village Boundary
+
+The proposal specified above issued under section 5 of the Karnataka Land
+Revenue Act, 1964 (Karnataka Act No. 12 of 1964) shall come into effect from the
+date of final notification.
+
+By order in the name of the
+Governor of Karnataka
+
+(Dr. B. Udaya Kumar Shetty)
+Director,
+Cell for creation of revenue villages and
+Ex-officio Additional Secretary to Govt.
+Revenue Department
+
+RC-CFS0ADMN/280/2024-RC
+
+1 2 3 4
+1 83 112 19 0 1
+2 89 20 18 0 2
+3 88 17 07 0 3
+4 84 22 17 0 4
+5 112 11 31 0 5
+6 113 16 36 0 6
+7 114 07 10 0 7
+8 82 05 39 0 8
+9 115 00 16 0 9
+
+83 04 05
+
+1 2 3 4
+1 1 2 28 0 1
+
+2 2 1 28 0 2
+3 3 0 26 0 3
+4 4 5 10 0 4
+5 5 0 30 0 5
+6 6 5 18 0 6
+7 7 1 14 0 7
+8 8 7 3 0 8
+9 9 10 17 0 9
+10 10 2 5 0 10
+11 11 16 28 0 11
+12 12 5 15 0 12
+13 13 16 18 0 13
+14 14 11 22 0 14
+15 15 1 36 0 15
+16 16 3 35 0 16
+17 17 3 33 0 17
+18 18 11 28 0 18
+19 19 20 29 0 19
+20 20 18 27 0 20
+21 21 3 10 0 21
+22 22 6 34 0 22
+23 23 19 2 0 23
+24 24 18 28 0 24
+25 25 7 13 0 25
+26 26 18 32 0 26
+27 27 11 10 0 27
+28 28 30 1 0 28
+29 29 12 39 0 29
+30 30 12 4 0 30
+31 31 8 28 0 31
+34 33 14 36 0 33
+35 34 3 23 0 34
+36 35 3 31 0 35
+37 36 1 18 0 36
+38 37 17 30 0 37
+39 38 3 3 0 38
+40 39 20 38 0 39
+41 40 12 30 0 40
+42 41 14 19 0 41
+43 42 15 25 0 42
+
+44 43 10 21 0 43
+45 44 18 12 0 44
+46 45 6 28 0 45
+47 46 5 26 0 46
+48 47 4 39 0 47
+49 48 4 10 0 48
+50 49 5 12 0 49
+51 50 2 19 0 50
+52 51 0 27 0 51
+53 52 7 21 0 52
+54 53 4 20 0 53
+55 54 1 31 0 54
+56 55 7 20 0 55
+57 56 12 19 0 56
+58 57 2 20 0 57
+59 58 13 16 0 58
+60 59 17 12 0 59
+61 60 26 1 0 60
+62 61 2 30 0 61
+63 62 6 35 0 62
+64 63 21 0 0 63
+65 64 22 19 0 64
+66 65 0 30 0 65
+67 66 20 16 0 66
+68 67 0 25 0 67
+69 68 25 34 0 68
+70 69 6 5 0 69
+71 70 13 35 0 70
+72 71 2 17 0 71
+73 72 12 39 0 72
+74 73 6 34 0 73
+75 74 11 32 0 74
+76 75 23 31 0 75
+77 76 20 4 0 76
+78 77 14 26 0 77
+79 78 29 3 0 78
+80 79 29 2 0 79
+
+81 80 14 30 0 80
+84 85 11 10 0 82
+85 86 4 31 0 83
+86 87 15 36 0 84
+87 90 8 5 0 85
+88 91 3 37 0 86
+91 93 14 30 0 88
+92 94 13 5 0 89
+93 95 1 25 0 90
+94 96 5 22 0 91
+95 97 4 34 0 92
+96 98 4 7 0 93
+97 99 2 16 0 94
+98 100 3 25 0 95
+99 101 2 32 0 96
+100 102 11 31 0 97
+101 103 4 3 0 98
+102 104 3 20 0 99
+103 105 4 17 0 100
+104 108 0 25 0 101
+105 107 6 22 0 102
+106 106 7 35 0 103
+107 109 2 19 0 104
+111 111 16 20 0 106
+112 116 46 20 0 107
+113 117 1 38 0 108
+114 118 19 26 0 109
+115 119 6 3 0 110
+
+PR-1474
+
+PR-1475
+
+PR-1476
+
+SL. Name of the Plant Address
+No.
+1 Plant-1- Vikrant Tyre Plant-Bias & LTR K.R.S. Road, Metagalli, Mysore 570 016
+License No-MYM-754
+2 Plant-II-Truck Radial Plant License No- Hebbal Industrial Area, Mysore 570 016
+MYM-1100
+Plant-III-Off the Road Tyre Plant License Plot No. 85/B Block 'B', KIADB, Dr. 3
+No-MYM-1692 Lakshmipat Singhania Road, Off K.R.S.
+Road, Mysore-570 016
+
+PR-1477
+GOVERNMENT OF KARNATAKA
+No. LD 75 KBN 2024 Karnataka Government Secretariat,
+Vikasa Soudha,
+Bengaluru, Dated:12-11-2024
+
+NOTIFICATION
+The draft of the Karnataka Factories (Safety Audit) Rules, 2024 which the
+Government of Karnataka proposes to make in exercise of the powers conferred by
+section 112 read with section 41 of the Factories Act, 1948 (Central Act 63 of
+1948) is hereby published as required by sub-section (1) of section 115 of the said
+Act, for the information of all persons likely to be affected thereby and notice is
+hereby given that the said draft will be taken into consideration after the expiry of
+forty five days from the date of its publication in the official Gazette.
+Any objection or suggestion which may be received by the State Government
+from any person with respect to the said draft before the expiry of the period
+
+specified above will be considered by the State Government. Objections or
+suggestions may be addressed to the Secretary to Government, Labour
+Department, Room No. 414, 4th Floor, Vikasa Soudha, Bengaluru-560 001.
+DRAFT RULES
+1. Title, commencement and application.- (1) These rules may be called
+the Karnataka Factories (Safety Audit) Rules, 2024
+(2) They shall come into force from the date of their final publication in the
+Official Gazette.
+(3) They shall apply to the factories,-
+(i) in which hazardous manufacturing processes which involves use,
+storage and handling of toxic, highly inflammable, explosives, hazardous
+chemicals where in such toxic or highly inflammable or explosive
+substances are likely to be generated or given out or carried out, as
+listed under sub-rule (b), (c) and (e) of rule 2 of the Major Accident
+Hazards Control (Karnataka) Rules 1994;
+(ii) in which the hazardous manufacturing processes as listed in First
+Schedule appended to clause (cb) of section 2 of the Act is carried on;
+(iii) in which manufacturing processes as specified in rule 129 of Karnataka
+Factories Rules, 1969 read with section 87 of the Act is carried on; and
+(iv) all other factories licensed to employ more than fifty workers
+2. Definitions.- (1) In these rules unless the context otherwise requires,-
+(i) “Act” means the Factories Act, 1948 (Central Act 63 of 1948), as
+applicable to the State of Karnataka;
+(ii) “Chief Inspector” means any person who is appointed by the State
+Government as a Chief Inspector, under sub-section (2) of section 8 of
+the Act;
+(iii) “Degree” means a Bachelor degree or post graduate degree from an
+university established by law;
+(iv) “Diploma” means a diploma awarded by a statutory university or a
+recognized institution;
+(v) “Form” means a form appended to these rules;
+(vi) “Inspector” means the Inspector appointed under, sub-section (1) of
+section 8 of the Act;
+(vii) “Safety audit” means a systematic, objective and document evaluation of
+the occupational safety and health systems and procedures in a factory;
+(viii) “Safety Auditor” means a person recognized by the State Government
+as per rule 5 to carry out Occupational Safety and Health in accordance
+with the provisions of these rules and include the safety auditors
+mentioned in sub-rule (3) of rule 5 of these rules;
+(ix) “Schedule” means the Schedule appended to these rules;
+(x) “Section” means section of the Act;
+(xi) “Hazardous chemical” means any chemical as defined in sub-rule (a) of
+rule 2 of the Major Accident Hazards Control (Karnataka) Rules 1994;
+(xii) “Institution” means a firm, association, body, corporate, society or a
+trust, whether registered in accordance with the law for the time being in
+
+force or not, and dealing mainly with the object of ensuring safety and
+health of workers engaged in factories.
+(xiii) “Occupier” means a person as defined under clause (n) section 2 of
+the Act; and
+(xiv) “State Government” means the Government of Karnataka;
+
+(2) All other words or expressions used but not defined herein shall have
+their respective meanings as assigned to them in the Act or rules made
+thereunder.
+3. Duty of the Occupier.- (1) The occupier of the class of factories specified
+in sub-rule (3) of rule 1 shall arrange to carry out the Occupational Safety and
+Health to supplement the provisions of Chapter IV and IVA of the Act as a
+measure for securing the safety and health of persons employed therein, in the
+following manner, namely:-
+(a) internally, once in a year by a team of plant personnel;
+(b) externally, once in two years by the safety auditor:
+
+Provided that, for factories covered under clause (iv) of sub-rule (3)of rule 1
+and licensed to employ less than 150 workers, the safety audit shall be carried
+out once in four years.
+
+Provided further that, in the year, when an external audit is carried out, it
+shall not be necessary to carry out an internal audit:
+
+Provided also that, in case of any changes, total or partial, in the
+manufacturing process, the occupier shall, within one month prior to such
+change, carry out the Occupational Safety and Health Audit externally by the
+Safety Auditor.
+
+4. Standards of safety audit.- The Safety Audit shall be carried out as per
+the standards laid down under IS 14489: 1998 in the Indian Standard Code of
+Practice on Occupational Safety and Health Audit or any such standards
+prevailing at the relevant time by the Safety Auditor or in case of an institution, by
+the person or employee possessing the qualification, experience and other
+requirements as set out in Schedule I as a Safety Auditor.
+
+5. Qualifications of safety auditor.- (1) The Chief Inspector may recognize
+any person possessing the qualifications, experience and other requirements as
+specified in the Schedule-I, as a Safety Auditor for the purpose of carrying out
+Safety Audit as provided in these rules, for a period not exceeding two years from
+the date of such recognition.
+
+(2) The Chief Inspector may recognize any institution, employing at least
+three persons possessing the qualifications, experience and other requirements as
+set out in the Schedule-I as a Safety Auditor for the purpose of carrying out Safety
+
+Audit as provided by these rules, for a period not exceeding two years from the
+date of such recognition:
+
+Provided that, where the institute to which such recognition has-been
+granted, ceases to employ at least three persons possessing the qualifications,
+experience and other requirements set out in the Schedule- I, the recognition
+granted to such institute shall stand cancelled:
+
+Provided further that, the Chief Inspector may for reasons recorded in
+writing, relax the requirements of qualification, if such institute is exceptionally
+specialized in the field of carrying out Safety Audit for not less than five years.
+
+(3) An officer having working experience of not less than fifteen years in the
+office of the Directorate General of Factory Advice Service and Labour Institutes
+or Department of Factories, Boilers, Industrial Safety and Health, Karnataka State
+(DFBISH) and not below the rank of Deputy Director of Factories at the time of
+relinquishing the office shall be deemed to be qualified as Safety Auditor for
+carrying out Safety Audit under these rules, subject to grant or renewal of
+certificate of recognition as Safety Auditor on application made in Form-II.
+
+6. Grant or renewal of certificate of recognition as Safety Auditor.- (1)
+An application for grant or renewal of certificate of recognition as a Safety Auditor
+for carrying out safety audit shall be made to the Chief Inspector by an individual
+in Form-II and by an institution in Form-III, along with fee specified in Table
+below, namely:-
+TABLE
+Sl. Fee to be paid for grant or
+Class of Safety Auditor
+No. renewal of recognition
+1 Institution Rs. 50,000/-
+2 Individual Rs. 25,000/-
+(2) (a) On receipt of an application duly made in accordance with these
+rules, the Chief Inspector shall register such application and after
+having satisfied as regards the competence and facilities available at
+the disposal of the applicant may approve, or reject the application,
+after specifying the reasons thereof within thirty days, from the date of
+application.
+(b) On approval, the Chief Inspector shall issue a certificate of
+recognition in Form-IV, subject to the following conditions, namely:-
+(i) The Safety Auditor shall maintain a log book of all safety audits
+undertaken by him indicating the name and address of the audited
+factory, name of the person who has carried out safety audit,
+contact persons, date of the audit and date of submission of the
+audit report to the Occupier. It shall be produced as and when
+required by officers of the Department of Factories, Boilers,
+Industrial Safety and Health;
+
+(ii) The Safety Auditor and the person authorized to carry out shall not
+conduct a Safety Audit of any factory where such auditor or person
+is employed, or an occupier, partner, director, or manager of that
+factory, or of any factory owned, operated, managed, or conducted
+by immediate family members, relatives or extended family members
+or wherein that auditor or such person has any direct or indirect
+interest whatsoever. An auditor or such person shall not carry out
+the safety audit of those factories to which that auditor or such
+person supplies any plant, machinery, raw material, safety
+equipments or other materials or equipment;
+(iii) The Safety Auditor and the person authorized to carry out safety
+audit shall not disclose, even after ceasing to be a recognized
+auditor or employee of the institution, any manufacturing or
+commercial secrets or working processes or other confidential
+information which may come to his knowledge in the course of their
+duties as an auditor. Any failure in this regard, the auditor shall be
+liable for revocation of recognition under sub-rule (6) and he shall
+not be eligible for recognition in future; and
+(iv) any other conditions as may be specified by the Chief Inspector
+(3) The recognition granted under sub-rule (2) of this rule shall be valid for
+two years from the date of issue of certificate of recognition;
+(4) The application for renewal of recognition as a safety auditor shall be
+made at least three months before the expiry of the period of recognition and the
+procedure specified in sub-rule (2) shall apply mutatis mutandis for its renewal.
+(5) The applicant shall not be eligible for renewal of recognition as a Safety
+Auditor if,-
+(i) the Chief Inspector has revoked such recognition in the past on two
+occasions; or
+(ii) he has not carried out at-least five safety audits of factories in the past
+two years; or
+(iii) he has crossed the age of 70 years. All applicants above the age of 62
+years shall submit a certificate of physical fitness for carrying out safety
+audit of factories issued by civil surgeon or certifying surgeon alongwith
+the application; or
+(iv) he has disclosed the manufacturing or commercial secrets or working
+processes or other confidential information which may come to his
+knowledge in the course of his duties as an auditor.
+(6) The Chief Inspector may, after giving an opportunity to the Safety Auditor
+of being heard, revoke the certificate of recognition, if he has a reason to believe
+that,-
+(i) the Safety Auditor has violated any of the conditions stipulated in the
+certificate of recognition or renewal of recognition; or
+(ii) the Safety Auditor has carried out the safety audit in violation of the
+provisions of the Act or these rules or has acted in a manner inconsistent
+with the intent or the purpose of the Act or rules made there under or has
+
+omitted or failed to act as required under the Act and rules made
+thereunder; or
+(iii)for any other reason.
+7. Intimation of safety audit.- The Occupier of the factory as well as
+the Safety Auditor shall inform in Form-I to the concerned jurisdictional office
+of the Department of Factories, Boilers, Industrial Safety and Health, fifteen
+days in advance before commencement of the safety audit in the said factory.
+
+8. Submission of safety audit report.- The Safety Auditor shall within one
+month from the date of completion of safety audit forward to the Occupier of the
+factory a Safety Audit Report in Proforma prescribed under Schedule-II on the
+letter head and his recommendations regarding improvement of the occupational
+safety and health in a factory:
+
+Provided that if during safety audit, auditor finds any hazard posing danger of
+causing an accident, he shall immediately communicate in writing to the occupier
+as well as to the jurisdictional inspector. In such case, the occupier shall take
+immediate corrective action under intimation to the jurisdictional inspector.
+
+9. Compliance report on audit report.- The Occupier shall, within thirty
+days of the receipt of the Safety Audit report in the format prescribed under
+Schedule-II, forward the same to the Chief Inspector along with the action taken
+report in pursuance to the recommendations made in the Safety Audit Report.
+
+10. Re-audit.- On scrutiny of the Safety Audit Report, if it is found that the
+safety Audit is not carried out in accordance with rule 4 the Chief Inspector may
+communicate the same to the Occupier, Safety Auditor and may direct the
+occupier to carry out re-audit only with respect to the discrepancies pointed out.
+The re-audit shall be completed within thirty days from the date of such direction.
+The provisions of rule 8 and 9 of these rules shall apply to such re-audit.
+
+11. Exemptions.- (1) Subject to the provisions of sub-rule (2) the Chief
+Inspector may, by order in writing, exempt any factory or category of factories from
+all or any of the provisions of these rules, subject to such conditions as it may
+specify in such order.
+
+(2) No order under sub-rule (1) shall be issued unless, in the opinion of the
+Chief Inspector, the requirements of these rules having regard to the frequency or
+the nature of manufacturing process carried out in that factory, which involves
+use, storage, handling or processing of hazardous chemicals or which involves
+generation of such substances, are impracticable or otherwise not necessary for
+the safety, health and protection of workers.
+
+(3) Notwithstanding anything contained in sub-rule (1) and (2), the Chief
+Inspector may, in his discretion, by order, revoke the exemption granted under
+sub-rule (1), at any time.
+
+12. Repeal and savings.- (1) The Karnataka Factories (Safety Audit) Rules,
+2016 are hereby repealed.
+(2) Notwithstanding such repeal, anything done or any action taken under
+the said rules shall be deemed to have been done or taken under this rules.
+
+By Order and In the Name of the
+Governor of Karnataka,
+
+Venkatarama J.T.
+Under Secretary to Government,
+Labour Department,
+(Factories & Boilers).
+
+SCHEDULE - I
+Qualification of Safety Auditor
+The applicant, for being recognized as Safety Auditor, shall possess the
+following qualifications and experience, etc.:-
+1. Academic Qualification and Experience.- (1)The applicant shall hold, -
+(i) Degree in branch of Chemical, Mechanical, Electrical or Production or
+Industrial Engineering and Management Engineering from recognized
+University, and having ten years of experience in the field of manufacturing,
+maintenance, design, project or safety in the capacity of supervisor or above
+in factories; or
+(ii) Diploma in branch of Chemical, Mechanical, Electrical, Production from
+recognized institution, and having fifteen years of experience in the field of
+manufacturing, maintenance, design, project or safety, in the capacity of
+supervisor or above in factories; or
+(iii) Degree in Bachelor of Science with Physics and Chemistry, and having twenty
+years experience in the field of manufacturing, maintenance or safety of any
+registered factory in the capacity of supervisor or above
+and
+(iv) Full time Degree or Diploma in Industrial Safety recognized by the Board of
+Technical Education or All India Council of Technical Education or
+recognized University or Regional Labour institute or Central Labour
+Institute; or
+(v) Degree in any branch of Engineering and having fifteen years of experience in
+Factory Inspectorate or Directorate of Industrial Safety and Health or in
+DGFASLI or Regional Labour Institute and in the capacity of Deputy Director
+or above at the time of relinquishing the office.
+2. The applicant shall not be directly or indirectly involved in the factory or
+in any process or business carried on therein or in any patent or machine
+connected therewith, in respect of which the safety audit is to be conducted.
+
+FORM-I
+(See rule 7)
+Intimation of Safety Audit
+1. Name and address of the factory;
+2. Name of the Occupier;
+3. Date of commencement of Audit;
+4. Probable date of Completion;
+5. List of raw material with maximum storage quantity;
+6. List of finished products with maximum storage quantity;
+7. Licenced No. of workers;
+8. Manufacturing process flow chart;
+9. Name of the Safety Auditor and Certificate No. and name of the person who is carrying
+out the safety audit,
+
+I hereby undertake to carryout Safety Audit as per the standards laid down under IS 14489:
+1998 in the Indian Standard Code of Practice on Occupational Safety and Health Audit or any
+such standards prevailing at the relevant time; and submit Safety Audit Report within one
+month from the date of completion of safety audit to the Occupier of the factory
+
+Date:
+Signature of Safety
+Auditor/Representative of the Institution
+authorized to carryout safety audit
+
+I hereby undertake to submit the action taken report on the Recommendations of
+
+the Safety Audit on or before ……………………………….…
+Date: Signature of the Occupier.
+(Name of the Occupier in Block letters)
+
+SCHEDULE-II
+(see rule 8 and 9)
+Proforma for submission of Safety Audit Report
+
+1. Name and address of the factory,
+2. Name of the Occupier,
+3. Date/s of Audit,
+4. List of raw material with maximum storage quantity,
+5. List of finished products with maximum storage quantity,
+6. Manufacturing process flow chart,
+7. P I Diagram of all plants (Chemical Factories),
+8. Name of the Safety Auditor and Certificate No. and name of the person who has carried
+out safety audit,
+9. Whether enclosed Safety Audit Report as per IS 14489, or such other standards
+prevailing at the relevant time:
+
+Date:
+Signature of Safety
+Auditor/Representative of the
+Institution authorized to carryout
+safety audit
+
+FORM– II
+Application form for recognition or renewal of recognition of Safety Auditor
+(To be filled and submitted in duplicate by individuals)
+1. Name :
+3. Date of Birth and Age :
+4. Permanent Address :
+5. Address for Correspondence;
+Telephone No. :
+Mobile No. :
+Fax :
+E-mail :
+6. Educational Qualification : (Attach Certified copies)
+SL.No. Degree/Diploma College/Institution/University Year of
+completion
+1 2 3 4
+
+7. Technical Qualification in Safety: (Attach certified copies)
+SL.No. Degree/Diploma College/Institution/University Year of
+completion
+1 2 3 4
+
+8. Work Experience (Attach certified copies)
+SL.No. Employment Name and Designation Nature of Work
+From - To address of the Performed
+employer
+1 2 3 4 5
+
+9. For renewal of recognition.-
+Certificate No. and date of issue:
+10. Payment of Fees.-
+Date and reference to payment of fees Amount Paid
+1 2
+
+11. DECLARATION
+I hereby declared that,
+(a) my recognition as a Safety Auditor was not revoked or cancelled in the past;
+(b) my recognition as a Safety Auditor was revoked or cancelled in the past, and
+its details are as follows :-
+Date of revocation or cancellation and Period
+its order number, if any From - To
+
+1 2
+
+Note.- If the recognition was cancelled or revoked twice in the past, the
+Safety Auditor is not eligible for recognition.
+c) I have carried out five or more Safety Audits in the past two years, the list
+showing the name, address of the factory and date of audits are attached
+herewith.
+d) I, ------------------------------------------ hereby declare that the information
+furnished above are correct to the best of my knowledge. I undertake to:
+(i) maintain the facilities in good working order, and
+(ii) maintain a log book of all safety audits undertaken by me, and
+(iv) fulfill and abide by the conditions, if any, stipulated in the certificate of
+recognition.
+(Enclose Applicant’s Latest Photograph signed across)
+
+Signature of the Applicant :
+Full Name :
+Date :
+Place :
+
+FORM – III
+Form of Application for recognition or renewal of recognition to an
+institution as Safety Auditor
+
+1. Name and full address of the Institution:
+2. Institution status (specify whether Government, autonomous, co-operative,
+corporate or private) with registration number:
+3. a) Name of head of Institution
+b) Phone
+c) Mobile No.
+d) E-Mail address
+d) Fax
+e) GST Number
+4. Whether the Institution has been declared as a Safety Auditor by this State or
+any other State? If so, give details.
+5. Attach bio-data of the employed persons (at least three), in the Annexure
+attached to this application:
+6. Any other relevant information
+7. Certificate No. and date of issue: (in case of renewal)
+8. Payment of Fees.-
+Date and reference to payment of fees Amount Paid
+1 2
+
+9. DECLARATION
+I hereby declare that,-
+(a) Recognition of the institution as Safety Auditor was not revoked or cancelled
+in the past;
+(b) the recognition of the institution as Safety Auditor was revoked or cancelled in
+the past, its details are as follows :–
+
+Date of revocation or cancellation and Period
+its order number, if any From - To
+
+1 2
+
+Note.- If the recognition was cancelled or revoked twice in the past, the institution
+is not eligible for recognition.
+(c) The institution has carried out five or more Safety Audits in the past two years,
+the list showing the name, address of the factory and date of audits are
+attached herewith.
+(d) I, hereby declare that the persons whose bio-data it attached to the application
+are the employees of the institution whose copies of appointment letters are
+attached herewith.
+(e) I, --------------------------------------- hereby declare that the information furnished
+above for -------------------------------------- (name of the institution) is correct to
+the best of my knowledge. I undertake to,-
+(i) notify to the Chief Inspector immediately, in case the employed person on
+the basis of which this recognition was procured leaves the employment,
+(ii) maintain the facilities in good working order,
+(iii) maintain a log book of all safety audits undertaken, and
+(iv) fulfill and abide by all the conditions stipulated in the certificate of
+recognition.
+
+Signature of the Head of the Institution:---------------------------------
+Designation:----------------------------------
+Place:---------------------------
+Date:----------------------------
+
+Annexure to Form – B (To be filled separately for each person)
+Personal Information of the persons employed:
+1. Name :
+2. Father/Husband Name :
+3. Date of Birth and Age :
+4. Permanent Address :
+5. Address for :
+Correspondence
+Telephone No. :
+Mobile No. :
+Fax :
+E-mail :
+
+6. Educational Qualification: (Attach Certified copies)
+SL.No. Degree/Diploma College/Institution/University Year of
+completion
+1 2 3 4
+
+7. Technical Qualification in Safety (Attach certified copies)
+SL.No. Degree/Diploma College/Institution/University Year of
+completion
+1 2 3 4
+
+8. Work Experience (Attach certified copies)
+SL.No. Employment Name and Designation Nature of Work
+From - To address of the Performed
+employer
+1 2 3 4 5
+
+(Enclose employed persons Latest Photograph signed across)
+
+DECLARATION
+I hereby declare that all information provided in this annexure is true and
+correct to the best of my knowledge. If recognized, I agree to abide by and uphold
+the high standard of professional ethics in discharge of my duties as a Safety
+Auditor.
+
+Signature of the employed person :
+Full Name :
+Date :
+Place :
+
+FORM – IV
+Certificate of recognition / renewal of recognition as a Safety Auditor.
+CERTIFICATE NO. :…………./SA/CR-…………/20..-..
+M/S. / SHRI / SMT. …………………………, (address)
+…………………………………..,has been recognized / recognition is renewed as a
+“SAFETY AUDITOR”, for the purpose of carrying out Safety Audit under the
+Karnataka Factories (Safety Audit) Rules, 2024.
+The Certificate is valid from ……….. to ……………
+This certificate is issued subject to the conditions stipulated hereunder:-
+1. Safety audit shall be carried out in accordance with the provisions of Karnataka
+Factories (Safety Audit) Rules, 2024.
+2. Every safety audit shall conform to the IS 14489:1998 or latest relevant
+standard.
+3. He or the person in case of institution, authorized to carry out safety audit shall
+be physically present at the time of conducting the Safety Audit and shall
+maintain the record of the work done in the Log Book, as per Rule 6(2)(b)(i) of
+the said rules.
+4. Certificate No. and its validity period should invariably recorded on the Safety
+Audit Report,
+5. No safety audit shall be carried out after expiry of validity period.
+
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19
+Licensed to post without prepayment WPP No. 297
+6. The Chief Inspector reserves the right to revoke, annul or amend this Certificate
+at any time during its validity period,
+7. He or the person authorized, in case of the institution, to carry out safety audit
+shall not conduct a Safety Audit of any factory where such auditor is employed,
+or an occupier, partner, director or manager of that factory, or of any factory
+owned, operated, managed or conducted by immediate family members,
+relatives or extended family members or wherein that auditor or such person
+shall not carry out a safety audit of those factories to which that auditor
+supplies any plant, machinery, raw material, safety equipments or other
+materials, equipment.
+8. He or the person authorized, in case of the institution, to carry out safety audit
+shall not disclose, even after ceasing to be a recognized Safety Auditor of the
+employee of the institution, any manufacturing or commercial secrets or
+working processes or other confidential information which may come to his
+knowledge in the course of their duties as an auditor. Any failure in this regard
+may make such auditor or person liable for criminal or civil proceedings, in
+accordance with the law for the time being in force.
+9. The application for renewal of the recognition as a Safety Auditor shall be made
+at least three months before the expiry of the period of recognition.
+Signature
+Director Factories, Boilers, Industrial Safety and Health, Bengaluru
+Place:
+Date :
+Venkatarama J.T.
+Under Secretary to Government,
+Labour Department,
+(Factories & Boilers).
+PR-1478
