@@ -1,4 +1,4 @@
-# Schedule C.
+# Schedule C
 
 Enactments which are not affected by this Act.
 
@@ -22,11 +22,12 @@ VII The Bombay Maternity Benefit Act, 1929.
 
 II The Bombay Finance Act, 1932.
 
-XV The Bombay Weights and Measures Act, 1932. 3* * * * * * * 3* * * * * * * All Central Ordinances.
+XV The Bombay Weights and Measures Act, 1932. 4* * * * * * * 5* * * * * * * All Central Ordinances.
 
 Notes in the official text:
 
-- 1This Schedule was substituted for the original by Born. 8 of 1950, s. 8.
-- 2 The figures and words 1939 XXV. The Defence of India Act, 1939" were deleted
-- by Bom. 52 of 1947, s. 2 and Schedule.
-- 3These entries were deleted by Bom. 8 of 1950. s. 9.
+- This Schedule was substituted for the original by Bom. 8 of 1950, s. 8.
+- The figures and words "1939 XXXV The Defence of India Act, 1939" were deleted by Bom. 52 of 1947, s. 2 and
+- These entries were deleted by Bom. 8 of 1950, s. 9.
+- These entries were deleted by Bom. 8 of 1950, s. 9.
+- These entries were deleted by Bom. 8 of 1950, s. 9.
