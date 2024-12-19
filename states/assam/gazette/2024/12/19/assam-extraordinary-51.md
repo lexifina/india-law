@@ -1,0 +1,66 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "51"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 51 AERC 929-2024-17 Dated 19-12-24"
+published: "2024-12-19"
+in_force: "2024-12-19"
+in_force_evidence: "published in the Gazette 2024-12-19; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._51_aerc_929-2024-17_dated_19-12-24.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2024-12-19.51"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+ASSAM ELECTRICITY REGULATORY COMMISSION
+NOTIFICATION
+The 19th December, 2024
+AERC (DEMAND RESPONSE), REGULATIONS 2024
+
+460 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 461
+
+462 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 463
+
+464 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 465
+
+466 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 467
+
+468 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 469
+
+470 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 471
+
+472 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 473
+
+474 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 475
+
+476 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 477
+
+478 THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025
+ASHOK KUMAR BARMAN, (RETD.),
+Secretary,
+Assam Electricity Regulatory Commission.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JANUARY 21, 2025 479
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 101 - 10 + 10 - 21 - 01 - 2025. (visit at– dpns.assam.gov.in)
