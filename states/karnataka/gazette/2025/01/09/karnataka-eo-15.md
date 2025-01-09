@@ -1,0 +1,66 @@
+---
+kind: "gazette-notification"
+gazette: "Karnataka Gazette (Extraordinary)"
+gazette_type: "Extra Ordinary"
+part: "Part IVA"
+number: "15"
+issuer: "Government of Karnataka"
+department: "Parliamentary Affairs"
+subject: "Prorogation of Houses (KLA/KLC)"
+published: "2025-01-09"
+in_force: "2025-01-09"
+in_force_evidence: "published in the Gazette 2025-01-09; no other commencement day stated"
+official_text: "https://erajyapatra.karnataka.gov.in/%28S%28qvif5ychiyl1yvhdflbgqhnb%29%29/Search1.aspx"
+mirror: "https://archive.org/details/in.gazette.karnataka_eo.2025-01-09.15"
+language: "English text only"
+---
+
+PARLIAMENTARY AFFAIRS AND LEGISLATION SECRETARIAT
+NOTIFICATION
+No.: DPAL 04 SAMVYAVI 2024, BENGALURU, DATED:09.01.2025.
+The following Order made by the Governor is hereby published for
+general information:-
+
+"ORDER-I
+
+In exercise of the powers conferred upon me by sub-clause (a) of clause
+(2) of Article 174 of the Constitution of India, I, Thaawarchand Gehlot, the
+Governor of Karnataka do hereby prorogue the Karnataka Legislative
+Assembly summoned at Belagavi.
+
+THAAWARCHAND GEHLOT
+GOVERNOR OF KARNATAKA”
+
+By Order and in the name of the
+Governor of Karnataka,
+G. Sridhar
+Secretary to Government,
+Department of Parliamentary
+Affairs and Legislation.
+
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19
+Licensed to post without prepayment WPP No. 297 3
+PARLIAMENTARY AFFAIRS AND LEGISLATION SECRETARIAT
+NOTIFICATION
+No.: DPAL 04 SAMVYAVI 2024, BENGALURU, DATED:09.01.2025.
+
+The following Order made by the Governor is hereby published for
+general information:-
+
+"ORDER-II
+
+In exercise of the powers conferred upon me by sub-clause (a) of clause
+(2) of Article 174 of the Constitution of India, I, Thaawarchand Gehlot, the
+Governor of Karnataka do hereby prorogue the Karnataka Legislative Council
+summoned at Belagavi.
+
+THAAWARCHAND GEHLOT
+GOVERNOR OF KARNATAKA”
+
+By Order and in the name of the
+Governor of Karnataka,
+
+G. Sridhar
+Secretary to Government,
+Department of Parliamentary
+Affairs and Legislation.
