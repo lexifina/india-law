@@ -1,0 +1,46 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Weekly)"
+gazette_number: "738"
+gazette_type: "Weekly"
+part: "Part II"
+number: "1-(2024-2025)"
+issuer: "Government of Andhra Pradesh"
+department: "WATER RESOURCES"
+subject: "ENGINEER-IN-CHIEF (ADMIN) VIJAYAWADA. Proceedings.No.RC/ENC/K3/E-4231925/2021. Dated:17/10/2024. Sri K. SYAM BABU, ASSISTANT EXECUTIVE ENGINEER (D.O.B: 10.02.1973, ZONE-IV) – UNAUTHORIZED ABSENCE TO DUTY FROM 04.07.2007 ONWARDS (i.e., FOR 13 YEARS) - DISCIPLINARY ACTION INITIATED - AOCs ISSUED – INQUIRY REPORT RECEIVED - ALL CHARGES HELD PROVED - FINALIZATION OF DISCIPLINARY ACTION IMPOSING OF MAJOR PUNISHMENT OF REMOVAL FROM SERVICE UNDER RULE 9 OF APCS CCA RULES, 1991"
+published: "2025-01-10"
+in_force: "2025-01-10"
+in_force_evidence: "published in the Gazette 2025-01-10; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTExNDkwOSwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3MzY0OTM0OTgyMTUucGRmIn0.EiH2bSbwEQCbdeqOfAEaq3ExGAX65OMvZmr9RbCeoNY"
+mirror: "https://archive.org/details/in.gazette.andhra_weekly.2025-01-10.738"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+W.No.2 AMARAVATI, FRIDAY, JANUARY 10, 2025 G.738
+PART II - MISCELLANEOUS NOTIFICATIONS OF INTEREST TO THE PUBLIC
+--x--
+NOTIFICATIONS BY HEADS OF DEPARTMENTS Etc.,
+WATER RESOURCES DEPARTMENT
+ENGINEER-IN-CHIEF (ADMIN)
+VIJAYAWADA.
+Proceedings.No.RC/ENC/K3/E-4231925/2021. Dated:17/10/2024.
+Sri K. SYAM BABU, ASSISTANT EXECUTIVE ENGINEER (D.O.B: 10.02.1973,
+ZONE-IV) – UNAUTHORIZED ABSENCE TO DUTY FROM 04.07.2007 ONWARDS
+(i.e., FOR 13 YEARS) - DISCIPLINARY ACTION INITIATED - AOCs ISSUED –
+INQUIRY REPORT RECEIVED - ALL CHARGES HELD PROVED - FINALIZATION
+OF DISCIPLINARY ACTION IMPOSING OF MAJOR PUNISHMENT OF REMOVAL
+FROM SERVICE UNDER RULE 9 OF APCS CCA RULES, 1991.
+
+2 ANDHRA PRADESH GAZETTE, January 10, 2025
+
+ANDHRA PRADESH GAZETTE, January 10, 2025 3
+
+4 ANDHRA PRADESH GAZETTE, January 10, 2025
+
+ANDHRA PRADESH GAZETTE, January 10, 2025 5
+T.V.N.A.R.KUMAR,
+Engineer-in-Chief (Admn.).
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
