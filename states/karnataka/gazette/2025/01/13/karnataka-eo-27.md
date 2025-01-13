@@ -1,0 +1,42 @@
+---
+kind: "gazette-notification"
+gazette: "Karnataka Gazette (Extraordinary)"
+gazette_type: "Extra Ordinary"
+part: "Part IVA"
+number: "27"
+issuer: "Government of Karnataka"
+department: "Department Of Commercial Taxes"
+subject: "Seeks to extend the due date for furnishing FORM GSTR-6 for the month of December, 2024"
+published: "2025-01-13"
+in_force: "2025-01-13"
+in_force_evidence: "published in the Gazette 2025-01-13; no other commencement day stated"
+official_text: "https://erajyapatra.karnataka.gov.in/%28S%28mcizgtwwvabwo5mz0v3n33vj%29%29/Search1.aspx"
+mirror: "https://archive.org/details/in.gazette.karnataka_eo.2025-01-13.27"
+language: "English text only"
+---
+
+Part -IVA BENGALURU, MONDAY, 13, JANUARY, 2025( PUSHYA, 23, SHAKAVARSHA, 1946) | No.27
+
+GOVERNMENT OF KARNATAKA
+
+No. KGST.CR.01/17-18 (Vol-4) Office of the
+Commissioner of Commercial Taxes
+(Karnataka), Vanijya Therige Karyalaya,
+Gandhinagar, Bengaluru, Dated:13.01.2025.
+
+NOTIFICATION (04/2025)
+
+In exercise of the powers conferred by sub-section (6) of section 39 read with section 168 of
+the Karnataka Goods and Services Tax Act, 2017 (Karnataka Act 27 of 2017), the Commissioner,
+on the recommendations of the Council, hereby extends the time limit for furnishing the return by
+an Input Service Distributor in FORM GSTR-6 under sub-section (4) of section 39 of the said Act
+read with rule 65 of the Karnataka Goods and Services Tax Rules, 2017, for the month of
+December, 2024 till the 15th day of January, 2025.
+
+(VIPUL BANSAL)
+Commissioner of Commercial Taxes
+(Karnataka), Bengaluru.
+
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19 (0) THAMMAIAH 22855
+pseudonym=ca58c76cf7e2445d7a4f3f51407e025e, R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19 serialNumber=4d9b284dcc53d39f1425f50485de07dd86efa302a3fce3729eddea0c1b5098e 0, ou=GOVERNMENT OF KARNATAKA, o=GOVERNMENT OF KARNATAKA, cn=THAMMAIAH Date: 2025.01.13 17:32:18 +05'30'
+Licensed to post without prepayment WPP No. 297
