@@ -1,0 +1,67 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "879"
+gazette_type: "Extraordinary"
+part: "Part II"
+number: "1-(2024-2025)"
+issuer: "Government of Andhra Pradesh"
+department: "VISAKHAPATNAM PORT TRUST NOTIFICATION"
+subject: "VISAKHAPATNAM PORT AUTHORITY GENERAL ADMINISTRATION DEPARTMENT No.IGAD/BDS/VCTPL-SOR/2025/5514, Date : 04.02.2025. PUBLICATION OF DRAFT NOTIFICATION ON GENERAL REVISION OF VCTPL SOR UNDER 2019 GUIDELINES"
+published: "2025-02-12"
+in_force: "2025-02-12"
+in_force_evidence: "published in the Gazette 2025-02-12; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTA5MzAwOSwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3MzkzMzgxOTg3MDcucGRmIn0.Fy1M57KYH_4_dsEhS1vdjYtq5J2OS6uKloZ5vKWtEn0"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2025-02-12.879"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART II EXTRAORDINARY
+No.26 AMARAVATI, WEDNESDAY, FEBRUARY 12, 2025 G.879
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, Etc.
+--x--
+VISAKHAPATNAM PORT AUTHORITY
+GENERAL ADMINISTRATION DEPARTMENT
+No.IGAD/BDS/VCTPL-SOR/2025/5514, Date : 04.02.2025.
+PUBLICATION OF DRAFT NOTIFICATION ON GENERAL REVISION OF VCTPL
+SOR UNDER 2019 GUIDELINES.
+Sd/-.,
+Secretary,
+Visakhapatnam Port Authority,
+Visakhapatnam.
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+February 12, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 3
+
+4 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+February 12, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 5
+
+6 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+February 12, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 7
+
+8 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+February 12, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 9
+
+10 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+February 12, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 11
+
+12 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+February 12, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 13
+
+14 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+February 12, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 15
+Sd/-.,
+Secretary,
+Visakhapatnam Port Authority,
+Visakhapatnam.
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
