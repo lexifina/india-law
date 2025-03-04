@@ -1,0 +1,89 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "942"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2024-2025)"
+issuer: "Government of Andhra Pradesh"
+department: "MUNICIPAL ADMINISTRATION & URBAN DEVELOPMENT"
+subject: "FILE.NO: CLU/772/2019 (e file no. MAU61-PLG0OTH/33/2020): DRAFT VARIATION TO APCRDA – GOLLAPUDI ZONAL DEVELOPMENT PLAN- GOLLAPUDI VILLAGE, VIJAYAWADA RURAL MANDAL, NTR District"
+published: "2025-03-04"
+in_force: "2025-03-04"
+in_force_evidence: "published in the Gazette 2025-03-04; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTA5NDQ5OCwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NDEwNjk0Mzc2MjYucGRmIn0.9qyniPg330BxBXdiGt1_YlKR08orYrX5leh6XYx3Oc0"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2025-03-04.942"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+
+PART I EXTRAORDINARY
+No.126 AMARAVATI, TUESDAY, MARCH 4, 2025 G.942
+
+NOTIFICATIONS BY GOVERNMENT
+
+--x--
+MUNICIPAL ADMINISTRATION AND URBAN DEVELOPMENT
+DEPARTMENT
+(APCRDA)
+FILE.NO: CLU/772/2019 (e file no. MAU61-PLG0OTH/33/2020):
+DRAFT VARIATION TO APCRDA – GOLLAPUDI ZONAL DEVELOPMENT PLAN-
+GOLLAPUDI VILLAGE, VIJAYAWADA RURAL MANDAL, NTR District.
+APPENDIX
+NOTIFICATION
+The following draft variation to the land use envisaged in the
+Gollapudi Zonal Development Plan notified vide G.O.Ms No. 677 MA,
+dt.29/12/2006, is proposed in exercise of the powers conferred under
+Section-41 of APCRDA Act, 2014 (Andhra Pradesh Act No.11 of 2014 and
+is hereby published as required by the section 41(3) of said Act).
+Notice is hereby given that the draft will be taken into consideration
+after the expiry of fifteen days from the date of publication in Andhra
+Pradesh Gazette and that any objection and suggestion which may be
+received from any person with respect thereto before expiry of the above
+said period will be considered by APCRDA. Objections and suggestions
+should be addressed to Commissioner, APCRDA, Lenin Centre,
+Governorpet – Vijayawada (AP) Pin Code: 520002. Objections and
+
+suggestions received after due date shall not be entertained including
+postal delays, if any.
+DRAFT VARIATION
+The site measuring to an extent of 4046.54Sqm in R.S.No.204/3A of
+Gollapudi village, Vijayawada rural mandal, NTR District with the following
+schedule of boundaries, which was earmarked for Residential land Use in
+the Gollapudi Zonal Development Plan notified vide G.O.Ms No. 677 MA,
+dt.29/12/2006, is now proposed to be designated for Commercial Land Use
+(Go-downs). Further details of the proposed change are available in the
+office of APCRDA, Lenin Centre, Vijayawada and also available in APCRDA
+website www.crda.ap.gov.in subject to the following conditions:
+1. The owners /applicants shall be responsible for any damage claimed
+by anyone on account of change of land use proposed.
+2. The change of land use shall not be used as the proof of any title of
+the land.
+3. The applicant should obtain the development permission from the
+competent authority duly paying the required fee and charges.
+4. The Road affected portion shall be handed over to competent
+authority on free of Cost through registered gift deed as and when
+required.
+5. Compliance of building/layout rules at the time of development
+permission.
+6. Competent authority shall ensure that the provisions mentioned in
+the Andhra Pradesh Agriculture Land (Conversion for Non-Agricultural
+Purpose) Act-2006 is adhered to.
+7. Any other conditions as may be imposed by The Commissioner,
+Andhra Pradesh Capital Region Development Authority, Vijayawada.
+SCHEDULE OF BOUNDARIES
+The schedule for the site under reference in R.S.No.204/3A of Gollapudi
+village, Vijayawada rural mandal, NTR District to an extent of 4046.54Sqm
+is given below:
+The schedule of boundaries is:
+North : Land in R.S.No.204(P) of Gollapudi village.
+South : Vacant land in R.S.No. 204(P) of Gollapudi village.
+
+East : FMB Donka and Proposed 80’ wide ZDP road in R.S.No.480 of
+Gollapudi village.
+West : Vacant land in R.S.No. 204(P) of Gollapudi village.
+
+Sd/-,
+Commissioner,
+APCRDA.
