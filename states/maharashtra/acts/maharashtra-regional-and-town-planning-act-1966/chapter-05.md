@@ -1,5 +1,5 @@
 # Chapter V
 
-TOWN PLANNING SCHEMES.
+TOWN PLANNING SCHEMES
 
 (a) Making of town planning schemes.

@@ -1,3 +1,3 @@
 # Chapter VI
 
-NEW TOWNS.
+NEW TOWNS
