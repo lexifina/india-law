@@ -1,0 +1,63 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "992"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2024-2025)"
+issuer: "Government of Andhra Pradesh"
+department: "ENERGY DEPT"
+subject: "THE ANDHRA PRADESH LIFTS AND ESCALATORS RULES, 2025 TO MAKE UNDER THE ANDHRA PRADESH LIFTS AND ESCALATORS ACT, 2025 (ACT No.3 OF 2025). [G.O.Ms.No.31, Energy (Power.II), 13th March, 2025.]"
+published: "2025-03-17"
+in_force: "2025-03-17"
+in_force_evidence: "published in the Gazette 2025-03-17; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTA5NTM2OCwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NDIyMDU5MTIwMTUucGRmIn0.tbwn8ctnwbLi40__01RfV8MVrgZJl2O5FNDb_D86274"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2025-03-17.992"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.166 AMARAVATI, MONDAY, MARCH 17, 2025 G.992
+NOTIFICATIONS BY GOVERNMENT
+--x--
+ENERGY DEPARTMENT
+(POWER-II)
+THE ANDHRA PRADESH LIFTS AND ESCALATORS RULES, 2025 TO MAKE
+UNDER THE ANDHRA PRADESH LIFTS AND ESCALATORS ACT, 2025
+(ACT No.3 OF 2025).
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+March 17, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 3
+
+4 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+March 17, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 5
+
+6 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+March 17, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 7
+
+8 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+March 17, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 9
+
+10 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+March 17, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 11
+
+12 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+March 17, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 13
+
+14 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+March 17, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 15
+
+16 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+K. VIJAYANAND,
+Special Chief Secretary to Government (FAC).
+---x---
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
