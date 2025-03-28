@@ -1,0 +1,3 @@
+# Section 43A
+
+43A. Power of District Judge to refer for disposal certain appeals to Assistant Judge or Civil Judge empowered to hear appeals.— A District Judge may refer for disposal any appeal filed under the last preceding section to an Assistant Judge, or a Civil Judge invested with power to hear appeals under section 27 of the Bombay Civil Courts Act, 1869 (XIV of 1869).]
