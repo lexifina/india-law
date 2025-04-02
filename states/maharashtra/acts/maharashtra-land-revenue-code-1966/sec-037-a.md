@@ -1,8 +1,10 @@
 # Section 37A
 
-37A. Restrictions on sale, transfer, redevelopment, change of use, etc., in relation to Government land and nazul land.—(1) Every sale, transfer, redevelopment, use of additional Floor Space Index (FSI), transfer of Transferable Development Rights (TDR) or change of use of any Government land in Amravati and Nagpur Revenue Divisions including the Mumbai City and Revenue Divisions in the State, which is granted for various purposes under the provisions of this Code or rules made thereunder or any law relating to land revenue, before the commencement of this Code, including the nazul lands in Amravati and Nagpur Revenue Divisions shall be subject to taking the prior permission of the State Government.
+37A. Restrictions on sale, transfer, redevelopment, change of use, etc., in relation to Government land and nazul land.— (1) Every sale, transfer, redevelopment, use of additional Floor Space Index (FSI), transfer of Transferable Development Rights (TDR) or change of use of any Government land in Amravati and Nagpur Revenue Divisions including the Mumbai City and Revenue Divisions in the State, which is granted for various purposes under the provisions of this Code or rules made thereunder or any law relating to land revenue, before the commencement of this Code, including the nazul lands in Amravati and Nagpur Revenue Divisions shall be subject to taking the prior permission of the State Government.
 
-(2) The State Government shall, while granting such permission as required under sub-section (1), recover such premium or charge and share of unearned income subject to such terms and conditions as may be specified, by general or special order, issued by the Government, from time to time :
+(2) The State Government shall, while granting such permission as required under sub-section
+
+(1), recover such premium or charge and share of unearned income subject to such terms and conditions as may be specified, by general or special order, issued by the Government, from time to time :
 
 Provided that, if the provisions of this section or of any such orders issued thereunder are inconsistent with the terms and conditions of the order of land grant or the lease deed executed prior to the commencement of the Maharashtra Land Revenue Code (Second Amendment) Act, 2012 (Mah. IV of 2015), the terms and conditions of such order of land grant or lease deed shall prevail :
 

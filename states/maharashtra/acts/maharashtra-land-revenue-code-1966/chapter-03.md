@@ -1,3 +1,3 @@
 # Chapter III
 
-OF LANDS.
+OF LANDS
