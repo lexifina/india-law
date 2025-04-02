@@ -5,3 +5,4 @@ Maharashtra Act 6 of 2017, as published by the Law and Judiciary Department, Gov
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | consolidated snapshot, as modified up to 2018-09-06 | 2018-09-06 (as modified up to 2018-09-06 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Maharashtra Act 6 of 2017 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Public%20University%20Act%202016.pdf |
+| consolidated snapshot, text as on 2025-04-02 | 2025-04-02 (text as on 2025-04-02 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (the amendment list does not say its dates are commencement da) | Maharashtra Act 6 of 2017 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Act_No_6_of_2017_19_11_2025.pdf |
