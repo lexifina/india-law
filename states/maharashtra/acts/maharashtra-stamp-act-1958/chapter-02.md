@@ -1,5 +1,5 @@
 # Chapter II
 
-STAMP DUTIES
+STAMPS DUTIES
 
-(A) Of the Liability of Instruments to Duty
+(A) Of the Liability of Instruments to Duty.
