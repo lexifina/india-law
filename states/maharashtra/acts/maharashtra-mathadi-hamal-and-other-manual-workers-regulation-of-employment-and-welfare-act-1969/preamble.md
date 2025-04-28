@@ -1,0 +1,5 @@
+# Preamble
+
+An Act for regulating the employment of unprotected 2[manual workers] employed in certain employments in the State of Maharashtra, to make provision for their adequate supply and proper and full utilization in such employments, and for maters connected therewith.
+
+WHEREAS, it is expedient to regulate the employment of unprotected 3[manual workers], such as, Mathadi, Hamal etc., engaged in certain employments, to make better provision for their terms and conditions of employment, to provide for their welfare, and for health and safety measures where such employments require these measures; to make provision for ensuring and adequate supply to, and full and proper utilization of, such workers in such employments to prevent avoidable unemployment; for these and similar purposes, to provide for the establishment of Boards in respect of these employments and (where necessary) in the different areas of the State; and to provide for purposes connected with the matters aforesaid; It is hereby enacted in the Twentieth Year of the Republic of India as follows :—
