@@ -1,0 +1,37 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Weekly)"
+gazette_number: "74"
+gazette_type: "Weekly"
+part: "PART I"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "ANIMAL HUSBANDRY, DAIRY DEV. & FISHERIES"
+subject: "INCIDENCE OF AFRICAN SWINE FEVER (ASF) DISEASE IN DOMESTIC PIGS IN NANNUR (VILLAGE) OF ORVAKAL (MANDAL) OF KURNOOL DISTRICT - BIOSECURITY AND CONTROL MEASURES TAKEN AS PER NATIONAL ACTION PLAN FOR CONTROL, CONTAINMENT AND ERADICATION OF AFRICAN SWINE FEVER (ASF) AND UNDER THE PROVISIONS OF SUB-SECTION (1) OF SECTION 6 OF THE PREVENTION AND CONTROL OF INFECTIOUS AND CONTAGIOUS DISEASES IN ANIMALS ACT, 2009 (ACT. NO.27 OF 2009) - EPICENTER OF AFRICAN SWINE FEVER (ASF) DISEASE. [G.O.Rt.No. 154, Animal, Husbandry, Dairy Development & Fisheries (AH.II), 6th April, 2025.]"
+published: "2025-05-06"
+in_force: "2025-05-06"
+in_force_evidence: "published in the Gazette 2025-05-06; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTEyMzU2OSwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NDY1Mjc4OTgwMjUucGRmIn0.Bt3DgqfC6X695S4BeTxHPWfkHtUPw5AquDXPmN6eCDw"
+mirror: "https://archive.org/details/in.gazette.andhra_weekly.2025-05-06.74"
+language: "English text only"
+---
+
+AND OTHER OFFICERS
+--x--
+NOTIFICATIONS BY GOVERNMENT
+ANIMAL HUSBANDRY, DAIRY DEVELOPMENT &
+FISHERIES DEPARTMENT
+(AH.II)
+INCIDENCE OF AFRICAN SWINE FEVER (ASF) DISEASE IN DOMESTIC PIGS IN
+NANNUR (VILLAGE) OF ORVAKAL (MANDAL) OF KURNOOL DISTRICT - BIO-
+SECURITY AND CONTROL MEASURES TAKEN AS PER NATIONAL ACTION
+PLAN FOR CONTROL, CONTAINMENT AND ERADICATION OF AFRICAN
+SWINE FEVER (ASF) AND UNDER THE PROVISIONS OF SUB-SECTION (1) OF
+SECTION 6 OF THE PREVENTION AND CONTROL OF INFECTIOUS AND
+CONTAGIOUS DISEASES IN ANIMALS ACT, 2009 (ACT. NO.27 OF 2009) -
+EPICENTER OF AFRICAN SWINE FEVER (ASF) DISEASE.
+[G.O.Rt.No. 154, Animal, Husbandry, Dairy Development & Fisheries (AH.II),
+B. RAJSEKHAR,
+Ex-Officio Special Chief Secretary to Government.
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
