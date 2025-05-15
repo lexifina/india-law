@@ -1,0 +1,43 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "108"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "GENERAL ADMINISTRATION"
+subject: "MONETARY GRANTS - ADMINISTRATIVE SANCTION FOR Rs.5,00,000/- TOWARDS MO NETARY ASSISTAN CE TO G ALLANTRY EX-GR ATIA RELIEF TO DISABLED AND DEPENDENTS OF DECEASED ARMED PERSONNEL IN RESPECT OF Smt. CHANDAKA LAKSHMI M/o. NO.228693 K, PO (CD), CHANDAKA GOVINDA, NATIVE OF PARLA VILLAGE, SIVARAM POST, CHEEPURUPALLI TAHSIL, VIZIANAGARAM DISTRICT - DIED ON 05.04.2023 DUE TO OPERATIONAL ORIENTED TRAINING IN PREPARATION FOR ACTUAL OPERATIONS AT HIGH ALTITUDE HIGH OPENING (HAHO) - ACCORDED. [G.O.Rt.No.927, General Administration (Poll.B), 14th May, 2025.]"
+published: "2025-05-15"
+in_force: "2025-05-15"
+in_force_evidence: "published in the Gazette 2025-05-15; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTA5OTU2NCwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NDczMTAzMTQxNjgucGRmIn0.vNQW7mUgasry-HZxmuQ_u3fbxvbwb_Wy0A4khSuACPA"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2025-05-15.108"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.276 AMARAVATI, THURSDAY, MAY 15, 2025 G.108
+NOTIFICATIONS BY GOVERNMENT
+--x--
+GENERAL ADMINISTRATION DEPARTMENT
+(POLL.B)
+MONETARY GRANTS - ADMINISTRATIVE SANCTION FOR Rs.5,00,000/-
+TOWARDS MONETARY ASSISTANCE TO GALLANTRY EX-GRATIA
+RELIEF TO DISABLED AND DEPENDENTS OF DECEASED ARMED
+PERSONNEL IN RESPECT OF Smt. CHANDAKA LAKSHMI M/o. NO.228693
+K, PO (CD), CHANDAKA GOVINDA, NATIVE OF PARLA VILLAGE, SIVARAM
+POST, CHEEPURUPALLI TAHSIL, VIZIANAGARAM DISTRICT - DIED
+ON 05.04.2023 DUE TO OPERATIONAL ORIENTED TRAINING IN
+PREPARATION FOR ACTUAL OPERATIONS AT HIGH ALTITUDE HIGH
+OPENING (HAHO) - ACCORDED.
+[G.O.Rt.No.927, General Administration (Poll.B), 14th May, 2025.]
+Read the following: -
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+MUKESH KUMAR MEENA,
+Principal Secretary to Government (Political).
+---x---
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
