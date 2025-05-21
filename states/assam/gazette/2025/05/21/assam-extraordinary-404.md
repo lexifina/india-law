@@ -1,0 +1,65 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "404"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 404 SEC 29-2025-30 Dated 21-05-25"
+published: "2025-05-21"
+in_force: "2025-05-21"
+in_force_evidence: "published in the Gazette 2025-05-21; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._404_sec_29-2025-30_dated_21-05-25.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2025-05-21.404"
+language: "English text only"
+---
+
+Registered No.-768/97
+THE ASSAM GAZETTE
+EXTRAORDINARY
+PUBLISHED BY THE AUTHORITY
+404 6 2025, 16 1947 ( )
+No. 404 Dispur, Friday, 6th June, 2025, 16th Jaistha, 1947 (S. E.)
+
+3256 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3257
+
+3258 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3259
+
+3260 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3261
+
+3262 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3263
+
+3264 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3265
+
+3266 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3267
+
+3268 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3269
+
+3270 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3271
+
+3272 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3273
+
+3274 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025 3275
+
+3276 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 06, 2025
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 807 - 50 + 10 - 06 - 06 - 2025. (visit at– dpns.assam.gov.in)
