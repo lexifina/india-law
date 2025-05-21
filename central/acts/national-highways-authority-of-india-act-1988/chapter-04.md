@@ -1,0 +1,3 @@
+# Chapter IV
+
+FUNCTIONS OF THE AUTHORITY
