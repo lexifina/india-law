@@ -1,0 +1,41 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "197"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "REVENUE"
+subject: "EXEMPTION OF STAMP DUTY UNDER SECTION 9(1)(a) OF INDIAN STAMP ACT, 1899, REGISTRATION FEE UNDER SECTION 78 OF REGISTRATION ACT, 1908 AND TRANSFER DUTY OF Rs. 10,54,480/- ON GIFT DEED TO AN EXTENT OF AC.10.88 CENTS OF LAND (Ac.8.88 CENTS IN Sy.No.74 & AC.2.00 CENTS IN Sy.No.76/2) IN VANGURU VILLAGE, PEDAVEGI MANDAL, ELURU DISTRICT TO BE EXECUTED BY Smt. KASARANENI DAMAYANTHI, IAS(Retd.) IN FAVOUR OF HYDERABAD EYE INSTITUTE REGISTERED CHARITABLE TRUST WHICH MANAGES THE NOT-FOR-PROFIT L.V. PRASAD EYE INSTITUTE (LVPEI). [G.O.Ms.No.188, Revenue (Registration.II), 9th June, 2025.]"
+published: "2025-06-09"
+in_force: "2025-06-09"
+in_force_evidence: "published in the Gazette 2025-06-09; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTEwMTI3Mywic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NDk0NjQ3NzUwNDkucGRmIn0.m0shVLPX9obQ6178lHQCqEId-UQahJa60_lg9U4Zd8k"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2025-06-09.197"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.352 AMARAVATI, MONDAY, JUNE 9, 2025 G.197
+NOTIFICATIONS BY GOVERNMENT
+--x--
+REVENUE DEPARTMENT
+(REGISTRATION.II)
+EXEMPTION OF STAMP DUTY UNDER SECTION 9(1)(a) OF INDIAN STAMP ACT,
+1899, REGISTRATION FEE UNDER SECTION 78 OF REGISTRATION ACT, 1908
+AND TRANSFER DUTY OF Rs. 10,54,480/- ON GIFT DEED TO AN EXTENT OF
+AC.10.88 CENTS OF LAND (Ac.8.88 CENTS IN Sy.No.74 & AC.2.00 CENTS IN
+Sy.No.76/2) IN VANGURU VILLAGE, PEDAVEGI MANDAL, ELURU DISTRICT TO BE
+EXECUTED BY Smt. KASARANENI DAMAYANTHI, IAS(Retd.) IN FAVOUR OF
+HYDERABAD EYE INSTITUTE REGISTERED CHARITABLE TRUST WHICH
+MANAGES THE NOT-FOR-PROFIT L.V. PRASAD EYE INSTITUTE (LVPEI).
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+G. JAYALAKSHMI,
+Special Chief Secretary to Government (FAC).
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
