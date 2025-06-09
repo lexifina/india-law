@@ -1,0 +1,3 @@
+# Section 17A
+
+17A. Detention order against any person engaged in black-marketing of essential commodities to be made under this Act and not under Prevention of Black-marketing and Maintenance of Supplies of Essential Commodities Act, 1980.— No order of detention shall be made by the State Government or any of its officer under the Prevention of Black-marketing and Maintenance of Supplies of Essential Commodities Act, 1980 (7 of 1980) on or after the commencement of the Maharashtra Prevention of Dangerous Activities of Slumlords, Bootleggers, Drug-offenders, Dangerous persons and video pirates (Amendment) Act, 2015 (Mah. V of 2016) in respect of any person engaged in black-marketing of essential commodities.]
