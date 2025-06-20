@@ -1,0 +1,84 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "451"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 451 LGL 26-2025-33 Dated 20-06-25"
+published: "2025-06-20"
+in_force: "2025-06-20"
+in_force_evidence: "published in the Gazette 2025-06-20; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._451_lgl_26-2025-33_dated_20-06-25.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2025-06-20.451"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+LEGISLATIVE DEPARTMENT : : : LEGISLATIVE BRANCH
+NOTIFICATION
+The 20th June, 2025
+No. LGL.26/2025/33.– The following Act of the Assam Legislative Assembly which
+received the assent of the Governor of Assam on 19th June, 2025 is hereby published for general
+information.
+ASSAM ACT NO. XXXII OF 2025
+(Received the assent of the Hon'ble Governor of Assam on 19th June, 2025)
+THE ASSAM COACHING INSTITUTES
+(CONTROL AND REGULATION) ACT, 2025
+
+3744 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+AN
+ACT
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3745
+
+3746 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3747
+
+3748 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3749
+
+3750 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3751
+
+3752 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3753
+
+3754 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3755
+GEETANJALI DAS SAIKIA,
+Secretary to the Government of Assam,
+Legislative Department, Dispur, Guwahati-6.
+
+3756 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3757
+
+3758 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3759
+
+3760 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3761
+
+3762 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3763
+
+3764 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3765
+
+3766 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025 3767
+
+3768 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 20, 2025
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 901 - 100 + 10 - 20 - 06 - 2025. (visit at– dpns.assam.gov.in)
