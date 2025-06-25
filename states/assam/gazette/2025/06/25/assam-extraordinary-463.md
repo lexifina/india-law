@@ -1,0 +1,68 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "463"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 463 112170-660 Dated 25-06-25"
+published: "2025-06-25"
+in_force: "2025-06-25"
+in_force_evidence: "published in the Gazette 2025-06-25; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._463_112170-660_dated_25-06-25.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2025-06-25.463"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+MINES AND MINERALS DEPARTMENT
+NOTIFICATION
+The 25th June, 2025
+
+3944 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3945
+
+3946 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3947
+
+3948 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3949
+
+3950 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3951
+
+3952 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+AJAY TEWARI,
+Additional Cheif Secretary to the Government of Assam,
+Mines & Minerals Department,
+Dispur.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3953
+
+3954 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3955
+
+3956 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3957
+
+3958 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3959
+
+3960 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3961
+
+3962 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025 3963
+
+3964 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2025
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 925 - 10 + 10 -25 - 06 - 2025. (visit at– dpns.assam.gov.in)
