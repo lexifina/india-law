@@ -1,0 +1,75 @@
+---
+kind: "gazette-notification"
+gazette: "Haryana Government Gazette"
+gazette_number: "112-2025/Ext"
+gazette_type: "Extra-Ordinary"
+number: "No. 11/31/2025– 4 Lab"
+issuer: "Government of Haryana"
+department: "Labour"
+subject: "M/s NESTLE INDIA LIMITED, Unit-I & II, PO Box- 1, Pattikalyana Kiwana Road, Samalkha"
+published: "2025-06-26"
+in_force: "2025-06-26"
+in_force_evidence: "published in the Gazette 2025-06-26; no other commencement day stated"
+official_text: "https://www.egazetteharyana.gov.in/home.aspx"
+mirror: "https://archive.org/details/in.gazette.haryana.2025-06-26.Extra-Ordinary_No-11-31-2025-4-Lab"
+language: "English text only"
+---
+
+Haryana Government Gazette
+EXTRAORDINARY
+Published by Authority
+© Govt. of Haryana
+No. 112-2025/Ext.] CHANDIGARH, THURSDAY, JUNE 26, 2025 (ASADHA 5, 1947 SAKA)
+HARYANA GOVERNMENT
+LABOUR DEPARTMENT
+Notification
+The 26th June, 2025
+No. 11/31/2025–4 Lab.— In exercise of the powers conferred by the proviso to clause (b) of sub-section (1) of
+Section 66 of Factories Act, 1948 (Central Act 63 of 1948) read with Labour Department notification no.11/6/2022-
+4Lab dated 17.6.2022, the Governor of Haryana hereby allow M/s NESTLE INDIA LIMITED, Unit-I & II,
+PO Box- 1, Pattikalyana Kiwana Road, Samalkha, District: Panipat-132101 for employment of women workers
+between the hours of 07:00P.M. to 6:00A.M. The said exemption shall be valid up to 20th June, 2026, subject to the
+following conditions, namely:-
+1. Declaration/consent from each women worker including security guard, supervisors, shift - in-charge or any
+other women staff to work during night shift i.e. between 07.00 PM to 06.00 AM shall be obtained.
+2. The provisions of the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act,
+2013 and Rules framed thereunder or any other law or any other instructions I conditions issued in this regard
+from time to time by the Central Government or State Government, shall be complied with by the occupier of
+the factory.
+3. The occupier should provide proper lighting and CCTV cameras not only inside the factory, but also
+surrounding of the factory and to all places where the female workers may move out of necessity in the course
+of her work.
+4. The occupier or manager shall see that the women workers are employed in a batch of not less than four.
+5. The Occupier shall provide transportation facility to the women workers from their residence and back.
+Security guards (including female security guard), well trained & responsible drivers, proper communication
+channels shall be provided in each vehicle. Other practical measures such as installation of CCTV cameras,
+GPS etc. may also be provided in each vehicle to ensure the safety and security of women workers.
+Provided that a women worker may opt out of transportation facility by giving her consent if she is
+willing to come to workplace by herself. Provided further that the occupier may pool the transportation facility
+by tie-up with the external transporters.
+(1514)
+
+HARYANA GOVT. GAZ. (EXTRA.), JUNE 26, 2025 (ASAR. 5, 1947 SAKA) 1515
+Provided further that in the case or the driver employed through outsourcing, the management shall
+ensure to its satisfaction that the collection or Bio-data and conduct pre-employment screening of the
+antecedents of the drivers carried out by the service provider.
+6. At least one female security guard shall be provided in the factory during the night shift.
+7. Appropriate medical facility by engaging a doctor / female nurse shall be provided during the night shift.
+However, the occupier may pool the ambulance services and other necessary medical facilities by tie-up with
+the nearby hospital to meet any emergent situation during the night shift. The important telephone numbers
+such as hospitals, Ambulance, Police etc. shall also be displayed at prominent places.
+8. In other respects, the provisions or the Factories Act. 1948 and the Rules of other statutory provisions with
+respect to the hours of work, rest intervals, holidays, separate canteen or rest room facility for women workers,
+the provisions of Payment or Equal Remuneration Act and all other Labour Legislations shall be followed by
+the occupier of the factory.
+9. An express report should also be sent to the concerned Assistant Director, Industrial Safety & Health and local
+Police Station as well, whenever there is some untoward incident.
+10. Any other condition may be specified in this regard by the State Government from time to time.
+All the above said conditions shall be applicable to the management of the factories where women workers are
+working in the factories.
+
+RAJEEV RANJAN,
+Principal Secretary to Government Haryana,
+Labour Department.
+
+11941—C.S.—H.G.P., Pkl.
