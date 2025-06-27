@@ -1,0 +1,3 @@
+# Section 7A. Audit of documents, etc., maintained in electronic form
+
+7A. Audit of documents, etc., maintained in electronic form.–Where in any law for the time being in force, there is a provision for audit of documents, records or information, that provision shall also be applicable for audit of documents, records or information processed and maintained in the electronic form.]

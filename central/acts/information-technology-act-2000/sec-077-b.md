@@ -1,0 +1,3 @@
+# Section 77B. Offences with three years imprisonment to be bailable
+
+77B. Offences with three years imprisonment to be bailable.–Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the offence punishable with imprisonment of three years and above shall be cognizable and the offence punishable with imprisonment of three years shall be bailable.]

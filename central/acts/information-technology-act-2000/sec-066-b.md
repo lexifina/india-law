@@ -1,0 +1,3 @@
+# Section 66B. Punishment for dishonestly receiving stolen computer resource or communication device
+
+66B. Punishment for dishonestly receiving stolen computer resource or communication device.– Whoever dishonestly received or retains any stolen computer resource or communication device knowing or having reason to believe the same to be stolen computer resource or communication device, shall be punished with imprisonment of either description for a term which may extend to three years or with fine which may extend to rupees one lakh or with both.
