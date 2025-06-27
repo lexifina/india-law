@@ -1,0 +1,5 @@
+# Section 67C. Preservation and retention of information by intermediaries
+
+67C. Preservation and retention of information by intermediaries.–(1) Intermediary shall preserve and retain such information as may be specified for such duration and in such manner and format as the Central Government may prescribe.
+
+(2) any intermediary who intentionally or knowingly contravenes the provisions of sub-section (1) shall be 1[liable to penalty which may extend to twenty-five lakh rupees].]

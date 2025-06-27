@@ -1,0 +1,3 @@
+# Section 10A. Validity of contracts formed through electronic means
+
+10A. Validity of contracts formed through electronic means.–Where in a contract formation, the communication of proposals, the acceptance of proposals, the revocation of proposals and acceptances, as the case may be, are expressed in electronic form or by means of an electronic records, such contract shall not be deemed to be unenforceable solely on the ground that such electronic form or means was used for that purpose.]

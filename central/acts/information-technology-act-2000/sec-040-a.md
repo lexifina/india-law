@@ -1,0 +1,3 @@
+# Section 40A. Duties of subscriber of Electronic Signature Certificate
+
+40A. Duties of subscriber of Electronic Signature Certificate.–In respect of Electronic Signature Certificate the subscriber shall perform such duties as may be prescribed.]
