@@ -1,0 +1,42 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "339"
+gazette_type: "Extraordinary"
+part: "Part II"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "REVENUE (LAND ACQUISATION)"
+subject: "Memo. No. 2789395/LANDS.IV/2025 Dated. 21-07-2025. VIJAYAWADA DIVISION - G. KONDURU MANDAL - LOYA VILLAGE - REQUEST FOR ACQUISITION OF Ac.0.40 Cts IN R.S.No,94/2 & 95/1B FOR THE CONSTRUCTION OF RUB RETAINING WALLS ALONG WITH APPROACH ROADS AT LEVEL CROSSING No.138 AT KM 562/8-10 IN BETWEEN CHERUVUMADHAVARAM (CVV) AND KONDAPALLI (KI) STATIONSREQUISITION FILED IN FORM A1 FOR EXEMPTION OF C CHAPTER II&III AS PER G.O.Ms.No,562 DATED 13-11-2018 - REQUEST TO ISSUE ORDERS FOR EXEMPTION OF CHAPTER II&III"
+published: "2025-07-21"
+in_force: "2025-07-21"
+in_force_evidence: "published in the Gazette 2025-07-21; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTEwNDEyOCwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NTMwOTUwODk5MzgucGRmIn0.Zd3QO6hE7OQrtAShQSLNXWJGvGPVcxUcCZPLkFka3-c"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2025-07-21.339"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART II EXTRAORDINARY
+No.115 AMARAVATI, MONDAY, JULY 21, 2025 G.339
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, Etc.
+--x--
+REVENUE DEPARTMENT
+(LANDS.IV)
+Memo. No. 2789395/LANDS.IV/2025 Dated. 21-07-2025.
+VIJAYAWADA DIVISION - G. KONDURU MANDAL - LOYA VILLAGE - REQUEST
+FOR ACQUISITION OF Ac.0.40 Cts IN R.S.No,94/2 & 95/1B FOR THE
+CONSTRUCTION OF RUB RETAINING WALLS ALONG WITH APPROACH
+ROADS AT LEVEL CROSSING No.138 AT KM 562/8-10 IN BETW EEN
+CHERUVUMADHAVARAM (CVV) AND KONDAPALLI (KI) STATIONS-
+REQUISITION FILED IN FORM A1 FOR EXEMPTION OF C CHAPTER
+II&III AS PER G.O.Ms.No,562 DATED 13-11-2018 - REQUEST TO ISSUE ORDERS
+FOR EXEMPTION OF CHAPTER II&III.
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+G. JAYALAKSHMI,
+Special Chief Secretary to Government (FAC).
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
