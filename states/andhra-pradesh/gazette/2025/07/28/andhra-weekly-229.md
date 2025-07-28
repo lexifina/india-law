@@ -1,0 +1,50 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Weekly)"
+gazette_number: "229"
+gazette_type: "Weekly"
+part: "Part II"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "A.P. STATE WAKF BOARD"
+subject: "F.No.03/WG/C/AKV/2025"
+published: "2025-07-28"
+in_force: "2025-07-28"
+in_force_evidence: "published in the Gazette 2025-07-28; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTEyOTM3NCwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NTM3MDU3ODA5MTQucGRmIn0.izamAmdRSw4akO9ce2sQhcv4DLB4l4RhPamA_NB3cZI"
+mirror: "https://archive.org/details/in.gazette.andhra_weekly.2025-07-28.229"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+W.No.30 AMARAVATI, MONDAY, JULY 28, 2025 G.229
+PART II - MISCELLANEOUS NOTIFICATIONS OF INTEREST TO THE PUBLIC
+--x--
+NOTIFICATIONS BY HEADS OF DEPARTMENTS Etc.,
+ANDHRA PRADESH STATE WAQF BOARD,
+4th FLOOR, IMDADGHAR , OPP: KALESWARAO MARKET, VIJAYAWADA.
+F.No.03/WG/C/AKV/2025. Date: 28-07-2025.
+COMMITTEE SECTION - WEST GODAVARI DISTRICT - AKIVIDU MANDAL AND
+VILLAGE - NOTICE ISSUED TO PAY WAQF FUND DUES, TO SUBMIT THE
+PENDING AUDIT REPORTS AND BUDGET WITHIN (15) DAYS - NEITHER
+PAID WAQF FUND NOR SUBMITTED ACCOUNTS & BUDGET - FAILURE TO
+COMPLY THE PROVISIONS OF THE ACT - SHOW CAUSE NOTICE ISSUED
+CALLING FOR EXPLANATION - FAILED TO SUBMIT EXPLANATION - BOARD
+PERUSED THE RECORDS & DISCUSSED THE MATTER AND UNANIMOUSLY
+RESOLVED TO TAKE THE INSTITUTIONS AND ITS ATTACHED MOVABLE
+AND IMMOVABLE PROPERTIES UNDER DIRECT MANAGEMENT OF WAQF
+BOARD U/sec.65 (1) AND 65 (5) OF THE UWMEED ACT, 1995 AS AMENDED
+BY THE WAQF (AMENDMENT) ACT, 2025.
+
+2 ANDHRA PRADESH GAZETTE, July 28, 2025
+
+ANDHRA PRADESH GAZETTE, July 28, 2025 3
+
+4 ANDHRA PRADESH GAZETTE, July 28, 2025
+
+ANDHRA PRADESH GAZETTE, July 28, 2025 3
+SHAIK MOHAMMAD ALI,
+Chief Executive Officer (FAC),
+A.P. State Waqf Board, Vijayawada.
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
