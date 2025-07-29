@@ -1,0 +1,138 @@
+---
+kind: "gazette-notification"
+gazette: "Rajasthan Rajpatra"
+gazette_type: "Extraordinary"
+part: "Part 7 (A)"
+number: "16485661"
+issuer: "Government of Rajasthan"
+department: "Department of Energy"
+published: "2025-07-29"
+in_force: "2025-07-29"
+in_force_evidence: "published in the Gazette 2025-07-29; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.rajasthan_extraordinary.2025-07-29.5089744"
+language: "English text only"
+---
+
+RAJASTHAN RAJYA VIDYUT PRASARAN NIGAM LIMITED
+OFFICE OF THE ZONAL CHIEF ENGINEER (T&C-JPZ), JAIPUR
+NOTIFICATION
+Jaipur, July 11, 2025
+Rajkaj No.16485661 In pursuance to the notification Dt. 03.10.2017 issued by the Energy
+Department, Govt. of Rajasthan, Jaipur which was published in the Rajasthan Gazette dated
+09.10.2017 under Sec. 164 of the Electricity Act, 2003 as well as the powers of the Telegraph
+Authority under the provisions of the Indian Telegraph Act, 1885 (Central Act 13 of 1885) to
+the Zonal Chief Engineer(T&C), Jaipur of Rajasthan Rajya Vidyut Prasaran Nigam Ltd, (the
+State Transmission Utility) to erect electric lines/electric plants for the transmission of
+electricity or for the purpose of telephonic or telegraphic communications necessary for the
+proper coordination of works. Hence the undersigned to exercise of the above powers, hereby
+accord the sanction of right of way for “Construction work of 132 kV S/C line from 220
+kV GSS Aklera to proposed 132 kV GSS Harnawda Shahji” for supply of electricity. The
+said line will pass within the boundary/revenue area of following villages/places: -
+Sr. Name of Village in Name of Village Sr. Name of Village in Name of Village
+No English in Hindi No English in Hindi
+1 MANPURA 85 MUNJKHERA
+
+2 DABARI 86 PATRIKHERA
+3 KACHANARIYA 87 SARKANDIYA
+
+KALAN
+4 PATDI 88 KHAKRABARI
+5 BHATGAON 89 DEVRI
+6 GURADI 90 JAMUNIYA
+7 PIPALIYAAKHER 91 DUMARIYA
+A 8 LAKSHMIPURA 92 BEDAR
+9 BANJARI 93 PALKHANDA
+10 DHAMNIYA 94 LASURIYA GEND
+11 KHADIYA 95 AKLERA
+12 SHRIPURA 96 KACHNARIYA
+13 DEVRIBHAN 97 KISHANPURA
+14 KUMBAKHERI 98 KAJLIYA
+15 BORKHEDI 99 BARERI KHURD
+16 KACHNARIYA 100 PATHUPURA
+KHURD
+
+Sr. Name of Village in Name of Village Sr. Name of Village in Name of Village
+No English in Hindi No English in Hindi
+17 LAKSHMIPURA 101 CHANDIPURA
+
+18 HARNAWADA 102 KANWARPURA
+SHAHJI
+19 FULBADOD 103 KHURI
+
+20 PREMPURIYA 104 GORIYAKHERA
+
+21 BALDEVPURA 105 PACHOLA
+
+22 DEHLANPUR 106 NAYAGAON
+
+23 KANDARI 107 GOPALPURA
+
+24 DIGOD JAGEER 108 SEMI
+25 SALARKHO 109 MANPURA
+26 AMRITKHERI 110 MUAKHO
+27 AMARPURA 111 DURJANPURA
+28 RAMPURIYA 112 SARKANDI
+A A 29 NAREDA 113 KANWARPURA
+30 PIPALKHERI 114 NIMKHERA
+31 BRAHMAKHEDI 115 KHORI
+32 HALESRA 116 KHOYRAKEGAO
+33 LAMBAWAR 117 MANPURA
+34 KALATOL 118 GADIYA
+35 PATHARI 119 GARKHERI
+36 GIRDHARPURA 120 NAYAGAON
+37 KHARERIYA 121 KHOLI
+38 CHURELIYA 122 GHATOLI
+39 DEVKADAR 123 GOBARDHANPUR
+40 KHORI 124 DHAMDAR
+41 DABA 125 BERUBEH
+42 GANESHPURA 126 GORIYA
+43 LASURIYA 127 BERUBEH
+44 MAWASA 128 MUWASA
+45 SALAWAD 129 SHEORTI
+46 LAHAS 130 PARLIYA
+47 LAHASI 131 CHANDIPUR
+48 DHUNDIYA 132 PIPALKHERI
+49 RAMPURA 133 SADLA
+50 SEMLI 134 GANESH PURA
+51 THAMARI 135 ARJUNEPURA
+52 NAYAGAON 136 KHEJRA
+53 PIPALKHA 137 DEVRI KHURD
+54 KHEJRA 138 KOLUKHERI
+
+Sr. Name of Village in Name of Village Sr. Name of Village in Name of Village
+No English in Hindi No English in Hindi
+55 PIPLIYA 139 BATTIKHERI
+56 DEVKHO 140 MOTIPURA
+57 CHARKHERA 141 DEVRI KALAN
+58 DABLI 142 BHUMARIYA
+59 PIRTHIPURA 143 JATAWA
+60 GOKALPURA 144 KOTRA KAGLA
+61 LACHHMANPURA 145 DHABA
+62 NIMKHERA 146 KISHAN PURA
+63 PIPLIYA 147 PATTUN
+64 AMLAODA 148 KHERI (JAGIR)
+65 UNI 149 BOMBILIYA
+66 PATHRIYA 150 SULIYA
+67 TURKARIYA 151 KHALURI
+68 PHOKHARRA 152 SEMI
+69 BARAVDA 153 BANDHA
+70 KHANPURA 154 NANERA
+71 LAPSIYA 155 KHAMKHERA
+72 DEHIKHERA 156 UDPURA
+73 BINDI 157 PIRTHIPURA
+74 BINDA 158 SARERI
+75 UGENI 159 KHURI
+76 UGENA 160 KUNJRA
+77 MUAKHERA 161 KUNJRI
+78 DEVRIKHURD 162 PUNIYAKHERI
+79 DEVRI KALAN 163 KHERI
+80 MADANPURA 164 PURA
+81 KOTRA 165 CHACHORNI
+82 KOTRI 166 BALRAWAD
+83 DEVRICHANCHA 167 KHARERIYA
+84 SARKANDI 168 PIPLIYA
+
+KHURD
+
+K.K. MEENA
+ZCE (T&C), JAIPUR.
