@@ -1,0 +1,83 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Weekly)"
+gazette_number: "266"
+gazette_type: "Weekly"
+part: "PART I"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "Skills Development And Training Department"
+subject: "TECHNICAL EDUCATION - ADMISSIONS OF CANDIDATES INTO DIPLOMA COURSES IN POLYTECHNICS - THE ANDHRA PRADESH REGULATION OF ADMISSION OF CANDIDATES INTO POLYTECHNICS AND STATE-WIDE TECHNICAL INSTITUTIONS (THROUGH POLYTECHNIC COMMON ENTRANCE TEST) RULES, 2025. [G.O.Ms.No.9, Skills Development & Training (TE.A1), 11th August, 2025.]"
+published: "2025-08-11"
+in_force: "2025-08-11"
+in_force_evidence: "published in the Gazette 2025-08-11; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTEzMDI3Nywic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NTQ5MTMzMzEwOTEucGRmIn0.xryLLvZ8eivuvMVA6XbqlCIfKkxIxyysptk3tZSKLo0"
+mirror: "https://archive.org/details/in.gazette.andhra_weekly.2025-08-11.266"
+language: "English text only"
+---
+
+AND OTHER OFFICERS
+--x--
+NOTIFICATIONS BY GOVERNMENT
+SKILLS DEVELOPMENT & TRAINING DEPARTMENT
+(TE.A1)
+TECHNICAL EDUCATION - ADMISSIONS OF CANDIDATES INTO DIPLOMA COURSES
+IN POLYTECHNICS - THE ANDHRA PRADESH REGULATION OF ADMISSION OF
+CANDIDATES INTO POLYTECHNICS AND STATE-W IDE TECHNICAL
+INSTITUTIONS (THROUGH POLYTECHNIC COMMON ENTRANCE TEST)
+RULES, 2025.
+[G.O.Ms.No.9, Skills Development & Training (TE.A1), 11th August, 2025.]
+[1]
+
+2 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 3
+
+4 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 5
+
+6 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 7
+
+8 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 9
+
+10 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 11
+
+12 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 13
+
+14 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 15
+
+16 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 17
+
+18 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 19
+
+20 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 21
+
+22 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 23
+
+24 ANDHRA PRADESH GAZETTE, August 11, 2025
+
+ANDHRA PRADESH GAZETTE, August 11, 2025 25
+KONA SASIDHAR,
+Secretary to Government (FAC).
+--x- -
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
