@@ -1,0 +1,43 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "471"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "GENERAL ADMINISTRATION"
+subject: "DECLARATION OF THE REPEATER CUM CATHODIC PROTECTION (RCP) AND SECTIONALIZING MOTOR OPERATED VALVE STATIONS (MOVS) i.e RCP 13/MOV-26, AND RCP-14/ MOV-27,PARADIP-HYDERABAD PIPELINE (PHPL), INDIAN OIL CORPORATION Ltd., SITUATED IN AN EXTENT OF 1.54 ACRES IN CERTAIN SURVEY NUMBERS AT KODUPALEM (V), ANAKAPALLI (M) AND NAMAVARAM (V), PAYAKARAOPETA (M), ANAKAPALLI DISTRICT AS A “PROHIBITED PLACES” UNDER CLAUSES (C) AND (D) OF SUB-SECTION (8) OF SECTION 2 OF THE OFFICIAL SECRETS ACT, 1923 (CENTRAL ACT, No.19 OF 1923). (G.O.Ms.No.86, General Administration (SC.II), 21st August, 2025.)"
+published: "2025-08-21"
+in_force: "2025-08-21"
+in_force_evidence: "published in the Gazette 2025-08-21; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTEwNjMwOSwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NTU3NzA1ODk1MDEucGRmIn0.gj7Qdg7O4FEfCHYnDsdcKUpiGo1OF4iI1M4n7u1FrcM"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2025-08-21.471"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.562 AMARAVATI, THURSDAY, AUGUST 21, 2025 G.471
+NOTIFICATIONS BY GOVERNMENT
+--x--
+GENERAL ADMINISTRATION DEPARTMENT
+(SC.II)
+DECLARATION OF THE REPEATER CUM CATHODIC PROTECTION (RCP) AND
+SECTIONALIZING MOTOR OPERATED VALVE STATIONS (MOVS) i.e RCP
+13/MOV-26, AND RCP-14/ MOV-27,PARADIP-HYDERABAD PIPELINE (PHPL),
+INDIAN OIL CORPORATION Ltd., SITUATED IN AN EXTENT OF 1.54 ACRES
+IN CERTAIN SURVEY NUMBERS AT KODUPALEM (V), ANAKAPALLI (M)
+AND NAMAVARAM (V), PAYAKARAOPETA (M), ANAKAPALLI DISTRICT AS A
+“PROHIBITED PLACES” UNDER CLAUSES (C) AND (D) OF SUB-SECTION (8)
+OF SECTION 2 OF THE OFFICIAL SECRETS ACT, 1923 (CENTRAL ACT,
+No.19 OF 1923).
+(G.O.Ms.No.86, General Administration (SC.II), 21st August, 2025.)
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+MUKESH KUMAR MEENA,
+Principal Secretary to Government (Poll).
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
