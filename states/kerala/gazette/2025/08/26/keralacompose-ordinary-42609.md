@@ -1,0 +1,88 @@
+---
+kind: "gazette-notification"
+gazette: "Kerala Gazette"
+gazette_number: "34"
+gazette_type: "Ordinary"
+part: "Part III"
+issuer: "Government of Kerala"
+department: "Revenue Department"
+published: "2025-08-26"
+in_force: "2025-08-26"
+in_force_evidence: "published in the Gazette 2025-08-26; no other commencement day stated"
+official_text: "https://compose.kerala.gov.in/kgSearchfiledownloadpdf?b%27gztnotemp=&gztyeartemp=&partdeptId=&partid=&department=&part1id=&part1aid=&part1bid=&part2id=&part3id=&part4id=&searchpdfid=42609&hiddenradiovalue=&organizationvalue=&eognohdn=&eogdatehdn=%27"
+mirror: "https://archive.org/details/in.gazette.keralacompose.2025-08-26.ordinary-42609"
+language: "English text only"
+---
+
+compose.kerala.gov.in Regn.No. KERBIL/2012/45073
+dated 2012-09-05 with RNI egazette.kerala.gov.in
+Reg No.KL/TV(N)/634/2021-2023
+printing.kerala.gov.in
+GOVERNMENT OF KERALA
+KERALA GAZETTE
+PUBLISHED BY AUTHORITY
+Tuesday, 26th August 2025
+10th Chingam 1201 4th Bhadra 1947
+Vol. XIV No.
+Part III
+Commissionerate of Land Revenue
+©
+GOVERNMENT OF KERALA
+
+35041 Revenue Department 26th August 2025
+____________________________________________________________________________________________________________________________
+Kottayam District
+VaikomTaluk
+NOTICE
+
+35042 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+35043 Revenue Department 26th August 2025
+____________________________________________________________________________________________________________________________
+
+35044 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+C1-1369-2025
+DATE: 19/08/2025
+
+ERRATUM NOTICE
+The house name of the applicant and the deceased should be read as Vanchippurackal chirayil
+instead of Vanchipurackal in the advertisement published in the Kerala Government Gazette
+No.22 dated 3rd June 2025 (Part 3,Volume 14) in page numbers 22696 & 22697
+
+(sd)
+TALUK OFFICE VAIKOM                                                            TAHSILDAR
+
+35045 Revenue Department 26th August 2025
+____________________________________________________________________________________________________________________________
+Kottayam District
+VaikomTaluk
+NOTICE
+
+35046 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+35047 Revenue Department 26th August 2025
+____________________________________________________________________________________________________________________________
+
+35048 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Kottayam District
+VaikomTaluk
+NOTICE
+
+35049 Revenue Department 26th August 2025
+____________________________________________________________________________________________________________________________
+Kottayam District
+VaikomTaluk
+NOTICE
+
+35050 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Kottayam District
+VaikomTaluk
+NOTICE
+____________________________________________________________________________________________________________________________
+PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRESSES
+AT THE GOVERNMENT CENTRAL PRESS, THIRUVANANTHAPURAM, 2025
