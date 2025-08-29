@@ -7,8 +7,3 @@
 (c) "protected occupier" means an occupier of a dwelling structure who holds a photo-pass;
 
 (d) "scheme" means any arrangement or plan prepared and declared by the State Government for the protection, relocation and rehabilitation of the protected occupiers.
-
-Notes in the official text:
-
-- Chapter I-B and sections 3X, 3Y, 3Z, 3Z-1 and 3Z-2 were inserted by Mah. 10 of 2002, s. 3
-- Clause (a) was substituted by Mah. 38 of 2018, s. 7.

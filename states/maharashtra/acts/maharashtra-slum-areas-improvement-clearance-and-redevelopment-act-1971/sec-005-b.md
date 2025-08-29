@@ -12,4 +12,6 @@ Provided that, where the Competent Authority is unable to decide as to the perso
 
 Notes in the official text:
 
+- Original section 5 was renumbered a section 5C, and before section 5C as so renumbered, sections 5, 5A and 5B were
+- inserted by Mah. 23 of 1973, s. 102, Sch. II.
 - These words were substituted for the words "purpose of the last preceding section" by Mah. 20 of 1976, s. 4.

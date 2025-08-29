@@ -5,3 +5,7 @@
 (2) A member, who is directly or indirectly concerned or interested in any contract, loan, arrangement or proposal entered into or proposed to be entered into, by or on behalf of the Slum Rehabilitation Authority shall, at the earliest possible opportunity, disclose the nature of his interest to the Slum Rehabilitation Authority when any such contract, loan, arrangement or proposal is discussed, unless his presence is required by the other members for the purpose of eliciting information, but no members so required to be present shall vote on any such contract, loan, arrangement or proposal:
 
 Provided that, a member shall not be deemed to be concerned or interested as aforesaid by reason only of his being a shareholder of a company concerned in any such contract, loan, arrangement or proposal.
+
+Notes in the official text:
+
+- Sections 3F to 3W were inserted with effect from 24-10-1995 by Mah. 6 of 1997, s. 6.

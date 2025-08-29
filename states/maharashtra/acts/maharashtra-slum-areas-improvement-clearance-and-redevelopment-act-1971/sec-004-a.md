@@ -5,3 +5,10 @@
 (2) Any person aggrieved by the provisions of sub-section (1) may, within thirty days from the said date, appeal to the Tribunal functioning under this Act.
 
 (3) On such appeal, the Tribunal may make an order either confirming, modifying or rescinding the declaration; and the decision of the Tribunal shall be final.]
+
+Notes in the official text:
+
+- This Explanation was added by Mah. 11 of 2012, s. 7.
+- This portion was added by Mah. 30 of 1986, s. 3.
+- These sub-sections were substituted for sub-section (4) by Mah. 29 of 1987, s. 3.
+- Section 4A was inserted by Mah. 20 of 1976, s. 3.

@@ -34,4 +34,9 @@
 
 Notes in the official text:
 
+- This portion was added by Mah. 10 of 2002, s. 2(a).
+- Clauses (a), (b), (c) and (d) were deleted by Mah. 10 of 2002, s. 2(b).
+- Chapter 1-A was inserted by Mah. 4 of 1996, s. 3.
+- Sub-section (2A) was inserted by Mah. 6 of 1997, s. 3(a).
+- Sub-section (3) was substituted by Mah. 6 of 1997, s. 3(b).
 - Section 3B was substituted for the original by Mah. 38 of 2018, s. 3.
