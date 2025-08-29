@@ -1,6 +1,6 @@
 # Section 5A
 
-5A. Improvement works.— For the 1[purpose of this Act,] the improvement works may consist of all or any of the following :—
+5A. Improvement works.— For the 2[purpose of this Act,] the improvement works may consist of all or any of the following :—
 
 (a) laying of water mains, sewers and storm water drains;
 

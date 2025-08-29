@@ -23,3 +23,8 @@ Explanation.— For the purposes of this sub-section, the expression "Bank" mean
 (3) Such accounts shall be operated by such officers of the Slum Rehabilitation Authority as may be authorised by it in this behalf.
 
 (4) Notwithstanding anything contained in sub-sections (2) and (3), the Slum Rehabilitation Authority may keep on hand such sum as it thinks fit, for its day to day transactions, subject to such limits and conditions as may be prescribed.
+
+Notes in the official text:
+
+- Sub-section (1) was substituted by Mah. 38 of 2018, s. 6(1).
+- Sub-section (3) was substituted by Mah. 38 of 2018, s. 6(2).
