@@ -1,0 +1,43 @@
+# The Indian Institutes of Management (Amendment) Act, 2025
+
+Act 31 of 2025, as enacted.
+
+# Preamble
+
+An Act further to amend the Indian Institutes of Management Act, 2017.
+
+Be it enacted by Parliament in the Seventy-sixth Year of the Republic of India as follows:—
+
+# Section 1. Short title and commencement
+
+1. (1) This Act may be called the Indian Institutes of Management (Amendment) Act, 2025.
+
+(2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.
+
+# Section 2. Amendment of section 4
+
+2. In section 4 of the Indian Institutes of Management Act, 2017 (hereinafter referred to as the principal Act),—
+
+(i) for sub-section (1), the following sub-section shall be substituted, namely:—
+
+"(1) Every Institute shall be a body corporate by the same name as mentioned in column (5) of the Schedule.";
+
+(ii) after sub-section (1A), the following sub-section shall be inserted, namely:—
+
+"(1B) On and from the date of commencement of the Indian Institutes of Management (Amendment) Act, 2025, all the provisions of this Act shall apply to the Indian Institute of Management, Guwahati.".
+
+# Section 3. Amendment of section 39
+
+3. In section 39 of the principal Act, in sub-section (1), after clause (f), the following clause shall be inserted, namely:—
+
+"(g) until the first Board of the Indian Institute of Management, Guwahati is constituted under this Act, all the powers and functions which may, by or under the provisions of this Act, be exercised or performed by or on behalf of such Board on the commencement of the Indian Institutes of Management (Amendment) Act, 2025, shall be exercised and performed by such person or persons as the Central Government may direct in this behalf.".
+
+# Section 4. Amendment of Schedule
+
+4. In the Schedule to the principal Act, after Sl. No. 21 and the entries relating thereto, the following Sl. No. and entries shall be inserted, namely:—
+
+"22.
+
+Assam ———
+
+Guwahati Indian Institute of Management, Guwahati.".
