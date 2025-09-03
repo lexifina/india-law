@@ -1,0 +1,45 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "515"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "LABOUR FACTORIES BOILERS AND INSURANCE MEDICAL SERVICES"
+subject: "EXEMPTION TO THE BEST PRICE MODERN WHOLESALE, WALMART INDIA PRIVATE LIMITED STORES LOCATED AT VISAKHAPATNAM, RAJAHMUNDRY, VIJAYAWADA, GUNTUR, TIRUPATI AND KURNOOL TO OPEN DURING 11:00 PM TO 6:00 AM FOR LOADING/UNLOADING OF STOCKS, RECEIVING MATERIALS, PALLETIZATION, DISPLAY OF STOCKS AND BILLING - EXEMPTION FROM SECTION 15 OF THE ANDHRA PRADESH SHOPS AND ESTABLISHMENTS ACT, 1988 FOR A PERIOD OF ONE (1) YEAR FROM 28.02.2025 TO 28.02.2026. [G.O.Rt.No.224, Labour Factories Boilers & Insurance Medical Services (Lab.I), 3rd September, 2025.]"
+published: "2025-09-03"
+in_force: "2025-09-03"
+in_force_evidence: "published in the Gazette 2025-09-03; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTEwNzIzNiwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NTY4OTYwMzk0NDIucGRmIn0.47KDfZoXUHM2RbQXa9e64r_qHCyU6-FJiuHFxDlFdjk"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2025-09-03.515"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.598 AMARAVATI, WEDNESDAY, SEPTEMBER 3, 2025 G.515
+NOTIFICATIONS BY GOVERNMENT
+--x--
+LABOUR, FACTORIES, BOILERS & INSURANCE
+MEDICAL SERVICES DEPARTMENT
+(LAB-I)
+EXEMPTION TO THE BEST PRICE MODERN WHOLESALE, WALMART INDIA
+PRIVATE LIMITED STORES LOCATED AT VISAKHAPATNAM, RAJAHMUNDRY,
+VIJAYAWADA, GUNTUR, TIRUPATI AND KURNOOL TO OPEN DURING 11:00 PM
+TO 6:00 AM FOR LOADING/UNLOADING OF STOCKS, RECEIVING MATERIALS,
+PALLETIZATION, DISPLAY OF STOCKS AND BILLING - EXEMPTION FROM
+SECTION 15 OF THE ANDHRA PRADESH SHOPS AND ESTABLISHMENTS
+ACT, 1988 FOR A PERIOD OF ONE (1) YEAR FROM 28.02.2025 TO 28.02.2026.
+[G.O.Rt.No.224, Labour Factories Boilers & Insurance Medical Services (Lab.I),
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+---x---
+
+September 3, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 3
+M.V. SESHAGIRI BABU,
+Secretary to Government (FAC).
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
