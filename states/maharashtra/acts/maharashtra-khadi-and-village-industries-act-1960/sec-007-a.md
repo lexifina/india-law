@@ -1,48 +1,28 @@
-# Section 7A. Constitutuion of District Committees and their powers and functions
+# Section 7A
 
-7A. (1) Subject to any rules made in this behalf, the Board shall, for the purpose of securing a more effective impact of its programmes in the rural areas, constitute a Committee for each District in the State, to be called the District Committee, consisting of the following members, namely :—
+7A. Constitution of District Committees and their powers and functions.— (1) Subject to any rules made in this behalf, the Board shall, for the purpose of securing a more effective impact of its programmes in the rural areas, constitute a Committee for each District in the State, to be called the District Committee, consisting of the following members, namely :— ...
 
-(a) A non-official to be appointed by the Board, with the approval of. . . Chairman. the State Government, as Chairman
+Chairman.
 
-(b) A representative of the Zilla Parishad, who shall ordinarily be . . .
+(a) A non-official to be appointed by the Board, with the approval of the State Government, as Chairman. … Member.
 
-Member the Chairman of its Social Welfare Committee.
+(b) A representative of the Zilla Parishad, who shall ordinarily be the Chairman of its Social Welfare Committee.
 
-(c) The Chairman of the District Central Co-operative Bank. . . .
+(c) The Chairman of the District Central Co-operative Bank. … Member.
 
-Member.
+(d) A representative of the Lead Bank of the District. … Member. … Member.
 
-(d) A representative of the Lead Bank of the District. . . .
+(e) Three non-officials, at least one of whom shall belong to the Scheduled Castes, Scheduled Tribes, Vimukta Jatis or Nomadic Tribes and one of whom shall be a woman.
 
-Member.
+(f) The District Deputy Registrar of Co-operative Societies. … Member.
 
-(e) Three non-officials, at least one of whom shall belong to the . . .
+(g) The District Industries Officer. … Member.
 
-Member.
+(h) The District Social Welfare Officer … Member.
 
-Scheduled Castes, Scheduled Tribes, Vimukta Jatis or Nomadic Tribes and one of whom shall be a woman.
+(i) The District Village Industries Officer of the Board. … Secretary.
 
-(f) The District Deputy Registrar of Co-operative Societies. . . .
-
-Member.
-
-(g) The District Industries Officer. . . .
-
-Member.
-
-(h) The District Social Welfare Officer . . .
-
-Member.
-
-(i) The District Village Industries . . .
-
-Member.
-
-Officer of the Board. . . .
-
-Secretary.
-
-(2) On the first constitution of the District Committees in any District under subsection (1), all divisional committees, district committees and ad-hoc committees (if any), constituted by the Board and functioning at the date of commencement of the Bombay Khadi and Village Industries (Amendment) Act, 1977 shall cease to function therein.
+(2) On the first constitution of the District Committees in any District under subsection (1), all divisional committees, district committees and ad-hoc committees (if any), constituted by the Board and functioning at the date of commencement of the Bombay Khadi and Village Industries (Amendment) Act, 1977 (Mah. LV of 1977) shall cease to function therein.
 
 (3) The term of office of the members of the District Committee shall normally be conterminous with the term of office of the member of the Board but the Board may reconstitute any of the District Committees, at any time, if it considers necessary to do so.
 
@@ -52,7 +32,9 @@ Secretary.
 
 (6) Any member of the District Committee may, at any time, resign his office by writing under his hand addressed to the Chairman of the District Committee.
 
-(7) When a vacancy occurs in the office of a mamber of the District Committee by reason of resignation, death or othewise, the vacancy shall be filled by the Board as early as practicable :
+(7) When a vacancy occurs in the office of a member of the District Committee by reason of resignation, death or otherwise, the vacancy shall be filled by the Board as early as practicable:
+
+[1960 : XIX
 
 Provided that, during any such vacancy the continuing members may act as if no vacancy has occurred.
 
@@ -62,12 +44,10 @@ Provided that, during any such vacancy the continuing members may act as if no v
 
 (10) In the exercise of its powers and discharge of its functions, the District Committee shall work under the over all supervision of the Board and shall comply with the instructions and directions issued by the Board, from time to time. If any dispute arises between, the District Committee and the Board regarding any matter, the decision of the Board shall be final.
 
-Maharashtra Khadi and Village Industries Act [1960 : Bom. XIX
-
 (11) The District Village Industries Officer of the Board shall be the principal executive officer of the District Committee and shall exercise such powers and discharge such functions as may be entrusted to him by the District Committee or by the Board.
 
 (12) The Chairman and other members of the District Committee shall be paid such allowances as may be prescribed.]
 
 Notes in the official text:
 
-- 1 Section 7A was inserted by Mah. 55 of 1977, s. 4.
+- Section 7A was inserted by Mah. 55 of 1977, s. 4.

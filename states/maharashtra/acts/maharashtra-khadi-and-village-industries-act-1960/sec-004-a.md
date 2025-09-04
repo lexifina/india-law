@@ -1,12 +1,12 @@
-# Section 4A. Term of office and terms and conditions of service of members
+# Section 4A
 
-4A. (1) Subject to the provisions of section 4, and sub-section (3) of this section, the term of office and terms and conditions of service of members and the remuneration or allowances or both to be paid to them shall be such as may be prescribed.
+4A. Term of office and terms and conditions of service of members.— (1) Subject to the provisions of section 4, and sub-section (3) of this section, the term of office and terms and conditions of service of members and the remuneration or allowances or both to be paid to them shall be such as may be prescribed.
 
 (2) Subject to the provisions of sub-section (3),—
 
 (a) the Chairman shall be entitled without payment of rent to the use of a residence in Bombay throughout his term of office and for a period of fifteen days immediately thereafter, or in lieu of such residence, a house allowance at the prescribed rate;
 
-(b) no charge shall fall on the Chairman personally in respect of the maintnance of any residence provided in this sub-section;
+(b) no charge shall fall on the Chairman personally in respect of the maintenance of any residence provided in this sub-section;
 
 (c) the Board may from time to time for the use of the Chairman purchase and provide a motor car or other suitable conveyance upon such conditions as regards its maintenance and repairs as may be determined by rules made by the State Government in this behalf.
 
