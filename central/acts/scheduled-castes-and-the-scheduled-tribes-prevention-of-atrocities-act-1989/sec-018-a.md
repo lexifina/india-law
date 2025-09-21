@@ -1,0 +1,9 @@
+# Section 18A. No enquiry or approval required
+
+18A. No enquiry or approval required.—(1) For the purposes of this Act,—
+
+(a) preliminary enquiry shall not be required for registration of a First Information Report against any person; or
+
+(b) the investigating officer shall not require approval for the arrest, if necessary, of any person, against whom an accusation of having committed an offence under this Act has been made and no procedure other than that provided under this Act or the Code shall apply.
+
+(2) The provisions of section 438 of the Code shall not apply to a case under this Act, notwithstanding any judgment or order or direction of any Court.]
