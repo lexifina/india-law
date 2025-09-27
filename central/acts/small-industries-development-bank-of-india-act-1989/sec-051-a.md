@@ -1,0 +1,14 @@
+# Section 51A. Power to make rules by Central Government
+
+51A. Power to make rules by Central Government.—(1) The Central Government may, by notification, make rules to carry out the provisions of this Act.
+
+(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—
+
+(i) the procedure for filing and hearing of appeal against the refusal to register the transfer of shares by the Board under sub-section (3) of section 20D; and
+
+(ii) any other matter which has to be, or may be, prescribed by rules under this Act.]
+
+Notes in the official text:
+
+- 1. Subs. by Act 7 of 2000, s. 23, for "chairman" (w.e.f. 27-3-2000).
+- 2. Ins. by s. 24, ibid. (w.e.f. 27-3-2000).
