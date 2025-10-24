@@ -1,0 +1,378 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+number: "No.WR-IRWR04/37/2023-IW3/2127"
+issuer: "Government of Punjab"
+department: "Irrigation"
+published: "2025-10-24"
+in_force: "2025-10-24"
+in_force_evidence: "published in the Gazette 2025-10-24; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2025-10-24.88587"
+language: "English text only"
+---
+
+GOVERNMENT OF PUNJAB
+DEPARTMENT OF WATER RESOURCES
+NOTIFICATION
+The 23rd October, 2025
+No.WR-IRWR04/37/2023-IW3/2127 .- In exercise of the powers conferred by Section 38 of Punjab
+Canal and Drainage Act, 2023, read with Section 2 of the aforesaid Act, the Governor of Punjab is pleased to
+notify the Khasra numbers as per details given below for the smooth flow of Water in Lissara Nallah
+RD.346076-340224 & RD.300925-279624.
+The Governor of Punjab is further pleased to authorize the Executive Engineer, Mansa, Drainage-cum-Mining
+Division, WRD, Punjab, District Bathinda, to take all necessary to remove obstructions, in case any such
+obstructions are raised by any person. The Concerned officer i.e., Executive Engineer, Mansa, Drainage-cum-
+Mining Division, WRD, Punjab, District Bathinda, may also authorize any other Government officer or any
+private person to remove such obstructions or carry out any activities for the aforesaid purpose.
+Specification of Locality
+Name of Name of Name of Hadbast Khasra Area Remarks
+District Tehsil Village No. No. Kanal Marla
+Bathinda Bathinda Dhan Singh 23 113//813 11 5
+Khana
+113//812 17 20
+113//808 5 7
+113//814 1 18
+113//811 19 12
+113//809 16 10
+810 1 6
+790/3 16 15
+114//774 3 9
+114//773 18 5
+114//768 18 6
+114//775 2 10
+( 7517 )
+
+7518 PUNJAB GOVT. GAZ. (EXTRA), OCTOBER 24, 2025 (KRTK 2, 1947 SAKA)
+114//772 24 18
+114//769 14 1
+115//776 10 2
+115//771 24 18
+115//770 6 17
+115//977/2 15 9
+115//978 23 3
+990 2 6
+116//976/1 17 7
+116/975 23 11
+116//971 18 8
+116//972 22 11
+117//968 18 13
+117//967 22 6
+117//963 17 5
+117//964/1 19 13
+113//813 11 5
+113//812 17 20
+113//808 5 7
+113//814 1 18
+113//811 19 12
+113//809 16 10
+810 1 6
+790/3 16 15
+114//774 3 9
+114//773 18 5
+114//768 18 6
+114//775 2 10
+114//772 24 18
+114//769 14 1
+115//776 10 2
+115//771 24 18
+115//770 6 17
+115//977/2 15 9
+115//978 23 3
+990 2 6
+116//976/1 17 7
+116/975 23 11
+116//971 18 8
+116//972 22 11
+117//968 18 13
+117//967 22 6
+
+PUNJAB GOVT. GAZ. (EXTRA), OCTOBER 24, 2025 (KRTK 2, 1947 SAKA) 7519
+117//963 17 5
+117//964/1 19 13
+Bathinda Talwandi Sabo Nasibpura 56 394/2 0 4
+395 3 11
+526/1 0 5
+655/1 10 3
+657 12 6
+656/2 8 5
+658 13 19
+659/1 10 4
+661/1 10 12
+660/4 10 17
+660/1 3 11
+654 0 13
+660/2 0 7
+660/4 10 17
+661/2 0 3
+661/1 10 12
+672 5 10
+673/1 10 17
+673/2 0 11
+673/3 8 2
+671/2 2 14
+674/3 10 17
+674/1 10 5
+674/2 0 11
+670/4/1 2 8
+675/1 6 1
+675/2 0 15
+675/4 4 19
+670/2 0 5
+670/1 2 18
+675/3 6 0
+675/5 1 15
+669/2 11 10
+669/1 0 14
+676/1 13 15
+676/2 0 17
+732 18 16
+725/2 5 8
+725/1/1 2 2
+726/1 1 9
+731 23 12
+
+7520 PUNJAB GOVT. GAZ. (EXTRA), OCTOBER 24, 2025 (KRTK 2, 1947 SAKA)
+730/2 12 9
+730/1 9 14
+737/1 2 4
+729/1 0 3
+729/2 11 19
+729/3 9 14
+736/2 0 3
+737/1 2 4
+740/3 2 3
+741/1 0 14
+750/2 9 3
+750/1 14 6
+749/2 22 9
+752/1/1 0 15
+752/1/2 0 2
+749/1 0 18
+748/2 15 15
+753/2 2 4
+748/1 5 4
+753/3 1 2
+747/1 12 0
+747/2 6 9
+754/1 2 2
+754/2 3 13
+875/2 4 17
+875/1 11 2
+870 8 5
+871/1/1 3 15
+871/1/2 4 8
+874/3/1 8 16
+874/4 1 14
+871/2 2 12
+874/3/2 1 7
+874/2 0 8
+874/1 1 5
+873/3 0 15
+873/2 1 10
+873/4 5 10
+872/2 3 4
+872/1 4 19
+872/3 0 11
+872/4 2 18
+872/6 1 8
+
+PUNJAB GOVT. GAZ. (EXTRA), OCTOBER 24, 2025 (KRTK 2, 1947 SAKA) 7521
+872/5 0 4
+873/1 3 5
+887/1 0 0.13
+892/3 10 12
+892/2 0 11
+892/1 4 9
+881 8 11
+891/1 7 9
+891/2 0 17
+891/3 8 13
+891/4 1 1
+882/1 1 14
+882/2 4 9
+890/4 8 10
+890/3 0 2
+890/2 2 1
+890/1 9 16
+885 3 15
+889/1 10 18
+889/2 11 19
+886 1 7
+888/3 2 4
+888/1 2 3
+888/2/2 1 15
+888/2/1 0 10
+897/2/2 0 4
+897/2/1 0 5
+888/2/3 14 16
+888/2/4 1 18
+888/2/5 0 9
+1102 /2 0 18
+1103/1/1 1 0
+1103/1/2 8 6
+1103/1/3 0 18
+1102/1 1 14
+1103/2 11 7
+1101 5 1
+1106 19 3
+1100/3/1 4 10
+1100/1 1 8
+1100/2 1 8
+1107/1 8 14
+1107/2 8 2
+
+7522 PUNJAB GOVT. GAZ. (EXTRA), OCTOBER 24, 2025 (KRTK 2, 1947 SAKA)
+1099/1/2 7 1
+1099 /2 2 15
+1110 14 7
+1099/1/1 0 0.15
+1098/3/2 0 3
+1098/3/1 2 5
+1098/ 2 0 16
+1111 /1 3 12
+1098/1/2 9 1
+1111/2/1 6 4
+1111/2/3 1 20
+1111/2/2 0 4
+1114/1/2 2 4
+1114/1/1 4 4
+1114/2 3 3
+1097/1 1 8
+1097/2 0 0.30
+1097/4 0 11
+1096/2 7 11
+1096/1 9 10
+1115 7 3
+1095/2 19 8
+1116 4 15
+1095/1 0 0.023
+1094/3 15 9
+1117/2 0 17
+1094/2 15 9
+1117/1 1 10
+1094/1 0 18
+1117/3 0 1
+1093/2 19 11
+1118/1 0 6
+1093/1 4 6
+1075/2 0 1
+1092 22 11
+1076 1 13
+1091/1 8 7
+1077/1 1 6
+1077/2 2 14
+1091/2 11 16
+1078/1 3 14
+1090/2 11 6
+1078/4 0 9
+
+PUNJAB GOVT. GAZ. (EXTRA), OCTOBER 24, 2025 (KRTK 2, 1947 SAKA) 7523
+1078/5 2 4
+1090/1/2 6 6
+1090/1/1 0 3
+1079/2 1 6
+1079/3 1 14
+1079/1 5 17
+1089/1 15 7
+1080/1 1 1
+1080/2 1 20
+1080/3/1 8 3
+1088/2 4 14
+1088/1 8 6
+1081/3 13 11
+1081/2 0 2
+1087 10 11
+1082/2 1 17
+1082/1/1 1 19
+1082/1/2 12 3
+1086/1/2/1 1 6
+1086/1/1 3 12
+1086/1/2/2 2 1
+1086/1/3/2 1 5
+1132/3 3 7
+1083 13 16
+1085/3 5 15
+1129 2 9
+1084/1 3 3
+1132/2 12 10
+1131/2 8 18
+1132/1 6 5
+1131/1 4 8
+1130 1 19
+Bathinda Talwandi Sabo Kot Bakhtu 44 343 14 18
+342 18 13
+341/1 24 4
+344 4 1
+340 18 14
+329/1 1 15
+329/2 2 17
+329/3 3 9
+328/1 0 3
+328/2 1 11
+339 11 18
+
+7524 PUNJAB GOVT. GAZ. (EXTRA), OCTOBER 24, 2025 (KRTK 2, 1947 SAKA)
+330/1 14 10
+338 5 9
+331/2 18 7
+331/1 2 11
+333 0 8
+332 23 18
+321 0 17
+319 20 18
+318 19 15
+311 4 5
+405 19 20
+312/1 2 13
+312/2 1 6
+33 7 1
+314 15 4
+313 3 12
+380 2 2
+416 14 17
+282 5 10
+415/2 20 19
+415/1 2 18
+417 0 6
+406 0 0.079
+407 1 6
+414 22 20
+408/1 2 17
+408/2 0 17
+413 20 12
+409 6 1
+412/2 6 14
+412/1 11 11
+410/2 8 8
+411 15 18
+441/1 5 15
+441/2 0 9
+441/3 4 13
+440/3 7 17
+440/2 0 11
+440/1 5 2
+444/2 13 11
+439 10 18
+445 16 6
+438 8 3
+
+PUNJAB GOVT. GAZ. (EXTRA), OCTOBER 24, 2025 (KRTK 2, 1947 SAKA) 7525
+448 19 1
+437 5 8
+449 21 15
+462/2 1 16
+462/1 0 17
+452 23 18
+461 0 8
+453 24 7
+454/1 24 2
+455/1 22 12
+456/1 9 13
+569/1 7 6
+570/1 7 10
+Sd/-
+KRISHAN KUMAR, IAS
+Chandigarh Principal Secretary to the Government of Punjab,
+Department of Water Resources.
+3536/10-2025/Pb. Govt. Press, S.A.S. Nagar
