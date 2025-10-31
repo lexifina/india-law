@@ -1,0 +1,66 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "710"
+gazette_type: "Extraordinary"
+part: "Part II"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "LABOUR, EMPLOYMENT, TRAINING AND FACTORIES"
+subject: "No.G/430/2025. Dated : 29-10-2025. MINIMUM WAGES ACT, 1948 - COST OF LIVING INDEX NUMBERS APPLICABLE TO THE EMPLOYEES EMPLOYED IN THE SCHEDULED EMPLOYMENTS AS ON 01-10-2025 - COST OF LIVING ALLOWANCE PAYABLE"
+published: "2025-10-31"
+in_force: "2025-10-31"
+in_force_evidence: "published in the Gazette 2025-10-31; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2NTExMTIyNiwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NjE5MTg2MTc2NDEucGRmIn0.GU_gHAc_VzVVm12zaeLM1GMfxXfzpTbjGrt73AvN7Fw"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2025-10-31.710"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART II EXTRAORDINARY
+No.656 AMARAVATI, FRIDAY, OCTOBER 31, 2025 G.710
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, Etc.
+--x--
+COMMISSIONER OF LABOUR : A.P. : VIJAYAWADA
+No.G/430/2025. Dated : 29-10-2025.
+MINIMUM WAGES ACT, 1948 - COST OF LIVING INDEX NUMBERS APPLICABLE
+TO THE EMPLOYEES EMPLOYED IN THE SCHEDULED EMPLOYMENTS AS
+ON 01-10-2025 - COST OF LIVING ALLOWANCE PAYABLE.
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+October 31, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 3
+
+4 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+October 31, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 5
+
+6 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+M.V.SESHAGIRI BABU,
+Commissioner of Labour (FAC).
+
+October 31, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 7
+
+8 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+October 31, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 9
+
+10 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+October 31, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 11
+
+12 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+October 31, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 13
+
+14 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+October 31, 2025] ANDHRA PRADESH GAZETTE EXTRAORDINARY 15
+
+16 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+ 
+---x---
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
