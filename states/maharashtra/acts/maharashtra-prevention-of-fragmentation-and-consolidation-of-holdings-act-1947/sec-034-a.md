@@ -3,3 +3,9 @@
 34A. Constitution of village committees.— (1) The village committee shall be constituted by the Consolidation Officer in the prescribed manner and it shall discharge and perform, in addition to the duties and functions imposed or assigned by this Act, such other duties and functions as may be prescribed for the purpose of this Act.
 
 (2) Where at any time the Collector is satisfied that the village committee has refused or failed without reasonable cause or excuse to discharge the duties or perform the functions imposed or assigned by or under this Act or circumstances have so arisen that the committee has been rendered unable to discharge the duties or perform the functions aforesaid or it is otherwise expedient or necessary to do so he may by notification in the Official Gazette, either reconstitute, for the purposes of this Act, the village committee in accordance with the provisions of sub-section (1), or appoint some other authority to perform the functions or discharge the duties of the village committee under this Act; and thereupon all references to the village committee under this Act shall be deemed to include references to the village committee so reconstituted or the authority so appointed as the case may be.]
+
+Notes in the official text:
+
+- Chapter IV-A was inserted by Mah. 19 of 1966, s. 15.
+- Section 34 was substituted for the original by Mah. 19 of 1966, s. 16.
+- Section 34A was inserted by Bom. 61 of 1958, s. 3(21).
