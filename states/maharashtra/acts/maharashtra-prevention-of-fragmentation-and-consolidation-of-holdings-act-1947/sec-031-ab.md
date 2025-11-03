@@ -6,7 +6,5 @@
 
 Notes in the official text:
 
-- This Act was repealed by Mah. 23 of 2012, s. 7.
-- Now see the Maharashtra Municipal Councils, Nagar Panchayats and Industrial Townships Act, 1965.
 - Section 31AA was inserted by Mah. 19 of 1966, s. 13.
 - This section was inserted by Mah. 41 of 1977, s. 3.
