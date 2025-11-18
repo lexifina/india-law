@@ -1,0 +1,70 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "752"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 752 E- 701403-1 Dated 18-11-25"
+published: "2025-11-18"
+in_force: "2025-11-18"
+in_force_evidence: "published in the Gazette 2025-11-18; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._752_e-_701403-1_dated_18-11-25.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2025-11-18.752"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+DEPARTMENT OF INNOVATION, INCUBATION & START-UPS (DIIS)
+NOTIFICATION
+The 18th November, 2025
+
+5864 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5865
+.
+.
+.
+
+5866 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5867
+
+5868 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5869
+
+5870 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+.
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5871
+
+5872 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5873
+
+5874 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5875
+
+5876 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5877
+
+5878 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5879
+
+5880 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5881
+
+5882 THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025
+
+THE ASSAM GAZETTE, EXTRAORDINARY, NOVEMBER 21, 2025 5883
+JEEVAN BASAVARJAPPA,
+Secretary to the Government of Assam,
+Department of Innovation Incubation and Start-Ups.
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 1503 - 10 + 10 -21 - 11 - 2025. (visit at– dpns.assam.gov.in)
