@@ -1,0 +1,3 @@
+# Section 17A. Penalty amount to be credited to Environmental Relief Fund
+
+17A. Penalty amount to be credited to Environmental Relief Fund.—Where any penalty or additional penalty, as the case may be, is imposed under section 14 or section 15 or section 17, the amount of such penalty shall be credited to the Environmental Relief Fund established under section 7A.
