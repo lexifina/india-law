@@ -1,0 +1,5 @@
+# Section 11B. Empowering Settlement Commission for regularisation of export obligation default
+
+11B. Empowering Settlement Commission for regularisation of export obligation default.—
+
+Settlement of customs duty and interest thereon as ordered by the Settlement Commission as constituted under section 32 of the Central Excise Act, 1944 (1 of 1944), shall be deemed to be a settlement under this Act.]

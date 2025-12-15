@@ -1,0 +1,3 @@
+# Section 14C. Catch-all controls
+
+14C. Catch-all controls.—No person shall export any material, equipment or technology knowing that such material, equipment or technology is intended to be used in the design or manufacture of a biological weapon, chemical weapon, nuclear weapon or other nuclear explosive device, or in their missile delivery systems.
