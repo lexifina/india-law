@@ -1,0 +1,7 @@
+# Section 45F. Meetings of Authority
+
+45F. Meetings of Authority. — (1) The Authority shall meet at such time and place as the MemberSecretary may decide with approval of the Chairperson of the Authority, as and when so required.
+
+(2) The Chairperson of the Authority shall preside over the meetings of the Authority.
+
+(3) The quorum for the meeting of the Authority shall be of two Members.
