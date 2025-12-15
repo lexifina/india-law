@@ -1,0 +1,3 @@
+# Section 5A. Distribution of cases amongst Judges of Special Court
+
+5A. Distribution of cases amongst Judges of Special Court.—Where the Special Court consists of two or more Judges, the Chief Justice of the High Court within the local limits of whose jurisdiction the Special Court is situated may, from time to time, by general or special order, make provisions as to the distribution of cases amongst the Judges and specify the matters which may be dealt with by each of such Judge.]
