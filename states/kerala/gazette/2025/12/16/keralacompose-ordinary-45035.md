@@ -1,0 +1,143 @@
+---
+kind: "gazette-notification"
+gazette: "Kerala Gazette"
+gazette_number: "50"
+gazette_type: "Ordinary"
+part: "Part I"
+issuer: "Government of Kerala"
+department: "Food Civil Supplies and Consumer Affairs"
+published: "2025-12-16"
+in_force: "2025-12-16"
+in_force_evidence: "published in the Gazette 2025-12-16; no other commencement day stated"
+official_text: "https://compose.kerala.gov.in/kgSearchfiledownloadpdf?b%27gztnotemp=&gztyeartemp=&partdeptId=&partid=&department=&part1id=&part1aid=&part1bid=&part2id=&part3id=&part4id=&searchpdfid=45035&hiddenradiovalue=&organizationvalue=&eognohdn=&eogdatehdn=%27"
+mirror: "https://archive.org/details/in.gazette.keralacompose.2025-12-16.ordinary-45035"
+language: "English text only"
+---
+
+compose.kerala.gov.in Regn.No. KERBIL/2012/45073
+dated 2012-09-05 with RNI egazette.kerala.gov.in
+Reg No.KL/TV(N)/634/2021-2023
+printing.kerala.gov.in
+GOVERNMENT OF KERALA
+KERALA GAZETTE
+PUBLISHED BY AUTHORITY
+Tuesday, 16th December 2025
+1st Dhanu 1201 25th Agrahayana 1947
+Vol. XIV No.
+Part I
+Food Civil Supplies and Consumer Affairs
+©
+GOVERNMENT OF KERALA
+
+16th December 2025 KERALA GAZETTE 1
+____________________________________________________________________________________________________________________________
+SS27
+— —
+— —
+F & CS
+— — CCS/7113/2025-
+B4
+— —
+
+2 KERALA GAZETTE Part I
+____________________________________________________________________________________________________________________________
+/887255/2025
+I
+REMARKS RTD RTD RTD
+FINAL SENIORITY LIST OF DSOs IN CIVILSUPPLIES & CONSUMER AFFAIRS DPT.UP TO
+RANK AS PER SELEC TED 7 4 6A 10 12 13 14 1 LIST
+DPC NOTIFICATION /F&CSD Dated /F&CSD Dated /F&CSD Dated " " /F&CSD Dated NUMBER G.O.(P)No.4/2022 02/06/2022 G.O.(P)No.1/2023 06.02.2023 G.O.(P)No.5/2023 16.06.2023 ,, ,, G.O.(P)No.4/2024 15.04.2024
+ASSIGNED DATE OF PROMOTI ON AS DSO
+ACTUAL ON AS DSO 17/02/2016 09/03/2023 09/03/2023 07/10/2016 13/11/2023 13/11/2023 03/03/2017 08/12/2023 08/12/2023 16/06/2017 08/05/2024 08/05/2024
+18/06/2022 18/06/2022 17/06/2023 17/06/2023 17/06/2023 17/06/2023 17/06/2023 17/06/2023
+OF
+PROMOTI
+DATE
+30/09/2025.
+ASSIGNED DATE OF PROMOTIO N AS TSO 19/06/2015 22/04/2016 07/09/2016 07/09/2016
+PSC ADVICE DATE/DAT E OF ENTRY IN CS DEPT.
+22/02/1971 26/03/1991 26/12/1982 17/02/2016 30/05/1970 31/01/1991 20/05/1971 22/05/1990 31/05/1971 19/08/1991 01/06/1968 18/11/1991 11/12/1967 22/03/1989 18/02/1969 03/12/1991
+DATE OF BIRTH
+PEN NO. 370886 175959 375225 371273 371206 387230 375075 387828
+NAME SMITHA GEORGE
+MATHEW A J SAJIMON K P PRASANTH P JAYASREE R BINDHU S.O
+SAJADU A SOBHA T
+SL. NO. 1 2 3 4 5 6 7 8
+
+16th December 2025 KERALA GAZETTE 3
+____________________________________________________________________________________________________________________________
+I/887255/2025
+RTD RTD RTD RTD RTD
+
+2 3 4 5 6 7 8 9 10 11 13
+
+,, ,, ,, ,, ,, ,, ,, ,, ,, ,, ,,
+
+08/05/2024 08/05/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024
+
+08/05/2024 08/05/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024 13/06/2024
+
+16/06/2017 03/08/2017 31/08/2017 31/08/2017 31/08/2017 31/08/2017 01/12/2017 01/12/2017 01/12/2017 21/04/2018 23/11/2018
+
+18/12/1991 23/12/1991 17/01/1990 12/05/1992 07/08/1992 02/09/1992 24/09/1992 28/10/1992 20/05/1988 25/11/1992 12/09/1991
+
+20/05/1968 15/05/1971 04/05/1970 25/01/1971 19/05/1969 29/05/1971 02/05/1972 27/06/1968 22/10/1968 26/11/1968
+24/051970
+
+371296 374829 375710 456576 374953 387759 632898 374819 375172 375488 375608
+
+JAYADEV T J MAYADEVI K 19 VINOD KUMAR C 10 KUMARI LATHA 14 JYOTHILEKSHMI
+SUJA T DANIEL
+BINDU K N BEENA A S ABRAHAM
+18 GEORGE K
+ASHA T J SAMUEL
+17 MINI T V
+B A
+
+9 11 12 13 15 16
+
+4 KERALA GAZETTE Part I
+____________________________________________________________________________________________________________________________
+I/887255/2025
+PROVISIONAL PROMOTION RTD
+
+15 16 17 18 1 2 3 4 5 6 7
+
+,, ,, ,, ,, /F&CSD Dated 27.01.2025 ,, ,, ,, ,, ,, ,, G.O.(P)No.1/2025
+
+13/06/2024 17/07/2024 09/12/2024 09/12/2024 11/02/2025 27/03/2025 27/03/2025 27/03/2025 09/06/2025 09/06/2025
+13/06/2024 17/07/2024 09/12/2024 09/12/2024 11/02/2025 24/04/2019 11/02/2025 11/02/2025 27/03/2025 27/03/2025 27/03/2025 09/06/2025 09/06/2025
+
+23/11/2018 23/11/2018 14/01/2019 14/01/2019 14/01/2019 24/04/2019 24/04/2019 27/05/2019 27/05/2019 27/05/2019
+
+06/11/1993 12/11/1993 04/10/1994 05/10/1994 05/10/1994 27/04/1995 27/04/1995 02/05/1995 15/05/1995 19/05/1995
+13/02/1969 14/03/1995
+01/04/1971 20/05/1971 28/02/1973 19/02/1973 16/03/1973 22/05/1972 12/11/1975 01/06/1976 29/05/1970 31/05/1970
+
+387768 375360 371345 387357 375020 371537 375170 375109 515008 387687 371481
+
+BAIJU K BALABN
+20 MANOJ KUMAR SREEMA P S SINDHU K V 30 GOPAKUMAR G 24 MANOJKUMAR
+JAYASREE K R
+25 BIJI THOMAS BOBAN R LEENA N SUMA G
+M R K K
+S
+
+21 22 23 26 27 28 29
+
+16th December 2025 KERALA GAZETTE 5
+____________________________________________________________________________________________________________________________
+I/887255/2025
+Commissioner of Civil Supplies & Consumer Affairs
+8 9 10
+,, ,, ,,
+09/06/2025 09/06/2025 09/06/2025 09/06/2025 09/06/2025 09/06/2025
+27/05/2019 27/05/2019 27/05/2019
+14/12/1970 19/05/1995 21/02/1970 26/07/1995 04/04/1976 03/08/1995
+375380 387530 370970
+JAMES PETER
+SMITHA S R
+SAJANI B
+____________________________________________________________________________________________________________________________ 31 32 33
+PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRESSES
+AT THE GOVERNMENT CENTRAL PRESS, THIRUVANANTHAPURAM, 2025
