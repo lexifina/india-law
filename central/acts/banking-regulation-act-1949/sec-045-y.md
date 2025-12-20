@@ -1,0 +1,7 @@
+# Section 45Y. Power of Central Government to make rules for the preservation of records
+
+45Y. Power of Central Government to make rules for the preservation of records.—The Central Government may, after consultation with the Reserve Bank and by notification in the Official Gazette, make rules specifying the periods for which—
+
+(a) a banking company shall preserve its books, accounts and other documents; and
+
+(b) a banking company shall preserve and keep with itself different instruments paid by it.

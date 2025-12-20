@@ -1,0 +1,9 @@
+# Section 45ZF. Notice of claims of other persons regarding safety lockers not receivable
+
+45ZF. Notice of claims of other persons regarding safety lockers not receivable.—No notice of the claim of any person, other than hirer or hirers of a locker, shall be receivable by a banking company nor shall the banking company be bound by any such notice even though expressly given to it:
+
+Provided that where any decree, order, certificate or other authority from a court of competent jurisdiction relating to the locker or its contents is produced before the banking company, the banking company shall take due note of such decree, order, certificate or other authority.]
+
+Notes in the official text:
+
+- 1. Subs. by Act 16 of 2025, s. 12, for sub-section (1) (w.e.f. 1-11-2025).

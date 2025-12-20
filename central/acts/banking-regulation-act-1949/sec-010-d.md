@@ -1,0 +1,3 @@
+# Section 10D. Provisions of sections 10A and 10B to override all other laws, contracts, etc
+
+10D. Provisions of sections 10A and 10B to override all other laws, contracts, etc.— Any appointment or removal of a 1[director, chairman of the Board of directors who is appointed on a wholetime basis or managing director] in pursuance of section 10A or section 10B 2[or section 10BB] shall have effect and any such person shall not be entitled to claim any compensation for the loss or termination of office, notwithstanding anything contained in any law or in any contract, memorandum or articles of association.]

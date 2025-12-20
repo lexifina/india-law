@@ -1,0 +1,17 @@
+# Section 35B. Amendments of provisions relating to appointments of managing directors, etc., to be subject to previous approval of the Reserve Bank
+
+35B. Amendments of provisions relating to appointments of managing directors, etc., to be subject to previous approval of the Reserve Bank.—(1) In the case of a banking company—
+
+(a) no amendment of any provision relating to 5[the maximum permissible number of directors or] the 6[appointment or re-appointment or termination of appointment or remuneration of a chairman, a] 7[managing director or any other director, whole-time or otherwise] or of a manager or a chief executive officer by whatever name called, whether that provision be contained in the company's memorandum or articles of association, or in an agreement entered into by it, or in any resolution passed by the company in general meeting or by its Board of directors shall have effect unless approved by the Reserve Bank; 8[(b) no appointment or re-appointment or termination of appointment of a chairman, a managing or whole-time director, manager or chief executive officer by whatever name called, shall have effect unless such appointment, re-appointment or termination of appointment is made with the previous approval of the Reserve Bank.] 1[Explanation.—For the purposes of this sub-section, any provision conferring any benefit or providing any amenity or perquisite, in whatever form, whether during or after the termination of the term of office 2[of the chairman or the manager] or the chief executive officer by whatever name called or the managing director, or any other director, whole-time or otherwise, shall be deemed to be a provision relating to his remuneration.]
+
+(2) Nothing contained in sections 3[268 and 269, the proviso to sub-section (3) of section 309, sections 310 and 311, the proviso to section 387, and section 388] (in so far as section 388 makes the 4[provisions of sections 269, 310] and 311 apply in relation to the manager of a company) of the Companies Act, 1956 (1 of 1956), shall 5[apply to any matter in respect of which the approval of the Reserve Bank has to be obtained under sub-section (1)]. 6[(2A) Nothing contained in section 198 of the Companies Act, 1956 (1 of 1956) shall apply to a banking company and the provisions of sub-section (1) of section 309 and of section 387 of that Act shall, in so far as they are applicable to a banking company, have effect as if no reference had been made in the said provisions to section 198 of that Act.]
+
+(3) No act done by a person 7[as chairman or a managing or whole-time director] or a director not liable to retire by rotation or a manager or a chief executive officer by whatever name called, shall be deemed to be invalid on the ground that it is subsequently discovered that his 8[appointment or re-appointment] had not taken effect by reason of any of the provisions of this Act; but nothing in this sub-section shall be construed as rendering valid any act done by such person after his 8[appointment or re-appointment] has been shown to the banking company not to have had effect.]
+
+Notes in the official text:
+
+- 2. Subs. by Act 7 of 1961, s. 2, for "national interest" (w.e.f. 24-3-1961).
+- 6. Subs. by Act 58 of 1968, s. 11, for "appointment or re-appointment or remuneration of a" (w.e.f. 1-2-1969).
+- 7. Subs. by Act 33 of 1959, s. 21, for "managing or whole-time director or of a director not liable to retire by rotation"
+- (w.e.f. 1-10-1959).
+- 8. Subs. by Act 58 of 1968, s. 11, for clause (b) (w.e.f. 1-2-1969).

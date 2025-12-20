@@ -1,0 +1,3 @@
+# Section 49C. Alteration of memorandum of a banking company
+
+49C. Alteration of memorandum of a banking company.—Notwithstanding anything contained in the Companies Act, 1956 (1 of 1956), no application for the confirmation of the alteration of the memorandum of a banking company shall be maintainable unless the Reserve Bank certifies that there is no objection to such alteration.]
