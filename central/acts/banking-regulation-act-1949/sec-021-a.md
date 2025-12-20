@@ -1,0 +1,3 @@
+# Section 21A. Rates of interest charged by banking companies not to be subject to scrutiny by courts
+
+21A. Rates of interest charged by banking companies not to be subject to scrutiny by courts.—Notwithstanding anything contained in the Usurious Loans Act, 1918 (10 of 1918), or any other law relating to indebtedness in force in any State, a transaction between a banking company and its debtor shall not be re-opened by any Court on the ground that the rate of interest charged by the banking company in respect of such transaction is excessive.]

@@ -1,0 +1,5 @@
+# Section 35AB. Power of Reserve Bank to issue directions in respect of stressed assets
+
+35AB. Power of Reserve Bank to issue directions in respect of stressed assets.—(1) Without prejudice to the provisions of section 35A, the Reserve Bank may, from time to time, issue directions to any banking company or banking companies for resolution of stressed assets.
+
+(2) The Reserve Bank may specify one or more authorities or committees with such members as the Reserve Bank may appoint or approve for appointment to advise any banking company or banking companies on resolution of stressed assets.]
