@@ -1,0 +1,102 @@
+---
+kind: "gazette-notification"
+gazette: "Kerala Gazette"
+gazette_number: "52"
+gazette_type: "Ordinary"
+part: "Part III"
+issuer: "Government of Kerala"
+department: "Revenue Department"
+published: "2025-12-30"
+in_force: "2025-12-30"
+in_force_evidence: "published in the Gazette 2025-12-30; no other commencement day stated"
+official_text: "https://compose.kerala.gov.in/kgSearchfiledownloadpdf?b%27gztnotemp=&gztyeartemp=&partdeptId=&partid=&department=&part1id=&part1aid=&part1bid=&part2id=&part3id=&part4id=&searchpdfid=45432&hiddenradiovalue=&organizationvalue=&eognohdn=&eogdatehdn=%27"
+mirror: "https://archive.org/details/in.gazette.keralacompose.2025-12-30.ordinary-45432"
+language: "English text only"
+---
+
+compose.kerala.gov.in Regn.No. KERBIL/2012/45073
+dated 2012-09-05 with RNI egazette.kerala.gov.in
+Reg No.KL/TV(N)/634/2021-2023
+printing.kerala.gov.in
+GOVERNMENT OF KERALA
+KERALA GAZETTE
+PUBLISHED BY AUTHORITY
+Tuesday, 30th December 2025
+15th Dhanu 1201 9th Pousha 1947
+Vol. XIV No.
+Part III
+Commissionerate of Land Revenue
+©
+GOVERNMENT OF KERALA
+
+53532 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Wayanad District
+SulthanbetheriTaluk
+NOTICE
+
+53533 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53534 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+53535 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53536 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+53537 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53538 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+53539 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53540 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+53541 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53542 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Wayanad District
+SulthanbetheriTaluk
+NOTICE
+
+53543 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53544 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+53545 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53546 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+53547 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53548 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+53549 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53550 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+53551 Revenue Department 30th December 2025
+____________________________________________________________________________________________________________________________
+
+53552 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
+PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRESSES
+AT THE GOVERNMENT CENTRAL PRESS, THIRUVANANTHAPURAM, 2025
