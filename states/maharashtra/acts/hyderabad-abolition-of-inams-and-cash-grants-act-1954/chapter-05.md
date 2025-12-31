@@ -16,7 +16,7 @@ MISCELLANEOUS
 
 (2) In particular and without prejudice to the generality of the foregoing provisions, such rules may provide for—
 
-(a) all matters expressly required or allowed by this Act to be prescribed; 1[* * * * * * *]
+(a) all matters expressly required or allowed by this Act to be prescribed; 1[* * *]
 
 (3) All rules made under this section shall be published in the Official Gazette and on such publication shall have effect as if enacted in this Act.
 
