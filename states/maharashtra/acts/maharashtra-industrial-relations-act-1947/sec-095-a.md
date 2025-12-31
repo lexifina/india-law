@@ -1,0 +1,3 @@
+# Section 95A
+
+95A. Law declared by Industrial Court to be binding.— The determination of any question of law in any order, decision, award or declaration passed or made, by the Full Bench of the Industrial Court, constituted under the regulations made under section 92 shall be recognised as binding and shall be followed in all proceedings under this Act.]

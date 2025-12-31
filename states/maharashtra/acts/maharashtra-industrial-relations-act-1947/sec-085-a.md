@@ -1,0 +1,3 @@
+# Section 85A
+
+85A. Power of Industrial Court to transfer proceedings.— The Industrial Court may, by order in writing and for reasons to be stated therein, withdraw any proceeding under this Act pending before a Labour Court and transfer the same to another Labour Court for the disposal of the proceeding; and the Labour Court to which the proceeding is so transferred may dispose of the proceeding but subject to any special directions in the order of transfer, proceed either de novo or from the stage at which it was so transferred.]
