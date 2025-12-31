@@ -6,7 +6,7 @@
 
 "Provided that, where there is a recognised union for any undertaking under any law for the time being in force, then the recognised union shall appoint its nominees to represent the workmen who are engaged in such undertaking.
 
-Explanation.— In the proviso to sub-section (1), the expression „undertaking‟ includes an establishment.
+Explanation.— In the proviso to sub-section (1), the expression 'undertaking' includes an establishment.
 
 2. In section 10, in sub-section (2), after "appropriate Government", insert "on such application being made by a union recognised for any undertaking under any law for the time being in force, and in any other case,".
 
@@ -32,7 +32,7 @@ Explanation.— In the proviso to sub-section (1), the expression „undertaking
 
 (a) after sub-section (2), the following sub-section shall be added, namely :—
 
-"(2A) Notwithstanding anything contained in this section, where a union has been recognised under any law for the time being in force, or where any other union is recognised in its place under such law, then notwithstanding anything contained in sub-section (2), it shall be lawful to any such recognised union to terminate the settlement after giving two months‟ written notice to the employer in that behalf.";
+"(2A) Notwithstanding anything contained in this section, where a union has been recognised under any law for the time being in force, or where any other union is recognised in its place under such law, then notwithstanding anything contained in sub-section (2), it shall be lawful to any such recognised union to terminate the settlement after giving two months' written notice to the employer in that behalf.";
 
 (b) to sub-section (7), the following shall be added, namely :—
 
