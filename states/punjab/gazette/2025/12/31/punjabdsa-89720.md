@@ -1,0 +1,75 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+number: "No.SEC/SAP/ZP-PS/2025/ 714"
+issuer: "Government of Punjab"
+department: "Election Commission"
+published: "2025-12-31"
+in_force: "2025-12-31"
+in_force_evidence: "published in the Gazette 2025-12-31; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2025-12-31.89720"
+language: "English text only"
+---
+
+STATE ELECTION COMMISSION, PUNJAB
+NOTIFICATION
+The 30th December, 2025
+No.SEC/SAP/ZP-PS/2025/ 714.-In Pursuance of Provisions of Section 71 of the Punjab State Election
+Commission Act, 1994, and all other powers enabling him in this behalf, the State Election Commission, Punjab,
+do hereby notify that the persons mentioned in column No. 4 have been elected as member from territorial
+constituencies in the Panchayat Samiti area, mentioned in column No. 2 & 3 of the schedule given below:-
+( 9977 )
+
+9978 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9979
+
+9980 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9981
+
+9982 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9983
+
+9984 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9985
+
+9986 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9987
+
+9988 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9989
+
+9990 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9991
+
+9992 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9993
+
+9994 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9995
+
+9996 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9997
+
+9998 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 9999
+
+99100 10000 PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA)
+
+PUNJAB GOVT. GAZ. (EXTRA), DECEMBER 31, 2025 (PAUSA 10, 1947 SAKA) 10001 99101
+Sd/-
+Deputy Commissioner-cum-
+District Election Officer,
+Hoshiarpur
+3598/12-2025/Pb. Govt. Press, S.A.S. Nagar
