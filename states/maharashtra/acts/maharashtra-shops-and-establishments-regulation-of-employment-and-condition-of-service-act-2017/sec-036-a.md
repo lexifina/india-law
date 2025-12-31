@@ -1,6 +1,6 @@
 # Section 36A
 
-36A. Name Board to be in Marathi.—(1) The Name Board of every establishment registered under section 6, or of every establishment to which section 7 apply, shall be in Marathi language in Devnagari script :
+36A. Name Board to be in Marathi.— (1) The Name Board of every establishment registered under section 6, or of every establishment to which section 7 apply, shall be in Marathi language in Devnagari script :
 
 Provided that, the employer of such establishment may also have the Name Board in any other language and script in addition to Marathi in Devnagari script :
 
