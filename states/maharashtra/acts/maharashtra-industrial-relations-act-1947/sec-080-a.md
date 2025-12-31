@@ -1,0 +1,5 @@
+# Section 80A
+
+80A. Procedure to be followed in an application under section 79 by an employer when employees affected are numerous.— (1) When an application is filed under section 79 by an employer or the Labour Officer for the decision of the Labour Court and the employees affected are numerous persons having the same interest, the Court many permit one or more of such employees to appear and to defend the application on behalf of all the employees so interested.
+
+(2) In such case the Labour Court shall also direct notice of the filing of the application to be given to all such employees at the applicants expense either by personal service or where from the number of employees or any other cause such service is not reasonably practicable, by public advertisement and by causing the notice with its translation in a regional language to be affixed by the applicant at the entrance through which the majority of the employees enter the premises for their work. The person affixing the notice and publishing the advertisement shall file an affidavit in the Court of his having done so.

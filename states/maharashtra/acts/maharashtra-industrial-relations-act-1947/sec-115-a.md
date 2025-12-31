@@ -1,0 +1,3 @@
+# Section 115A
+
+115A. Order, decision or award to be in terms of agreement between employer and Representative Union.— If any agreement is arrived at between an employer and a Representative Union who are parties to any industrial dispute pending before an Arbitrator, Wage Board, Labour Court or Industrial Court, the order, decision or award in such proceeding shall be made in terms of such agreement, unless the Arbitrator, Wage Board, Labour Court or Industrial Court is satisfied that the agreement was in contravention of any of the provisions of this Act or the consent of either party to it was caused by mistake, misrepresentation, fraud, undue influence, coercion or threat.]

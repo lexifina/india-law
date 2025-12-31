@@ -1,0 +1,3 @@
+# Section 23B
+
+23B. Recognised union under C.P. and Berar XXIII of 1947 to be approved union for purposes of this Act.— Notwithstanding anything contained in sub-section (1) section 23, any union registered as a recognised union in any local area in respect of any industry under the Central Provinces and Berar Industrial Disputes Settlement Act, 1947 (C. P. and Berar XXIII of 1947), shall, on the commencement of the Bombay Industrial Relations (Extension and Amendment) Act, 1964 (Mah. XXII of 1965), be deemed to be an union entered in the approved list as an approved union for that local area in respect of that industry.]

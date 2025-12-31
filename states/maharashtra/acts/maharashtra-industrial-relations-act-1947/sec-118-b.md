@@ -1,0 +1,7 @@
+# Section 118B
+
+118B. Consequence of non-appearance of parties.— (1) Where in any proceeding before the Industrial Court, or a Labour Court, if either party inspite of notice of hearing having been duly served on it, does not appear when the matter is called on for hearing, the Court may either adjourn the hearing of the matter to a subsequent date or proceed ex-parte and make such award, order or decision as it thinks fit. 6[(1A) Where in any proceeding before the Industrial Court, or a Labour Court, if neither party, in spite of notice to hearing having been duly served on him, appears when the matter is called on for hearing the Court may make an order that the application, appeal reference or other proceeding be dismissed.]
+
+(2) Where any award, order or decision is made ex-parte under sub-section (1) 7[or an order of dismissal of any proceeding is made sub-section (1A),] the aggrieved party may, within thirty days of the receipt of a copy there of, make an application to the Court, to set aside such award, order or decision 8[or such order of dismissal]. If the Industrial Court of Labour Court is satisfied that there was sufficient cause for non-appearance of the aggrieved party, it may set aside the award, order or decision 9[or the order of dismissal] so made and shall appoint a date for proceeding with the matter :
+
+Provided that, no award, order or decision 10[or the order of dismissal, as the case may be,] shall be set aside on any such application as aforesaid unless notice thereof has been served on the opposite party.]
