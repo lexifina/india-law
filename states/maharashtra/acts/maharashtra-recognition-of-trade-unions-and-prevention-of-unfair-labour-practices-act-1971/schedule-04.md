@@ -6,7 +6,7 @@ General Unfair Labour Practices on the part of employers
 
 (a) by way of victimisation ;
 
-(b) not in good faith, but in colourable exercise of the employer‟s rights ;
+(b) not in good faith, but in colourable exercise of the employer's rights ;
 
 (c) by falsely implicating an employee in a criminal case on false evidence or on concocted evidence ;
 
