@@ -5,3 +5,4 @@ Maharashtra Act 46 of 1965, as published by the Law and Judiciary Department, Go
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | text as on 2025-04-24 | 2014-07-01 (official reprint (text as on 2025-04-24; List of Amendment Acts: last Amended by Mah. 19 of 2014, commencement 2014-07-01; the reprint: 'the date mentioned in the bracket indicates the date of commenc) | Maharashtra Act 19 of 2014 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah_Act_No_46_of_1965_19_11_25.pdf |
+| text as on 2025-12-31 | 2025-12-31 (official reprint (text as on 2025-12-31; List of Amendment Acts: last Amended by Mah. 56 of 2025, commencement 2025-12-31; the reprint: 'the date mentioned in the bracket indicates the date of commenc) | Maharashtra Act 56 of 2025 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah_Act_No_46_of_1965_02-03-26.pdf |

@@ -1,6 +1,6 @@
 # The Schedule
 
-[Sections 16 (3), 27 and 28] The qualifications in addition to those specified in the Schedules to the Indian Medical Council Act, 1956, the possession of which entitles a person for registration under this Act.
+[Sections 16(3), 27 and 28] The qualifications in addition to those specified in the Schedules to the Indian Medical Council Act, 1956, the possession of which entitles a person for registration under this Act.
 
 1. Fellowship of the College of Physicians and Surgeons, Bombay, in Medicine, Pathology, Surgery or Dermatology granted before the 1st April, 1954.
 
@@ -40,7 +40,7 @@
 
 17. Diploma in Medicine and Surgery (Rural) [D. M. and S (Rural)] granted by the Government of Maharashtra].
 
-18. Bachelor of Medicine and Bachelor of Surgery (M. B. B. S.) granted by Amravati University (Maharashtra) from January 1989 onwards].
+18. Bachelor of Medicine and Bachelor of Surgery (M.B.B.S.) granted by Amravati University (Maharashtra) from January 1989 onwards].
 
 19. D.O.M.S. … Diploma in Ophthalmic Medicine and Surgery.
 
@@ -66,7 +66,7 @@ F.C.P.S. … Oto-rhinolarynigology.
 
 F.C.P.S. … Anaesthesiology.
 
-The Government of Maharashtra further directs that the above qualification should not be treated as conferring recognised Medical qualifications under the Indian Medical Council Act, 1956.]
+The Government of Maharashtra further directs that the above qualifications should not be treated as conferring recognised Medical qualifications under the Indian Medical Council Act, 1956.]
 
 20. Following qualifications awarded by the Mumbai University, Mumbai and the Maharashtra University of Health Sciences, Nashik :—
 
@@ -386,26 +386,26 @@ Name of the College Qualifications
 
 (11) Diploma in Tropical Medicine and Health (D.T.M. and H.), The Government of Maharashtra further directs that the above qualifications should not be treated as conferring recognised Medical qualifications under the Indian Medical Council Act, 1956.]
 
-28. Registered practitioner as defined in Clause (16) of section 2 of the Maharashtra Homeopathic Practitioner's Act who have passed the Certificate Course in Modern Pharmacology approved by the State Government.]
+28. Registered practitioner as defined in clause (16) of section 2 of the Maharashtra Homeopathic Practitioner's Act who have passed the Certificate Course in Modern Pharmacology approved by the State Government.]
 
 Notes in the official text:
 
 - Entry 15 was added by G. N., U.D., P.H. and H. D., No. MMC/1067/57304/H, dated 27th October 1967.
 - Entry 16 was added by G. N., P. H. No. MMC/1067/61276/P.H.-7, dated the 13th September 1976. M. M. G., 1984, Part
-- IV-B, p. 1144.
-- Entry 17 was added by G. N., MED., No. MMC/1184/250/MED, dated the 16th July 1984. M. M. G., 1984, Part IV-B, p.
+- IV-B, page 1144.
+- Entry 17 was added by G. N., MED., No. MMC/1184/250/MED, dated the 16th July 1984. M. M. G., 1984, Part IV-B,
 - Entry 18 was added by G. N., M. E. D. No. MMC/1089 CR-77/89-MED-8, dated the 6th July 1989. M. M. G., 1989, Part
-- IV-B, p. 978.
-- Entry 19 was added by G. N., M. E. D. No. MMC/ 1096/111/96/Act. dated the 19th September 1997. M. G. G, 1997, Part
-- IV-B, B. Extraordinary, p. 294.
+- IV-B, page 978.
+- Entry 19 was added by G. N., M. E. D. No. MMC/ 1096/111/96/Act, dated the 19th September 1997. M. G. G, 1997, Part
+- IV-B, Extraordinary, page 294.
 - Entries 20 to 26 were added by G. N., M. E. & D. D. No. MED. 1006/CR-87/06/EDU-2, dated the 16th November 2007,
 - MGG, dated the 16th November 2007, Part IV-B, pages 1732-1736.
 - Entries 20 to 22 were amended by GN, MED, No. MEDD. 1006/CR-87 Extraordinary 1061/EDU-2, dated the 18th
-- December 2008, MGG, dated the 18th December 2008., Part IV-B, pages 1391-1392.
+- December 2008, MGG, dated the 18th December 2008, Part IV-B, pages 1391-1392.
 - Entries 20 was amended by GN. MED & D, No. MED-1006/CR-37/09/EUD-2 dated the 4th November 2009, MGG,
 - dated the 6th November 2009, Part IV-B, Extraordinary, page 3.
-- Entries 20 to 22 were amended by GN, MED, No. MEDD. 1006/CR-87 Extraordinary 1061/EDU-2. dated the 18th
-- December 2008, MGG, dated the 18th December 2008., Part IV-B, pages 1391-1392.
+- Entries 20 to 22 were amended by GN, MED, No. MEDD. 1006/CR-87 Extraordinary 1061/EDU-2, dated the 18th
+- December 2008, MGG, dated the 18th December 2008, Part IV-B, pages 1391-1392.
 - Entry 27 was added by GN, M. E. D. & D, No. P. G. M. 1010/CR-18 (Part-2)/10/E. D. U.-2, dated the 12th March 2010,
-- M. G. G., dated the 12th March 2010, Part IV-B Extraordinary, Pages 3-4.
-- Entry 28 was added by Mah. 19 of 2014, S. S.
+- M. G. G., dated the 12th March 2010, Part IV-B, Extraordinary, pages 3-4.
+- Entry 28 was added by Mah. 19 of 2014, s. 5.
