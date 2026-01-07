@@ -1,0 +1,34 @@
+---
+kind: "gazette-notification"
+gazette: "Maharashtra Government Gazette"
+gazette_type: "Extra - Ordinary"
+part: "Part 4 C Division: CENTRAL SECTION"
+issuer: "Government of Maharashtra"
+published: "2026-01-07"
+in_force: "2026-01-07"
+in_force_evidence: "published in the Gazette 2026-01-07; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.maharashtra.2026-01-07.Extra-Ordinary_CENTRAL-SECTION_Part-4-C"
+language: "English text only"
+---
+
+SECURITIES AND EXCHANGE BOARD OF INDIA
+NOTIFICATION
+Mumbai, the 14th July, 2025
+F. No. SEBI/LAD-NRO/GN/2025/250.—Securities and Exchange Board of India, having
+considered the application for grant of renewal of recognition under Regulation 12 of the Securities
+Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2018, by Multi
+Commodity Exchange Clearing Corporation Limited, Exchange Square, Suren Road, Andheri (East),
+Mumbai, Maharashtra 400 093 and being satisfied that it would be in the interest of the trade, in
+the interest of securities market and also in the public interest so to do, hereby grants, in exercise of
+the powers conferred by section 4 read with sub-section (4) of section 8A of the Securities Contracts
+(Regulation) Act, 1956, renewal of recognition to the said clearing corporation for three years
+commencing on the 31st day of July, 2025 and ending on the 30th day of July, 2028, subject to the
+condition stated herein below or as may be prescribed or imposed hereafter:
+The Clearing Corporation shall comply with the conditions specified by the Securities and
+Exchange Board of India from time to time.
+ANANTH NARAYAN G,Whole Time Member
+[ADVT.-III/4/Exty./242/2025-26].
+ON BEHALF OF GOVERNMENT PRINTING, STATIONERY AND PUBLICATION, PRINTED AND PUBLISHED BY DIRECTOR,
+RUPENDRA DINESH MORE, PRINTED AT GOVERNMENT CENTRAL PRESS, 21-A, NETAJI SUBHASH ROAD, CHARNI ROAD,
+MUMBAI 400 004 AND PUBLISHED AT DIRECTORATE OF GOVERNMENT PRINTING, STATIONERY AND PUBLICATIONS,
+21-A, NETAJI SUBHASH ROAD, CHARNI ROAD, MUMBAI 400 004. EDITOR : DIRECTOR, RUPENDRA DINESH MORE.
