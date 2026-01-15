@@ -1,0 +1,5 @@
+# Section 5B. Principles of guidance in certifying films
+
+5B. Principles of guidance in certifying films.—(1) A film shall not be certified for public exhibition if, in the opinion of the authority competent to grant the certificate, the film or any part of it is against the interests of 3[the sovereignty and integrity of India] the security of the State, friendly relations with foreign States, public order, decency or morality, or involves defamation or contempt of court or is likely to incite the commission of any offence.
+
+(2) Subject to the provisions contained in sub-section (1), the Central Government may issue such directions as it may think fit setting out the principles which shall guide the authority competent to grant certificates under this Act in sanctioning films for public exhibition.

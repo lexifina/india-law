@@ -1,0 +1,17 @@
+# Section 5A. Certification of films
+
+5A. Certification of films.—1[(1) If, after examining a film or having it examined in the prescribed manner, the Board considers that—
+
+(a) the film is suitable for unrestricted public exhibition, or, as the case may be, for unrestricted public exhibition with an endorsement of the nature mentioned in the proviso to clause (i) of sub-section (1) of section 4, it shall grant to the person applying for a certificate in respect of the film a "U" certificate or, as the case may be, a 1[''UA'' Certificate with any UA marker]; or
+
+(b) the film is not suitable for unrestricted public exhibition, but is suitable for public exhibition restricted to adults or, as the case may be, is suitable for public exhibition restricted to members of any profession or any class of persons, it shall grant to the person applying for a certificate in respect of the film an "A" certificate or, as the case may be, a "S" certificate, and cause the film to be so marked in the prescribed manner:
+
+Provided that the applicant for the certificate, any distributor or exhibitor or any other person to whom the rights in the film have passed shall not be liable for punishment under any law relating to obscenity in respect of any matter contained in the film for which certificate has been granted under clause (a) or clause (b).]
+
+(2) A certificate granted or an order refusing to grant a certificate in respect of any film shall be published in the Gazette of India.
+
+(3) Subject to the other provisions contained in this Act, a certificate granted by the Board under this section shall be valid throughout India 2***.
+
+Notes in the official text:
+
+- 1. Subs. by Act 49 of 1981, s. 5, for sub-section (1) (w.e.f. 1-6-1983).
