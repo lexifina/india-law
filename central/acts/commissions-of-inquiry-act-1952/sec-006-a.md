@@ -1,0 +1,3 @@
+# Section 6A. Persons not obliged to disclose secret process of manufacture of goods in certain cases
+
+6A. Persons not obliged to disclose secret process of manufacture of goods in certain cases.—Except in cases where a Commission is expressly required to inquire into the process of manufacture of any goods, nothing in this Act shall be deemed to compel any person giving evidence before the Commission to disclose any secret process of manufacture thereof.]

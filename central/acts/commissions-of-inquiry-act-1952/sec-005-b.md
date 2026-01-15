@@ -1,0 +1,3 @@
+# Section 5B. Power of Commission to appoint assessors
+
+5B. Power of Commission to appoint assessors.—The Commission may, for the purpose of conducting any inquiry, appoint persons having special knowledge of any matter connected with the inquiry as assessors, to assist and advise the Commission in the inquiry and the assessors shall be entitled to such travelling and other expenses as may be prescribed.]
