@@ -1,0 +1,91 @@
+---
+kind: "gazette-notification"
+gazette: "Kerala Gazette"
+gazette_number: "209"
+gazette_type: "Extraordinary"
+issuer: "Government of Kerala"
+department: "Revenue Department"
+subject: "DPC (Higher) 2026 - Select list of Tahsildars for the post of Deputy Collectors"
+published: "2026-01-19"
+in_force: "2026-01-19"
+in_force_evidence: "published in the Gazette 2026-01-19; no other commencement day stated"
+official_text: "https://compose.kerala.gov.in/kgSearchfiledownloadpdf?b%27gztnotemp=&gztyeartemp=&partdeptId=&partid=&department=&part1id=&part1aid=&part1bid=&part2id=&part3id=&part4id=&searchpdfid=45840&hiddenradiovalue=&organizationvalue=&eognohdn=&eogdatehdn=%27"
+mirror: "https://archive.org/details/in.gazette.keralacompose.2026-01-19.extraordinary-45840"
+language: "English text only"
+---
+
+© Regn.No. KERBIL/2012/45073
+dated 05-09-2012 with RNI
+Government of Kerala
+Reg No.KL/TV(N)/634/2021-2023
+
+KERALA GAZETTE
+
+EXTRAORDINARY
+
+PUBLISHED BY AUTHORITY
+
+19th January 2026
+Vol. XV No.
+5th Makaram 1201
+Thiruvananthapuram,
+Monday
+29th Pousha 1947
+
+Sl.No Name Rank No. Date of Birth
+1 SUSEELA.R 1983 31/05/1970
+
+2 NAZEER.K.M 1985 28/05/1972
+3 MANOJ RAJAN 1988 27/10/1971
+4 BENNY SEBASTIAN 1990 20/04/1970
+5 SANTHEEP.M 1991 30/05/1974
+6 PRAKASAN.C.V 1992 10/05/1976
+7 FATHIMUTU SUMMAYYA 1993 30/05/1971
+8 ANITHA NAIR.K 1999 09/08/1972
+9 MINI.S 2002 03/03/1970
+10 NIZA.A 2003 28/02/1972
+11 ANILKUMAR.K.S 2005 01/06/1971
+12 RAJESH KUMAR. S. 2006 26/05/1971
+13 SHAJU. M.S. 2008 31/05/1972
+14 ANIL KUMAR.J. 2012 04/05/1970
+15 JAYASREE.S.VARIER 2015 28/05/1976
+16 ANZU BABU. K.P 2025 29/05/1970
+17 SADIK. P.O. 2026 17/05/1971
+18 NAJEEB C.K. 2028 15/02/1972
+19 PREMLAL A.M. 2030 01/06/1971
+20 SHAREENA.K. 2031 01/06/1972
+21 ABDUL HAKEEM K.T. 2032 10/05/1970
+22 MOHANAN NOONHADAN 2033 15/02/1972
+23 BENOY BABY 2039 30/05/1974
+24 RAHIM M. 2041 25/05/1970
+
+25 KISHOR.T.P. 2043 15/04/1970
+26 MOHAMMED RAFI N.N. 2047 31/05/1971
+27 ANILKUMAR S.N. 2052 30/05/1971
+28 BASIL.A.KURUVILLA 2064 30/05/1970
+29 DEEPU MATHEW 2066 27/11/1975
+30 RAJESH KUMAR P. 2067 17/05/1973
+31 ABDUL LATHEEF 2069 20/05/1972
+32 SUBAIR C. 2076 31/05/1976
+33 PRASIL K.K. 2077 20/05/1972
+34 ABDUL MAJEED C.M. 2084 10/05/1972
+35 MURALI MOHAN R 2084A 31/05/1972
+36 BIJU K.P. 2086 25/05/1971
+37 SHAJI K. 2089 25/05/1976
+38 BINDHU T.G. 2090 21/05/1976
+39 SHAJI V.K. 2095 02/05/1970
+40 SUNITHA S. 2096 16/05/1974
+41 REMYA.S. NAMBOOTHIRI 2097 02/09/1976
+42 RENGITH GEORGE 2098 26/09/1976
+43 UDAYAKUMAR.P 2099 04/12/1971
+44 MURALI P.V. 2100 10/08/1972
+45 MUMTHAS P.I. 2101 30/05/1971
+46 VIJUKUMAR M.S. 2102 19/05/1971
+47 BINURAJ T. 2103 25/05/1971
+
+48 SUDEEP.P 2104 12/05/1972
+49 PREETHA PRATHAPAN 2105 29/03/1977
+50 VARGHESE KURIAN 2106 31/05/1974
+____________________________________________________________________________________________________________________________
+PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRESSES
+AT THE GOVERNMENT CENTRAL PRESS, THIRUVANANTHAPURAM, 2026
