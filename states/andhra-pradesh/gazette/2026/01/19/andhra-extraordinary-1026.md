@@ -1,0 +1,69 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "1026"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "EDUCATION (HIGHER EDUCATION)"
+subject: "AMENDMENTS TO THE ANDHRA PRADESH PRIVATE UNIVERSITIES (ESTABLISHMENT) RULES, 2017. [G.O.Ms.No.2, Higher Education (RM), 17th January, 2026.]"
+published: "2026-01-19"
+in_force: "2026-01-19"
+in_force_evidence: "published in the Gazette 2026-01-19; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc2ODg0MTM4MSwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3Njg4MDY0MzgwMTIucGRmIn0.A3pb7X-3M7Q1vYZvhGe425mSKhiPASbHh6JHeoLRuPY"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-01-19.1026"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.36 AMARAVATI, MONDAY, JANUARY 19, 2026 G.1026
+NOTIFICATIONS BY GOVERNMENT
+--x--
+HIGHER EDUCATION DEPARTMENT
+(RM)
+AMENDMENTS TO THE ANDHRA PRADESH PRIVATE UNIVERSITIES
+(ESTABLISHMENT) RULES, 2017.
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+KONA SASIDHAR,
+Secretary to Government.
+
+January 19, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 3
+
+4 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+January 19, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 5
+
+6 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+January 19, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 7
+
+8 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+January 19, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 9
+
+10 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+January 19, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 11
+
+12 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+January 19, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 13
+
+14 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+January 19, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 15
+
+16 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+January 19, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 17
+
+18 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+KONA SASIDHAR,
+Secretary to Government.
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
