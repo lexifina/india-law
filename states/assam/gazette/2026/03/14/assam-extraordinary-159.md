@@ -1,0 +1,65 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "159"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 159 596012-169 Dated 14-03-26"
+published: "2026-03-14"
+in_force: "2026-03-14"
+in_force_evidence: "published in the Gazette 2026-03-14; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._159_596012-169_dated_14-03-26.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2026-03-14.159"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+HIGHER EDUCATION DEPARTMENT
+NOTIFICATION
+The 14th March, 2026
+
+1174 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1175
+
+1176 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1177
+
+1178 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1179
+
+1180 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1181
+
+1182 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1183
+
+1184 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1185
+
+1186 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1187
+
+1188 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1189
+
+1190 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1191
+
+1192 THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, APRIL 01, 2026 1193
+NARAYAN KONWAR,
+Commissioner & Secretary to the Government of Assam,
+Higher Education Department.
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 317 - 10 + 10 -01 - 04 - 2026. (visit at– dpns.assam.gov.in)
