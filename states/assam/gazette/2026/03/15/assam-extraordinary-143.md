@@ -1,0 +1,67 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "143"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 143 eCF No. 76367-15 Dated 15-03-26"
+published: "2026-03-15"
+in_force: "2026-03-15"
+in_force_evidence: "published in the Gazette 2026-03-15; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._143_ecf_no._76367-15_dated_15-03-26.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2026-03-15.143"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+ENVIRONMENT, FOREST AND CLIMATE CHANGE DEPARTMENT
+NOTIFICATION
+The 15th March, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 754
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 755
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 756
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 757
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 758
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 759
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 760
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 761
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 762
+MAHENDRA KUMAR YADAVA,
+Special Chief Secretary to the Government of Assam,
+Environment, Forest & Climate Change Department.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 763
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 764
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 765
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 766
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 767
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 768
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 769
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 770
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 771
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 772
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 773
+
+THE ASSAM GAZETTE, EXTRAORDINARY, MARCH 25, 2026 774
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 285 - 10 + 10 - 25 - 03 - 2026. (visit at– dpns.assam.gov.in)
