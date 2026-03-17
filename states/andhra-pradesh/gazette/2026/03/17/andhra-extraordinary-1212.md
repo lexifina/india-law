@@ -1,0 +1,43 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "1212"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "GENERAL ADMINISTRATION"
+subject: "THE OFFICIAL SECRETS ACT, 1923 (CENTRAL ACT No. 19 OF 1923) - DECLARATION OF PREMISES OF THE HINDUSTAN PETROLEUM CORPORATION LIMITED (HPCL) FOR CONSTRUCTION OF SECTIONALIZING VALVE STATION (SV03) LOCATED IN Sy.No.14-1 AN EXTENT OF Ac.1.00 Cts OF AMBADIPUDI VILLAGE, ATCHAMPET MANDAL & INTERMEDIATE PIGGING STATION (IPS01) LOCATED IN Sy.No.37-B,37-C,37-CL,38- A,38-B AND 39-A AN EXTENT OF AC.15.79 CTS IN VIPPARLA VILLAGE, ROMPICHERLA MANDAL, PALNADU DISTRICT, AS “PROHIBITED PLACE” UNDER THE SECTION 2(8)(c) &(d) THE OFFICIAL SECRETS ACT, 1923. (G.O.Ms.No.30, General Administration (SC.II), 17th March, 2026.)"
+published: "2026-03-17"
+in_force: "2026-03-17"
+in_force_evidence: "published in the Gazette 2026-03-17; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc3Mzc2NjIzMiwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NzM3MzE2NDAxNDMucGRmIn0.rfJBdUi2Zvj1g-jKgGHG6idhhByDfqqdjsH_ULLrhO8"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-03-17.1212"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.136 AMARAVATI, TUESDAY, MARCH 17, 2026 G.1212
+NOTIFICATIONS BY GOVERNMENT
+--x--
+GENERAL ADMINISTRATION DEPARTMENT
+(SC.II)
+THE OFFICIAL SECRETS ACT, 1923 (CENTRAL ACT No. 19 OF 1923) - DECLARATION
+OF PREMISES OF THE HINDUSTAN PETROLEUM CORPORATION
+LIMITED (HPCL) FOR CONSTRUCTION OF SECTIONALIZING VALVE STATION
+(SV03) LOCATED IN Sy.No.14-1 AN EXTENT OF Ac.1.00 Cts OF AMBADIPUDI
+VILLAGE, ATCHAMPET MANDAL & INTERMEDIATE PIGGING STATION (IPS01)
+LOCATED IN Sy.No.37-B,37-C,37-CL,38- A,38-B AND 39-A AN EXTENT OF AC.15.79
+CTS IN VIPPARLA VILLAGE, ROMPICHERLA MANDAL, PALNADU DISTRICT, AS
+“PROHIBITED PLACE” UNDER THE SECTION 2(8)(c) &(d) THE OFFICIAL
+SECRETS ACT, 1923.
+(G.O.Ms.No.30, General Administration (SC.II), 17th March, 2026.)
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+G SAI PRASAD,
+Chief Secretary to Government.
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
