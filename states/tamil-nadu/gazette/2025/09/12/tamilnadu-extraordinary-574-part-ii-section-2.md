@@ -1,0 +1,654 @@
+---
+kind: "gazette-notification"
+gazette: "Tamil Nadu Government Gazette"
+gazette_number: "574"
+gazette_type: "Extraordinary"
+part: "Part II"
+number: "Notification No. II(2)/ECCF/994(c)/2025.--G.O. Ms. No.192, Environment, Climate Change and Forests [FR.13], 12th September 2025."
+issuer: "Government of Tamil Nadu"
+department: "Environment and Forests Department"
+subject: "ENVIRONMENT, CLIMATE CHANGE AND FORESTS DEPARTMENT--Declaration of Highways Forest Block in Uthamapalayam and Aundipatti Taluk in Theni District as a reserved forest under the Tamil Nadu Forest Act"
+published: "2025-09-12"
+in_force: "2026-03-25"
+in_force_evidence: "text: \"with effect from 25.03.2026\""
+official_text: "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/574_Ex_II_2_2025.pdf"
+mirror: "https://archive.org/details/in.gazette.tamilnadu.2025-09-12.Extraordinary_574_Part-II_Section-2"
+language: "English text only"
+---
+
+© [Regd. No. TN/CCN/467/2012-14.
+GOVERNMENT OF TAMIL NADU [R. Dis. No. 197/2009.
+2025 [Price: Rs. 5.60 Paise.
+TAMIL NADU
+GOVERNMENT GAZETTE
+EXTRAORDINARY PUBLISHED BY AUTHORITY
+No. 574] CHENNAI, FRIDAY, SEPTEMBER 12,  2025
+Aavani 27, Visuvaavasu, Thiruvalluvar Aandu–2056
+Part II—Section 2
+Notifications or Orders of interest to a Section of the public
+issued by Secretariat Departments.
+NOTIFICATIONS BY GOVERNMENT
+ENVIRONMENT, CLIMATE CHANGE AND FORESTS DEPARTMENT
+DECLARATION OF HIGHWAYS FOREST BLOCK IN UTHAMAPALAYAM AND AUNDIPATTI TALUK IN THENI
+DISTRICT AS A RESERVED FOREST UNDER THE TAMIL NADU FOREST ACT.
+[G.O. Ms. No.192, Environment, Climate Change and Forests [FR.13], 12th September 2025,
+No. II(2)/ECCF/994(c)/2025.
+In exercise of the powers conferred by section 16 of the Tamil Nadu Forest Act, 1882 (Tamil Nadu Act V of 1882), the
+Governor of Tamil Nadu hereby declares the land within the land within the boundaries specified in the schedule below
+as a reserved forest with effect from 25.03.2026.
+The Schedule
+Name of the District : Theni
+Name of the Taluk : Uthamapalayam and Aundipatti
+Number and name of the Village : 28, Narayanathevanpatti Hill Village and 23, Megamalai Village
+Name of the Forest Block : Highwavys Forest Block
+Survey Number and extent of the Forest : No.28, Narayanathevanpatti Hill Village
+Block
+Sl.No Survey Numbers Extent (in Hectare)
+1 2051 6.84.00
+2 2053 0.52.50
+3 2054 1.04.50
+4 2055 1.12.00
+5 2056 41.96.50
+6 2057/1 15.19.50
+7 2058 2.04.00
+Ex-II-2—(574) [1]
+
+2 TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+Sl. Extent
+Survey Numbers
+No (in Hectare)
+8 2059/1 3.15.00
+9 2060/2 0.57.50
+10 2061 0.03.00
+11 2062 8.01.50
+12 2063 7.86.00
+13 2064 2.48.50
+14 2065 1.92.00
+15 2066 0.75.00
+16 2067 0.93.00
+17 2068 4.65.50
+18 2069 1.75.00
+19 2070/1 56.71.50
+20 2070/2 0.18.50
+21 2071 1.25.50
+22 2072 0.54.50
+23 2073 34.28.00
+24 2074 0.24.50
+25 2075 10.80.50
+26 2076 0.28.50
+27 2077 0.36.00
+28 2078 1.85.50
+29 2079 17.78.50
+30 2080 3.86.00
+31 2081 2.91.50
+32 2082 0.75.50
+33 2083 15.56.00
+34 2084 22.46.00
+35 2131/3 0.03.00
+36 2131/5 0.01.00
+37 2140 2.19.50
+38 2166 5.18.00
+39 2167/1 1.86.50
+40 2168 4.65.50
+41 2169 1.75.00
+42 2175 252.43.00
+43 2177 25.69.00
+44 2178 129.64.00
+45 2182 840.30.00
+46 2183 72.99.00
+47 2186 870.51.00
+48 2192 233.25.50
+TOTAL 2711.21.50
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY 3
+: No. 23, Megamalai Village
+Extent
+Sl.No Survey Numbers
+(in Hectare)
+1 87/3 0.60.5
+2 87/4 0.28.5
+3 87/5 43.36.0
+4 87/6 4.92.5
+5 87/7 6.88.0
+6 87/8 58.98.0
+7 87/9 0.35.0
+8 87/10 0.86.0
+9 87/11 0.13.5
+10 87/12 2.01.0
+11. 87/13 6.72.5
+TOTAL 125.11.50
+Total Extent of the forest block : v2,836.33.00 Hectare
+BOUNDARIES
+North.- Starting from the bi-junction point of Kuthanachiar reserved forest and Survey Number 2051 of No.28,
+Narayanathevanpatti Hill Village and thence the boundary generally runs south east and north east along the southern
+boundary of Kuthanachiar reserved forest and Survey Numbers 68, 67, 69 and 70 of No.23, Megamalai Village and
+reaches the trijunction point of Survey Numbers 70, 78 and 87 of No.23, Megamalai Village.
+East.- Thence, the boundary generally runs towards south along the western boundary of Survey Numbers 78, 81,
+88, 89, 90, partially 280, 1067, 1068, 1069, 1076, 186, 1078, 1080, 1081 and partially 280 of No.23, Megamalai Village
+and the inter-state boundary of Tamil Nadu (Survey Number 2183 of No.28, Narayanathevanpatti Hill Village) and Kerala
+(Periyar Tiger Reserve) reaching the bijunction point of Survey Number 2183 of No.28, Narayanathevanpatti Hill Village
+and Kerala State (Periyar Tiger Reserve).
+South.- Thence the boundary runs generally towards west, north and west along the inter-state boundary between
+Kerala and Tamil Nadu (Survey Numbers 2183, 2181, 2182, 2082, 2083, 2081, 2080, 2079, 2078, 2077, 2076 and 2178
+of No.28, Narayanathevanpatti Hill Village) and reaches the tri-junction point of Kerala State (Periyar Tiger Reserve),
+Vannathiparai reserved forest and Survey Number 2178 of No.28, Narayanathevanpatti Hill Village.
+West.- Thence the boundary generally runs towards north and north - east along the eastern boundary of
+Vannathiparai reserved forest, Surulipatti reserved forest and Kuthanatchiyar reserved forest till it reaches the starting
+point.
+The following areas are excluded from the notification within the block and kept as enclosure:-
+1. HINDUSTAN UNILEVER LTD - No.28, Narayanathevanpatti Hill Village
+Sl. Extent
+Survey Numbers
+No (in Hectare)
+1. 2052 128.27.50
+2. 2059/2 9.00.50
+3. 2060/1 0.71.50
+4. 2085/1 0.47.00
+5. 2085/2 0.23.00
+6. 2085/3 0.92.50
+7. 2085/4 0.04.00
+8. 2085/5 0.07.00
+9. 2085/6 0.18.00
+10. 2085/7 0.70.00
+
+4 TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+Sl. Extent
+Survey Numbers
+No (in Hectare)
+11. 2086 0.23.50
+12. 2087 0.32.50
+13. 2088 2.23.00
+14. 2089/1 2.28.00
+15. 2090/1 2.61.50
+16. 2091/1A1 4.40.00
+17. 2091/1A11 0.30.50
+18. 2091/1A12 0.39.50
+19. 2091/1A13 0.04.00
+20. 2091/1A14 0.46.50
+21. 2091/2A 0.18.00
+22. 2091/2C 0.27.50
+23. 2092/1A 12.26.00
+24. 2092/2 0.08.00
+25. 2092/3A 0.10.50
+26. 2092/3B 0.39.50
+27. 2092/5G 0.14.00
+28. 2093 34.09.00
+29. 2094/1 37.76.50
+30. 2094/2 0.10.00
+31. 2095/2 0.55.00
+32. 2096/1 0.13.00
+33. 2096/3 0.20.50
+34. 2097/1 3.00.00
+35. 2097/3 12.68.00
+36. 2098/1A 2.00.10
+37. 2098/3 2.94.00
+38. 2099 2.21.50
+39. 2100/1 0.80.00
+40. 2100/3 9.59.00
+41. 2101/2 0.77.50
+42. 2102/2B 2.94.50
+43. 2103/1 0.40.00
+44. 2103/3 6.41.00
+45. 2104/1G1 10.78.00
+46. 2104/1G3 1.50.00
+47. 2104/2B 0.03.00
+48. 2104/2C 0.16.50
+49. 2105/1 0.22.00
+50. 2106/1A 1.95.00
+51. 2108/2A 0.19.00
+52. 2108/2C 18.01.00
+53. 2108/2D 2.64.00
+54. 2109/1 15.76.50
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY 5
+Sl. Extent
+Survey Numbers
+No (in Hectare)
+55. 2110 0.22.00
+56. 2111/1 20.12.50
+57. 2112/1R1 1.49.50
+58. 2112/1R3 4.66.00
+59. 2112/1R4 0.14.00
+60. 2112/1R5 8.06.50
+61. 2112/3 1.36.50
+62. 2113/2 16.67.50
+63. 2114/1 10.32.00
+64. 2115 7.48.50
+65. 2116/1 5.51.50
+66. 2116/2 7.65.50
+67. 2116/3A 3.90.00
+68. 2116/4 0.11.50
+69. 2116/5 5.01.00
+70. 2117/1 11.18.00
+71. 2118 3.14.00
+72. 2119/1 22.38.50
+73. 2120/1 4.46.00
+74. 2120/2A 4.15.50
+75. 2120/3A1 4.65.00
+76. 2120/3A3 0.87.50
+77. 2120/3O 11.04.50
+78. 2121/1A 2.60.00
+79. 2121/1C 8.71.50
+80. 2122/1A 33.03.50
+81. 2123/4A 4.88.50
+82. 2124/1 1.28.00
+83. 2124/3 1.45.50
+84. 2130/1 0.09.00
+85. 2131/2 0.07.00
+86. 2131/4 0.21.00
+87. 2150/3 0.03.00
+88. 2159/1 0.22.50
+89. 2171/1 7.52.00
+90. 2171/3 61.46.00
+91. 2173/1 86.32.00
+92. 2173/3 57.52.00
+93. 2174 2.12.00
+94. 2176/1 305.51.50
+95. 2179 27.64.00
+96. 2180 199.94.00
+97. 2181 35.95.00
+98. 2184 0.81.00
+
+6 TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+Sl. Extent
+Survey Numbers
+No (in Hectare)
+99. 2185 0.60.00
+100. 2187/1 2.52.00
+101. 2187/3 0.68.00
+102. 2188 1.10.00
+103. 2189 4.52.00
+104. 2190 21.66.00
+105. 2191/1 0.65.50
+106. 2191/3 3.38.50
+TOTAL 1362.32.60
+2. HINDUSTAN UNILEVER LTD, No.23, Megamalai village
+Sl. No Survey Numbers Extent (in Hectare)
+1. 87/1 153.02.0
+2. 87/14 0.00.50
+3. 87/15 0.01.00
+4. 87/16 01.52.50
+5. 87/2 13.77.50
+TOTAL 168.33.50
+3. TAMIL NADU ELECTRICITY BOARD
+No.28, Narayanathevanpatti Hill village
+Sl.No Survey Numbers Extent(in Hectare)
+1. 2089/2 0.18.00
+2. 2090/2 1.12.00
+3. 2091/1A2 0.02.00
+4. 2091/1A3 0.06.50
+5. 2091/1A5 0.49.00
+6. 2091/1A7 0.92.50
+7. 2091/1B 0.07.50
+8. 2091/1C 0.73.00
+9. 2091/2B 0.31.50
+10. 2092/1B 4.33.50
+11. 2095/1 0.07.50
+12. 2102/1 0.94.50
+13. 2104/1A 4.97.50
+14. 2104/2A 0.93.00
+15. 2106/1B 3.13.50
+16. 2107 0.69.00
+17. 2108/1 5.83.50
+18. 2109/2 7.91.50
+19. 2111/2 4.10.50
+20. 2112/1A2 0.05.50
+21. 2112/1A3 0.02.50
+22. 2112/1A4 0.01.50
+23. 2112/1A5 0.03.00
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY 7
+Sl.No Survey Numbers Extent(in Hectare)
+24. 2112/1A6 0.02.00
+25. 2112/1B 0.15.00
+26. 2112/1C2 0.01.50
+27. 2112/1D2 0.04.00
+28. 2112/1D3 0.02.00
+29. 2112/1D4 0.03.50
+30. 2112/1E 0.05.00
+31. 2112/1F 0.40.00
+32. 2112/1H 0.09.50
+33. 2112/1I 0.17.50
+34. 2112/1J 0.03.50
+35. 2112/1K 0.07.00
+36. 2112/1M 0.08.00
+37. 2112/1O 0.14.00
+38. 2112/1Q 0.21.00
+39. 2112/2A2 0.06.50
+40. 2112/2B 0.02.00
+41. 2113/1 0.93.50
+42. 2113/6 0.02.50
+43. 2114/4 0.39.50
+44. 2119/3 0.09.50
+45. 2119/5 0.05.50
+46. 2119/6 0.16.50
+47. 2119/8 0.03.00
+48. 2119/9 0.01.50
+49. 2120/3E 0.72.00
+50. 2120/3G 0.19.50
+51. 2120/3I 0.18.00
+52. 2120/3J 0.23.00
+53. 2120/3K2 0.03.00
+54. 2120/3K3 0.03.00
+55. 2120/3K4 0.03.50
+56. 2120/3K5 0.13.00
+57. 2120/3K6 0.39.50
+58. 2120/3K7 0.01.00
+59. 2120/3K8 0.07.00
+60. 2120/3K9 0.03.50
+61. 2120/3L 0.22.50
+62. 2120/3M2 0.17.50
+63. 2121/3 1.15.00
+64. 2122/2 0.21.00
+65. 2122/4 0.36.00
+66. 2123/2 0.04.50
+67. 2125 2.58.00
+68. 2126 1.03.00
+
+8 TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+Sl.No Survey Numbers Extent(in Hectare)
+69. 2127 1.77.50
+70. 2128 0.24.00
+71. 2129 1.78.50
+72. 2132 1.56.50
+73. 2133 1.96.50
+74. 2134 4.71.00
+75. 2135 1.03.50
+76. 2139/2 0.05.50
+77. 2141 3.02.50
+78. 2142 2.00.50
+79. 2143/1 0.06.00
+80. 2143/2 0.14.00
+81. 2143/4 0.26.00
+82. 2145/1 0.34.00
+83. 2145/4 0.22.50
+84. 2147/3A 4.51.50
+85. 2148 0.79.50
+86. 2149/1 0.33.00
+87. 2149/3B 0.02.50
+88. 2149/3C 0.02.50
+89. 2150/1 0.01.00
+90. 2150/3D 0.07.50
+91. 2150/4 0.25.50
+92. 2151 0.28.50
+93. 2152 0.16.00
+94. 2153/1 0.38.50
+95. 2153/3 0.21.00
+96. 2153/4 0.74.50
+97. 2153/5 0.07.50
+98. 2153/7 0.06.50
+99. 2154/1 0.27.00
+100. 2154/2 0.22.50
+101. 2154/3 0.01.00
+102. 2154/4 0.05.00
+103. 2154/5 0.01.50
+104. 2154/6B 0.01.50
+105. 2154/6C 0.01.00
+106. 2155 9.89.00
+107. 2157 1.78.00
+108. 2158/1 0.59.00
+109. 2158/2 0.03.50
+110. 2158/3 0.02.00
+111. 2158/5 0.01.50
+112. 2158/6 0.65.00
+113. 2158/7 0.02.50
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY 9
+Sl.No Survey Numbers Extent(in Hectare)
+114. 2158/8 0.16.00
+115. 2158/9 0.29.50
+116. 2159/3 0.43.50
+117. 2159/4 0.48.00
+118. 2159/5 0.27.50
+119. 2159/6 0.79.50
+120. 2160/1 0.07.50
+121. 2160/3 0.26.00
+122. 2160/5 0.02.00
+123. 2160/6 0.71.00
+124. 2161/1 0.18.50
+125. 2161/4 0.48.50
+126. 2161/5 0.05.00
+127. 2161/6 0.03.00
+128. 2161/7 0.02.00
+129. 2161/8 0.04.00
+130. 2161/9 0.01.00
+131. 2162/1 0.06.50
+132. 2162/2 0.01.00
+133. 2162/3 0.12.00
+134. 2162/4 0.06.50
+135. 2162/5B 0.05.00
+136. 2162/5D 0.08.50
+137. 2163 3.62.50
+138. 2164/1 0.18.00
+139. 2164/3 0.11.00
+140. 2165/2 0.33.50
+141. 2167/2 1.76.00
+142. 2170/2 0.04.50
+143. 2170/3B 0.05.50
+TOTAL 100.03.50
+4. TAMIL NADU HIGHWAY DEPARTMENT
+No.28, Narayanathevanpatti Hill village
+Sl. No Survey Numbers Extent (in Hectare)
+1. 2091/1A4 0.30.00
+2. 2097/2 0.50.00
+3. 2098/2 0.55.00
+4. 2100/2 0.17.00
+5. 2101/1 0.02.50
+6. 2102/2A 0.28.00
+7. 2103/2 0.02.00
+8. 2104/1G2 0.37.00
+9. 2105/2 0.42.50
+10. 2108/2B 1.00.50
+
+10 TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+Sl. No Survey Numbers Extent (in Hectare)
+11. 2112/1R2 0.82.00
+12. 2120/3A2 0.29.50
+13. 2096/2 0.16.50
+14. 2121/1B 0.68.00
+15. 2122/1B 0.40.00
+16. 2123/4B 0.01.00
+17. 2124/2 0.26.00
+18. 2171/2 0.38.00
+19. 2172 0.71.00
+20. 2173/2 1.85.00
+21. 2176/2 3.86.00
+22. 2187/2 0.17.00
+23. 2191/2 0.28.00
+TOTAL 13.52.50
+5. AUTHORISED OFFICER, LAND REFORMS
+No.28,Narayanathevanpatti Hill village
+Extent
+Sl. No Survey Numbers
+(in Hectare)
+1. 2112/1A1 1.23.00
+2. 2112/1C1 0.05.50
+3. 2112/1D1 0.45.50
+4. 2112/1G 0.03.00
+5. 2112/1L 0.06.50
+6. 2112/1N 0.07.50
+7. 2112/1P 0.07.50
+8. 2112/2A1 0.23.50
+9. 2112/2C 0.01.00
+10. 2114/2 0.19.00
+11. 2114/3 0.04.00
+12. 2116/3B 0.01.50
+13. 2117/2 0.01.00
+14. 2119/2 0.06.00
+15. 2119/4 0.11.00
+16. 2119/7 0.07.50
+17. 2120/2B 0.04.00
+18. 2120/3B 0.05.50
+19. 2120/3C 0.02.50
+20. 2120/3D 0.01.00
+21. 2120/3F 0.18.00
+22. 2120/3H 0.06.00
+23. 2120/3K1 2.20.50
+24. 2120/3M1 0.16.50
+25. 2120/3N 0.59.00
+26. 2121/2 0.01.00
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY 11
+Extent
+Sl. No Survey Numbers
+(in Hectare)
+27. 2122/3 0.05.50
+28. 2122/5 0.18.00
+29. 2123/1 0.95.50
+30. 2136 1.64.50
+31. 2137 4.78.50
+32. 2138 1.45.00
+33. 2139/1 0.60.50
+34. 2139/3 0.24.00
+35. 2143/3 0.26.50
+36. 2144 1.22.50
+37. 2145/2 1.10.50
+38. 2145/3 1.04.00
+39. 2145/5 1.24.00
+40. 2146 0.18.00
+41. 2146/1 0.37.00
+42. 2146/2 0.04.50
+43. 2146/3 0.01.00
+44. 2146/4 0.18.00
+45. 2146/6 6.44.00
+46. 2150/2 0.02.50
+47. 2150/5 0.03.50
+48. 2153/2 0.35.50
+49. 2153/6 1.61.50
+50. 2154/6A 3.22.00
+51. 2158/4 2.58.50
+52. 2159/2 3.32.00
+53. 2160/4 1.96.50
+54. 2160/7 0.00.50
+55. 2161/2 0.98.50
+56. 2161/3 0.40.50
+57. 2162/5A 1.77.00
+58. 2162/5C 0.09.50
+59. 2164/2 0.31.50
+60. 2165/1 0.17.00
+61. 2170/1 0.05.00
+62. 2170/3A 5.13.00
+TOTAL 50.13.00
+6. UN ASSESSED WASTE AND ASSESSED WASTE LANDS
+No.28,Narayanathevanpatti Hill village
+Sl.No Survey Numbers Extent (in Hectare)
+1. 2057/2 6.92.50
+2. 2130/2 0.76.00
+3. 2131/1 0.01.00
+
+12 TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+Sl.No Survey Numbers Extent (in Hectare)
+4. 2147/1 0.03.00
+5. 2147/2 0.02.50
+TOTAL 07.75.00
+7. SUPERINTENDENT OF POLICE, THENI
+No.28, Narayanathevanpatti Hill village
+Extent
+Sl.No Survey Numbers
+(in Hectare)
+1. 2098/1B 0.03.90
+Admitted rights
+The following easement rights is allowed inside this block for the use of public:-
+A right of way for the road from Chinnamannur to Eravangalar is allowed for the use of the public to a length of
+5195.40 meters and to a width of 3.00 metres. The distance and GPS readings of the pathway allowed are as below:-
+Station Distance
+Magnetic Bearing
+From To (in meters)
+106 107 29.4 133.36
+107 108 122.60 162.04
+108 109 48.20 257.14
+109 110 49.40 164.43
+110 111 96.0 111.23
+111 112 45.0 95.00
+112 113 75.0 105.30
+113 114 84.0 194.58
+114 115 55.00 83.23
+115 116 38.40 98.00
+116 117 38.00 160.00
+117 118 53.60 256.18
+118 119 36.00 294.12
+119 120 38.00 86.52
+120 121 101.2 129.41
+121 122 38.20 182.29
+122 123 25.80 275.45
+123 124 78.80 189.40
+124 125 74.40 203.04
+125 126 222.40 155.00
+126 127 43.80 124.34
+127 128 137.80 262.52
+128 129 48.20 138.53
+129 130 77.60 225.20
+130 131 25.40 122.58
+131 132 58.80 214.14
+132 133 50.40 192.50
+133 134 104.60 182.38
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY 13
+Station Distance
+Magnetic Bearing
+From To (in meters)
+134 135 23.00 126.48
+135 136 104.80 200.00
+136 137 128.80 180.53
+137 138 51.60 241.13
+138 139 51.20 105.56
+139 140 67.80 178.45
+140 141 68.0 203.15
+141 142 31.60 150.59
+142 143 121.20 212.42
+143 144 23.40 140.00
+144 145 50.80 233.11
+145 146 22.20 68.44
+146 147 44.60 181.04
+147 148 49.00 236.15
+148 149 47.80 170.00
+149 150 142.00 218.51
+150 151 30.20 87.40
+151 152 84.80 256.15
+152 153 32.40 90.31
+153 154 36.40 277.45
+154 155 50.80 273.46
+155 156 40.00 50.18
+156 157 14.60 179.50
+157 158 40.00 177.45
+158 159 55.00 194.49
+159 160 20.80 291.26
+160 161 87.60 110.30
+161 162 33.20 106.22
+162 163 91.20 192.03
+163 164 86.80 219.45
+164 165 54.00 197.30
+165 166 51.60 109.44
+166 167 28.00 187.46
+167 168 60.00 225.11
+168 169 51.00 51.06
+169 170 20.00 300.56
+170 171 20.20 86.00
+171 172 12.40 243.03
+172 173 23.60 195.40
+173 174 45.40 203.01
+174 175 99.40 95.06
+175 176 106.40 139.02
+176 90 58.60 171.36
+90 177 58.20 175.00
+
+14 TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+Station Distance
+Magnetic Bearing
+From To (in meters)
+177 178 66.80 170.00
+178 179 158.00 229.20
+179 180 68.40 154.20
+180 181 62.80 153.41
+181 182 63.00 195.41
+182 183 54.60 235.17
+183 184 82.40 165.20
+184 185 64.00 217.01
+185 186 163.20 191.21
+186 187 71.20 89.23
+187 77 24.40 195.52
+Total 5195.40
+SUPRIYA SAHU,
+Additional Chief Secretary to Government.
+PRINTED  AND  PUBLISHED  BY  THE COMMISSIONER  OF  STATIONERY  AND  PRINTING, CHENNAI
+ON  BEHALF  OF  THE  GOVERNMENT  OF  TAMIL  NADU
