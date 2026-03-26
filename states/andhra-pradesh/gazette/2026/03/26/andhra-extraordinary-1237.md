@@ -1,0 +1,47 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "1237"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2025-2026)"
+issuer: "Government of Andhra Pradesh"
+department: "REVENUE"
+subject: "EXEMPTION OF STAMP DUTY FOR AN AMOUNT OF Rs.4,48,53,600/- UNDER SECTION 9(1)(a) OF INDIAN STAMP ACT, 1899 AND REGISTRATION FEE FOR AN AMOUNT OF Rs.20,000/- UNDER SECTION 78 OF THE REGISTRATION ACT, 1908 AND TRANSFER DUTY, TO M/s. RENEW PHOTOVOLTAICS PVT. LTD., TOWARDS EXECUTION OF AGREEMENT FOR SALE TO AN EXTENT OF Acs.135.92 CENTS IN Z.CHINTUVA(V), RAMBILLI(M), ANAKAPALLI DISTRICT, FOR ESTABLISHMENT OF 6 GW PHOTOVOLTAIC INGOT-WAFER MANUFACTURING FACILITY, IN TERMS OF GO.Ms.No.239, I&C (P&I) DEPT. DT:13.12.2025. [G.O.Ms.No.195, Home (Registration.II), 26th March, 2026.]"
+published: "2026-03-26"
+in_force: "2026-03-26"
+in_force_evidence: "published in the Gazette 2026-03-26; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc3NDU0NTA4Miwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NzQ1Mjk2NDYxMjUucGRmIn0.bNtb6uw0RKrfum49yzGcqsYBNQP7vHRrApT04nhhYLM"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-03-26.1237"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.150 AMARAVATI, THURSDAY, MARCH 26, 2026 G.1237
+NOTIFICATIONS BY GOVERNMENT
+--x--
+REVENUE DEPARTMENT
+(REGISTRATION.II)
+EXEMPTION OF STAMP DUTY FOR AN AMOUNT OF Rs.4,48,53,600/- UNDER
+SECTION 9(1)(a) OF INDIAN STAMP ACT, 1899 AND REGISTRATION FEE FOR
+AN AMOUNT OF Rs.20,000/- UNDER SECTION 78 OF THE REGISTRATION ACT,
+1908 AND TRANSFER DUTY, TO M/s. RENEW PHOTOVOLTAICS PVT. LTD., TOWARDS
+EXECUTION OF AGREEMENT FOR SALE TO AN EXTENT OF Acs.135.92 CENTS
+IN Z.CHINTUVA(V), RAMBILLI(M), ANAKAPALLI DISTRICT, FOR ESTABLISHMENT
+OF 6 GW PHOTOVOLTAIC INGOT-WAFER MANUFACTURING FACILITY, IN
+TERMS OF GO.Ms.No.239, I&C (P&I) DEPT. DT:13.12.2025.
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+G. SAI PRASAD,
+Special Chief Secretary to Government (FAC).
+
+March 26, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 3
+
+4 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+G. SAI PRASAD,
+Special Chief Secretary to Government (FAC).
+---x---
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
