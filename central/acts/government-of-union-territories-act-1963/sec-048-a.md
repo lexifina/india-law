@@ -1,0 +1,7 @@
+# Section 48A. Borrowing upon the security of the Consolidated Fund of Union Territory
+
+48A. Borrowing upon the security of the Consolidated Fund of Union Territory.―(1) The executive power of the Union extends to borrowing upon the security of the Consolidated Fund of the Union territory within such limits, if any, as may, from time to time, be fixed by Parliament by law and to the giving of guarantees within such limits, if any, as may be so fixed:
+
+Provided that the powers exercisable by the Government of India under this sub-section shall also be exercisable by the Administrator subject to such conditions, if any, as the Government of India may think fit to impose.
+
+(2) Any sums required for the purpose of invoking a guarantee shall be charged on the Consolidated Fund of the Union territory.
