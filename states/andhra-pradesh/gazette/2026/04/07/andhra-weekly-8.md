@@ -1,0 +1,44 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Weekly)"
+gazette_number: "8"
+gazette_type: "Weekly"
+part: "Part II"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "COMMISSIONER OF LABOUR"
+subject: "No.I/3204907/2026. Dated : 06-04-2026. GENERAL ELECTIONS TO LEGISLATIVE ASSEMBLIES OF TAMIL NADU AND PUDUCHERRY,- 2026- POLLING ON 09.04.2026(THURSDAY) FOR PUDUCHERRY AND ON 23.04.2026(THURSDAY) FOR TAMIL NADU - DECLARATION OF PAID HOLIDAY TO THE PERSONS WHO ARE ELECTORS OF UT OF PUDUCHERRY AND TAMIL NADU STATE AND WORKING IN DISTRICTS OF ANDHRA PRADESH STATE i.e, KAKINADA, Dr.B.R AMBEDKAR KONASEEMA, TIRUPATI AND CHITTOOR DISTRICTS- UNDER A.P. SHOPS AND ESTABLISHMENTS ACT, 1988"
+published: "2026-04-07"
+in_force: "2026-04-07"
+in_force_evidence: "published in the Gazette 2026-04-07; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc3NTU4NTkwMywic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NzU1NDQyNTQzNDQucGRmIn0.PFsxDc3wFTXF3q-q-0LYnB_4yg76MvDbUBf-setluZg"
+mirror: "https://archive.org/details/in.gazette.andhra_weekly.2026-04-07.8"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+W.No.14 AMARAVATI, TUESDAY, APRIL 7, 2026 G.8
+PART II - MISCELLANEOUS NOTIFICATIONS OF INTEREST TO THE PUBLIC
+--x--
+NOTIFICATIONS BY HEADS OF DEPARTMENTS Etc.,
+COMMISSIONER OF LABOUR : A.P. : VIJAYAWADA
+No.I/3204907/2026. Dated : 06-04-2026.
+GENERAL ELECTIONS TO LEGISLATIVE ASSEMBLIES OF TAMIL NADU AND
+PUDUCHERRY,- 2026- POLLING ON 09.04.2026(THURSDAY) FOR
+PUDUCHERRY AND ON 23.04.2026(THURSDAY) FOR TAMIL NADU - DECLA-
+RATION OF PAID HOLIDAY TO THE PERSONS WHO ARE ELECTORS OF
+UT OF PUDUCHERRY AND TAMIL NADU STATE AND WORKING IN DISTRICTS
+OF ANDHRA PRADESH STATE i.e, KAKINADA, Dr.B.R AMBEDKAR
+KONASEEMA, TIRUPATI AND CHITTOOR DISTRICTS- UNDER A.P. SHOPS
+AND ESTABLISHMENTS ACT, 1988.
+[1]
+
+2 ANDHRA PRADESH GAZETTE, April 7, 2026
+GANDHAM CHANDRUDU,
+Commissioner of Labour.
+
+ANDHRA PRADESH GAZETTE, April 7, 2026 3
+
+
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
