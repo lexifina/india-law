@@ -1,0 +1,16 @@
+# Section 14A. Issue of national identity cards
+
+14A. Issue of national identity cards.―(1) The Central Government may compulsorily register every citizen of India and issue national identity card to him.
+
+(2) The Central Government may maintain a National Register of Indian Citizens and for that purpose establish a National Registration Authority.
+
+(3) On and from the date of commencement of the Citizenship (Amendment) Act, 2003 (6 of 2004), the Registrar General, India, appointed under sub-section (1) of section 3 of the Registration of Births and Deaths Act, 1969 (18 of 1969) shall act as the National Registration Authority and he shall function as the Registrar General of Citizen Registration.
+
+(4) The Central Government may appoint such other officers and staff as may be required to assist the Registrar General of Citizen Registration in discharging his functions and responsibilities.
+
+(5) The procedure to be followed in compulsory registration of the citizens of India shall be such as may be prescribed.]
+
+Notes in the official text:
+
+- 1. Subs. by Act 6 of 2004, s. 11, for "sections 5 and 6" (w.e.f. 3-12-2004).
+- 2. Ins. by s. 12, ibid. (w.e.f. 3-12-2004).
