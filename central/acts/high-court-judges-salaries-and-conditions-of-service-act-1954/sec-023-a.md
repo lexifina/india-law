@@ -1,0 +1,5 @@
+# Section 23A. Vacation of High Courts
+
+23A. Vacation of High Courts.—(1) Every High Court shall have a vacation or vacations for such period or periods as may, from time to time, be fixed by the President, by order notified in this behalf in the Official Gazette, and every such order shall have effect notwithstanding anything contained in any other law, rule or order regulating the vacation of the High Court.
+
+(2) Every order made under sub-section (1) shall be laid before each House of Parliament.
