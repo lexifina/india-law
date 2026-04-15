@@ -1,0 +1,3 @@
+# Section 14A. Benefit of added years of service
+
+14A. Benefit of added years of service.—Subject to the provisions of this Act, a period of ten years shall be added and shall be deemed to have been added from the 1st day of April, 2004 for the purposes of pension, to the service of a Judge who is appointed as such Judge under sub-clause (b) of clause (2) of article 217 of the Constitution.]
