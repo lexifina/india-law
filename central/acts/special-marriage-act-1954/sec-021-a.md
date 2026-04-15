@@ -1,0 +1,3 @@
+# Section 21A. Special provision in certain cases
+
+21A. Special provision in certain cases.―Where the marriage is solemnized under this Act of any person who professes the Hindu, Buddhist, Sikh or Jaina religion with a person who professes the Hindu, Buddhist, Sikh or Jaina religion, section 19 and section 21 shall not apply and so much of section 20 as creates a disability shall also not apply.]

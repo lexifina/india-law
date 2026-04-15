@@ -1,0 +1,23 @@
+# Section 40A. Power to transfer petitions in certain cases
+
+40A. Power to transfer petitions in certain cases.―(1) Where―
+
+(a) a petition under this Act has been presented to the district court having jurisdiction, by a party to the marriage praying for a decree for judicial separation under section 23 or for a decree of divorce under section 27, and
+
+(b) another petition under this Act has been presented thereafter by the other party to the marriage praying for decree for judicial separation under section 23, or for decree of divorce under section 27 on any ground whether in the same district court, or in a different district court, in the same State or in a different State, the petition shall be dealt with as specified in sub-section (2).
+
+(2) In a case where sub-section (1) applies,―
+
+(a) if the petitions are presented to the same district court, both the petitions shall be tried and heard together by that district court;
+
+(b) if the petitions are presented to different district courts, the petitions presented later shall be transferred to the district court in which the earlier petition was presented and both the petitions shall be heard and disposed of together by the district court in which the earlier petition was presented.
+
+(3) In a case where clause (b) of sub-section (2) applies, the court or the Government, as the case may be, competent under the Code of Civil Procedure, 1908 (5 of 1908), to transfer any suit or proceeding from the district court in which the later petition has been presented to the district court in which the earlier petition is pending, shall exercise its powers to transfer such later petition as if it had been empowered so to do under the said Code.
+
+Notes in the official text:
+
+- 1. Subs. by Act 68 of 1976, s. 36, for "it shall rescind the order" (w.e.f. 27-5-1976).
+- 2. The proviso ins. by Act 49 of 2001, s. 7 (w.e.f. 24-9-2001).
+- 3. Subs. by Act 68 of 1976, s. 37, for section 39 (w.e.f. 27-5-1976).
+- 4. Subs. by Act 50 of 2003, s. 3, for "period of thirty days" (w.e.f. 23-12-2003).
+- 5. Ins. by Act 68 of 1976, s. 38 (w.e.f. 27-5-1976).

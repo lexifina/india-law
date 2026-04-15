@@ -1,0 +1,3 @@
+# Section 39A. Enforcement of decrees and orders
+
+39A. Enforcement of decrees and orders.―All decrees and orders made by the court in any proceeding under Chapter V or Chapter VI shall be enforced in the like manner as the decrees and orders of the court made in the exercise of its original civil jurisdiction for the time being are enforced.]
