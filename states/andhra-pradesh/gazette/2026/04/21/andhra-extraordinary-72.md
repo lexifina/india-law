@@ -1,0 +1,42 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "72"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "GENERAL ADMINISTRATION"
+subject: "DECLARATION OF PREMISES OF HINDUSTAN PETROLEUM CORPORATION LIMITED, AN AREA OF 18.04 ACRES FOR SECTIONALIZING VALVE (SV) AND INTERMEDIATE PIGGING STATIONS (IPS) OF HINDUSTAN PETROLEUM CORPORATION LIMITED’S VIJAYAWADA DHARMAPURI PIPELINE (VDPL) IPS-2 AT DAMMANAPALLI (V), PORUMAMILLA (M), SV-8 AT VONIPENTA (V), MYDUKUR (M), SV-9 AT PATTUR (V), KHAJIPET (M) AND SV-10 AT GURRAMPADU (V), CHENNUR (M), YSR KADAPA DISTRICT, AS A “PROHIBITED PLACE” UNDER SECTION 2 CLAUSE (8) (D) OF THE OFFICIAL SECRETS ACT, 1923 (CENTRAL ACT, No.19 OF 1923). (G.O.Ms.No.47, General Administration (SC.II), 21st April, 2026.)"
+published: "2026-04-21"
+in_force: "2026-04-21"
+in_force_evidence: "published in the Gazette 2026-04-21; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc3Njc5MDcwNiwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3NzY3NzEzOTQyNDkucGRmIn0.aEjF7AausCGqs7gygJ2etmUeVmEaZCJJuQn9zNqpg0Q"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-04-21.72"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.201 AMARAVATI, TUESDAY, APRIL 21, 2026 G.72
+NOTIFICATIONS BY GOVERNMENT
+--x--
+GENERAL ADMINISTRATION DEPARTMENT
+(SC.II)
+DECLARATION OF PREMISES OF HINDUSTAN PETROLEUM CORPORATION
+LIMITED, AN AREA OF 18.04 ACRES FOR SECTIONALIZING VALVE (SV) AND
+INTERMEDIATE PIGGING STATIONS (IPS) OF HINDUSTAN PETROLEUM
+CORPORATION LIMITED’S VIJAYAWADA DHARMAPURI PIPELINE (VDPL)
+IPS-2 AT DAMMANAPALLI (V), PORUMAMILLA (M), SV-8 AT VONIPENTA (V),
+MYDUKUR (M), SV-9 AT PATTUR (V), KHAJIPET (M) AND SV-10 AT GURRAMPADU
+(V), CHENNUR (M), YSR KADAPA DISTRICT, AS A “PROHIBITED PLACE” UNDER
+SECTION 2 CLAUSE (8) (D) OF THE OFFICIAL SECRETS ACT, 1923 (CENTRAL
+ACT, No.19 OF 1923).
+(G.O.Ms.No.47, General Administration (SC.II), 21st April, 2026.)
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+J. SYAMALA RAO,
+Principal Secretary to Government (POLL).
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
