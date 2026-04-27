@@ -1,0 +1,167 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+issuer: "Government of Punjab"
+department: "Legal and Legislative Affairs"
+published: "2026-04-27"
+in_force: "2026-04-27"
+in_force_evidence: "published in the Gazette 2026-04-27; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2026-04-27.91174"
+language: "English text only"
+---
+
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 27th April, 2026
+No. 34/L.C./2026.- The Translation in Punjabi of the Chandigarh
+University Act, 2012 is hereby published under the authority of the Governor
+of Punjab and shall be deemed to be the authoritative text thereof in Punjabi
+under section 6-A of the Punjab Official Language Act, 1967 (Punjab Act No. 5
+of 1967).
+
+452 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 453
+(VYSK 7, 1948 SAKA)
+
+454 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 455
+(VYSK 7, 1948 SAKA)
+
+456 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 457
+(VYSK 7, 1948 SAKA)
+
+458 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 459
+(VYSK 7, 1948 SAKA)
+
+460 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 461
+(VYSK 7, 1948 SAKA)
+
+462 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 463
+(VYSK 7, 1948 SAKA)
+
+464 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 465
+(VYSK 7, 1948 SAKA)
+
+466 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+gqftXkB pDkT[D
+dh ;aesh.
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 467
+(VYSK 7, 1948 SAKA)
+
+468 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 469
+(VYSK 7, 1948 SAKA)
+
+470 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 471
+(VYSK 7, 1948 SAKA)
+
+472 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+;pzXs nEkoNhnK
+ns/ p"vhnK d/
+MrV/.
+3702/4-2026/Pb. Govt. Press, S.A.S. Nagar
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 473
+(VYSK 7, 1948 SAKA)
+Gkr ^1
+gzikp ;oeko
+nfX;{uBk
+fwsh 27 ngq?b, 2026
+iKdk j? ns/ gzikp oki GkPk n?eN, 1967 (1967 dk gzikp n?eN BzH 5) dh
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 27th April, 2026
+No. 35/L.C./2026.- The Translation in Punjabi of the Punjab Water
+Resources (Management and Regulation) Act, 2020 is hereby published under
+the authority of the Governor of Punjab and shall be deemed to be the
+authoritative text thereof in Punjabi under section 6-A of the Punjab Official
+Language Act, 1967 (Punjab Act No.5 of 1967)
+
+474 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 475
+(VYSK 7, 1948 SAKA)
+
+476 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 477
+(VYSK 7, 1948 SAKA)
+
+478 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 479
+(VYSK 7, 1948 SAKA)
+
+480 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 481
+(VYSK 7, 1948 SAKA)
+
+482 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 483
+(VYSK 7, 1948 SAKA)
+
+484 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 485
+(VYSK 7, 1948 SAKA)
+
+486 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 487
+(VYSK 7, 1948 SAKA)
+
+488 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 489
+(VYSK 7, 1948 SAKA)
+
+490 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 491
+(VYSK 7, 1948 SAKA)
+
+492 PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026
+(VYSK 7, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), APRIL 27, 2026 493
+(VYSK 7, 1948 SAKA)
+3702/4-2026/Pb. Govt. Press, S.A.S. Nagar
