@@ -120,6 +120,18 @@
    "supersedes": "none",
    "kind": "redate",
    "written": "2026-11-23"
+  },
+  {
+   "act": "central/acts/jan-vishwas-amendment-of-provisions-act-2026",
+   "misdated": "9715ab70846dfb9bf36d2d3a07d76ad8d867bcdf",
+   "recorded_day": "2026-05-15",
+   "in_force": "2026-05-01",
+   "corrects": "2026-05-01..2026-05-14",
+   "evidence": "S.O.2103(E) of 2026-04-27 (commencement notification, Gazette Id CG-DL-E-27042026-272104): appoints 2026-05-01 for serial number 66 of the Schedule",
+   "reason": "misdated: dated by S.O.2303(E) of 2026, a later stage (serial number 4); the Act first came into force on 2026-05-01 (S.O.2103(E))",
+   "supersedes": "none",
+   "kind": "redate",
+   "written": "2026-11-23"
   }
  ]
 }
