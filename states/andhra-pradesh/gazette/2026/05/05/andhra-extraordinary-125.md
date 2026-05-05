@@ -1,0 +1,71 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "125"
+gazette_type: "Extraordinary"
+part: "Part II"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "CONSUMER AFFAIRS FOOD & CIVIL SUPP"
+subject: "THE ANDHRA PRADESH LEGAL METROLOGY GOVERNMENT APPROVED TEST CENTRE (GATC) RULES, 2026 - PRELIMINARY NOTIFICATION. (G.O.Ms.No.4, Consumer Affairs, Food & Civil Supplies (CS-II), 4th May, 2026.)"
+published: "2026-05-05"
+in_force: "2026-05-05"
+in_force_evidence: "published in the Gazette 2026-05-05; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc3Nzk5OTcwNiwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3Nzc5ODExMzc3NDEucGRmIn0.5zg9wnidXwE7y1sDBT2xHuh0Ffjjy1NVYM9n8Y8GZSA"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-05-05.125"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART II EXTRAORDINARY
+No.140 AMARAVATI, TUESDAY, MAY 5, 2026 G.125
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, Etc.
+--x--
+CONSUMER AFFAIRS, FOOD &
+CIVIL SUPPLIES DEPARTMENT
+(CS-II)
+THE ANDHRA PRADESH LEGAL METROLOGY GOVERNMENT APPROVED TEST
+CENTRE (GATC) RULES, 2026 - PRELIMINARY NOTIFICATION.
+(G.O.Ms.No.4, Consumer Affairs, Food & Civil Supplies (CS-II), 4th May, 2026.)
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+May 5, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 3
+
+4 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+May 5, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 5
+
+6 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+May 5, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 7
+
+8 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+May 5, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 9
+
+10 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+May 5, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 11
+
+12 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+May 5, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 13
+
+14 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+May 5, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 15
+
+16 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+May 5, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 17
+
+18 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+
+May 5, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 19
+K. KANNA BABU,
+Ex-Officio Secretary to Government.
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
