@@ -1,0 +1,3 @@
+# Section 3A. Power to regulate Importation of live-stock products
+
+3A. Power to regulate Importation of live-stock products. —The Central Government may, by notification in the Official Gazette, regulate, restrict or prohibit in such manner and to such extent as it may think fit, the import into the territories to which this Act extends, of any live-stock product, which may be liable to affect human or animal health.]
