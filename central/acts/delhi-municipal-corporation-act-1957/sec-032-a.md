@@ -1,0 +1,11 @@
+# Section 32A. Declaration of assets
+
+32A. Declaration of assets.—(1) Every councillor shall, not later than thirty days after making and subscribing the oath or affirmation under sub-section (1) of section 32 and before the last day of the same month in each succeeding year, file with the Mayor a declaration in such form as may be prescribed by rules by the 6[ 7[Central Government]], of all the assets owned by him and members of his family and such declaration shall form part of the records of 3[4[the Corporation]].
+
+Explanation.—For the purposes of this sub-section, "family" means the spouse and dependant children of the councillor.
+
+(2) A person shall be disqualified for being a councillor—
+
+(a) if he fails to file a declaration referred to in sub-section (1); or
+
+(b) if he files a declaration under that sub-section which is either false or which he knows or believes to be false.

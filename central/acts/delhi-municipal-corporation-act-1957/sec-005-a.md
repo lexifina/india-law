@@ -1,0 +1,3 @@
+# Section 5A
+
+5A. [Special provision as to delimitation, etc.] Omitted by the Delhi Municipal Corporation Amendment Act, 1993 (67 of 1993), s. 7 (w.e.f. 1-10-1993).

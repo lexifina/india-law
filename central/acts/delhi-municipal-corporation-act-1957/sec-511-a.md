@@ -1,0 +1,9 @@
+# Section 511A. Temporary provision with respect to electricity, water, sewage, etc
+
+511A. Temporary provision with respect to electricity, water, sewage, etc.—Notwithstanding the commencement of the Delhi Municipal Corporation (Amendment) Act, 1993 (67 of 1993), all the provisions existing in the principal Act before such commencement relating to—
+
+(a) water supply, drainage and sewage disposal;
+
+(b) electric supply; and
+
+(c) prevention and extinguishing of fire, and matters connected therewith or incidental thereto shall be deemed to continue in operation till such date as the 3[Government] may, by notification in the Official Gazette, specify and different dates may be specified by the Central Government for any of the aforementioned different matters.

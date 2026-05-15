@@ -1,0 +1,11 @@
+# Section 172A. Power to appoint an agency for administration of property tax
+
+172A. Power to appoint an agency for administration of property tax.—(1) The Commissioner may, subject to such bye-laws as specified by 2[3[the Corporation]] in this behalf, appoint any citizens welfare association recognized by 2[ 3[the Corporation]], or any Scheduled bank, or any person or other agency to—
+
+(a) maintain the assessment book under section 124;
+
+(b) collect tax and deposit the same with 2[ 3[the Corporation]]; and
+
+(c) carry out such other tasks as may be assigned to them by a resolution of the Standing Committee.
+
+(2) Such citizens welfare association, bank or person, or other agency shall be paid such collection charges as may be authorized by such bye-laws as may be specified by 2[3[the Corporation]].]
