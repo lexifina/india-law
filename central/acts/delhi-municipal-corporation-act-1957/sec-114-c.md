@@ -1,0 +1,5 @@
+# Section 114C. Vacant land tax
+
+114C. Vacant land tax.—The vacant land tax in respect of any premises shall be equal to the rate of vacant land tax as may be specified by 3[4[the Corporation]] under section 114E multiplied by the annual value of the vacant land determined under sub-section (3) of section 116E;
+
+Provided that where there is any construction on the land and the area of plinth of such building is in excess of such percentage of the area of the plot, as may be prescribed in the bye-laws, no vacant land tax shall be levied.

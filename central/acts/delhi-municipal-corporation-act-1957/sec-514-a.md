@@ -1,0 +1,3 @@
+# Section 514A. Appointment of Special Officer
+
+514A. Appointment of Special Officer.—Notwithstanding anything contained in this Act, the Central Government may, if necessary, appoint a person to be called the Special Officer, to exercise the power and discharge the functions of the Corporation until the date on which the first meeting of the Corporation is held after the commencement of the Delhi Municipal Corporation (Amendment) Act, 2022.

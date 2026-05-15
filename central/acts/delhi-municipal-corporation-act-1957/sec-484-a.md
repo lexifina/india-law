@@ -1,0 +1,3 @@
+# Section 484A
+
+484A. [Director of Local Bodies.] Omitted by the Delhi Municipal Corporation (Amendment) Act, 2022, s. 12 (w.e.f. 22-5-2022). Earlier it was inserted by Delhi Act 12 of 2011, s. 19.

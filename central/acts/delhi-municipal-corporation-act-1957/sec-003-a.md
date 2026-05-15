@@ -1,0 +1,5 @@
+# Section 3A. Division of the area of the Corporation into zones and wards
+
+3A. Division of the area of 2[ 3[the Corporation]] into zones and wards.—(1) The area of 4[ 5[the Corporation]] shall be divided into a number of zones and each zone and into a number of wards as specified in the Fourteenth Schedule.
+
+(2) The 6[ 7[Central Government]] may, by notification in the official Gazette, after the number or the name, and increase or diminish the area of any zone or ward specified in the Fourteenth Schedule.]

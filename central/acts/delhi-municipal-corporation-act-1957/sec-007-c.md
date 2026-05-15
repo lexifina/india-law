@@ -1,0 +1,5 @@
+# Section 7C. Assistant electoral registration officers
+
+7C. Assistant electoral registration officers.—(1) 5[The Election Commission] may appoint one or more persons as assistant electoral registration officers to assist any electoral registration officer in the performance of his functions.
+
+(2) Every assistant electoral registration officer shall, subject to the control of the electoral registration officer, be competent to perform all or any of the functions of the electoral registration officer.
