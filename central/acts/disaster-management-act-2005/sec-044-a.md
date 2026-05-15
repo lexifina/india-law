@@ -1,0 +1,5 @@
+# Section 44A. State Disaster Response Force
+
+44A. State Disaster Response Force.—(1) The State Government may, by notification in the Official Gazette, constitute a State Disaster Response Force for the purpose of specialist response to a threatening disaster situation or disaster.
+
+(2) Subject to the provisions of this Act, the State Disaster Response Force shall be constituted in such manner, with such functions and the terms and conditions of service of the members of such Force shall be such as may be prescribed by the State Government concerned.]
