@@ -1,0 +1,195 @@
+---
+kind: "gazette-notification"
+gazette: "Kerala Gazette"
+gazette_number: "21"
+gazette_type: "Ordinary"
+part: "Part III"
+issuer: "Government of Kerala"
+department: "Revenue Department"
+published: "2026-05-26"
+in_force: "2026-05-26"
+in_force_evidence: "published in the Gazette 2026-05-26; no other commencement day stated"
+official_text: "https://compose.kerala.gov.in/kgSearchfiledownloadpdf?b%27gztnotemp=&gztyeartemp=&partdeptId=&partid=&department=&part1id=&part1aid=&part1bid=&part2id=&part3id=&part4id=&searchpdfid=48856&hiddenradiovalue=&organizationvalue=&eognohdn=&eogdatehdn=%27"
+mirror: "https://archive.org/details/in.gazette.keralacompose.2026-05-26.ordinary-48856"
+language: "English text only"
+---
+
+compose.kerala.gov.in Regn.No. KERBIL/2012/45073
+dated 2012-09-05 with RNI egazette.kerala.gov.in
+Reg No.KL/TV(N)/634/2021-2023
+printing.kerala.gov.in
+GOVERNMENT OF KERALA
+KERALA GAZETTE
+PUBLISHED BY AUTHORITY
+Tuesday, 26th May 2026
+12th Idavam 1201 5th Jyaishta 1948
+Vol. XV No.
+Part III
+Commissionerate of Land Revenue
+©
+GOVERNMENT OF KERALA
+
+20128 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20129 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20130 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20131 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20132 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20133 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20134 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20135 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20136 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20137 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20138 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20139 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20140 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20141 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20142 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20143 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20144 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20145 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20146 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20147 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20148 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20149 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20150 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20151 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20152 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20153 Revenue Department 26th May 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+
+20154 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+UdumbancholaTaluk
+NOTICE
+____________________________________________________________________________________________________________________________
+PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRESSES
+AT THE GOVERNMENT CENTRAL PRESS, THIRUVANANTHAPURAM, 2026
