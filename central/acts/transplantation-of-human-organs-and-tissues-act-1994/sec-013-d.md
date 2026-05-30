@@ -1,0 +1,3 @@
+# Section 13D. National registry
+
+13D. National registry.—The Central Government shall maintain a national registry of the donors and recipients of human organs and tissues and such registry shall have such information as may be prescribed to an ongoing evaluation of the scientific and clinical status of human organs and tissue.]
