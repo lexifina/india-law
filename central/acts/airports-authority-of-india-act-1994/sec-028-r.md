@@ -1,0 +1,3 @@
+# Section 28R. Officers, etc., to aid and assist
+
+28R. Officers, etc., to aid and assist.—It shall be the duty of all the officers of the Government including police officers and any local authority to aid and assist the eviction officer or other officers of the Authority in the discharge of their functions under this Chapter.]

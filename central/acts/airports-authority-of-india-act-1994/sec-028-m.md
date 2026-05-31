@@ -1,0 +1,3 @@
+# Section 28M. Finality of orders
+
+28M. Finality of orders.—Subject to the provisions of this Act, every order made by an eviction officer 3*** under this Chapter shall be final and shall not be called in question in any suit, application, execution or other proceeding and no injunction shall be granted by any court or other authority in respect of any action taken or intended to be taken in pursuance of any power conferred by or under this Chapter.
