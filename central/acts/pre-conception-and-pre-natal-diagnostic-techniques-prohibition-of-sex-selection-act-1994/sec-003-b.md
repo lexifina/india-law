@@ -1,0 +1,3 @@
+# Section 3B. Prohibition on sale of ultrasound machine, etc., to persons, laboratories, clinics, etc., not registered under the Act
+
+3B. Prohibition on sale of ultrasound machine, etc., to persons, laboratories, clinics, etc., not registered under the Act.—No person shall sell any ultrasound machine or imaging machine or scanner or any other equipment capable of detecting sex of the foetus to any Genetic Counselling Centre, Genetic Laboratory, Genetic Clinic or any other person not registered under the Act.]
