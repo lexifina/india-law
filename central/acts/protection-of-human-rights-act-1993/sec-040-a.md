@@ -1,0 +1,3 @@
+# Section 40A. Power to make rules retrospectively
+
+40A. Power to make rules retrospectively.—The power to make rules under clause (b) of sub-section (2) of section 40 shall include the power to make such rules or any of them retrospectively from a date not earlier than the date on which this Act received the assent of the President, but no such retrospective effect shall be given to any such rule so as to prejudicially affect the interests of any person to whom such rule may be applicable.]
