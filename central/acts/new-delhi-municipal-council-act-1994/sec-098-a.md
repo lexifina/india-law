@@ -1,0 +1,9 @@
+# Section 98A. Punishment for wilful default in payment of property tax, furnishing wrong information in return of assessment, etc
+
+98A. Punishment for wilful default in payment of property tax, furnishing wrong information in return of assessment, etc.—Whoever wilfully makes default in the payment of, or wilfully attempts in any manner whatsoever to evade, any tax, including amount of interest due and penalty levied under this Act, or furnishes any wrong information in the return of assessment, or wilfully fails to furnish in due time the return of property tax, or does not furnish information as asked for under any provision of this Act, he shall, without prejudice to any other penal provision under this Act to which he may be subject, be liable for penalty equal to fifty per cent. of the amount of tax so evaded or sought to be evaded:
+
+Provided that the penalties so imposed shall be in addition to, and not in derogation of, any liability in respect of the payment of tax which the defaulter may have incurred.]
+
+Notes in the official text:
+
+- 1. Subs. by Act 8 of 2026, s. 2 and Sch. for s. 98 (w.e.f. 15-05-2026).
