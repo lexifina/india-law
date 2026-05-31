@@ -1,0 +1,3 @@
+# Section 3A. Prohibition of sex selection
+
+3A. Prohibition of sex selection.—No person, including a specialist or a team of specialists in the field of infertility, shall conduct or cause to be conducted or aid in conducting by himself or by any other person, sex selection on a woman or a man or on both or on any tissue, embryo, conceptus, fluid or gametes derived from either or both of them.
