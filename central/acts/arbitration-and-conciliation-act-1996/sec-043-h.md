@@ -1,0 +1,3 @@
+# Section 43H. Appointment of experts and constitution of Committees thereof
+
+43H. Appointment of experts and constitution of Committees thereof.—The Council may, appoint such experts and constitute such Committees of experts as it may consider necessary to discharge its functions on such terms and conditions as may be specified by the regulations. 43-I. General norms for grading of arbitral institutions.—The Council shall make grading of arbitral institutions on the basis of criteria relating to infrastructure, quality and calibre of arbitrators, performance and compliance of time limits for disposal of domestic or international commercial arbitrations, in such manner as may be specified by the regulations.
