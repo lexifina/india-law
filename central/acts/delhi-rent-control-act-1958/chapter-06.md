@@ -1,0 +1,7 @@
+# Chapter VI
+
+APPOINTMENT OF CONTROLLERS AND THEIR POWERS AND
+
+Notes in the official text:
+
+- FUNCTION AND APPEALS
