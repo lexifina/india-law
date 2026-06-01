@@ -1,0 +1,7 @@
+# Section 3A. Free accommodation to spouse of Vice-President
+
+3A. Free accommodation to spouse of Vice-President.—Subject to any rules that may be made in this behalf, the spouse of a person who dies—
+
+(a) while holding the office of Vice-President, or
+
+(b) after ceasing to hold office as Vice-President either by the expiration or his term of office or by resignation of his office, shall be entitled to the use of 4[furnished residence (including its maintenance)] without payment of licence fee, for the remainder of her life.]
