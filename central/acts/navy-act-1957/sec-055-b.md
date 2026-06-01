@@ -1,0 +1,3 @@
+# Section 55B. Inaccurate certificate
+
+55B. Inaccurate certificate.—Every person subject to naval law who signs any certificate in relation to an aircraft or aircraft material belonging to or in the service of the Government without ensuring the accuracy thereof, shall be punished with imprisonment for a term which may extend to two years or such other punishment as is hereinafter mentioned.
