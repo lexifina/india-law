@@ -1,0 +1,3 @@
+# Section 23D. Penalty for failure to segregate securities or moneys of client or clients
+
+23D. Penalty for failure to segregate securities or moneys of client or clients.—If any person, who is registered under section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), as a stock broker or sub-broker, fails to segregate securities or moneys of the client or clients or uses the securities or moneys of a client or clients for self or for any other client, he shall be 3[liable to a penalty which shall not be less than one lakh rupees but which may extend to one crore rupees].

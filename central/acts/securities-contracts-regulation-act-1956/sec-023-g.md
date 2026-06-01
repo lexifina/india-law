@@ -1,0 +1,3 @@
+# Section 23G. Penalty for failure to furnish periodical returns, etc
+
+23G. Penalty for failure to furnish periodical returns, etc.—If a recognised stock exchange fails or neglects to furnish periodical returns 7[or furnishes false, incorrect or incomplete periodical returns] to the Securities and Exchange Board of India or fails or neglects to make or amend its rules or bye-laws as directed by the Securities and Exchange Board of India or fails to comply with directions issued by the Securities and Exchange Board of India, such recognised stock exchange shall be 8[liable to a penalty which shall not be less than five lakh rupees but which may extend to twenty-five crore rupees].

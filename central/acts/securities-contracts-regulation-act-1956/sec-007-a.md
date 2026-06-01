@@ -1,0 +1,18 @@
+# Section 7A. Power of recognised stock exchange to make rules restricting voting rights, etc
+
+7A. Power of recognised stock exchange to make rules restricting voting rights, etc.—(1) A recognised stock exchange may make rules or amend any rules made by it to provide for all or any of the following matters, namely:—
+
+(a) the restriction of voting rights to members only in respect of any matter placed before the stock exchange at any meeting;
+
+(b) the regulation of voting rights in respect of any matter placed before the stock exchange at any meeting so that such member may be entitled to have one vote only, irrespective of his share of the paid-up equity capital of the stock exchange;
+
+(c) the restriction on the right of a member to appoint another person as his proxy to attend and vote at a meeting of the stock exchange;
+
+(d) such incidental consequential and supplementary matters as may be necessary to give effect to any of the matters specified in clauses (a), (b) and (c).
+
+(2) No rules of a recognised stock exchange made or amended in relation to any matter referred to in clauses (a) to (d) of sub-section (1) shall have effect until they have been approved by the Central Government and published by that Government in the Official Gazette and, in approving the rules so made or amended, the Central Government may make such modifications therein as it thinks fit, and on such publication, the rules as approved by the Central Government shall be deemed to have been validly made, notwithstanding anything to the contrary contained in the Companies Act, 1956 (1 of 1956).]
+
+Notes in the official text:
+
+- 1. Subs. by Act 15 of 1992, s. 33 and the Sch., for "Central Government" (w.e.f. 30-1-1992).
+- 2. Subs. by s. 33 and the Sch., ibid., for "by the Central Government" (w.e.f. 30-1-1992).
