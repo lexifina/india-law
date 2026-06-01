@@ -1,0 +1,3 @@
+# Section 20M. Power of Central Government to issue directions to competent authority
+
+20M. Power of Central Government to issue directions to competent authority.―Without prejudice to the foregoing provisions of this Act, the competent authority shall, in exercise of its powers or the discharge of its functions under this Act, be bound by such directions, as the Central Government may give in writing to it from time to time.
