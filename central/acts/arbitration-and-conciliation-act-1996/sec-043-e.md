@@ -1,0 +1,9 @@
+# Section 43E. Vacancies, etc., not to invalidate proceedings of Council
+
+43E. Vacancies, etc., not to invalidate proceedings of Council.—No act or proceeding of the Council shall be invalid merely by reason of—
+
+(a) any vacancy or any defect, in the constitution of the Council;
+
+(b) any defect in the appointment of a person acting as a Member of the Council; or
+
+(c) any irregularity in the procedure of the Council not affecting the merits of the case.
