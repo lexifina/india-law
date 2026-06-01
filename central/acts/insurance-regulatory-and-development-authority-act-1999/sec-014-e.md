@@ -1,0 +1,3 @@
+# Section 14E. Power to authorise
+
+14E. Power to authorise.—The Authority may, for the efficient discharge of its functions under sections 14A to 14D, by a general or special order in writing, authorise any entity regulated by it or any other statutory body having similar objectives to perform such functions as specified in the said order.]
