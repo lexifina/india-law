@@ -1,0 +1,3 @@
+# Section 30C. Offences by officers of Government
+
+30C. Offences by officers of Government.―If any officer of the Central Government enters into or acquiesces in any agreement to do, abstains from doing, permits, conceals or connives at any act or thing whereby any construction or re-construction takes place in a prohibited area or regulated area, he shall be punishable with imprisonment for a term which may extend to three years, or with fine, or with both.]

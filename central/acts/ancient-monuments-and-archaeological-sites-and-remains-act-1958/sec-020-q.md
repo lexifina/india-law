@@ -1,0 +1,3 @@
+# Section 20Q. Power to call for information
+
+20Q. Power to call for information.―Where the Central Government considers it expedient so to do, it may, by order in writing call upon the Authority or the competent authority, as the case may be, to furnish in writing such information, in such form and manner as may be prescribed, relating to its affairs as the Central Government may require.] ARCHAEOLOGICAL EXCAVATIONS
