@@ -1,0 +1,3 @@
+# Section 23B. Penalty for failure by any person to enter into an agreement with clients
+
+23B. Penalty for failure by any person to enter into an agreement with clients.—If any person, who is required under this Act or any bye-laws of a recognised stock exchange made thereunder, to enter into an agreement with his client, fails to enter into such an agreement, he shall be liable to a penalty 1[which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees] for every such failure.

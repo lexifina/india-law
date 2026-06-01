@@ -1,0 +1,3 @@
+# Section 23E. Penalty for failure to comply with listing conditions or delisting conditions or grounds
+
+23E. Penalty for failure to comply with listing conditions or delisting conditions or grounds.—If a company or any person managing collective investment scheme or mutual fund 4[or real estate investment trust or infrastructure investment trust or alternative investment fund], fails to comply with the listing conditions or delisting conditions or grounds or commits a breach thereof, it or he shall be 5[liable to a penalty which shall not be less than five lakh rupees but which may extend to twenty-five crore rupees].

@@ -1,0 +1,3 @@
+# Section 23C. Penalty for failure to redress Investors, grievances
+
+23C. Penalty for failure to redress Investors, grievances.—If any stock broker or sub-broker or a company whose securities are listed or proposed to be listed in a recognised stock exchange, after having been called upon by the Securities and Exchange Board of India or a recognised stock exchange in writing, to redress the grievances of the investors, fails to redress such grievances within the time stipulated by the Securities and Exchange Board of India or a recognised stock exchange, he or it shall be liable to a penalty 2[which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees].
