@@ -1,0 +1,7 @@
+# Section 14A. Power of Authority to collect policy information
+
+14A. Power of Authority to collect policy information.—The Authority may, for the purpose of efficient discharge of its functions and to regulate and develop the insurance business—
+
+(a) collect in such manner as it may think fit, information relating to policies and claims from any insurer or other regulated entities; and
+
+(b) furnish such information to any insurer or other regulated entities in accordance with the provisions of section 14C.

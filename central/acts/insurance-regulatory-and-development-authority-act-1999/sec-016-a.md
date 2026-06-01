@@ -1,0 +1,19 @@
+# Section 16A. Constitution of Policyholders' Education and Protection Fund
+
+16A. Constitution of Policyholders' Education and Protection Fund.—(1) The Authority shall constitute a fund to be called the Policyholders' Education and Protection Fund.
+
+(2) There shall be credited to the Policyholders' Education and Protection Fund the following amounts, namely:—
+
+(a) any grants and donations given to the Policyholders' Education and Protection Fund by the Central Government, State Governments, the Authority, companies or any other institutions for the purposes of the Policyholders' Education and Protection Fund;
+
+(b) the sums realised by way of penalties by the Authority under this Act or the Insurance Act, 1938 (4 of 1938) or rules and regulations thereunder; and
+
+(c) such other sums as may be specified by the regulations.
+
+(3) The Policyholders' Education and Protection Fund shall be administered and utilised by the Authority for education of policyholders and protection of the interests of policyholders in the manner and for such other purposes as may be specified by the regulations.]
+
+Notes in the official text:
+
+- 1. Cl. (c) omitted by Act 5 of 2015, s. 107 (w.e.f. 26-12-2014).
+- 2. Ins. by Act 40 of 2025 s. 92 (w.e.f. 05-02-2026).
+- 3. Ins. by s. 93, ibid. (w.e.f. 05-02-2026).
