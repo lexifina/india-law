@@ -1,0 +1,3 @@
+# Section 23C. Medical facilities for retired Judges
+
+23C. Medical facilities for retired Judges.―Every retired Judge shall, with effect from the date on which the Supreme Court Judges (Conditions of Service) Amendment Act, 1976 (36 of 1976) receives the assent of the President, be entitled, for himself and his family, to the same facilities as respects medical treatment and on the same conditions as a retired officer of the Central Civil Services, Class I and his family, are entitled under any rules and orders of the Central Government for the time being in force.]
