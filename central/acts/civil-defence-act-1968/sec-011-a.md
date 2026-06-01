@@ -1,0 +1,27 @@
+# Section 11A. Adjudication of penalties
+
+11A. Adjudication of penalties.—(1) For the purpose of adjudicating penalties under sub-sections
+
+(1) and (2) of section 11, the State Government may appoint the Controller of Civil Defence as an adjudicating officer for holding an inquiry and imposing penalties in such manner as may be prescribed:
+
+Provided that the State Government may appoint as many adjudicating officers as may be required:
+
+Provided further that no such penalty shall be imposed without giving the person concerned a reasonable opportunity of being heard.
+
+(2) Any person aggrieved by an order of the adjudicating officer under sub-section (1), may, within thirty days from the date of receipt of such order, prefer an appeal to such officer, at least one rank higher than the adjudicating officer, as may be appointed by the State Government as an appellate authority, in such form and manner as may be prescribed.
+
+(3) An appeal may be admitted after the expiry of the period of thirty days if the appellant satisfies the appellate authority that he had sufficient cause for not preferring the appeal within that period.
+
+(4) The appellate authority may, after giving the parties to the appeal an opportunity of being heard, pass such order as he may think fit.
+
+(5) An appeal under sub-section (2) shall be disposed of within sixty days from the date of filing.
+
+(6) If a penalty imposed by the adjudicating officer under sub-section (1) or by an order of the appellate authority under sub-section (4), as the case may be, is not deposited, the amount shall be recovered as an arrear of land revenue.]
+
+Notes in the official text:
+
+- 1. Subs. by Act 8 of 2026, s. 2 and Sch., for certain words (w.e.f. 15-5-2026).
+- 2. Sub-section (2) omitted by Act 42 of 1971, s. 6 (during emergency and six months thereafter) and restored thereafter
+- (w.e.f. 3-12-1971).
+- 3. Subs. by Act 8 of 2026, s. 2 and Sch., for certain words (w.e.f. 15-5-2026).
+- 4. Ins. by s. 2 and Sch., ibid. (w.e.f. 15-5-2026).
