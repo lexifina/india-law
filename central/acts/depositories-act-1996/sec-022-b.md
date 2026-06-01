@@ -1,0 +1,17 @@
+# Section 22B. Power to grant immunity
+
+22B. Power to grant immunity.—(1) The Central Government may, on recommendation by the Board, if the Central Government is satisfied, that any person, who is alleged to have violated any of the provisions of this Act or the rules or the regulations made thereunder, has made a full and true disclosure in respect of alleged violation, grant to such person, subject to such conditions as it may think fit to impose, immunity from prosecution for any offence under this Act, or the rules or the regulations made thereunder or also from the imposition of any penalty under this Act with respect to the alleged violation:
+
+Provided that no such immunity shall be granted by the Central Government in cases where the proceedings for the prosecution for any such offence have been instituted before the date of receipt of application for grant of such immunity:
+
+Provided further that recommendation of the Board under this sub-section shall not be binding upon the Central Government.
+
+(2) An immunity granted to a person under sub-section (1) may, at any time, be withdrawn by the Central Government, if it is satisfied that such person had, in the course of the proceedings, not complied with the condition on which the immunity was granted or had given false evidence, and thereupon such person may be tried for the offence with respect to which the immunity was granted or for any other offence of which he appears to have been guilty in connection with the contravention and shall also become liable to the imposition of any penalty under this Act to which such person would have been liable, had not such immunity been granted.]
+
+Notes in the official text:
+
+- 1. Subs. by Act 13 of 2018, s. 202, for "Offences by companies" (w.e.f. 8-3-2019).
+- 2. Subs. by s. 202, ibid., for "an offence under this Act" (w.e.f. 8-3-2019).
+- 3. Subs. by s. 202, ibid., for "offence" (w.e.f. 8-3-2019).
+- 4. Subs. by Act 1 of 2005, s. 19, for section 22 (w.e.f. 12-10-2004).
+- 5. Sub-section (2) omitted by Act 27 of 2014, s. 52 (w.e.f. 18-7-2013).
