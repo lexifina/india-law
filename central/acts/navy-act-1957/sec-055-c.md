@@ -1,0 +1,7 @@
+# Section 55C. Low flying and annoyance by flying
+
+55C. Low flying and annoyance by flying.—Every person subject to naval law being the pilot of an aircraft of the Indian Navy, who—
+
+(a) flies it at a height less than the minimum height authorised by his commanding officer or appropriate service authority except while taking off or landing; or
+
+(b) flies it so as to cause or likely to cause unnecessary annoyance to any person, shall be punished with imprisonment for a term which may extend to two years or such other punishment as is hereinafter mentioned.

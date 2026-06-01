@@ -1,0 +1,3 @@
+# Section 184A. Power to make regulations with retrospective effect
+
+184A. Power to make regulations with retrospective effect.—The power to make regulations conferred by this Act shall include the power to give retrospective effect, from a date not earlier than the date of commencement of this Act, to the regulations or any of them, but no retrospective effect shall be given to any regulation so as to prejudicially affect the interests of any person to whom such regulation may be applicable.]
