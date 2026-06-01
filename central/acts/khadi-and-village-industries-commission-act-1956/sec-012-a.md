@@ -1,0 +1,38 @@
+# Section 12A. Zonal Committee
+
+12A. Zonal Committee.—(1) The Commission shall constitute for each of the six geographical zones, referred to in clause (a) of sub-section (2) of section 4, a Zonal Committee, which shall consist of the following, namely:—
+
+(a) the non-official member representing the zone, referred to in clause (a) of sub-section (2) of section 4, who shall be the Chairman of the Zonal Committee constituted for respective zones;
+
+(b) one representative of each of the State Khadi and Village Industries Boards of the States or, as the case may be, the Government of each State in the zone, to be notified by the Central Government in consultation with the State Government concerned—member;
+
+(c) the Zonal Deputy Chief Executive Officer of the Commission, who shall be the convener of the Zonal Committee—member;
+
+(d) the State Directors in charge of the Commission's Directorates for the States in the zone—member;
+
+(e) a Zonal or Regional manager of one of the lead banks operating in the zone—member; and
+
+(f) one representative of an institution of repute, working for at least ten years in the khadi or village industries sector and having a good record of performance, from each State in the zone, to be notified by the Central Government—member.
+
+(2) The Zonal Committee shall meet at such times and places and shall, subject to the provisions of sub-section (3), observe such rules of procedure in regard to the transaction of business at its meetings (including the quorum at the meetings) as may be provided by regulations made by the Commission under this Act:
+
+Provided that the Committee shall meet at least once in every three months.
+
+(3) The Chairman of the Zonal Committee or, in his absence, any member chosen by the members present from among themselves, shall preside at a meeting of the Committee.
+
+(4) The Zonal Committee shall generally function as a forum for consultation and, accordingly, inter alia,—
+
+(a) act as a conduit for the dissemination of information relating to the programmes and schemes of the Commission for the development of khadi and village industries in the zone;
+
+(b) monitor, from time to time, the implementation of the programmes and schemes referred to in clause (a);
+
+(c) provide feedback to the Commission on the problems and difficulties envisaged and suggestions made by banks, voluntary agencies, artisans and others engaged in the operation of programmes and schemes referred to in clause (a).]
+
+Notes in the official text:
+
+- 1. S. 10 renumbered as sub-section (1) thereof by Act 10 of 2006, s. 6 (w.e.f. 1-10-1984).
+- 2. Subs. by s. 6, ibid., for "Khadi and Village Industries Board" (w.e.f. 15-5-2006).
+- 3. Ins. by s. 6, ibid. (w.e.f. 15-5-2006).
+- 4. Subs. by Act 12 of 1987, s. 6, for sub-section 2 (w.e.f. 24-7-1987).
+- 5. Subs. by Act 10 of 2006, s. 7, for "votes of the members present" (w.e.f. 15-5-2006).
+- 6. Ins. by s. 8, ibid. (w.e.f. 15-5-2006).
