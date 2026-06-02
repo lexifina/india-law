@@ -1,0 +1,71 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "256"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 256 MER-507753-146 Dated 02-06-26"
+published: "2026-06-02"
+in_force: "2026-06-02"
+in_force_evidence: "published in the Gazette 2026-06-02; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._256_mer-507753-146_dated_02-06-26.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2026-06-02.256"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+MEDICAL EDUCATION & RESEARCH DEPARTMENT
+NOTIFICATION
+The 2nd June, 2026
+
+2138 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+SIDDHARTH SINGH,
+Commissioner & Secretary to the Government of Assam,
+Medical Education & Research Department.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026 2139
+
+2140 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026 2141
+
+2142 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026 2143
+
+2144 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026 2145
+
+2146 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+2147 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+2148 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026 2149
+
+2150 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+2151 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+2152 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026 2153
+
+2154 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026 2155
+
+2156 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+2157 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+2158 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+2159 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+
+2160 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 16, 2026
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 511 - 10 + 10 - 16 - 06 - 2026. (visit at– dpns.assam.gov.in)
