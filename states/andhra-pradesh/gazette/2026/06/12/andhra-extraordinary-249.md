@@ -1,0 +1,53 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "249"
+gazette_type: "Extraordinary"
+part: "Part II"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "REVENUE (LAND ACQUISATION)"
+subject: "COLLECTOR & DISTRICT MAGISTRATE, NTR DISTRICT, VIJAYAWADA. File No: REV02-LAND0GLA/10/2025-LAND 6 Computer No: 89606 Dt:08-06-2026 NTR DISTRICT - VIJAYAWADA DIVISION - G.KONDURU MANDAL - CHERUVUMADHAVARAM VILLAGE - Ac.0.42 Cts IN R.S.No.154/4, 158/1 B2(P) & 158/2A - FOR THE CONSTRUCTION OF RUB RETAINING WALLS ALONG WITH APPROACH ROADS AT LEVEL CROSSING No.138 AT KM 562/8-10 IN BETWEEN CHERUVUMADHAVARAM (CVV) AND KONDAPALLI (KL) STATIONS - 11(1) PRELIMINARY NOTIFICATION PROPOSALS - APPROVED"
+published: "2026-06-12"
+in_force: "2026-06-12"
+in_force_evidence: "published in the Gazette 2026-06-12; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc4MTk4NjI5NCwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3ODEyNjc1NDM5NDgucGRmIn0.3xsYSEl2EEqxPcB3M6UI2ylzpqmInIUizRrN36CM5LQ"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-06-12.249"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART II EXTRAORDINARY
+No.190 AMARAVATI, FRIDAY, JUNE 12, 2026 G.249
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, Etc.
+--x--
+COLLECTOR & DISTRICT MAGISTRATE,
+NTR DISTRICT, VIJAYAWADA.
+File No: REV02-LAND0GLA/10/2025-LAND 6
+Computer No: 89606 Dt:08-06-2026
+NTR DISTRICT - VIJAYAWADA DIVISION - G.KONDURU MANDAL -
+CHERUVUMADHAVARAM VILLAGE - Ac.0.42 Cts IN R.S.No.154/4, 158/1 B2(P)
+& 158/2A - FOR THE CONSTRUCTION OF RUB RETAINING WALLS ALONG WITH
+APPROACH ROADS AT LEVEL CROSSING No.138 AT KM 562/8-10 IN BETWEEN
+CHERUVUMADHAVARAM (CVV) AND KONDAPALLI (KL) STATIONS - 11(1)
+PRELIMINARY NOTIFICATION PROPOSALS - APPROVED.
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+
+June 12, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 3
+G LAKSHMISHA,
+Collector,
+NTR District.
+G LAKSHMISHA,
+Collector,
+NTR District.
+
+4 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-II
+--x--
+
+June 12, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 5
+
+
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
