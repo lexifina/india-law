@@ -1,0 +1,3 @@
+# Section 21A. Production of records
+
+21A. Production of records.—Every person or authority who is licensed under sub-section (3) of section 21 to establish or maintain, or as the case may be, for maintaining, a protective home or corrective institution shall, whenever required by a court, produce the records and other documents maintained by such home or institution before such court.]
