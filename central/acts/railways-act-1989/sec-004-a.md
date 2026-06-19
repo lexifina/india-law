@@ -1,0 +1,3 @@
+# Section 4A. Establishment of Railway Land Development Authority
+
+4A. Establishment of Railway Land Development Authority.—The Central Government may, by notification, establish an authority to be called the Rail Land Development Authority to exercise the powers and discharge the functions conferred on it by or under this Act.

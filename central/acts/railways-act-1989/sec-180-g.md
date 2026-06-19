@@ -1,0 +1,3 @@
+# Section 180G. Punishment for certain offences in relation to inquiry
+
+180G. Punishment for certain offences in relation to inquiry.—Whoever intentionally insults or causes any interruption in the inquiry proceedings or deliberately makes a false statement before the inquiring officer shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.]

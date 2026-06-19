@@ -1,0 +1,5 @@
+# Section 20L. Utilisation of land for the purpose it is acquired
+
+20L. Utilisation of land for the purpose it is acquired.—(1) The land acquired under this Act shall not be transferred to any other purpose except for a public purpose, and after obtaining the prior approval of the Central Government.
+
+(2) When any land or part thereof, acquired under this Act remains unutilised for a period of five years from the date of taking over the possession, the same shall return to the Central Government by reversion.

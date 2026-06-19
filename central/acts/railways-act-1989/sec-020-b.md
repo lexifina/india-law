@@ -1,0 +1,15 @@
+# Section 20B. Power to enter for survey, etc
+
+20B. Power to enter for survey, etc.—On the issue of a notification under sub-section (1) of section 20A, it shall be lawful for any person, authorised by the competent authority in this behalf, to—
+
+(a) make any inspection, survey, measurement, valuation or enquiry;
+
+(b) take levels;
+
+(c) dig or bore into sub-soil;
+
+(d) set out boundaries and intended lines of work;
+
+(e) mark such levels, boundaries and lines placing marks and cutting trenches; or
+
+(f) do such other acts or things as may be considered necessary by the competent authority.
