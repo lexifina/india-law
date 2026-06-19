@@ -1,0 +1,3 @@
+# Section 180C. Disposal of persons arrested
+
+180C. Disposal of persons arrested.—Every person arrested for an offence punishable under sub-section (2) of section 179 shall, if the arrest was made by a person other than the officer authorised, be forwarded, without delay, to such officer.

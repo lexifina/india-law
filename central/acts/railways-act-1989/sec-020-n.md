@@ -1,0 +1,3 @@
+# Section 20N. Land Acquisition Act 1 of 1894 not to apply
+
+20N. Land Acquisition Act 1 of 1894 not to apply.—Nothing in the Land Acquisition Act, 1894 shall apply to an acquisition under this Act. 20-O. Application of the National Rehabilitation and Resettlement Policy, 2007 to persons affected due to land acquisition.—The provisions of the National Rehabilitation and Resettlement Policy, 2007 for project affected families, notified by the Government of India in the Ministry of Rural Development vide number F. 26011/4/2007-LRD, dated the 31st October, 2007, shall apply in respect of acquisition of land by the Central Government under this Act.

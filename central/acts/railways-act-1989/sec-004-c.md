@@ -1,0 +1,3 @@
+# Section 4C. Terms and conditions of appointment of Vice-Chairman and other Members
+
+4C. Terms and conditions of appointment of Vice-Chairman and other Members.—The terms and conditions of appointment of the Vice-Chairman and the other Members of the Authority, other than the Chairman, and the manner of filling casual vacancies among them shall be such as may be prescribed.

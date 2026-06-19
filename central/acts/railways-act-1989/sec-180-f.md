@@ -1,0 +1,3 @@
+# Section 180F. Cognizance by Court on a complaint made by officer authorised
+
+180F. Cognizance by Court on a complaint made by officer authorised.—No court shall take cognizance of an offence mentioned in sub-section (2) of section 179 except on a complaint made by the officer authorised.
