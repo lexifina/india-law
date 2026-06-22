@@ -1,0 +1,21 @@
+# Section 17A. Adjudication of penalties
+
+17A. Adjudication of penalties.—(1) For the purpose of adjudicating penalties under clauses (i) and (ii) of sub-section (2) of section 17, the Central Government shall appoint an officer not below the rank of Director to the Government of India as an adjudicating officer for holding an inquiry and imposing penalties in such manner as may be prescribed:
+
+Provided that no such penalty shall be imposed without giving the person concerned a reasonable opportunity of being heard.
+
+(2) Whoever is aggrieved by an order of the adjudicating officer under sub-section (1) may, within thirty days from the date of receipt of such order, prefer an appeal to an officer not below the rank of Joint Secretary to the Government of India as an appellate authority who shall be appointed by the Central Government, in such form and manner as may be prescribed.
+
+(3) An appeal may be admitted after the expiry of the period of thirty days if the appellant satisfies the appellate authority that he had sufficient cause for not preferring the appeal within that period.
+
+(4) The appellate authority may, after giving the parties to the appeal an opportunity of being heard, pass such order as he may think fit.
+
+(5) An appeal under sub-section (2) shall be disposed of within sixty days from the date of filing.
+
+(6) If a penalty imposed by the adjudicating officer under sub-section (1) or by an order of the appellate authority under sub-section (4), as the case may be, is not deposited, the amount shall be recovered as an arrear of land revenue.]
+
+Notes in the official text:
+
+- 1. Subs. by Act 8 of 2026, s. 2 and Sch., for "conviction, be punishable" (w.e.f. 22-6-2026).
+- 2. Subs. by s. 2 and Sch., ibid., for clauses (i) and (ii) (w.e.f. 22-6-2026).
+- 3. Ins. by s. 2 and Sch., ibid. (w.e.f. 22-6-2026).

@@ -1,0 +1,3 @@
+# Section 5B. Constitution of Tribunal
+
+5B. Constitution of Tribunal.—The Central Government may, by notification in the Official Gazette, constitute a Tribunal consisting of one person, who is or has been, or is qualified for appointment as a Judge of a High Court and who is not connected with the Committee to exercise the powers and discharge the functions conferred or imposed on the Tribunal by or under this Act.
