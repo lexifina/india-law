@@ -1,0 +1,3 @@
+# Section 12A. Annual report
+
+12A. Annual report.—The Board shall prepare for every financial year a report of its activities and achievements during that year and submit the report to the Central Government in such form and on or before such date as may be prescribed, and that Government shall cause a copy of the report to be laid before each House of Parliament.]

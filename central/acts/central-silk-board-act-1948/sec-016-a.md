@@ -1,0 +1,3 @@
+# Section 16A. Effect of Act and rules, etc., inconsistent with other enactments
+
+16A. Effect of Act and rules, etc., inconsistent with other enactments.—The provisions of this Act or any rule or regulation made thereunder shall have effect notwithstanding anything inconsistent therewith contained in any enactment other than this Act or any instrument having effect by virtue of any enactment other than this Act.]
