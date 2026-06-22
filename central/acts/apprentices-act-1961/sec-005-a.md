@@ -1,0 +1,3 @@
+# Section 5A. Regulation of optional trade
+
+5A. Regulation of optional trade.—The qualification, period of apprenticeship training, holding of test, grant of certificate and other conditions relating to the apprentices in optional trade shall be such as may be prescribed.
