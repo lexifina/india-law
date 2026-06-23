@@ -1,0 +1,3 @@
+# Section 10A. Mode of recovery of money due from an employer
+
+10A. Mode of recovery of money due from an employer.—Any amount due from an employer in respect of any contribution or bonus under any scheme framed under this Act 3[or any accumulations required to be transferred under sub-section (1) or sub-section (3) of section 3D or any damages recoverable under section 10F or any charges payable by the employer under this Act in respect of the administration of any such scheme] may be recovered by the Central Government in the same manner as an arrear of land revenue.]
