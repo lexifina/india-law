@@ -1,0 +1,3 @@
+# Section 11D. Act to have effect notwithstanding anything contained in Act 31 of 1956
+
+11D. Act to have effect notwithstanding anything contained in Act 31 of 1956.—The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in the Life Insurance Corporation Act, 1956.]
