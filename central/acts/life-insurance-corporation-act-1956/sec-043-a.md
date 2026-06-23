@@ -1,0 +1,3 @@
+# Section 43A
+
+43A. [Deduction of income-tax not to be made on interest or dividend.] Omitted by the Finance Act, 2002 (20 of 2002), s. 157 (w.e.f. 1-6-2002).

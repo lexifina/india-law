@@ -1,0 +1,3 @@
+# Section 5D. Shares to be securities
+
+5D. Shares to be securities.—Notwithstanding anything contained in the Securities Contracts (Regulation) Act, 1956 (42 of 1956) or any other law for the time being in force, the shares of the Corporation shall be deemed to be securities as defined under the said Act.
