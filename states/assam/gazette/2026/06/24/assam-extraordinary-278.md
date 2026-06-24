@@ -1,0 +1,72 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "278"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 278 eCF 803113-61 Dated 24-06-26"
+published: "2026-06-24"
+in_force: "2026-06-24"
+in_force_evidence: "published in the Gazette 2026-06-24; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._278_ecf_803113-61_dated_24-06-26.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2026-06-24.278"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+PANCHAYAT AND RURAL DEVELOPMENT (C) DEPARTMENT
+NOTIFICATION
+The 24th June, 2026
+
+2224 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2225
+
+2226 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2227
+
+2228 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2229
+
+2230 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2231
+
+2232 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+1.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2233
+
+2234 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2235
+
+2236 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2237
+
+2238 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2239
+
+2240 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2241
+
+2242 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2243
+
+2244 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026 2245
+
+2246 THE ASSAM GAZETTE, EXTRAORDINARY, JUNE 25, 2026
+BALLEPU KALYAN CHAKRAVARTHY,
+Additional Chief Secretary to the Government of Assam,
+Panchayat & Rural Development Department.
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 555- 10 + 10 - 25- 06 - 2026. (visit at– dpns.assam.gov.in)
