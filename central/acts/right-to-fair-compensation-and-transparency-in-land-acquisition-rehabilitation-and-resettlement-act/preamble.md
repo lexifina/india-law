@@ -1,0 +1,5 @@
+# Preamble
+
+An Act to ensure, in consultation with institutions of local self-government and Gram Sabhas established under the Constitution, a humane, participative, informed and transparent process for land acquisition for industrialisation, development of essential infrastructural facilities and urbanisation with the least disturbance to the owners of the land and other affected families and provide just and fair compensation to the affected families whose land has been acquired or proposed to be acquired or are affected by such acquisition and make adequate provisions for such affected persons for their rehabilitation and resettlement and for ensuring that the cumulative outcome of compulsory acquisition should be that affected persons become partners in development leading to an improvement in their post acquisition social and economic status and for matters connected therewith or incidental thereto.
+
+BE it enacted by Parliament in the Sixty-fourth Year of the Republic of India as follows:—
