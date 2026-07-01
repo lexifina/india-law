@@ -1,0 +1,3 @@
+# Section 33KA. Disclosure of name of manufacturer, etc
+
+33KA. Disclosure of name of manufacturer, etc.—Every person, not being the manufacturer of any Ayurvedic, Siddha or Unani drug or his agent for the distribution thereof, shall, if so required, disclose to the Inspector the name, address and .other particulars of the person from whom he acquired the Ayurvedic, Siddha or Unani drug.
