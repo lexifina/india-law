@@ -1,0 +1,3 @@
+# Section 18B. Maintenance of records and furnishing of information
+
+18B. Maintenance of records and furnishing of information.—Every person holding a licence under clause (c) of section 18 shall keep and maintain such records, registers and other documents as may be prescribed and shall furnish to any officer or authority exercising any power or discharging any function under this Act such information as is required by such officer or authority for carrying out the purposes of this Act.]
