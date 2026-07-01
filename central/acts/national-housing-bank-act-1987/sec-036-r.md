@@ -1,0 +1,3 @@
+# Section 36R. Jurisdiction, powers and authority of Appellate Tribunal
+
+36R. Jurisdiction, powers and authority of Appellate Tribunal.—An Appellate Tribunal shall exercise the jurisdiction, powers and authority to entertain appeals against any order made or deemed to have been made by the recovery officer under this Act.
