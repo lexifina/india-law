@@ -1,0 +1,3 @@
+# Section 33C. Power to take action against auditors
+
+33C. Power to take action against auditors.—Where any auditor fails to comply with any direction given or order made by the National Housing Bank or the Reserve Bank under section 33, the Reserve Bank may, after giving a reasonable opportunity of being heard, remove or debar the auditor from exercising the duties as auditor of any of the Reserve Bank regulated entities for a maximum period of three years, at a time.]

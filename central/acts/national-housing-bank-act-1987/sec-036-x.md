@@ -1,0 +1,3 @@
+# Section 36X. Protection of action taken in good faith
+
+36X. Protection of action taken in good faith.—No suit, prosecution or other legal proceedings shall lie against the Central Government or against the Presiding Officer of an Appellate Tribunal or against the recovery officer for anything which is in good faith done or intended to be done in pursuance of the provisions of this Act or any rule or regulation or order made thereunder.

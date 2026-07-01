@@ -1,0 +1,5 @@
+# Section 36D. Appointment of recovery officer
+
+36D. Appointment of recovery officer.—(1) The Central Government may, in consultation with the National Housing Bank, by notification appoint such persons being the officers of the approved institution, as it may deem fit, to be recovery officers for the purpose of this Chapter who shall have such qualifications as the Central Government may by rules made under this Act specify.
+
+(2) The local limits within which the recovery officer shall exercise the powers conferred and perform the duties imposed on by or under this Chapter shall be such as may be specified by the Central Government by notification.

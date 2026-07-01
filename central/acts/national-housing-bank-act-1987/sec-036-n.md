@@ -1,0 +1,5 @@
+# Section 36N. Salaries and allowances and other terms and conditions of service of Presiding Officers
+
+36N. Salaries and allowances and other terms and conditions of service of Presiding Officers.—The salary and allowances payable to and the other terms and conditions of service (including pension, gratuity and other retirement benefits) of, the Presiding Officer of an Appellate Tribunal shall be such as the Central Government may by rules made under this Act specify:
+
+Provided that neither the salary and allowances nor the other terms and conditions of a Presiding Officer shall be varied to his disadvantage after appointment. 36-O. Filling up of vacancies.—If, for any reason other than temporary absence, any vacancy occurs in the office of the Presiding Officer of an Appellate Tribunal, then the Central Government shall appoint another person in accordance with the provisions of this Act to fill the vacancy and the proceedings may be continued before the Appellate Tribunal from the stage at which the vacancy is filled.
