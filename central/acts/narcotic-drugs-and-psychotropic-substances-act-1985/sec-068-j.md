@@ -1,0 +1,3 @@
+# Section 68J. Burden of proof
+
+68J. Burden of proof.—In any proceedings under this Chapter, the burden of proving that any property specified in the notice served under section 68H is not illegally acquired property shall be on the person affected.

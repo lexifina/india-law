@@ -1,0 +1,3 @@
+# Section 74A. Power of Central Government to give directions
+
+74A. Power of Central Government to give directions.—The Central Government may give such directions as it may deem necessary to a State Government regarding the carrying into execution of the provisions of this Act, and the State Government shall comply with such directions.]

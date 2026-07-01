@@ -1,0 +1,7 @@
+# Section 50A. Power to undertake controlled delivery
+
+50A. Power to undertake controlled delivery.—The Director General of Narcotics Control Bureau constituted under sub-section (3) of section 4 or any other officer authorised by him in this behalf, may, notwithstanding anything contained in this Act, undertake controlled delivery of any consignment to—
+
+(a) any destination in India;
+
+(b) a foreign country, in consultation with the competent authority of such foreign country to which such consignment is destined, in such manner as may be prescribed.]

@@ -1,0 +1,3 @@
+# Section 7B. Annual report of activities financed under the Fund
+
+7B. Annual report of activities financed under the Fund.—The Central Government shall, as soon as may be, after the end of each financial year, cause to be published in the Official Gazette, a report giving an account of the activities financed under section 7A during the financial year, together with a statement of accounts.]
