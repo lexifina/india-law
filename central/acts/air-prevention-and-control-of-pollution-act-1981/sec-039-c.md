@@ -1,0 +1,3 @@
+# Section 39C. Penalty amount to be credited to Environmental Protection Fund
+
+39C. Penalty amount to be credited to Environmental Protection Fund.—Where an adjudicating officer imposes penalty or additional penalty, as the case may be, under sections 37, 38, 38A or 39, the amount of such penalty shall be credited to the Environmental Protection Fund established under section 16 of the Environment (Protection) Act, 1986 (29 of 1986).
