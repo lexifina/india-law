@@ -1,0 +1,21 @@
+# Section 29A. Power of State Authority to make regulations
+
+29A. Power of State Authority to make regulations.—(1) The State Authority may, by notification, make regulations not inconsistent with the provisions of this Act and the rules made thereunder, to provide for all matters for which provision in necessary or expedient for the purposes of giving effect to the provisions of this Act.
+
+(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—
+
+(a) the other functions to be performed by the State Authority under clause (d) of sub-section (2) of section7;
+
+(b) the powers and functions of the High Court Legal Services Committee under sub-section (1) of section8A;
+
+(c) the number, experience and qualifications of members of the High Court Legal Services Committee under clause (b) of sub-section (2) of section8A;
+
+(d) the terms of office and other conditions relating thereto, of the members and Secretary of the High Court Legal Services Committee under sub-section (4) of section8A;
+
+(e) the term of office and other conditions relating thereto, of the members and Secretary of the District Authority under sub-section (4) of section9;
+
+(f) the number, experience and qualifications of members of the High Court Legal Services Committee under clause (b) of sub-section (2) of section 8A;
+
+(g) other functions to be performed by the District Authority under clause (c) of sub-section (2) of section10;
+
+(h) the term of office and other conditions relating thereto, of members and Secretary of the Taluk Legal Services Committee under sub-section (3) of section 11A.]
