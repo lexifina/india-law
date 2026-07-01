@@ -1,0 +1,5 @@
+# Section 27A. Punishment for financing illicit traffic and harbouring offenders
+
+27A. Punishment for financing illicit traffic and harbouring offenders.—Whoever indulges in financing, directly or indirectly, any, of the activities specified in sub-clauses (i) to (v) of 3[clause (viiib) of section 2] or harbours any person engaged in any of the aforementioned activities, shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years and shall also be liable to fine which shall not be less than one lakh rupees but which may extend to two lakh rupees:
+
+Provided that the court may, for reasons to be recorded in the judgment, impose a fine exceeding two lakh rupees.]

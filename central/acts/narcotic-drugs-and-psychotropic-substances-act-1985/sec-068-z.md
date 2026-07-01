@@ -1,0 +1,5 @@
+# Section 68Z. Release of property in certain cases
+
+68Z. Release of property in certain cases.—(1) Where the detention order of a detenu is set aside or withdrawn, properties seized or frozen under this Chapter shall stand released.
+
+(2) Where any person referred to in clause (a) or clause (b) or clause (cc) of sub-section (2) of section 68A has been acquitted or discharged from the charges under this Act or any other corresponding law of any other country and the acquittal was not appealed against or when appealed against, the appeal was disposed of as a consequence of which such property could not be forfeited or warrant of arrest or authorisation of arrest issued against such person has been withdrawn, then, property seized or frozen under this Chapter shall stand released.]
