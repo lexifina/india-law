@@ -1,0 +1,5 @@
+# The Schedule
+
+(See section 4) DECLARATION OF FIDELITY AND SECRECY I, _____________________________________________, do hereby declare that I will faithfully, truly and to the best of my skill and ability, execute and perform the duties required of me as director, member of any Committee, auditor, officer or other employee (as the case may be) of the ________________________* and which properly relate to the office or position held by me in, or in relation to, the I further declare that I will not communicate or allow to be communicated to any person not legally entitled thereto any information relating to the affairs of the _____________________________ * or to the affairs of any person having any dealing with the _______________________ *nor will I allow any such person to inspect, or have access to, any books or documents belonging to, or in the possession of, the __________________ *and relating to the business of the ____________________*or the business of any person having any dealing with the ___________ Signed before me.
+
+Signature. *Here insert the name of the public financial institution concerned.
