@@ -1,0 +1,5 @@
+# Section 33A. Adjudication of penalties
+
+33A. Adjudication of penalties.—For the purpose of adjudication of penalties under the provisions of this Act and the rules made thereunder, the State Government or the Union territory administration, as the case may be, shall authorise the Sub-Divisional Magistrate or any other Executive Magistrate, as the case may be, having jurisdiction, as an adjudicating officer for holding an inquiry and imposing penalty, in the manner as may be prescribed by the Central Government:
+
+Provided that no such penalty shall be imposed without giving the person concerned a reasonable opportunity of being heard.
