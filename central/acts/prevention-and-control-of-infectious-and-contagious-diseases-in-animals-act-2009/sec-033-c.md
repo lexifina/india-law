@@ -1,0 +1,3 @@
+# Section 33C. Imprisonment for non-payment of penalty
+
+33C. Imprisonment for non-payment of penalty.—Where any person fails to pay the penalty imposed under the provisions of this Act and the rules made thereunder within ninety days of such imposition, he shall be punishable with imprisonment for a term which may extend to three months or with fine which may extend to twice the amount of the penalty, or with both.
