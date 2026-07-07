@@ -1,0 +1,3 @@
+# Section 8B. Other Committees
+
+8B. Other Committees.—The Board may appoint as many Committees as it deems fit consisting wholly of the members of the Board or wholly of other persons or partly of members of the Board and partly of other persons as it thinks fit to exercise such powers and perform such duties as may be delegated to them, subject to such conditions as it may think fit, by the Board.
