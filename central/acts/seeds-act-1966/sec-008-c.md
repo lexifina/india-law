@@ -1,0 +1,3 @@
+# Section 8C. Proceedings of Board or Committee not to be invalid by reason of any vacancy therein
+
+8C. Proceedings of Board or Committee not to be invalid by reason of any vacancy therein.—No proceeding of the Board or any Committee thereof shall become invalid merely by reason of the existence of any vacancy therein or any defect in the constitution thereof.
