@@ -1,0 +1,164 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+issuer: "Government of Punjab"
+department: "Legal and Legislative Affairs"
+published: "2026-07-08"
+in_force: "2026-07-08"
+in_force_evidence: "published in the Gazette 2026-07-08; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2026-07-08.91849"
+language: "English text only"
+---
+
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 8th July, 2026
+No. 50/L.C./2026.- The Translation in Punjabi of the Punjab
+Warehouse Act, 1957 is hereby published under the authority of the Governor
+of Punjab and shall be deemed to be the authoritative text thereof in Punjabi
+under section 6-A of the Punjab Official Language Act, 1967 (Punjab Act
+No.5 of 1967)
+
+712 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 713
+(ASAR 17, 1948 SAKA)
+
+714 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 715
+(ASAR 17, 1948 SAKA)
+
+716 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 717
+(ASAR 17, 1948 SAKA)
+
+718 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+wkb^r[dkw^
+gqpzXe dk
+wkb^r[dkw
+pdb/ tgko
+eoBk.
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 719
+(ASAR 17, 1948 SAKA)
+nfij/ b;z;K
+pkps
+T[gpzX.
+
+720 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 721
+(ASAR 17, 1948 SAKA)
+
+722 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 723
+(ASAR 17, 1948 SAKA)
+
+724 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 725
+(ASAR 17, 1948 SAKA)
+
+726 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 727
+(ASAR 17, 1948 SAKA)
+
+728 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 729
+(ASAR 17, 1948 SAKA)
+
+730 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+3768/7-2026/Pb. Govt. Press, S.A.S. Nagar
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 731
+(ASAR 17, 1948 SAKA)
+Gkr ^1
+gzikp ;oeko
+nfX;{uBk
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 8th July, 2026
+No. 51/L.C./2026.- The Translation in Punjabi of the Punjab Advocates
+Welfare Fund Act, 2002 is hereby published under the authority of the Governor
+of Punjab and shall be deemed to be the authoritative text thereof in Punjabi
+under section 6-A of the Punjab Official Language Act, 1967 (Punjab Act
+No.5 of 1967)
+
+732 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 733
+(ASAR 17, 1948 SAKA)
+
+734 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 735
+(ASAR 17, 1948 SAKA)
+
+736 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 737
+(ASAR 17, 1948 SAKA)
+yakbh EK,
+so[ZNh iK
+p/ekfJdrh
+ekoB Nq;Nh
+ew/Nh d/
+ekoiK dk
+BkikfJia Bk
+j'Dk.
+
+738 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 739
+(ASAR 17, 1948 SAKA)
+
+740 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 741
+(ASAR 17, 1948 SAKA)
+
+742 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 743
+(ASAR 17, 1948 SAKA)
+
+744 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 745
+(ASAR 17, 1948 SAKA)
+
+746 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 747
+(ASAR 17, 1948 SAKA)
+
+748 PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026
+(ASAR 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 8, 2026 749
+(ASAR 17, 1948 SAKA)
+3768/7-2026/Pb. Govt. Press, S.A.S. Nagar
