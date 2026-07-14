@@ -1,0 +1,193 @@
+---
+title: "Pension Fund Regulatory And Development Authority (Regulatory Sandbox) Regulations 2026"
+kind: "regulation"
+issued: "2026-07-14"
+in_force: "2026-07-14"
+issuer: "Pension Fund Regulatory and Development Authority"
+source_url: "https://www.pfrda.org.in/regulatory-framework/regulations"
+official_text: "https://www.pfrda.org.in/documents/33652/184762/PFRDA+%28Regulatory+Sandbox%29+Regulations+2026.pdf"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# Pension Fund Regulatory And Development Authority (Regulatory Sandbox) Regulations 2026
+
+No. 451]                                                   EXTRAORDINARY
+
+                                                           PART III—Section 4
+
+                                                   PUBLISHED BY AUTHORITY
+
+                                NEW DELHI, TUESDAY, JULY 14, 2026/ASHADHA 23, 1948
+
+5382 GI/2026                    (1)
+
+                PENSION FUND REGULATORY AND DEVELOPMENT AUTHORITY
+                                                     NOTIFICATION
+
+                                              New Delhi, the 13th July, 2026
+     PENSION FUND REGULATORY AND DEVELOPMENT AUTHORITY (REGULATORY
+
+                                         SANDBOX) REGULATIONS, 2026
+         F. No. PFRDA-16/01/01/0001/2026-REG-CRA.—In exercise of the powers conferred by sub-
+section (1) of section 52 read with clause (w) of sub-section (2) thereof, of the Pension Fund Regulatory
+and Development Authority Act, 2013 (23 of 2013), the Pension Fund Regulatory and Development
+Authority, hereby makes the following regulations, namely: -
+
+                                            CHAPTER I - PRELIMINARY
+1. Short Title and Commencement
+(1) These Regulations may be called the Pension Fund Regulatory and Development Authority (Regulatory
+Sandbox) Regulations, 2026.
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+2. Objective
+(1) The objective of these Regulations is to facilitate:
+(a) responsible innovation in the pension sector while ensuring the protection of subscribers’ interest and
+the orderly development of pension schemes regulated by the Authority; and
+(b) the establishment of a Regulatory Sandbox for testing innovative solutions and, where
+necessary, granting limited and time-bound regulatory relaxations for such testing.
+3. Definitions
+(1) In these Regulations, unless the context otherwise requires:
+(a) "Act" means the Pension Fund Regulatory and Development Authority Act, 2013;
+(b) "Applicant" means:
+(i) An intermediary registered with the Authority under Section 27 of the Act or an entity
+empanelled with the Authority under the Regulations;
+(ii) An intermediary or an entity empanelled with the Authority applying in association with any entity
+incorporated or registered under applicable laws in India; or
+(iii) Any other entity permitted to apply under the Sandbox Framework.
+(c) "Authority" means the Pension Fund Regulatory and Development Authority established under
+subsection (1) of Section 3 of the Act;
+(d) “Regulatory Sandbox” means a controlled environment enabled by the Authority for testing a Test
+Solution for a specified period and subject to such conditions as may be specified by the Authority;
+(e) “Sandbox Entity” means an applicant whose application has been approved by the Authority under
+these regulations;
+(f) "Sandbox Framework" means the guidelines, circulars or directions issued by the Authority for
+implementation of these Regulations.
+(g) “Test Solution” shall mean the proposed products, services, business models, processes,
+technologies or delivery mechanism intended to be tested under the Regulatory Sandbox;
+(h) “User” means a subscriber or prospective subscriber who voluntarily participates in the testing of a Test
+Solution after providing informed consent.
+
+                  CHAPTER II - REGULATORY SANDBOX
+
+4. Eligibility and Application
+
+(1) An applicant desirous to participate in the Regulatory Sandbox shall submit an application in the form
+and manner as laid down in Sandbox Framework.
+
+(2) The eligibility criteria, evaluation parameters, application procedure and supporting documents shall be
+such as may be specified in the Sandbox Framework.
+
+5. Approval and Testing
+
+(1) The Authority may approve or reject any application received under these regulations.
+
+(2) The Authority may specify the scope, duration, testing parameters, user limits, reporting requirements
+and other conditions applicable to an approved test solution.
+
+(3) The Authority may operationalise the Regulatory Sandbox in such manner as may be specified in the
+Sandbox Framework.
+
+6. Regulatory Relaxations
+
+(1) An applicant may seek exemption or relaxation from the applicability of any regulation, guideline,
+circular, direction or instruction issued by the Authority under the Act, to the extent required for testing the
+Test Solution. The Authority may, for facilitating testing under the Regulatory Sandbox, grant such
+exemption or relaxation subject to such condition and for such period as it may determine.
+
+Provided that the aggregate period of testing, including any extension, shall not exceed twelve months from
+the date of first approval.
+
+(2) Any relaxation granted under sub-regulation (1) shall be subject to the applicant satisfying such
+conditions, including the period thereof, as may be laid down by the Authority and in accordance with the
+Sandbox framework.
+
+Provided that no relaxation shall be granted from the provisions of the Pension Fund Regulatory and
+Development Authority Act, 2013, Know Your Customer (KYC), Anti-Money Laundering (AML) and
+Counter Financing of Terrorism (CFT) requirements, Digital Personal Data Protection Act, 2023, cyber
+security, fraud prevention, foreign exchange management or any other applicable law.
+
+(3) Any exemption or relaxation granted shall be limited to the duration and scope of testing approved by
+the Authority and shall not constitute as a precedent in respect of the same applicant or any other applicant.
+
+(4) Any requirement for which exemption or relaxation is not expressly granted by the Authority shall
+continue to apply.
+
+7. Obligations and Liabilities
+
+(1) Every sandbox entity shall ensure protection of subscribers’ interest throughout the testing period.
+Every Sandbox Entity shall comply with these regulations, the Sandbox Framework and the conditions of
+approval.
+
+(2) The sandbox entity shall remain responsible and liable for all acts, omissions and consequences arising
+from the testing of the Test solution, including acts or omissions of any associated entity. Where testing is
+undertaken by an intermediary or an entity empanelled with the Authority, in association with any other
+entity, such intermediary or empanelled entity shall remain responsible for compliance with the conditions
+of approval and for the conduct of the associated entity.
+
+(3) The sandbox entity shall be liable for any loss or damage caused to a user arising from breach of the
+conditions of approval, testing beyond the approved scope or testing without informed consent.
+
+(4) The participation of the sandbox entity in the Regulatory Sandbox shall not be construed as approval,
+endorsement or certification of the Test solution by the Authority. The Authority shall not be liable for any
+acts, omissions or consequences arising from the testing of the Test solution.
+
+(5) The sandbox entity shall obtain informed consent from every user and, wherever applicable, also from
+the employer of the user prior to testing the Test Solution.
+
+8. Monitoring, Inspection and Revocation
+
+(1) The Authority may at any time monitor, inspect, audit, investigate or seek information from any
+sandbox entity in addition to the requirement of periodic reporting as laid down in Sandbox framework.
+
+(2) The Authority may at any time suspend, revoke or modify any approval granted under these
+Regulations if it is satisfied that the activities of the Sandbox entity are not in consonance with these
+regulations, Sandbox Framework or any guidelines issued by the Authority.
+
+9. Exit and Post-Testing
+
+(1) Upon completion, discontinuation, suspension, revocation or termination of testing, the sandbox entity
+shall comply with the exit requirements as may be specified by the Authority.
+
+(2) Deployment of a Test solution beyond the Regulatory Sandbox shall be subject to compliance with
+applicable laws and such approvals as may be given by the Authority.
+
+                  CHAPTER III – MISCELLANEOUS
+
+10. Inter-Regulatory Sandbox.
+
+A Test Solution falling within the regulatory ambit of more than one financial sector Regulator, including
+the Authority, shall be in accordance with the circular, guidelines or directions issued by the Authority.
+
+11. Savings of Powers.
+
+Notwithstanding anything contained in these Regulations, the Authority reserves all powers vested in it
+under the PFRDA Act, 2013, including the power to take such action against a Sandbox Entity as it deems
+fit. No relaxation, exemption, or concession granted under these Regulations shall be construed to limit,
+waive, or otherwise derogate from such powers.
+
+12. Power to Issue Framework, Guidelines and Directions
+
+The Authority may issue circulars, guidelines and directions, as necessary from time to time, providing the
+operational details of the Regulatory Sandbox including the application process, formats, testing stages and
+timelines, cohort themes and modalities, monitoring and reporting requirements, and such other matters as
+may be required for effective implementation of these Regulations.
+
+13. Power to Clarify and Remove Difficulties
+
+The Authority may issue clarifications, directions or instructions as may be deemed appropriate to interpret
+the provisions of these regulations or to remove any difficulties in the implementation of these Regulations.
+
+                  SIVASUBRAMANIAN RAMANN, Chairperson
+                                    [ADVT.-III/4/Exty./220/2026-27]
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+                       and Published by the Controller of Publications, Delhi-110054.
+
+                                                                                                                                                                  Digitally signed
+
+                                                               VINOD by VINOD
+                                                                                                                                                                  KUMAR
+
+                                                               KUMAR Date:
+                                                                                                                                                                  2026.07.20
+                                                                                                                                                                  15:33:20 +05'30'
