@@ -1,0 +1,7 @@
+# Section 3A. Power to acquire land, etc
+
+3A. Power to acquire land, etc.—(1) Where the Central Government is satisfied that for a public purpose any land is required for the building, maintenance, management or operation of a national highway or part thereof, it may, by notification in the Official Gazette, declare its intention to acquire such land.
+
+(2) Every notification under sub-section (1) shall give a brief description of the land.
+
+(3) The competent authority shall cause the substance of the notification to be published in two local newspapers, one of which will be in a vernacular language.
