@@ -1,0 +1,141 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+issuer: "Government of Punjab"
+department: "Legal and Legislative Affairs"
+published: "2026-07-21"
+in_force: "2026-07-21"
+in_force_evidence: "published in the Gazette 2026-07-21; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2026-07-21.92004"
+language: "English text only"
+---
+
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 21st July, 2026
+No. 54/L.C./2026.- The Translation in Punjabi of the Punjabi
+University Act, 1961 is hereby published under the authority of the Governor
+of Punjab and shall be deemed to be the authoritative text thereof in Punjabi
+under section 6-A of the Punjab Official Language Act, 1967 (Punjab Act
+No.5 of 1967)
+
+774 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 775
+(ASAR 30, 1948 SAKA)
+
+776 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 777
+(ASAR 30, 1948 SAKA)
+
+778 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 779
+(ASAR 30, 1948 SAKA)
+:{Bhtof;Nh
+d/ nfXekoh.
+
+780 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 781
+(ASAR 30, 1948 SAKA)
+
+782 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 783
+(ASAR 30, 1948 SAKA)
+
+784 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 785
+(ASAR 30, 1948 SAKA)
+
+786 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 787
+(ASAR 30, 1948 SAKA)
+
+788 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 789
+(ASAR 30, 1948 SAKA)
+
+790 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 791
+(ASAR 30, 1948 SAKA)
+
+792 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 793
+(ASAR 30, 1948 SAKA)
+
+794 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 795
+(ASAR 30, 1948 SAKA)
+
+796 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+3779/7-2026/Pb. Govt. Press, S.A.S. Nagar
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 797
+(ASAR 30, 1948 SAKA)
+Gkr^1
+gzikp ;oeko
+nfX;{uBk
+BzH55$GLe$2026H^ gzikp eko'pko dk nfXeko n?eN, 2020 dk
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 21st July, 2026
+No. 55/L.C./2026.- The Translation in Punjabi of the Punjab Right
+to Business Act, 2020 is hereby published under the authority of the Governor
+of Punjab and shall be deemed to be the authoritative text thereof in Punjabi
+under section 6-A of the Punjab Official Language Act, 1967 (Punjab Act
+No.5 of 1967)
+
+798 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 799
+(ASAR 30, 1948 SAKA)
+
+800 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 801
+(ASAR 30, 1948 SAKA)
+
+802 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 803
+(ASAR 30, 1948 SAKA)
+
+804 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 805
+(ASAR 30, 1948 SAKA)
+
+806 PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026
+(ASAR 30, 1948 SAKA)
+2.
+2.
+
+PUNJAB GOVT. GAZ.(EXTRA), JULY 21, 2026 807
+(ASAR 30, 1948 SAKA)
+3779/7-2026/Pb. Govt. Press, S.A.S. Nagar
