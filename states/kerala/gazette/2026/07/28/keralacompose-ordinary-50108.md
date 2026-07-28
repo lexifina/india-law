@@ -1,0 +1,221 @@
+---
+kind: "gazette-notification"
+gazette: "Kerala Gazette"
+gazette_number: "30"
+gazette_type: "Ordinary"
+part: "Part III"
+issuer: "Government of Kerala"
+department: "Revenue Department"
+published: "2026-07-28"
+in_force: "2026-07-28"
+in_force_evidence: "published in the Gazette 2026-07-28; no other commencement day stated"
+official_text: "https://compose.kerala.gov.in/kgSearchfiledownloadpdf?b%27gztnotemp=&gztyeartemp=&partdeptId=&partid=&department=&part1id=&part1aid=&part1bid=&part2id=&part3id=&part4id=&searchpdfid=50108&hiddenradiovalue=&organizationvalue=&eognohdn=&eogdatehdn=%27"
+mirror: "https://archive.org/details/in.gazette.keralacompose.2026-07-28.ordinary-50108"
+language: "English text only"
+---
+
+compose.kerala.gov.in Regn.No. KERBIL/2012/45073
+dated 2012-09-05 with RNI egazette.kerala.gov.in
+Reg No.KL/TV(N)/634/2021-2023
+printing.kerala.gov.in
+GOVERNMENT OF KERALA
+KERALA GAZETTE
+PUBLISHED BY AUTHORITY
+Tuesday, 28th July 2026
+12th Karkadakam 1201 6th Sravana 1948
+Vol. XV No.
+Part III
+Commissionerate of Land Revenue
+©
+GOVERNMENT OF KERALA
+
+31297 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31298 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31299 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31300 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31301 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31302 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+31303 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+No: TLKPTM/2066/2026-C2 24-07-2026
+Notice is hereby given to all to whom it may be concern that JAMES JOSEPH Painumbra
+House,Pariyapuram, Angadippuram Village, Perinthalmanna Taluk of Malappuram District has filed an
+application of a legal heirship certificate to produce before various in respect of the legal heirs of late
+SELIN JOHN, Koothrappallil House who expired on 20-05-2026 and that it has been reported to this
+office that the persons named in the scheduled below are the legal heirs of the said late SELIN JOHN.
+that it is proposed to issue a legal heirship certificate according to this to the applicant . Hence, it is
+proposed to issue a legal heir ship certificate accordingly in favour of the above said members for
+receiving the claims. objections, if any against the issue of the said legal heirship certificate should be
+filed in person before the Tahasildar , Perinthalmanna within 30 days from the date of publication of this
+notice in the Kerala Government Gazette. Belated applications and those sent by post will not be
+considered.
+SCHEDULE
+Sl.No Name of the Legal Heirs Relationship with the Deceased Age
+1 JAMES JOSEPH Husband 55
+2 ALEENA MARIA JAMES Daughter 23
+3 ALKA ELSA JAMES Daughter 19
+
+31304 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31305 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31306 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31307 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31308 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31309 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31310 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31311 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31312 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31313 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31314 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31315 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31316 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31317 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31318 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31319 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31320 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31321 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31322 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31323 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31324 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+31325 Revenue Department 28th July 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+____________________________________________________________________________________________________________________________
+PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRESSES
+AT THE GOVERNMENT CENTRAL PRESS, THIRUVANANTHAPURAM, 2026
