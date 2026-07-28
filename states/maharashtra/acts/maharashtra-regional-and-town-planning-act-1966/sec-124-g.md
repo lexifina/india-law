@@ -7,10 +7,3 @@
 (3) Where the assessment is annulled or set aside in an appeal, the State Government or such officer deciding the appeal may direct the Authority to make a fresh assessment after such further enquiry as may be directed.
 
 (4) Every order passed in appeal under this section shall be final and shall not be questioned in any suit or other legal proceedings.
-
-Notes in the official text:
-
-- These words were substituted for the words "on the development of any land or building which is proposed for
-- warehouse or godown or by any educational institution, medical institution or charitable institution" by Mah. 32
-- of 2015, s. 2.
-- Sub-section (3) was inserted by Mah. 6 of 2004, s. 2.

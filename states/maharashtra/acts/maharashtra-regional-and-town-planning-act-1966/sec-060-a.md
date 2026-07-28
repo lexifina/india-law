@@ -1,0 +1,3 @@
+# Section 60A
+
+60A. Town Planning Officer for scheme.— Every Planning Authority shall, at the time of declaration of intention to prepare town planning scheme, appoint a person possessing such qualifications as may be prescribed, to be the Town Planning Officer for carrying out necessary surveys and analysis of the area under the draft town planning scheme, prepare reconstituted plots, redistribution of such reconstituted plots, determine original plot value, semi-final value and final value, determine the compensation and incremental contribution, cost of scheme and any other thing required to be done in preparation of draft scheme including assisting the Director of Town Planning, Arbitrator and Tribunal of Appeal.]

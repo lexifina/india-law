@@ -22,8 +22,12 @@ Chairman;
 
 (g) The Chief Engineer of Maharashtra Jeevan Authority or his representative not below the rank of Superintending Engineer having jurisdiction over the development area or in any part thereof, Ex officio Members;
 
-(h) Settlement Commissioner and Director of Land Records or his nominee not below the rank of Deputy Director of Land Records having jurisdiction over the development area or in any part thereof, Member Secretary.
+(h) Settlement Commissioner and Director of Land Records or his nominee not below the rank of Deputy Director of Land Records having jurisdiction over the development area or in any part thereof, MemberSecretary.
 
 (i) Chief Executive Officer not below the rank of Joint Director of Town Planning or an Officer appointed by Government for Metropolitan Area and Deputy Director of Town Planning elsewhere, to be appointed by the State Government.
 
 (4) The provisions of sections 9, 10 and 11 of this Act shall mutatis mutandis apply to an Area Development Authority constituted under sub-section (1) as they apply in relation to a Regional Planning Board.
+
+Notes in the official text:
+
+- Chapter III-A was inserted by Mah. 25 of 2009, s. 2.
