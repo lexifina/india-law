@@ -10,7 +10,7 @@ Provided that,—
 
 (b) where the application relates to the carrying out of any development, the Authority may refuse to assess the amount of development charge payable by such person concerned unless it is satisfied that the applicant has an interest in the land or building sufficient to enable him to carry out such development or that the applicant is able to acquire such interest and that the applicant shall carry out the development within such period as the Authority may determine.
 
-(3) The amount of Development charge as shown in the notice of assessment shall be paid within thirty days of the date of receipt thereof by such person and where the amount has not been so paid or has been partly paid an interest at the rate of eighteen per cent. per annum upon any amount outstanding shall be payable from the date immediately following the date on which the period of thirty days as aforesaid expires till the date of payment of such amount.
+(3) The amount of Development charge as shown in the notice of assessment shall be paid within thirty days of the date of receipt thereof by such person and where the amount has not been so paid or has been partly paid an interest 1[at the rate of twelve per cent.] per annum upon any amount outstanding shall be payable from the date immediately following the date on which the period of thirty days as aforesaid expires till the date of payment of such amount.
 
 (4) The Authority shall, in regard to the area lying within its jurisdiction, collect all development charges due under this Act in respect of any development in that area.
 
@@ -22,4 +22,17 @@ Provided that,—
 
 Notes in the official text:
 
+- Sub-section (2A) was inserted by Mah. 10 of 1994, s. 11.
+- Section 12 of Mah. 10 of 1994 reads as under :—
+- "12. Removal of doubt.— For the removal of doubt it is hereby declared that, sub-section (2) of section 124A of the
+- principal Act, having been retrospectively amended, that sub-section (2) as it existed before the commencement of the
+- Maharashtra Regional and Town Planning (Amendment) Act, 1993 (Mah. X of 1994), shall, notwithstanding anything
+- contained in any judgement, order or decree of any Court, be deemed never to have authorised any Planning Authority or
+- Development Authority to levy any development charge in respect of any development referred to in the first proviso to
+- that sub-section (2); and where on or after the 10th day of August 1992, any Planning or the Development Authority has
+- levied and collected any development charges under this Chapter in respect of any land or building or, both, covered by
+- the said proviso, then, the Planning Authority or the Development Authority shall refund the amount of such development
+- charges to the person from whom such charges have been collected either by way of payment, or by adjusting the same
+- against any other dues payable by such person under the provisions of this Act to the Planning Authority, with interest on
+- such amount of refund or adjustments at the rate of 14 per cent. per annum.".
 - The word "minimum" was deleted by Mah. 34 of 2010, s. 2.

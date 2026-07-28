@@ -1,0 +1,3 @@
+# Section 42I
+
+42I. Town Planning Officer.— The State Government shall, at the time of declaration of intention to prepare Structure plan, appoint an officer not below the rank of the Deputy Director of Town Planning, to be the Town Planning Officer for formulating proposal of a Structure plan of the area within any Region or any Planning Authority or any New Town Development Authority, as the case may be, considering the interaction of the area under Structure plan with the outside area through National and State highways, district roads, railways, water-ways, airports, etc., as well as regional and town level geographic features like lakes, rivers and nallahs, hills, forest areas, etc.
