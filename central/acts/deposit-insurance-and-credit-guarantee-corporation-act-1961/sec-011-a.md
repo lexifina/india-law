@@ -1,0 +1,3 @@
+# Section 11A. Registration of Regional Rural Banks
+
+11A. Registration of Regional Rural Banks.—The Corporation shall register every Regional Rural Bank, before the expiry of thirty days from the date of its establishment.]

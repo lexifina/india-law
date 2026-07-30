@@ -1,0 +1,7 @@
+# Section 25A. Amounts in one Fund may be transferred to the other Fund or may be utilised for other purposes
+
+25A. Amounts in one Fund may be transferred to the other Fund or may be utilised for other purposes.—Notwithstanding anything contained in this Act, the Board may—
+
+(a) transfer any amount from the Deposit Insurance Fund to the Credit Guarantee Fund or from the Credit Guarantee fund to the Deposit Insurance Fund, or
+
+(b) utilise any money standing to the credit of either of the said Funds, for such purposes as it may think fit, if it is satisfied that the balance in the Fund, after such transfer or utilisation, will be adequate to meet any probable claim on that Fund.]
