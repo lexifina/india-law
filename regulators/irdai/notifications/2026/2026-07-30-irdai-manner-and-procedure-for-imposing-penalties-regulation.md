@@ -1,0 +1,292 @@
+---
+title: "IRDAI (Manner and Procedure for imposing penalties) Regulations, 2026"
+kind: "regulation"
+issued: "2026-07-30"
+in_force: "2026-07-30"
+issuer: "Insurance Regulatory and Development Authority of India"
+source_url: "https://irdai.gov.in/consolidated-gazette-notified-regulations"
+official_text: "https://irdai.gov.in/documents/37343/366405/IRDAI+%28Manner+and+Procedure+for+imposing+penalties%29+Regulations%2C+2026.pdf/04bdaf52-bcdc-c7d3-ee78-f407401f62df?version=1.1&t=1785736374877&download=true"
+text: "English text layer of the official PDF (pdftotext -layout); Hindi lines omitted"
+---
+
+# IRDAI (Manner and Procedure for imposing penalties) Regulations, 2026
+
+No. 482]                                                    EXTRAORDINARY
+
+                                                            PART III—Section 4
+
+                                                    PUBLISHED BY AUTHORITY
+
+                                NEW DELHI, THURSDAY, JULY 30, 2026/SHRAVAN 8, 1948
+
+5874 GI/2026                    (1)
+
+                  INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA
+
+                                                            NOTIFICATION
+
+                                                     Hyderabad, the 30th July, 2026
+
+               Insurance Regulatory and Development Authority of India (Manner and Procedure for
+                                               Imposing Penalties) Regulations, 2026
+
+          F. No. IRDAI/Reg/11/225/2026.— In exercise of the powers conferred by sub section (3) of section 105E
+read with clause (zd) of sub-section (2) of section 114A of the Insurance Act, 1938 (4 of 1938), and section 14 and
+section 26 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999), the Authority, in
+consultation with the Insurance Advisory Committee, hereby makes the following regulations, namely: -
+
+                                                               CHAPTER I
+
+                                                             PRELIMINARY
+
+1. Short title, commencement and applicability
+
+(1) These regulations may be called the Insurance Regulatory and Development Authority of India (Manner and
+Procedure for Imposing penalties) Regulations, 2026.
+
+(2) These regulations shall come into force on the date of their publication in the Official Gazette.
+
+(3) These regulations shall be applicable to all proceedings for imposing penalties under the Act or Insurance
+Regulatory and Development Authority Act, 1999 or rules or regulations or subsidiary instructions made thereunder.
+
+(4) These Regulations shall be reviewed once every three years from the date of publication, unless a review, repeal or
+amendment is warranted earlier.
+
+2. Objective
+
+To lay down the manner and procedure for imposing penalties for defaults or contraventions under the Act or the
+Insurance Regulatory and Development Authority Act, 1999 or rules or regulations or subsidiary instructions made
+thereunder.
+
+3. Definition.
+
+(1) In these regulations, unless the context otherwise requires, -
+
+     (a) “Act” means the Insurance Act, 1938 (4 of 1938);
+
+     (b) “Authority” means the Insurance Regulatory and Development Authority of India established under the
+          provisions of Section 3 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999);
+
+     (c) “Adjudicating Officer” shall mean the officer appointed by the Authority as adjudicating officer under
+          Section 105C of the Act.
+
+(2) All words and expressions used herein and not defined but defined in the Act, or in the Insurance Regulatory and
+Development Authority Act, 1999 (41 of 1999), or any other rules and regulations made thereunder shall have the
+meanings respectively assigned to them in those acts, rules and regulations.
+
+                                                               CHAPTER II
+
+                                     PROCEEDINGS FOR IMPOSITION OF PENALTY
+
+4. Initiation of penalty proceedings
+
+(1) Penalty proceedings may be initiated by the Authority-
+
+      (a) on basis of any contravention or default noticed on receipt of an inspection report, investigation report, audit
+      findings, regulatory oversight, or complaint; or
+
+      (b) on basis of the recommendation of the adjudicating officer under section 105C, pursuant to the inquiry
+      conducted as to whether any person has committed any defaults or contraventions as specified in sub-section (2)
+      of section 2CB or sub-section (4) of section 34B or sub-section (3) of section 40 or sub-section (2) of section 41
+      or sub-sections (4) and (5) of section 42 or section 52F or section 105B or section 105BA of the Act.
+
+(2) The Authority shall record reasons in writing for initiating such proceedings.
+
+(3) The officers of the Authority who are involved in inspection or investigation functions shall not be part of the
+penalty proceedings under these regulations.
+
+5. Issuance of show cause notice
+
+(1) Where the Authority is of the opinion that a default or contravention has occurred under the Act or the Insurance
+Regulatory and Development Authority Act, 1999 or rules or regulations or subsidiary instructions, it shall issue a
+show cause notice to the person concerned, requiring him to show cause why a penalty shall not be imposed under the
+relevant provision of the Act or the Insurance Regulatory and Development Authority Act,1999 or rules or regulations
+made thereunder.
+
+(2) The show cause notice shall specify-
+
+      (a) the details of facts and circumstances of the alleged default or contravention;
+
+      (b) the provisions of the Act, or the Insurance Regulatory and Development Authority Act, 1999 or rules or
+      regulations or subsidiary instructions alleged to have been defaulted/ contravened;
+
+      (c) details and copies of the documents or other evidence relied upon in the show cause notice;
+
+      (d) the relevant penalty provisions under the Act or the Insurance Regulatory and Development Authority
+      Act,1999 or rules or regulations made thereunder;
+
+      (e) the time within which a written reply shall be submitted; and
+
+      (f) the option to avail personal hearing.
+
+(3) Without prejudice, if any new default or contravention is noticed during the proceeding or otherwise, the Authority
+may issue a supplementary show cause notice which shall specify the details mentioned in sub regulation (2) above.
+
+(4) The time allowed for submission of reply to notice issued under sub regulation (1) or supplementary show cause
+notice issued under sub regulation (3) shall ordinarily not be less than 21 days and the same may be extended on the
+request of the person to whom the show cause notice is issued considering the facts and circumstances of the matter,
+as deemed fit.
+
+Provided that in an emergent situation affecting the interest of the policyholder or the insurance sector, the Authority
+may by recording reasons in writing, require submission of reply within such shorter time as it may deem fit
+
+6. Service of Notices
+
+(1) A show cause notice issued under these regulations shall be served on the person through any of the following
+modes, namely: -
+
+      (a) by delivering or tendering it to the person or his duly authorised agent; or
+
+      (b) by sending it to the person by electronic mail or by courier or speed post to:
+
+        i. the address of the office of the person concerned; or
+
+        ii. the address of his place of residence or his last known place of residence or the place where he carried on, or
+            last carried on, business or personally works, or last worked, for gain,
+
+        iii. the electronic mail details available in the records of the Authority;
+
+     (c) by any other mode of communication as may be determined by the Authority.
+
+(2) In case of failure to serve a notice through any one of the modes provided under sub-regulation (1), a brief of the
+show cause notice shall be published in at least two newspapers, one of which shall be in an English daily newspaper
+having nationwide circulation and another shall be in a newspaper having wide circulation published in the language
+of the region where that person was last known to have resided or carried on business or personally worked for gain.
+
+(3) Additionally, the unserved notices shall also be published on the website of the Authority.
+
+7. Submission of reply and grant of personal hearing
+
+(1) The person to whom the show cause notice is issued may submit a written reply along with relevant documents
+within the time specified.
+
+(2) If the noticee fails to reply to show cause notice within the period specified therein, the Authority shall proceed in
+the matter ex parte.
+
+(3) The Authority may grant an opportunity of personal hearing: -
+
+      (a) where requested by the noticee; or
+
+      (b) where the Authority considers such personal hearing is necessary in the interest of justice.
+
+(4) The Authority shall issue a notice to the person concerned, fixing a date, the mode and the place for the personal
+hearing. The personal hearing can be by way of physical appearance or through virtual mode as determined by the
+Authority.
+
+(5) On the date fixed, the Authority shall explain to the noticee, the default or contravention alleged to have been
+committed by such noticee indicating the provisions of the Act, the Insurance Regulatory and Development Authority
+Act, 1999, rules, regulations or subsidiary instructions in respect of which the default or contravention is alleged to
+have taken place.
+
+(6) The Authority shall give an opportunity to such noticee to produce such documents or evidence as he may consider
+relevant.
+
+(7) While holding a proceeding under these regulations the Authority shall have the power to summon and enforce the
+attendance of any person acquainted with the facts and circumstances of the case to give evidence or to produce any
+document which, in the opinion of the Authority, may be useful for or relevant to, the subject-matter of the
+proceeding.
+
+(8) If any person fails, neglects or refuses to appear as required by sub-regulation (3) and (7) before the Authority, the
+Authority may proceed with the proceeding in the absence of such person after recording the reasons for doing so.
+
+(9) The Authority may direct the noticee and such person as referred to in sub regulation (7) to file written
+submissions in the matter within such time as may be granted by the Authority.
+
+8. Order imposing penalty
+
+(1) The Authority shall, on receipt of the reply to the show cause notice and after considering all the relevant materials
+on record, by an order, either dismiss the show cause notice if no cause exists, or if sufficient cause exists pass a
+reasoned order in writing recording-
+
+      (a) its findings;
+
+      (b) the provisions defaulted or contravened;
+
+      (c) the penalty imposed;
+
+      (d) timeline for payment of penalty.
+
+(2) Every such order shall be dated and signed.
+
+(3) The order shall be proportionate to the contravention/default committed by the noticee and act as a deterrent
+against the commission of such contravention/default by the noticee or any other person in future, taking into account
+the nature, seriousness and impact of the default/contravention.
+
+(4) While determining the penalty to be imposed under the provisions of the Act or the Insurance Regulatory and
+Development Authority Act, 1999 or rules or regulations or Subsidiary Instructions made thereunder, the Authority
+shall have regard to the following factors provided in sub section (1) of section 105E of the Act, namely:
+
+         i. the nature, gravity and duration of the default;
+
+        ii. the repetitive nature of the default;
+
+       iii. the disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default;
+
+       iv. the loss caused to the policyholders as a result of the default;
+
+        v. the action taken by the person to mitigate the effects and consequences of the default, and the timeliness
+                and effectiveness of such action;
+
+       vi. the number of policyholders impacted by such default;
+
+      vii. whether the penalty to be imposed is proportionate, having regard to the need to secure observance of
+                and deter breach of the provisions of this Act, the Insurance Regulatory and Development Authority Act,
+                1999 and rules and regulations thereunder; and
+
+      viii. such other factors as may be deemed appropriate by the Authority.
+
+(5) Without prejudice, the Authority after considering the facts and circumstances of the matter may pass other
+instructions such as advisory or/and caution or/and direction or/and warning.
+
+(6) The order shall be communicated to the person concerned in manner as specified in regulation 6.
+
+(7) A copy of the order shall be published on the website of the Authority. In addition, a brief of the penal action in the
+form of press release shall be published on the website of the Authority within a period of thirty days.
+
+(8) Any person aggrieved by an Order of the Authority may prefer an appeal to the Securities Appellate Tribunal
+within a period of forty-five days from the date of receipt of the copy of the Order made by the Authority.
+
+9. Payment
+
+(1) The penalty imposed shall be paid within a period of forty-five days in the manner specified in the order passed
+under regulation 8.
+
+(2) All sums realised by way of penalties under the Act or the Insurance Regulatory and Development Authority Act,
+1999 or rules or regulations or subsidiary instructions made thereunder shall be credited to the Policyholders’
+Education and Protection Fund established under section 16A of the Insurance Regulatory and Development Authority
+Act, 1999.
+
+                                                              CHAPTER III
+
+                                                          MISCELLANEOUS
+
+10. Rectification
+
+Any clerical or arithmetical mistakes in any order passed under regulation 8 by the Authority or error therein arising
+from any accidental slip or omission may, at any time, be corrected by the Authority, and the correction shall be
+communicated to the person/persons concerned forthwith.
+
+11. Delegation of Power
+
+The Authority may delegate its powers and functions under these regulations to the Chairperson or one or more Whole
+Time Members or both or any officer of the Authority.
+
+12. Savings
+
+Nothing contained in these regulations shall prejudice -
+
+(1) any action taken, notices issued, proceedings commenced or order passed prior to the commencement of these
+regulations; or
+
+(2) the powers of the Authority to take any other action under the Act or the Insurance Regulatory and Development
+Authority Act,1999 or rules or regulations made thereunder.
+
+    G. R. SURYA KUMAR, Executive Director
+                [ADVT.-III/4/Exty./251/2026-27]
+
+    Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+
+    and Published by the Controller of Publications, Delhi-110054. SARVESH KUMAR DigitallysignedbySARVESHKUMAR
+                                          SRIVASTAVA  SRIVASTAVA
+
+                                                      Date: 2026.07.30 23:27:13 +05'30'
