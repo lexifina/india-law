@@ -1,0 +1,3 @@
+# Section 2A. Construction of references to any law not in force or any functionary not in existence in any State
+
+2A. Construction of references to any law not in force or any functionary not in existence in any State.― Any reference in this Act to any law which is not in force, or any functionary not in existence, in any State, shall, in relation to that State, be construed as a reference to the corresponding law in force, or the corresponding functionary in existence, in that State.]
