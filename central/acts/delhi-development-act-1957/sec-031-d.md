@@ -1,0 +1,14 @@
+# Section 31D. Appeals against orders of Appellate Tribunal
+
+31D. Appeals against orders of Appellate Tribunal.—(1) An appeal shall lie to the 1[Lieutenant Governor] of the 2[National Capital Territory of Delhi] against an order of the Appellate Tribunal, confirming, modifying or annulling an order of the Authority, officer of the Authority, local authority or competent authority, as the case may be, under this Act.
+
+(2) The provisions of sub-sections (2) and (3) of section 31C and the provisions of section 347C of the Delhi Municipal Corporation Act, 1957 (66 of 1957), and the rules made thereunder, shall, so far as may be, apply to the filing and disposal of an appeal under this section as they apply to the filing and disposal of an appeal under the said section 31C.
+
+(3) An order of the 1[Lieutenant Governor] on an appeal under this section, and subject only to such order, an order of the Appellate Tribunal under section 31C and subject to such orders of the 1[Lieutenant Governor] or an Appellate Tribunal, an order of the Authority, officer of the Authority, local authority or competent authority referred to in sub-section (1) of that section shall be final.
+
+Explanation.—In sections 30, 31, 31A and 31D, "competent authority" in relation to a local authority means any authority or officer of that local authority empowered or authorised to order demolition or stoppage of buildings or works, in accordance with the provisions made by or under the law governing such local authority.
+
+Notes in the official text:
+
+- 1. Subs. by Act 36 of 1996, s. 2, for "Administrator" (w.e.f. 21-12-1996).
+- 2. Subs. by s. 2, ibid., for "Union territory of Delhi" (w.e.f. 21-12-1996).
