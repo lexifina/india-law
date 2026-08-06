@@ -1,16 +1,20 @@
-# Schedule I.
+# Schedule I
 
-(See section 34.) No. and date Title.
+(See section 34.) No. and date of Title.
 
-Extent of repeal. of enactment.
+Extent of repeal. enactment.
 
-Bombay A Regulation for defining So much as has not already Regulation II the constitution of the Courts been repealed, excepting the of 1827. of Civil Justice and the part of section 21 which Powers and Duties of the prohibits interference of the Judges and Officers thereof. civil courts in caste questions.
+Bombay Regulation A Regulation for defining the constitution II of 1827. of the Courts of Civil Justice and the Powers and Duties of the Judges and Officers thereof.
 
-Act 1 of 1846 An Act for amending the law The whole, excepting section 5. regarding the appointment and remuneration of pleaders in the Courts of the East India Company.
+So much as has not already been repealed, excepting the part of section 21 which prohibits interference of the civil courts in caste questions.
 
-Act XX of 1853 An Act to amend the law relating Section 2. to Peaders in the Courts of the East India Company.
+Act 1 of 1846 An Act for amending the law regarding The whole, excepting section 5. the appointment and remuneration of pleaders in the Courts of the East India Company.
+
+Act XX of 1853 An Act to amend the law relating to Section 2.
+
+Pleaders in the Courts of the East India Company.
 
 Notes in the official text:
 
-- 1 The words "Offical Gazette" were substituted for tho words " Bomhay Government Gazette " by
-- the Adaptation of Indian Laws Order in Council.
+- The words "Official Gazette" were substituted for the words "Bombay Government Gazette" by the Adaptation of Indian
+- Laws Order in Council.
