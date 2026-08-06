@@ -5,3 +5,4 @@ Bombay Act 17 of 1920, as published by the Law and Judiciary Department, Governm
 | Version | In force | Made by | Source |
 | --- | --- | --- | --- |
 | consolidated snapshot, as modified up to 2016-04-22 | 2016-04-22 (as modified up to 2016-04-22 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 17 of 1920 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/19%20Rev%20&%20Rep%20the%20Bombay%20Pleader%20Act%20(H%204150).pdf |
+| consolidated snapshot, text as on 2026-08-06 | 2026-08-06 (text as on 2026-08-06 (reprint): consolidated snapshot dated on the day printed on the official reprint, not the day a change took effect (last amendment's commencement not stated in the text)) | Bombay Act 17 of 1920 | https://old-lj.maharashtra.gov.in/Site/Upload/Acts/Mah-Act-No-17-of-1920-13-08-2026.pdf |

@@ -1,0 +1,3 @@
+# Section 8A
+
+8A. Right to issue restricted sanads to non-qualified pleaders practising in Indian States.— Subject to the provisions of any law for the tame being in force, the High Court may issue sanads restricting the right of practice to any specified court or courts in favour of non-qualified (sanadi) pleaders practising in the Indian States in the Schedules to the Administration of the Indian States Order, 1948, and who held temporary sanads or who put in less than 10 years' practice at the date of the merger of the States in which they practised. The right to practise in respect of pleaders with such restricted sanads shall be determined accordingly.]
