@@ -1,0 +1,3 @@
+# Section 10A. Settlement of disputes regarding election
+
+10A. Settlement of disputes regarding election.—In case of any dispute regarding any election under clause (a) of sub-section (2) of section 9, the aggrieved person may make an application within thirty days from the date of declaration of the result of election to the Secretary of the Institute, who shall forward the same to the Central Government.

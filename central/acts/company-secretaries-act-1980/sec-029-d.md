@@ -1,0 +1,5 @@
+# Section 29D. Terms and conditions of service of Chairperson and members of Board and its expenditure
+
+29D. Terms and conditions of service of Chairperson and members of Board and its expenditure.—(1) The terms and conditions of service of the Chairperson and the members of the Board, and their allowances shall be such as may be specified.
+
+(2) The expenditure of the Board shall be borne by the Council.]
