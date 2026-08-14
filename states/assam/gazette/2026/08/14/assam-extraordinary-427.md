@@ -1,0 +1,90 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "427"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 427 LGL 40-2025-11 Dated 14-08-26"
+published: "2026-08-14"
+in_force: "2026-08-14"
+in_force_evidence: "published in the Gazette 2026-08-14; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._427_lgl_40-2025-11_dated_14-08-26.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2026-08-14.427"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+LEGISLATIVE DEPARTMENT : : : LEGISLATIVE BRANCH
+NOTIFICATION
+The 14th August, 2026
+No. LGL.40/2025/11.– The following Act of the Assam Legislative Assembly which
+received the assent of the Hon'ble Governor of Assam on 12th August, 2026 is hereby published
+for general information.
+ASSAM ACT NO. XIII OF 2026
+(Received the assent of the Hon'ble Governor of Assam on 12th August, 2026)
+THE ASSAM JAN VISHWAS
+(AMENDMENT OF PROVISIONS) ACT, 2026
+
+2858 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+AN
+ACT
+. .
+.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2859
+
+2860 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2861
+
+2862 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2863
+
+2864 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2865
+
+2866 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2867
+
+2868 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2869
+
+2870 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+MEHBOOBA BEGUM,
+Joint Secretary (Secretary in-charge) to the Government of Assam,
+Legislative Department, Dispur, Guwahati-6.
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2871
+
+2872 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2873
+
+2874 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2875
+
+2876 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2877
+
+2878 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2879
+
+2880 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2881
+
+2882 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026 2883
+
+2884 THE ASSAM GAZETTE, EXTRAORDINARY, AUGUST 14, 2026
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 853 - 50 + 10 - 14 - 08 - 2026. (visit at– dpns.assam.gov.in)
