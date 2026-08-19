@@ -1,0 +1,77 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Weekly)"
+gazette_number: "416"
+gazette_type: "Weekly"
+part: "Part II"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "MUNICIPAL ADMINISTRATION & URBAN DEVELOPMENT"
+subject: "MUNICIPAL COMMISSIONER, NARSAPUR MUNICIPALITY, NARSAPUR. Roc.No.262/2026-G1. dt: 17.06.2026"
+published: "2026-08-19"
+in_force: "2026-08-19"
+in_force_evidence: "published in the Gazette 2026-08-19; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc4NzE2MDg3MCwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3ODcxMzA0MzQxMDkucGRmIn0.aELHz-Ocll8wJKF9TCFjDd5RtjjrumMvTMBrXrqluds"
+mirror: "https://archive.org/details/in.gazette.andhra_weekly.2026-08-19.416"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+W.No.33 AMARAVATI, WEDNESDAY, AUGUST 19, 2026 G.416
+PART II - MISCELLANEOUS NOTIFICATIONS OF INTEREST TO THE PUBLIC
+--x--
+NOTIFICATIONS BY HEADS OF DEPARTMENTS Etc.,
+MUNICIPAL ADMINISTRATION DEPARTMENT
+MUNICIPAL COMMISSIONER, NARSAPUR MUNICIPALITY,
+NARSAPUR.
+Roc.No.262/2026-G1. dt: 17.06.2026
+DELIMITATION OF WARDS - PUBLICATION OF WARD BOUNDARIES OF NARSAPUR
+MUNICIPALITY INTO THIRTY-SIX (36) - WARDS.
+[1]
+
+2 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 3
+
+4 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 5
+
+6 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 7
+
+8 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 9
+
+10 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 11
+
+12 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 13
+
+14 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 15
+
+16 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 17
+
+18 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 19
+
+20 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 21
+
+22 ANDHRA PRADESH GAZETTE, August 19, 2026
+
+ANDHRA PRADESH GAZETTE, August 19, 2026 23
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
