@@ -1,0 +1,66 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Weekly)"
+gazette_number: "446"
+gazette_type: "Weekly"
+part: "Part II"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "MUNICIPAL ADMINISTRATION & URBAN DEVELOPMENT"
+subject: "MUNICIPAL COMMISSIONER, DACHEPALLI NAGAR PANCHAYAT, DACHEPALLI. Roc.No.86/2026/G1. dt: 20.08.2026 DELIMITATION OF DACHEPALLI NAGAR PANCHAYAT INTO 28 WARDS"
+published: "2026-08-22"
+in_force: "2026-08-22"
+in_force_evidence: "published in the Gazette 2026-08-22; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc4NzQxODg2Miwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3ODczNzYwODA4ODgucGRmIn0.a5VX_FRCDsPMM8TESbcyQYgJqL-NXTWljwNT9_mx3Nc"
+mirror: "https://archive.org/details/in.gazette.andhra_weekly.2026-08-22.446"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+W.No.34 AMARAVATI, SATURDAY, AUGUST 22, 2026 G.446
+PART II - MISCELLANEOUS NOTIFICATIONS OF INTEREST TO THE PUBLIC
+--x--
+NOTIFICATIONS BY HEADS OF DEPARTMENTS Etc.,
+MUNICIPAL ADMINISTRATION DEPARTMENT
+MUNICIPAL COMMISSIONER, DACHEPALLI NAGAR PANCHAYAT,
+DACHEPALLI.
+Roc.No.86/2026/G1. dt: 20.08.2026
+DELIMITATION OF DACHEPALLI NAGAR PANCHAYAT INTO 28 WARDS.
+[1]
+
+2 ANDHRA PRADESH GAZETTE, August 22, 2026
+
+ANDHRA PRADESH GAZETTE, August 22, 2026 3
+
+4 ANDHRA PRADESH GAZETTE, August 22, 2026
+
+ANDHRA PRADESH GAZETTE, August 22, 2026 5
+
+6 ANDHRA PRADESH GAZETTE, August 22, 2026
+
+ANDHRA PRADESH GAZETTE, August 22, 2026 7
+
+8 ANDHRA PRADESH GAZETTE, August 22, 2026
+
+ANDHRA PRADESH GAZETTE, August 22, 2026 9
+
+10 ANDHRA PRADESH GAZETTE, August 22, 2026
+
+ANDHRA PRADESH GAZETTE, August 22, 2026 11
+
+12 ANDHRA PRADESH GAZETTE, August 22, 2026
+
+ANDHRA PRADESH GAZETTE, August 22, 2026 13
+
+14 ANDHRA PRADESH GAZETTE, August 22, 2026
+
+ANDHRA PRADESH GAZETTE, August 22, 2026 15
+
+16 ANDHRA PRADESH GAZETTE, August 22, 2026
+
+ANDHRA PRADESH GAZETTE, August 22, 2026 17
+
+18 ANDHRA PRADESH GAZETTE, August 22, 2026
+---x---
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
