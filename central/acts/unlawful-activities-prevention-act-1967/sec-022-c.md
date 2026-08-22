@@ -1,0 +1,3 @@
+# Section 22C. Punishment for offences by companies, societies or trusts
+
+22C. Punishment for offences by companies, societies or trusts.—Where any offence under the Act has been committed by a company or a society or a trust, as the case may be, every person (including promoter of company or trust or settlor of the trust) who at the time of the offence was either in charge or responsible for the conduct of the business shall be punishable with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life and shall also be liable with fine which shall not be less than five crore rupees and which may extend to ten crore rupees.]
