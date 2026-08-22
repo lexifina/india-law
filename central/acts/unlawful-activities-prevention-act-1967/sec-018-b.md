@@ -1,0 +1,3 @@
+# Section 18B. Punishment for recruiting of any person or persons for terrorist act
+
+18B. Punishment for recruiting of any person or persons for terrorist act.—Whoever recruits or causes to be recruited any person or persons for commission of a terrorist act shall be punishable with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.]

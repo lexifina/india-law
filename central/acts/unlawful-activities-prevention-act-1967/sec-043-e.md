@@ -1,0 +1,7 @@
+# Section 43E. Presumption as to offence under section 15
+
+43E. Presumption as to offence under section 15.—In a prosecution for an offence under section 15, if it is proved—
+
+(a) that the arms or explosives or any other substances specified in the said section were recovered from the possession of the accused and there is reason to believe that such arms or explosives or other substances of a similar nature were used in the commission of such offence; or
+
+(b) that by the evidence of the expert the finger-prints of the accused or any other definitive evidence suggesting the involvement of the accused in the offence were found at the site of the offence or on anything including arms and vehicles used in connection with the commission of such offence, the Court shall presume, unless the contrary is shown, that the accused has committed such offence.
