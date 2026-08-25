@@ -1,0 +1,23 @@
+# Section 127G. Inspection, etc., of reports
+
+127G. Inspection, etc., of reports.—No person shall be entitled to inspect, or obtain copies of, any report made by any officer of the Customs to the Settlement Commission; but the Settlement Commission may, in its discretion, furnish copies thereof to any such person on an application made to it in this behalf and on payment of such fee as may be specified by rules:
+
+Provided that, for the purpose of enabling any person whose case is under consideration to rebut any evidence brought on record against him in any such report, the Settlement Commission shall, on an application made in this behalf, and on payment by such person of such fee as may be specified by rules, furnish him with a certified copy of any such report or part thereof relevant for the purpose. 127 H. Power of Settlement Commission to grant immunity from prosecution and penalty.—(1) The Settlement Commission may, if it is satisfied that any person who made the application for settlement under section 127B has co-operated with the Settlement Commission in the proceedings before it and has made a full and true disclosure of his duty liability, grant to such person, subject to such conditions as it may think fit to impose, immunity from prosecution for any offence under this Act 1[and also either wholly or in part from the imposition of any penalty and fine] under this Act, with respect to the case covered by the settlement:
+
+Provided that no such immunity shall be granted by the Settlement Commission in cases where the proceedings for the prosecution for any such offence have been instituted before the date of receipt of the application under section 127B. 2*
+
+(2) An immunity granted to a person under sub-section (1) shall stand withdrawn if such person fails to pay any sum specified in the order of the settlement passed under 3[sub-section (5) of section 127C within the time specified in such order] or fails to comply with any other condition subject to which the immunity was granted and thereupon the provisions of this Act shall apply as if such immunity had not been granted.
+
+(3) An immunity granted to a person under sub-section (1) may, at any time, be withdrawn by the Settlement Commission, if it is satisfied that such person had, in the course of the settlement proceedings, concealed any particulars, material to the settlement or had given false evidence, and thereupon such person may be tried for the offence with respect to which the immunity was granted or for any other offence of which he appears to have been guilty in connection with the settlement and shall also become liable to the imposition of any penalty under this Act to which such person would have been liable, had no such immunity been granted. 127-I. Power of Settlement Commission to send a case back to the proper officer.—(1) The Settlement Commission may, if it is of opinion that any person who made an application for settlement under section 127B has not co-operated with the Settlement Commission in the proceedings before it, send the case back to the proper officer who shall thereupon dispose of the case in accordance with the provisions of this Act as if no application under section 127B had been made.
+
+(2) For the purpose of sub-section (1), the proper officer shall be entitled to use all the materials and other information produced by the assessee before the Settlement Commission or the results of the inquiry held or evidence recorded by the Settlement Commission in the course of the proceedings before it as if such materials, information, inquiry and evidence had been produced before such proper officer or held or recorded by him in the course of the proceedings before him.
+
+(3) For the purposes of the time limit under section 28 and for the purposes of interest under section 28AA, in a case referred to in sub-section (1), the period commencing on and from the date of the application to the Settlement Commission under section 127B and ending with the date of receipt by the officer of customs of the order of the Settlement Commission sending the case back to the officer of customs shall be excluded.
+
+Notes in the official text:
+
+- 1. Subs. by Act 22 of 2007, s. 105, for "or under the Indian Penal Code or under any other Central Act for the time being in force
+- and also either wholly or in part from the imposition of any penalty, fine and interest" (w.e.f. 1-6-2007).
+- 2. The Explanation omitted by Act 20 of 2015, s. 89 (w.e.f. 14-5-2015).
+- 3. Subs. by Act 22 of 2007, s. 105, for "sub-section (7) of section 127C within the time specified in such order or within such
+- further time as may be allowed by the Settlement Commission" (w.e.f. 1-6-2007).

@@ -1,0 +1,3 @@
+# Section 11N. Power to exempt
+
+11N. Power to exempt.—If the Central Government is satisfied that it is necessary in the public interest so to do, it may, by notification in the Official Gazette, exempt generally, either absolutely or subject to such conditions as may be specified in the notification, goods of any class or description from all or any of the provisions of Chapter IVA or Chapter IVB.]

@@ -1,0 +1,3 @@
+# Section 28G
+
+28G. [Vacancies, etc., not to invalidate proceedings.] Omitted by the Finance Act (7 of 2017), s. 95 (w.e.f. 31-3-2017).

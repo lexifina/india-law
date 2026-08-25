@@ -1,0 +1,15 @@
+# Chapter IVB
+
+PREVENTION OR DETECTION OF ILLEGAL EXPORT OF GOODS 11-H. Definitions.—In this Chapter, unless the context otherwise requires,—
+
+(a) "illegal export" means the export of any goods in contravention of the provisions of this Act or any other law for the time being in force;
+
+(b) "intimated place" means a place intimated under sub-section (1), sub-section (2) or sub-section (3), as the case may be, of section 11J;
+
+(c) "specified area" includes the Indian customs waters, and such inland area, not exceeding one hundred kilometres in width from any coast or other border of India, as the Central Government may, having regard to the vulnerability of that area to smuggling, by notification in the Official Gazette, specify in this behalf:
+
+Provided that where a part of any village, town or city falls within a specified area, the whole of such village, town or city shall, notwithstanding that the whole of it is not within one hundred kilometres from any coast or other border of India, be deemed to be included in such specified area;
+
+(d) "specified date", in relation to specified goods, means the date on which any notification is issued under section 11-I in relation to those goods in any specified area;
+
+(e) "specified goods" means goods of any description specified in the notification issued under section 11-I in relation to a specified area. 11-I. Power of Central Government to specify goods.—If, having regard to the magnitude of the illegal export of goods of any class or description, the Central Government is satisfied that it is expedient in the public interest to take special measures for the purpose of checking the illegal export or facilitating the detection of goods which are likely to be illegally exported, it may, by notification in the Official Gazette, specify goods of such class or description.

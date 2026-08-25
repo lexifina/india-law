@@ -1,0 +1,7 @@
+# Section 28EA. Customs Authority for Advance Rulings
+
+28EA. Customs Authority for Advance Rulings.—(1) The Board may, for the purposes of giving advance rulings under this Act, by notification, appoint an officer of the rank of Principal Commissioner of Customs or Commissioner of Customs to function as a Customs Authority for Advance Rulings: 7*
+
+(2) The offices of the Authority may be established in New Delhi and at such other places, as the Board may deem fit.
+
+(3) Subject to the provisions of this Act, the Authority shall exercise the powers and authority conferred on it by or under this Act.]

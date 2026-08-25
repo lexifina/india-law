@@ -1,0 +1,3 @@
+# Section 28D. Presumption that incidence of duty has been passed on to the buyer
+
+28D. Presumption that incidence of duty has been passed on to the buyer.—Every person who has paid the duty on any goods under this Act shall, unless the contrary is proved by him, be deemed to have passed on the full incidence of such duty to the buyer of such goods.] 3[CHAPTER VAA ADMINISTRATION OF RULES OF ORIGIN UNDER TRADE AGREEMENT

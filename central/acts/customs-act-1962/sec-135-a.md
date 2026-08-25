@@ -1,0 +1,3 @@
+# Section 135A. Preparation
+
+135A. Preparation.—If a person makes preparation to export any goods in contravention of the provisions of this Act, and from the circumstances of the case it may be reasonably inferred that if not prevented by circumstances independent of his will, he is determined to carry out his intention to commit the offence, he shall be punishable with imprisonment for a term which may extend to three years, or with fine, or with both.
