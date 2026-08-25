@@ -1,0 +1,3 @@
+# Section 28C. Price of goods to indicate the amount of duty paid thereon
+
+28C. Price of goods to indicate the amount of duty paid thereon.—Notwithstanding anything contained in this Act or any other law for the time being in force, every person who is liable to pay duty on any goods shall, at the time of clearance of the goods, prominently indicate in all the documents relating to assessment, sales invoice, and other like documents, the amount of such duty which will form part of the price at which such goods are to be sold.

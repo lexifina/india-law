@@ -1,0 +1,5 @@
+# Section 99A. Audit
+
+99A. Audit.—The proper officer may carry out the audit of assessment of imported goods or export goods or of an auditee under this Act either in his office or in the premises of the auditee in such manner as may be prescribed.
+
+Explanation.—For the purposes of this section, "auditee" means a person who is subject to an audit under this section and includes an importer or exporter or custodian approved under section 45 or licensee of a warehouse and any other person concerned directly or indirectly in clearing, forwarding, stocking, carrying, selling or purchasing of imported goods or export goods or dutiable goods.] 3[CHAPTER XIIB VERIFICATION OF IDENTITY AND COMPLIANCE

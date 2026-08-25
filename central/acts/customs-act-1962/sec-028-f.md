@@ -1,0 +1,7 @@
+# Section 28F. Authority for advance rulings
+
+28F. Authority for advance rulings.—9***
+
+Provided that the Member from the Indian Revenue Service (Customs and Central Excise), who is qualified to be a Member of the Board, shall be the revenue Member of the 10[Appellate Authority] for the purposes of this Act.
+
+(2) On and from the date on which the Finance Bill, 2017 receives the assent of the President, every application and proceeding pending before the erstwhile Authority for Advance Rulings (Central Excise, Customs and Service Tax) shall stand transferred to the Authority from the stage at which such application or proceeding stood as on the date of such assent.] 11[(3) On and from the date of appointment of the Customs Authority for Advance Rulings, every application and proceeding pending before the erstwhile Authority for Advance Rulings shall stand transferred to the Authority from the stage at which such application or proceeding stood as on the date of such appointment.]
