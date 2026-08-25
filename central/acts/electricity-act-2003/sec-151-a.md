@@ -1,0 +1,3 @@
+# Section 151A. Power of police to investigate
+
+151A. Power of police to investigate.—For the purposes of investigation of an offence punishable under this Act, the police officer shall have all the powers as provided in Chapter XII of the Code of Criminal Procedure, 1973 (2 of 1974).
