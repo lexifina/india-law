@@ -1,0 +1,3 @@
+# Section 5A. Issue of certificate by Custodian
+
+5A. Issue of certificate by Custodian. —The Custodian may, after making such inquiry as he deems necessary, by order, declare that the property of the enemy or the enemy subject or the enemy firm described in the order, vests in him under this Act and issue a certificate to this effect and such certificate shall be the evidence of the facts stated therein.]
