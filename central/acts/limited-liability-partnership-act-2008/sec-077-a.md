@@ -1,0 +1,3 @@
+# Section 77A. Cognizance of offences
+
+77A. Cognizance of offences.— No court, other than the Special Courts referred to in section 67A, shall take cognizance of any offence punishable under this Act or the rules made thereunder save on a complaint in writing made by the Registrar or by any officer not below the rank of Registrar duly authorised by the Central Government for this purpose.]
