@@ -1,0 +1,16 @@
+# Section 3B. Offences by authorities and Government departments
+
+3B. Offences by authorities and Government departments.—(1) Where any offence under this Act has been committed—
+
+(a) by any department of Government, the head of the department; or
+
+(b) by any authority, every person who, at the time the offence was committed, was directly in charge of, and was responsible to, the authority for the conduct of the business of the authority as well as the authority, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:
+
+Provided that nothing contained in this sub-section shall render the head of the department or any person referred to in clause (b), liable to any punishment if the proves that the offence was committed without his knowledge or that exercised all due diligence to prevent the commission of such offence.
+
+(2) Notwithstanding anything contained in sub-section (1), where an offence punishable under the Act has been committed by a department of Government or any authority referred to in clause (b) of sub-section (1) and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part, of, any officer, other than the head of the department, or in the case of an authority, any person other than the persons referred to in clause (b) of sub-section (1), such officer or persons shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.]
+
+Notes in the official text:
+
+- 2. Ins. by Act 19 of 2010, s. 36 and Sch. III (w.e.f. 18-10-2010).
+- 3. Ins. by Act 69 of 1988, s. 3. (w.e.f. 15-3-1989).
