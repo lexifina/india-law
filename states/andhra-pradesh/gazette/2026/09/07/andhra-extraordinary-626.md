@@ -1,0 +1,66 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "626"
+gazette_type: "Extraordinary"
+part: "Part VII"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "PANCHAYAT RAJ AND RURAL DEVELOPMENT"
+subject: "RECONSTITUTION OF ZILLA PRAJA PARISHADS IN ALL NEWLY FORMED DISTRICTS CORRESPONDING TO THE 28 DISTRICTS PRESENTLY EXISTING IN THE STATE, DULY REORGANIZING THE EXISTING 13 ZILLA PRAJA PARISHADS. [G.O.Ms.No.116, Panchayat Raj & Rural Development (MDL-II), 05th September, 2026.]"
+published: "2026-09-07"
+in_force: "2026-09-07"
+in_force_evidence: "published in the Gazette 2026-09-07; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc4ODc5ODE3Niwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3ODg3NjE3MzEyNTQucGRmIn0.f01TqQTarC3pAZIOItXhGMazUue1EpK__wAjt5TUByk"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-09-07.626"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART VII EXTRAORDINARY
+No.40 AMARAVATI, MONDAY, SEPTEMBER 7, 2026 G.626
+NOTIFICATIONS BY GOVERNMENT
+--x--
+PANCHAYAT RAJ & RURAL DEVELOPMENT
+DEPARTMENT
+(MDL.II)
+RECONSTITUTION OF ZILLA PRAJA PARISHADS IN ALL NEWLY FORMED DISTRICTS
+CORRESPONDING TO THE 28 DISTRICTS PRESENTLY EXISTING IN THE STATE,
+DULY REORGANIZING THE EXISTING 13 ZILLA PRAJA PARISHADS.
+[G.O.Ms.No.116, Panchayat Raj & Rural Development (MDL-II), 05th September, 2026.]
+KANTILAL DANDE,
+Special Chief Secretary to Government (FAC).
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-VII
+
+September 7, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 3
+
+4 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-VII
+
+September 7, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 5
+
+6 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-VII
+
+September 7, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 7
+
+8 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-VII
+
+September 7, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 9
+
+10 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-VII
+
+September 7, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 11
+
+12 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-VII
+
+September 7, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 13
+
+14 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-VII
+
+September 7, 2026] ANDHRA PRADESH GAZETTE EXTRAORDINARY 15
+KANTILAL DANDE,
+Special Chief Secretary to Government (FAC).
+--x--
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
