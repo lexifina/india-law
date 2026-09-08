@@ -1,0 +1,3 @@
+# Section 23D. Liquidation of Regional Rural Banks
+
+23D. Liquidation of Regional Rural Banks.—Where a notification is issued for the amalgamation of Regional Rural Banks under sub-section (1) of section 23A, the Central Government may, by a further notification in the Official Gazette, direct that on such date, as may be specified therein, the transferor Regional Rural Banks, which by reason of amalgamation will cease to function, shall stand dissolved and such direction shall take effect notwithstanding anything to the contrary contained in section 26.]
