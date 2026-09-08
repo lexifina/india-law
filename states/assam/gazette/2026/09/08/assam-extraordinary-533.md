@@ -1,0 +1,63 @@
+---
+kind: "gazette-notification"
+gazette: "Assam Gazette (Extraordinary)"
+gazette_number: "533"
+gazette_type: "Extraordinary"
+issuer: "Government of Assam"
+subject: "No. 533 E-323768-126 Dated 08-09-26"
+published: "2026-09-08"
+in_force: "2026-09-08"
+in_force_evidence: "published in the Gazette 2026-09-08; no other commencement day stated"
+official_text: "https://dpns.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_printing_uneecopscloud_com_oid_3/menu/document/no._533_e-323768-126_dated_08-09-26.pdf"
+mirror: "https://archive.org/details/in.gazette.assam_extraordinary.2026-09-08.533"
+language: "English text only"
+---
+
+GOVERNMENT OF ASSAM
+ORDERS BY THE GOVERNOR
+WOMEN AND CHILD DEVELOPMENT DEPARTMENT
+NOTIFICATION
+The 8th September, 2026
+ABHIJIT SINHA,
+Additional Secretary to the Government of Assam,
+Women and Child Development Department.
+
+3786 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026 3787
+
+3788 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026 3789
+
+3790 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+3791 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+3792 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026 3793
+
+3794 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026 3795
+
+3796 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026 3797
+
+3798 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026 3799
+
+3800 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+3801 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+3802 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+
+THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026 3803
+
+3804 THE ASSAM GAZETTE, EXTRAORDINARY, SEPTEMBER 09, 2026
+Guwahati : Printed and Published by the Director, Directorate of Printing & Stationery, Assam, Guwahati-21.
+Extraordinary Gazette No. 1065 - 10 + 10 - 09- 09 - 2026. (visit at– dpns.assam.gov.in)
