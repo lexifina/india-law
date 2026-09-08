@@ -1,0 +1,102 @@
+---
+kind: "gazette-notification"
+gazette: "Kerala Gazette"
+gazette_number: "36"
+gazette_type: "Ordinary"
+part: "Part III"
+issuer: "Government of Kerala"
+department: "Revenue Department"
+published: "2026-09-08"
+in_force: "2026-09-08"
+in_force_evidence: "published in the Gazette 2026-09-08; no other commencement day stated"
+official_text: "https://compose.kerala.gov.in/kgSearchfiledownloadpdf?b%27gztnotemp=&gztyeartemp=&partdeptId=&partid=&department=&part1id=&part1aid=&part1bid=&part2id=&part3id=&part4id=&searchpdfid=50927&hiddenradiovalue=&organizationvalue=&eognohdn=&eogdatehdn=%27"
+mirror: "https://archive.org/details/in.gazette.keralacompose.2026-09-08.ordinary-50927"
+language: "English text only"
+---
+
+compose.kerala.gov.in Regn.No. KERBIL/2012/45073
+dated 2012-09-05 with RNI egazette.kerala.gov.in
+Reg No.KL/TV(N)/634/2021-2023
+printing.kerala.gov.in
+GOVERNMENT OF KERALA
+KERALA GAZETTE
+PUBLISHED BY AUTHORITY
+Tuesday, 08th September 2026
+23rd Chingam 1202 17th Bhadra 1948
+Vol. XV No.
+Part III
+Commissionerate of Land Revenue
+©
+GOVERNMENT OF KERALA
+
+38409 Revenue Department 08th September 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+IdukkiTaluk
+NOTICE
+
+38410 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+
+38411 Revenue Department 08th September 2026
+____________________________________________________________________________________________________________________________
+
+38412 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+IdukkiTaluk
+NOTICE
+
+38413 Revenue Department 08th September 2026
+____________________________________________________________________________________________________________________________
+Idukki District
+IdukkiTaluk
+NOTICE
+
+38414 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+IdukkiTaluk
+NOTICE
+
+38415 Revenue Department 08th September 2026
+____________________________________________________________________________________________________________________________
+
+38416 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+IdukkiTaluk
+NOTICE
+
+38417 Revenue Department 08th September 2026
+____________________________________________________________________________________________________________________________
+
+38418 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+IdukkiTaluk
+NOTICE
+
+38419 Revenue Department 08th September 2026
+____________________________________________________________________________________________________________________________
+
+38420 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+IdukkiTaluk
+NOTICE
+
+38421 Revenue Department 08th September 2026
+____________________________________________________________________________________________________________________________
+
+38422 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Idukki District
+IdukkiTaluk
+NOTICE
+
+38423 Revenue Department 08th September 2026
+____________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
+PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRESSES
+AT THE GOVERNMENT CENTRAL PRESS, THIRUVANANTHAPURAM, 2026
