@@ -1,0 +1,43 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "663"
+gazette_type: "Extraordinary"
+part: "Part VII"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "PANCHAYAT RAJ AND RURAL DEVELOPMENT"
+subject: "ALLURI SITHARAMA RAJU DISTRICT - BIFURCATION OF Y. RAMAVARAM REVENUE MANDAL INTO Y. RAMAVARAM AND GURTHEDU MANDALS - RECONSTITUTION OF THE EXISTING Y. RAMAVARAM MANDAL PRAJA PARISHAD INTO Y. RAMAVARAM MANDAL PRAJA PARISHAD AND CONSTITUTION OF GURTHEDU MANDAL PRAJA PARISHAD, CORRESPONDING TO THE REVISED JURISDICTIONAL BOUNDARIES OF THE REVENUE MANDALS - NOTIFICATION UNDER SECTION 148(2) OF THE ANDHRA PRADESH PANCHAYAT RAJ ACT, 1994. [G.O.Ms.No.119, Panchayat Raj & Rural Development (MDL-II), 15th September, 2026.]"
+published: "2026-09-15"
+in_force: "2026-09-15"
+in_force_evidence: "published in the Gazette 2026-09-15; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc4OTU3NTM3Niwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3ODk0NTgzNDI4ODMucGRmIn0.5cY3nbNIDeVZopxm_wtwRfB6cGowE6QMNQB6u3xa_nU"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-09-15.663"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART VII EXTRAORDINARY
+No.41 AMARAVATI, TUESDAY, SEPTEMBER 15, 2026 G.663
+NOTIFICATIONS BY GOVERNMENT
+--x--
+PANCHAYAT RAJ & RURAL DEVELOPMENT
+DEPARTMENT
+(MDL.II)
+ALLURI SITHARAMA RAJU DISTRICT - BIFURCATION OF Y. RAMAVARAM
+REVENUE MANDAL INTO Y. RAMAVARAM AND GURTHEDU MANDALS -
+RECONSTITUTION OF THE EXISTING Y. RAMAVARAM MANDAL PRAJA
+PARISHAD INTO Y. RAMAVARAM MANDAL PRAJA PARISHAD AND CONSTITUTION
+OF GURTHEDU MANDAL PRAJA PARISHAD, CORRESPONDING TO THE REVISED
+JURISDICTIONAL BOUNDARIES OF THE REVENUE MANDALS - NOTIFICATION
+UNDER SECTION 148(2) OF THE ANDHRA PRADESH PANCHAYAT RAJ ACT, 1994.
+[G.O.Ms.No.119, Panchayat Raj & Rural Development (MDL-II), 15th September, 2026.]
+KANTILAL DANDE,
+Special Chief Secretary to Government (FAC).
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-VII
+KANTILAL DANDE,
+Special Chief Secretary to Government (FAC).
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
