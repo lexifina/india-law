@@ -1,0 +1,5 @@
+# Section 11A. Director of Inquiry for making preliminary inquiry
+
+11A. Director of Inquiry for making preliminary inquiry.—(1) There shall be a Director of Inquiry, not below the rank of Joint Secretary to the Government of India, who shall be appointed by the Central Government for conducting preliminary inquiries referred to the Commission by the Lokpal.
+
+(2) The Central Government shall provide the Director of Inquiry such officers and employees as may be required for the discharge of his functions under this Act.]
