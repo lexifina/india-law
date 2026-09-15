@@ -1,0 +1,9 @@
+# Section 13A. Duty of registered dealers and exporters to purchase at auction platforms, etc
+
+13A. Duty of registered dealers and exporters to purchase at auction platforms, etc.—No registered dealer or registered exporter shall purchase or cause to be purchased virginia tobacco elsewhere—
+
+(a) than at an auction platform registered with the Board in accordance with the rules made under this Act or established by the Board under this Act; or
+
+(b) than from any other registered dealer or a registered grower or curer:
+
+Provided that in relation to any State in which the provisions of section 13 are not in force, the condition specified under clause (a) shall not apply.

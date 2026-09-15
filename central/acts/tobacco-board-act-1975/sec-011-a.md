@@ -1,0 +1,3 @@
+# Section 11A. Registration of processors and manufacturers of virginia tobacco, etc
+
+11A. Registration of processors and manufacturers of virginia tobacco, etc.—No person shall process virginia tobacco or manufacture products therefrom unless he registers himself as such processor or manufacturer, as the case may be with the Board in accordance with the rules made under this Act.
