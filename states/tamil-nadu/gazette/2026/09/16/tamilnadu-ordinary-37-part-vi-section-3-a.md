@@ -1,0 +1,39 @@
+---
+kind: "gazette-notification"
+gazette: "Tamil Nadu Government Gazette"
+gazette_number: "37"
+gazette_type: "Ordinary"
+part: "Part VI"
+issuer: "Government of Tamil Nadu"
+subject: "Notifications issued by cost-recoverable institutions of State and Central Government. Judicial Notifications - I.P. Notices - State Port Trust - Tamil Nadu Wakf Act. Sub-Court, Namakkal -- JUDICIAL NOTIFICATIONS--Insolvency Petitions in the Court of the Principal Subordinate Judge of Namakkal - Notification No. VI-3(a)/47/2026--(I.P.No.38/2025)--(D.No.1223/2026), Notification No. VI-3(a)/48/2026--(I.P.No.39/2025)--(D.No.1223/2026), Notification No. VI-3(a)/49/2026--(I.P.No.27/2023)--(D.No.1223/2026), Notification No. VI-3(a)/50/2026--(I.P.No.25/2025)--(D.No.1223/2026), Notification No. VI-3(a)/51/2026--(I.P.No.01/2025)--(D.No.1223/2026), Notification No. VI-3(a)/52/2026--(I.P.No.32/2025)--(D.No.1223/2026), Notification No. VI-3(a)/53/2026--(I.P.No.41/2025)--(D.No.1223/2026), Notification No. VI-3(a)/54/2026--(I.P.No.52/2025)--(D.No.1223/2026), Notification No. VI-3(a)/55/2026--(I.P.No.46/2025)--(D.No.1223/2026), Notification No. VI-3(a)/56/2026--(I.P.No.6/2026)--(D.No.1223/2026), Notification No. VI-3(a)/57/2026--(I.P.No.51/2025)--(D.No.1223/2026), Notification No. VI-3(a)/58/2026--(I.P.No.1/2026)--(D.No.1223/2026), Notification No. VI-3(a)/59/2026--(I.P.No.5/2026)--(D.No.1223/2026), Notification No. VI-3(a)/60/2026--(I.P.No.3/2026)--(D.No.1223/2026), Notification No. VI-3(a)/61/2026--(I.P.No.45/2025)--(D.No.1223/2026), Notification No. VI-3(a)/62/2026--(I.P.No.49/2025)--(D.No.1223/2026), Notification No. VI-3(a)/63/2026--(I.P.No.9/2026)--(D.No.1223/2026), Notification No. VI-3(a)/64/2026--(I.P.No.8/2026)--(D.No.1223/2026), Notification No. VI-3(a)/65/2026--(I.P.No.27/2025)--(D.No.1223/2026), Notification No. VI-3(a)/66/2026--(I.P.No.23/2025)--(D.No.1223/2026), Notification No. VI-3(a)/67/2026--(I.P.No.24/2025)--(D.No.1223/2026), Notification No. VI-3(a)/68/2026--(I.P.No.42/2025)--(D.No.1223/2026), Notification No. VI-3(a)/69/2026--(I.P.No.50/2025)--(D.No.1223/2026), Notification No. VI-3(a)/70/2026--(I.P.No.10/2026)--(D.No.1223/2026), Notification No. VI-3(a)/71/2026--(I.P.No.47/2025)--(D.No.1223/2026), Notification No. VI-3(a)/72/2026--(I.P.No.14/2019)--(D.No.1223/2026), Notification No. VI-3(a)/73/2026--(I.P.No.19/2019)--(D.No.1223/2026), Notification No. VI-3(a)/74/2026--(I.P.No.24/2019)--(D.No.1223/2026), Notification No. VI-3(a)/75/2026--(I.P.No.2/2020)--(D.No.1223/2026), Notification No. VI-3(a)/76/2026--(I.P.No.32/2020)--(D.No.1223/2026), Notification No. VI-3(a)/77/2026--(I.P.No.02/2026)--(D.No.1223/2026), Notification No. VI-3(a)/78/2026--(I.P.No.21/2023)--(D.No.1223/2026), Notification No. VI-3(a)/79/2026--(I.P.No.20/2019)--(D.No.1223/2026), Notification No. VI-3(a)/80/2026--(I.P.No.46/2021)--(D.No.1223/2026), Notification No. VI-3(a)/81/2026--(I.P.No.12/2026)--(D.No.1223/2026), Notification No. VI-3(a)/82/2026--(I.P.No.13/2026)--(D.No.1223/2026), Notification No. VI-3(a)/83/2026--(I.P.No.10/2025)--(D.No.1223/2026), Notification No. VI-3(a)/84/2026--(I.P.No.9/2025)--(D.No.1223/2026), Notification No. VI-3(a)/85/2026--(I.P.No.44/2025)--(D.No.1223/2026), Notification No. VI-3(a)/86/2026--(I.P.No.03/2024)--(D.No.1223/2026), Notification No. VI-3(a)/87/2026--(I.P.No.01/2024)--(D.No.1223/2026), Notification No. VI-3(a)/88/2026--(I.P.No.21/2021)--(D.No.1223/2026), Notification No. VI-3(a)/89/2026--(I.P.No.55/2023)--(D.No.1223/2026), Notification No. VI-3(a)/90/2026--(I.P.No.14/2024)--(D.No.1223/2026), Notification No. VI-3(a)/91/2026--(I.P.No.30/2022)--(D.No.1223/2026), Notification No. VI-3(a)/92/2026--(I.P.No.18/2023)--(D.No.1223/2026), Notification No. VI-3(a)/93/2026--(I.P.No.09/2023)--(D.No.1223/2026), Notification No. VI-3(a)/94/2026--(I.P.No.26/2025)--(D.No.1223/2026), Notification No. VI-3(a)/95/2026--(I.P.No.30/2025)--(D.No.1223/2026), Notification No. VI-3(a)/96/2026--(I.P.No.29/2025)--(D.No.1223/2026), Notification No. VI-3(a)/97/2026--(I.P.No.33/2023)--(D.No.1223/2026), Notification No. VI-3(a)/98/2026--(I.P.No.26/2023)--(D.No.1223/2026), Notification No. VI-3(a)/99/2026--(I.P.No.34/2024)--(D.No.1223/2026), Notification No. VI-3(a)/100/2026--(I.P.No.33/2024)--(D.No.1223/2026), Notification No. VI-3(a)/101/2026--(I.P.No.6/2025)--(D.No.1223/2026), Notification No. VI-3(a)/102/2026--(I.P.No.37/2025)--(D.No.1223/2026), Notification No. VI-3(a)/103/2026--(I.P.No.10/2019)--(D.No.1223/2026), Notification No. VI-3(a)/104/2026--(I.P.No.53/2022)--(D.No.1223/2026), Notification No. VI-3(a)/105/2026--(I.P.No.40/2025)--(D.No.1223/2026), Notification No. VI-3(a)/106/2026--(I.P.No.5/2021)--(D.No.1223/2026), Notification No. VI-3(a)/107/2026--(I.P.No.35/2025)--(D.No.1223/2026), Notification No. VI-3(a)/108/2026--(I.P.No.34/2025)--(D.No.1223/2026), Notification No. VI-3(a)/109/2026--(I.P.No.36/2025)--(D.No.1223/2026), Notification No. VI-3(a)/110/2026--(I.P.No.12/2016)--(D.No.1223/2026), Notification No. VI-3(a)/111/2026--(I.P.No.17/2020)--(D.No.1223/2026), Notification No. VI-3(a)/112/2026--(I.P.No.37/2024)--(D.No.1223/2026), Notification No. VI-3(a)/113/2026--(I.P.No.25/2024)--(D.No.1223/2026), Notification No. VI-3(a)/114/2026--(I.P.No.13/2024)--(D.No.1223/2026), Notification No. VI-3(a)/115/2026--(I.P.No.32/2024)--(D.No.1223/2026), Notification No. VI-3(a)/116/2026--(I.P.No.14/2023)--(D.No.1223/2026), Notification No. VI-3(a)/117/2026--(I.P.No.22/2023)--(D.No.1223/2026), Notification No. VI-3(a)/118/2026--(I.P.No.30/2023)--(D.No.1223/2026), Notification No. VI-3(a)/119/2026--(I.P.No.07/2023)--(D.No.1223/2026), Notification No. VI-3(a)/120/2026--(I.P.No.24/2024)--(D.No.1223/2026), Notification No. VI-3(a)/121/2026--(I.P.No.61/2022)--(D.No.1223/2026), Notification No. VI-3(a)/122/2026--(I.P.No.55/2022)--(D.No.1223/2026), Notification No. VI-3(a)/123/2026--(I.P.No.05/2024)--(D.No.1223/2026), Notification No. VI-3(a)/124/2026--(I.P.No.57/2023)--(D.No.1223/2026), Notification No. VI-3(a)/125/2026--(I.P.No.58/2023)--(D.No.1223/2026), Notification No. VI-3(a)/126/2026--(I.P.No.20/2021)--(D.No.1223/2026), Notification No. VI-3(a)/127/2026--(I.P.No.53/2023)--(D.No.1223/2026), Notification No. VI-3(a)/128/2026--(I.P.No.49/2023)--(D.No.1223/2026), Notification No. VI-3(a)/129/2026--(I.P.No.2/2025)--(D.No.1223/2026), Notification No. VI-3(a)/130/2026--(I.P.No.59/2023)--(D.No.1223/2026), Notification No. VI-3(a)/131/2026--(I.P.No.33/2025)--(D.No.1223/2026), Notification No. VI-3(a)/132/2026--(I.P.No.8/2023)--(D.No.1223/2026), Notification No. VI-3(a)/133/2026--(I.P.No.35/2024)--(D.No.1223/2026), Notification No. VI-3(a)/134/2026--(I.P.No.12/2025)--(D.No.1223/2026)"
+published: "2026-09-16"
+in_force: "2026-09-16"
+in_force_evidence: "published in the Gazette 2026-09-16; no other commencement day stated"
+official_text: "https://www.stationeryprinting.tn.gov.in/gazette/2026/37_VI_3a_2026.pdf"
+mirror: "https://archive.org/details/in.gazette.tamilnadu.2026-09-16.Ordinary_37_Part-VI_Section-3-a"
+language: "English text only"
+---
+
+© [Regd. No. TN/CCN/467/2012-14
+[R. Dis. No. 197/2009. GOVERNMENT OF TAMIL NADU
+2026 [Price: Rs. 16.00 Paise.
+TAMIL NADU
+GOVERNMENT GAZETTE
+PUBLISHED BY AUTHORITY
+No.  37] CHENNAI, WEDNESDAY, SEPTEMBER 16, 2026
+Aavani 30, Parabhava, Thiruvalluvar Aandu–2057
+Part  VI—Section 3(a)
+Notifications issued by cost recoverable institutions of
+State and Central Governments.
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, ETC.
+CONTENTS
+Pages.
+JUDICIAL NOTIFICATIONS
+Insolvency Petitions .. .. .. .. .. .. .. .. .. .. 60-98
+[59]
+DTP—VI-3(a)—37
+
+60 TAMIL  NADU  GOVERNMENT  GAZETTE [Part VI—Sec. 3(a)
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, ETC.
+JUDICIAL NOTIFICATIONS
+INSOLVENCY PETITIONS
