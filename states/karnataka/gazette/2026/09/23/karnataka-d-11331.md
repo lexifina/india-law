@@ -1,0 +1,1919 @@
+---
+kind: "gazette-notification"
+gazette: "Karnataka Gazette"
+gazette_type: "Daily"
+issuer: "Government of Karnataka"
+department: "Gazette contains multiple Departments/Organizations"
+subject: "Gazette contains multiple Subjects"
+published: "2026-09-23"
+in_force: "2026-09-23"
+in_force_evidence: "published in the Gazette 2026-09-23; no other commencement day stated"
+official_text: "https://erajyapatra.karnataka.gov.in/%28S%28l0b0gvivehgvj2t2exuiy3rq%29%29/Search1.aspx"
+mirror: "https://archive.org/details/in.gazette.karnataka_d.2026-09-23.11331"
+language: "English text only"
+---
+
+BENGALURU, WEDNESDAY, 23, SEPTEMBER, 2026 (AASHWAYUJA 01, SHAKAVARSHA, 1948) Volume - 161 Issue 185
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Rototec Industries to establish
+the manufacturing unit of “EV Traction Motor Cores &
+Precision” at CBIC TITL Vasanthanarasapura Phase-A
+area, Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no.
+CBIC TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee
+Meeting of CBIC Tumakuru Industrial Township
+Limited held on 27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited
+(TITL) vide letter read at (1) above has informed that the CBIC TITL in its
+2nd Land Allotment Committee Meeting held on 27.07.2026, approved 50
+project proposals covering an extent of 149.30 acres with an investment
+about Rs. 2152.13 crores and employment opportunities about 8944
+people at CBIC TITL Vasantha- narasapura Phase-A area, Tumakuru
+District and to issue the Government Order’s in respect of projects
+approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government
+(1150)
+
+before issuing the concerned Government Order related to land allotment
+and project approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government
+Order in respect of project approval and allotment of land in favour of M/s.
+Rototec Industries.
+Hence the following order.
+GOVERNMENT ORDER No. CI 258 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the
+investment proposal of M/s. Rototec Industries to establish the
+manufacturing unit of “EV Traction Motor Cores & Precision” with an
+investment of Rs. 16.00 crore in 1 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A Area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 1 Acres of land at CBIC TITL
+Vasantanarsapura Phase A area, Tumakuru at
+tentative rate of Rs.199 Lakhs per acre
+Water 10 KLPD from CBIC TITL
+Power 250 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local
+local persons employment as per applicable policy of the
+State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation)
+(Facilitation) (Amendment) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and
+concessions is subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from
+Dept of Forest, Ecology & Environment, Govt. of Karnataka through
+
+0089 BOOKS TWHS, w@aed, 2a, Zaowo*, 90.9% een O
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of
+Applicable Policy of the Govt. of Karnataka with respect to local
+employment on the project. Prepare a plan for development of Human
+Resources required for the project, train local people. A copy of Human
+Resources Development plan shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for
+Industrial Development & Director of Industries and Commerce for
+monitoring.
+3. Vendor Development: Wherever there is scope for vendor development
+for the project, the company shall prepare a vendor development plan,
+develop local vendors and procure the required inputs, components and
+sub-assemblies from these local vendor units. A copy of the vendor
+development plan shall be sent to the Joint Director, District Industries
+Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+4. Social Infrastructure Development: The Company is advised to take
+up social infrastructure development projects under CSR in the vicinity of
+the proposed location of the unit and comply with the stipulation of
+Company Act 2013. A copy of such projects shall be sent to the Joint
+Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and
+Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling
+and water conservation techniques. Zero discharge facility should be
+adopted wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances
+from the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48
+SPI 2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025
+has accorded approval to integrate various clearances / approvals /
+licenses etc. through Single Window portal for the projects approved
+through District Level Single Window Clearance Committee
+(DLSWCC) or State Level Single Window Clearance Committee
+(SLSWCC) or State High Level Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services
+and for filing application for various clearances / approvals /
+licenses/ NoC’s etc from various Departments (Phase II). Application
+may be accessed through https://investkarnataka.co.in and online
+application along with necessary documents may please be filed for
+any clearances / approvals / licenses / NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort
+services for the speedy implementation of the approved project. The
+unit is liable to update the progress made in the implementation of
+the project using login on Single Window portal.
+This approval is valid for a period of two years from the date of issue
+of this Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-355
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Etapro Technologies Private
+Limited to establish the manufacturing unit of “Printed
+Circuit Boards” at CBIC TITL Vasanthanarasapura
+Phase-A area, Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no.
+CBIC TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee
+Meeting of CBIC Tumakuru Industrial Township
+Limited held on 27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited
+(TITL) vide letter read at (1) above has informed that the CBIC TITL in its
+2nd Land Allotment Committee Meeting held on 27.07.2026, approved 50
+project proposals covering an extent of 149.30 acres with an investment
+about Rs. 2152.13 crores and employment opportunities about 8944
+people at CBIC TITL Vasantha- narasapura Phase-A area, Tumakuru
+
+District and to issue the Government Order’s in respect of projects
+approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government
+before issuing the concerned Government Order related to land allotment
+and project approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government
+Order in respect of project approval and allotment of land in favour of M/s.
+Etapro Technologies Private Limited.
+Hence the following order.
+GOVERNMENT ORDER No. CI 259 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the
+investment proposal of M/s. Etapro Technologies Private Limited to
+establish the manufacturing unit of “Printed Circuit Boards” with an
+investment of Rs. 25.00 crore in 2 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A Area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 2 Acres of land at CBIC TITL
+Vasantanarsapura Phase A area, Tumakuru at
+tentative rate of Rs.199 Lakhs per acre
+Water 30 KLPD from CBIC TITL
+Power 250 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local
+local persons employment as per applicable policy of the
+State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation)
+(Facilitation) (Amendment) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and
+concessions is subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from
+Dept of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of
+Applicable Policy of the Govt. of Karnataka with respect to local
+employment on the project. Prepare a plan for development of Human
+Resources required for the project, train local people. A copy of Human
+Resources Development plan shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for
+Industrial Development & Director of Industries and Commerce for
+monitoring.
+3. Vendor Development: Wherever there is scope for vendor development
+for the project, the company shall prepare a vendor development plan,
+develop local vendors and procure the required inputs, components and
+sub-assemblies from these local vendor units. A copy of the vendor
+development plan shall be sent to the Joint Director, District Industries
+Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+4. Social Infrastructure Development: The Company is advised to take
+up social infrastructure development projects under CSR in the vicinity of
+the proposed location of the unit and comply with the stipulation of
+Company Act 2013. A copy of such projects shall be sent to the Joint
+Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and
+Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling
+and water conservation techniques. Zero discharge facility should be
+adopted wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances
+from the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48
+SPI 2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025
+has accorded approval to integrate various clearances / approvals /
+licenses etc. through Single Window portal for the projects approved
+
+through District Level Single Window Clearance Committee
+(DLSWCC) or State Level Single Window Clearance Committee
+(SLSWCC) or State High Level Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services
+and for filing application for various clearances / approvals /
+licenses/ NoC’s etc from various Departments (Phase II). Application
+may be accessed through https://investkarnataka.co.in and online
+application along with necessary documents may please be filed for
+any clearances / approvals / licenses / NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort
+services for the speedy implementation of the approved project. The
+unit is liable to update the progress made in the implementation of
+the project using login on Single Window portal.
+This approval is valid for a period of two years from the date of issue
+of this Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-356
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Rachel Engineering to establish the
+manufacturing unit of “Integrated Aluminium Fabrication
+Laser Pipe CNC Cutting Unit” at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no. CBIC
+TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee Meeting
+of CBIC Tumakuru Industrial Township Limited held on
+27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited (TITL) vide
+letter read at (1) above has informed that the CBIC TITL in its 2nd Land Allotment
+Committee Meeting held on 27.07.2026, approved 50 project proposals covering
+an extent of 149.30 acres with an investment about Rs. 2152.13 crores and
+
+employment opportunities about 8944 people at CBIC TITL Vasantha-
+narasapura Phase-A area, Tumakuru District and to issue the Government
+Order’s in respect of projects approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government before
+issuing the concerned Government Order related to land allotment and project
+approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government Order in
+respect of project approval and allotment of land in favour of M/s. Rachel
+Engineering.
+Hence the following order.
+GOVERNMENT ORDER No. CI 260 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the investment
+proposal of M/s. Rachel Engineering to establish the manufacturing unit of
+“Integrated Aluminium Fabrication Laser Pipe CNC Cutting Unit” with an
+investment of Rs. 20.00 crore in 2 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 2 Acres of land at CBIC TITL Vasantanarsapura
+Phase A area, Tumakuru at tentative rate of
+Rs.199 Lakhs per acre
+Water 5000 KLPD from CBIC TITL
+Power 100 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local employment as
+local persons per applicable policy of the State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation) (Amendment)
+(Facilitation) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and concessions is
+subject to the following terms and conditions:
+
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from Dept
+of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of Applicable
+Policy of the Govt. of Karnataka with respect to local employment on the project.
+Prepare a plan for development of Human Resources required for the project,
+train local people. A copy of Human Resources Development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+3. Vendor Development: Wherever there is scope for vendor development for the
+project, the company shall prepare a vendor development plan, develop local
+vendors and procure the required inputs, components and sub-assemblies from
+these local vendor units. A copy of the vendor development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+4. Social Infrastructure Development: The Company is advised to take up
+social infrastructure development projects under CSR in the vicinity of the
+proposed location of the unit and comply with the stipulation of Company Act
+2013. A copy of such projects shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling and
+water conservation techniques. Zero discharge facility should be adopted
+wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances from
+the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48 SPI
+2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025 has
+accorded approval to integrate various clearances / approvals / licenses
+etc. through Single Window portal for the projects approved through
+District Level Single Window Clearance Committee (DLSWCC) or State Level
+Single Window Clearance Committee (SLSWCC) or State High Level
+Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services and for
+filing application for various clearances / approvals / licenses/ NoC’s etc
+from various Departments (Phase II). Application may be accessed through
+
+https://investkarnataka.co.in and online application along with necessary
+documents may please be filed for any clearances / approvals / licenses /
+NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort services
+for the speedy implementation of the approved project. The unit is liable to
+update the progress made in the implementation of the project using login
+on Single Window portal.
+This approval is valid for a period of two years from the date of issue of this
+Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-357
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Pixels Control to establish the
+manufacturing unit of “Garment and accessories” at
+CBIC TITL Vasanthanarasapura Phase-A area,
+Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no.
+CBIC TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee
+Meeting of CBIC Tumakuru Industrial Township
+Limited held on 27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited
+(TITL) vide letter read at (1) above has informed that the CBIC TITL in its
+2nd Land Allotment Committee Meeting held on 27.07.2026, approved 50
+project proposals covering an extent of 149.30 acres with an investment
+about Rs. 2152.13 crores and employment opportunities about 8944
+people at CBIC TITL Vasantha- narasapura Phase-A area, Tumakuru
+District and to issue the Government Order’s in respect of projects
+approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government
+
+before issuing the concerned Government Order related to land allotment
+and project approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government
+Order in respect of project approval and allotment of land in favour of M/s.
+Pixels Control.
+Hence the following order.
+GOVERNMENT ORDER No. CI 261 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the
+investment proposal of M/s. Pixels Control to establish the manufacturing
+unit of “Garment and accessories” with an investment of Rs. 9.20 crore in 1
+acres of land at CBIC TITL Vasanthanarasapura Phase-A area, Tumakuru
+District with the following infrastructure assistances, incentives and
+concessions:
+Land 1 Acres of land at CBIC TITL
+Vasantanarsapura Phase A area, Tumakuru at
+tentative rate of Rs.199 Lakhs per acre
+Water 5 KLPD from CBIC TITL
+Power 500 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local
+local persons employment as per applicable policy of the
+State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation)
+(Facilitation) (Amendment) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and
+concessions is subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from
+Dept of Forest, Ecology & Environment, Govt. of Karnataka through
+
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of
+Applicable Policy of the Govt. of Karnataka with respect to local
+employment on the project. Prepare a plan for development of Human
+Resources required for the project, train local people. A copy of Human
+Resources Development plan shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for
+Industrial Development & Director of Industries and Commerce for
+monitoring.
+3. Vendor Development: Wherever there is scope for vendor development
+for the project, the company shall prepare a vendor development plan,
+develop local vendors and procure the required inputs, components and
+sub-assemblies from these local vendor units. A copy of the vendor
+development plan shall be sent to the Joint Director, District Industries
+Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+4. Social Infrastructure Development: The Company is advised to take
+up social infrastructure development projects under CSR in the vicinity of
+the proposed location of the unit and comply with the stipulation of
+Company Act 2013. A copy of such projects shall be sent to the Joint
+Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and
+Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling
+and water conservation techniques. Zero discharge facility should be
+adopted wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances
+from the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48
+SPI 2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025
+has accorded approval to integrate various clearances / approvals /
+licenses etc. through Single Window portal for the projects approved
+through District Level Single Window Clearance Committee
+(DLSWCC) or State Level Single Window Clearance Committee
+(SLSWCC) or State High Level Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services
+and for filing application for various clearances / approvals /
+licenses/ NoC’s etc from various Departments (Phase II). Application
+may be accessed through https://investkarnataka.co.in and online
+application along with necessary documents may please be filed for
+any clearances / approvals / licenses / NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort
+services for the speedy implementation of the approved project. The
+unit is liable to update the progress made in the implementation of
+the project using login on Single Window portal.
+This approval is valid for a period of two years from the date of issue
+of this Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-358
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Excel Forge Tech to establish the
+manufacturing unit of “High-Quality Shafts, Rounds,
+Spindles, Rings and Open Die Forgings and Manufacture &
+export a comprehensive range of world class industrial Forge
+rings, steel forged shafts, automotive forged blanks, precision
+forged Spindles, industrial open die forged components” at
+CBIC TITL Vasanthanarasapura Phase-A area, Tumakuru
+District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no. CBIC
+TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee Meeting
+of CBIC Tumakuru Industrial Township Limited held on
+27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited
+(TITL) vide letter read at (1) above has informed that the CBIC TITL in its
+2nd Land Allotment Committee Meeting held on 27.07.2026, approved 50
+project proposals covering an extent of 149.30 acres with an investment
+
+about Rs. 2152.13 crores and employment opportunities about 8944
+people at CBIC TITL Vasantha- narasapura Phase-A area, Tumakuru
+District and to issue the Government Order’s in respect of projects
+approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government
+before issuing the concerned Government Order related to land allotment
+and project approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government
+Order in respect of project approval and allotment of land in favour of M/s.
+Excel Forge Tech.
+Hence the following order.
+GOVERNMENT ORDER No. CI 262 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the
+investment proposal of M/s. Excel Forge Tech to establish the
+manufacturing unit of “High-Quality Shafts, Rounds, Spindles, Rings and
+Open Die Forgings and Manufacture & export a comprehensive range of
+world class industrial Forge rings, steel forged shafts, automotive forged
+blanks, precision forged Spindles, industrial open die forged components”
+with an investment of Rs. 29.60 crore in 3 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A Area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 3 Acres of land at CBIC TITL Vasantanarsapura
+Phase A area, Tumakuru at tentative rate of
+Rs.199 Lakhs per acre
+Water 3 KLPD from CBIC TITL
+Power 500 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local employment as
+local persons per applicable policy of the State
+Eligibility of the Project The project proponents may opt to furnish
+for deemed clearance
+Combined Application Form (Form 4, Rule 8(b)
+under Karnataka
+along with relevant fee and self certification for
+Industries (Facilitation)
+issue of acknowledgment certificate under
+(Amendment) Act, 2020
+Karnataka Industries (Facilitation) (Amendment)
+Act, 2020
+
+Sanction of the above infrastructure assistances, incentives and
+concessions is subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from
+Dept of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of
+Applicable Policy of the Govt. of Karnataka with respect to local
+employment on the project. Prepare a plan for development of Human
+Resources required for the project, train local people. A copy of Human
+Resources Development plan shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for
+Industrial Development & Director of Industries and Commerce for
+monitoring.
+3. Vendor Development: Wherever there is scope for vendor development
+for the project, the company shall prepare a vendor development plan,
+develop local vendors and procure the required inputs, components and
+sub-assemblies from these local vendor units. A copy of the vendor
+development plan shall be sent to the Joint Director, District Industries
+Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+4. Social Infrastructure Development: The Company is advised to take
+up social infrastructure development projects under CSR in the vicinity of
+the proposed location of the unit and comply with the stipulation of
+Company Act 2013. A copy of such projects shall be sent to the Joint
+Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and
+Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling
+and water conservation techniques. Zero discharge facility should be
+adopted wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances
+from the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48
+SPI 2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025
+has accorded approval to integrate various clearances / approvals /
+licenses etc. through Single Window portal for the projects approved
+
+through District Level Single Window Clearance Committee
+(DLSWCC) or State Level Single Window Clearance Committee
+(SLSWCC) or State High Level Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services
+and for filing application for various clearances / approvals /
+licenses/ NoC’s etc from various Departments (Phase II). Application
+may be accessed through https://investkarnataka.co.in and online
+application along with necessary documents may please be filed for
+any clearances / approvals / licenses / NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort
+services for the speedy implementation of the approved project. The
+unit is liable to update the progress made in the implementation of
+the project using login on Single Window portal.
+This approval is valid for a period of two years from the date of issue
+of this Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-359
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Box N Packs India Private
+Limited to establish the manufacturing unit of “Plastic
+Packaging Plant with Injection-IML, Thermoforming, In-
+House Recycling” at CBIC TITL Vasanthanarasapura
+Phase-A area, Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no.
+CBIC TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee
+Meeting of CBIC Tumakuru Industrial Township
+Limited held on 27.07.2026.
+__
+Preamble:
+Managing Director, CBIC Tumakuru Industrial Township Limited
+(TITL) vide letter read at (1) above has informed that the CBIC TITL in its
+2nd Land Allotment Committee Meeting held on 27.07.2026, approved 50
+
+project proposals covering an extent of 149.30 acres with an investment
+about Rs. 2152.13 crores and employment opportunities about 8944
+people at CBIC TITL Vasantha- narasapura Phase-A area, Tumakuru
+District and to issue the Government Order’s in respect of projects
+approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government
+before issuing the concerned Government Order related to land allotment
+and project approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government
+Order in respect of project approval and allotment of land in favour of M/s.
+Box N Packs India Private Limited.
+Hence the following order.
+GOVERNMENT ORDER No. CI 263 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the
+investment proposal of M/s. Box N Packs India Private Limited to establish
+the manufacturing unit of “Plastic Packaging Plant with Injection-IML,
+Thermoforming, In-House Recycling” with an investment of Rs. 28.50 crore
+in 1 acres of land at CBIC TITL Vasanthanarasapura Phase-A area,
+Tumakuru District with the following infrastructure assistances, incentives
+and concessions:
+Land 1 Acres of land at CBIC TITL Vasantanarsapura
+Phase A area, Tumakuru at tentative rate of
+Rs.199 Lakhs per acre
+Water 36 KLPD from CBIC TITL
+Power 800 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local employment as
+local persons per applicable policy of the State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka Industries
+issue of acknowledgment certificate under
+(Facilitation)
+Karnataka Industries (Facilitation) (Amendment)
+(Amendment) Act,
+Act, 2020
+
+Sanction of the above infrastructure assistances, incentives and
+concessions is subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from
+Dept of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of
+Applicable Policy of the Govt. of Karnataka with respect to local
+employment on the project. Prepare a plan for development of Human
+Resources required for the project, train local people. A copy of Human
+Resources Development plan shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for
+Industrial Development & Director of Industries and Commerce for
+monitoring.
+3. Vendor Development: Wherever there is scope for vendor development
+for the project, the company shall prepare a vendor development plan,
+develop local vendors and procure the required inputs, components and
+sub-assemblies from these local vendor units. A copy of the vendor
+development plan shall be sent to the Joint Director, District Industries
+Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+4. Social Infrastructure Development: The Company is advised to take
+up social infrastructure development projects under CSR in the vicinity of
+the proposed location of the unit and comply with the stipulation of
+Company Act 2013. A copy of such projects shall be sent to the Joint
+Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and
+Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling
+and water conservation techniques. Zero discharge facility should be
+adopted wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances
+from the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48
+SPI 2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025
+has accorded approval to integrate various clearances / approvals /
+licenses etc. through Single Window portal for the projects approved
+
+through District Level Single Window Clearance Committee
+(DLSWCC) or State Level Single Window Clearance Committee
+(SLSWCC) or State High Level Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services
+and for filing application for various clearances / approvals /
+licenses/ NoC’s etc from various Departments (Phase II). Application
+may be accessed through https://investkarnataka.co.in and online
+application along with necessary documents may please be filed for
+any clearances / approvals / licenses / NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort
+services for the speedy implementation of the approved project. The
+unit is liable to update the progress made in the implementation of
+the project using login on Single Window portal.
+This approval is valid for a period of two years from the date of issue
+of this Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-360
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Swadi Minerals and Chemicals to
+establish the manufacturing unit of “Construction Chemical
+which is categorized into 1. Flooring Compounds, 2.
+Waterproofing Chemicals, 3. Sealants, 4. Chemicals to Repair
+and Rehabilitate Structures, 5. Concrete Admixtures” at CBIC
+TITL Vasanthanarasapura Phase-A area, Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no. CBIC
+TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee Meeting
+of CBIC Tumakuru Industrial Township Limited held on
+27.07.2026.
+__
+Preamble:
+Managing Director, CBIC Tumakuru Industrial Township Limited
+(TITL) vide letter read at (1) above has informed that the CBIC TITL in its
+2nd Land Allotment Committee Meeting held on 27.07.2026, approved 50
+project proposals covering an extent of 149.30 acres with an investment
+about Rs. 2152.13 crores and employment opportunities about 8944
+
+people at CBIC TITL Vasantha- narasapura Phase-A area, Tumakuru
+District and to issue the Government Order’s in respect of projects
+approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government
+before issuing the concerned Government Order related to land allotment
+and project approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government
+Order in respect of project approval and allotment of land in favour of M/s.
+Swadi Minerals and Chemicals.
+Hence the following order.
+GOVERNMENT ORDER No. CI 264 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the
+investment proposal of M/s. Swadi Minerals and Chemicals to establish the
+manufacturing unit of “Construction Chemical which is categorized into 1.
+Flooring Compounds, 2. Waterproofing Chemicals, 3. Sealants, 4.
+Chemicals to Repair and Rehabilitate Structures, 5. Concrete Admixtures”
+with an investment of Rs. 15.13 crore in 1.50 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 1.50 Acres of land at CBIC TITL
+Vasantanarsapura Phase A area, Tumakuru at
+tentative rate of Rs.199 Lakhs per acre
+Water 0.01KLPD from CBIC TITL
+Power 500 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local
+local persons employment as per applicable policy of the
+State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed
+Combined Application Form (Form 4, Rule 8(b)
+clearance under
+along with relevant fee and self certification for
+Karnataka Industries
+issue of acknowledgment certificate under
+(Facilitation)
+Karnataka Industries (Facilitation) (Amendment) Act,
+2020 (Amendment) Act, 2020
+
+Sanction of the above infrastructure assistances, incentives and
+concessions is subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from
+Dept of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of
+Applicable Policy of the Govt. of Karnataka with respect to local
+employment on the project. Prepare a plan for development of Human
+Resources required for the project, train local people. A copy of Human
+Resources Development plan shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for
+Industrial Development & Director of Industries and Commerce for
+monitoring.
+3. Vendor Development: Wherever there is scope for vendor development
+for the project, the company shall prepare a vendor development plan,
+develop local vendors and procure the required inputs, components and
+sub-assemblies from these local vendor units. A copy of the vendor
+development plan shall be sent to the Joint Director, District Industries
+Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+4. Social Infrastructure Development: The Company is advised to take
+up social infrastructure development projects under CSR in the vicinity of
+the proposed location of the unit and comply with the stipulation of
+Company Act 2013. A copy of such projects shall be sent to the Joint
+Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and
+Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling
+and water conservation techniques. Zero discharge facility should be
+adopted wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances
+from the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48
+SPI 2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025
+has accorded approval to integrate various clearances / approvals /
+licenses etc. through Single Window portal for the projects approved
+
+through District Level Single Window Clearance Committee
+(DLSWCC) or State Level Single Window Clearance Committee
+(SLSWCC) or State High Level Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services
+and for filing application for various clearances / approvals /
+licenses/ NoC’s etc from various Departments (Phase II). Application
+may be accessed through https://investkarnataka.co.in and online
+application along with necessary documents may please be filed for
+any clearances / approvals / licenses / NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort
+services for the speedy implementation of the approved project. The
+unit is liable to update the progress made in the implementation of
+the project using login on Single Window portal.
+This approval is valid for a period of two years from the date of issue
+of this Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-361
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Canara Electricals and Enterprises
+to establish the manufacturing unit of “Control Panels, LED
+Lights, Solar Panels & Solar Street lights” at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no. CBIC
+TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee Meeting
+of CBIC Tumakuru Industrial Township Limited held on
+27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited (TITL) vide
+letter read at (1) above has informed that the CBIC TITL in its 2nd Land Allotment
+Committee Meeting held on 27.07.2026, approved 50 project proposals covering
+an extent of 149.30 acres with an investment about Rs. 2152.13 crores and
+employment opportunities about 8944 people at CBIC TITL Vasantha-
+
+narasapura Phase-A area, Tumakuru District and to issue the Government
+Order’s in respect of projects approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government before
+issuing the concerned Government Order related to land allotment and project
+approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government Order in
+respect of project approval and allotment of land in favour of M/s. Canara
+Electricals and Enterprises.
+Hence the following order.
+GOVERNMENT ORDER No. CI 265 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the investment
+proposal of M/s. Canara Electricals and Enterprises to establish the
+manufacturing unit of “Control Panels, LED Lights, Solar Panels & Solar Street
+lights” with an investment of Rs. 22.10 crore in 2 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 2 Acres of land at CBIC TITL Vasantanarsapura
+Phase A area, Tumakuru at tentative rate of
+Rs.199 Lakhs per acre
+Water 2 KLPD from CBIC TITL
+Power 100 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local employment as
+local persons per applicable policy of the State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation) (Amendment)
+(Facilitation) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and concessions is
+subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from Dept
+
+of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of Applicable
+Policy of the Govt. of Karnataka with respect to local employment on the project.
+Prepare a plan for development of Human Resources required for the project,
+train local people. A copy of Human Resources Development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+3. Vendor Development: Wherever there is scope for vendor development for the
+project, the company shall prepare a vendor development plan, develop local
+vendors and procure the required inputs, components and sub-assemblies from
+these local vendor units. A copy of the vendor development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+4. Social Infrastructure Development: The Company is advised to take up
+social infrastructure development projects under CSR in the vicinity of the
+proposed location of the unit and comply with the stipulation of Company Act
+2013. A copy of such projects shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling and
+water conservation techniques. Zero discharge facility should be adopted
+wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances from
+the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48 SPI
+2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025 has
+accorded approval to integrate various clearances / approvals / licenses
+etc. through Single Window portal for the projects approved through
+District Level Single Window Clearance Committee (DLSWCC) or State Level
+Single Window Clearance Committee (SLSWCC) or State High Level
+Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services and for
+filing application for various clearances / approvals / licenses/ NoC’s etc
+from various Departments (Phase II). Application may be accessed through
+https://investkarnataka.co.in and online application along with necessary
+
+documents may please be filed for any clearances / approvals / licenses /
+NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort services
+for the speedy implementation of the approved project. The unit is liable to
+update the progress made in the implementation of the project using login
+on Single Window portal.
+This approval is valid for a period of two years from the date of issue of this
+Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-362
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Surya Colour Chem to establish
+the manufacturing unit of “Resins, Alkyd, Acrylic
+Resins, Polyurethane dispersion’s and Polyester Resins”
+at CBIC TITL Vasanthanarasapura Phase-A area,
+Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no.
+CBIC TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee
+Meeting of CBIC Tumakuru Industrial Township
+Limited held on 27.07.2026.
+__
+Preamble:
+Managing Director, CBIC Tumakuru Industrial Township Limited
+(TITL) vide letter read at (1) above has informed that the CBIC TITL in its
+2nd Land Allotment Committee Meeting held on 27.07.2026, approved 50
+project proposals covering an extent of 149.30 acres with an investment
+about Rs. 2152.13 crores and employment opportunities about 8944
+people at CBIC TITL Vasantha- narasapura Phase-A area, Tumakuru
+District and to issue the Government Order’s in respect of projects
+approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government
+
+before issuing the concerned Government Order related to land allotment
+and project approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government
+Order in respect of project approval and allotment of land in favour of M/s.
+Surya Colour Chem.
+Hence the following order.
+GOVERNMENT ORDER No. CI 266 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the
+investment proposal of M/s. Surya Colour Chem to establish the
+manufacturing unit of “Resins, Alkyd, Acrylic Resins, Polyurethane
+dispersion’s and Polyester Resins” with an investment of Rs. 24.80 crore in
+1 acres of land at CBIC TITL Vasanthanarasapura Phase-A area,
+Tumakuru District with the following infrastructure assistances, incentives
+and concessions:
+Land 2 Acres of land at CBIC TITL
+Vasantanarsapura Phase A area, Tumakuru at
+tentative rate of Rs.199 Lakhs per acre
+Water 2 KLPD from CBIC TITL
+Power 100 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local
+local persons employment as per applicable policy of the
+State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation)
+(Facilitation) (Amendment) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and
+concessions is subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from
+Dept of Forest, Ecology & Environment, Govt. of Karnataka through
+
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of
+Applicable Policy of the Govt. of Karnataka with respect to local
+employment on the project. Prepare a plan for development of Human
+Resources required for the project, train local people. A copy of Human
+Resources Development plan shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for
+Industrial Development & Director of Industries and Commerce for
+monitoring.
+3. Vendor Development: Wherever there is scope for vendor development
+for the project, the company shall prepare a vendor development plan,
+develop local vendors and procure the required inputs, components and
+sub-assemblies from these local vendor units. A copy of the vendor
+development plan shall be sent to the Joint Director, District Industries
+Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+4. Social Infrastructure Development: The Company is advised to take
+up social infrastructure development projects under CSR in the vicinity of
+the proposed location of the unit and comply with the stipulation of
+Company Act 2013. A copy of such projects shall be sent to the Joint
+Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and
+Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling
+and water conservation techniques. Zero discharge facility should be
+adopted wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances
+from the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48
+SPI 2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025
+has accorded approval to integrate various clearances / approvals /
+licenses etc. through Single Window portal for the projects approved
+through District Level Single Window Clearance Committee
+(DLSWCC) or State Level Single Window Clearance Committee
+(SLSWCC) or State High Level Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services
+and for filing application for various clearances / approvals /
+licenses/ NoC’s etc from various Departments (Phase II). Application
+may be accessed through https://investkarnataka.co.in and online
+application along with necessary documents may please be filed for
+any clearances / approvals / licenses / NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort
+services for the speedy implementation of the approved project. The
+unit is liable to update the progress made in the implementation of
+the project using login on Single Window portal.
+This approval is valid for a period of two years from the date of issue
+of this Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-363
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Mayuri Food & Beverages to
+establish the manufacturing unit of “food products and
+Edible Oils” at CBIC TITL Vasanthanarasapura Phase-A
+area, Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no.
+CBIC TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee
+Meeting of CBIC Tumakuru Industrial Township
+Limited held on 27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited
+(TITL) vide letter read at (1) above has informed that the CBIC TITL in its
+2nd Land Allotment Committee Meeting held on 27.07.2026, approved 50
+project proposals covering an extent of 149.30 acres with an investment
+about Rs. 2152.13 crores and employment opportunities about 8944
+people at CBIC TITL Vasantha- narasapura Phase-A area, Tumakuru
+
+District and to issue the Government Order’s in respect of projects
+approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government
+before issuing the concerned Government Order related to land allotment
+and project approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government
+Order in respect of project approval and allotment of land in favour of M/s.
+Mayuri Food & Beverages.
+Hence the following order.
+GOVERNMENT ORDER No. CI 267 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the
+investment proposal of M/s. Mayuri Food & Beverages to establish the
+manufacturing unit of “food products and Edible Oils” with an investment
+of Rs. 16.00 crore in 1 acres of land at CBIC TITL Vasanthanarasapura
+Phase-A area, Tumakuru District with the following infrastructure
+assistances, incentives and concessions:
+Land 1 Acres of land at CBIC TITL
+Vasantanarsapura Phase A area, Tumakuru at
+tentative rate of Rs.199 Lakhs per acre
+Water 2 KLPD from CBIC TITL
+Power 65 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local
+local persons employment as per applicable policy of the
+State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation)
+(Facilitation) (Amendment) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and
+concessions is subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from
+Dept of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of
+Applicable Policy of the Govt. of Karnataka with respect to local
+employment on the project. Prepare a plan for development of Human
+Resources required for the project, train local people. A copy of Human
+Resources Development plan shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for
+Industrial Development & Director of Industries and Commerce for
+monitoring.
+3. Vendor Development: Wherever there is scope for vendor development
+for the project, the company shall prepare a vendor development plan,
+develop local vendors and procure the required inputs, components and
+sub-assemblies from these local vendor units. A copy of the vendor
+development plan shall be sent to the Joint Director, District Industries
+Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+4. Social Infrastructure Development: The Company is advised to take
+up social infrastructure development projects under CSR in the vicinity of
+the proposed location of the unit and comply with the stipulation of
+Company Act 2013. A copy of such projects shall be sent to the Joint
+Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and
+Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling
+and water conservation techniques. Zero discharge facility should be
+adopted wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances
+from the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48
+SPI 2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025
+has accorded approval to integrate various clearances / approvals /
+licenses etc. through Single Window portal for the projects approved
+
+through District Level Single Window Clearance Committee
+(DLSWCC) or State Level Single Window Clearance Committee
+(SLSWCC) or State High Level Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services
+and for filing application for various clearances / approvals /
+licenses/ NoC’s etc from various Departments (Phase II). Application
+may be accessed through https://investkarnataka.co.in and online
+application along with necessary documents may please be filed for
+any clearances / approvals / licenses / NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort
+services for the speedy implementation of the approved project. The
+unit is liable to update the progress made in the implementation of
+the project using login on Single Window portal.
+This approval is valid for a period of two years from the date of issue
+of this Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-364
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Vipula Health Care to establish the
+manufacturing unit of “Veterinary feed supplements (Liquid
+and powder formulation)” at CBIC TITL Vasanthanarasapura
+Phase-A area, Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no. CBIC
+TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee Meeting
+of CBIC Tumakuru Industrial Township Limited held on
+27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited (TITL) vide
+letter read at (1) above has informed that the CBIC TITL in its 2nd Land Allotment
+Committee Meeting held on 27.07.2026, approved 50 project proposals covering
+an extent of 149.30 acres with an investment about Rs. 2152.13 crores and
+employment opportunities about 8944 people at CBIC TITL Vasantha-
+
+narasapura Phase-A area, Tumakuru District and to issue the Government
+Order’s in respect of projects approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government before
+issuing the concerned Government Order related to land allotment and project
+approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government Order in
+respect of project approval and allotment of land in favour of M/s. Vipula Health
+Care.
+Hence the following order.
+GOVERNMENT ORDER No. CI 268 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the investment
+proposal of M/s. Vipula Health Care to establish the manufacturing unit of
+“Veterinary feed supplements (Liquid and powder formulation)” with an
+investment of Rs. 16.40 crore in 1 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 1 Acres of land at CBIC TITL Vasantanarsapura
+Phase A area, Tumakuru at tentative rate of
+Rs.199 Lakhs per acre
+Water 2 KLPD from CBIC TITL
+Power 100 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local employment as
+local persons per applicable policy of the State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation) (Amendment)
+(Facilitation) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and concessions is
+subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from Dept
+
+of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of Applicable
+Policy of the Govt. of Karnataka with respect to local employment on the project.
+Prepare a plan for development of Human Resources required for the project,
+train local people. A copy of Human Resources Development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+3. Vendor Development: Wherever there is scope for vendor development for the
+project, the company shall prepare a vendor development plan, develop local
+vendors and procure the required inputs, components and sub-assemblies from
+these local vendor units. A copy of the vendor development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+4. Social Infrastructure Development: The Company is advised to take up
+social infrastructure development projects under CSR in the vicinity of the
+proposed location of the unit and comply with the stipulation of Company Act
+2013. A copy of such projects shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling and
+water conservation techniques. Zero discharge facility should be adopted
+wherever applicable.
+b. The company shall take all statutory and other necessary clearances from
+the competent authorities including from Govt. of India.
+c. As part of “Ease of Doing Business” Government vide order No. CI 48 SPI
+2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025 has
+accorded approval to integrate various clearances / approvals / licenses
+etc. through Single Window portal for the projects approved through
+District Level Single Window Clearance Committee (DLSWCC) or State Level
+Single Window Clearance Committee (SLSWCC) or State High Level
+Clearance Committee (SHLCC).
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services and for
+filing application for various clearances / approvals / licenses/ NoC’s etc
+from various Departments (Phase II). Application may be accessed through
+https://investkarnataka.co.in and online application along with necessary
+documents may please be filed for any clearances / approvals / licenses /
+NOCs etc.
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort services
+for the speedy implementation of the approved project. The unit is liable to
+
+update the progress made in the implementation of the project using login
+on Single Window portal.
+
+This approval is valid for a period of two years from the date of issue of this
+Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-365
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. SASA Nexgen Manufacturing Private
+Limited to establish the manufacturing unit of “Stainless
+Steel Gym Shakers, Stainless Steel Insulated Bottles, Oil
+Dispensers, and Stainless Steel Home & Kitchen Utensils” at
+CBIC TITL Vasanthanarasapura Phase-A area, Tumakuru
+District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no. CBIC
+TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee Meeting
+of CBIC Tumakuru Industrial Township Limited held on
+27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited (TITL) vide
+letter read at (1) above has informed that the CBIC TITL in its 2nd Land Allotment
+Committee Meeting held on 27.07.2026, approved 50 project proposals covering
+an extent of 149.30 acres with an investment about Rs. 2152.13 crores and
+employment opportunities about 8944 people at CBIC TITL Vasantha-
+narasapura Phase-A area, Tumakuru District and to issue the Government
+Order’s in respect of projects approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government before
+issuing the concerned Government Order related to land allotment and project
+approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government Order in
+respect of project approval and allotment of land in favour of M/s. SASA Nexgen
+Manufacturing Private Limited.
+
+Hence the following order.
+GOVERNMENT ORDER No. CI 269 SPI 2026, BENGALURU,
+DATED 01.09.2026
+Government is pleased to accord in-principle approval to the investment
+proposal of M/s. SASA Nexgen Manufacturing Private Limited to establish the
+manufacturing unit of “Stainless Steel Gym Shakers, Stainless Steel Insulated
+Bottles, Oil Dispensers, and Stainless Steel Home & Kitchen Utensils” with an
+investment of Rs. 19.50 crore in 1 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 1 Acres of land at CBIC TITL Vasantanarsapura
+Phase A area, Tumakuru at tentative rate of
+Rs.199 Lakhs per acre
+Water 9 KLPD from CBIC TITL
+Power 150 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local employment as
+local persons per applicable policy of the State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation) (Amendment)
+(Facilitation) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and concessions is
+subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from Dept
+of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of Applicable
+Policy of the Govt. of Karnataka with respect to local employment on the project.
+Prepare a plan for development of Human Resources required for the project,
+train local people. A copy of Human Resources Development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+3. Vendor Development: Wherever there is scope for vendor development for the
+project, the company shall prepare a vendor development plan, develop local
+
+vendors and procure the required inputs, components and sub-assemblies from
+these local vendor units. A copy of the vendor development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+4. Social Infrastructure Development: The Company is advised to take up
+social infrastructure development projects under CSR in the vicinity of the
+proposed location of the unit and comply with the stipulation of Company Act
+2013. A copy of such projects shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling and
+water conservation techniques. Zero discharge facility should be adopted
+wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances from
+the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48 SPI
+2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025 has
+accorded approval to integrate various clearances / approvals / licenses
+etc. through Single Window portal for the projects approved through
+District Level Single Window Clearance Committee (DLSWCC) or State Level
+Single Window Clearance Committee (SLSWCC) or State High Level
+Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services and for
+filing application for various clearances / approvals / licenses/ NoC’s etc
+from various Departments (Phase II). Application may be accessed through
+https://investkarnataka.co.in and online application along with necessary
+documents may please be filed for any clearances / approvals / licenses /
+NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort services
+for the speedy implementation of the approved project. The unit is liable to
+update the progress made in the implementation of the project using login
+on Single Window portal.
+This approval is valid for a period of two years from the date of issue of this
+Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-366
+
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Nikoarc Industries Private Limited to
+establish the manufacturing unit of “Hub Development for
+Laser, Plasma, and Robotic Automation Facility, 1700
+Number” at CBIC TITL Vasanthanarasapura Phase-A area,
+Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no. CBIC
+TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee Meeting
+of CBIC Tumakuru Industrial Township Limited held on
+27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited (TITL) vide
+letter read at (1) above has informed that the CBIC TITL in its 2nd Land Allotment
+Committee Meeting held on 27.07.2026, approved 50 project proposals covering
+an extent of 149.30 acres with an investment about Rs. 2152.13 crores and
+employment opportunities about 8944 people at CBIC TITL Vasantha-
+narasapura Phase-A area, Tumakuru District and to issue the Government
+Order’s in respect of projects approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government before
+issuing the concerned Government Order related to land allotment and project
+approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government Order in
+respect of project approval and allotment of land in favour of M/s. Nikoarc
+Industries Private Limited.
+Hence the following order.
+GOVERNMENT ORDER No. CI 270 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the investment
+proposal of M/s. Nikoarc Industries Private Limited to establish the
+manufacturing unit of “Hub Development for Laser, Plasma, and Robotic
+Automation Facility, 1700 Number” with an investment of Rs. 16.00 crore in 1
+acres of land at CBIC TITL Vasanthanarasapura Phase-A area, Tumakuru District
+with the following infrastructure assistances, incentives and concessions:
+
+Land 1 Acres of land at CBIC TITL Vasantanarsapura
+Phase A area, Tumakuru at tentative rate of
+Rs.199 Lakhs per acre
+Water 2 KLPD from CBIC TITL
+Power 100 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local employment as
+local persons per applicable policy of the State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation) (Amendment)
+(Facilitation) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and concessions is
+subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from Dept
+of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of Applicable
+Policy of the Govt. of Karnataka with respect to local employment on the project.
+Prepare a plan for development of Human Resources required for the project,
+train local people. A copy of Human Resources Development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+3. Vendor Development: Wherever there is scope for vendor development for the
+project, the company shall prepare a vendor development plan, develop local
+vendors and procure the required inputs, components and sub-assemblies from
+these local vendor units. A copy of the vendor development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+4. Social Infrastructure Development: The Company is advised to take up
+social infrastructure development projects under CSR in the vicinity of the
+proposed location of the unit and comply with the stipulation of Company Act
+2013. A copy of such projects shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling and water
+conservation techniques. Zero discharge facility should be adopted wherever
+applicable.
+b. The company shall take all statutory and other necessary clearances from the
+competent authorities including from Govt. of India.
+c. As part of “Ease of Doing Business” Government vide order No. CI 48 SPI 2019
+Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025 has accorded
+approval to integrate various clearances / approvals / licenses etc. through Single
+Window portal for the projects approved through District Level Single Window
+Clearance Committee (DLSWCC) or State Level Single Window Clearance
+Committee (SLSWCC) or State High Level Clearance Committee (SHLCC).
+d. The login and passwords which are used for filing application for in-principal
+approval (Phase I) are also applicable for KIADB services and for filing application
+for various clearances / approvals / licenses/ NoC’s etc from various Departments
+(Phase II). Application may be accessed through https://investkarnataka.co.in
+and online application along with necessary documents may please be filed for any
+clearances / approvals / licenses / NOCs etc.
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort services for the
+speedy implementation of the approved project. The unit is liable to update the
+progress made in the implementation of the project using login on Single Window
+portal.
+This approval is valid for a period of two years from the date of issue of this
+Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-367
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+Sub: Project proposal of M/s. G S Gears India Private Limited to
+establish the manufacturing unit of “Machined Components -
+Gears, Pinions, Housings, Shafts etc” at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no. CBIC
+TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee Meeting of
+CBIC Tumakuru Industrial Township Limited held on
+27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited (TITL) vide
+letter read at (1) above has informed that the CBIC TITL in its 2nd Land Allotment
+Committee Meeting held on 27.07.2026, approved 50 project proposals covering
+an extent of 149.30 acres with an investment about Rs. 2152.13 crores and
+employment opportunities about 8944 people at CBIC TITL Vasantha-
+
+narasapura Phase-A area, Tumakuru District and to issue the Government
+Order’s in respect of projects approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government before
+issuing the concerned Government Order related to land allotment and project
+approval on the recommendation of CBIC TITL.
+In view of the above CBIC TITL requested to issue the Government Order in
+respect of project approval and allotment of land in favour of M/s. G S Gears
+India Private Limited.
+Hence the following order.
+GOVERNMENT ORDER No. CI 271 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the investment
+proposal of M/s. G S Gears India Private Limited to establish the manufacturing
+unit of “Machined Components - Gears, Pinions, Housings, Shafts etc” with an
+investment of Rs. 12.50 crore in 1 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 1 Acres of land at CBIC TITL Vasantanarsapura
+Phase A area, Tumakuru at tentative rate of
+Rs.199 Lakhs per acre
+Water 1 KLPD from CBIC TITL
+Power 250 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local employment as
+local persons per applicable policy of the State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation) (Amendment)
+(Facilitation) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and concessions is
+subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from Dept
+
+of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+2. Employment: The Company shall comply with the provisions of Applicable
+Policy of the Govt. of Karnataka with respect to local employment on the project.
+Prepare a plan for development of Human Resources required for the project,
+train local people. A copy of Human Resources Development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+3. Vendor Development: Wherever there is scope for vendor development for the
+project, the company shall prepare a vendor development plan, develop local
+vendors and procure the required inputs, components and sub-assemblies from
+these local vendor units. A copy of the vendor development plan shall be sent to
+the Joint Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and Commerce
+for monitoring.
+4. Social Infrastructure Development: The Company is advised to take up
+social infrastructure development projects under CSR in the vicinity of the
+proposed location of the unit and comply with the stipulation of Company Act
+2013. A copy of such projects shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling and
+water conservation techniques. Zero discharge facility should be adopted
+wherever applicable.
+b. The company shall take all statutory and other necessary clearances from
+the competent authorities including from Govt. of India.
+c. As part of “Ease of Doing Business” Government vide order No. CI 48 SPI
+2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025 has
+accorded approval to integrate various clearances / approvals / licenses
+etc. through Single Window portal for the projects approved through
+District Level Single Window Clearance Committee (DLSWCC) or State Level
+Single Window Clearance Committee (SLSWCC) or State High Level
+Clearance Committee (SHLCC).
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services and for
+filing application for various clearances / approvals / licenses/ NoC’s etc
+from various Departments (Phase II). Application may be accessed through
+https://investkarnataka.co.in and online application along with necessary
+documents may please be filed for any clearances / approvals / licenses /
+NOCs etc.
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort services
+for the speedy implementation of the approved project. The unit is liable to
+
+update the progress made in the implementation of the project using login
+on Single Window portal.
+
+This approval is valid for a period of two years from the date of issue of this
+Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-368
+PROCEEDINGS OF THE GOVERNMENT OF KARNATAKA
+
+Sub: Project proposal of M/s. Sonal Metacop to establish the
+manufacturing unit of “E Waste Management of
+Electronic, Electricals, Lead Batteries, Lithium Ion
+Battery, Precious Metal and other metal bearing waste”
+at CBIC TITL Vasanthanarasapura Phase-A area,
+Tumakuru District.
+Read: 1. Proposal from Managing Director, CBIC Tumakuru
+Industrial Township Limited (TITL) vide letter no.
+CBIC TITL/101/2026-27, dated 17.08.2026.
+
+2. Proceedings of Second Land Allotment Committee
+Meeting of CBIC Tumakuru Industrial Township
+Limited held on 27.07.2026.
+__
+Preamble:
+
+Managing Director, CBIC Tumakuru Industrial Township Limited
+(TITL) vide letter read at (1) above has informed that the CBIC TITL in its
+2nd Land Allotment Committee Meeting held on 27.07.2026, approved 50
+project proposals covering an extent of 149.30 acres with an investment
+about Rs. 2152.13 crores and employment opportunities about 8944
+people at CBIC TITL Vasantha- narasapura Phase-A area, Tumakuru
+District and to issue the Government Order’s in respect of projects
+approved.
+The Government vide letter no. CI 235 IAP 2025, dated 25.06.2025 has
+directed the CBIC TITL that to submit the proposal to the Government
+before issuing the concerned Government Order related to land allotment
+and project approval on the recommendation of CBIC TITL.
+
+In view of the above CBIC TITL requested to issue the Government
+Order in respect of project approval and allotment of land in favour of M/s.
+Sonal Metacop.
+Hence the following order.
+GOVERNMENT ORDER No. CI 272 SPI 2026, BENGALURU,
+DATED 01.09.2026
+
+Government is pleased to accord in-principle approval to the
+investment proposal of M/s. Sonal Metacop to establish the manufacturing
+unit of “E Waste Management of Electronic, Electricals, Lead Batteries,
+Lithium Ion Battery, Precious Metal and other metal bearing waste” with an
+investment of Rs. 15.70 crore in 1 acres of land at CBIC TITL
+Vasanthanarasapura Phase-A area, Tumakuru District with the following
+infrastructure assistances, incentives and concessions:
+Land 1 Acres of land at CBIC TITL
+Vasantanarsapura Phase A area, Tumakuru at
+tentative rate of Rs.199 Lakhs per acre
+Water 3 KLPD from CBIC TITL
+Power 100 KVA from BESCOM
+Incentives & As per Applicable Policy of the State
+Concessions
+Employment to The Promoters shall provide local
+local persons employment as per applicable policy of the
+State
+Eligibility of the The project proponents may opt to furnish
+Project for deemed Combined Application Form (Form 4, Rule 8(b)
+clearance under along with relevant fee and self certification for
+Karnataka issue of acknowledgment certificate under
+Industries Karnataka Industries (Facilitation)
+(Facilitation) (Amendment) Act, 2020
+(Amendment) Act,
+
+Sanction of the above infrastructure assistances, incentives and
+concessions is subject to the following terms and conditions:
+1. Environment: The company to obtain Consent for Establishment and
+Consent for Operation from KSPCB and Environmental Clearance(EC) from
+Dept of Forest, Ecology & Environment, Govt. of Karnataka through
+https://investkarnataka.co.in online portal and Environmental Clearance
+(EC)from MoEF, Govt. of India, if applicable.
+
+2. Employment: The Company shall comply with the provisions of
+Applicable Policy of the Govt. of Karnataka with respect to local
+employment on the project. Prepare a plan for development of Human
+Resources required for the project, train local people. A copy of Human
+Resources Development plan shall be sent to the Joint Director, District
+Industries Center of concerned District and to the Commissioner for
+Industrial Development & Director of Industries and Commerce for
+monitoring.
+3. Vendor Development: Wherever there is scope for vendor development
+for the project, the company shall prepare a vendor development plan,
+develop local vendors and procure the required inputs, components and
+sub-assemblies from these local vendor units. A copy of the vendor
+development plan shall be sent to the Joint Director, District Industries
+Center of concerned District and to the Commissioner for Industrial
+Development & Director of Industries and Commerce for monitoring.
+4. Social Infrastructure Development: The Company is advised to take
+up social infrastructure development projects under CSR in the vicinity of
+the proposed location of the unit and comply with the stipulation of
+Company Act 2013. A copy of such projects shall be sent to the Joint
+Director, District Industries Center of concerned District and to the
+Commissioner for Industrial Development & Director of Industries and
+Commerce for monitoring.
+5. Others:
+a. The company shall adopt rainwater harvesting, waste water recycling
+and water conservation techniques. Zero discharge facility should be
+adopted wherever applicable.
+
+b. The company shall take all statutory and other necessary clearances
+from the competent authorities including from Govt. of India.
+
+c. As part of “Ease of Doing Business” Government vide order No. CI 48
+SPI 2019 Dated: 29.09.2021 and CI 302 SPI 2022, Dated: 14.02.2025
+has accorded approval to integrate various clearances / approvals /
+licenses etc. through Single Window portal for the projects approved
+through District Level Single Window Clearance Committee
+(DLSWCC) or State Level Single Window Clearance Committee
+(SLSWCC) or State High Level Clearance Committee (SHLCC).
+
+d. The login and passwords which are used for filing application for in-
+principal approval (Phase I) are also applicable for KIADB services
+and for filing application for various clearances / approvals /
+licenses/ NoC’s etc from various Departments (Phase II). Application
+
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19
+Licensed to post without prepayment WPP No. 297
+
+may be accessed through https://investkarnataka.co.in and online
+application along with necessary documents may please be filed for
+any clearances / approvals / licenses / NOCs etc.
+
+e. Karnataka Udyog Mitra (KUM) would provide the necessary escort
+services for the speedy implementation of the approved project. The
+unit is liable to update the progress made in the implementation of
+the project using login on Single Window portal.
+This approval is valid for a period of two years from the date of issue
+of this Government Order.
+By Order and in the name of the
+Governor of Karnataka,
+
+(SHILPA S R)
+Desk Officer (Technical Cell),
+Commerce & Industries Department.
+PR-369
