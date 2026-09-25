@@ -1,0 +1,125 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+issuer: "Government of Punjab"
+department: "Legal and Legislative Affairs"
+published: "2026-09-25"
+in_force: "2026-09-25"
+in_force_evidence: "published in the Gazette 2026-09-25; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2026-09-25.92565"
+language: "English text only"
+---
+
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 25th September, 2026
+No.68/L.C./2026.- The Translation in Punjabi of the Punjab Agriculture
+Credit Operations and Miscellaneous Provisions (Banks) Act, 1978 is hereby
+published under the authority of the Governor of Punjab and shall be deemed
+to be the authoritative text thereof in Punjabi under section 6-A of the Punjab
+Official Language Act, 1967 (Punjab Act No.5 of 1967)
+
+1028 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1029
+(ASVN 3, 1948 SAKA)
+
+1030 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1031
+(ASVN 3, 1948 SAKA)
+
+1032 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1033
+(ASVN 3, 1948 SAKA)
+
+1034 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1035
+(ASVN 3, 1948 SAKA)
+
+1036 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1037
+(ASVN 3, 1948 SAKA)
+
+1038 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1039
+(ASVN 3, 1948 SAKA)
+
+1040 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1041
+(ASVN 3, 1948 SAKA)
+
+1042 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+3840$9-2026/Pb. Govt. Press, S.A.S. Nagar
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1043
+(ASVN 3, 1948 SAKA)
+Gkr^1
+gzikp ;oeko
+nfX;{uBk
+gzikp oki GkPk n?eN, 1967 (1967 dk gzikp n?eN BzH 5) dh Xkok 6^T
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 25th September, 2026
+No.69/L.C./2026.- The Translation in Punjabi of the Punjab Settlement
+of Agricultural Indebtedness Act, 2016 is hereby published under the authority
+of the Governor of Punjab and shall be deemed to be the authoritative text
+thereof in Punjabi under section 6-A of the Punjab Official Language Act,
+1967 (Punjab Act No.5 of 1967)
+
+1044 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1045
+(ASVN 3, 1948 SAKA)
+
+1046 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1047
+(ASVN 3, 1948 SAKA)
+
+1048 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1049
+(ASVN 3, 1948 SAKA)
+
+1050 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1051
+(ASVN 3, 1948 SAKA)
+
+1052 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1053
+(ASVN 3, 1948 SAKA)
+
+1054 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1055
+(ASVN 3, 1948 SAKA)
+
+1056 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026
+(ASVN 3, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 25, 2026 1057
+(ASVN 3, 1948 SAKA)
+3840$9-2026/Pb. Govt. Press, S.A.S. Nagar
