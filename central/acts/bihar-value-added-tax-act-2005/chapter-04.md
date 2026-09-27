@@ -1,0 +1,3 @@
+# Chapter IV
+
+RATE OF TAX AND POINT OF LEVY
