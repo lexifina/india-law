@@ -1,0 +1,3 @@
+# Section 12F. Bar of jurisdiction
+
+12F. Bar of jurisdiction.—No court (except the Supreme Court and a High Court exercising jurisdiction under articles 226 and 227 of the Constitution) shall entertain any suit, application or other proceedings in respect of any order made under this Chapter.]
