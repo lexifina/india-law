@@ -1,0 +1,143 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+issuer: "Government of Punjab"
+department: "Legal and Legislative Affairs"
+published: "2026-09-30"
+in_force: "2026-09-30"
+in_force_evidence: "published in the Gazette 2026-09-30; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2026-09-30.92600"
+language: "English text only"
+---
+
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 30th September, 2026
+No.70/L.C./2026.- The Translation in Punjabi of the Punjab
+Sugarcane (Regulation of Purchase and Supply) Act, 1953 is hereby published
+under the authority of the Governor of Punjab and shall be deemed to be the
+authoritative text thereof in Punjabi under section 6-A of the Punjab Official
+Language Act, 1967 (Punjab Act No.5 of 1967)
+
+1060 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1061
+(ASVN 8, 1948 SAKA)
+
+1062 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+yohd J/izN
+B{z b;z;
+d/Dk.
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1063
+(ASVN 8, 1948 SAKA)
+
+1064 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1065
+(ASVN 8, 1948 SAKA)
+;"Ag/ rJ/
+y/so s'A
+pkjo'A rzB/
+dh yohd.
+
+1066 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+ekotkJhnK
+;a[o{ eoBk.
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1067
+(ASVN 8, 1948 SAKA)
+
+1068 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+3845$9-2026/Pb. Govt. Press, S.A.S. Nagar
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1069
+(ASVN 8, 1948 SAKA)
+Gkr^1
+gzikp ;oeko
+nfX;{uBk
+BzH71$GLe$2026H^ gzikp oki ftek; eo n?eN, 2018 dk gzikph
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 30th September, 2026
+No.71/L.C./2026.- The Translation in Punjabi of the Punjab State
+Development Tax Act, 2018 is hereby published under the authority of the
+Governor of Punjab and shall be deemed to be the authoritative text thereof in
+Punjabi under section 6-A of the Punjab Official Language Act, 1967 (Punjab
+Act No.5 of 1967)
+
+1070 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1071
+(ASVN 8, 1948 SAKA)
+
+1072 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1073
+(ASVN 8, 1948 SAKA)
+
+1074 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1075
+(ASVN 8, 1948 SAKA)
+
+1076 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1077
+(ASVN 8, 1948 SAKA)
+
+1078 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1079
+(ASVN 8, 1948 SAKA)
+
+1080 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1081
+(ASVN 8, 1948 SAKA)
+
+1082 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1083
+(ASVN 8, 1948 SAKA)
+
+1084 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1085
+(ASVN 8, 1948 SAKA)
+
+1086 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1087
+(ASVN 8, 1948 SAKA)
+
+1088 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1089
+(ASVN 8, 1948 SAKA)
+
+1090 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026 1091
+(ASVN 8, 1948 SAKA)
+
+1092 PUNJAB GOVT. GAZ.(EXTRA), SEPTEMBER 30, 2026
+(ASVN 8, 1948 SAKA)
+3845$9-2026/Pb. Govt. Press, S.A.S. Nagar
