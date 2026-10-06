@@ -1,0 +1,371 @@
+---
+kind: "gazette-notification"
+gazette: "Kerala Gazette"
+gazette_number: "40"
+gazette_type: "Ordinary"
+part: "Part III"
+issuer: "Government of Kerala"
+department: "Revenue Department"
+published: "2026-10-06"
+in_force: "2026-10-06"
+in_force_evidence: "published in the Gazette 2026-10-06; no other commencement day stated"
+official_text: "https://compose.kerala.gov.in/kgSearchfiledownloadpdf?b%27gztnotemp=&gztyeartemp=&partdeptId=&partid=&department=&part1id=&part1aid=&part1bid=&part2id=&part3id=&part4id=&searchpdfid=51471&hiddenradiovalue=&organizationvalue=&eognohdn=&eogdatehdn=%27"
+mirror: "https://archive.org/details/in.gazette.keralacompose.2026-10-06.ordinary-51471"
+language: "English text only"
+---
+
+compose.kerala.gov.in Regn.No. KERBIL/2012/45073
+dated 2012-09-05 with RNI egazette.kerala.gov.in
+Reg No.KL/TV(N)/634/2021-2023
+printing.kerala.gov.in
+GOVERNMENT OF KERALA
+KERALA GAZETTE
+PUBLISHED BY AUTHORITY
+Tuesday, 06th October 2026
+20th Kanni 1202 14th Aswina 1948
+Vol. XV No.
+Part III
+Commissionerate of Land Revenue
+©
+GOVERNMENT OF KERALA
+
+43920 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+7 - 43
+8 - 36
+ി)
+
+43921 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43922 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43923 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+12/05/2026 
+
+43924 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43925 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43926 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43927 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43928 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43929 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43930 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43931 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43932 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43933 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43934 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43935 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43936 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43937 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43938 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+29/05/2024 
+
+43939 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43940 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43941 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43942 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43943 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43944 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43945 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43946 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43947 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43948 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43949 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43950 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43951 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43952 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43953 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43954 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43955 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43956 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43957 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43958 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43959 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43960 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43961 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43962 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43963 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+20/06/2015 
+
+43964 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+02/09/2021 
+
+43965 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43966 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+No: 115110404 17-09-2026
+Notice is hereby given to all to whom it may be concern that SUNIL GEORGE PARAPPALLY
+(H),NILAMBUR P O, Puzhakattiri Village, Perinthalmanna Taluk of Malappuram District has filed an
+application of a legal heirship certificate to produce before various in respect of the legal heirs of late
+GEORGE PHILIP PARAPPALLY (H), PERINTHALMANNA (P O) who expired on 13-02-2021 and that it has
+been reported to this office that the persons named in the scheduled below are the legal heirs of the said
+late GEORGE PHILIP. that it is proposed to issue a legal heirship certificate according to this to the
+applicant .Hence, it is proposed to issue a legal heir ship certificate accordingly in favour of the above
+said members for receiving the claims. objections, if any against the issue of the said legal heirship
+certificate should be filed in person before the Tahasildar , Perinthalmanna within 30 days from the date
+of publication of this notice in the Kerala Government Gazette. Belated applications and those sent by
+post will not be considered.
+SCHEDULE
+Sl.No Name of the Legal Heirs Relationship with the Deceased Age
+1 SUNIL GEORGE Son 52
+
+43967 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+No: 114818133 05-10-2026
+Notice is hereby given to all to whom it may be concern that MOHAMMED HABEEB N
+NARANGATHODI HOUSE, THEKKINKODE PERINTHALMANNA , Perinthalmanna Village,
+Perinthalmanna Taluk of Malappuram District has filed an application of a legal heirship certificate to
+produce before various in respect of the legal heirs of late PATHUMMA CHATHULLY CHATHULLY
+HOUSE, THEKKINKODE, PERINTHALMANNA who expired on 01-04-2026 and that it has been reported
+to this office that the persons named in the scheduled below are the legal heirs of the said late
+PATHUMMA CHATHULLY. that it is proposed to issue a legal heirship certificate according to this to the
+applicant . Hence, it is proposed to issue a legal heir ship certificate accordingly in favour of the above
+said members for receiving the claims. objections, if any against the issue of the said legal heirship
+certificate should be filed in person before the Tahasildar , Perinthalmanna within 30 days from the date
+of publication of this notice in the Kerala Government Gazette. Belated applications and those sent by
+post will not be considered.
+SCHEDULE
+Sl.No Name of the Legal Heirs Relationship with the Deceased Age
+1 MOHAMMED HABEEB N Son 57
+
+43968 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+Malappuram District
+PerinthalmannaTaluk
+NOTICE
+
+43969 Revenue Department 06th October 2026
+____________________________________________________________________________________________________________________________
+
+43970 KERALA GAZETTE Part III
+____________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
+PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRESSES
+AT THE GOVERNMENT CENTRAL PRESS, THIRUVANANTHAPURAM, 2026
