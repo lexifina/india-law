@@ -1,0 +1,133 @@
+---
+kind: "gazette-notification"
+gazette: "Punjab Government Gazette"
+gazette_type: "Extra Ordinary"
+issuer: "Government of Punjab"
+department: "Legal and Legislative Affairs"
+published: "2026-10-09"
+in_force: "2026-10-09"
+in_force_evidence: "published in the Gazette 2026-10-09; no other commencement day stated"
+mirror: "https://archive.org/details/in.gazette.punjabdsa.2026-10-09.92654"
+language: "English text only"
+---
+
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 9th October, 2026
+No.72/L.C./2026.- The Translation in Punjabi of the Punjab Land
+Improvement Schemes Act, 1963 is hereby published under the authority of
+the Governor of Punjab and shall be deemed to be the authoritative text thereof
+in Punjabi under section 6-A of the Punjab Official Language Act, 1967 (Punjab
+Act No.5 of 1967)
+
+1094 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1095
+(ASVN 17, 1948 SAKA)
+
+1096 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1097
+(ASVN 17, 1948 SAKA)
+
+1098 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1099
+(ASVN 17, 1948 SAKA)
+
+1100 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1101
+(ASVN 17, 1948 SAKA)
+
+1102 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1103
+(ASVN 17, 1948 SAKA)
+
+1104 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1105
+(ASVN 17, 1948 SAKA)
+
+1106 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+3852$10-2026/Pb. Govt. Press, S.A.S. Nagar
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1107
+(ASVN 17, 1948 SAKA)
+Gkr^1
+gzikp ;oeko
+nfX;{uBk
+BzH73$GLe$2026H^ gzikp G'A ;[Xko n?eN, 1972 dk gzikph nB[tkd
+DEPARTMENT OF LEGAL AND LEGISLATIVE AFFAIRS
+NOTIFICATION
+The 9th October, 2026
+No.73/L.C./2026.- The Translation in Punjabi of the Punjab Land
+Reforms Act, 1972 is hereby published under the authority of the Governor of
+Punjab and shall be deemed to be the authoritative text thereof in Punjabi
+under section 6-A of the Punjab Official Language Act, 1967 (Punjab Act
+No.5 of 1967)
+
+1108 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1109
+(ASVN 17, 1948 SAKA)
+
+1110 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1111
+(ASVN 17, 1948 SAKA)
+
+1112 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1113
+(ASVN 17, 1948 SAKA)
+
+1114 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1115
+(ASVN 17, 1948 SAKA)
+
+1116 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1117
+(ASVN 17, 1948 SAKA)
+
+1118 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1119
+(ASVN 17, 1948 SAKA)
+
+1120 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+M{m/ fpnkB
+d/D bJh
+vzB.
+nwb s'A
+S'N.
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1121
+(ASVN 17, 1948 SAKA)
+
+1122 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+
+PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026 1123
+(ASVN 17, 1948 SAKA)
+
+1124 PUNJAB GOVT. GAZ.(EXTRA), OCTOBER 9, 2026
+(ASVN 17, 1948 SAKA)
+3852$10-2026/Pb. Govt. Press, S.A.S. Nagar
