@@ -1,0 +1,43 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "893"
+gazette_type: "Extraordinary"
+part: "Part VII"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "PANCHAYAT RAJ AND RURAL DEVELOPMENT"
+subject: "WITHDRAWAL OF GRAZING GROUND PORAMBOKE LAND TO AN EXTENT OF Ac. 1.69 CENTS IN SURVEY No. 9 (LPM No.19) FROM THE PURVIEW OF NAKKANAPALLE VILLAGE, GUNDLASAGARAM GRAM PANCHAYAT, GUDUPALLE MANDAL, CHITTOOR DISTRICT UNDER SUB - SECTION (2) OF SECTION 58 OF THE ANDHRA PRADESH PANCHAYAT RAJ ACT, 1994 FOR THE PURPOSE OF ALIENATION OF THE LAND IN FAVOUR OF THE PROJECT DIRECTOR, KUPPAM AREA DEVELOPMENT AUTHORITY (KADA), FOR CONSTRUCTION OF OFFICERS’ GUEST HOUSE. [G.O.Ms.No.157, Panchayat Raj & Rural (Pts.IV), 14th October, 2026.]"
+published: "2026-10-14"
+in_force: "2026-10-14"
+in_force_evidence: "published in the Gazette 2026-10-14; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc5MTk5NjY5OCwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3OTE5OTA5OTUyMTYucGRmIn0.I5fVH99n5d9KUm-JXIm9nE2xcNbhu956qqaIDrSeHAo"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-10-14.893"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART VII EXTRAORDINARY
+No.76 AMARAVATI, WEDNESDAY, OCTOBER 14, 2026 G.893
+NOTIFICATIONS BY GOVERNMENT
+--x--
+PANCHAYAT RAJ & RURAL DEVELOPMENT
+DEPARTMENT
+(PTS.IV)
+WITHDRAWAL OF GRAZING GROUND PORAMBOKE LAND TO AN EXTENT OF Ac. 1.69
+CENTS IN SURVEY No. 9 (LPM No.19) FROM THE PURVIEW OF NAKKANAPALLE
+VILLAGE, GUNDLASAGARAM GRAM PANCHAYAT, GUDUPALLE MANDAL,
+CHITTOOR DISTRICT UNDER SUB - SECTION (2) OF SECTION 58 OF THE ANDHRA
+PRADESH PANCHAYAT RAJ ACT, 1994 FOR THE PURPOSE OF ALIENATION OF
+THE LAND IN FAVOUR OF THE PROJECT DIRECTOR, KUPPAM AREA
+DEVELOPMENT AUTHORITY (KADA), FOR CONSTRUCTION OF OFFICERS’ GUEST
+HOUSE.
+[G.O.Ms.No.157, Panchayat Raj & Rural (Pts.IV), 14th October, 2026.]
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-VII
+KANTILAL DANDE,
+Special Chief Secretary to Government (FAC).
+---x---
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
