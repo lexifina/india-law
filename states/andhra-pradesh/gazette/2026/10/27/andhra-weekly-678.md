@@ -1,0 +1,37 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Weekly)"
+gazette_number: "678"
+gazette_type: "Weekly"
+part: "PART I"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "ANIMAL HUSBANDRY, DAIRY DEV. & FISHERIES"
+subject: "INCIDENCE OF AFRICAN SWINE FEVER (ASF) DISEASE IN DOMESTIC PIGS AT THE PIG BREEDING STATION, VIZIANAGARAM DISTRICT - BIO-SECURITY AND CONTROL MEASURES TAKEN AS PER THE NATIONAL ACTION PLAN FOR CONTROL, CONTAINMENT AND ERADICATION OF AFRICAN SWINE FEVER (ASF) AND UNDER THE PROVISIONS OF SUB-SECTION (1) OF SECTION 6 OF THE PREVENTION AND CONTROL OF INFECTIOUS AND CONTAGIOUS DISEASES IN ANIMALS ACT, 2009 (ACT. No.27 OF 2009) - EPICENTER OF AFRICAN SWINE FEVER (ASF) DISEASE. [G.O.Rt.No.350, Animal Husbandry, Dairy Development & Fisheries (AH.III), 21st October, 2026.]"
+published: "2026-10-27"
+in_force: "2026-10-27"
+in_force_evidence: "published in the Gazette 2026-10-27; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc5MzEzMjYzNywic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3OTMxMTEwOTQ1NTkucGRmIn0.7LnFcPJjPWQWn0n3ojSyjWaL61VKodWSzDzM_CqQMBw"
+mirror: "https://archive.org/details/in.gazette.andhra_weekly.2026-10-27.678"
+language: "English text only"
+---
+
+AND OTHER OFFICERS
+--x--
+NOTIFICATIONS BY GOVERNMENT
+ANIMAL HUSBANDRY, DAIRY DEVELOPMENT &
+FISHERIES DEPARTMENT
+(AH.III)
+INCIDENCE OF AFRICAN SWINE FEVER (ASF) DISEASE IN DOMESTIC PIGS AT
+THE PIG BREEDING STATION, VIZIANAGARAM DISTRICT - BIO-SECURITY AND
+CONTROL MEASURES TAKEN AS PER THE NATIONAL ACTION PLAN FOR
+CONTROL, CONTAINMENT AND ERADICATION OF AFRICAN SWINE FEVER (ASF)
+AND UNDER THE PROVISIONS OF SUB-SECTION (1) OF SECTION 6 OF THE
+PREVENTION AND CONTROL OF INFECTIOUS AND CONTAGIOUS DISEASES
+IN ANIMALS ACT, 2009 (ACT. No.27 OF 2009) - EPICENTER OF AFRICAN
+SWINE FEVER (ASF) DISEASE.
+[G.O.Rt.No.350, Animal Husbandry, Dairy Development & Fisheries (AH.III),
+B RAJSEKHAR,
+Special Chief Secretary to Government (FAC).
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
