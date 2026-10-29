@@ -1,2 +1,0 @@
-# Art. 243A
-243A. Gram Sabha.--A Gram Sabha may exercise such powers and perform such functions at the village level as the Legislature of a State may, by law, provide.

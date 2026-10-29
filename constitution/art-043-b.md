@@ -1,2 +1,0 @@
-# Art. 43B
-43B. Promotion of co-operative societies.--The State shall endeavour to promote voluntary formation, autonomous functioning, democratic control and professional management of co-operative societies.

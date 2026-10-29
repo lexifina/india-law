@@ -1,2 +1,0 @@
-# Art. 371E
-371E. Establishment of Central University in Andhra Pradesh.-- Parliament may by law provide for the establishment of a University in the State of Andhra Pradesh.]

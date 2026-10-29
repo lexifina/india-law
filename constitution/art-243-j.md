@@ -1,2 +1,0 @@
-# Art. 243J
-243J. Audit of accounts of Panchayats.--The Legislature of a State may, by law, make provisions with respect to the maintenance of accounts by the Panchayats and the auditing of such accounts.

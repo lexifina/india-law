@@ -1,2 +1,0 @@
-# Art. 43A
-43A. Participation of workers in management of industries.--The State shall take steps, by suitable legislation or in any other way, to secure the participation of workers in the management of undertakings, establishments or other organisations engaged in any industry.
