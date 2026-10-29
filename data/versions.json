@@ -1,0 +1,19 @@
+{
+ "country": "IN",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "COI",
+   "title": "The Constitution of India",
+   "url": "https://legislative.gov.in/constitution-of-india/",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 500,
+     "source_url": "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf",
+     "sha256": "819ba7adc5e5ae4063f26c82472283ba682ddb662e5a7f864cf26984d99b26ed"
+    }
+   ]
+  }
+ ]
+}

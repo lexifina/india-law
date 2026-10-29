@@ -1,0 +1,14 @@
+The legal text is the Constitution of India, as published by the Legislative Department (Official Languages Wing),
+Ministry of Law and Justice, Government of India:
+
+  The Constitution of India [As on 1st May, 2024]
+  Source: https://legislative.gov.in/constitution-of-india/
+  File: https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf
+  Retrieved 29 October 2026.
+
+The Constitution is the law of India and the text is published by the Government of India for public use.
+This repository makes no claim over it.
+
+Changes made by Lexifina: the PDF's text layer was read, split into one Markdown file per article, page headers
+and footnotes were removed, amendment footnote markers were stripped, and lines were rejoined into paragraphs.
+The wording is otherwise the Government's. Not an official copy.
