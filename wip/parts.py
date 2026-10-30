@@ -14,7 +14,7 @@ ACTS = [
          law_entry=dict(label='Act 46 of 2023', title='The Bharatiya Nagarik Suraksha Sanhita, 2023', kind='law', enacted='2023-12-25',
                         published='2023-12-25',
                         note='Enacted 25 December 2023; brought into force on 1 July 2024 by notification S.O. 848(E) of 23 February 2024, '
-                             'except the provisions of the First Schedule entry for section 106(2) of the Bharatiya Nyaya Sanhita and section 530.'),
+                             'with the exceptions that notification states.'),
          note='The Act as enacted, from the Gazette of India Extraordinary of 25 December 2023 (Part II, Section 1). It came into force on '
               '1 July 2024 (notification S.O. 848(E)), with stated exceptions. This record holds the as-enacted text of sections 1 to 531 '
               'only: the First and Second Schedules and later amendments are not included.',
