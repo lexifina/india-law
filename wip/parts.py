@@ -37,6 +37,21 @@ ACTS = [
          dec='Bharatiya Sakshya Adhiniyam: one version, the as-enacted gazette text, dated 1 July 2024 (the commencement date in notification '
              'S.O. 849(E)) and credited to Act 47 of 2023; sections 1 to 170 and chapter titles are included, the Schedule and the marginal '
              'section headings are not. Later amendments are not replayed.'),
+    dict(part='22-code-on-wages', slug='code-on-wages', short='Code on Wages',
+         title='The Code on Wages, 2019 (Act 29 of 2019)', pdf='code-on-wages.pdf', url='https://egazette.gov.in/WriteReadData/2019/210356.pdf',
+         start='An Act to amend and consolidate', end=r'^-{3,}$', law='code-on-wages-2019', in_force='2020-12-18',
+         law_entry=dict(label='Act 29 of 2019', title='The Code on Wages, 2019', kind='law', enacted='2019-08-08', published='2019-08-08',
+                        note='Assented to and published on 8 August 2019. Its provisions came into force on dates the Central Government '
+                             'appointed by notification, the first of them on 18 December 2020.'),
+         note='The Act as enacted, from the Gazette of India Extraordinary of 8 August 2019 (Part II, Section 1). Its provisions came into '
+              'force in stages by notification, the first on 18 December 2020; this record dates the as-enacted text from that first '
+              'commencement and does not replay the later commencements or any amendments.',
+         src='The Gazette of India, Extraordinary, Part II Section 1, 8 August 2019: The Code on Wages, 2019 '
+             '(Ministry of Law and Justice, Legislative Department)',
+         dec='Code on Wages, 2019 (the first of the four labour codes): one version, the as-enacted gazette text, dated 18 December 2020, '
+             'when its first provisions came into force by notification, and credited to Act 29 of 2019; the staged commencement of the '
+             'other provisions and later amendments are not replayed. Sections 1 to 69 and chapter titles are included, the marginal '
+             'section headings are not.'),
 ]
 
 
