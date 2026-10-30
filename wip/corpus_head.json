@@ -1,8 +1,15 @@
 {
  "country": {
-  "code": "IN", "name": "India", "slug": "india", "lang": "en", "tz": "Asia/Kolkata",
+  "code": "IN",
+  "name": "India",
+  "slug": "india",
+  "lang": "en",
+  "tz": "Asia/Kolkata",
   "future_branch": "future",
-  "publisher": {"name": "Legislative Department, Ministry of Law and Justice (Government of India)", "email": "legislative@legislative-gov-in.invalid"},
+  "publisher": {
+   "name": "Legislative Department, Ministry of Law and Justice (Government of India)",
+   "email": "legislative@legislative-gov-in.invalid"
+  },
   "default_in_force_rule": {
    "text": "Constitution of India art. 394: the Constitution came into force on 26 January 1950. This record holds one version, the text as brought up to date by the Legislative Department on 1 May 2024, so no per-amendment in-force days are derived.",
    "source": "https://legislative.gov.in/constitution-of-india/"
@@ -10,28 +17,43 @@
   "licence_note": "Text of the Constitution of India (as on 1 May 2024), published by the Legislative Department, Ministry of Law and Justice, Government of India (legislative.gov.in). Government of India works are published for public use; see https://legislative.gov.in."
  },
  "sources": [
-  {"name": "The Constitution of India, as on 1st May, 2024 (Legislative Department, Official Languages Wing)",
+  {
+   "name": "The Constitution of India, as on 1st May, 2024 (Legislative Department, Official Languages Wing)",
    "url": "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf",
-   "retrieved": "2026-10-29", "licence": "Government of India publication, https://legislative.gov.in",
-   "notes": "Pocket edition in diglot form, brought up to date to the Constitution (One Hundred and Sixth Amendment) Act, 2023. The English text layer of the PDF was read; no OCR."}
+   "retrieved": "2026-10-29",
+   "licence": "Government of India publication, https://legislative.gov.in",
+   "notes": "Pocket edition in diglot form, brought up to date to the Constitution (One Hundred and Sixth Amendment) Act, 2023. The English text layer of the PDF was read; no OCR."
+  }
  ],
  "laws": {},
  "acts": [
-  {"slug": "constitution", "short": "COI", "title": "The Constitution of India",
+  {
+   "slug": "constitution",
+   "short": "COI",
+   "title": "The Constitution of India",
    "url": "https://legislative.gov.in/constitution-of-india/",
-   "first_law": null, "earlier_laws": [],
+   "first_law": null,
+   "earlier_laws": [],
    "versions": [
-    {"from": "2024-05-01", "source_url": "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf",
-     "sha256": "", "units": {},
-     "note": "The text as on 1 May 2024, incorporating every amendment up to the Constitution (One Hundred and Sixth) Amendment Act, 2023, as the Legislative Department published it."}
-   ]}
+    {
+     "from": "2024-05-01",
+     "source_url": "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf",
+     "sha256": "",
+     "units": {},
+     "note": "The text as on 1 May 2024, incorporating every amendment up to the Constitution (One Hundred and Sixth) Amendment Act, 2023, as the Legislative Department published it."
+    }
+   ]
+  }
  ],
  "applies": [],
  "decisions": [
   "One version only: the official PDF gives the text as on 1 May 2024 and no earlier consolidated text, so this is the oldest version available (first_law null), dated from the publication date on the PDF's own cover.",
   "The Preamble and Articles 1 to 395 are included. The Schedules, Appendices and amendment footnotes are left out of this first build.",
   "Amendment footnote markers (N[ ... ] and N***) are removed from the text; omitted articles remain as units carrying their own 'Omitted' note.",
-  "Part and chapter headings between articles are not kept as units in this first build."
+  "Part and chapter headings between articles are not kept as units in this first build.",
+  "Article 238 has no file: the official text does not print it, noting Part VII (The States in Part B of the First Schedule) as omitted by the Constitution (Seventh Amendment) Act, 1956."
  ],
- "ai_use": ["Claude Code (Claude Sonnet 5.5) wrote the parser. No model wrote, edited or summarised legal text."]
+ "ai_use": [
+  "Claude Code (Claude Sonnet 5.5) wrote the parser. No model wrote, edited or summarised legal text."
+ ]
 }
