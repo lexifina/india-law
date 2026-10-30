@@ -8,4 +8,4 @@
   - 22 Code on Wages 2019 (Act 29), WriteReadData/2019/210356.pdf, dated 2020-12-18 (first commencement; later staged commencements not replayed).
 - BNS and Companies Act (corpus.json, earlier session) rechecked: 0 lines not found.
 - Skipped: Indian Contract Act 1872 (and other pre-1950 Acts). No e-Gazette copy; indiacode.nic.in and legislative.gov.in answer 403 to this machine (treated as a block, not worked round). The Legislative Department's document store (cdnbbsr.s3waas.gov.in, where the Constitution PDF came from) may hold it, but no URL was found in the time box.
-- Candidates next: Industrial Relations Code 2020, Code on Social Security 2020, OSH Code 2020 (e-Gazette 2020), Insolvency and Bankruptcy Code 2016.
+- Candidates next: Industrial Relations Code 2020 (Act 35 of 2020, egazette WriteReadData/2020/222118.pdf; check its commencement notification first; reported in force 21-11-2025), Code on Social Security 2020, OSH Code 2020 (e-Gazette 2020), Insolvency and Bankruptcy Code 2016.
