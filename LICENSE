@@ -1,0 +1,31 @@
+The legal text is the Constitution of India, as published by the Legislative Department (Official Languages Wing),
+Ministry of Law and Justice, Government of India:
+
+  The Constitution of India [As on 1st May, 2024]
+  Source: https://legislative.gov.in/constitution-of-india/
+  File: https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf
+  Retrieved 29 October 2026.
+
+The Constitution is the law of India and the text is published by the Government of India for public use.
+This repository makes no claim over it.
+
+Changes made by Lexifina: the PDF's text layer was read, split into one Markdown file per article, page headers
+and footnotes were removed, amendment footnote markers were stripped, and lines were rejoined into paragraphs.
+The wording is otherwise the Government's. Not an official copy.
+
+The Bharatiya Nyaya Sanhita, 2023 (Act 45 of 2023) is the law of India, as published in The Gazette of India,
+Extraordinary, Part II, Section 1, No. 53 (25 December 2023) by the Ministry of Law and Justice (Legislative Department):
+  Source: https://egazette.gov.in/WriteReadData/2023/250883.pdf
+  Retrieved 30 October 2026.
+The file carries no licence statement; the Act is published by the Government of India for general information.
+Changes made by Lexifina: the English text layer was read, split into one Markdown file per section, running headers,
+page numbers and the marginal notes were removed, and lines were rejoined into paragraphs. Not an official copy.
+
+The Companies Act, 2013 (Act 18 of 2013) is the law of India, as published in The Gazette of India, Extraordinary,
+Part II, Section 1 (30 August 2013) by the Ministry of Law and Justice (Legislative Department):
+  Source: https://egazette.gov.in/WriteReadData/2013/E_27_2013_425.pdf
+  Retrieved 30 October 2026.
+The file carries no licence statement; the Act is published by the Government of India for general information.
+Changes made by Lexifina: the English text layer was read, split into one Markdown file per section (Sections 1 to 470),
+running headers, page numbers and the marginal notes were removed, and lines were rejoined into paragraphs. The Schedules
+are not included. Not an official copy.
