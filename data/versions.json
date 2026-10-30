@@ -1,0 +1,89 @@
+{
+ "country": "IN",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "COI",
+   "title": "The Constitution of India",
+   "url": "https://legislative.gov.in/constitution-of-india/",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 500,
+     "source_url": "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf",
+     "sha256": "819ba7adc5e5ae4063f26c82472283ba682ddb662e5a7f864cf26984d99b26ed"
+    }
+   ]
+  },
+  {
+   "slug": "bharatiya-nyaya-sanhita",
+   "short": "BNS",
+   "title": "The Bharatiya Nyaya Sanhita, 2023 (Act 45 of 2023)",
+   "url": "https://egazette.gov.in/WriteReadData/2023/250883.pdf",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 379,
+     "source_url": "https://egazette.gov.in/WriteReadData/2023/250883.pdf",
+     "sha256": "67c92f7869420685e6cdc29b1bdde19fff91312b10241b3ed3e1163c5399600b"
+    }
+   ]
+  },
+  {
+   "slug": "companies-act",
+   "short": "Companies Act",
+   "title": "The Companies Act, 2013 (Act 18 of 2013)",
+   "url": "https://egazette.gov.in/WriteReadData/2013/E_27_2013_425.pdf",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 500,
+     "source_url": "https://egazette.gov.in/WriteReadData/2013/E_27_2013_425.pdf",
+     "sha256": "ac1a0f48a071edec253997a48c136873fa55fea5a9a4d5b1d7bab2f9e117c4bc"
+    }
+   ]
+  },
+  {
+   "slug": "bharatiya-nagarik-suraksha-sanhita",
+   "short": "BNSS",
+   "title": "The Bharatiya Nagarik Suraksha Sanhita, 2023 (Act 46 of 2023)",
+   "url": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 571,
+     "source_url": "https://egazette.gov.in/WriteReadData/2023/250884.pdf",
+     "sha256": "5e60e2afe30d0fe7eca4f8126301146b76c86a444e690581f81eb564843517fe"
+    }
+   ]
+  },
+  {
+   "slug": "bharatiya-sakshya-adhiniyam",
+   "short": "BSA",
+   "title": "The Bharatiya Sakshya Adhiniyam, 2023 (Act 47 of 2023)",
+   "url": "https://egazette.gov.in/WriteReadData/2023/250882.pdf",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 183,
+     "source_url": "https://egazette.gov.in/WriteReadData/2023/250882.pdf",
+     "sha256": "31ee68ea57b5303bf6697b5d8cb2004b9eb9180d7e9cbcbbdbf5bccab7cda5c1"
+    }
+   ]
+  },
+  {
+   "slug": "code-on-wages",
+   "short": "Code on Wages",
+   "title": "The Code on Wages, 2019 (Act 29 of 2019)",
+   "url": "https://egazette.gov.in/WriteReadData/2019/210356.pdf",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 79,
+     "source_url": "https://egazette.gov.in/WriteReadData/2019/210356.pdf",
+     "sha256": "0819c6b8942ce380ecd9c2bc31daf6c0d441034cde020fb499c57dfcbab451bd"
+    }
+   ]
+  }
+ ]
+}
