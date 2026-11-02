@@ -12,6 +12,9 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | The Gazette of India, Extraordinary, Part II Section 1, 25 December 2023: The Bharatiya Nagarik Suraksha Sanhita, 2023 (Ministry of Law and Justice, Legislative Department) | <https://egazette.gov.in/WriteReadData/2023/250884.pdf> | 2026-10-30 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
 | The Gazette of India, Extraordinary, Part II Section 1, 25 December 2023: The Bharatiya Sakshya Adhiniyam, 2023 (Ministry of Law and Justice, Legislative Department) | <https://egazette.gov.in/WriteReadData/2023/250882.pdf> | 2026-10-30 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
 | The Gazette of India, Extraordinary, Part II Section 1, 8 August 2019: The Code on Wages, 2019 (Ministry of Law and Justice, Legislative Department) | <https://egazette.gov.in/WriteReadData/2019/210356.pdf> | 2026-10-30 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
+| The Gazette of India, Extraordinary, Part II Section 1, 29 September 2020: The Industrial Relations Code, 2020 (Ministry of Law and Justice, Legislative Department); commencement: notification S.O. 5320(E) of 21 November 2025, Ministry of Labour and Employment, Gazette of India Extraordinary, Part II Section 3(ii), https://egazette.gov.in/WriteReadData/2025/267883.pdf | <https://egazette.gov.in/WriteReadData/2020/222118.pdf> | 2026-11-02 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
+| The Gazette of India, Extraordinary, Part II Section 1, 29 September 2020: The Code on Social Security, 2020 (Ministry of Law and Justice, Legislative Department); commencement: notification S.O. 5319(E) of 21 November 2025, Ministry of Labour and Employment, Gazette of India Extraordinary, Part II Section 3(ii), https://egazette.gov.in/WriteReadData/2025/267882.pdf | <https://egazette.gov.in/WriteReadData/2020/222111.pdf> | 2026-11-02 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
+| The Gazette of India, Extraordinary, Part II Section 1, 29 September 2020: The Occupational Safety, Health and Working Conditions Code, 2020 (Ministry of Law and Justice, Legislative Department); commencement: notification S.O. 5321(E) of 21 November 2025, Ministry of Labour and Employment, Gazette of India Extraordinary, Part II Section 3(ii), https://egazette.gov.in/WriteReadData/2025/267884.pdf | <https://egazette.gov.in/WriteReadData/2020/222112.pdf> | 2026-11-02 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -25,20 +28,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `bharatiya-nagarik-suraksha-sanhita` | The Bharatiya Nagarik Suraksha Sanhita, 2023 (Act 46 of 2023) | 1 | 2024-07-01 to 2024-07-01 |
 | `bharatiya-sakshya-adhiniyam` | The Bharatiya Sakshya Adhiniyam, 2023 (Act 47 of 2023) | 1 | 2024-07-01 to 2024-07-01 |
 | `code-on-wages` | The Code on Wages, 2019 (Act 29 of 2019) | 1 | 2020-12-18 to 2020-12-18 |
+| `industrial-relations-code` | The Industrial Relations Code, 2020 (Act 35 of 2020) | 1 | 2025-11-21 to 2025-11-21 |
+| `code-on-social-security` | The Code on Social Security, 2020 (Act 36 of 2020) | 1 | 2025-11-21 to 2025-11-21 |
+| `occupational-safety-health-and-working-conditions-code` | The Occupational Safety, Health and Working Conditions Code, 2020 (Act 37 of 2020) | 1 | 2025-11-21 to 2025-11-21 |
 
-The build made 6 commits:
+The build made 9 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 6 | first version of an act |
+| 9 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 5 laws in the record.
-- 11 tags.
+- 8 laws in the record.
+- 17 tags.
 
 ## Dates
 
@@ -50,15 +56,15 @@ When a law gives no date of its own, the default rule applies: Constitution of I
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `423ff43104b5ac720f2a21d1bbc91543be6dd30d427d1fdc019cac7187f8a29e` (2689171 bytes).
+- Corpus: sha256 `1b6b41ae10b8e72793516c19018d238e67504fcca833028138eba804c5728c37` (3509612 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-6 versions of 6 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 6 history commits and 11 tags (history tip `f94d73091d31c7f20f871cbd5cb1dcd14b50816b`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -74,6 +80,9 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - Bharatiya Nagarik Suraksha Sanhita: one version, the as-enacted gazette text, dated 1 July 2024 (the commencement date in notification S.O. 848(E)) and credited to Act 46 of 2023; sections 1 to 531 and chapter titles are included, the First and Second Schedules and the marginal section headings are not. Later amendments are not replayed.
 - Bharatiya Sakshya Adhiniyam: one version, the as-enacted gazette text, dated 1 July 2024 (the commencement date in notification S.O. 849(E)) and credited to Act 47 of 2023; sections 1 to 170 and chapter titles are included, the Schedule and the marginal section headings are not. Later amendments are not replayed.
 - Code on Wages, 2019 (the first of the four labour codes): one version, the as-enacted gazette text, dated 18 December 2020, when its first provisions came into force by notification, and credited to Act 29 of 2019; the staged commencement of the other provisions and later amendments are not replayed. Sections 1 to 69 and chapter titles are included, the marginal section headings are not.
+- The Industrial Relations Code, 2020 (one of the four labour codes): one version, the as-enacted gazette text, dated 21 November 2025 (notification S.O. 5320(E)) and credited to Act 35 of 2020; sections 1 to 104 and chapter titles are included, the Schedules and the marginal section headings are not. Later amendments, if any, are not replayed.
+- The Code on Social Security, 2020 (one of the four labour codes): one version, the as-enacted gazette text, dated 21 November 2025 (notification S.O. 5319(E)) and credited to Act 36 of 2020; sections 1 to 164 and chapter titles are included, the Schedules and the marginal section headings are not. Later amendments, if any, are not replayed.
+- The Occupational Safety, Health and Working Conditions Code, 2020 (one of the four labour codes): one version, the as-enacted gazette text, dated 21 November 2025 (notification S.O. 5321(E)) and credited to Act 37 of 2020; sections 1 to 143 and chapter titles are included, the Schedules and the marginal section headings are not. Later amendments, if any, are not replayed.
 
 ## What AI did and did not do
 
@@ -85,6 +94,9 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Sonnet 5.5) wrote the parser. No model wrote, edited or summarised legal text.
+- none
+- none
+- none
 - none
 - none
 - none

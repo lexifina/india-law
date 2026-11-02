@@ -84,6 +84,48 @@
      "sha256": "0819c6b8942ce380ecd9c2bc31daf6c0d441034cde020fb499c57dfcbab451bd"
     }
    ]
+  },
+  {
+   "slug": "industrial-relations-code",
+   "short": "Industrial Relations Code",
+   "title": "The Industrial Relations Code, 2020 (Act 35 of 2020)",
+   "url": "https://egazette.gov.in/WriteReadData/2020/222118.pdf",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 119,
+     "source_url": "https://egazette.gov.in/WriteReadData/2020/222118.pdf",
+     "sha256": "43cadbd9ed08dd00dfba43571253eaf63d655f9fc411df5b9a1059de8d40ce09"
+    }
+   ]
+  },
+  {
+   "slug": "code-on-social-security",
+   "short": "Code on Social Security",
+   "title": "The Code on Social Security, 2020 (Act 36 of 2020)",
+   "url": "https://egazette.gov.in/WriteReadData/2020/222111.pdf",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 179,
+     "source_url": "https://egazette.gov.in/WriteReadData/2020/222111.pdf",
+     "sha256": "975235e57b8b8c3f4a09f6c9f0dbb2bfc663c15faf3715108ea33113ef565be7"
+    }
+   ]
+  },
+  {
+   "slug": "occupational-safety-health-and-working-conditions-code",
+   "short": "OSH Code",
+   "title": "The Occupational Safety, Health and Working Conditions Code, 2020 (Act 37 of 2020)",
+   "url": "https://egazette.gov.in/WriteReadData/2020/222112.pdf",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 158,
+     "source_url": "https://egazette.gov.in/WriteReadData/2020/222112.pdf",
+     "sha256": "9ce8f68b88f725fbce4fadfb45d9ddc3ed7a5f59d92a2ebd3d5bd7ebb1c83891"
+    }
+   ]
   }
  ]
 }
