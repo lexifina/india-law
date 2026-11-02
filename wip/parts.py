@@ -91,10 +91,29 @@ for part, slug, short, title, pdf, eid, start, law, label, ltitle, last, so, nid
             'credited to %s; sections 1 to %d and chapter titles are included, the Schedules and the marginal section headings are not. '
             'Later amendments, if any, are not replayed.' % (ltitle, so, label, last)))
 
+ITA_URL = 'https://egazette.gov.in/WriteReadData/2025/265620.pdf'
+ACTS.append(dict(
+    part='26-income-tax-act-2025', slug='income-tax-act', short='Income-tax Act', title='The Income-tax Act, 2025 (Act 30 of 2025)',
+    pdf='income-tax-act-2025.pdf', url=ITA_URL, start='An Act to consolidate and amend the law relating to income-tax', end=r'^SCHEDULE I$',
+    law='income-tax-act-2025', in_force='2026-04-01', retrieved='2026-11-02', monotonic=True, line_level=True,
+    law_entry=dict(label='Act 30 of 2025', title='The Income-tax Act, 2025', kind='law', enacted='2025-08-21', published='2025-08-21',
+                   note='Assented to and published on 21 August 2025. Section 1(3): "Save as otherwise provided in this Act, it shall come '
+                        'into force on the 1st April, 2026." It replaced the Income-tax Act, 1961.'),
+    note='The Act as enacted, from the Gazette of India Extraordinary of 21 August 2025 (Part II, Section 1, No. 35). Section 1(3) brings '
+         'it into force on 1 April 2026, save as otherwise provided in the Act. This record holds the as-enacted text of the sections and '
+         'chapter titles; Schedules I to XVI, the marginal section headings and any amendment made before or after 1 April 2026 (for '
+         'example by a Finance Act) are not included. Tables inside sections are kept as one line per printed row or cell.',
+    src='The Gazette of India, Extraordinary, Part II Section 1, No. 35, 21 August 2025: The Income-tax Act, 2025 (Ministry of Law and '
+        'Justice, Legislative Department)',
+    dec='Income-tax Act, 2025: one version, the as-enacted gazette text, dated 1 April 2026 (section 1(3)) and credited to Act 30 of 2025; '
+        'the sections and chapter titles are included, Schedules I to XVI and the marginal section headings are not. Amendments, '
+        'including any made by a Finance Act with effect from 1 April 2026, are not applied, so the text may differ from what was in '
+        'force on that day where it was amended before commencement.'))
+
 
 def build(a):
     pdf = H / '.cache' / a['pdf']
-    units, seen = P.parse_act(pdf, a['start'], re.compile(a['end']), monotonic=a.get('monotonic', False))
+    units, seen = P.parse_act(pdf, a['start'], re.compile(a['end']), monotonic=a.get('monotonic', False), line_level=a.get('line_level', False))
     print(a['slug'], len(units), 'units', len(seen), 'sections, last', seen[-1], file=sys.stderr)
     nums = [int(re.match(r'\d+', s).group()) for s in seen]
     miss = [n for n in range(1, max(nums) + 1) if n not in nums]
