@@ -102,7 +102,8 @@ ACTS.append(dict(
     note='The Act as enacted, from the Gazette of India Extraordinary of 21 August 2025 (Part II, Section 1, No. 35). Section 1(3) brings '
          'it into force on 1 April 2026, save as otherwise provided in the Act. This record holds the as-enacted text of the sections and '
          'chapter titles; Schedules I to XVI, the marginal section headings and any amendment made before or after 1 April 2026 (for '
-         'example by a Finance Act) are not included. Tables inside sections are kept as one line per printed row or cell.',
+         'example by a Finance Act) are not included. Tables inside sections are flattened: each cell is a line, in the order of the '
+         'PDF text layer, and the column letters printed above a table (A, B, C) may appear as a line of their own or at the end of a cell.',
     src='The Gazette of India, Extraordinary, Part II Section 1, No. 35, 21 August 2025: The Income-tax Act, 2025 (Ministry of Law and '
         'Justice, Legislative Department)',
     dec='Income-tax Act, 2025: one version, the as-enacted gazette text, dated 1 April 2026 (section 1(3)) and credited to Act 30 of 2025; '

@@ -43,7 +43,8 @@ def body_lines(pdf, margin_x=484, left_x=110, top=80, line_level=False):
                 if line_level:
                     sp = [x for x in ln['spans'] if x['text'].strip()]
                     bold = bool(sp) and bool(sp[0]['flags'] & 16) and bool(re.match(r'\s*\d+[A-Z]{0,2}\.?\s*$', sp[0]['text']))
-                    yield pi, lx0, lx1, norm(t), first, bold
+                    ital = bool(sp) and bool(sp[0]['flags'] & 2)
+                    yield pi, lx0, lx1, norm(t), first, (bold, ital)
                 else:
                     yield pi, lx0, lx1, norm(t), first
 
@@ -64,29 +65,34 @@ def parse_act(pdf, start_text, end_re=None, monotonic=False, line_level=False):
     if line_level:   # a bold section number printed alone on its line belongs to the next line
         joined = []
         for l in lines:
-            if joined and joined[-1][5] and re.fullmatch(r'\d+[A-Z]{0,2}\.?', joined[-1][3]) and joined[-1][0] == l[0]:
+            if joined and joined[-1][5][0] and re.fullmatch(r'\d+[A-Z]{0,2}\.?', joined[-1][3]) and joined[-1][0] == l[0]:
                 pi, x0, x1, t, first, bold = joined.pop()
                 l = (pi, x0, l[2], t + ' ' + l[3], first, bold)
             joined.append(l)
         lines = []
         for l in joined:
-            if l[5]:
-                bolds[len(lines)] = True
+            bolds[len(lines)] = l[5]
             lines.append(l[:5])
     # group lines into paragraphs
     paras = []   # (kind, text, x0)
     prev = ''
     for li_, (pi, x0, x1, t, first) in enumerate(lines):
         centred = x0 > 170 and (x1 - x0) < 300 and abs((x0 + x1) / 2 - 298) < 30 and not re.match(r'^(Illustrations?\.?|\(\w{1,4}\))', t)
-        if line_level and SEC.match(t):
-            centred = False
+        if line_level and centred:   # headings here are capitals (chapter titles) or italic (sub-headings)
+            centred = not BOLDSEC.match(t) and (bolds.get(li_, (False, False))[1] or t == t.upper())
+        if line_level:   # italic lettered sub-headings ('D.-Special provisions ...'), which may run to a second italic line
+            ital = bolds.get(li_, (False, False))[1]
+            if ital and re.match(r'^[A-Z]{1,2}\.\s*-', t):
+                paras.append(['head', t, x0, 'sub']); prev = ''; continue
+            if ital and paras and len(paras[-1]) > 3 and paras[-1][3] == 'sub' and not BOLDSEC.match(t):
+                paras[-1][1] += ' ' + t; continue
         if centred:
             paras.append(['head', t, x0]); prev = ''; continue
         starts = (first and (not prev or prev[-1:] in '.;:-,?' or bool(START.match(t)))) or (x0 > 125 and (bool(START.match(t)) or prev[-1:] in '.;:-,?'))
         if paras and paras[-1][0] == 'text' and not starts:
             paras[-1][1] += ' ' + t
         else:
-            paras.append(['text', t, x0, bolds.get(li_, False)])
+            paras.append(['text', t, x0, bolds.get(li_, (False, False))[0]])
         prev = t
     units = {}; cur = None; pending = []; seen = []
     i = 0
@@ -103,7 +109,7 @@ def parse_act(pdf, start_text, end_re=None, monotonic=False, line_level=False):
             pending = []; cur = None; i = j; continue
         s = SEC.match(t) if k == 'text' else None
         if line_level and k == 'text':   # sections start with a bold number (the full stop is sometimes missing)
-            s = BOLDSEC.match(t) if len(paras[i]) > 3 and paras[i][3] else None
+            s = BOLDSEC.match(t) if len(paras[i]) > 3 and paras[i][3] is True else None
         if s and monotonic and seen:
             n_new, n_last = int(re.match(r'\d+', s.group(1)).group()), int(re.match(r'\d+', seen[-1]).group())
             if n_new < n_last or n_new > n_last + 10:
@@ -116,6 +122,8 @@ def parse_act(pdf, start_text, end_re=None, monotonic=False, line_level=False):
             units[key] = {'label': 'Section %s' % num, 'kind': 'section', 'lines': ['# Section %s' % num] + pending + [t]}
             pending = []; cur = key; seen.append(num); i += 1; continue
         if k == 'head':
+            pending.append(t); i += 1; continue
+        if cur is None and line_level and seen:   # a sub-heading after a chapter title goes with the next section
             pending.append(t); i += 1; continue
         if cur is None:
             units.setdefault('preamble', {'label': 'Preamble', 'kind': 'preamble', 'lines': ['# Preamble']})['lines'].append(t)
