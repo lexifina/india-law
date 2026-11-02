@@ -54,6 +54,43 @@ ACTS = [
              'section headings are not.'),
 ]
 
+LC_NOTE = ('The Code as enacted, from the Gazette of India Extraordinary of 29 September 2020 (Part II, Section 1). {force} This record '
+           'holds the as-enacted text of sections 1 to {last} and chapter titles; the Schedules, the marginal section headings and later '
+           'amendments, if any, are not included.')
+LC = [
+    ('23-industrial-relations-code', 'industrial-relations-code', 'Industrial Relations Code', 'The Industrial Relations Code, 2020 (Act 35 of 2020)',
+     'irc.pdf', 222118, 'An Act to consolidate', 'irc-2020', 'Act 35 of 2020', 'The Industrial Relations Code, 2020', 104,
+     'S.O. 5320(E)', 267883, 'sub-section (3) of section 1',
+     'It came into force on 21 November 2025, when notification S.O. 5320(E) of that day brought all its provisions into force.'),
+    ('24-code-on-social-security', 'code-on-social-security', 'Code on Social Security', 'The Code on Social Security, 2020 (Act 36 of 2020)',
+     'code-on-social-security.pdf', 222111, 'An Act to amend and consolidate', 'code-on-social-security-2020', 'Act 36 of 2020',
+     'The Code on Social Security, 2020', 164, 'S.O. 5319(E)', 267882, 'sub-section (3) of section 1',
+     'Notification S.O. 5319(E) of 21 November 2025 brought most of its provisions into force that day (sections 1 to 14, 17 to 141, '
+     '143 and 144 to 163, and parts of sections 15, 16 and 164); some provisions had been brought into force earlier by other '
+     'notifications (among them S.O. 2060(E) of 3 May 2023), and the rest await notification. This record dates the whole text from 21 November 2025.'),
+    ('25-occupational-safety-health-code', 'occupational-safety-health-and-working-conditions-code', 'OSH Code',
+     'The Occupational Safety, Health and Working Conditions Code, 2020 (Act 37 of 2020)', 'osh-code.pdf', 222112, 'An Act to consolidate',
+     'osh-code-2020', 'Act 37 of 2020', 'The Occupational Safety, Health and Working Conditions Code, 2020', 143, 'S.O. 5321(E)', 267884,
+     'sub-section (2) of section 1',
+     'It came into force on 21 November 2025, when notification S.O. 5321(E) of that day brought all its provisions into force.'),
+]
+for part, slug, short, title, pdf, eid, start, law, label, ltitle, last, so, nid, power, force in LC:
+    url = 'https://egazette.gov.in/WriteReadData/2020/%d.pdf' % eid
+    nurl = 'https://egazette.gov.in/WriteReadData/2025/%d.pdf' % nid
+    ACTS.append(dict(
+        part=part, slug=slug, short=short, title=title, pdf=pdf, url=url, start=start, end=r'^THE FIRST SCHEDULE$', law=law,
+        in_force='2025-11-21', retrieved='2026-11-02',
+        law_entry=dict(label=label, title=ltitle, kind='law', enacted='2020-09-28', published='2020-09-29',
+                       note='Assented to on 28 September 2020 and published on 29 September 2020. ' + force.replace('It came', 'It came')
+                            + ' (notification %s, made under %s, Gazette of India Extraordinary of 21 November 2025: %s)' % (so, power, nurl)),
+        note=LC_NOTE.format(force=force, last=last),
+        src='The Gazette of India, Extraordinary, Part II Section 1, 29 September 2020: %s (Ministry of Law and Justice, Legislative '
+            'Department); commencement: notification %s of 21 November 2025, Ministry of Labour and Employment, Gazette of India '
+            'Extraordinary, Part II Section 3(ii), %s' % (ltitle, so, nurl),
+        dec='%s (one of the four labour codes): one version, the as-enacted gazette text, dated 21 November 2025 (notification %s) and '
+            'credited to %s; sections 1 to %d and chapter titles are included, the Schedules and the marginal section headings are not. '
+            'Later amendments, if any, are not replayed.' % (ltitle, so, label, last)))
+
 
 def build(a):
     pdf = H / '.cache' / a['pdf']
@@ -68,7 +105,7 @@ def build(a):
                versions=[{'from': a['in_force'], 'source_url': a['url'], 'sha256': hashlib.sha256(pdf.read_bytes()).hexdigest(),
                           'units': units, 'credits': {}, 'note': a['note']}])
     return {'acts': [act], 'laws': {a['law']: e}, 'decisions': [a['dec']], 'ai_use': ['none'],
-            'sources': [{'name': a['src'], 'url': a['url'], 'retrieved': '2026-10-30', 'requests': 1,
+            'sources': [{'name': a['src'], 'url': a['url'], 'retrieved': a.get('retrieved', '2026-10-30'), 'requests': 2 if a.get('retrieved') else 1,
                          'licence': 'Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file.',
                          'notes': 'English text layer of the PDF read with PyMuPDF; the Hindi cover lines and the marginal notes (section '
                                   'headings in the margin) are not included; no OCR.'}]}
