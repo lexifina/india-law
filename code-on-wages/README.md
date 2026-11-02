@@ -1,6 +1,6 @@
 # The Code on Wages, 2019 (Act 29 of 2019)
 
-Code on Wages · 1 versions, from 2020-12-18 (latest in force: 2020-12-18) · <https://egazette.gov.in/WriteReadData/2019/210356.pdf>
+Code on Wages · 2 versions, from 2020-12-18 (latest in force: 2025-11-21) · <https://egazette.gov.in/WriteReadData/2019/210356.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

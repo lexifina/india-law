@@ -82,6 +82,12 @@
      "units": 79,
      "source_url": "https://egazette.gov.in/WriteReadData/2019/210356.pdf",
      "sha256": "0819c6b8942ce380ecd9c2bc31daf6c0d441034cde020fb499c57dfcbab451bd"
+    },
+    {
+     "from": "2025-11-21",
+     "units": 79,
+     "source_url": "https://egazette.gov.in/WriteReadData/2025/267885.pdf",
+     "sha256": "45105d4da240440cf43b3d0565c8f615d5ac705be807a87212ada95df92d58cc"
     }
    ]
   },
