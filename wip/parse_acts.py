@@ -44,7 +44,8 @@ PAGE0 = re.compile(r'NEW DELHI, MONDAY|^No\. \d+\]|MINISTRY OF LAW|Legislative D
 START = re.compile(r'^(\(\w{1,4}\)|\d+[A-Z]{0,2}\.|Explanation|Exception|Illustration|Provided|Proviso|CHAPTER|PART |SCHEDULE|THE )')
 
 
-def parse_act(pdf, start_text, end_re=None):
+def parse_act(pdf, start_text, end_re=None, monotonic=False):
+    """monotonic: a numbered paragraph whose number does not exceed the last section's is text of that section (lists inside a section)."""
     lines = [l for l in body_lines(pdf) if not JUNK.search(l[3]) and not HDR.match(l[3]) and not re.fullmatch(r'\d{1,3}', l[3]) and not (l[0] == 0 and PAGE0.search(l[3]))]
     i0 = next(i for i, l in enumerate(lines) if l[3].startswith(start_text))
     lines = lines[i0:]
@@ -77,6 +78,8 @@ def parse_act(pdf, start_text, end_re=None):
             units['chapter-' + m.group(2).lower()] = {'label': head, 'kind': 'part', 'lines': ['# ' + head]}
             pending = []; cur = None; i = j; continue
         s = SEC.match(t) if k == 'text' else None
+        if s and monotonic and seen and int(re.match(r'\d+', s.group(1)).group()) < int(re.match(r'\d+', seen[-1]).group()):
+            s = None
         if s:
             num = s.group(1)
             key = 'sec-' + re.sub(r'^(\d+)', lambda mm: '%03d' % int(mm.group(1)), num).lower()

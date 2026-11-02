@@ -29,3 +29,28 @@ The file carries no licence statement; the Act is published by the Government of
 Changes made by Lexifina: the English text layer was read, split into one Markdown file per section (Sections 1 to 470),
 running headers, page numbers and the marginal notes were removed, and lines were rejoined into paragraphs. The Schedules
 are not included. Not an official copy.
+
+The Industrial Relations Code, 2020 (Act 35 of 2020), the Code on Social Security, 2020 (Act 36 of 2020) and the
+Occupational Safety, Health and Working Conditions Code, 2020 (Act 37 of 2020) are the law of India, as published in
+The Gazette of India, Extraordinary, Part II, Section 1 (29 September 2020) by the Ministry of Law and Justice
+(Legislative Department):
+  Sources: https://egazette.gov.in/WriteReadData/2020/222118.pdf (Industrial Relations Code)
+           https://egazette.gov.in/WriteReadData/2020/222111.pdf (Code on Social Security)
+           https://egazette.gov.in/WriteReadData/2020/222112.pdf (Occupational Safety, Health and Working Conditions Code)
+  Commencement notifications S.O. 5319(E), 5320(E) and 5321(E) of 21 November 2025 (Ministry of Labour and
+  Employment): https://egazette.gov.in/WriteReadData/2025/267882.pdf, .../267883.pdf and .../267884.pdf
+  Retrieved 2 November 2026.
+The files carry no licence statement. Changes made by Lexifina: the English text layer was read, split into one
+Markdown file per section, running headers, page numbers and the marginal notes were removed, and lines were rejoined
+into paragraphs. The Schedules are not included. Not an official copy.
+
+Reuse under Indian copyright law. The Copyright Act, 1957, section 52(1)(q), provides that the following do not
+constitute an infringement of copyright:
+  "(q) the reproduction or publication of—
+   (i) any matter which has been published in any Official Gazette except an Act of a Legislature;
+   (ii) any Act of a Legislature subject to the condition that such Act is reproduced or published together with any
+        commentary thereon or any other original matter;"
+This repository publishes the Acts together with original matter: the per-version notes, the commit records of when
+each provision came into force and which law made it, the tables in data/, and the tools in tools/. The e-Gazette
+(egazette.gov.in) states that the Gazette of India "can be accessed free of cost by the general public being available
+in the public domain"; neither it nor the files state a prohibition on reproduction.

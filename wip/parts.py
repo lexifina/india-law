@@ -79,7 +79,7 @@ for part, slug, short, title, pdf, eid, start, law, label, ltitle, last, so, nid
     nurl = 'https://egazette.gov.in/WriteReadData/2025/%d.pdf' % nid
     ACTS.append(dict(
         part=part, slug=slug, short=short, title=title, pdf=pdf, url=url, start=start, end=r'^THE FIRST SCHEDULE$', law=law,
-        in_force='2025-11-21', retrieved='2026-11-02',
+        in_force='2025-11-21', retrieved='2026-11-02', monotonic=True,
         law_entry=dict(label=label, title=ltitle, kind='law', enacted='2020-09-28', published='2020-09-29',
                        note='Assented to on 28 September 2020 and published on 29 September 2020. ' + force.replace('It came', 'It came')
                             + ' (notification %s, made under %s, Gazette of India Extraordinary of 21 November 2025: %s)' % (so, power, nurl)),
@@ -94,7 +94,7 @@ for part, slug, short, title, pdf, eid, start, law, label, ltitle, last, so, nid
 
 def build(a):
     pdf = H / '.cache' / a['pdf']
-    units, seen = P.parse_act(pdf, a['start'], re.compile(a['end']))
+    units, seen = P.parse_act(pdf, a['start'], re.compile(a['end']), monotonic=a.get('monotonic', False))
     print(a['slug'], len(units), 'units', len(seen), 'sections, last', seen[-1], file=sys.stderr)
     nums = [int(re.match(r'\d+', s).group()) for s in seen]
     miss = [n for n in range(1, max(nums) + 1) if n not in nums]
