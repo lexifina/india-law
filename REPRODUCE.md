@@ -15,6 +15,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | The Gazette of India, Extraordinary, Part II Section 1, 29 September 2020: The Industrial Relations Code, 2020 (Ministry of Law and Justice, Legislative Department); commencement: notification S.O. 5320(E) of 21 November 2025, Ministry of Labour and Employment, Gazette of India Extraordinary, Part II Section 3(ii), https://egazette.gov.in/WriteReadData/2025/267883.pdf | <https://egazette.gov.in/WriteReadData/2020/222118.pdf> | 2026-11-02 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
 | The Gazette of India, Extraordinary, Part II Section 1, 29 September 2020: The Code on Social Security, 2020 (Ministry of Law and Justice, Legislative Department); commencement: notification S.O. 5319(E) of 21 November 2025, Ministry of Labour and Employment, Gazette of India Extraordinary, Part II Section 3(ii), https://egazette.gov.in/WriteReadData/2025/267882.pdf | <https://egazette.gov.in/WriteReadData/2020/222111.pdf> | 2026-11-02 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
 | The Gazette of India, Extraordinary, Part II Section 1, 29 September 2020: The Occupational Safety, Health and Working Conditions Code, 2020 (Ministry of Law and Justice, Legislative Department); commencement: notification S.O. 5321(E) of 21 November 2025, Ministry of Labour and Employment, Gazette of India Extraordinary, Part II Section 3(ii), https://egazette.gov.in/WriteReadData/2025/267884.pdf | <https://egazette.gov.in/WriteReadData/2020/222112.pdf> | 2026-11-02 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
+| The Gazette of India, Extraordinary, Part II Section 1, No. 35, 21 August 2025: The Income-tax Act, 2025 (Ministry of Law and Justice, Legislative Department) | <https://egazette.gov.in/WriteReadData/2025/265620.pdf> | 2026-11-02 | Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -31,20 +32,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `industrial-relations-code` | The Industrial Relations Code, 2020 (Act 35 of 2020) | 1 | 2025-11-21 to 2025-11-21 |
 | `code-on-social-security` | The Code on Social Security, 2020 (Act 36 of 2020) | 1 | 2025-11-21 to 2025-11-21 |
 | `occupational-safety-health-and-working-conditions-code` | The Occupational Safety, Health and Working Conditions Code, 2020 (Act 37 of 2020) | 1 | 2025-11-21 to 2025-11-21 |
+| `income-tax-act` | The Income-tax Act, 2025 (Act 30 of 2025) | 1 | 2026-04-01 to 2026-04-01 |
 
-The build made 9 commits:
+The build made 10 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 9 | first version of an act |
+| 10 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 8 laws in the record.
-- 17 tags.
+- 9 laws in the record.
+- 19 tags.
 
 ## Dates
 
@@ -56,13 +58,13 @@ When a law gives no date of its own, the default rule applies: Constitution of I
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1b6b41ae10b8e72793516c19018d238e67504fcca833028138eba804c5728c37` (3509612 bytes).
+- Corpus: sha256 `76c0da00629484bc5f3e0a2b7499e891be106c32103b60a6a3b7f2203845e0aa` (4952074 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-9 versions of 9 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -83,6 +85,7 @@ No second build of this corpus has been compared yet.
 - The Industrial Relations Code, 2020 (one of the four labour codes): one version, the as-enacted gazette text, dated 21 November 2025 (notification S.O. 5320(E)) and credited to Act 35 of 2020; sections 1 to 104 and chapter titles are included, the Schedules and the marginal section headings are not. Later amendments, if any, are not replayed.
 - The Code on Social Security, 2020 (one of the four labour codes): one version, the as-enacted gazette text, dated 21 November 2025 (notification S.O. 5319(E)) and credited to Act 36 of 2020; sections 1 to 164 and chapter titles are included, the Schedules and the marginal section headings are not. Later amendments, if any, are not replayed.
 - The Occupational Safety, Health and Working Conditions Code, 2020 (one of the four labour codes): one version, the as-enacted gazette text, dated 21 November 2025 (notification S.O. 5321(E)) and credited to Act 37 of 2020; sections 1 to 143 and chapter titles are included, the Schedules and the marginal section headings are not. Later amendments, if any, are not replayed.
+- Income-tax Act, 2025: one version, the as-enacted gazette text, dated 1 April 2026 (section 1(3)) and credited to Act 30 of 2025; the sections and chapter titles are included, Schedules I to XVI and the marginal section headings are not. Amendments, including any made by a Finance Act with effect from 1 April 2026, are not applied, so the text may differ from what was in force on that day where it was amended before commencement.
 
 ## What AI did and did not do
 
@@ -94,6 +97,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Sonnet 5.5) wrote the parser. No model wrote, edited or summarised legal text.
+- none
 - none
 - none
 - none

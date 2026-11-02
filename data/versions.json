@@ -126,6 +126,20 @@
      "sha256": "9ce8f68b88f725fbce4fadfb45d9ddc3ed7a5f59d92a2ebd3d5bd7ebb1c83891"
     }
    ]
+  },
+  {
+   "slug": "income-tax-act",
+   "short": "Income-tax Act",
+   "title": "The Income-tax Act, 2025 (Act 30 of 2025)",
+   "url": "https://egazette.gov.in/WriteReadData/2025/265620.pdf",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 560,
+     "source_url": "https://egazette.gov.in/WriteReadData/2025/265620.pdf",
+     "sha256": "7acfb16fd7f3db8b4f85fc532b6d6924478ef86fa2e5b7683d282f8825f8017c"
+    }
+   ]
   }
  ]
 }
