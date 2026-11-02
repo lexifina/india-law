@@ -1,0 +1,41 @@
+{
+ "parts": {
+  "20-bharatiya-nagarik-suraksha-sanhita.json": {
+   "acts": [
+    "bharatiya-nagarik-suraksha-sanhita"
+   ],
+   "sha256": "342709556fa21e6030abb06bdf725ad2527dd002054bc1287bed3d252b06be3b"
+  },
+  "21-bharatiya-sakshya-adhiniyam.json": {
+   "acts": [
+    "bharatiya-sakshya-adhiniyam"
+   ],
+   "sha256": "46a9b7ec03f27571957e415a644f04d48215dfada81b3b09d33711aeca198f11"
+  },
+  "23-industrial-relations-code.json": {
+   "acts": [
+    "industrial-relations-code"
+   ],
+   "sha256": "b443c277261890be746a0da2e27e25a2debe0610fbc73e4a508b09387bfd404b"
+  },
+  "24-code-on-social-security.json": {
+   "acts": [
+    "code-on-social-security"
+   ],
+   "sha256": "904860641bbc25dc73ccdb198e6df8741ee763dc3a45f4fac1762a1a54369bea"
+  },
+  "25-occupational-safety-health-code.json": {
+   "acts": [
+    "occupational-safety-health-and-working-conditions-code"
+   ],
+   "sha256": "3ee28c0b959bfe3a14c6e2d84d1b0c888c5eb2624b4ad70aa6807ecdafb8098e"
+  },
+  "26-income-tax-act-2025.json": {
+   "acts": [
+    "income-tax-act"
+   ],
+   "sha256": "da8a8847970f866afded8557e9874d1800ad6ed56dee46caa6c61944a3b91941"
+  }
+ },
+ "schema": 1
+}
