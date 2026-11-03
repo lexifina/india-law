@@ -2,10 +2,10 @@
  "check": {
   "acts": 10,
   "backwards": 0,
-  "corpus_sha256": "94df4a8672076cf92bceaef385d4d005063aa0e98f36f6578999485c350bbfcc",
+  "corpus_sha256": "76c0da00629484bc5f3e0a2b7499e891be106c32103b60a6a3b7f2203845e0aa",
   "future_dated": 0,
   "merges": 0,
-  "mismatches": 148,
+  "mismatches": 0,
   "missing_in_force": 0,
   "trailer_errors": 0,
   "versions": 10
