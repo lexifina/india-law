@@ -76,12 +76,26 @@ def save_state(st):
     tmp.replace(STATE)
 
 
+def cpu_wait():
+    """Brief: pause while cpu5 > 90 (last line of gitlaw-cpu.log in LOCALAPPDATA)."""
+    while True:
+        try:
+            last = Path(os.environ['LOCALAPPDATA'], 'gitlaw-cpu.log').read_text(encoding='utf-8').strip().splitlines()[-1]
+            m = re.search(r'cpu5=(\d+)', last)
+            if not m or int(m.group(1)) <= 90:
+                return
+        except Exception:
+            return
+        time.sleep(60)
+
+
 def read_id(st, year, i):
     """{'day': 'YYYY-MM-DD' or None, 'acts': [...]} for one file, or None if absent. Cached in state."""
     k = f'{year}/{i}'
     if k in st['read']:
         return st['read'][k]
     u = f'https://egazette.gov.in/WriteReadData/{year}/{i}.pdf'
+    cpu_wait()
     b = fs.get(u, cache=CACHE, tries=3, timeout=180, caller='india-egz-discover')
     if not b or not b.startswith(b'%PDF'):
         st['read'][k] = None
@@ -100,7 +114,7 @@ def read_id(st, year, i):
         flat = re.sub(r'\s+', ' ', t)
         for mm in re.finditer(r'THE ([A-Z][A-Z ,()\-\']+?(?:ACT|CODE|SANHITA|ADHINIYAM),? \d{4}) (?:\(?No\.? ?(\d+) OF (\d{4}))?', flat):
             acts.append({'title': mm.group(1).strip(), 'no': mm.group(2), 'of': mm.group(3)})
-        nos = re.findall(r'No\. (\d+) of (\d{4})', flat)
+        nos = re.findall(r'No\. ?(\d+) (?:of|OF) (\d{4})', flat)
         if nos and acts and not acts[0]['no']:
             acts[0]['no'], acts[0]['of'] = nos[0]
     r = {'day': day, 'acts': acts[:1], 'pages': len(d)}
