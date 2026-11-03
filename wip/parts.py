@@ -51,7 +51,24 @@ ACTS = [
          dec='Code on Wages, 2019 (the first of the four labour codes): one version, the as-enacted gazette text, dated 18 December 2020, '
              'when its first provisions came into force by notification, and credited to Act 29 of 2019; the staged commencement of the '
              'other provisions and later amendments are not replayed. Sections 1 to 69 and chapter titles are included, the marginal '
-             'section headings are not.'),
+             'section headings are not.',
+         later=dict(
+             law='so-5322e-2025', pdf='eg/2025-267885.pdf', url='https://egazette.gov.in/WriteReadData/2025/267885.pdf',
+             from_date='2025-11-21', retrieved='2026-11-02',
+             law_entry=dict(label='S.O. 5322(E)', title='Code on Wages commencement notification', kind='decree',
+                            enacted='2025-11-21', published='2025-11-21',
+                            note='Notification S.O. 5322(E) appointed 21 November 2025 for the listed provisions of the Code on Wages, '
+                                 '2019. It changed their legal operation without changing their words.'),
+             note='Notification S.O. 5322(E) brought sections 1 to 41, section 42(4) to (9), sections 43 to 66, section 67(1), '
+                  '67(2)(a) to (r) and (u) to (zc), 67(3) to (5), section 68, and the remaining provisions of section 69 into force '
+                  'on 21 November 2025. Section 42(1) to (3), (10) and (11), and section 67(2)(s) and (t) were not included; section '
+                  '69 excluded provisions already mentioned at serial number 3 of S.O. 4604(E) of 18 December 2020. The statutory '
+                  'wording did not change.',
+             source='The Gazette of India, Extraordinary, Part II Section 3(ii), 21 November 2025: notification S.O. 5322(E), '
+                    'Ministry of Labour and Employment',
+             decision='Notification S.O. 5322(E) is recorded as a wording-unchanged version on 21 November 2025, crediting sections '
+                      '1 to 69 because it commenced all or specified parts of each of those section files; the version note preserves '
+                      'the notification\'s subsection and clause exclusions.'),),
 ]
 
 LC_NOTE = ('The Code as enacted, from the Gazette of India Extraordinary of 29 September 2020 (Part II, Section 1). {force} This record '
@@ -124,11 +141,26 @@ def build(a):
     act = dict(slug=a['slug'], short=a['short'], title=a['title'], url=a['url'], first_law=a['law'], earlier_laws=[],
                versions=[{'from': a['in_force'], 'source_url': a['url'], 'sha256': hashlib.sha256(pdf.read_bytes()).hexdigest(),
                           'units': units, 'credits': {}, 'note': a['note']}])
-    return {'acts': [act], 'laws': {a['law']: e}, 'decisions': [a['dec']], 'ai_use': ['none'],
-            'sources': [{'name': a['src'], 'url': a['url'], 'retrieved': a.get('retrieved', '2026-10-30'), 'requests': 2 if a.get('retrieved') else 1,
-                         'licence': 'Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file.',
-                         'notes': 'English text layer of the PDF read with PyMuPDF; the Hindi cover lines and the marginal notes (section '
-                                  'headings in the margin) are not included; no OCR.'}]}
+    laws = {a['law']: e}
+    decisions = [a['dec']]
+    sources = [{'name': a['src'], 'url': a['url'], 'retrieved': a.get('retrieved', '2026-10-30'),
+                'requests': 2 if a.get('retrieved') else 1,
+                'licence': 'Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file.',
+                'notes': 'English text layer of the PDF read with PyMuPDF; the Hindi cover lines and the marginal notes (section '
+                         'headings in the margin) are not included; no OCR.'}]
+    if a.get('later'):
+        later = a['later']
+        later_pdf = H / '.cache' / later['pdf']
+        affected = {key: [later['law']] for key in units if key.startswith('sec-')}
+        act['versions'].append({'from': later['from_date'], 'source_url': later['url'],
+                                'sha256': hashlib.sha256(later_pdf.read_bytes()).hexdigest(),
+                                'credits': affected, 'note': later['note']})
+        laws[later['law']] = dict(later['law_entry'], url=later['url'], temporary_until=None, restores=None)
+        decisions.append(later['decision'])
+        sources.append({'name': later['source'], 'url': later['url'], 'retrieved': later['retrieved'], 'requests': 1,
+                        'licence': 'Government of India publication in the e-Gazette (egazette.gov.in); no licence statement on the file.',
+                        'notes': 'English text layer of the two-page PDF read with PyMuPDF; no OCR.'})
+    return {'acts': [act], 'laws': laws, 'decisions': decisions, 'ai_use': ['none'], 'sources': sources}
 
 
 if __name__ == '__main__':
