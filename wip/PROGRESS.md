@@ -1,5 +1,17 @@
 # India: progress (private)
 
+## Queue job 36, depth, 2026-11-03 (gitlaw-scraper-hp-omen)
+- Added a second, wording-unchanged version of the Code on Wages, 2019 dated 2025-11-21 from official notification
+  S.O. 5322(E) (e-Gazette 2025/267885). The notification commences all or specified parts of sections 1 to 69 and
+  expressly excludes section 42(1)-(3), (10)-(11), section 67(2)(s)-(t), and the section 69 provisions already named
+  at serial 3 of S.O. 4604(E). The exact exclusions are in the version note.
+- The notification PDF was already in the scheduler-fed cache. Its English page is born-digital (no OCR), two pages,
+  SHA-256 45105d4da240440cf43b3d0565c8f615d5ac705be807a87212ada95df92d58cc.
+- `parts.py code-on-wages` parsed twice to identical SHA-256
+  d85592fe6a837dcb6e4532cc5a9ab5b3c85e2cac06d269cc19d3fab973162545. Final build/check results are in the q-36 report.
+- The existing India Code/Legislative Department listing stop remains: their robots endpoints return 403 and the
+  shared scheduler has stopped both hosts. No request was made to either host, and no breadth-completeness claim is made.
+
 ## Phase 2, 2026-10-30 (gitlaw-scraper-hp-omen)
 - FIXED the Constitution: the corpus that was on main had every article file holding the whole document text (~850 KB x 434 files, 370 MB). parse.py run again from .cache/coi.txt gives 500 units, 496 KB; checked line by line against the PDF text (scratch charcheck.py). Article 238 is not printed in the source (Part VII omitted, 1956): decision added in corpus_head.json.
 - Added corpus.d parts (parts.py, via parse_acts.parse_act; marginal notes excluded), from egazette.gov.in (robots.txt 404, so no rules):
