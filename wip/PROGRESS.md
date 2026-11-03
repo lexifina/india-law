@@ -8,7 +8,12 @@
 - The notification PDF was already in the scheduler-fed cache. Its English page is born-digital (no OCR), two pages,
   SHA-256 45105d4da240440cf43b3d0565c8f615d5ac705be807a87212ada95df92d58cc.
 - `parts.py code-on-wages` parsed twice to identical SHA-256
-  d85592fe6a837dcb6e4532cc5a9ab5b3c85e2cac06d269cc19d3fab973162545. Final build/check results are in the q-36 report.
+  d85592fe6a837dcb6e4532cc5a9ab5b3c85e2cac06d269cc19d3fab973162545. The published append clone and a clean
+  rebuild both passed check.py: 10 acts, 11 versions, 0 mismatches and 0 trailer errors. Two clean full builds were
+  identical (11 commits, 21 tags, main identical); audit_push found 0 issues.
+- Publication race: while the old part `.PUBLISH` still existed, the coordinator's automated append observed this
+  update and published commit b9bb13cdc5ed3cbb796bf4f9bb5fcc8e03f825eb. This job did not push or invoke a push.
+  The local sign-off is now `22-code-on-wages.PUBLISH.pending`, as queue jobs require, for independent review.
 - The existing India Code/Legislative Department listing stop remains: their robots endpoints return 403 and the
   shared scheduler has stopped both hosts. No request was made to either host, and no breadth-completeness claim is made.
 
