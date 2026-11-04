@@ -1,0 +1,42 @@
+---
+kind: "gazette-notification"
+gazette: "Andhra Pradesh Gazette (Extraordinary)"
+gazette_number: "1024"
+gazette_type: "Extraordinary"
+part: "PART I"
+number: "1-(2026-2027)"
+issuer: "Government of Andhra Pradesh"
+department: "ANIMAL HUSBANDRY, DAIRY DEV. & FISHERIES"
+subject: "OUTBREAKS OF BIRD FLU IN POULTRY REPORTED IN SIDDARAMAPURAM (V), BUKKARAYASAMUDRAM (M) OF ANANTHAPURAMU DISTRICT - POSITIVE RESULTS COMMUNICATED FROM THE NATIONAL INSTITUTE OF HIGH SECURITY ANIMAL DISEASES (NIHSAD), BHOPAL, AND FROM THE GOVERNMENT OF INDIA - GAZETTE NOTIFICATION OF THE EPICENTERS UNDER THE PROVISIONS OF THE PREVENTION AND CONTROL OF INFECTIOUS AND CONTAGIOUS DISEASES IN ANIMALS ACT, 2009 (ACT No.27 OF 2009). [G.O.Rt.No.366, Animal Husbandry, Dairy Development & Fisheries (AH.II), 03rd November, 2026.]"
+published: "2026-11-04"
+in_force: "2026-11-04"
+in_force_evidence: "published in the Gazette 2026-11-04; no other commencement day stated"
+official_text: "https://apegazette.cgg.gov.in/uploadGazette_view?filePath=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwZWdhemV0dGUuY2dnLmdvdi5pbi9zZWFyY2hBbGxHYXpldHRlcyIsImlhdCI6MTc5MzgwOTM0MCwic3ViIjoiL1VwbG9hZHMvQVBHQVpFVFRFL2dhemV0dGVzLzE3OTM3ODk0NDE4NzgucGRmIn0._ZaDeqSjj9kcrJEsv3gKYRcM76yRs2DXR0xpEDLjGxI"
+mirror: "https://archive.org/details/in.gazette.andhra_extraordinary.2026-11-04.1024"
+language: "English text only"
+---
+
+Registered No. HSE-49/2016
+PART I EXTRAORDINARY
+No.607 AMARAVATI, WEDNESDAY, NOVEMBER 4, 2026 G.1024
+NOTIFICATIONS BY GOVERNMENT
+--x--
+ANIMAL HUSBANDRY, DAIRY DEVELOPMENT &
+FISHERIES DEPARTMENT
+(AH.II)
+OUTBREAKS OF BIRD FLU IN POULTRY REPORTED IN SIDDARAMAPURAM (V),
+BUKKARAYASAMUDRAM (M) OF ANANTHAPURAMU DISTRICT - POSITIVE
+RESULTS COMMUNICATED FROM THE NATIONAL INSTITUTE OF HIGH
+SECURITY ANIMAL DISEASES (NIHSAD), BHOPAL, AND FROM THE
+GOVERNMENT OF INDIA - GAZETTE NOTIFICATION OF THE EPICENTERS
+UNDER THE PROVISIONS OF THE PREVENTION AND CONTROL OF INFECTIOUS
+AND CONTAGIOUS DISEASES IN ANIMALS ACT, 2009 (ACT No.27 OF 2009).
+[G.O.Rt.No.366, Animal Husbandry, Dairy Development & Fisheries (AH.II),
+[1]
+
+2 ANDHRA PRADESH GAZETTE EXTRAORDINARY [Part-I
+B RAJSEKHAR,
+Special Chief Secretary to Government (FAC).
+---x---
+Published and Uploaded by the Commissioner of Printing, Government of Andhra Pradesh at
+Government Regional Press, Vijayawada, www.apegazette.cgg.gov.in
