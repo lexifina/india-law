@@ -1,5 +1,7 @@
 # India: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is India's national law, which global-law reads at `india/national/acts/`.
+
 The law of India as a git history: one file per provision, and each version credited to the body that published it. `git blame` names the source of every paragraph; picking a date gives the text in force that day, within the limits below. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `in/`.
 
 **What is in it now (a first build)**
