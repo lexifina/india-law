@@ -1,51 +1,87 @@
 # India: law history in git
 
+
+The law of India as a git history: one file per section (per article for the Constitution), one commit per version on the day it took effect, and the law that made each version as the commit's author. `git blame` names the law behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is India's national law, which global-law reads at `india/national/acts/`.
 
-The law of India as a git history: one file per provision, and each version credited to the body that published it. `git blame` names the source of every paragraph; picking a date gives the text in force that day, within the limits below. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `in/`.
+**What is in it now:** the Constitution and 9 Acts of Parliament, with 11 versions: the Constitution as on 1 May 2024; the Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam, 2023 (the criminal, criminal procedure and evidence codes); the four labour codes of 2019 and 2020; the Companies Act, 2013; and the Income-tax Act, 2025. [`data/commits.csv`](data/commits.csv) lists every version with its day and law; each act's folder has a `README.md` listing its provisions.
 
-**What is in it now (a first build)**
+Each act is a folder named after it, with one file per section, a file per chapter title and the preamble (`occupational-safety-health-and-working-conditions-code/sec-032.md` is section 32, annual leave with wages, of the Occupational Safety, Health and Working Conditions Code, 2020, Act 37 of 2020); the Constitution is `constitution/art-001.md` to `art-395.md`, with inserted articles such as `art-021-a.md`.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | The Constitution of India: the Preamble and Articles 1 to 395 | 1 | One version: the text as on 1 May 2024, brought up to date to the Constitution (One Hundred and Sixth Amendment) Act, 2023, as the Legislative Department published it |
-| `bharatiya-nyaya-sanhita/` | The Bharatiya Nyaya Sanhita, 2023 (Act 45 of 2023), the penal code that replaced the Indian Penal Code | 1 | One version: the Act as enacted (Gazette of India Extraordinary, 25 December 2023), dated 1 July 2024, when it came into force (section 106(2) excepted). Later amendments are not replayed |
-| `companies-act/` | The Companies Act, 2013 (Act 18 of 2013), India's main commercial statute (there is no single commercial code): Sections 1 to 470 | 1 | One version: the Act as enacted (Gazette of India Extraordinary, 30 August 2013), dated 30 August 2013, when section 1 came into force. The other provisions commenced in stages by notification, and later amendments are not replayed; the Schedules are not included |
-| `bharatiya-nagarik-suraksha-sanhita/` | The Bharatiya Nagarik Suraksha Sanhita, 2023 (Act 46 of 2023), the code of criminal procedure that replaced the Code of Criminal Procedure, 1973: Sections 1 to 531 | 1 | One version: the Act as enacted (Gazette of India Extraordinary, 25 December 2023), dated 1 July 2024, when it came into force. The Schedules and later amendments are not included |
-| `bharatiya-sakshya-adhiniyam/` | The Bharatiya Sakshya Adhiniyam, 2023 (Act 47 of 2023), the law of evidence that replaced the Indian Evidence Act, 1872: Sections 1 to 170 | 1 | One version: the Act as enacted (Gazette of India Extraordinary, 25 December 2023), dated 1 July 2024, when it came into force. The Schedule and later amendments are not included |
-| `code-on-wages/` | The Code on Wages, 2019 (Act 29 of 2019), the first of the four labour codes: Sections 1 to 69 | 2 | The as-enacted text from its first commencement on 18 December 2020, then the further commencement under S.O. 5322(E) on 21 November 2025 (wording unchanged) |
-| `industrial-relations-code/` | The Industrial Relations Code, 2020 (Act 35 of 2020), the second labour code (trade unions, standing orders, industrial disputes, lay-off, retrenchment and closure): Sections 1 to 104 | 1 | One version: the Code as enacted (Gazette of India Extraordinary, 29 September 2020), dated 21 November 2025, when notification S.O. 5320(E) brought it into force. The Schedules and later amendments, if any, are not included |
-| `code-on-social-security/` | The Code on Social Security, 2020 (Act 36 of 2020), the third labour code (provident fund, state insurance, gratuity, maternity benefit, employee's compensation, gig and platform workers): Sections 1 to 164 | 1 | One version: the Code as enacted (Gazette of India Extraordinary, 29 September 2020), dated 21 November 2025, when notification S.O. 5319(E) brought most of it into force (a few provisions commenced earlier or await notification). The Schedules and later amendments, if any, are not included |
-| `occupational-safety-health-and-working-conditions-code/` | The Occupational Safety, Health and Working Conditions Code, 2020 (Act 37 of 2020), the fourth labour code: Sections 1 to 143 | 1 | One version: the Code as enacted (Gazette of India Extraordinary, 29 September 2020), dated 21 November 2025, when notification S.O. 5321(E) brought it into force. The Schedules and later amendments, if any, are not included |
-| `income-tax-act/` | The Income-tax Act, 2025 (Act 30 of 2025), which replaced the Income-tax Act, 1961: Sections 1 to 536 | 1 | One version: the Act as enacted (Gazette of India Extraordinary, 21 August 2025), dated 1 April 2026, when section 1(3) brings it into force. Schedules I to XVI and amendments (including any made by a Finance Act before it commenced) are not included; tables inside sections are flattened, one cell per line |
+The text is in English, the official English text as the Gazette of India and the Legislative Department print it. The Hindi text is not part of this record.
 
-Language: the text is the official English text. The same PDF also carries the Hindi text, which is not included.
+## Questions as git commands
 
-**What it does not show**
+| Question | Command |
+| --- | --- |
+| Every change to section 32 of the OSH Code | `git log -p --word-diff -- occupational-safety-health-and-working-conditions-code/sec-032.md` |
+| Which law wrote each line of section 32? | `git blame occupational-safety-health-and-working-conditions-code/sec-032.md` |
+| Every version of the OSH Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- occupational-safety-health-and-working-conditions-code ':!*/README.md'` |
+| Section 32 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 occupational-safety-health-and-working-conditions-code 32` |
 
-- Only one version exists here. The official source is a single consolidated edition, so the repository is dated from that edition (1 May 2024), not from the Constitution's adoption (26 November 1949, in force 26 January 1950) or from each of the 106 amendments. It is the oldest version available (not the original text), and the amendments are not yet replayed.
-- The Schedules, the Appendices and the amendment footnotes are not included. Amendment markers are removed from the text. Article 238 (repealed in 1956) has no text in the source and is absent.
-- Other statutes are not included yet (India has no single civil or commercial code; further core statutes are being added one at a time).
-- Part and chapter headings are not kept as separate files.
+**Outside git**, we also host this record publicly, for free:
 
-**Source**
+- **[Ask Claude about Indian law](https://global-law.lexifina.com/v1/try_claude?country=india)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=india)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=india)**: a search of Indian law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-*The Constitution of India* (as on 1st May, 2024), Legislative Department, Official Languages Wing, Ministry of Law and Justice, Government of India: <https://legislative.gov.in/constitution-of-india/>. The PDF used was retrieved on 29 October 2026 from the Government's document store. Only the PDF's text layer was read.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
-*The Bharatiya Nyaya Sanhita, 2023*: The Gazette of India, Extraordinary, Part II, Section 1, No. 53, 25 December 2023, Ministry of Law and Justice (Legislative Department), retrieved from <https://egazette.gov.in/> on 30 October 2026. English text layer only; the marginal section headings are not included.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-*The Bharatiya Nagarik Suraksha Sanhita, 2023* and *The Bharatiya Sakshya Adhiniyam, 2023*: The Gazette of India, Extraordinary, Part II, Section 1, 25 December 2023, Ministry of Law and Justice (Legislative Department), retrieved from <https://egazette.gov.in/> on 30 October 2026. English text layer only; the marginal section headings and the Schedules are not included.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add india/national/acts
+python3 tools/law.py show 2026-01-01 india/national/acts/occupational-safety-health-and-working-conditions-code/sec-032.md
+```
 
-*The Code on Wages, 2019*: The Gazette of India, Extraordinary, Part II, Section 1, 8 August 2019, Ministry of Law and Justice (Legislative Department), retrieved from <https://egazette.gov.in/> on 30 October 2026. The later commencement is notification S.O. 5322(E), Ministry of Labour and Employment, Gazette of India Extraordinary, Part II, Section 3(ii), 21 November 2025. It commenced the provisions it lists that day, with the subsection and clause exclusions stated in the commit; the statutory wording did not change. English text layer only; the marginal section headings are not included.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-*The Industrial Relations Code, 2020*, *The Code on Social Security, 2020* and *The Occupational Safety, Health and Working Conditions Code, 2020*: The Gazette of India, Extraordinary, Part II, Section 1, 29 September 2020, Ministry of Law and Justice (Legislative Department), retrieved from <https://egazette.gov.in/> on 2 November 2026. Their commencement dates are from the Ministry of Labour and Employment's notifications S.O. 5319(E), 5320(E) and 5321(E) of 21 November 2025 (Gazette of India Extraordinary, Part II, Section 3(ii)), retrieved the same day. English text layer only; the marginal section headings and the Schedules are not included.
+## Dates
 
-*The Income-tax Act, 2025*: The Gazette of India, Extraordinary, Part II, Section 1, No. 35, 21 August 2025, Ministry of Law and Justice (Legislative Department), retrieved from <https://egazette.gov.in/> on 2 November 2026. English text layer only; the marginal section headings and the Schedules are not included.
+Each commit is dated at noon, Asia/Kolkata, on the day the version took effect, and carries it in its `In-force:` trailer:
 
-*The Companies Act, 2013*: The Gazette of India, Extraordinary, Part II, Section 1, 30 August 2013, Ministry of Law and Justice (Legislative Department), retrieved from <https://egazette.gov.in/> on 30 October 2026. English text layer only; the marginal section headings and the Schedules are not included.
+- for an Act, the day its commencement notification or its own commencement clause gives: 1 July 2024 for the three 2023 codes, 21 November 2025 for three of the labour codes, 1 April 2026 for the Income-tax Act;
+- for an Act brought into force in stages, its first commencement: 30 August 2013 (section 1) for the Companies Act, and 18 December 2020 for the Code on Wages, with a second commit for notification S.O. 5322(E) of 21 November 2025, which commenced further provisions without changing a word (`Words-changed: no`);
+- for the Constitution, the day of the Legislative Department's edition, 1 May 2024, not 26 January 1950.
 
-Dates are the dates the source gives. Nothing here is legal advice; for anything that matters, read the original. How the files were made is in [REPRODUCE.md](REPRODUCE.md).
+Each Act's version is credited to the Act itself (`Act 37 of 2020`), and the Code on Wages' second commit to the notification. The Constitution's one version is the oldest version available, credited to its publisher, the Legislative Department, Ministry of Law and Justice.
+
+## How it is checked
+
+- `tools/check_repo.py` reads every act back from git on the day each version took effect and on the day before, and compares it with the corpus the history was built from; the result is in [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/verify_parts.py` and `tools/verify_window.py` check each act line by line against the text layer of its Gazette PDF (letters and digits only, each line within its own section).
+- History is append-only: no merge commits, committer dates never go backwards, nothing is dated after the build, and every commit's trailers parse.
+- The same corpus always gives the same commit hashes; no second build has been compared yet.
+
+## What it does not show
+
+- **Amendments.** Each Act is its text as enacted, and the Constitution one consolidated edition; amendments are not replayed (the Constitution's 106, or any Finance Act changes to the Income-tax Act).
+- **Staged commencement.** The Companies Act, 2013 and the Code on Social Security, 2020 commenced in stages; each Act here carries one day.
+- **Schedules and margins.** The Schedules, the marginal section headings, the Constitution's Appendices and its amendment footnotes are left out; tables in the Income-tax Act are flattened, one cell per line.
+- **Most of India's law.** Other Acts of Parliament, rules and notifications, State law and case law are not here.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [e-Gazette](https://egazette.gov.in) (Gazette of India, Extraordinary, Part II, Section 1) | Official Gazette | no, each Act as enacted | The nine Acts, and the labour codes' commencement notifications (Part II, Section 3(ii)) |
+| [Legislative Department](https://legislative.gov.in/constitution-of-india/) (Ministry of Law and Justice) | Official consolidated text | no, the edition as on 1 May 2024 | The Constitution of India, Preamble and Articles 1 to 395 |
 
 ## Licence
 
-See [LICENSE](LICENSE).
+See [`LICENSE`](LICENSE). Section 52(1)(q) of the Copyright Act, 1957 allows an Act of a Legislature to be reproduced together with commentary or other original matter, here the commit records, per-version notes, tables and tools; the Constitution is published by the Government of India for public use, and this repository makes no claim over it.
+
+No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
