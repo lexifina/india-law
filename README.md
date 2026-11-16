@@ -59,6 +59,7 @@ Each Act's version is credited to the Act itself (`Act 37 of 2020`), and the Cod
 - `tools/verify_parts.py` and `tools/verify_window.py` check each act line by line against the text layer of its Gazette PDF (letters and digits only, each line within its own section).
 - History is append-only: no merge commits, committer dates never go backwards, nothing is dated after the build, and every commit's trailers parse.
 - The same corpus always gives the same commit hashes; no second build has been compared yet.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ Each Act's version is credited to the Act itself (`Act 37 of 2020`), and the Cod
 See [`LICENSE`](LICENSE). Section 52(1)(q) of the Copyright Act, 1957 allows an Act of a Legislature to be reproduced together with commentary or other original matter, here the commit records, per-version notes, tables and tools; the Constitution is published by the Government of India for public use, and this repository makes no claim over it.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
