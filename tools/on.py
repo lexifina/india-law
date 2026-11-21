@@ -1,16 +1,20 @@
 """Prints the law as it stood on a day, read from this repository's history.
 
     python tools/on.py 2015-06-01                      # every act's commit in force that day
-    python tools/on.py 2015-06-01 constitucion         # the whole act on that day
-    python tools/on.py 2015-06-01 constitucion art-019 # one provision (a file name without .md)
-    python tools/on.py 2015-06-01 constitucion 19      # the same, by article number
-    python tools/on.py --law 2015-06-01 constitucion art-019  # also name the law behind the version shown
+    python tools/on.py 2015-06-01 constitution         # the whole act on that day
+    python tools/on.py 2015-06-01 constitution art-019 # one provision (a file name without .md)
+    python tools/on.py 2015-06-01 constitution 19      # the same, by article number
+    python tools/on.py 2026-01-01 central/acts/code-on-wages-2019 sec-002   # an Act, by its folder
+    python tools/on.py --law 2015-06-01 constitution art-019  # also name the law behind the version shown
 
 Each commit carries the day its change took effect in an `In-force:` trailer. That trailer, not the commit date, is
 the source of truth: git cannot store dates before 1970, and reading the trailer avoids time-zone edge cases. The text
 in force on a day is the last commit on or before it that touches the act. Laws published but not yet in force live on
 the future branch, which is read for days after the newest commit on main. Merge commits are ignored. Standard library
 only.
+
+Moved folders: data/paths.json lists folders that were moved (2026-11-21 layout commit, STRUCTURE.md 7). An act is read
+under its current path and every earlier path of it, so its whole history is found by either name.
 """
 import datetime as dt
 import re
@@ -37,9 +41,46 @@ def branches() -> tuple[str, str | None]:
     return 'main', None
 
 
+_MOVES: dict | None = None
+
+
+def moves() -> dict[str, str]:
+    """{old folder: new folder} from data/paths.json on main (empty if none)."""
+    global _MOVES
+    if _MOVES is None:
+        import json
+        try:
+            _MOVES = json.loads(git('show', 'main:data/paths.json')).get('paths', {})
+        except (subprocess.CalledProcessError, ValueError):
+            _MOVES = {}
+    return _MOVES
+
+
+def aliases(path: str) -> list[str]:
+    """path, and the same path under every other name its folder had (data/paths.json)."""
+    path = path.rstrip('/')
+    out = [path]
+    for old, new in moves().items():
+        for a, b in ((new, old), (old, new)):
+            if path == a or path.startswith(a + '/'):
+                p = b + path[len(a):]
+                if p not in out:
+                    out.append(p)
+    return out
+
+
+def at(commit: str, path: str) -> str:
+    """The name path had in commit (its current name if it is there)."""
+    for p in aliases(path):
+        if git('ls-tree', '--name-only', commit, '--', p).strip():
+            return p
+    return path
+
+
 def history(branch: str, path: str, repo=None) -> list[tuple[str, str, str]]:
-    """(commit, in-force day, author) for every commit touching path, newest first."""
-    args = ('log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an', branch, '--', path)
+    """(commit, in-force day, author) for every commit touching path (under any of its names), newest first."""
+    args = ('log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an', branch, '--',
+            *aliases(path))
     out = git(*args) if repo is None else _g(repo, *args)
     rows = []
     for line in out.splitlines():
@@ -198,6 +239,24 @@ def commit_on(day: str, path: str) -> tuple[str, str, str] | None:
     return None
 
 
+ACT_TREES = ('central/acts/', 'central/rules/', 'states/', 'union-territories/', 'regulators/', 'historical/')
+NOT_ACTS = ('data', 'tools', 'visualisations', 'vulnerabilities', 'courts', 'tribunals', 'parliament')
+
+
+def act_folders() -> list[str]:
+    """Every act folder on main: constitution/, and the folders holding provision files under central/acts/ etc."""
+    out = set()
+    for p in git('ls-tree', '-r', '--name-only', 'main').split('\n'):
+        if '/' not in p or p.split('/')[0] in NOT_ACTS or not p.endswith('.md') or p.endswith('/README.md'):
+            continue
+        d = p.rsplit('/', 1)[0]
+        if any(d.startswith(t) for t in ACT_TREES) or '/' not in d:
+            if not any(x in d.split('/') for x in ('gazette', 'amending-acts', 'ordinances', 'circulars', 'orders',
+                                                   'notifications')):
+                out.add(d)
+    return sorted(out)
+
+
 def resolve(commit: str, act: str, unit: str, files: list[str] | None = None) -> str | None:
     if files is None:
         files = git('ls-tree', '-r', '--name-only', commit, f'{act}/').split('\n')
@@ -236,17 +295,16 @@ def main():
     if any(rd.fixes for rd in readers.values()):
         return corrected(day, args, show_law, readers[main_ref], readers.get(future))
     if len(args) == 1:
-        acts = sorted({p.split('/')[0] for p in git('ls-tree', '-r', '--name-only', 'main').split('\n')
-                       if '/' in p and p.split('/')[0] not in ('data', 'tools')})
-        for act in acts:
+        for act in act_folders():
             hit = commit_on(day, act)
             print(f'{act}\t' + (f'{hit[1]}\t{hit[0][:10]}\t{hit[2]}' if hit else 'not in force yet'))
         return
-    act = args[1]
+    act = args[1].rstrip('/')
     hit = commit_on(day, act)
     if not hit:
         sys.exit(f'{act} is not in the record on {day}: it took effect later, or the name is wrong (see `python tools/on.py {day}`).')
     commit = hit[0]
+    act = at(commit, act)
     if len(args) > 2:
         path = resolve(commit, act, args[2])
         if not path:

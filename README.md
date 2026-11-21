@@ -11,7 +11,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** the Constitution and 9 Acts of Parliament, with 11 versions: the Constitution as on 1 May 2024; the Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam, 2023 (the criminal, criminal procedure and evidence codes); the four labour codes of 2019 and 2020; the Companies Act, 2013; and the Income-tax Act, 2025. [`data/commits.csv`](data/commits.csv) lists every version with its day and law; each act's folder has a `README.md` listing its provisions.
 
-Each act is a folder named after it, with one file per section, a file per chapter title and the preamble (`occupational-safety-health-and-working-conditions-code/sec-032.md` is section 32, annual leave with wages, of the Occupational Safety, Health and Working Conditions Code, 2020, Act 37 of 2020); the Constitution is `constitution/art-001.md` to `art-395.md`, with inserted articles such as `art-021-a.md`.
+Each Act is a folder under `central/acts/` named by its short title and year, with one file per section, a file per chapter title and the preamble (`central/acts/occupational-safety-health-and-working-conditions-code-2020/sec-032.md` is section 32, annual leave with wages, of the Occupational Safety, Health and Working Conditions Code, 2020, Act 37 of 2020); the Constitution is `constitution/art-001.md` to `art-395.md`, with inserted articles such as `art-021-a.md`.
 
 The text is in English, the official English text as the Gazette of India and the Legislative Department print it. The Hindi text is not part of this record.
 
@@ -19,10 +19,10 @@ The text is in English, the official English text as the Gazette of India and th
 
 | Question | Command |
 | --- | --- |
-| Every change to section 32 of the OSH Code | `git log -p --word-diff -- occupational-safety-health-and-working-conditions-code/sec-032.md` |
-| Which law wrote each line of section 32? | `git blame occupational-safety-health-and-working-conditions-code/sec-032.md` |
-| Every version of the OSH Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- occupational-safety-health-and-working-conditions-code ':!*/README.md'` |
-| Section 32 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 occupational-safety-health-and-working-conditions-code 32` |
+| Every change to section 32 of the OSH Code | `git log -p --follow --word-diff -- central/acts/occupational-safety-health-and-working-conditions-code-2020/sec-032.md` |
+| Which law wrote each line of section 32? | `git blame central/acts/occupational-safety-health-and-working-conditions-code-2020/sec-032.md` |
+| Every version of the OSH Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- central/acts/occupational-safety-health-and-working-conditions-code-2020 occupational-safety-health-and-working-conditions-code ':!*/README.md'` |
+| Section 32 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 central/acts/occupational-safety-health-and-working-conditions-code-2020 32` |
 
 **Outside git**, we also host this record publicly, for free:
 
