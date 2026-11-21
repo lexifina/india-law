@@ -77,7 +77,7 @@ Each Act's version is credited to the Act itself (`Act 37 of 2020`), and the Cod
 
 ## Licence
 
-See [`LICENSE`](LICENSE). Section 52(1)(q) of the Copyright Act, 1957 allows an Act of a Legislature to be reproduced together with commentary or other original matter, here the commit records, per-version notes, tables and tools; the Constitution is published by the Government of India for public use, and this repository makes no claim over it.
+See [`LICENSE`](LICENSE). Section 52(1)(q) of the Copyright Act, 1957 allows an Act of a Legislature to be reproduced together with commentary or other original matter, here the commit records, per-version notes, tables and tools; the Constitution is published by the Government of India for public use, and this repository makes no claim over it. Lexifina's own work (the commits, notes, tables, tools and READMEs) is dedicated to the public domain under CC0 1.0; [`LICENSE`](LICENSE) gives each source's own terms.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 

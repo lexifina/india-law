@@ -1,70 +1,161 @@
-The legal text is the Constitution of India, as published by the Legislative Department (Official Languages Wing),
-Ministry of Law and Justice, Government of India:
+Licence and sources
 
-  The Constitution of India [As on 1st May, 2024]
-  Source: https://legislative.gov.in/constitution-of-india/
-  File: https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf
-  Retrieved 29 October 2026.
+1. Lexifina's own work
 
-The Constitution is the law of India and the text is published by the Government of India for public use.
-This repository makes no claim over it.
+CC0 1.0 Universal
 
-Changes made by Lexifina: the PDF's text layer was read, split into one Markdown file per article, page headers
-and footnotes were removed, amendment footnote markers were stripped, and lines were rejoined into paragraphs.
-The wording is otherwise the Government's. Not an official copy.
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or
+her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent
+allowed by law.
 
-The Bharatiya Nyaya Sanhita, 2023 (Act 45 of 2023) is the law of India, as published in The Gazette of India,
-Extraordinary, Part II, Section 1, No. 53 (25 December 2023) by the Ministry of Law and Justice (Legislative Department):
-  Source: https://egazette.gov.in/WriteReadData/2023/250883.pdf
-  Retrieved 30 October 2026.
-The file carries no licence statement; the Act is published by the Government of India for general information.
-Changes made by Lexifina: the English text layer was read, split into one Markdown file per section, running headers,
-page numbers and the marginal notes were removed, and lines were rejoined into paragraphs. Not an official copy.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-The Companies Act, 2013 (Act 18 of 2013) is the law of India, as published in The Gazette of India, Extraordinary,
-Part II, Section 1 (30 August 2013) by the Ministry of Law and Justice (Legislative Department):
-  Source: https://egazette.gov.in/WriteReadData/2013/E_27_2013_425.pdf
-  Retrieved 30 October 2026.
-The file carries no licence statement; the Act is published by the Government of India for general information.
-Changes made by Lexifina: the English text layer was read, split into one Markdown file per section (Sections 1 to 470),
-running headers, page numbers and the marginal notes were removed, and lines were rejoined into paragraphs. The Schedules
-are not included. Not an official copy.
+Full legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
-The Industrial Relations Code, 2020 (Act 35 of 2020), the Code on Social Security, 2020 (Act 36 of 2020) and the
-Occupational Safety, Health and Working Conditions Code, 2020 (Act 37 of 2020) are the law of India, as published in
-The Gazette of India, Extraordinary, Part II, Section 1 (29 September 2020) by the Ministry of Law and Justice
-(Legislative Department):
-  Sources: https://egazette.gov.in/WriteReadData/2020/222118.pdf (Industrial Relations Code)
-           https://egazette.gov.in/WriteReadData/2020/222111.pdf (Code on Social Security)
-           https://egazette.gov.in/WriteReadData/2020/222112.pdf (Occupational Safety, Health and Working Conditions Code)
-  Commencement notifications S.O. 5319(E), 5320(E) and 5321(E) of 21 November 2025 (Ministry of Labour and
-  Employment): https://egazette.gov.in/WriteReadData/2025/267882.pdf, .../267883.pdf and .../267884.pdf
-  Retrieved 2 November 2026.
-The files carry no licence statement. Changes made by Lexifina: the English text layer was read, split into one
-Markdown file per section, running headers, page numbers and the marginal notes were removed, and lines were rejoined
-into paragraphs. The Schedules are not included. Not an official copy.
+This dedication covers everything Lexifina made: the history as commits, the commit messages and per-version notes,
+the folder layout and file names, the indexes and tables (data/), the tools (tools/), the READMEs, REPRODUCE.md and
+this file, from the first commit of this repository. It does not cover the texts listed in sections 2 and 3, which
+come from their publishers and keep whatever terms those publishers give them. Nothing Lexifina made is under the MIT
+License or any licence other than CC0 1.0.
 
-The further commencement of provisions of the Code on Wages, 2019 is recorded from notification S.O. 5322(E),
-Ministry of Labour and Employment, Gazette of India, Extraordinary, Part II, Section 3(ii), 21 November 2025:
-  Source: https://egazette.gov.in/WriteReadData/2025/267885.pdf
-  Retrieved 2 November 2026.
-The notification changes when the provisions it lists operate, without changing their words.
+2. The law: Copyright Act, 1957
 
-The Income-tax Act, 2025 (Act 30 of 2025) is the law of India, as published in The Gazette of India, Extraordinary,
-Part II, Section 1, No. 35 (21 August 2025) by the Ministry of Law and Justice (Legislative Department):
-  Source: https://egazette.gov.in/WriteReadData/2025/265620.pdf
-  Retrieved 2 November 2026.
-The file carries no licence statement. Changes made by Lexifina: the English text layer was read, split into one
-Markdown file per section, running headers, page numbers and the marginal notes were removed, lines were rejoined
-into paragraphs, and tables were flattened to one cell per line. The Schedules are not included. Not an official copy.
-
-Reuse under Indian copyright law. The Copyright Act, 1957, section 52(1)(q), provides that the following do not
-constitute an infringement of copyright:
+2.1 Section 52(1)(q). The following do not constitute an infringement of copyright:
   "(q) the reproduction or publication of—
    (i) any matter which has been published in any Official Gazette except an Act of a Legislature;
    (ii) any Act of a Legislature subject to the condition that such Act is reproduced or published together with any
-        commentary thereon or any other original matter;"
-This repository publishes the Acts together with original matter: the per-version notes, the commit records of when
-each provision came into force and which law made it, the tables in data/, and the tools in tools/. The e-Gazette
-(egazette.gov.in) states that the Gazette of India "can be accessed free of cost by the general public being available
-in the public domain"; neither it nor the files state a prohibition on reproduction.
+        commentary thereon or any other original matter;
+   (iii) the report of any committee, commission, council, board or other like body appointed by the Government if
+        such report has been laid on the Table of the Legislature, unless the reproduction or publication of such
+        report is prohibited by the Government;
+   (iv) any judgment or order of a court, tribunal or other judicial authority, unless the reproduction or
+        publication of such judgment or order is prohibited by the court, the tribunal or other judicial authority,
+        as the case may be;"
+    (i) and (ii) as quoted below since 2026-11-03; (iii) and (iv) read from a secondary copy on 2026-11-21, to be
+    checked against the official text when India Code can be read from here.
+    Gazette matter other than Acts (rules, regulations, notifications, orders, ordinances) is taken under (i). Acts are
+    published with original matter, as (ii) requires: the commit records of when each provision came into force and
+    which law made it, the per-version notes, the tables in data/ and the tools in tools/. Judgments and orders are
+    taken under (iv), official text only: no publisher's headnotes, summaries or paragraph numbering (Eastern Book
+    Company v. D.B. Modak, Supreme Court, 2007).
+
+2.2 Section 28 (Government works). Copyright in a Government work subsists for sixty years from the beginning of the
+    calendar year next following the year in which the work is first published. Government works first published
+    before 1966 (colonial and pre-1966 Acts, codes, regulations and gazettes) are therefore in the public domain in
+    India, whatever a later copy or scan of them says.
+
+2.3 Personal data and protected cases. Judgments in sexual-offence, POCSO, juvenile-justice and matrimonial cases are
+    not included at all (Bharatiya Nyaya Sanhita s.72, formerly IPC s.228A; POCSO Act s.23; Juvenile Justice Act 2015
+    s.74; the Supreme Court's directions on anonymity). Paths and commit trailers name cases by number and CNR, never
+    by party.
+
+3. Texts from their publishers
+
+3.0 Sources and their own terms (read on the dates given)
+
+  e-Gazette, egazette.gov.in (Directorate of Printing / Department of Publication, Ministry of Housing and Urban
+    Affairs): the Gazette of India, Extraordinary and Weekly. Its About page (read 2026-11-02) says the Gazette of India
+    "can be accessed free of cost by the general public being available in the public domain"; its Disclaimer page has
+    no body text; no prohibition on reproduction was found. robots.txt: none (404, read 2026-11-21).
+  Legislative Department file store, cdnbbsr.s3waas.gov.in (the file store of legislative.gov.in, Ministry of Law and
+    Justice): official PDFs of the Constitution, Acts and their amendments. No terms are published on the store itself
+    (robots.txt 404, read 2026-11-21); the Department's site legislative.gov.in could not be read from here (HTTP 403,
+    2026-11-02), so its website policy has not been read. Files are used only where a reachable page or the store's
+    own listing links them.
+  Internet Archive, archive.org: scans and metadata of official publications, used as a mirror and credited as such,
+    with the official source recorded where the item names one. The gazetteofindia collection (uploaded by Public
+    Resource, crawler github.com/sushant354/egazette) carries no licence statement on its items (read 2026-11-21); its
+    content is official gazette matter (2.1 (i)) or a Government work before 1966 (2.2). Older Acts, codes and
+    regulations come from scans of official editions in the Digital Library of India and other library collections on
+    archive.org; these are Government works before 1966 (2.2). Lexifina makes its own text from the scan's text layer,
+    or by its own OCR where there is none; archive.org's own OCR text is not used.
+  Indian Supreme Court judgments and Indian High Court judgments (AWS Open Data: registry.opendata.aws/indian-supreme-
+    court-judgments and registry.opendata.aws/indian-high-court-judgments; github.com/vanga/indian-supreme-court-
+    judgments and github.com/vanga/indian-high-court-judgments; read 2026-11-21): licensed under Creative Commons
+    Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). Attribution: "Indian
+    Supreme Court Judgments" and "Indian High Court Judgments", by their maintainers (Dattam Labs), from the AWS Open Data
+    Registry, CC BY 4.0. The datasets were collected from scr.sci.gov.in and judgments.ecourts.gov.in; their PDFs are
+    recompressed copies, not byte-identical official copies. Commits from them carry a Mirror: trailer. Lexifina's
+    changes: text extracted from the PDFs, one file per judgment, protected case types dropped (2.3).
+  Government Open Data Licence - India (GODL), notified in the Gazette of India, Extraordinary, 13 February 2017
+    (Ministry of Electronics and Information Technology notification of 10 February 2017): data published under it
+    may be used, adapted and shared free of charge, including commercially, with an attribution statement naming the
+    provider, the source, the licence and the URL; it does not cover personal information, official symbols or data
+    the provider may not license. It applies to datasets published under it (data.gov.in); where a source in this
+    repository says it publishes under GODL, its attribution is given with that source.
+  Supreme Court of India, www.sci.gov.in (website policies, read through a search result 2026-11-21): "The contents
+    on this website shall not be reproduced partially or fully, without duly & prominently acknowledging the source."
+    Judgments checked against or taken from the Court's own copies name it as the source in each commit.
+
+3.1 Acts and the Constitution in this repository, as first published here
+
+    The legal text is the Constitution of India, as published by the Legislative Department (Official Languages Wing),
+    Ministry of Law and Justice, Government of India:
+
+      The Constitution of India [As on 1st May, 2024]
+      Source: https://legislative.gov.in/constitution-of-india/
+      File: https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf
+      Retrieved 29 October 2026.
+
+    The Constitution is the law of India and the text is published by the Government of India for public use.
+    This repository makes no claim over it.
+
+    Changes made by Lexifina: the PDF's text layer was read, split into one Markdown file per article, page headers
+    and footnotes were removed, amendment footnote markers were stripped, and lines were rejoined into paragraphs.
+    The wording is otherwise the Government's. Not an official copy.
+
+    The Bharatiya Nyaya Sanhita, 2023 (Act 45 of 2023) is the law of India, as published in The Gazette of India,
+    Extraordinary, Part II, Section 1, No. 53 (25 December 2023) by the Ministry of Law and Justice (Legislative Department):
+      Source: https://egazette.gov.in/WriteReadData/2023/250883.pdf
+      Retrieved 30 October 2026.
+    The file carries no licence statement; the Act is published by the Government of India for general information.
+    Changes made by Lexifina: the English text layer was read, split into one Markdown file per section, running headers,
+    page numbers and the marginal notes were removed, and lines were rejoined into paragraphs. Not an official copy.
+
+    The Companies Act, 2013 (Act 18 of 2013) is the law of India, as published in The Gazette of India, Extraordinary,
+    Part II, Section 1 (30 August 2013) by the Ministry of Law and Justice (Legislative Department):
+      Source: https://egazette.gov.in/WriteReadData/2013/E_27_2013_425.pdf
+      Retrieved 30 October 2026.
+    The file carries no licence statement; the Act is published by the Government of India for general information.
+    Changes made by Lexifina: the English text layer was read, split into one Markdown file per section (Sections 1 to 470),
+    running headers, page numbers and the marginal notes were removed, and lines were rejoined into paragraphs. The Schedules
+    are not included. Not an official copy.
+
+    The Industrial Relations Code, 2020 (Act 35 of 2020), the Code on Social Security, 2020 (Act 36 of 2020) and the
+    Occupational Safety, Health and Working Conditions Code, 2020 (Act 37 of 2020) are the law of India, as published in
+    The Gazette of India, Extraordinary, Part II, Section 1 (29 September 2020) by the Ministry of Law and Justice
+    (Legislative Department):
+      Sources: https://egazette.gov.in/WriteReadData/2020/222118.pdf (Industrial Relations Code)
+               https://egazette.gov.in/WriteReadData/2020/222111.pdf (Code on Social Security)
+               https://egazette.gov.in/WriteReadData/2020/222112.pdf (Occupational Safety, Health and Working Conditions Code)
+      Commencement notifications S.O. 5319(E), 5320(E) and 5321(E) of 21 November 2025 (Ministry of Labour and
+      Employment): https://egazette.gov.in/WriteReadData/2025/267882.pdf, .../267883.pdf and .../267884.pdf
+      Retrieved 2 November 2026.
+    The files carry no licence statement. Changes made by Lexifina: the English text layer was read, split into one
+    Markdown file per section, running headers, page numbers and the marginal notes were removed, and lines were rejoined
+    into paragraphs. The Schedules are not included. Not an official copy.
+
+    The further commencement of provisions of the Code on Wages, 2019 is recorded from notification S.O. 5322(E),
+    Ministry of Labour and Employment, Gazette of India, Extraordinary, Part II, Section 3(ii), 21 November 2025:
+      Source: https://egazette.gov.in/WriteReadData/2025/267885.pdf
+      Retrieved 2 November 2026.
+    The notification changes when the provisions it lists operate, without changing their words.
+
+    The Income-tax Act, 2025 (Act 30 of 2025) is the law of India, as published in The Gazette of India, Extraordinary,
+    Part II, Section 1, No. 35 (21 August 2025) by the Ministry of Law and Justice (Legislative Department):
+      Source: https://egazette.gov.in/WriteReadData/2025/265620.pdf
+      Retrieved 2 November 2026.
+    The file carries no licence statement. Changes made by Lexifina: the English text layer was read, split into one
+    Markdown file per section, running headers, page numbers and the marginal notes were removed, lines were rejoined
+    into paragraphs, and tables were flattened to one cell per line. The Schedules are not included. Not an official copy.
+
+    Reuse under Indian copyright law. The Copyright Act, 1957, section 52(1)(q), provides that the following do not
+    constitute an infringement of copyright:
+      "(q) the reproduction or publication of—
+       (i) any matter which has been published in any Official Gazette except an Act of a Legislature;
+       (ii) any Act of a Legislature subject to the condition that such Act is reproduced or published together with any
+            commentary thereon or any other original matter;"
+    This repository publishes the Acts together with original matter: the per-version notes, the commit records of when
+    each provision came into force and which law made it, the tables in data/, and the tools in tools/. The e-Gazette
+    (egazette.gov.in) states that the Gazette of India "can be accessed free of cost by the general public being available
+    in the public domain"; neither it nor the files state a prohibition on reproduction.
