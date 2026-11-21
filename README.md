@@ -9,7 +9,7 @@ The law of India as a git history: one file per section (per article for the Con
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is India's national law, which global-law reads at `india/national/acts/`.
 
-**What is in it now:** the Constitution and 9 Acts of Parliament, with 11 versions: the Constitution as on 1 May 2024; the Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam, 2023 (the criminal, criminal procedure and evidence codes); the four labour codes of 2019 and 2020; the Companies Act, 2013; and the Income-tax Act, 2025. [`data/commits.csv`](data/commits.csv) lists every version with its day and law; each act's folder has a `README.md` listing its provisions.
+**What is in it now:** 34 commits: the Constitution of India, and 9 central Acts with their versions.
 
 Each Act is a folder under `central/acts/` named by its short title and year, with one file per section, a file per chapter title and the preamble (`central/acts/occupational-safety-health-and-working-conditions-code-2020/sec-032.md` is section 32, annual leave with wages, of the Occupational Safety, Health and Working Conditions Code, 2020, Act 37 of 2020); the Constitution is `constitution/art-001.md` to `art-395.md`, with inserted articles such as `art-021-a.md`.
 
