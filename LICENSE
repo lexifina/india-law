@@ -87,6 +87,27 @@ License or any licence other than CC0 1.0.
     on this website shall not be reproduced partially or fully, without duly & prominently acknowledging the source."
     Judgments checked against or taken from the Court's own copies name it as the source in each commit.
 
+3.2 Sources added by the lanes
+
+  Indian High Court Judgments (AWS Open Data Registry), https://registry.opendata.aws/indian-high-court-judgments/ (used for courts/high-courts/)
+    Licence: Creative Commons Attribution 4.0 International (CC BY 4.0),
+    https://creativecommons.org/licenses/by/4.0/.
+    Terms (read 2026-11-21, https://github.com/vanga/indian-high-court-judgments): the registry entry (awslabs/open-
+    data-registry YAML) and the dataset's GitHub README (https://github.com/vanga/indian-high-court-judgments) give
+    the licence as CC BY 4.0. Changes made by Lexifina: text extracted from the PDFs, one file per judgment,
+    headnotes left out (Supreme Court), protected case types removed.
+    Attribution: "Indian High Court Judgments", Dattam Labs (dattam.in), AWS Open Data Registry
+    (registry.opendata.aws/indian-high-court-judgments), CC BY 4.0.
+  Indian Supreme Court Judgments (AWS Open Data Registry), https://registry.opendata.aws/indian-supreme-court-judgments/ (used for courts/supreme-court/)
+    Licence: Creative Commons Attribution 4.0 International (CC BY 4.0),
+    https://creativecommons.org/licenses/by/4.0/.
+    Terms (read 2026-11-21, https://github.com/vanga/indian-supreme-court-judgments): the registry entry
+    (awslabs/open-data-registry YAML) and the dataset's GitHub README (https://github.com/vanga/indian-supreme-
+    court-judgments) give the licence as CC BY 4.0. Changes made by Lexifina: text extracted from the PDFs, one file
+    per judgment, headnotes left out (Supreme Court), protected case types removed.
+    Attribution: "Indian Supreme Court Judgments", Dattam Labs (dattam.in), AWS Open Data Registry
+    (registry.opendata.aws/indian-supreme-court-judgments), CC BY 4.0.
+
 3.1 Acts and the Constitution in this repository, as first published here
 
     The legal text is the Constitution of India, as published by the Legislative Department (Official Languages Wing),
