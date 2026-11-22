@@ -15,10 +15,10 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **Held back for now:**
 
-- about 400,000 interim High Court orders (orders not marked final in the courts' records), pending a decision on whether interim orders belong here;
-- about 50,000 land-acquisition notices (23,198 in the Gazette of India, 26,875 in state gazettes), pending a decision;
+- about 400,000 interim High Court orders (orders not marked final in the courts' records): they will be added after the final judgments;
+- about 50,000 land-acquisition notices (23,198 in the Gazette of India, 26,875 in state gazettes): they are left out, not held;
 - about 240 central Acts that come into force on a day the Government notifies, until that notification is found (45 dated so far);
-- about 360 state reprints "as modified up to" a date, pending a decision on whether that date may date a version;
+- about 70 state reprints that do not print a full "as modified up to" date (reprints that print one are dated on that day, as consolidated snapshots);
 - about 235,000 High Court PDFs whose text layer is broken or missing, and 7,000 not in English, for a later pass.
 
 Judgments in sexual-offence, POCSO, juvenile-justice and matrimonial cases are never included: they are left out, not held.
