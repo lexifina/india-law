@@ -53,10 +53,11 @@ License or any licence other than CC0 1.0.
 
 3.0 Sources and their own terms (read on the dates given)
 
-  e-Gazette, egazette.gov.in (Directorate of Printing / Department of Publication, Ministry of Housing and Urban
-    Affairs): the Gazette of India, Extraordinary and Weekly. Its About page (read 2026-11-02) says the Gazette of India
-    "can be accessed free of cost by the general public being available in the public domain"; its Disclaimer page has
-    no body text; no prohibition on reproduction was found. robots.txt: none (404, read 2026-11-21).
+  e-Gazette, egazette.gov.in, formerly egazette.nic.in (Directorate of Printing / Department of Publication, Ministry
+    of Housing and Urban Affairs): the Gazette of India, Extraordinary and Weekly. Its About page (read 2026-11-02)
+    says the Gazette of India "can be accessed free of cost by the general public being available in the public
+    domain"; its Disclaimer page has no body text; no prohibition on reproduction was found. robots.txt: none (404,
+    read 2026-11-21).
   Legislative Department file store, cdnbbsr.s3waas.gov.in (the file store of legislative.gov.in, Ministry of Law and
     Justice): official PDFs of the Constitution, Acts and their amendments. No terms are published on the store itself
     (robots.txt 404, read 2026-11-21); the Department's site legislative.gov.in could not be read from here (HTTP 403,
@@ -89,6 +90,12 @@ License or any licence other than CC0 1.0.
 
 3.2 Sources added by the lanes
 
+  Government of Goa, https://www.goa.gov.in/government/acts-and-rules/ (used for states/goa/acts/, amending-acts/, ordinances/)
+    Terms (read 2026-11-22, https://www.goa.gov.in/copyright/): copyright policy: material featured on the site may
+    be reproduced free of charge in any format or media without specific permission, if reproduced accurately and
+    not in a derogatory or misleading context, with the source prominently acknowledged; third-party material
+    excluded.
+    Attribution: Source: Government of Goa, goa.gov.in.
   Indian High Court Judgments (AWS Open Data Registry), https://registry.opendata.aws/indian-high-court-judgments/ (used for courts/high-courts/)
     Licence: Creative Commons Attribution 4.0 International (CC BY 4.0),
     https://creativecommons.org/licenses/by/4.0/.
@@ -107,6 +114,40 @@ License or any licence other than CC0 1.0.
     per judgment, headnotes left out (Supreme Court), protected case types removed.
     Attribution: "Indian Supreme Court Judgments", Dattam Labs (dattam.in), AWS Open Data Registry
     (registry.opendata.aws/indian-supreme-court-judgments), CC BY 4.0.
+  Insolvency and Bankruptcy Board of India (IBBI), https://ibbi.gov.in (used for regulators/ibbi/)
+    Terms (read 2026-11-21, https://ibbi.gov.in/home/website-policy): website policy: "The contents of this website
+    are for information purposes only"; no reproduction clause (its Copyright Policy tab is empty). Regulations and
+    notifications are Gazette matter (2.1 (i)).
+  Insurance Regulatory and Development Authority of India (IRDAI), https://irdai.gov.in (used for regulators/irdai/)
+    Terms (read 2026-11-21, https://irdai.gov.in/website-policies): "Material featured on this site may be
+    reproduced free of charge in any format or media without requiring specific permission", if reproduced
+    accurately, not in a derogatory manner or a misleading context, and with the source prominently acknowledged.
+    Attribution: Source: Insurance Regulatory and Development Authority of India, irdai.gov.in.
+  Law and Judiciary Department, Government of Maharashtra, https://old-lj.maharashtra.gov.in (used for states/maharashtra/)
+    Terms (read 2026-11-22, https://old-lj.maharashtra.gov.in/1099/Terms-and-Condition): the Terms and Conditions
+    page has no reproduction terms; its footer reads (in Marathi) that the site is the official website of the Law
+    and Judiciary Department, all rights reserved. Acts are published with original matter (2.1 (ii)) and the
+    Department's reprints are its official English texts.
+  National Company Law Appellate Tribunal (NCLAT), https://nclat.nic.in/judgement-data (used for tribunals/nclat/)
+    Terms (read 2026-11-22, https://nclat.nic.in/copyright-policy): copyright policy: material on the portal may be
+    reproduced free of charge in any format without specific permission, if reproduced accurately and not in a
+    derogatory or misleading way, with the source prominently acknowledged; third-party material excluded. Orders
+    are taken under 2.1 (iv).
+    Attribution: Source: National Company Law Appellate Tribunal, nclat.nic.in.
+  Pension Fund Regulatory and Development Authority (PFRDA), https://www.pfrda.org.in (used for regulators/pfrda/)
+    Terms (read 2026-11-21, https://www.pfrda.org.in/web/pfrda/terms-and-conditions): terms and conditions: content
+    "should not be considered a legal statement or used for legal purposes"; "(c) Copyright PFRDA. All rights
+    reserved." Regulations and notifications are Gazette matter (2.1 (i)); circulars are taken as official text with
+    the source named in each commit.
+  State and union-territory gazettes (Internet Archive copies), https://archive.org/search?query=identifier%3Ain.gazette.* (used for states/<state>/gazette/, union-territories/<ut>/gazette/)
+    Terms (read 2026-11-21): the in.gazette.<state> collections on archive.org carry no licence statement; their
+    content is official gazette matter (2.1 (i)). Each commit names the archive.org item as Source and the state's
+    own gazette site as Official-Text; notices about private persons are not taken.
+  Telecom Regulatory Authority of India (TRAI), https://www.trai.gov.in (used for regulators/trai/)
+    Terms (read 2026-11-21, https://www.trai.gov.in/disclaimer): disclaimer: "it cannot be guaranteed that Material
+    available on the above website constitutes exact reproduction of officially adopted text"; "Copyright (c) 2024
+    TRAI. All rights reserved". Regulations and notifications are Gazette matter (2.1 (i)); directions are taken as
+    official text with the source named in each commit.
 
 3.1 Acts and the Constitution in this repository, as first published here
 
