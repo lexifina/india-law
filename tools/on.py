@@ -183,7 +183,10 @@ class Reader:
         self._rows: dict[str, list] = {}
 
     def name(self, act: str) -> str:
-        """The act's name in Corrects, for an act given by name or by path."""
+        """The act's name in Corrects, for an act given by name or by path (under any of its names, data/paths.json)."""
+        for p in aliases(act.rstrip('/')):
+            if p in self.alias:
+                return self.alias[p]
         return self.alias.get(act.rstrip('/'), act)
 
     def path(self, act: str) -> str:
@@ -198,7 +201,9 @@ class Reader:
         return self._rows[p]
 
     def _base(self, commit: str, path: str) -> dict[str, str]:
-        files = _ls(self.repo, commit, path)
+        # the act's name in that commit (data/paths.json), its files given under `path`
+        old = next((p for p in aliases(path) if _ls(self.repo, commit, p)), path)
+        files = {path + f[len(old):]: o for f, o in _ls(self.repo, commit, old).items()}
         if path.endswith('.md'):
             return files
         return {f: o for f, o in files.items() if f.endswith('.md') and not f.endswith('/README.md')}
@@ -349,7 +354,7 @@ def corrected(day: str, args: list[str], show_law: bool, rd_main: Reader, rd_fut
     if not files:
         sys.exit(f'{act} is not in the record on {day}: it took effect later, or the name is wrong (see `python tools/on.py {day}`).')
     if len(args) > 2 or rd.path(act).endswith('.md'):
-        path = rd.path(act) if len(args) == 2 else resolve('', act, args[2], sorted(files))
+        path = rd.path(act) if len(args) == 2 else resolve('', rd.path(act), args[2], sorted(files))
         if not path or path not in files:
             sys.exit(f'{act}/{args[2]} was not in the text on {day} (it may have been inserted later or removed earlier).')
         if show_law:
