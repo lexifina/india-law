@@ -11,7 +11,7 @@ The law of India as a git history: one file per section (per article for the Con
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is India's national law, which global-law reads at `india/national/acts/`.
 
-**What is in it now:** 6,776,377 commits, as of 23 November 2026. The Constitution (1 May 2024 edition) and 99 central Acts with their sections, plus 322 amending Acts and 24 ordinances as enacted. 17,339 Gazette of India rules, notifications and orders, 2020 to 2026. State law: 308 Acts, 335 amending Acts and 160 ordinances of Maharashtra and Goa, and 37,025 gazette items from 25 states and 5 union territories. 1,547 circulars, directions, notifications and regulations of IBBI, IRDAI, PFRDA and TRAI. 35,262 Supreme Court judgments, 1950 to 2026. 6,679,561 judgments and final orders of all 25 High Courts, so far mostly from 2021 to 2026. 4,242 NCLAT orders, 2017 to 2021.
+**What is in it now:** 15,371,645 commits, as of 24 November 2026. The Constitution (1 May 2024 edition) and 455 central Acts with their sections, plus 322 amending Acts and 24 ordinances as enacted. 22,020 Gazette of India rules, notifications and orders, 1950 to 2026. State law: 308 Acts, 336 amending Acts and 163 ordinances of Maharashtra and Goa, and 41,765 gazette items from 25 states and 5 union territories. 1,547 circulars, directions, notifications and regulations of IBBI, IRDAI, PFRDA and TRAI. 35,262 Supreme Court judgments, 1950 to 2026. 15,265,035 judgments and final orders of all 25 High Courts, mostly from 2011 to 2026. 4,242 NCLAT orders, 2017 to 2021.
 
 **Held back for now:**
 
