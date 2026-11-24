@@ -13,13 +13,15 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** 15,371,645 commits, as of 24 November 2026. The Constitution (1 May 2024 edition) and 455 central Acts with their sections, plus 322 amending Acts and 24 ordinances as enacted. 22,020 Gazette of India rules, notifications and orders, 1950 to 2026. State law: 308 Acts, 336 amending Acts and 163 ordinances of Maharashtra and Goa, and 41,765 gazette items from 25 states and 5 union territories. 1,547 circulars, directions, notifications and regulations of IBBI, IRDAI, PFRDA and TRAI. 35,262 Supreme Court judgments, 1950 to 2026. 15,265,035 judgments and final orders of all 25 High Courts, mostly from 2011 to 2026. 4,242 NCLAT orders, 2017 to 2021.
 
-**Held back for now:**
+**Held back when collection paused on 24 November 2026:**
 
-- about 400,000 interim High Court orders (orders not marked final in the courts' records): they will be added after the final judgments;
+- 274,878 interim High Court orders, stored but not yet added, and 443,875 orders the courts' records do not mark final;
 - about 50,000 land-acquisition notices (23,198 in the Gazette of India, 26,875 in state gazettes): they are left out, not held;
 - about 240 central Acts that come into force on a day the Government notifies, until that notification is found (45 dated so far);
 - about 70 state reprints that do not print a full "as modified up to" date (reprints that print one are dated on that day, as consolidated snapshots);
-- about 235,000 High Court PDFs whose text layer is broken or missing, and 7,000 not in English, for a later pass.
+- about 1,350,000 High Court PDFs whose text layer is garbled, 300,000 with no text layer, 38,000 that cannot be read and 35,000 not in English, for a later pass;
+- about 770 central Acts found on India Code: 427 whose PDF prints no "As on" date, 228 whose sections did not split cleanly, and 116 scans with no text;
+- 1,771 gazette items whose folder year differs from the year in their file name (97 in the Gazette of India, most in Haryana, Odisha and Goa), to be checked: some are misread dates.
 
 Judgments in sexual-offence, POCSO, juvenile-justice and matrimonial cases are never included: they are left out, not held.
 
@@ -79,7 +81,7 @@ Each Act's version is credited to the Act itself (`Act 37 of 2020`), and the Cod
 - **Amendments.** Each Act is its text as enacted, and the Constitution one consolidated edition; amendments are not replayed (the Constitution's 106, or any Finance Act changes to the Income-tax Act).
 - **Staged commencement.** The Companies Act, 2013 and the Code on Social Security, 2020 commenced in stages; each Act here carries one day.
 - **Schedules and margins.** The Schedules, the marginal section headings, the Constitution's Appendices and its amendment footnotes are left out; tables in the Income-tax Act are flattened, one cell per line.
-- **Most of India's law, so far.** About nine in ten central Acts, Gazette of India items before 2022, the Acts of every state but Maharashtra and Goa, most High Court judgments before 2024 (that pass runs from the newest year back), and the lower courts and most tribunals are not here yet.
+- **Much of India's law.** About half of the central Acts (455 of roughly 870 are here), including the Indian Penal Code, the Codes of Civil and Criminal Procedure and the Evidence Act; most Gazette of India items before 2020; the Acts of every state but Maharashtra and Goa; and the lower courts and most tribunals are not here. Collection paused on 24 November 2026.
 
 ## Sources
 
@@ -87,6 +89,7 @@ Each Act's version is credited to the Act itself (`Act 37 of 2020`), and the Cod
 | --- | --- | --- | --- |
 | [e-Gazette](https://egazette.gov.in) (Gazette of India) | Official Gazette | no, each Act as enacted | Acts and ordinances as enacted, commencement notifications, and Gazette of India rules, notifications and orders |
 | [Legislative Department](https://legislative.gov.in/constitution-of-india/) (Ministry of Law and Justice) | Official consolidated text | no, the edition as on 1 May 2024 | The Constitution of India, Preamble and Articles 1 to 395 |
+| [India Code](https://indiacode.gov.in) (Legislative Department) | Official consolidated text | no, each Act as on the date its PDF prints | 355 central Acts as consolidated snapshots (`Kind: consolidated snapshot`), dated by the "As on" date on the PDF's cover, not by their commencement |
 | [Internet Archive](https://archive.org/details/gazetteofindia) (gazetteofindia and the state gazette collections) | Copies of the official Gazette PDFs | no, each item as published | Most Acts and Gazette of India items, and the state gazette items; each commit also names the official file |
 | [AWS Open Data](https://registry.opendata.aws/indian-supreme-court-judgments/) (Indian Supreme Court and [High Court](https://registry.opendata.aws/indian-high-court-judgments/) Judgments, Dattam Labs, CC BY 4.0) | Judgments, collected from the courts' portals | no, each judgment as decided | The Supreme Court and High Court judgments |
 | [Law and Judiciary Department, Maharashtra](https://old-lj.maharashtra.gov.in) and [Government of Goa](https://www.goa.gov.in/government/acts-and-rules/) | Official reprints and Acts | no, the current reprint or the Act as enacted | Maharashtra and Goa Acts and ordinances |

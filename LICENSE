@@ -63,6 +63,12 @@ License or any licence other than CC0 1.0.
     (robots.txt 404, read 2026-11-21); the Department's site legislative.gov.in could not be read from here (HTTP 403,
     2026-11-02), so its website policy has not been read. Files are used only where a reachable page or the store's
     own listing links them.
+  India Code, indiacode.gov.in (Legislative Department, Ministry of Law and Justice; formerly indiacode.nic.in, which
+    redirects there since 2026-11): consolidated texts of central Acts, used for 355 Acts under central/acts/ as
+    consolidated snapshots dated by the "As on" date printed on each PDF. Terms: the site is a single-page application
+    and no terms or copyright page could be read from here (2026-11-24); the texts are Acts of Parliament, taken
+    under 2.1 (ii) with original matter (the commit records and notes), and Government works first published
+    before 1966 are in the public domain (2.2). Each commit names the India Code PDF as its Source.
   Internet Archive, archive.org: scans and metadata of official publications, used as a mirror and credited as such,
     with the official source recorded where the item names one. The gazetteofindia collection (uploaded by Public
     Resource, crawler github.com/sushant354/egazette) carries no licence statement on its items (read 2026-11-21); its

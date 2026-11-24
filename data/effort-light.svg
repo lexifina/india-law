@@ -3,23 +3,23 @@
 <defs><linearGradient id="yg-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a7f4b"/><stop offset="1" stop-color="#1a7f4b" stop-opacity="0.35"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="879" height="816" rx="8" fill="#ffffff" stroke="#dfe5e1"/>
 <rect x="710.6" y="27" width="141.4" height="24" rx="12" fill="#f4f6f5"/>
-<text x="781.3" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#5f6e66">record to Nov 20, 2026</text>
+<text x="781.3" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#5f6e66">record to Nov 21, 2026</text>
 <text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#14201a">Indian law as a git history</text>
 <rect x="28" y="70" width="824" height="72" rx="8" fill="#f4f6f5"/>
-<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">1,248</text>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">1,608</text>
 <text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">acts</text>
-<line x1="144.1" y1="86" x2="144.1" y2="126" stroke="#dfe5e1"/>
-<text x="160.1" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">6,626,080</text>
-<text x="160.1" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">changes, as commits</text>
-<line x1="311.5" y1="86" x2="311.5" y2="126" stroke="#dfe5e1"/>
-<text x="327.5" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">6,645,127</text>
-<text x="327.5" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">provision files</text>
-<line x1="478.8" y1="86" x2="478.8" y2="126" stroke="#dfe5e1"/>
-<text x="494.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">1,620</text>
-<text x="494.8" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">laws and publishers credited</text>
-<line x1="684.6" y1="86" x2="684.6" y2="126" stroke="#dfe5e1"/>
-<text x="700.6" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">1939–2026</text>
-<text x="700.6" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">years of history</text>
+<line x1="139.0" y1="86" x2="139.0" y2="126" stroke="#dfe5e1"/>
+<text x="155.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">15,371,614</text>
+<text x="155.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">changes, as commits</text>
+<line x1="314.0" y1="86" x2="314.0" y2="126" stroke="#dfe5e1"/>
+<text x="330.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">15,407,559</text>
+<text x="330.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">provision files</text>
+<line x1="489.1" y1="86" x2="489.1" y2="126" stroke="#dfe5e1"/>
+<text x="505.1" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">2,020</text>
+<text x="505.1" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">laws and publishers credited</text>
+<line x1="689.8" y1="86" x2="689.8" y2="126" stroke="#dfe5e1"/>
+<text x="705.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">1922–2026</text>
+<text x="705.8" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">years of history</text>
 <rect x="28" y="160" width="824" height="236" rx="8" fill="#f4f6f5"/>
 <text x="46" y="188" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Changes by the year they took effect</text>
 <line x1="90" y1="346.0" x2="834" y2="346.0" stroke="#e8ede9"/>
@@ -28,98 +28,103 @@
 <text x="82" y="281.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1,000,000</text>
 <line x1="90" y1="208.0" x2="834" y2="208.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
 <text x="82" y="212.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2,000,000</text>
-<rect x="90.40" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1939: 1 change took effect</title></rect>
-<text x="102.7" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1940</text>
-<rect x="149.58" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1946: 1 change took effect</title></rect>
-<rect x="183.40" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1950: 33 changes took effect</title></rect>
-<text x="187.2" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1950</text>
-<rect x="191.85" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1951: 52 changes took effect</title></rect>
-<rect x="200.31" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1952: 72 changes took effect</title></rect>
-<rect x="208.76" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1953: 91 changes took effect</title></rect>
-<rect x="217.22" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1954: 123 changes took effect</title></rect>
-<rect x="225.67" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1955: 79 changes took effect</title></rect>
-<rect x="234.13" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1956: 79 changes took effect</title></rect>
-<rect x="242.58" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1957: 114 changes took effect</title></rect>
-<rect x="251.04" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1958: 132 changes took effect</title></rect>
-<rect x="259.49" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1959: 176 changes took effect</title></rect>
-<rect x="267.95" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1960: 267 changes took effect</title></rect>
-<text x="271.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1960</text>
-<rect x="276.40" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1961: 340 changes took effect</title></rect>
-<rect x="284.85" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1962: 350 changes took effect</title></rect>
-<rect x="293.31" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1963: 248 changes took effect</title></rect>
-<rect x="301.76" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1964: 277 changes took effect</title></rect>
-<rect x="310.22" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1965: 301 changes took effect</title></rect>
-<rect x="318.67" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1966: 264 changes took effect</title></rect>
-<rect x="327.13" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1967: 298 changes took effect</title></rect>
-<rect x="335.58" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1968: 338 changes took effect</title></rect>
-<rect x="344.04" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1969: 334 changes took effect</title></rect>
-<rect x="352.49" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1970: 248 changes took effect</title></rect>
-<text x="356.3" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1970</text>
-<rect x="360.95" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1971: 349 changes took effect</title></rect>
-<rect x="369.40" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1972: 292 changes took effect</title></rect>
-<rect x="377.85" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1973: 246 changes took effect</title></rect>
-<rect x="386.31" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1974: 272 changes took effect</title></rect>
-<rect x="394.76" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1975: 329 changes took effect</title></rect>
-<rect x="403.22" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1976: 339 changes took effect</title></rect>
-<rect x="411.67" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1977: 237 changes took effect</title></rect>
-<rect x="420.13" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1978: 257 changes took effect</title></rect>
-<rect x="428.58" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1979: 268 changes took effect</title></rect>
-<rect x="437.04" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1980: 231 changes took effect</title></rect>
-<text x="440.9" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1980</text>
-<rect x="445.49" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1981: 203 changes took effect</title></rect>
-<rect x="453.95" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1982: 101 changes took effect</title></rect>
-<rect x="462.40" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1983: 187 changes took effect</title></rect>
-<rect x="470.85" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1984: 202 changes took effect</title></rect>
-<rect x="479.31" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1985: 249 changes took effect</title></rect>
-<rect x="487.76" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1986: 283 changes took effect</title></rect>
-<rect x="496.22" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1987: 377 changes took effect</title></rect>
-<rect x="504.67" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1988: 356 changes took effect</title></rect>
-<rect x="513.13" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1989: 386 changes took effect</title></rect>
-<rect x="521.58" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1990: 396 changes took effect</title></rect>
-<text x="525.4" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1990</text>
-<rect x="530.04" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1991: 337 changes took effect</title></rect>
-<rect x="538.49" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1992: 351 changes took effect</title></rect>
-<rect x="546.95" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1993: 394 changes took effect</title></rect>
-<rect x="555.40" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1994: 602 changes took effect</title></rect>
-<rect x="563.85" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1995: 901 changes took effect</title></rect>
-<rect x="572.31" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1996: 1,491 changes took effect</title></rect>
-<rect x="580.76" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1997: 824 changes took effect</title></rect>
-<rect x="589.22" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1998: 496 changes took effect</title></rect>
-<rect x="597.67" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1999: 576 changes took effect</title></rect>
-<rect x="606.13" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2000: 614 changes took effect</title></rect>
-<text x="610.0" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2000</text>
-<rect x="614.58" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2001: 633 changes took effect</title></rect>
-<rect x="623.04" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2002: 583 changes took effect</title></rect>
-<rect x="631.49" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2003: 749 changes took effect</title></rect>
-<rect x="639.95" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2004: 724 changes took effect</title></rect>
-<rect x="648.40" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2005: 662 changes took effect</title></rect>
-<rect x="656.85" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2006: 1,152 changes took effect</title></rect>
-<rect x="665.31" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2007: 1,395 changes took effect</title></rect>
-<rect x="673.76" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2008: 1,500 changes took effect</title></rect>
-<rect x="682.22" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2009: 1,282 changes took effect</title></rect>
-<rect x="690.67" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2010: 1,021 changes took effect</title></rect>
-<text x="694.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2010</text>
-<rect x="699.13" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2011: 910 changes took effect</title></rect>
-<rect x="707.58" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2012: 946 changes took effect</title></rect>
-<rect x="716.04" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2013: 1,157 changes took effect</title></rect>
-<rect x="724.49" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2014: 1,648 changes took effect</title></rect>
-<rect x="732.95" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2015: 2,038 changes took effect</title></rect>
-<rect x="741.40" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2016: 1,862 changes took effect</title></rect>
-<rect x="749.85" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2017: 2,848 changes took effect</title></rect>
-<rect x="758.31" y="344.5" width="7.65" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2018: 3,390 changes took effect</title></rect>
-<rect x="766.76" y="335.9" width="7.65" height="10.1" rx="1.5" fill="url(#yg-light)"><title>2019: 146,704 changes took effect</title></rect>
-<rect x="775.22" y="331.3" width="7.65" height="14.7" rx="1.5" fill="url(#yg-light)"><title>2020: 213,163 changes took effect</title></rect>
-<text x="779.0" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2020</text>
-<rect x="783.67" y="299.2" width="7.65" height="46.8" rx="1.5" fill="url(#yg-light)"><title>2021: 678,666 changes took effect</title></rect>
-<rect x="792.13" y="270.4" width="7.65" height="75.6" rx="1.5" fill="url(#yg-light)"><title>2022: 1,095,200 changes took effect</title></rect>
-<rect x="800.58" y="249.2" width="7.65" height="96.8" rx="1.5" fill="url(#yg-light)"><title>2023: 1,403,593 changes took effect</title></rect>
-<text x="804.4" y="241.2" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#14201a">1,403,593 in 2023</text>
-<rect x="809.04" y="266.6" width="7.65" height="79.4" rx="1.5" fill="url(#yg-light)"><title>2024: 1,150,871 changes took effect</title></rect>
-<rect x="817.49" y="273.2" width="7.65" height="72.8" rx="1.5" fill="url(#yg-light)"><title>2025: 1,055,107 changes took effect</title></rect>
-<rect x="825.95" y="287.9" width="7.65" height="58.1" rx="1.5" fill="url(#yg-light)"><title>2026: 841,912 changes took effect</title></rect>
-<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">6,626,080 changes dated by their in-force day.</text>
+<rect x="90.40" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1922: 1 change took effect</title></rect>
+<text x="150.2" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1930</text>
+<rect x="182.51" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1935: 1 change took effect</title></rect>
+<rect x="203.77" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1938: 1 change took effect</title></rect>
+<rect x="210.86" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1939: 1 change took effect</title></rect>
+<text x="221.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1940</text>
+<rect x="260.46" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1946: 1 change took effect</title></rect>
+<rect x="281.71" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1949: 1 change took effect</title></rect>
+<rect x="288.80" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1950: 102 changes took effect</title></rect>
+<text x="291.9" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1950</text>
+<rect x="295.89" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1951: 85 changes took effect</title></rect>
+<rect x="302.97" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1952: 243 changes took effect</title></rect>
+<rect x="310.06" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1953: 215 changes took effect</title></rect>
+<rect x="317.14" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1954: 342 changes took effect</title></rect>
+<rect x="324.23" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1955: 301 changes took effect</title></rect>
+<rect x="331.31" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1956: 314 changes took effect</title></rect>
+<rect x="338.40" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1957: 525 changes took effect</title></rect>
+<rect x="345.49" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1958: 459 changes took effect</title></rect>
+<rect x="352.57" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1959: 385 changes took effect</title></rect>
+<rect x="359.66" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1960: 495 changes took effect</title></rect>
+<text x="362.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1960</text>
+<rect x="366.74" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1961: 518 changes took effect</title></rect>
+<rect x="373.83" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1962: 500 changes took effect</title></rect>
+<rect x="380.91" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1963: 256 changes took effect</title></rect>
+<rect x="388.00" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1964: 280 changes took effect</title></rect>
+<rect x="395.09" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1965: 302 changes took effect</title></rect>
+<rect x="402.17" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1966: 265 changes took effect</title></rect>
+<rect x="409.26" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1967: 301 changes took effect</title></rect>
+<rect x="416.34" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1968: 340 changes took effect</title></rect>
+<rect x="423.43" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1969: 334 changes took effect</title></rect>
+<rect x="430.51" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1970: 248 changes took effect</title></rect>
+<text x="433.7" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1970</text>
+<rect x="437.60" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1971: 563 changes took effect</title></rect>
+<rect x="444.69" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1972: 294 changes took effect</title></rect>
+<rect x="451.77" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1973: 247 changes took effect</title></rect>
+<rect x="458.86" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1974: 281 changes took effect</title></rect>
+<rect x="465.94" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1975: 329 changes took effect</title></rect>
+<rect x="473.03" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1976: 340 changes took effect</title></rect>
+<rect x="480.11" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1977: 237 changes took effect</title></rect>
+<rect x="487.20" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1978: 257 changes took effect</title></rect>
+<rect x="494.29" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1979: 269 changes took effect</title></rect>
+<rect x="501.37" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1980: 235 changes took effect</title></rect>
+<text x="504.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1980</text>
+<rect x="508.46" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1981: 206 changes took effect</title></rect>
+<rect x="515.54" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1982: 102 changes took effect</title></rect>
+<rect x="522.63" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1983: 187 changes took effect</title></rect>
+<rect x="529.71" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1984: 202 changes took effect</title></rect>
+<rect x="536.80" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1985: 256 changes took effect</title></rect>
+<rect x="543.89" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1986: 285 changes took effect</title></rect>
+<rect x="550.97" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1987: 380 changes took effect</title></rect>
+<rect x="558.06" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1988: 356 changes took effect</title></rect>
+<rect x="565.14" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1989: 387 changes took effect</title></rect>
+<rect x="572.23" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1990: 396 changes took effect</title></rect>
+<text x="575.4" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1990</text>
+<rect x="579.31" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1991: 342 changes took effect</title></rect>
+<rect x="586.40" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1992: 352 changes took effect</title></rect>
+<rect x="593.49" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1993: 530 changes took effect</title></rect>
+<rect x="600.57" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1994: 624 changes took effect</title></rect>
+<rect x="607.66" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1995: 1,399 changes took effect</title></rect>
+<rect x="614.74" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1996: 5,435 changes took effect</title></rect>
+<rect x="621.83" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1997: 5,797 changes took effect</title></rect>
+<rect x="628.91" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1998: 7,420 changes took effect</title></rect>
+<rect x="636.00" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1999: 5,637 changes took effect</title></rect>
+<rect x="643.09" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2000: 9,898 changes took effect</title></rect>
+<text x="646.2" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2000</text>
+<rect x="650.17" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2001: 9,195 changes took effect</title></rect>
+<rect x="657.26" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2002: 9,138 changes took effect</title></rect>
+<rect x="664.34" y="344.5" width="6.29" height="1.5" rx="1.5" fill="url(#yg-light)"><title>2003: 13,911 changes took effect</title></rect>
+<rect x="671.43" y="342.7" width="6.29" height="3.3" rx="1.5" fill="url(#yg-light)"><title>2004: 48,007 changes took effect</title></rect>
+<rect x="678.51" y="339.3" width="6.29" height="6.7" rx="1.5" fill="url(#yg-light)"><title>2005: 97,423 changes took effect</title></rect>
+<rect x="685.60" y="338.0" width="6.29" height="8.0" rx="1.5" fill="url(#yg-light)"><title>2006: 115,931 changes took effect</title></rect>
+<rect x="692.69" y="333.7" width="6.29" height="12.3" rx="1.5" fill="url(#yg-light)"><title>2007: 178,934 changes took effect</title></rect>
+<rect x="699.77" y="328.9" width="6.29" height="17.1" rx="1.5" fill="url(#yg-light)"><title>2008: 247,623 changes took effect</title></rect>
+<rect x="706.86" y="324.6" width="6.29" height="21.4" rx="1.5" fill="url(#yg-light)"><title>2009: 310,543 changes took effect</title></rect>
+<rect x="713.94" y="320.1" width="6.29" height="25.9" rx="1.5" fill="url(#yg-light)"><title>2010: 375,944 changes took effect</title></rect>
+<text x="717.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2010</text>
+<rect x="721.03" y="316.1" width="6.29" height="29.9" rx="1.5" fill="url(#yg-light)"><title>2011: 433,161 changes took effect</title></rect>
+<rect x="728.11" y="312.3" width="6.29" height="33.7" rx="1.5" fill="url(#yg-light)"><title>2012: 488,573 changes took effect</title></rect>
+<rect x="735.20" y="313.2" width="6.29" height="32.8" rx="1.5" fill="url(#yg-light)"><title>2013: 475,929 changes took effect</title></rect>
+<rect x="742.29" y="311.8" width="6.29" height="34.2" rx="1.5" fill="url(#yg-light)"><title>2014: 495,332 changes took effect</title></rect>
+<rect x="749.37" y="305.3" width="6.29" height="40.7" rx="1.5" fill="url(#yg-light)"><title>2015: 589,450 changes took effect</title></rect>
+<rect x="756.46" y="301.4" width="6.29" height="44.6" rx="1.5" fill="url(#yg-light)"><title>2016: 646,329 changes took effect</title></rect>
+<rect x="763.54" y="299.8" width="6.29" height="46.2" rx="1.5" fill="url(#yg-light)"><title>2017: 669,205 changes took effect</title></rect>
+<rect x="770.63" y="277.3" width="6.29" height="68.7" rx="1.5" fill="url(#yg-light)"><title>2018: 995,531 changes took effect</title></rect>
+<rect x="777.71" y="272.4" width="6.29" height="73.6" rx="1.5" fill="url(#yg-light)"><title>2019: 1,067,220 changes took effect</title></rect>
+<rect x="784.80" y="298.6" width="6.29" height="47.4" rx="1.5" fill="url(#yg-light)"><title>2020: 687,127 changes took effect</title></rect>
+<text x="787.9" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2020</text>
+<rect x="791.89" y="275.5" width="6.29" height="70.5" rx="1.5" fill="url(#yg-light)"><title>2021: 1,021,032 changes took effect</title></rect>
+<rect x="798.97" y="245.4" width="6.29" height="100.6" rx="1.5" fill="url(#yg-light)"><title>2022: 1,458,671 changes took effect</title></rect>
+<rect x="806.06" y="241.8" width="6.29" height="104.2" rx="1.5" fill="url(#yg-light)"><title>2023: 1,509,847 changes took effect</title></rect>
+<text x="809.2" y="233.8" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#14201a">1,509,847 in 2023</text>
+<rect x="813.14" y="263.7" width="6.29" height="82.3" rx="1.5" fill="url(#yg-light)"><title>2024: 1,192,414 changes took effect</title></rect>
+<rect x="820.23" y="256.5" width="6.29" height="89.5" rx="1.5" fill="url(#yg-light)"><title>2025: 1,297,365 changes took effect</title></rect>
+<rect x="827.31" y="284.7" width="6.29" height="61.3" rx="1.5" fill="url(#yg-light)"><title>2026: 887,712 changes took effect</title></rect>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">15,371,606 changes dated by their in-force day; 8 carry an impossible in-force date (before 1200), not shown.</text>
 <rect x="28" y="412" width="824" height="197" rx="8" fill="#f4f6f5"/>
-<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Completeness, checked against the official sources on Nov 23, 2026</text>
+<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Completeness, checked against the official sources on Nov 24, 2026</text>
 <text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Constitution</text>
 <text x="46.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">held in the repository</text>
 <g><title>Constitution: 100%</title><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
@@ -137,9 +142,9 @@
 <g><title>Case law: 100%</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
 <text x="834.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100%</text>
 <text x="46.0" y="560" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">National law</text>
-<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">estimate (medium confidence, range 9.9–11.6%)</text>
-<g><title>National law: 11%</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="554.0" width="7.1" height="4" rx="2" fill="#c0392b"/></g>
-<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">~11%</text>
+<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">estimate (medium confidence, range 49.5–53.5%)</text>
+<g><title>National law: 52%</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="554.0" width="32.4" height="4" rx="2" fill="#9a6200"/></g>
+<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">~52%</text>
 <rect x="28" y="625" width="824" height="166" rx="8" fill="#f4f6f5"/>
 <text x="46" y="653" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Correctness of what is held</text>
 <text x="46.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Changes with an in-force date</text>
